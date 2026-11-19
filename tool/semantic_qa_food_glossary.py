@@ -19,7 +19,7 @@ LEAK = {
     "es": re.compile(r"cipollott|cebollino", re.I),
     "fr": re.compile(r"ciboulett", re.I),
     "de": re.compile(r"\b(?:Zwiebeln?|Schnittlauch|Unterlegscheiben)\b", re.I),
-    "pt": re.compile(r"\bcebolinho\b|\bcebola\b(?!s de rama)|cipollott", re.I),
+    "pt": re.compile(r"\bcebolinho\b|\bcebola\b(?!\s+de rama)|cipollott", re.I),
 }
 
 def is_mistranslation(locale: str, name: str) -> bool:
@@ -53,10 +53,10 @@ def scan(root: Path = ROOT) -> dict:
     for rid in recipe_ids:
         for ingredient_id, data in packs[SOURCE][rid]["ingredientTexts"].items():
             original = data.get("name", "")
-            if "cipollott" not in (ingredient_id + " " + original).casefold():
-                continue
+            # The ID of a compound ingredient may include cipollotto even when
+            # this *specific* row names sesame, egg or another component.
             if "cipollott" not in original.casefold():
-                raise ValueError(f"Source ingredient identity unexpectedly differs: {rid}/{ingredient_id}")
+                continue
             source_ingredients += 1
             for locale in TARGETS:
                 item = packs[locale][rid]["ingredientTexts"].get(ingredient_id)
