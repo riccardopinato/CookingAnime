@@ -67,7 +67,7 @@ def translate(source: dict, candidate: dict, locale: str) -> dict:
         "description": candidate["description"],
         "animeContext": candidate["animeContext"],
         "ingredients": {
-            x["id"]: {"name": x["name"], "note": x.get("note")}
+            x["id"].rstrip("_"): {"name": x["name"], "note": x.get("note")}
             for x in ingredients
         },
         "steps": {x["id"]: x["instruction"] for x in steps},
@@ -93,6 +93,7 @@ def reconstruct(existing: dict, source: dict, candidates: dict) -> dict:
     if existing.get("imageAssetId") is not None:
         raise ValueError("Artwork present: contentVersion requires semantic asset review")
     new = dict(existing)
+    new["sourceNote"] = (existing.get("sourceNote") or "") + " F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119."
     new["contentVersion"] = max(
         existing["contentVersion"] + 1, source["targetContentVersion"]
     )
@@ -101,7 +102,7 @@ def reconstruct(existing: dict, source: dict, candidates: dict) -> dict:
     new["prepMinutes"] = source["times"]["prepMinutes"]
     new["cookMinutes"] = source["times"]["sourceCookMinutes"]
     new["ingredients"] = [
-        {"id": x["id"], "quantity": x["quantity"], "unit": x["unit"]}
+        {"id": x["id"].rstrip("_"), "quantity": x["quantity"], "unit": x["unit"]}
         for x in source["ingredients"]
     ]
     new["steps"] = [
