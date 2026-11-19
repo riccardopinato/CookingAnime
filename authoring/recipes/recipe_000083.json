@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000083",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Ramen Daisuki Koizumi-san",
   "animeReferences": [
@@ -304,7 +304,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "cipollotto",
+          "name": "cebolleta",
           "note": null
         }
       },
@@ -368,7 +368,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "ciboulette",
+          "name": "cébette",
           "note": null
         }
       },
@@ -432,7 +432,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         }
       },
@@ -496,7 +496,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "cebolinho",
+          "name": "cebola de rama",
           "note": null
         }
       },

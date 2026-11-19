@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000100",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Persona 5",
   "animeReferences": [
@@ -140,7 +140,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "fresh chopped onion",
+          "name": "fresh spring onion, chopped",
           "note": null
         }
       },
@@ -151,7 +151,7 @@
         "step_4": "Turn off the heat, incorporate the curry roux little by little until it is completely melted, then rekindle over low heat.",
         "step_5": "Cook another 5 minutes stirring: the broth must veil the spoon but remain fluid enough to wrap the udon.",
         "step_6": "Cook the udon noodles in the separate pot of water, drain thoroughly and divide among the bowls.",
-        "step_7": "Pour the boiling curry on the udon, complete with onion and serve immediately."
+        "step_7": "Pour the boiling curry on the udon, complete with spring onion and serve immediately."
       }
     },
     "it": {
@@ -236,7 +236,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "cipollotto fresco picado",
+          "name": "cebolleta fresca picada",
           "note": null
         }
       },
@@ -284,7 +284,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Ciboulette frais haché",
+          "name": "cébette fraîche hachée",
           "note": null
         }
       },
@@ -332,7 +332,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Frühlingszwiebeln, frisch gehackt",
+          "name": "frische Frühlingszwiebel, gehackt",
           "note": null
         }
       },
@@ -343,7 +343,7 @@
         "step_4": "Schalten Sie das Feuer aus, fügen Sie den Curryroux kurz nach und nach ein, bis er vollständig aufgelöst ist, dann zünden Sie es mit niedrigem Feuer wieder an.",
         "step_5": "Weitere 5 Minuten unter Rühren garen: Die Brühe soll den Löffel leicht überziehen, aber flüssig genug bleiben, um die Udon-Nudeln zu umhüllen.",
         "step_6": "Die Udon-Nudeln im separaten Wasser garen, gründlich abgießen und auf die Schüsseln verteilen.",
-        "step_7": "Gießen Sie heißes Curry auf Udon, komplett mit Zwiebeln und servieren Sie sofort."
+        "step_7": "Gießen Sie heißes Curry auf Udon, komplett mit Frühlingszwiebeln und servieren Sie sofort."
       }
     },
     "pt": {
@@ -380,7 +380,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "cebola fresca picada",
+          "name": "cebola de rama fresca picada",
           "note": null
         }
       },
@@ -391,7 +391,7 @@
         "step_4": "Desligue o fogo, incorpore o curry roux pouco a pouco até que seja completamente derretido, em seguida, acenda a fogo baixo.",
         "step_5": "Cozinhe mais 5 minutos em agitação: o caldo deve velar a colher, mas permanecer fluido o suficiente para envolver o udon.",
         "step_6": "Coza os udon na água separada, escorra-os bem e distribua-os pelas tigelas.",
-        "step_7": "Verter o curry fervente no udon, completo com cebola e servir imediatamente."
+        "step_7": "Verter o curry fervente no udon, completo com cebola de rama e servir imediatamente."
       }
     }
   }

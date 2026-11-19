@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000092",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Gintama",
   "animeReferences": [
@@ -124,7 +124,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Sliced onions",
+          "name": "sliced spring onions",
           "note": null
         },
         "salsa_di_soia": {
@@ -220,7 +220,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Cebolletas cortadas",
+          "name": "cebolletas en rodajas",
           "note": null
         },
         "salsa_di_soia": {
@@ -242,10 +242,10 @@
       },
       "steps": {
         "step_1": "Lava los brotes de soja en agua fría, escólelos muy bien y séquelos: tienen que entrar en la sartén casi secos para permanecer crujientes.",
-        "step_2": "Corta tocino, zanahoria y cebolla en trozos delgados y prepara salsa de soja, dashi granular, pimienta y aceite de sésamo junto al wok.",
+        "step_2": "Corta tocino, zanahoria y cebolleta en trozos delgados y prepara salsa de soja, dashi granular, pimienta y aceite de sésamo junto al wok.",
         "step_3": "Calienta el wok a fuego alto y frota el tocino sin más grasa hasta que libera parte de su grasa y toma color.",
         "step_4": "Añade la zanahoria y salta durante aproximadamente 1 minuto, manteniendo el fuego alto.",
-        "step_5": "Mezclar brotes y cebolla y saltar enérgicamente durante unos 2 minutos: los brotes deben suavizarse apenas pero conservar mordiente.",
+        "step_5": "Mezclar brotes y cebolleta y saltar enérgicamente durante unos 2 minutos: los brotes deben suavizarse apenas pero conservar mordiente.",
         "step_6": "Sazona con salsa de soja y dashi, mezcla durante unos segundos y apaga antes de que se forme agua en el fondo.",
         "step_7": "Completa con pimienta negra y aceite de sésamo y sirve inmediatamente."
       }
@@ -268,7 +268,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "oignons coupés",
+          "name": "cébettes émincées",
           "note": null
         },
         "salsa_di_soia": {
@@ -293,7 +293,7 @@
         "step_2": "Coupez la poitrine de porc, la carotte et la cébette en fines lamelles. Préparez la sauce soja, le dashi, le poivre et l'huile de sésame à côté du wok.",
         "step_3": "Chauffez le wok à feu haut et roulez le bacon sans autre graisse jusqu'à ce qu'il libère une partie de sa graisse et prend de la couleur.",
         "step_4": "Ajoutez la carotte et sautez-la pendant environ 1 minute, en maintenant le feu haut.",
-        "step_5": "Combinez des bourgeons et des oignons et sautez vigoureusement pendant environ 2 minutes: les bourgeons doivent s'adoucir à peine mais conserver mordent.",
+        "step_5": "Combinez des bourgeons et des cébettes et sautez vigoureusement pendant environ 2 minutes: les bourgeons doivent s'adoucir à peine mais conserver mordent.",
         "step_6": "Assaisonnez avec de la sauce soja et des dashi, mélangez pendant quelques secondes et éteignez avant que l'eau ne se forme sur le fond.",
         "step_7": "Complétez avec du poivre noir et de l'huile de sésame et servez-vous immédiatement."
       }
@@ -316,7 +316,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Zwiebeln, geschnitten",
+          "name": "Frühlingszwiebeln, in Ringe geschnitten",
           "note": null
         },
         "salsa_di_soia": {
@@ -338,10 +338,10 @@
       },
       "steps": {
         "step_1": "Wasche die Sojasprossen in kaltem Wasser, streue sie sehr gut und trockne sie ab: sie müssen in die Pfanne fast trocken gehen, um knusprig zu bleiben.",
-        "step_2": "Schneide Speck, Karotte und Zwiebel in dünne Stücke und backe Sojasoße, Dashi-Granulat, Pfeffer und Sesamöl neben dem Wok.",
+        "step_2": "Schneide Speck, Karotte und Frühlingszwiebel in dünne Stücke und backe Sojasoße, Dashi-Granulat, Pfeffer und Sesamöl neben dem Wok.",
         "step_3": "Erhitzt den Wok mit hohem Fokus und rostet den Speck ohne andere Fette, bis er einen Teil seines Fetts freisetzt und Farbe annimmt.",
         "step_4": "Fügen Sie die Karotte hinzu und springen Sie für ca. 1 Minute, halten Sie das Feuer hoch.",
-        "step_5": "Kombinieren Sie Knospen und Zwiebeln und springen Sie kräftig für ungefähr 2 Minuten: die Knospen müssen gerade erweichen, aber beißen.",
+        "step_5": "Kombinieren Sie Knospen und Frühlingszwiebeln und springen Sie kräftig für ungefähr 2 Minuten: die Knospen müssen gerade erweichen, aber beißen.",
         "step_6": "Würze mit Sojasoße und Dashi, mische für ein paar Sekunden und schalte aus, bevor Wasser auf dem Boden entsteht.",
         "step_7": "Komplett mit schwarzem Pfeffer und Sesamöl und sofort servieren."
       }
@@ -364,7 +364,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Cebolas cortadas",
+          "name": "cebolas de rama às rodelas",
           "note": null
         },
         "salsa_di_soia": {
@@ -386,10 +386,10 @@
       },
       "steps": {
         "step_1": "Lave os brotos de soja em água fria, escorra-os muito bem e seque- os: eles devem entrar na panela quase seca para permanecer crocante.",
-        "step_2": "Corte o bacon, a cenoura e a cebolinha em pedaços finos. Deixe o molho de soja, o dashi granulado, a pimenta e o óleo de sésamo ao lado do wok.",
+        "step_2": "Corte o bacon, a cenoura e a cebola de rama em pedaços finos. Deixe o molho de soja, o dashi granulado, a pimenta e o óleo de sésamo ao lado do wok.",
         "step_3": "Aqueça o wok a fogo alto e dobre o bacon sem outras gorduras até que ele liberte parte da sua gordura e obtenha cor.",
         "step_4": "Adicione a cenoura e sal por cerca de 1 minuto, mantendo o fogo alto.",
-        "step_5": "Combinar botões e cebola e saltar vigorosamente por cerca de 2 minutos: os botões devem suavizar apenas, mas continuar mordendo.",
+        "step_5": "Combinar botões e cebola de rama e saltar vigorosamente por cerca de 2 minutos: os botões devem suavizar apenas, mas continuar mordendo.",
         "step_6": "Sazonar com molho de soja e dashi, misturar por alguns segundos e desligar antes que a água se forme no fundo.",
         "step_7": "Completar com pimenta preta e óleo de sésamo e servir imediatamente."
       }
