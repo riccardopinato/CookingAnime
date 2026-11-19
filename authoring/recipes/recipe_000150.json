@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000150",
-  "contentVersion": 4,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -283,7 +283,7 @@
         "step_5": "En la misma sartén, usando parte de la grasa del pato, tosta los toques de puerro hasta que estén bien dorados y ligeramente caramelizados.",
         "step_6": "En una olla, combina dashi, salsa de soja, mirin y azúcar.",
         "step_7": "Trae el caldo a ebullición, une los puerros tostados y las rebanadas de pato y deja que se calienten durante 2 minutos. Para una preparación doméstica prudente, comprueba con un termómetro que el centro de la pechuga de pato llegue al menos a 74 °C antes de servir. Los tiempos son orientativos y un hervor breve en el caldo no sustituye esta comprobación.",
-        "step_8": "Cocine los fideos soba en agua hirviendo durante unos 4 minutos; escúchelos, enjuáguelos bajo agua fría para eliminar el almidón superficial y calentarlos brevemente en agua caliente antes del servicio.",
+        "step_8": "Cocine los fideos soba en agua hirviendo durante unos 4 minutos; escúrrelos, enjuáguelos bajo agua fría para eliminar el almidón superficial y calentarlos brevemente en agua caliente antes del servicio.",
         "step_9": "Distribuye la soba en los cuencos y cúbrela con caldo caliente, rebanadas de pato y puerros.",
         "step_10": "Completa con corteza de yuzu rallado y sirves de inmediato."
       }
@@ -338,7 +338,7 @@
         "step_5": "Dans la même poêle, en utilisant une partie de la graisse du canard, il grille les touchets de poireau jusqu'à ce qu'ils soient bien dorés et légèrement caramélisés.",
         "step_6": "Dans une casserole, ajoutez des dashi, de la sauce soja, de la mirin et du sucre.",
         "step_7": "Apportez le bouillon à ébullition, ajoutez les poireaux grillés et les tranches de canard et laissez bouillir pendant 2 minutes. Pour une préparation domestique prudente, vérifiez avec un thermomètre que le magret de canard atteint au moins 74 °C à cœur avant de servir. Les durées sont indicatives ; le bref passage dans le bouillon ne remplace pas ce contrôle.",
-        "step_8": "Faites cuire les nouilles soba dans l'eau bouillante pendant environ 4 minutes; écolières, rincez-les sous l'eau froide pour éliminer l'amidon superficiel et réchauffez-les brièvement dans l'eau chaude avant le service.",
+        "step_8": "Faites cuire les nouilles soba dans l'eau bouillante pendant environ 4 minutes; égouttez-les, rincez-les sous l'eau froide pour éliminer l'amidon superficiel et réchauffez-les brièvement dans l'eau chaude avant le service.",
         "step_9": "Distribuez le soba dans les bols et couvrez-le avec le bouillon chaud, les tranches de canard et les poireaux.",
         "step_10": "Complétez avec de l'écorce de yuzu râpée et servez-vous tout de suite."
       }
@@ -357,7 +357,7 @@
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Japanische Lauch (Naganegi) in Löffeln von 4 cm Länge",
+          "name": "Japanische Lauch (Naganegi) in Stücken von 4 cm Länge",
           "note": null
         },
         "brodo_dashi_concentrato": {
@@ -448,7 +448,7 @@
         "step_5": "Na mesma panela, usando parte da gordura do pato, ele brinde pedaços de alho-francês até que estejam bem dourados e ligeiramente caramelizados.",
         "step_6": "Em um pote, adicione dashi, molho de soja, mirin e açúcar.",
         "step_7": "Traga o caldo a ferver, adicione os puerros torrados e fatias de pato e deixe- o cozir por 2 minutos. Para uma preparação doméstica prudente, confirme com um termómetro que o peito de pato atinge pelo menos 74 °C no centro antes de servir. Os tempos são indicativos; a passagem breve pelo caldo não substitui a medição.",
-        "step_8": "Cozinhe os fios de massa soba em água fervente por cerca de 4 minutos; drene- os, lave- os sob água fria para remover o amido de superfície e aqueça- os brevemente em água quente antes de servir.",
+        "step_8": "Cozinhe os fios de massa soba em água fervente por cerca de 4 minutos; escorra-os, lave- os sob água fria para remover o amido de superfície e aqueça- os brevemente em água quente antes de servir.",
         "step_9": "Distribua o soba nas tigelas e cubra- o com caldo quente, fatias de pato e puerros.",
         "step_10": "Completar com o zest yuzu ralado e servir imediatamente."
       }

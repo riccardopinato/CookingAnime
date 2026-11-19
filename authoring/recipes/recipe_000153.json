@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000153",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -168,12 +168,12 @@
         }
       },
       "steps": {
-        "step_1": "In a bowl, work the chicken ground with onion, ginger, corn starch, egg white, salt and pepper until the mixture is homogeneous and sticky.",
-        "step_2": "Divide the dough into 4 elongated portions and model it around the wooden skewers giving it an oval cylindrical shape.",
-        "step_3": "In a saucepan, reduce the components of the Tare sauce to syrupy consistency.",
-        "step_4": "Grill the skewers on a pan with a medium heat oil for 3-4 minutes per side.",
-        "step_5": "Bountifully brushed with Tare sauce in the last few minutes, turning them often.",
-        "step_6": "Serve the shiny, frosted skewers accompanied by a fresh egg yolk in a bowl where you can dip the meatballs. Cook the chicken meatballs to at least 74°C (165°F) at the centre, measured with a food thermometer. For dipping use only pasteurized egg yolk suitable for eating without cooking; never use unpasteurized raw yolk."
+        "step_1": "Mix the ground chicken with finely chopped spring onions, grated ginger, cornstarch, egg white, salt and pepper until sticky and uniform.",
+        "step_2": "Divide into four elongated portions and shape each firmly around a wooden skewer.",
+        "step_3": "Simmer the soy sauce, mirin, sake and sugar in a small pan until the tare glaze becomes syrupy.",
+        "step_4": "Pan-grill the chicken skewers with a little oil over medium heat for approximately 3–4 minutes per side, checking doneness rather than relying on time alone.",
+        "step_5": "Brush the skewers with tare during the final minutes, turning frequently to coat them evenly.",
+        "step_6": "Serve the glazed skewers with a separate bowl of pasteurized egg yolk suitable for uncooked consumption as a dipping sauce. Cook the chicken meatballs to at least 74°C (165°F) at the centre, measured with a food thermometer. For dipping use only pasteurized egg yolk suitable for eating without cooking; never use unpasteurized raw yolk."
       }
     },
     "it": {
@@ -286,12 +286,12 @@
         }
       },
       "steps": {
-        "step_1": "En un tazón, trabaja el molido de pollo con cebolla, jengibre, almidón de maíz, la clara de huevo, sal y pimienta hasta que el compuesto sea homogéneo y viscoso.",
-        "step_2": "Dividir la masa en 4 porciones alargadas y modelar alrededor de los pinchos de madera dándole una forma oval cilíndrica.",
-        "step_3": "En una cacerola, reduces los componentes de la salsa Tare hasta textura jarabea.",
-        "step_4": "Rejilla los pinchos en una sartén con un hilo de aceite a fuego medio durante 3-4 minutos por lado.",
-        "step_5": "Despelleja generosamente con la salsa Tare en los últimos minutos a menudo revolviéndolos.",
-        "step_6": "Servir los pinchos brillantes y glaseados acompañados por una yema de huevo fresca en un cuenco en el que mojar las albóndigas. Cocina las albóndigas de pollo hasta al menos 74 °C en el centro, comprobados con termómetro. Para mojar utiliza solo yema pasteurizada apta para consumo sin cocción; no uses yema cruda sin pasteurizar."
+        "step_1": "Mezcla el pollo picado con la cebolleta, el jengibre, la maicena, la clara de huevo, sal y pimienta hasta obtener una masa homogénea y pegajosa.",
+        "step_2": "Divide la mezcla en cuatro porciones alargadas y moldea cada una alrededor de una brocheta de madera.",
+        "step_3": "Reduce la salsa de soja, el mirin, el sake y el azúcar en un cazo hasta obtener una salsa tare de textura siruposa.",
+        "step_4": "Cocina las brochetas con un poco de aceite a fuego medio durante unos 3–4 minutos por lado; comprueba la cocción y no dependas únicamente del tiempo.",
+        "step_5": "Pincela con la salsa tare durante los últimos minutos y gira las brochetas para glasearlas uniformemente.",
+        "step_6": "Sirve las brochetas glaseadas con una yema pasteurizada apta para consumo sin cocción en un cuenco aparte para mojar. Cocina las albóndigas de pollo hasta al menos 74 °C en el centro, comprobados con termómetro. Para mojar utiliza solo yema pasteurizada apta para consumo sin cocción; no uses yema cruda sin pasteurizar."
       }
     },
     "fr": {
@@ -345,12 +345,12 @@
         }
       },
       "steps": {
-        "step_1": "Dans un bol, il travaille le moulin de poulet avec l'oignon, le gingembre, l'amidon de maïs, l'albume d'œuf, le sel et le poivre jusqu'à ce que le composé soit homogène et visqueux.",
-        "step_2": "Diviser la pâte en 4 portions allongées et façonnées autour des brochettes en bois en lui donnant une forme ovale cylindrique.",
-        "step_3": "Dans une casserole, réduisez les composants de la sauce Tare jusqu'à ce que la consistance sirupeuse.",
-        "step_4": "Grille les brochettes sur une poêle avec un fil d'huile à feu moyen pendant 3-4 minutes par côté.",
-        "step_5": "Éponge généreusement avec la sauce Tare dans les dernières minutes en les tournant souvent.",
-        "step_6": "Servez les brochettes brillantes et glacées accompagnées d'un jaune d'oeuf frais dans un bol où tremper les boulettes de viande. Faites cuire les boulettes de poulet à au moins 74 °C à cœur, mesurés au thermomètre. Pour tremper les brochettes, utilisez uniquement du jaune d'œuf pasteurisé adapté à la consommation sans cuisson, jamais un jaune cru non pasteurisé."
+        "step_1": "Mélangez le poulet haché avec les cébettes, le gingembre, la fécule de maïs, le blanc d'œuf, le sel et le poivre jusqu'à obtenir une préparation homogène et collante.",
+        "step_2": "Divisez le mélange en quatre portions allongées et façonnez chacune autour d'une brochette en bois.",
+        "step_3": "Faites réduire la sauce soja, le mirin, le saké et le sucre dans une petite casserole jusqu'à obtenir une sauce tare sirupeuse.",
+        "step_4": "Faites griller les brochettes dans une poêle légèrement huilée à feu moyen pendant environ 3 à 4 minutes par face ; vérifiez la cuisson au lieu de vous fier au seul temps.",
+        "step_5": "Badigeonnez les brochettes de tare en fin de cuisson, en les retournant souvent pour les glacer uniformément.",
+        "step_6": "Servez les brochettes laquées avec un jaune d'œuf pasteurisé adapté à la consommation sans cuisson, dans un bol séparé. Faites cuire les boulettes de poulet à au moins 74 °C à cœur, mesurés au thermomètre. Pour tremper les brochettes, utilisez uniquement du jaune d'œuf pasteurisé adapté à la consommation sans cuisson, jamais un jaune cru non pasteurisé."
       }
     },
     "de": {
@@ -404,12 +404,12 @@
         }
       },
       "steps": {
-        "step_1": "In einer Schüssel arbeitet das Hähnchenhackfleisch mit Zwiebeln, Ingwer, Maisstärke, Eiweiß, Salz und Pfeffer, bis die Verbindung homogen und klebrig ist.",
-        "step_2": "Teilen Sie den Teig in 4 längliche und modellierte Portionen um die hölzernen Spieße und geben ihm eine ovale zylinderförmige Form.",
-        "step_3": "In einem Topf, reduzieren Sie die Bestandteile der Tare-Soße auf siruphaltige Konsistenz.",
-        "step_4": "Grillen Sie die Spieße auf einer Pfanne mit einem durchschnittlichen Ölfaden für 3-4 Minuten pro Seite.",
-        "step_5": "Bestreichen großzügig mit der Tare-Sauce in den letzten Minuten drehen sie oft.",
-        "step_6": "Servieren Sie die glänzenden und glasierten Spieße mit einem frischen Eigelb in einer Schüssel, in die die Fleischbällchen eintauchen. Hähnchenbällchen mit einem Thermometer auf mindestens 74 °C Kerntemperatur garen. Zum Dippen nur pasteurisiertes, für den Rohverzehr geeignetes Eigelb verwenden, niemals rohes unpasteurisiertes Eigelb."
+        "step_1": "Hähnchenhackfleisch mit fein geschnittenen Frühlingszwiebeln, Ingwer, Maisstärke, Eiweiß, Salz und Pfeffer zu einer gleichmäßigen, klebrigen Masse vermengen.",
+        "step_2": "Die Masse in vier längliche Portionen teilen und jeweils fest um einen Holzspieß formen.",
+        "step_3": "Sojasauce, Mirin, Sake und Zucker in einem kleinen Topf zu einer sirupartigen Tare-Glasur einkochen.",
+        "step_4": "Die Spieße in einer leicht geölten Pfanne bei mittlerer Hitze etwa 3–4 Minuten pro Seite braten; den Gargrad kontrollieren statt nur auf die Zeit zu achten.",
+        "step_5": "In den letzten Minuten mehrfach mit Tare bestreichen und dabei häufig wenden, damit die Glasur gleichmäßig haftet.",
+        "step_6": "Die glasierten Spieße mit pasteurisiertem, zum Rohverzehr geeignetem Eigelb in einer separaten Schale als Dip servieren. Hähnchenbällchen mit einem Thermometer auf mindestens 74 °C Kerntemperatur garen. Zum Dippen nur pasteurisiertes, für den Rohverzehr geeignetes Eigelb verwenden, niemals rohes unpasteurisiertes Eigelb."
       }
     },
     "pt": {
@@ -463,12 +463,12 @@
         }
       },
       "steps": {
-        "step_1": "Em uma tigela, trabalhar o frango molhado com cebola, gengibre, amido de milho, clara de ovo, sal e pimenta até que a mistura seja homogênea e pegajosa.",
-        "step_2": "Dividir a massa em 4 porções alongadas e modelá- la em torno dos broches de madeira, dando- lhe uma forma cilíndrica oval.",
-        "step_3": "Em uma panela, reduza os componentes do molho Tare para consistência xarope.",
-        "step_4": "Grelhe os broches numa panela com um óleo de calor médio por 3-4 minutos por lado.",
-        "step_5": "Escovados abundantemente com molho Tare nos últimos minutos, girando- os frequentemente.",
-        "step_6": "Servir os broches brilhantes e gelados acompanhados por uma gema de ovo fresca numa tigela onde você pode mergulhar as almôndegas. Cozinhe as almôndegas de frango até pelo menos 74 °C no centro, medidos com um termómetro. Para molhar, use apenas gema pasteurizada adequada ao consumo sem cozedura, nunca gema crua não pasteurizada."
+        "step_1": "Misture o frango picado com cebolinho, gengibre ralado, amido de milho, clara de ovo, sal e pimenta até obter uma massa homogénea e pegajosa.",
+        "step_2": "Divida a mistura em quatro porções alongadas e molde cada uma em volta de um espeto de madeira.",
+        "step_3": "Reduza o molho de soja, o mirin, o saqué e o açúcar num tacho até obter um molho tare xaroposo.",
+        "step_4": "Grelhe os espetos numa frigideira com um pouco de óleo em lume médio durante cerca de 3–4 minutos de cada lado; confirme a cozedura sem confiar apenas no tempo.",
+        "step_5": "Pincele os espetos com molho tare nos últimos minutos, virando-os com frequência para os glacear.",
+        "step_6": "Sirva os espetos glaceados com uma gema pasteurizada adequada ao consumo sem cozedura, numa tigela à parte para molhar. Cozinhe as almôndegas de frango até pelo menos 74 °C no centro, medidos com um termómetro. Para molhar, use apenas gema pasteurizada adequada ao consumo sem cozedura, nunca gema crua não pasteurizada."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000059",
-  "contentVersion": 3,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -150,9 +150,9 @@
         "step_4": "Add the clams in the pan and add the Japanese sake immediately.",
         "step_5": "Cover immediately with the lid and raise the flame on a live fire.",
         "step_6": "Cook for 3-4 minutes by shaking the pan every now and then until all clams open completely (discard those that remain closed). Use live clams from a reliable supplier. Discard broken shells and clams that do not close when tapped before cooking; discard any clams that remain closed after thorough cooking.",
-        "step_7": "Turn off the fire, add the remaining butter and a thread of soy sauce.",
+        "step_7": "Turn off the heat, add the remaining butter and a thread of soy sauce.",
         "step_8": "Mix gently to create a tasty and shiny broth.",
-        "step_9": "Dust with plenty of fresh chives and bring to the table hot with its broth."
+        "step_9": "Dust with plenty of fresh chives and serve hot with its broth."
       }
     },
     "it": {
@@ -244,7 +244,7 @@
         "step_6": "Cocine durante 3-4 minutos sacudiendo de vez en cuando la cacerola hasta que todas las almejas se abren completamente (desecha las que permanezcan cerradas). Utiliza almejas vivas de un proveedor fiable. Desecha las conchas rotas y las almejas que no se cierren al tocarlas antes de cocinarlas; desecha también las que queden cerradas tras la cocción.",
         "step_7": "Apaga el fuego, une la mantequilla restante y un hilo de salsa de soja.",
         "step_8": "Mezcla suavemente para crear un caldo sabroso y brillante.",
-        "step_9": "Espolvorea con abundante cebollina fresca y lleva a la mesa caliente con su caldo."
+        "step_9": "Espolvorea con abundante cebollino fresco y lleva a la mesa caliente con su caldo."
       }
     },
     "fr": {
@@ -283,8 +283,8 @@
       },
       "steps": {
         "step_1": "Lave soigneusement les palourdes déjà épurées sous l'eau courante froide.",
-        "step_2": "Dans une grande casserole avec couvercle, détachez la moitié du beurre et ajoutez l'ail coupé et le gingembre râpé.",
-        "step_3": "Dormir à feu doux pendant 1 minute.",
+        "step_2": "Dans une grande casserole avec couvercle, faites fondre la moitié du beurre et ajoutez l'ail coupé et le gingembre râpé.",
+        "step_3": "Faites dorer à feu doux pendant 1 minute.",
         "step_4": "Rassemblez les palourdes dans la casserole et ajoutez immédiatement le saké japonais.",
         "step_5": "Couvrez immédiatement avec le couvercle et relevez la flamme au feu vif.",
         "step_6": "Faites cuire pendant 3-4 minutes en secouant de temps en temps la casserole jusqu'à ce que toutes les palourdes s'ouvrent complètement (jetez celles qui restent fermées). Utilisez des palourdes vivantes provenant d'un fournisseur fiable. Jetez celles dont la coquille est cassée ou qui ne se referment pas au toucher avant cuisson, puis celles qui restent fermées après une cuisson complète.",

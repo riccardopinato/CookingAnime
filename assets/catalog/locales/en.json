@@ -2594,7 +2594,7 @@
       "animeContext": "This recipe is thematically inspired by Black Butler (Kuroshitsuji), My Hero Academia. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_di_birra_secco": {
@@ -2668,7 +2668,7 @@
           "note": null
         },
         "farina_per_tempura": {
-          "name": "tempura flour (or flour 00 sieved)",
+          "name": "tempura flour (or Italian 00 flour sieved)",
           "note": null
         },
         "tuorlo_d_uovo": {
@@ -2783,7 +2783,7 @@
         "step_10": "Transfer the burgers to the dishes.",
         "step_11": "In the same pan with meat juices, combine butter, ketchup, tonkatsu sauce, water and sugar.",
         "step_12": "Boil for 2 minutes mixing until you get a shiny and dense sauce.",
-        "step_13": "Add the hot sauce over the Hambagu and bring to the table with rice or vegetables."
+        "step_13": "Add the hot sauce over the Hambagu and serve with rice or vegetables."
       }
     },
     "recipe_000055": {
@@ -2840,7 +2840,7 @@
         "step_5": "Simmer the chicken pieces over medium heat; 5–7 minutes is only a guide. Check with a food thermometer that the centre reaches at least 74 °C, cooking longer if needed.",
         "step_6": "Combine the noodles udon directly in the stewed boiling broth and cook for another 4-5 minutes to absorb the flavors of miso.",
         "step_7": "Use pasteurized eggs if you want a creamy yolk. Crack one into the centre of each serving, turn off the heat and cover for about 2 minutes until the whites have set. If the eggs are not pasteurized, cook both whites and yolks thoroughly.",
-        "step_8": "Garnish with the fresh onion and bring to the table very hot directly from the pot."
+        "step_8": "Garnish with the fresh onion and serve very hot directly from the pot."
       }
     },
     "recipe_000056": {
@@ -2894,13 +2894,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Spread the rice for sushi seasoned and warmed inside a large bowl in wood or ceramics.",
-        "step_2": "Work the eggs with a pinch of salt and sugar.",
-        "step_3": "Cook a very thin frittatina in a pan, let it cool and cut into thin strips like tagliolini.",
-        "step_4": "Cover the rice surface entirely with kinhi tamag omelette strips.",
-        "step_5": "Artistically system to ray or mosaic the cubes of salmon, tuna, shrimp and cucumber slices. Use salmon and tuna expressly supplied as suitable for raw consumption, following the supplier's freezing and refrigeration guidance. Keep chilled and assemble just before serving; a fresh appearance does not establish safety.",
-        "step_6": "Combine a few tablespoons of Ikura salmon eggs in the middle, dust with toasted sesame seeds and alga nori strips.",
-        "step_7": "Bring to the table fresh accompanied by soy sauce and wasabi."
+        "step_1": "Spread the cooled, seasoned sushi rice evenly in a wide serving bowl.",
+        "step_2": "Beat the two eggs with a pinch of salt and sugar.",
+        "step_3": "Cook a very thin omelette in a lightly oiled pan; cool and cut into fine strips (kinshi tamago).",
+        "step_4": "Cover the surface of the rice with the fine omelette strips.",
+        "step_5": "Arrange the diced salmon, tuna, peeled cooked shrimp and thin cucumber slices attractively on the rice. Use salmon and tuna expressly supplied as suitable for raw consumption, following the supplier's freezing and refrigeration guidance. Keep chilled and assemble just before serving; a fresh appearance does not establish safety.",
+        "step_6": "Add a little salmon roe (ikura) at the centre; sprinkle with toasted sesame seeds and thin nori strips.",
+        "step_7": "Serve cool, with soy sauce and wasabi on the side."
       }
     },
     "recipe_000057": {
@@ -2999,7 +2999,7 @@
         "step_8": "Bake the balls in boiling water divided by color (first white, then pink, finally green) for about 2-3 minutes since they come up to the surface.",
         "step_9": "Transfer them to frozen water.",
         "step_10": "Stick a green ball down on each bamboo skewer, a white ball in the middle and a pink ball on top.",
-        "step_11": "Bring to the table at room temperature."
+        "step_11": "Serve at room temperature."
       }
     },
     "recipe_000059": {
@@ -3043,9 +3043,9 @@
         "step_4": "Add the clams in the pan and add the Japanese sake immediately.",
         "step_5": "Cover immediately with the lid and raise the flame on a live fire.",
         "step_6": "Cook for 3-4 minutes by shaking the pan every now and then until all clams open completely (discard those that remain closed). Use live clams from a reliable supplier. Discard broken shells and clams that do not close when tapped before cooking; discard any clams that remain closed after thorough cooking.",
-        "step_7": "Turn off the fire, add the remaining butter and a thread of soy sauce.",
+        "step_7": "Turn off the heat, add the remaining butter and a thread of soy sauce.",
         "step_8": "Mix gently to create a tasty and shiny broth.",
-        "step_9": "Dust with plenty of fresh chives and bring to the table hot with its broth."
+        "step_9": "Dust with plenty of fresh chives and serve hot with its broth."
       }
     },
     "recipe_000060": {
@@ -3062,7 +3062,7 @@
           "note": null
         },
         "farina_per_pane_o_farina_00_setacciata": {
-          "name": "flour for bread or flour 00 sieved",
+          "name": "flour for bread or Italian 00 flour sieved",
           "note": null
         },
         "miele_di_acacia": {
@@ -3170,7 +3170,7 @@
         "step_8": "On the basis of each large bowl add the boiling broth with miso and meat.",
         "step_9": "Combine the drained noodles by making them stick in the center.",
         "step_10": "Place on one side the soy sprouts, the sweet corn, half a marinated egg, a nut of fresh malga butter in the center (typical of the tradition of Sapporo), a sprinkled onion and a sheet of Nori algae stuck on the edge of the bowl.",
-        "step_11": "Bring to the table immediately hot!"
+        "step_11": "Serve immediately hot!"
       }
     },
     "recipe_000062": {
@@ -3232,7 +3232,7 @@
         "step_6": "Add the remaining Dashi broth and black sesame mixture over the ingredients.",
         "step_7": "Cover with the lid and bring to a boil over medium heat.",
         "step_8": "Continue cooking for about 10-12 minutes until the meat is completely cooked and the vegetables are not tender but fragrant.",
-        "step_9": "Bring to the table directly on the table keeping the pot warm!"
+        "step_9": "Serve directly on the table keeping the pot warm!"
       }
     },
     "recipe_000063": {
@@ -3375,7 +3375,7 @@
         "step_6": "Pass each schnitzel first into the flour, then into the beaten egg and finally cover it generously with Panko pressing lightly with your fingers to make the crumbs stick well.",
         "step_7": "Heats plenty of oil to fry at 170°C.",
         "step_8": "Fry the Menchi Katsu for 5-6 minutes per side on medium-low heat until the crust is dark and golden and the inside is well cooked and juicy.",
-        "step_9": "Drain on absorbent paper and bring to the table hot accompanied by fresh cabbage and Tonkatsu sauce."
+        "step_9": "Drain on absorbent paper and serve hot accompanied by fresh cabbage and Tonkatsu sauce."
       }
     },
     "recipe_000065": {
@@ -3560,7 +3560,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_per_dolci": {
@@ -4202,7 +4202,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "latte_intero_caldo": {
@@ -4222,7 +4222,7 @@
           "note": null
         },
         "farina_00_2": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "uovo_sbattute": {
@@ -4474,7 +4474,7 @@
           "note": null
         },
         "farina_00_e_1_uovo_sbattuto_per_impanare_1_farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "farina_00_e_1_uovo_sbattuto_per_impanare_2_uovo_sbattuto_per_impanare": {
@@ -4592,7 +4592,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_per_dolci": {
@@ -4960,7 +4960,7 @@
       "stepTexts": {
         "step_1": "Prepare two bowls with the rice warm and keep the tonkatsu cutlets already cooked and cut into strips about 2 cm wide.",
         "step_2": "In a donburi sauce it simmers dashi, soy sauce, mirin and sugar; add the onion and cook 3-4 minutes until it becomes translucent.",
-        "step_3": "Adage over the onion a sliced cutlet without submerging it completely, so the breading absorbs flavor but does not dissolve.",
+        "step_3": "Arrange over the onion a sliced cutlet without submerging it completely, so the breading absorbs flavor but does not dissolve.",
         "step_4": "Just beat an egg leaving visible egg white and yolk and pour about two thirds around and over the cutlet.",
         "step_5": "Distribute half of the cheese, cover and cook 60-90 seconds; add the remaining egg and turn off when it is still soft and shiny.",
         "step_6": "Carefully slide the contents of the pan onto the hot rice without breaking the schooner.",
@@ -5072,7 +5072,7 @@
       "stepTexts": {
         "step_1": "Prepare in advance chicken, menma, egg stew and yuzu peel; bring to a boil a separate pot of water for noodles.",
         "step_2": "Heat the filtered chicken broth with salt and sake until a slight bite and taste: it must be clear, savoury but not aggressive.",
-        "step_3": "Turn off the fire and incorporate yuzu juice and sesame oil only to the last, to preserve the citrus aromas.",
+        "step_3": "Turn off the heat and incorporate yuzu juice and sesame oil only to the last, to preserve the citrus aromas.",
         "step_4": "Cook the noodles in boiling water according to the thickness, draining them when they are still elastic; shake them well to eliminate excess water.",
         "step_5": "Distribute noodles in preheated bowls and pour the yuzu broth immediately.",
         "step_6": "Add the chicken, menma bamboo shoots and half an egg, leaving some of the noodles visible.",
@@ -5300,7 +5300,7 @@
         "step_1": "Slice the onion and cut the meat into thin, bite-sized pieces. Bring a separate pot of water to the boil for the udon noodles.",
         "step_2": "Meat rosola and onion in casserole for about 3 minutes, until the meat changes color and the onion begins to soften.",
         "step_3": "Add the dashi, soy sauce and mirin; simmer gently for 3–4 minutes.",
-        "step_4": "Turn off the fire, incorporate the curry roux little by little until it is completely melted, then rekindle over low heat.",
+        "step_4": "Turn off the heat, incorporate the curry roux little by little until it is completely melted, then rekindle over low heat.",
         "step_5": "Cook another 5 minutes stirring: the broth must veil the spoon but remain fluid enough to wrap the udon.",
         "step_6": "Cook the udon noodles in the separate pot of water, drain thoroughly and divide among the bowls.",
         "step_7": "Pour the boiling curry on the udon, complete with onion and serve immediately."
@@ -5452,7 +5452,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "uovo_sbattuto": {
@@ -6229,7 +6229,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "amido_di_mais": {
@@ -6312,7 +6312,7 @@
         "step_3": "Add the chicken and cook for about 4-5 minutes, removing any foam.",
         "step_4": "Combine the rice and simmer another 4-5 minutes, stirring just enough to not break the beans.",
         "step_5": "Beat the egg without making it completely homogeneous and flush it over the surface.",
-        "step_6": "Turn off the fire, cover for about 1 minute and let the egg finish cooking with the residual heat.",
+        "step_6": "Turn off the heat, cover for about 1 minute and let the egg finish cooking with the residual heat.",
         "step_7": "Complete with onion and serve immediately, when the rice is soft but not yet fucked."
       }
     },
@@ -6403,7 +6403,7 @@
           "note": null
         },
         "farina_per_pastella": {
-          "name": "flour 00 for batter",
+          "name": "Italian 00 flour for batter",
           "note": null
         },
         "acqua_fredda_per_pastella": {
@@ -6517,7 +6517,7 @@
         "step_3": "Insert the carrots and potatoes.",
         "step_4": "Add the meat broth and the grated apple.",
         "step_5": "Cover and simmer over medium-low heat for 20 minutes.",
-        "step_6": "Turn off the fire, join the roux for curry and amalgam until complete dissolution.",
+        "step_6": "Turn off the heat, join the roux for curry and amalgam until complete dissolution.",
         "step_7": "Combine the bitter cocoa powder (or dark chocolate), mix well and cook over very slow heat for another 5 minutes until you get a thick, shiny and aromatic sauce.",
         "step_8": "Bring to the hot table accompanied by white steamed rice."
       }
@@ -6583,7 +6583,7 @@
           "note": null
         },
         "farina_per_tempura": {
-          "name": "tempura flour (or flour 00 + iced water)",
+          "name": "tempura flour (or Italian 00 flour + iced water)",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
@@ -6700,7 +6700,7 @@
     },
     "recipe_000133": {
       "title": "Tori Chashu Ramen — ramen topped with marinated chicken",
-      "description": "The Tori Chashu Ramen uses rolled and cooked chicken overbone in a marinade of soy sauce and aromas. The sliced chicken is placed on noodles and broth prepared separately, without confusing the cooking of the meat with the short time required by the pasta. The marinated chicken is left to cool and sliced before mounting with hot broth, noodles and marinated egg.",
+      "description": "The Tori Chashu Ramen uses rolled and cooked chicken thigh in a marinade of soy sauce and aromas. The sliced chicken is placed on noodles and broth prepared separately, without confusing the cooking of the meat with the short time required by the pasta. The marinated chicken is left to cool and sliced before mounting with hot broth, noodles and marinated egg.",
       "animeContext": "This recipe is thematically inspired by Food Wars!, Ramen Daisuki Koizumi-san. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "noodles_per_ramen": {
@@ -6979,7 +6979,7 @@
         "step_4": "Pour the dashi, bring to light boil and remove any foam.",
         "step_5": "Cover and cook over medium to low heat for about 10 minutes until the roots become tender.",
         "step_6": "Add the tofu and heat it for 2-3 minutes without stirring vigorously.",
-        "step_7": "Turn off the fire, melt the miso in a ladle of broth and incorporate it to the soup without bringing it back to the boil.",
+        "step_7": "Turn off the heat, melt the miso in a ladle of broth and incorporate it to the soup without bringing it back to the boil.",
         "step_8": "Complete with onion and serve very hot."
       }
     },
@@ -7024,7 +7024,7 @@
       "animeContext": "This recipe is thematically inspired by K-On!, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "polvere_di_matcha": {
@@ -7248,7 +7248,7 @@
       "animeContext": "This recipe is thematically inspired by Non Non Biyori, Azumanga Daioh. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_per_dolci": {
@@ -7732,12 +7732,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "In a bowl, work the chicken ground with onion, ginger, corn starch, egg white, salt and pepper until the mixture is homogeneous and sticky.",
-        "step_2": "Divide the dough into 4 elongated portions and model it around the wooden skewers giving it an oval cylindrical shape.",
-        "step_3": "In a saucepan, reduce the components of the Tare sauce to syrupy consistency.",
-        "step_4": "Grill the skewers on a pan with a medium heat oil for 3-4 minutes per side.",
-        "step_5": "Bountifully brushed with Tare sauce in the last few minutes, turning them often.",
-        "step_6": "Serve the shiny, frosted skewers accompanied by a fresh egg yolk in a bowl where you can dip the meatballs. Cook the chicken meatballs to at least 74°C (165°F) at the centre, measured with a food thermometer. For dipping use only pasteurized egg yolk suitable for eating without cooking; never use unpasteurized raw yolk."
+        "step_1": "Mix the ground chicken with finely chopped spring onions, grated ginger, cornstarch, egg white, salt and pepper until sticky and uniform.",
+        "step_2": "Divide into four elongated portions and shape each firmly around a wooden skewer.",
+        "step_3": "Simmer the soy sauce, mirin, sake and sugar in a small pan until the tare glaze becomes syrupy.",
+        "step_4": "Pan-grill the chicken skewers with a little oil over medium heat for approximately 3–4 minutes per side, checking doneness rather than relying on time alone.",
+        "step_5": "Brush the skewers with tare during the final minutes, turning frequently to coat them evenly.",
+        "step_6": "Serve the glazed skewers with a separate bowl of pasteurized egg yolk suitable for uncooked consumption as a dipping sauce. Cook the chicken meatballs to at least 74°C (165°F) at the centre, measured with a food thermometer. For dipping use only pasteurized egg yolk suitable for eating without cooking; never use unpasteurized raw yolk."
       }
     },
     "recipe_000154": {
@@ -7899,7 +7899,7 @@
         "step_5": "Heat well the clam broth without overly reducing it.",
         "step_6": "Cook the noodles for ramen in plenty of boiling water for 2 minutes and drain.",
         "step_7": "Distribute the noodles in the bowls and cover them with the hot broth to the clams.",
-        "step_8": "Adage over the clams in the shell, the corn and the fresh onion; complete with a nut of butter, which melting will bind the seafood stock."
+        "step_8": "Arrange over the clams in the shell, the corn and the fresh onion; complete with a nut of butter, which melting will bind the seafood stock."
       }
     },
     "recipe_000157": {
@@ -8093,7 +8093,7 @@
       "animeContext": "This recipe is thematically inspired by Nana, K-On!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "uovo": {

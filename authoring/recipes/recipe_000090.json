@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000090",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Naruto",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -296,7 +296,7 @@
         "step_2": "Calienta el caldo de pollo o dashi hasta que se marque ligeramente y mantenlo listo sin que se reduzca excesivamente.",
         "step_3": "Prepara los toppings antes de los fideos: corta el chashu, corta a la mitad de la litiajitama, tritura la cebolla y porciona narutomaki y nori.",
         "step_4": "Derrama el tarro sobre el fondo de dos cuencos de ramen precalentados y añade el caldo caliente, mezclando para distribuir uniformemente el condimento.",
-        "step_5": "Cocine los fideos frescos en abundante agua hirviendo durante unos 2 minutos o por el tiempo indicado por el fabricante; escúchelos con cuidado sin enjuagarlos.",
+        "step_5": "Cocine los fideos frescos en abundante agua hirviendo durante unos 2 minutos o por el tiempo indicado por el fabricante; escúrrelos con cuidado sin enjuagarlos.",
         "step_6": "Transfiera los fideos al caldo y sepárense con los palillos para que no se queden apilados.",
         "step_7": "Completa con chashu, medio ajitama, narutomaki, cebolleta y nori; sirve inmediatamente mientras que fideos y caldo son todavía muy calientes."
       }
@@ -476,7 +476,7 @@
         "step_2": "Aqueça o caldo de frango ou o dashi até que ferva levemente e mantenha- o pronto sem fazê- lo reduzir excessivamente.",
         "step_3": "Prepare a cobertura antes dos macarrão: corte o chashu, corte em metade do jitama, corte a cebola e a porção narutomaki e nori.",
         "step_4": "Despeje o tarare no fundo de duas tigelas de ramen pré- aquecidas e adicione o caldo fervente, agitando- se para distribuir uniformemente o tempero.",
-        "step_5": "Cozinhe os macarrão frescos em muita água fervente por cerca de 2 minutos ou pelo tempo indicado pelo fabricante; drene- os com cuidado sem enxagua- os.",
+        "step_5": "Cozinhe os macarrão frescos em muita água fervente por cerca de 2 minutos ou pelo tempo indicado pelo fabricante; escorra-os com cuidado sem enxagua- os.",
         "step_6": "Transferir os macarrão para o caldo imediatamente e separá- los com os pauzinhos para que não permaneçam embalados.",
         "step_7": "Completo com chashu, meio ajitama, narutomaki, cebola e nori; sirva imediatamente enquanto macarrão e caldo ainda estão muito quentes."
       }

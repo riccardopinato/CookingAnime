@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000068",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Doraemon",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 6,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -159,7 +159,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_per_dolci": {

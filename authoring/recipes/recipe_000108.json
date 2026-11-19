@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000108",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -511,11 +511,11 @@
       },
       "steps": {
         "step_1": "Enxague os ossos de porco e deixe- os em água fria por 15-30 minutos, mudando a água várias vezes para remover sangue e impurezas.",
-        "step_2": "Ferva os ossos 10 minutos, drene e lave bem; também limpe o pote antes de iniciar o caldo real.",
+        "step_2": "Ferva os ossos 10 minutos, escorra e lave bem; também limpe o pote antes de iniciar o caldo real.",
         "step_3": "Cobrir os ossos com água fresca, adicionar alho e gengibre e levar a uma ebulição vigorosa; espume os coágulos escuros nos estágios iniciais.",
         "step_4": "Mantenha um fervor firme durante pelo menos 5-6 horas, borbulhando com água fervente quando necessário: a gordura e o colágeno devem emulsionar até que o caldo seja opaco e encorpado.",
         "step_5": "Filtrar o caldo, colocá- lo de volta no fogo e ajustar a concentração; prepare- se para participar, chashu, ovos, brotos, cebola, nori e óleo de maio.",
-        "step_6": "Traga para ferver uma panela separada de água e cozinhe os macarrão frescos para o tempo indicado, geralmente 1-2 minutos; drene- os muito bem.",
+        "step_6": "Traga para ferver uma panela separada de água e cozinhe os macarrão frescos para o tempo indicado, geralmente 1-2 minutos; escorra-os muito bem.",
         "step_7": "Coloque o torro no fundo das tigelas pré- aquecidas, verter o caldo de tonkotsu fervente e misturar.",
         "step_8": "Adicione os macarrão e complete imediatamente com chashu, meio ajitama, botões, cebola, nori e algumas gotas de maio."
       }

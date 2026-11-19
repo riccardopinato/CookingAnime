@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000119",
-  "contentVersion": 4,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -311,7 +311,7 @@
       },
       "steps": {
         "step_1": "Découpe le tofu et écrase-le grossièrement; coupe daikon, carotte, gobo et shiitake en petits morceaux et uniformes.",
-        "step_2": "Si vous utilisez du gobo frais, mettez-le brièvement dans l'eau après la coupe et puis aspirez-le bien.",
+        "step_2": "Si vous utilisez du gobo frais, mettez-le brièvement dans l'eau après la coupe et puis égouttez-le bien.",
         "step_3": "Chauffez l'huile de sésame en casserole et roulez d'abord les racines et les champignons pendant 3-4 minutes.",
         "step_4": "Ajouter le tofu et mélanger doucement pour le revêtir d'huile sans le réduire en crème.",
         "step_5": "Versez le kombu dashi, apportez à la légère bulle et retirez la mousse qui affleure.",
@@ -415,7 +415,7 @@
       },
       "steps": {
         "step_1": "Esgote o tofu e desfaça- o grossamente; corte o daikon, a cenoura, o gobo e o shiitake em pedaços pequenos e uniformes.",
-        "step_2": "Se você usar gobo fresco, coloque- o brevemente na água após o corte e, em seguida, drene- o bem.",
+        "step_2": "Se você usar gobo fresco, coloque- o brevemente na água após o corte e, em seguida, escorra-o bem.",
         "step_3": "Aqueça o óleo de sésamo em casserola e marrom antes das raízes e cogumelos por 3-4 minutos.",
         "step_4": "Adicione o tofu e misture suavemente para cobri- lo com óleo sem reduzi- lo ao creme.",
         "step_5": "Verter o kombu dashi, trazer à luz ferver e remover a espuma que emerge.",

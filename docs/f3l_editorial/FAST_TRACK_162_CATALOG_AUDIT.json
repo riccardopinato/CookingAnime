@@ -1,0 +1,1808 @@
+{
+  "cumulative": {
+    "initial": {
+      "uniqueRecipesWithFindings": 39,
+      "issueCount": 51,
+      "byKind": {
+        "witnessed_false_friend_or_loanword": 51
+      }
+    },
+    "latest": {
+      "uniqueRecipesWithFindings": 0,
+      "issueCount": 0,
+      "byKind": {}
+    },
+    "correctedIDs": [
+      "recipe_000052",
+      "recipe_000053",
+      "recipe_000054",
+      "recipe_000055",
+      "recipe_000056",
+      "recipe_000058",
+      "recipe_000059",
+      "recipe_000060",
+      "recipe_000061",
+      "recipe_000062",
+      "recipe_000063",
+      "recipe_000064",
+      "recipe_000068",
+      "recipe_000071",
+      "recipe_000075",
+      "recipe_000077",
+      "recipe_000079",
+      "recipe_000082",
+      "recipe_000084",
+      "recipe_000086",
+      "recipe_000090",
+      "recipe_000092",
+      "recipe_000093",
+      "recipe_000095",
+      "recipe_000098",
+      "recipe_000099",
+      "recipe_000100",
+      "recipe_000104",
+      "recipe_000108",
+      "recipe_000110",
+      "recipe_000111",
+      "recipe_000116",
+      "recipe_000117",
+      "recipe_000118",
+      "recipe_000119",
+      "recipe_000120",
+      "recipe_000121",
+      "recipe_000123",
+      "recipe_000126",
+      "recipe_000128",
+      "recipe_000129",
+      "recipe_000130",
+      "recipe_000133",
+      "recipe_000136",
+      "recipe_000138",
+      "recipe_000140",
+      "recipe_000145",
+      "recipe_000147",
+      "recipe_000148",
+      "recipe_000149",
+      "recipe_000150",
+      "recipe_000153",
+      "recipe_000154",
+      "recipe_000156",
+      "recipe_000161"
+    ],
+    "correctedRecipeCount": 55,
+    "correctedTextFields": 153
+  },
+  "date": "2026-11-19",
+  "mode": "APPLIED_SOURCE_BOUND_FIXED_ERRORS",
+  "before": {
+    "scope": {
+      "canonicalRecipes": 162,
+      "locales": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "localeRecordsExamined": 972,
+      "fields": [
+        "title",
+        "description",
+        "animeContext",
+        "ingredient names",
+        "step texts",
+        "IDs",
+        "timers",
+        "quantities"
+      ]
+    },
+    "methodology": "DETERMINISTIC_FULL_CATALOG_SCAN_NOT_SEMANTIC_CERTIFICATION",
+    "summary": {
+      "uniqueRecipesWithFindings": 30,
+      "issueCount": 43,
+      "byKind": {
+        "witnessed_false_friend_or_loanword": 43
+      }
+    },
+    "recipes": [
+      {
+        "id": "recipe_000001",
+        "issues": []
+      },
+      {
+        "id": "recipe_000002",
+        "issues": []
+      },
+      {
+        "id": "recipe_000003",
+        "issues": []
+      },
+      {
+        "id": "recipe_000004",
+        "issues": []
+      },
+      {
+        "id": "recipe_000005",
+        "issues": []
+      },
+      {
+        "id": "recipe_000006",
+        "issues": []
+      },
+      {
+        "id": "recipe_000007",
+        "issues": []
+      },
+      {
+        "id": "recipe_000008",
+        "issues": []
+      },
+      {
+        "id": "recipe_000009",
+        "issues": []
+      },
+      {
+        "id": "recipe_000010",
+        "issues": []
+      },
+      {
+        "id": "recipe_000011",
+        "issues": []
+      },
+      {
+        "id": "recipe_000012",
+        "issues": []
+      },
+      {
+        "id": "recipe_000013",
+        "issues": []
+      },
+      {
+        "id": "recipe_000014",
+        "issues": []
+      },
+      {
+        "id": "recipe_000015",
+        "issues": []
+      },
+      {
+        "id": "recipe_000016",
+        "issues": []
+      },
+      {
+        "id": "recipe_000017",
+        "issues": []
+      },
+      {
+        "id": "recipe_000018",
+        "issues": []
+      },
+      {
+        "id": "recipe_000019",
+        "issues": []
+      },
+      {
+        "id": "recipe_000020",
+        "issues": []
+      },
+      {
+        "id": "recipe_000021",
+        "issues": []
+      },
+      {
+        "id": "recipe_000022",
+        "issues": []
+      },
+      {
+        "id": "recipe_000023",
+        "issues": []
+      },
+      {
+        "id": "recipe_000024",
+        "issues": []
+      },
+      {
+        "id": "recipe_000025",
+        "issues": []
+      },
+      {
+        "id": "recipe_000026",
+        "issues": []
+      },
+      {
+        "id": "recipe_000027",
+        "issues": []
+      },
+      {
+        "id": "recipe_000028",
+        "issues": []
+      },
+      {
+        "id": "recipe_000029",
+        "issues": []
+      },
+      {
+        "id": "recipe_000030",
+        "issues": []
+      },
+      {
+        "id": "recipe_000031",
+        "issues": []
+      },
+      {
+        "id": "recipe_000032",
+        "issues": []
+      },
+      {
+        "id": "recipe_000033",
+        "issues": []
+      },
+      {
+        "id": "recipe_000034",
+        "issues": []
+      },
+      {
+        "id": "recipe_000035",
+        "issues": []
+      },
+      {
+        "id": "recipe_000036",
+        "issues": []
+      },
+      {
+        "id": "recipe_000037",
+        "issues": []
+      },
+      {
+        "id": "recipe_000038",
+        "issues": []
+      },
+      {
+        "id": "recipe_000039",
+        "issues": []
+      },
+      {
+        "id": "recipe_000040",
+        "issues": []
+      },
+      {
+        "id": "recipe_000041",
+        "issues": []
+      },
+      {
+        "id": "recipe_000042",
+        "issues": []
+      },
+      {
+        "id": "recipe_000043",
+        "issues": []
+      },
+      {
+        "id": "recipe_000044",
+        "issues": []
+      },
+      {
+        "id": "recipe_000045",
+        "issues": []
+      },
+      {
+        "id": "recipe_000046",
+        "issues": []
+      },
+      {
+        "id": "recipe_000047",
+        "issues": []
+      },
+      {
+        "id": "recipe_000048",
+        "issues": []
+      },
+      {
+        "id": "recipe_000049",
+        "issues": []
+      },
+      {
+        "id": "recipe_000050",
+        "issues": []
+      },
+      {
+        "id": "recipe_000051",
+        "issues": []
+      },
+      {
+        "id": "recipe_000052",
+        "issues": []
+      },
+      {
+        "id": "recipe_000053",
+        "issues": []
+      },
+      {
+        "id": "recipe_000054",
+        "issues": []
+      },
+      {
+        "id": "recipe_000055",
+        "issues": []
+      },
+      {
+        "id": "recipe_000056",
+        "issues": [
+          {
+            "locale": "fr",
+            "path": "ingredients.uovo.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "frittatine fine"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000057",
+        "issues": []
+      },
+      {
+        "id": "recipe_000058",
+        "issues": []
+      },
+      {
+        "id": "recipe_000059",
+        "issues": [
+          {
+            "locale": "fr",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "détachez la moitié du beurre"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000060",
+        "issues": []
+      },
+      {
+        "id": "recipe_000061",
+        "issues": [
+          {
+            "locale": "es",
+            "path": "steps.step_7",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "escúchelos"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_7",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000062",
+        "issues": []
+      },
+      {
+        "id": "recipe_000063",
+        "issues": [
+          {
+            "locale": "fr",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "amalgameant"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000064",
+        "issues": []
+      },
+      {
+        "id": "recipe_000065",
+        "issues": []
+      },
+      {
+        "id": "recipe_000066",
+        "issues": []
+      },
+      {
+        "id": "recipe_000067",
+        "issues": []
+      },
+      {
+        "id": "recipe_000068",
+        "issues": []
+      },
+      {
+        "id": "recipe_000069",
+        "issues": []
+      },
+      {
+        "id": "recipe_000070",
+        "issues": []
+      },
+      {
+        "id": "recipe_000071",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_9",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000072",
+        "issues": []
+      },
+      {
+        "id": "recipe_000073",
+        "issues": []
+      },
+      {
+        "id": "recipe_000074",
+        "issues": []
+      },
+      {
+        "id": "recipe_000075",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_7",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000076",
+        "issues": []
+      },
+      {
+        "id": "recipe_000077",
+        "issues": []
+      },
+      {
+        "id": "recipe_000078",
+        "issues": []
+      },
+      {
+        "id": "recipe_000079",
+        "issues": [
+          {
+            "locale": "es",
+            "path": "steps.step_4",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "regla de sal"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000080",
+        "issues": []
+      },
+      {
+        "id": "recipe_000081",
+        "issues": []
+      },
+      {
+        "id": "recipe_000082",
+        "issues": [
+          {
+            "locale": "de",
+            "path": "ingredients.sovracosce_e_ali_di_pollo_con_osso_e_pelle_1_sovracosce.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberschnürung"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000083",
+        "issues": []
+      },
+      {
+        "id": "recipe_000084",
+        "issues": []
+      },
+      {
+        "id": "recipe_000085",
+        "issues": []
+      },
+      {
+        "id": "recipe_000086",
+        "issues": []
+      },
+      {
+        "id": "recipe_000087",
+        "issues": []
+      },
+      {
+        "id": "recipe_000088",
+        "issues": []
+      },
+      {
+        "id": "recipe_000089",
+        "issues": []
+      },
+      {
+        "id": "recipe_000090",
+        "issues": [
+          {
+            "locale": "es",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "escúchelos"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000091",
+        "issues": []
+      },
+      {
+        "id": "recipe_000092",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_1",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000093",
+        "issues": [
+          {
+            "locale": "en",
+            "path": "steps.step_3",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "adage over"
+          },
+          {
+            "locale": "es",
+            "path": "steps.step_3",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "adapta sobre"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000094",
+        "issues": []
+      },
+      {
+        "id": "recipe_000095",
+        "issues": []
+      },
+      {
+        "id": "recipe_000096",
+        "issues": []
+      },
+      {
+        "id": "recipe_000097",
+        "issues": []
+      },
+      {
+        "id": "recipe_000098",
+        "issues": [
+          {
+            "locale": "de",
+            "path": "description",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberknospen"
+          },
+          {
+            "locale": "de",
+            "path": "ingredients.sovracosce_di_pollo_disossate_con_la_pelle.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberschnürung"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000099",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000100",
+        "issues": []
+      },
+      {
+        "id": "recipe_000101",
+        "issues": []
+      },
+      {
+        "id": "recipe_000102",
+        "issues": []
+      },
+      {
+        "id": "recipe_000103",
+        "issues": []
+      },
+      {
+        "id": "recipe_000104",
+        "issues": []
+      },
+      {
+        "id": "recipe_000105",
+        "issues": []
+      },
+      {
+        "id": "recipe_000106",
+        "issues": []
+      },
+      {
+        "id": "recipe_000107",
+        "issues": []
+      },
+      {
+        "id": "recipe_000108",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_6",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000109",
+        "issues": []
+      },
+      {
+        "id": "recipe_000110",
+        "issues": [
+          {
+            "locale": "fr",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "apportez à l'éponge"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000111",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_1",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000112",
+        "issues": []
+      },
+      {
+        "id": "recipe_000113",
+        "issues": []
+      },
+      {
+        "id": "recipe_000114",
+        "issues": []
+      },
+      {
+        "id": "recipe_000115",
+        "issues": []
+      },
+      {
+        "id": "recipe_000116",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000117",
+        "issues": [
+          {
+            "locale": "de",
+            "path": "ingredients.pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberschnürung"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000118",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_3",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000119",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000120",
+        "issues": [
+          {
+            "locale": "fr",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "frittatine fine"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000121",
+        "issues": []
+      },
+      {
+        "id": "recipe_000122",
+        "issues": []
+      },
+      {
+        "id": "recipe_000123",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_1",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000124",
+        "issues": []
+      },
+      {
+        "id": "recipe_000125",
+        "issues": []
+      },
+      {
+        "id": "recipe_000126",
+        "issues": []
+      },
+      {
+        "id": "recipe_000127",
+        "issues": []
+      },
+      {
+        "id": "recipe_000128",
+        "issues": []
+      },
+      {
+        "id": "recipe_000129",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_4",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000130",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_6",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000131",
+        "issues": []
+      },
+      {
+        "id": "recipe_000132",
+        "issues": []
+      },
+      {
+        "id": "recipe_000133",
+        "issues": [
+          {
+            "locale": "en",
+            "path": "description",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "chicken overbone"
+          },
+          {
+            "locale": "de",
+            "path": "ingredients.sovracosce_di_pollo_disossate_con_pelle.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberschnürung"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000134",
+        "issues": []
+      },
+      {
+        "id": "recipe_000135",
+        "issues": []
+      },
+      {
+        "id": "recipe_000136",
+        "issues": []
+      },
+      {
+        "id": "recipe_000137",
+        "issues": []
+      },
+      {
+        "id": "recipe_000138",
+        "issues": []
+      },
+      {
+        "id": "recipe_000139",
+        "issues": []
+      },
+      {
+        "id": "recipe_000140",
+        "issues": []
+      },
+      {
+        "id": "recipe_000141",
+        "issues": []
+      },
+      {
+        "id": "recipe_000142",
+        "issues": []
+      },
+      {
+        "id": "recipe_000143",
+        "issues": []
+      },
+      {
+        "id": "recipe_000144",
+        "issues": []
+      },
+      {
+        "id": "recipe_000145",
+        "issues": []
+      },
+      {
+        "id": "recipe_000146",
+        "issues": []
+      },
+      {
+        "id": "recipe_000147",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_6",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000148",
+        "issues": []
+      },
+      {
+        "id": "recipe_000149",
+        "issues": [
+          {
+            "locale": "es",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "regla de sal"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000150",
+        "issues": [
+          {
+            "locale": "es",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "escúchelos"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000151",
+        "issues": []
+      },
+      {
+        "id": "recipe_000152",
+        "issues": []
+      },
+      {
+        "id": "recipe_000153",
+        "issues": []
+      },
+      {
+        "id": "recipe_000154",
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_6",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000155",
+        "issues": []
+      },
+      {
+        "id": "recipe_000156",
+        "issues": [
+          {
+            "locale": "en",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "adage over"
+          },
+          {
+            "locale": "es",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "adapta sobre"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "caldo de mosquito"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_6",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "adiante sobre"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "estoque de frutos do mar"
+          }
+        ]
+      },
+      {
+        "id": "recipe_000157",
+        "issues": []
+      },
+      {
+        "id": "recipe_000158",
+        "issues": []
+      },
+      {
+        "id": "recipe_000159",
+        "issues": []
+      },
+      {
+        "id": "recipe_000160",
+        "issues": []
+      },
+      {
+        "id": "recipe_000161",
+        "issues": []
+      },
+      {
+        "id": "recipe_000162",
+        "issues": []
+      }
+    ],
+    "limitation": "All 972 locale records and their fields were inspected programmatically. Contextual native-language fluency, ingredient-level recipe safety and anime-source accuracy cannot be fully guaranteed by lexical rules alone."
+  },
+  "after": {
+    "scope": {
+      "canonicalRecipes": 162,
+      "locales": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "localeRecordsExamined": 972,
+      "fields": [
+        "title",
+        "description",
+        "animeContext",
+        "ingredient names",
+        "step texts",
+        "IDs",
+        "timers",
+        "quantities"
+      ]
+    },
+    "methodology": "DETERMINISTIC_FULL_CATALOG_SCAN_NOT_SEMANTIC_CERTIFICATION",
+    "summary": {
+      "uniqueRecipesWithFindings": 0,
+      "issueCount": 0,
+      "byKind": {}
+    },
+    "recipes": [
+      {
+        "id": "recipe_000001",
+        "issues": []
+      },
+      {
+        "id": "recipe_000002",
+        "issues": []
+      },
+      {
+        "id": "recipe_000003",
+        "issues": []
+      },
+      {
+        "id": "recipe_000004",
+        "issues": []
+      },
+      {
+        "id": "recipe_000005",
+        "issues": []
+      },
+      {
+        "id": "recipe_000006",
+        "issues": []
+      },
+      {
+        "id": "recipe_000007",
+        "issues": []
+      },
+      {
+        "id": "recipe_000008",
+        "issues": []
+      },
+      {
+        "id": "recipe_000009",
+        "issues": []
+      },
+      {
+        "id": "recipe_000010",
+        "issues": []
+      },
+      {
+        "id": "recipe_000011",
+        "issues": []
+      },
+      {
+        "id": "recipe_000012",
+        "issues": []
+      },
+      {
+        "id": "recipe_000013",
+        "issues": []
+      },
+      {
+        "id": "recipe_000014",
+        "issues": []
+      },
+      {
+        "id": "recipe_000015",
+        "issues": []
+      },
+      {
+        "id": "recipe_000016",
+        "issues": []
+      },
+      {
+        "id": "recipe_000017",
+        "issues": []
+      },
+      {
+        "id": "recipe_000018",
+        "issues": []
+      },
+      {
+        "id": "recipe_000019",
+        "issues": []
+      },
+      {
+        "id": "recipe_000020",
+        "issues": []
+      },
+      {
+        "id": "recipe_000021",
+        "issues": []
+      },
+      {
+        "id": "recipe_000022",
+        "issues": []
+      },
+      {
+        "id": "recipe_000023",
+        "issues": []
+      },
+      {
+        "id": "recipe_000024",
+        "issues": []
+      },
+      {
+        "id": "recipe_000025",
+        "issues": []
+      },
+      {
+        "id": "recipe_000026",
+        "issues": []
+      },
+      {
+        "id": "recipe_000027",
+        "issues": []
+      },
+      {
+        "id": "recipe_000028",
+        "issues": []
+      },
+      {
+        "id": "recipe_000029",
+        "issues": []
+      },
+      {
+        "id": "recipe_000030",
+        "issues": []
+      },
+      {
+        "id": "recipe_000031",
+        "issues": []
+      },
+      {
+        "id": "recipe_000032",
+        "issues": []
+      },
+      {
+        "id": "recipe_000033",
+        "issues": []
+      },
+      {
+        "id": "recipe_000034",
+        "issues": []
+      },
+      {
+        "id": "recipe_000035",
+        "issues": []
+      },
+      {
+        "id": "recipe_000036",
+        "issues": []
+      },
+      {
+        "id": "recipe_000037",
+        "issues": []
+      },
+      {
+        "id": "recipe_000038",
+        "issues": []
+      },
+      {
+        "id": "recipe_000039",
+        "issues": []
+      },
+      {
+        "id": "recipe_000040",
+        "issues": []
+      },
+      {
+        "id": "recipe_000041",
+        "issues": []
+      },
+      {
+        "id": "recipe_000042",
+        "issues": []
+      },
+      {
+        "id": "recipe_000043",
+        "issues": []
+      },
+      {
+        "id": "recipe_000044",
+        "issues": []
+      },
+      {
+        "id": "recipe_000045",
+        "issues": []
+      },
+      {
+        "id": "recipe_000046",
+        "issues": []
+      },
+      {
+        "id": "recipe_000047",
+        "issues": []
+      },
+      {
+        "id": "recipe_000048",
+        "issues": []
+      },
+      {
+        "id": "recipe_000049",
+        "issues": []
+      },
+      {
+        "id": "recipe_000050",
+        "issues": []
+      },
+      {
+        "id": "recipe_000051",
+        "issues": []
+      },
+      {
+        "id": "recipe_000052",
+        "issues": []
+      },
+      {
+        "id": "recipe_000053",
+        "issues": []
+      },
+      {
+        "id": "recipe_000054",
+        "issues": []
+      },
+      {
+        "id": "recipe_000055",
+        "issues": []
+      },
+      {
+        "id": "recipe_000056",
+        "issues": []
+      },
+      {
+        "id": "recipe_000057",
+        "issues": []
+      },
+      {
+        "id": "recipe_000058",
+        "issues": []
+      },
+      {
+        "id": "recipe_000059",
+        "issues": []
+      },
+      {
+        "id": "recipe_000060",
+        "issues": []
+      },
+      {
+        "id": "recipe_000061",
+        "issues": []
+      },
+      {
+        "id": "recipe_000062",
+        "issues": []
+      },
+      {
+        "id": "recipe_000063",
+        "issues": []
+      },
+      {
+        "id": "recipe_000064",
+        "issues": []
+      },
+      {
+        "id": "recipe_000065",
+        "issues": []
+      },
+      {
+        "id": "recipe_000066",
+        "issues": []
+      },
+      {
+        "id": "recipe_000067",
+        "issues": []
+      },
+      {
+        "id": "recipe_000068",
+        "issues": []
+      },
+      {
+        "id": "recipe_000069",
+        "issues": []
+      },
+      {
+        "id": "recipe_000070",
+        "issues": []
+      },
+      {
+        "id": "recipe_000071",
+        "issues": []
+      },
+      {
+        "id": "recipe_000072",
+        "issues": []
+      },
+      {
+        "id": "recipe_000073",
+        "issues": []
+      },
+      {
+        "id": "recipe_000074",
+        "issues": []
+      },
+      {
+        "id": "recipe_000075",
+        "issues": []
+      },
+      {
+        "id": "recipe_000076",
+        "issues": []
+      },
+      {
+        "id": "recipe_000077",
+        "issues": []
+      },
+      {
+        "id": "recipe_000078",
+        "issues": []
+      },
+      {
+        "id": "recipe_000079",
+        "issues": []
+      },
+      {
+        "id": "recipe_000080",
+        "issues": []
+      },
+      {
+        "id": "recipe_000081",
+        "issues": []
+      },
+      {
+        "id": "recipe_000082",
+        "issues": []
+      },
+      {
+        "id": "recipe_000083",
+        "issues": []
+      },
+      {
+        "id": "recipe_000084",
+        "issues": []
+      },
+      {
+        "id": "recipe_000085",
+        "issues": []
+      },
+      {
+        "id": "recipe_000086",
+        "issues": []
+      },
+      {
+        "id": "recipe_000087",
+        "issues": []
+      },
+      {
+        "id": "recipe_000088",
+        "issues": []
+      },
+      {
+        "id": "recipe_000089",
+        "issues": []
+      },
+      {
+        "id": "recipe_000090",
+        "issues": []
+      },
+      {
+        "id": "recipe_000091",
+        "issues": []
+      },
+      {
+        "id": "recipe_000092",
+        "issues": []
+      },
+      {
+        "id": "recipe_000093",
+        "issues": []
+      },
+      {
+        "id": "recipe_000094",
+        "issues": []
+      },
+      {
+        "id": "recipe_000095",
+        "issues": []
+      },
+      {
+        "id": "recipe_000096",
+        "issues": []
+      },
+      {
+        "id": "recipe_000097",
+        "issues": []
+      },
+      {
+        "id": "recipe_000098",
+        "issues": []
+      },
+      {
+        "id": "recipe_000099",
+        "issues": []
+      },
+      {
+        "id": "recipe_000100",
+        "issues": []
+      },
+      {
+        "id": "recipe_000101",
+        "issues": []
+      },
+      {
+        "id": "recipe_000102",
+        "issues": []
+      },
+      {
+        "id": "recipe_000103",
+        "issues": []
+      },
+      {
+        "id": "recipe_000104",
+        "issues": []
+      },
+      {
+        "id": "recipe_000105",
+        "issues": []
+      },
+      {
+        "id": "recipe_000106",
+        "issues": []
+      },
+      {
+        "id": "recipe_000107",
+        "issues": []
+      },
+      {
+        "id": "recipe_000108",
+        "issues": []
+      },
+      {
+        "id": "recipe_000109",
+        "issues": []
+      },
+      {
+        "id": "recipe_000110",
+        "issues": []
+      },
+      {
+        "id": "recipe_000111",
+        "issues": []
+      },
+      {
+        "id": "recipe_000112",
+        "issues": []
+      },
+      {
+        "id": "recipe_000113",
+        "issues": []
+      },
+      {
+        "id": "recipe_000114",
+        "issues": []
+      },
+      {
+        "id": "recipe_000115",
+        "issues": []
+      },
+      {
+        "id": "recipe_000116",
+        "issues": []
+      },
+      {
+        "id": "recipe_000117",
+        "issues": []
+      },
+      {
+        "id": "recipe_000118",
+        "issues": []
+      },
+      {
+        "id": "recipe_000119",
+        "issues": []
+      },
+      {
+        "id": "recipe_000120",
+        "issues": []
+      },
+      {
+        "id": "recipe_000121",
+        "issues": []
+      },
+      {
+        "id": "recipe_000122",
+        "issues": []
+      },
+      {
+        "id": "recipe_000123",
+        "issues": []
+      },
+      {
+        "id": "recipe_000124",
+        "issues": []
+      },
+      {
+        "id": "recipe_000125",
+        "issues": []
+      },
+      {
+        "id": "recipe_000126",
+        "issues": []
+      },
+      {
+        "id": "recipe_000127",
+        "issues": []
+      },
+      {
+        "id": "recipe_000128",
+        "issues": []
+      },
+      {
+        "id": "recipe_000129",
+        "issues": []
+      },
+      {
+        "id": "recipe_000130",
+        "issues": []
+      },
+      {
+        "id": "recipe_000131",
+        "issues": []
+      },
+      {
+        "id": "recipe_000132",
+        "issues": []
+      },
+      {
+        "id": "recipe_000133",
+        "issues": []
+      },
+      {
+        "id": "recipe_000134",
+        "issues": []
+      },
+      {
+        "id": "recipe_000135",
+        "issues": []
+      },
+      {
+        "id": "recipe_000136",
+        "issues": []
+      },
+      {
+        "id": "recipe_000137",
+        "issues": []
+      },
+      {
+        "id": "recipe_000138",
+        "issues": []
+      },
+      {
+        "id": "recipe_000139",
+        "issues": []
+      },
+      {
+        "id": "recipe_000140",
+        "issues": []
+      },
+      {
+        "id": "recipe_000141",
+        "issues": []
+      },
+      {
+        "id": "recipe_000142",
+        "issues": []
+      },
+      {
+        "id": "recipe_000143",
+        "issues": []
+      },
+      {
+        "id": "recipe_000144",
+        "issues": []
+      },
+      {
+        "id": "recipe_000145",
+        "issues": []
+      },
+      {
+        "id": "recipe_000146",
+        "issues": []
+      },
+      {
+        "id": "recipe_000147",
+        "issues": []
+      },
+      {
+        "id": "recipe_000148",
+        "issues": []
+      },
+      {
+        "id": "recipe_000149",
+        "issues": []
+      },
+      {
+        "id": "recipe_000150",
+        "issues": []
+      },
+      {
+        "id": "recipe_000151",
+        "issues": []
+      },
+      {
+        "id": "recipe_000152",
+        "issues": []
+      },
+      {
+        "id": "recipe_000153",
+        "issues": []
+      },
+      {
+        "id": "recipe_000154",
+        "issues": []
+      },
+      {
+        "id": "recipe_000155",
+        "issues": []
+      },
+      {
+        "id": "recipe_000156",
+        "issues": []
+      },
+      {
+        "id": "recipe_000157",
+        "issues": []
+      },
+      {
+        "id": "recipe_000158",
+        "issues": []
+      },
+      {
+        "id": "recipe_000159",
+        "issues": []
+      },
+      {
+        "id": "recipe_000160",
+        "issues": []
+      },
+      {
+        "id": "recipe_000161",
+        "issues": []
+      },
+      {
+        "id": "recipe_000162",
+        "issues": []
+      }
+    ],
+    "limitation": "All 972 locale records and their fields were inspected programmatically. Contextual native-language fluency, ingredient-level recipe safety and anime-source accuracy cannot be fully guaranteed by lexical rules alone."
+  },
+  "correctedIDs": [
+    "recipe_000056",
+    "recipe_000059",
+    "recipe_000061",
+    "recipe_000063",
+    "recipe_000071",
+    "recipe_000075",
+    "recipe_000079",
+    "recipe_000082",
+    "recipe_000090",
+    "recipe_000092",
+    "recipe_000093",
+    "recipe_000098",
+    "recipe_000099",
+    "recipe_000108",
+    "recipe_000110",
+    "recipe_000111",
+    "recipe_000116",
+    "recipe_000117",
+    "recipe_000118",
+    "recipe_000119",
+    "recipe_000120",
+    "recipe_000123",
+    "recipe_000129",
+    "recipe_000130",
+    "recipe_000133",
+    "recipe_000147",
+    "recipe_000149",
+    "recipe_000150",
+    "recipe_000154",
+    "recipe_000156"
+  ],
+  "correctedRecipeCount": 30,
+  "correctedTextFields": 42,
+  "mainIntegration": "NOT_ASSERTED_BY_SCANNER",
+  "remainingReviewRequired": false
+}

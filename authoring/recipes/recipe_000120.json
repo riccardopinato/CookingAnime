@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000120",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -300,7 +300,7 @@
         "step_2": "Chauffez une grande poêle, roulez le porc et ajoutez de la carotte, du chou et d'éventuelles pousses; sautez jusqu'à ce que les légumes commencent à se ramollir.",
         "step_3": "Ajoutez les nouilles et quelques cuillères à soupe d'eau, couvrez pendant 1 à 2 minutes puis séparez-les complètement.",
         "step_4": "Assaisonnez avec de la sauce yakisoba et sautez jusqu'à ce que le fond soit sec et les nouilles sont bien recouvertes; écartez-vous de la chaleur.",
-        "step_5": "Battre les œufs avec du lait et une pincée de sel, puis cuire dans une poêle propre une frittatine fine encore douce au centre.",
+        "step_5": "Battre les œufs avec du lait et une pincée de sel, puis cuire dans une poêle propre une omelette fine encore douce au centre.",
         "step_6": "Placez une portion de yakisoba au centre de la karma, repliez les bords et renversez le plat avec la fermeture vers le bas.",
         "step_7": "Complétez avec la sauce yakisoba, la mayonnaise Kewpie et les aonori; ajoutez des biens shoga ou katsuobushi si prévu.",
         "step_8": "Servez-vous immédiatement avant que l'omelette ne sèche."

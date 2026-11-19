@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000117",
-  "contentVersion": 4,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -489,7 +489,7 @@
         "step_2": "Porte doucement à frémissement la sauce soja, le vinaigre de riz, le mirin et le sucre pour préparer la sauce nanban, puis laisse tiédir.",
         "step_3": "Préparez la tartare en mélangeant œuf dur haché, oignon et cornichon bien écolés, mayonnaise japonaise, peu de vinaigre, sel et poivre; gardez-la au réfrigérateur.",
         "step_4": "Essuyez le poulet de la marinade, passez-le dans l'amidon de pommes de terre ou de maïs et secouez l'excès.",
-        "step_5": "Fritez à 170-175°C en petits lots jusqu'à ce que les bouchées soient dorées et que le poulet soit complètement cuit; aspirez sur le grill. Vérifiez les morceaux de poulet avec un thermomètre alimentaire : ils doivent atteindre au moins 74 °C à cœur. La couleur dorée et le temps de friture ne suffisent pas à garantir la cuisson.",
+        "step_5": "Fritez à 170-175°C en petits lots jusqu'à ce que les bouchées soient dorées et que le poulet soit complètement cuit; égouttez sur le grill. Vérifiez les morceaux de poulet avec un thermomètre alimentaire : ils doivent atteindre au moins 74 °C à cœur. La couleur dorée et le temps de friture ne suffisent pas à garantir la cuisson.",
         "step_6": "Plongez le karaage encore chaud dans la sauce namban pendant quelques secondes, puis absorbez l'assaisonnement sans perdre complètement le croquant.",
         "step_7": "Distribuez du riz chaud et du chou julienne dans les bols, ajoutez le poulet namban et complètez avec la sauce tartare froide.",
         "step_8": "Servez immédiatement, en maintenant le contraste entre riz chaud, poulet croustillant et tartare fraîche."
@@ -501,7 +501,7 @@
       "animeContext": "Dieses Rezept ist thematisch von Food Wars!, My Hero Academia inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
-          "name": "Hähnchenüberschnürung ohne Knochen, ohne Haut, mit Bissen",
+          "name": "Hähnchenoberkeule ohne Knochen, ohne Haut, mit Bissen",
           "note": null
         },
         "pollo_salsa_di_soia_2": {

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000060",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Si alza il vento (Studio Ghibli)",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 6,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -114,7 +114,7 @@
           "note": null
         },
         "farina_per_pane_o_farina_00_setacciata": {
-          "name": "flour for bread or flour 00 sieved",
+          "name": "flour for bread or Italian 00 flour sieved",
           "note": null
         },
         "miele_di_acacia": {

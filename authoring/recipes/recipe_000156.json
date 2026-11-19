@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000156",
-  "contentVersion": 4,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Ramen Daisuki Koizumi-san",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -165,7 +165,7 @@
         "step_5": "Heat well the clam broth without overly reducing it.",
         "step_6": "Cook the noodles for ramen in plenty of boiling water for 2 minutes and drain.",
         "step_7": "Distribute the noodles in the bowls and cover them with the hot broth to the clams.",
-        "step_8": "Adage over the clams in the shell, the corn and the fresh onion; complete with a nut of butter, which melting will bind the seafood stock."
+        "step_8": "Arrange over the clams in the shell, the corn and the fresh onion; complete with a nut of butter, which melting will bind the seafood stock."
       }
     },
     "it": {
@@ -271,7 +271,7 @@
         "step_5": "Calienta bien el caldo en las almejas sin que se reduzca excesivamente.",
         "step_6": "Cocine los fideos para ramen en abundante agua hirviendo durante 2 minutos y escurrir.",
         "step_7": "Reparte los fideos en los cuencos y cúbrelos con caldo caliente en las almejas.",
-        "step_8": "Adapta sobre las almejas en la cáscara, el maíz y la cebolla fresca; completa con una nuez de mantequilla, que se derrite atando el caldo marinero."
+        "step_8": "Coloca sobre las almejas en la cáscara, el maíz y la cebolla fresca; completa con una nuez de mantequilla, que se derrite atando el caldo marinero."
       }
     },
     "fr": {
@@ -390,11 +390,11 @@
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "moscas, verdadeiras, torcidas",
+          "name": "amêijoas depuradas",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Brodo de Dashi leve",
+          "name": "Caldo de dashi leve",
           "note": null
         },
         "sake_giapponese": {
@@ -427,10 +427,10 @@
         "step_2": "Cubra com tampa e cozinhe a fogo alto por 3-4 minutos até que os moluscos se abram. Use amêijoas vivas e depuradas de fornecedor fiável. Deite fora as que têm conchas partidas ou não fecham ao toque e, depois de bem cozidas, as que permaneçam fechadas. Não aproveite o líquido das amêijoas rejeitadas.",
         "step_3": "Filtrar cuidadosamente o líquido liberado dos moluscos e mantê- lo de lado junto com moluscos abertos.",
         "step_4": "Adicione o caldo das amêijoas ao caldo Dashi, adicione o molho de soja leve e uma pitada de sal.",
-        "step_5": "Aqueça bem o caldo de mosquito sem reduzi- lo excessivamente.",
-        "step_6": "Cozinhe os macarrão para ramen em água fervente abundante por 2 minutos e drene.",
+        "step_5": "Aqueça bem o caldo de amêijoas sem reduzi- lo excessivamente.",
+        "step_6": "Cozinhe os macarrão para ramen em água fervente abundante por 2 minutos e escorra.",
         "step_7": "Distribua os macarrão nas tigelas e cubra- os com o caldo quente para os moluscos.",
-        "step_8": "Adiante sobre os moluscos na concha, o milho e a cebola fresca; completa com uma noz de manteiga, que derreterá vai amarrar o estoque de frutos do mar."
+        "step_8": "Disponha por cima os moluscos na concha, o milho e a cebola fresca; completa com uma noz de manteiga, que derreterá vai amarrar o caldo de marisco."
       }
     }
   }

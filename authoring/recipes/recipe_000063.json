@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000063",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Dragon Ball",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -402,7 +402,7 @@
       },
       "steps": {
         "step_1": "Dans une casserole, ajoutez le bouillon de poulet, la sauce de soja, le sucre, le vinaigre de riz et la sauce d'huître.",
-        "step_2": "Il porte à léger ébullition à feu moyen, puis ajoute l'amidon de maïs dissous en amalgameant continuellement jusqu'à obtenir une sauce brillante, épaissie et veloutée, maintenez au chaud.",
+        "step_2": "Il porte à léger ébullition à feu moyen, puis ajoute l'amidon de maïs dissous en mélangeant continuellement jusqu'à obtenir une sauce brillante, épaissie et veloutée, maintenez au chaud.",
         "step_3": "Dans un bol, il travaille légèrement les 4 œufs avec une pincée de sel, poivre, huile de sésame, la pulpe de crabe défilée et la moitié des oignons.",
         "step_4": "Chauffez un fil d'huile abondant dans une poêle anti-adhérente à feu vif.",
         "step_5": "Ajouter la moitié du mélange d'œufs pour chaque portion.",

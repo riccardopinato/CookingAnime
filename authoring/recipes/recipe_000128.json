@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000128",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 4,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -163,7 +163,7 @@
         "step_3": "Insert the carrots and potatoes.",
         "step_4": "Add the meat broth and the grated apple.",
         "step_5": "Cover and simmer over medium-low heat for 20 minutes.",
-        "step_6": "Turn off the fire, join the roux for curry and amalgam until complete dissolution.",
+        "step_6": "Turn off the heat, join the roux for curry and amalgam until complete dissolution.",
         "step_7": "Combine the bitter cocoa powder (or dark chocolate), mix well and cook over very slow heat for another 5 minutes until you get a thick, shiny and aromatic sauce.",
         "step_8": "Bring to the hot table accompanied by white steamed rice."
       }

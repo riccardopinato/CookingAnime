@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000136",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -291,7 +291,7 @@
         "step_2": "Legen Sie die Spieße vorsichtig ein und schieben Sie die Oberfläche wieder ein.",
         "step_3": "Mischen Sie Miso, Zucker, Mirin und Sake in einem Topf und kochen Sie mit niedrigem Feuer für ca. 2 Minuten, bis die Glasur glatt und dicht genug ist, um zu kleben.",
         "step_4": "Grillen Sie den Tofu 2-3 Minuten pro Seite auf einer warmen Platte, bis eine leichte Vergoldung erscheint.",
-        "step_5": "Spennella ein erstes Mal mit der Miso-Sauce und lässt für ca. 30 Sekunden trocknen.",
+        "step_5": "Bestreichen Sie ein erstes Mal mit der Miso-Sauce und lässt für ca. 30 Sekunden trocknen.",
         "step_6": "Eine zweite Schicht Glasur auftragen und die Auberginen 1 bis 2 Minuten unter den Backofengrill stellen. Dabei ständig kontrollieren, da die zuckerhaltige Misoglasur leicht anbrennt.",
         "step_7": "Komplett mit Toast Sesam und serviert warm."
       }

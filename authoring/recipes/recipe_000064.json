@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000064",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Isekai Shokudo - Restaurant to Another World",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 4,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -215,7 +215,7 @@
         "step_6": "Pass each schnitzel first into the flour, then into the beaten egg and finally cover it generously with Panko pressing lightly with your fingers to make the crumbs stick well.",
         "step_7": "Heats plenty of oil to fry at 170°C.",
         "step_8": "Fry the Menchi Katsu for 5-6 minutes per side on medium-low heat until the crust is dark and golden and the inside is well cooked and juicy.",
-        "step_9": "Drain on absorbent paper and bring to the table hot accompanied by fresh cabbage and Tonkatsu sauce."
+        "step_9": "Drain on absorbent paper and serve hot accompanied by fresh cabbage and Tonkatsu sauce."
       }
     },
     "it": {

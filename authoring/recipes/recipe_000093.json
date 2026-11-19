@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000093",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -156,7 +156,7 @@
       "steps": {
         "step_1": "Prepare two bowls with the rice warm and keep the tonkatsu cutlets already cooked and cut into strips about 2 cm wide.",
         "step_2": "In a donburi sauce it simmers dashi, soy sauce, mirin and sugar; add the onion and cook 3-4 minutes until it becomes translucent.",
-        "step_3": "Adage over the onion a sliced cutlet without submerging it completely, so the breading absorbs flavor but does not dissolve.",
+        "step_3": "Arrange over the onion a sliced cutlet without submerging it completely, so the breading absorbs flavor but does not dissolve.",
         "step_4": "Just beat an egg leaving visible egg white and yolk and pour about two thirds around and over the cutlet.",
         "step_5": "Distribute half of the cheese, cover and cook 60-90 seconds; add the remaining egg and turn off when it is still soft and shiny.",
         "step_6": "Carefully slide the contents of the pan onto the hot rice without breaking the schooner.",
@@ -260,7 +260,7 @@
       "steps": {
         "step_1": "Prepara dos cuencos con arroz caliente y mantén las chuletas tonkatsu ya cocidas y cortadas en tiras anchas cerca de 2 cm.",
         "step_2": "En una sartén pequeña para donburi, lleva a hervor suave el dashi con la salsa de soja, el mirin y el azúcar. Añade la cebolla y cocínala 3-4 minutos, hasta que esté translúcida.",
-        "step_3": "Adapta sobre la cebolla una chuleta cortada sin sumergirla completamente, por lo que la pasta absorbe sabor pero no se deshace.",
+        "step_3": "Coloca sobre la cebolla una chuleta cortada sin sumergirla completamente, por lo que la pasta absorbe sabor pero no se deshace.",
         "step_4": "Sólo golpea un huevo dejando visible la clara y la yema y verter alrededor de dos tercios y encima de la chuleta.",
         "step_5": "Distribuir la mitad del queso, tapas y horneas 60-90 segundos; añadir el huevo restante y apagar cuando todavía esté suave y brillante.",
         "step_6": "Desliza con cuidado el contenido de la sartén pequeña sobre el arroz caliente sin romper la chuleta.",

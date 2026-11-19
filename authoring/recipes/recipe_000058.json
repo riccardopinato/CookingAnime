@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000058",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer (Kimetsu no Yaiba)",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 4,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -153,7 +153,7 @@
         "step_8": "Bake the balls in boiling water divided by color (first white, then pink, finally green) for about 2-3 minutes since they come up to the surface.",
         "step_9": "Transfer them to frozen water.",
         "step_10": "Stick a green ball down on each bamboo skewer, a white ball in the middle and a pink ball on top.",
-        "step_11": "Bring to the table at room temperature."
+        "step_11": "Serve at room temperature."
       }
     },
     "it": {

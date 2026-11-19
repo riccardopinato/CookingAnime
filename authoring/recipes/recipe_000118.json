@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000118",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Jujutsu Kaisen",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -358,7 +358,7 @@
       "steps": {
         "step_1": "Aqueça suavemente o kakuni no fundo até que a carne esteja macia e a gordura brilhe novamente; não o ferva com força.",
         "step_2": "Traga o dashi para uma ebulição e sazona com molho de soja e mirin, degustando antes de adicionar mais sal.",
-        "step_3": "Em um pote separado cozinhe o udon de acordo com o pacote, em seguida, drene- os muito bem.",
+        "step_3": "Em um pote separado cozinhe o udon de acordo com o pacote, em seguida, escorra-os muito bem.",
         "step_4": "Enxagua o udon rapidamente apenas se necessário pelo tipo usado, em seguida, transferi- lo para as tigelas pré- aquecidas.",
         "step_5": "Despeje o caldo fervente no udon e separe suavemente os fios com os pauzinhos.",
         "step_6": "Adicione dois pedaços de kakuni por porção e adicione uma colher do fundo do manteiga para intensificar o sabor.",

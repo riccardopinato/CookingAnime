@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000077",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -327,7 +327,7 @@
         "step_5": "Füllen Sie die Schalen (Donburi) mit dem warmen weißen Reis.",
         "step_6": "Nappa Reis mit einem Esslöffel Unagi Tare heißer Soße.",
         "step_7": "Schneide die Aalfilets in die Mitte und lege sie vorsichtig über den Reis.",
-        "step_8": "Spennella mit einem weiteren Schleier von Soße und Staub mit einem Hauch von Pfeffer Sansho Aroma."
+        "step_8": "Bestreichen Sie mit einem weiteren Schleier von Soße und Staub mit einem Hauch von Pfeffer Sansho Aroma."
       }
     },
     "pt": {

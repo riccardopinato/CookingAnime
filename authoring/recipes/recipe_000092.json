@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000092",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Gintama",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -385,7 +385,7 @@
         }
       },
       "steps": {
-        "step_1": "Lave os brotos de soja em água fria, drene- os muito bem e seque- os: eles devem entrar na panela quase seca para permanecer crocante.",
+        "step_1": "Lave os brotos de soja em água fria, escorra-os muito bem e seque- os: eles devem entrar na panela quase seca para permanecer crocante.",
         "step_2": "Corte o bacon, a cenoura e a cebolinha em pedaços finos. Deixe o molho de soja, o dashi granulado, a pimenta e o óleo de sésamo ao lado do wok.",
         "step_3": "Aqueça o wok a fogo alto e dobre o bacon sem outras gorduras até que ele liberte parte da sua gordura e obtenha cor.",
         "step_4": "Adicione a cenoura e sal por cerca de 1 minuto, mantendo o fogo alto.",

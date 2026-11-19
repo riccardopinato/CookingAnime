@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000055",
-  "contentVersion": 3,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Yuru Camp△",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -174,7 +174,7 @@
         "step_5": "Simmer the chicken pieces over medium heat; 5–7 minutes is only a guide. Check with a food thermometer that the centre reaches at least 74 °C, cooking longer if needed.",
         "step_6": "Combine the noodles udon directly in the stewed boiling broth and cook for another 4-5 minutes to absorb the flavors of miso.",
         "step_7": "Use pasteurized eggs if you want a creamy yolk. Crack one into the centre of each serving, turn off the heat and cover for about 2 minutes until the whites have set. If the eggs are not pasteurized, cook both whites and yolks thoroughly.",
-        "step_8": "Garnish with the fresh onion and bring to the table very hot directly from the pot."
+        "step_8": "Garnish with the fresh onion and serve very hot directly from the pot."
       }
     },
     "it": {
