@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000075",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Persona 5",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -438,7 +438,7 @@
         "step_4": "Combine o caldo Dashi, molho de soja e Mirin.",
         "step_5": "Cozinhe até que os legumes estejam tenros.",
         "step_6": "Desligue o lume, junte os cubos de roux de caril esfarelados e mexa com umas varas até se dissolverem por completo, formando um caldo cremoso e espesso.",
-        "step_7": "Cozinhe o Udon em água fervente por 2 minutos, drene e divida- os em duas tigelas grandes.",
+        "step_7": "Cozinhe o Udon em água fervente por 2 minutos, escorra e divida- os em duas tigelas grandes.",
         "step_8": "Adicione o caldo grosso ao curry fervente acima do Udon.",
         "step_9": "Adicione o schnitzel crocante Tonkatsu na superfície e guarneça com muita cebola fresca."
       }

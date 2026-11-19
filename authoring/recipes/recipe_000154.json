@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000154",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -486,7 +486,7 @@
         "step_3": "Adicione daikon, cenoura e shiitake e salte por cerca de 3 minutos.",
         "step_4": "Despeje o dashi kombu, leve à luz e cozinhe coberto por cerca de 8-10 minutos, até que as raízes estejam tenras.",
         "step_5": "Sazonar com molho de soja e mirin e saborear o caldo antes de adicionar mais sal.",
-        "step_6": "Cozinhe o udon em um pote separado para o tempo necessário, drene bem e distribua- os nas tigelas.",
+        "step_6": "Cozinhe o udon em um pote separado para o tempo necessário, escorra bem e distribua- os nas tigelas.",
         "step_7": "Verter sobre a sopa com tofu e legumes.",
         "step_8": "Completo com cebola e shichimi togarashi e servir muito quente."
       }

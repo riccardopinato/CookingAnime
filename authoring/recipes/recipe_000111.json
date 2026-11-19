@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000111",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -356,7 +356,7 @@
         }
       },
       "steps": {
-        "step_1": "Insira ligeiramente a pele dos filetes de sarjeta e derrama água fervente sobre ele por alguns segundos; drene e seque- os para atenuar o cheiro mais intenso.",
+        "step_1": "Insira ligeiramente a pele dos filetes de sarjeta e derrama água fervente sobre ele por alguns segundos; escorra e seque- os para atenuar o cheiro mais intenso.",
         "step_2": "Corte o gengibre em fatias finas e prepare- se em uma grande panela de água ou dashi, sake, mirin e açúcar.",
         "step_3": "Traga o líquido para uma ebulição e adicione metade do gengibre.",
         "step_4": "Coloque a cavala com a pele virada para cima, cubra com uma otoshibuta ou papel de cozimento perfurado e cozinhe a fogo médio a baixo por cerca de 8-10 minutos.",

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000149",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -277,7 +277,7 @@
         "step_5": "Añade el arroz al wok inmediatamente y salta a fuego fuerte durante 3-4 minutos, desgranando constantemente con la espátula.",
         "step_6": "Añade la pulpa de cangrejo desfibrada y mezcla suavemente para mezclar sin exhalar excesivamente la pulpa.",
         "step_7": "Añade la salsa de soja a lo largo del borde enrollado del wok para hacerla caramelizar antes de incorporarla al arroz.",
-        "step_8": "Regla de sal y abundante pimienta blanca.",
+        "step_8": "Ajusta de sal y abundante pimienta blanca.",
         "step_9": "Une el resto de la cebolla fresca y sirves bien caliente."
       }
     },

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000110",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -272,7 +272,7 @@
         "step_2": "Débollental pendant environ 1 minute, écolière et rincée: cette phase élimine les impuretés et une partie de l'odeur sans trop dissoudre la graisse.",
         "step_3": "Prépare le bouillon avec le dashi, l’ail, le piment et le miso ou la sauce soja. Assaisonne-le suffisamment, car le chou et le tofu en atténueront le goût.",
         "step_4": "Placez le chou sur le fond du nabe, ajoutez du tofu et des abats et versez le bouillon jusqu'à couvrir partiellement les ingrédients.",
-        "step_5": "Apportez à l'éponge et faites cuire les abats pendant environ 10-15 minutes, jusqu'à ce qu'ils deviennent gonflés et tenir.",
+        "step_5": "Portez à frémissement et faites cuire les abats pendant environ 10-15 minutes, jusqu'à ce qu'ils deviennent bien chauds et tendres.",
         "step_6": "Ajouter le nira coupé en bâtonnets dans les dernières minutes, sans trop mélanger.",
         "step_7": "Goûtez le bouillon, règlez le miso ou le soja et servez le nabe bouillant directement à partir de la casserole."
       }
@@ -357,7 +357,7 @@
       },
       "steps": {
         "step_1": "Limpe bem as miudezas; esfregue- as com sal e farinha, enxague- as várias vezes e corte- as em mordidas regulares. Utilize apenas tripas ou miudezas já limpas e pré-cozidas, seguindo as indicações do produtor. Os 10–15 minutos são para aquecer no final, NÃO chegam para cozinhar miudezas cruas; estas exigem cozedura completa prévia.",
-        "step_2": "Ferva por cerca de 1 minuto, drene e enxagua: esta fase elimina impurezas e parte do cheiro sem derreter a gordura demais.",
+        "step_2": "Ferva por cerca de 1 minuto, escorra e enxagua: esta fase elimina impurezas e parte do cheiro sem derreter a gordura demais.",
         "step_3": "Prepare o caldo com dashi, alho, malagueta e miso ou molho de soja. Tempere bem, pois a couve e o tofu vão suavizar o sabor.",
         "step_4": "Coloque o repolho no fundo do nabe, adicione tofu e miudezas e derrame o caldo até que você cubra parcialmente os ingredientes.",
         "step_5": "Traga à ebulição e cozinhe as miudezas por cerca de 10-15 minutos, até que fiquem inchadas e tenras.",

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000079",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Isekai Shokudo (Restaurant to Another World)",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 4,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -330,7 +330,7 @@
         "step_1": "En una sartén, suelta la mantequilla y sufro la cebolla a fuego lento sin que la dore.",
         "step_2": "Mezcla la harina y deja que se cocine durante 2 minutos mediante la mezcla (roux).",
         "step_3": "Añade la leche caliente poco a poco, removiendo con unas varillas hasta obtener una bechamel espesa y lisa.",
-        "step_4": "Une la pulpa de cangrejo, regla de sal, pimienta y nuez moscada.",
+        "step_4": "Une la pulpa de cangrejo, ajusta de sal, pimienta y nuez moscada.",
         "step_5": "Añadir el compuesto sobre una bandeja plana, tapar en contacto con película y colocarlo en la nevera durante al menos 1 hora hasta que se vuelva sólido y modelable.",
         "step_6": "Con las manos ligeramente aceitadas, divide el compuesto frío en 8 porciones ovaladas.",
         "step_7": "Pasa cada croqueta en la harina, luego en el huevo batido y finalmente en el Panko haciendo que se adhiera bien.",

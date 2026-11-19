@@ -23,19 +23,32 @@
       "recipe_000060",
       "recipe_000061",
       "recipe_000062",
+      "recipe_000063",
       "recipe_000064",
       "recipe_000068",
+      "recipe_000071",
+      "recipe_000075",
       "recipe_000077",
       "recipe_000079",
+      "recipe_000082",
       "recipe_000084",
       "recipe_000086",
+      "recipe_000090",
+      "recipe_000092",
+      "recipe_000093",
       "recipe_000095",
+      "recipe_000098",
+      "recipe_000099",
       "recipe_000100",
       "recipe_000104",
+      "recipe_000108",
       "recipe_000110",
+      "recipe_000111",
       "recipe_000116",
       "recipe_000117",
+      "recipe_000118",
       "recipe_000119",
+      "recipe_000120",
       "recipe_000121",
       "recipe_000123",
       "recipe_000126",
@@ -49,13 +62,15 @@
       "recipe_000145",
       "recipe_000147",
       "recipe_000148",
+      "recipe_000149",
       "recipe_000150",
       "recipe_000153",
+      "recipe_000154",
       "recipe_000156",
       "recipe_000161"
     ],
-    "correctedRecipeCount": 40,
-    "correctedTextFields": 111
+    "correctedRecipeCount": 55,
+    "correctedTextFields": 153
   },
   "date": "2026-11-19",
   "mode": "APPLIED_SOURCE_BOUND_FIXED_ERRORS",
@@ -84,10 +99,10 @@
     },
     "methodology": "DETERMINISTIC_FULL_CATALOG_SCAN_NOT_SEMANTIC_CERTIFICATION",
     "summary": {
-      "uniqueRecipesWithFindings": 15,
-      "issueCount": 16,
+      "uniqueRecipesWithFindings": 30,
+      "issueCount": 43,
       "byKind": {
-        "witnessed_false_friend_or_loanword": 16
+        "witnessed_false_friend_or_loanword": 43
       }
     },
     "recipes": [
@@ -297,27 +312,11 @@
       },
       {
         "id": "recipe_000052",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000053",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_per_tempura.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000054",
@@ -329,7 +328,15 @@
       },
       {
         "id": "recipe_000056",
-        "issues": []
+        "issues": [
+          {
+            "locale": "fr",
+            "path": "ingredients.uovo.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "frittatine fine"
+          }
+        ]
       },
       {
         "id": "recipe_000057",
@@ -341,23 +348,38 @@
       },
       {
         "id": "recipe_000059",
-        "issues": []
-      },
-      {
-        "id": "recipe_000060",
         "issues": [
           {
-            "locale": "en",
-            "path": "ingredients.farina_per_pane_o_farina_00_setacciata.name",
+            "locale": "fr",
+            "path": "steps.step_2",
             "kind": "witnessed_false_friend_or_loanword",
             "severity": "REVIEW",
-            "evidence": "flour 00"
+            "evidence": "détachez la moitié du beurre"
           }
         ]
       },
       {
-        "id": "recipe_000061",
+        "id": "recipe_000060",
         "issues": []
+      },
+      {
+        "id": "recipe_000061",
+        "issues": [
+          {
+            "locale": "es",
+            "path": "steps.step_7",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "escúchelos"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_7",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000062",
@@ -365,7 +387,15 @@
       },
       {
         "id": "recipe_000063",
-        "issues": []
+        "issues": [
+          {
+            "locale": "fr",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "amalgameant"
+          }
+        ]
       },
       {
         "id": "recipe_000064",
@@ -385,15 +415,7 @@
       },
       {
         "id": "recipe_000068",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000069",
@@ -405,7 +427,15 @@
       },
       {
         "id": "recipe_000071",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_9",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000072",
@@ -421,7 +451,15 @@
       },
       {
         "id": "recipe_000075",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_7",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000076",
@@ -439,18 +477,11 @@
         "id": "recipe_000079",
         "issues": [
           {
-            "locale": "en",
-            "path": "ingredients.farina_00.name",
+            "locale": "es",
+            "path": "steps.step_4",
             "kind": "witnessed_false_friend_or_loanword",
             "severity": "REVIEW",
-            "evidence": "flour 00"
-          },
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00_2.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
+            "evidence": "regla de sal"
           }
         ]
       },
@@ -464,7 +495,15 @@
       },
       {
         "id": "recipe_000082",
-        "issues": []
+        "issues": [
+          {
+            "locale": "de",
+            "path": "ingredients.sovracosce_e_ali_di_pollo_con_osso_e_pelle_1_sovracosce.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberschnürung"
+          }
+        ]
       },
       {
         "id": "recipe_000083",
@@ -472,15 +511,7 @@
       },
       {
         "id": "recipe_000084",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00_e_1_uovo_sbattuto_per_impanare_1_farina_00.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000085",
@@ -488,15 +519,7 @@
       },
       {
         "id": "recipe_000086",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000087",
@@ -512,7 +535,22 @@
       },
       {
         "id": "recipe_000090",
-        "issues": []
+        "issues": [
+          {
+            "locale": "es",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "escúchelos"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000091",
@@ -520,11 +558,34 @@
       },
       {
         "id": "recipe_000092",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_1",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000093",
-        "issues": []
+        "issues": [
+          {
+            "locale": "en",
+            "path": "steps.step_3",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "adage over"
+          },
+          {
+            "locale": "es",
+            "path": "steps.step_3",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "adapta sobre"
+          }
+        ]
       },
       {
         "id": "recipe_000094",
@@ -544,11 +605,34 @@
       },
       {
         "id": "recipe_000098",
-        "issues": []
+        "issues": [
+          {
+            "locale": "de",
+            "path": "description",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberknospen"
+          },
+          {
+            "locale": "de",
+            "path": "ingredients.sovracosce_di_pollo_disossate_con_la_pelle.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberschnürung"
+          }
+        ]
       },
       {
         "id": "recipe_000099",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000100",
@@ -568,15 +652,7 @@
       },
       {
         "id": "recipe_000104",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000105",
@@ -592,7 +668,22 @@
       },
       {
         "id": "recipe_000108",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_6",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000109",
@@ -600,11 +691,34 @@
       },
       {
         "id": "recipe_000110",
-        "issues": []
+        "issues": [
+          {
+            "locale": "fr",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "apportez à l'éponge"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000111",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_1",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000112",
@@ -624,35 +738,67 @@
       },
       {
         "id": "recipe_000116",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000117",
-        "issues": []
+        "issues": [
+          {
+            "locale": "de",
+            "path": "ingredients.pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberschnürung"
+          }
+        ]
       },
       {
         "id": "recipe_000118",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_3",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000119",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_2",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000120",
-        "issues": []
+        "issues": [
+          {
+            "locale": "fr",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "frittatine fine"
+          }
+        ]
       },
       {
         "id": "recipe_000121",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000122",
@@ -660,7 +806,15 @@
       },
       {
         "id": "recipe_000123",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_1",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000124",
@@ -672,15 +826,7 @@
       },
       {
         "id": "recipe_000126",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_per_pastella.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000127",
@@ -692,17 +838,25 @@
       },
       {
         "id": "recipe_000129",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_4",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000130",
         "issues": [
           {
-            "locale": "en",
-            "path": "ingredients.farina_per_tempura.name",
+            "locale": "pt",
+            "path": "steps.step_6",
             "kind": "witnessed_false_friend_or_loanword",
             "severity": "REVIEW",
-            "evidence": "flour 00"
+            "evidence": "drene"
           }
         ]
       },
@@ -716,7 +870,22 @@
       },
       {
         "id": "recipe_000133",
-        "issues": []
+        "issues": [
+          {
+            "locale": "en",
+            "path": "description",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "chicken overbone"
+          },
+          {
+            "locale": "de",
+            "path": "ingredients.sovracosce_di_pollo_disossate_con_pelle.name",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "hähnchenüberschnürung"
+          }
+        ]
       },
       {
         "id": "recipe_000134",
@@ -744,15 +913,7 @@
       },
       {
         "id": "recipe_000140",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000141",
@@ -772,15 +933,7 @@
       },
       {
         "id": "recipe_000145",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000146",
@@ -788,7 +941,15 @@
       },
       {
         "id": "recipe_000147",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_6",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000148",
@@ -796,11 +957,34 @@
       },
       {
         "id": "recipe_000149",
-        "issues": []
+        "issues": [
+          {
+            "locale": "es",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "regla de sal"
+          }
+        ]
       },
       {
         "id": "recipe_000150",
-        "issues": []
+        "issues": [
+          {
+            "locale": "es",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "escúchelos"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000151",
@@ -816,7 +1000,15 @@
       },
       {
         "id": "recipe_000154",
-        "issues": []
+        "issues": [
+          {
+            "locale": "pt",
+            "path": "steps.step_6",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          }
+        ]
       },
       {
         "id": "recipe_000155",
@@ -826,11 +1018,46 @@
         "id": "recipe_000156",
         "issues": [
           {
-            "locale": "pt",
-            "path": "ingredients.vongole_veraci_spurgate.name",
+            "locale": "en",
+            "path": "steps.step_8",
             "kind": "witnessed_false_friend_or_loanword",
             "severity": "REVIEW",
-            "evidence": "moscas, verdadeiras"
+            "evidence": "adage over"
+          },
+          {
+            "locale": "es",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "adapta sobre"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_5",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "caldo de mosquito"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_6",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "drene"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "adiante sobre"
+          },
+          {
+            "locale": "pt",
+            "path": "steps.step_8",
+            "kind": "witnessed_false_friend_or_loanword",
+            "severity": "REVIEW",
+            "evidence": "estoque de frutos do mar"
           }
         ]
       },
@@ -852,15 +1079,7 @@
       },
       {
         "id": "recipe_000161",
-        "issues": [
-          {
-            "locale": "en",
-            "path": "ingredients.farina_00.name",
-            "kind": "witnessed_false_friend_or_loanword",
-            "severity": "REVIEW",
-            "evidence": "flour 00"
-          }
-        ]
+        "issues": []
       },
       {
         "id": "recipe_000162",
@@ -1551,24 +1770,39 @@
     "limitation": "All 972 locale records and their fields were inspected programmatically. Contextual native-language fluency, ingredient-level recipe safety and anime-source accuracy cannot be fully guaranteed by lexical rules alone."
   },
   "correctedIDs": [
-    "recipe_000052",
-    "recipe_000053",
-    "recipe_000060",
-    "recipe_000068",
+    "recipe_000056",
+    "recipe_000059",
+    "recipe_000061",
+    "recipe_000063",
+    "recipe_000071",
+    "recipe_000075",
     "recipe_000079",
-    "recipe_000084",
-    "recipe_000086",
-    "recipe_000104",
-    "recipe_000121",
-    "recipe_000126",
+    "recipe_000082",
+    "recipe_000090",
+    "recipe_000092",
+    "recipe_000093",
+    "recipe_000098",
+    "recipe_000099",
+    "recipe_000108",
+    "recipe_000110",
+    "recipe_000111",
+    "recipe_000116",
+    "recipe_000117",
+    "recipe_000118",
+    "recipe_000119",
+    "recipe_000120",
+    "recipe_000123",
+    "recipe_000129",
     "recipe_000130",
-    "recipe_000140",
-    "recipe_000145",
-    "recipe_000156",
-    "recipe_000161"
+    "recipe_000133",
+    "recipe_000147",
+    "recipe_000149",
+    "recipe_000150",
+    "recipe_000154",
+    "recipe_000156"
   ],
-  "correctedRecipeCount": 15,
-  "correctedTextFields": 16,
+  "correctedRecipeCount": 30,
+  "correctedTextFields": 42,
   "mainIntegration": "NOT_ASSERTED_BY_SCANNER",
   "remainingReviewRequired": false
 }

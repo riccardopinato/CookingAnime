@@ -3166,7 +3166,7 @@
         "step_4": "Adicione lentamente o caldo de frango quente, misturando- se bem para dissolver completamente o miso.",
         "step_5": "Ferva sobre um calor doce por 10-15 minutos para misturar todos os sabores.",
         "step_6": "Numa frigideira à parte, salteie os rebentos de soja com um fio de óleo de sésamo durante 2 minutos, mantendo-os estaladiços.",
-        "step_7": "Cozinhe os macarrão frescos em água fervente em muita água fervente, não salgada, seguindo as instruções do pacote (cerca de 2-3 minutos), em seguida, drene- os bem.",
+        "step_7": "Cozinhe os macarrão frescos em água fervente em muita água fervente, não salgada, seguindo as instruções do pacote (cerca de 2-3 minutos), em seguida, escorra-os bem.",
         "step_8": "Com base em cada tigela grande, adicione o caldo fervente com miso e carne.",
         "step_9": "Combine os macarrão drenados fazendo com que fiquem no centro.",
         "step_10": "Coloque de um lado os brotos de soja, o milho doce, meio ovo marinado, uma noz de manteiga de malga fresca no centro (típico da tradição de Sapporo), uma cebola aspersa e uma folha de algas Nori presas na borda da tigela.",
@@ -3771,7 +3771,7 @@
         "step_6": "Misture bem no fundo de cada tigela.",
         "step_7": "Colocar numa panela, aquecer o caldo de frango junto com o leite de soja sem fervê- lo difícilmente para evitar que o leite se enrole.",
         "step_8": "Adicione o caldo quente nas tigelas e misture bem com o batido para dissolver a pasta de sésamo no fundo.",
-        "step_9": "Coze macarrão ramen em água fervente por 2 minutos, drene bem e coloque- os no caldo.",
+        "step_9": "Coze macarrão ramen em água fervente por 2 minutos, escorra bem e coloque- os no caldo.",
         "step_10": "Decorar no centro com uma colher generosa de carne picante, as folhas bok choy cozidas e um copo de cebola fresca picada."
       }
     },
@@ -4001,7 +4001,7 @@
         "step_4": "Combine o caldo Dashi, molho de soja e Mirin.",
         "step_5": "Cozinhe até que os legumes estejam tenros.",
         "step_6": "Desligue o lume, junte os cubos de roux de caril esfarelados e mexa com umas varas até se dissolverem por completo, formando um caldo cremoso e espesso.",
-        "step_7": "Cozinhe o Udon em água fervente por 2 minutos, drene e divida- os em duas tigelas grandes.",
+        "step_7": "Cozinhe o Udon em água fervente por 2 minutos, escorra e divida- os em duas tigelas grandes.",
         "step_8": "Adicione o caldo grosso ao curry fervente acima do Udon.",
         "step_9": "Adicione o schnitzel crocante Tonkatsu na superfície e guarneça com muita cebola fresca."
       }
@@ -4810,7 +4810,7 @@
         "step_2": "Aqueça o caldo de frango ou o dashi até que ferva levemente e mantenha- o pronto sem fazê- lo reduzir excessivamente.",
         "step_3": "Prepare a cobertura antes dos macarrão: corte o chashu, corte em metade do jitama, corte a cebola e a porção narutomaki e nori.",
         "step_4": "Despeje o tarare no fundo de duas tigelas de ramen pré- aquecidas e adicione o caldo fervente, agitando- se para distribuir uniformemente o tempero.",
-        "step_5": "Cozinhe os macarrão frescos em muita água fervente por cerca de 2 minutos ou pelo tempo indicado pelo fabricante; drene- os com cuidado sem enxagua- os.",
+        "step_5": "Cozinhe os macarrão frescos em muita água fervente por cerca de 2 minutos ou pelo tempo indicado pelo fabricante; escorra-os com cuidado sem enxagua- os.",
         "step_6": "Transferir os macarrão para o caldo imediatamente e separá- los com os pauzinhos para que não permaneçam embalados.",
         "step_7": "Completo com chashu, meio ajitama, narutomaki, cebola e nori; sirva imediatamente enquanto macarrão e caldo ainda estão muito quentes."
       }
@@ -4906,7 +4906,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Lave os brotos de soja em água fria, drene- os muito bem e seque- os: eles devem entrar na panela quase seca para permanecer crocante.",
+        "step_1": "Lave os brotos de soja em água fria, escorra-os muito bem e seque- os: eles devem entrar na panela quase seca para permanecer crocante.",
         "step_2": "Corte o bacon, a cenoura e a cebolinha em pedaços finos. Deixe o molho de soja, o dashi granulado, a pimenta e o óleo de sésamo ao lado do wok.",
         "step_3": "Aqueça o wok a fogo alto e dobre o bacon sem outras gorduras até que ele liberte parte da sua gordura e obtenha cor.",
         "step_4": "Adicione a cenoura e sal por cerca de 1 minuto, mantendo o fogo alto.",
@@ -5253,7 +5253,7 @@
         "step_2": "Divida a massa em 12 porções iguais e forme bolas compactas sem fissuras.",
         "step_3": "Traga a ebulição um pote abundante de água e mergulhe os dangos sem sobrecarregá- lo.",
         "step_4": "Quando as bolas subirem para a superfície, continue cozindo por mais 2 minutos para cozinhar bem o centro.",
-        "step_5": "Transfira- os imediatamente para água e gelo para parar de cozinhar; drene- os e seque- os suavemente.",
+        "step_5": "Transfira- os imediatamente para água e gelo para parar de cozinhar; escorra-os e seque- os suavemente.",
         "step_6": "Jogue três dangos para cada espelho e distribua sobre o anko suave.",
         "step_7": "Misture kinako e açúcar, ponha em poeira os broches logo antes de servir e consumi- os diariamente para mantê- los macios."
       }
@@ -5628,11 +5628,11 @@
       },
       "stepTexts": {
         "step_1": "Enxague os ossos de porco e deixe- os em água fria por 15-30 minutos, mudando a água várias vezes para remover sangue e impurezas.",
-        "step_2": "Ferva os ossos 10 minutos, drene e lave bem; também limpe o pote antes de iniciar o caldo real.",
+        "step_2": "Ferva os ossos 10 minutos, escorra e lave bem; também limpe o pote antes de iniciar o caldo real.",
         "step_3": "Cobrir os ossos com água fresca, adicionar alho e gengibre e levar a uma ebulição vigorosa; espume os coágulos escuros nos estágios iniciais.",
         "step_4": "Mantenha um fervor firme durante pelo menos 5-6 horas, borbulhando com água fervente quando necessário: a gordura e o colágeno devem emulsionar até que o caldo seja opaco e encorpado.",
         "step_5": "Filtrar o caldo, colocá- lo de volta no fogo e ajustar a concentração; prepare- se para participar, chashu, ovos, brotos, cebola, nori e óleo de maio.",
-        "step_6": "Traga para ferver uma panela separada de água e cozinhe os macarrão frescos para o tempo indicado, geralmente 1-2 minutos; drene- os muito bem.",
+        "step_6": "Traga para ferver uma panela separada de água e cozinhe os macarrão frescos para o tempo indicado, geralmente 1-2 minutos; escorra-os muito bem.",
         "step_7": "Coloque o torro no fundo das tigelas pré- aquecidas, verter o caldo de tonkotsu fervente e misturar.",
         "step_8": "Adicione os macarrão e complete imediatamente com chashu, meio ajitama, botões, cebola, nori e algumas gotas de maio."
       }
@@ -5709,7 +5709,7 @@
       },
       "stepTexts": {
         "step_1": "Limpe bem as miudezas; esfregue- as com sal e farinha, enxague- as várias vezes e corte- as em mordidas regulares. Utilize apenas tripas ou miudezas já limpas e pré-cozidas, seguindo as indicações do produtor. Os 10–15 minutos são para aquecer no final, NÃO chegam para cozinhar miudezas cruas; estas exigem cozedura completa prévia.",
-        "step_2": "Ferva por cerca de 1 minuto, drene e enxagua: esta fase elimina impurezas e parte do cheiro sem derreter a gordura demais.",
+        "step_2": "Ferva por cerca de 1 minuto, escorra e enxagua: esta fase elimina impurezas e parte do cheiro sem derreter a gordura demais.",
         "step_3": "Prepare o caldo com dashi, alho, malagueta e miso ou molho de soja. Tempere bem, pois a couve e o tofu vão suavizar o sabor.",
         "step_4": "Coloque o repolho no fundo do nabe, adicione tofu e miudezas e derrame o caldo até que você cubra parcialmente os ingredientes.",
         "step_5": "Traga à ebulição e cozinhe as miudezas por cerca de 10-15 minutos, até que fiquem inchadas e tenras.",
@@ -5752,7 +5752,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Insira ligeiramente a pele dos filetes de sarjeta e derrama água fervente sobre ele por alguns segundos; drene e seque- os para atenuar o cheiro mais intenso.",
+        "step_1": "Insira ligeiramente a pele dos filetes de sarjeta e derrama água fervente sobre ele por alguns segundos; escorra e seque- os para atenuar o cheiro mais intenso.",
         "step_2": "Corte o gengibre em fatias finas e prepare- se em uma grande panela de água ou dashi, sake, mirin e açúcar.",
         "step_3": "Traga o líquido para uma ebulição e adicione metade do gengibre.",
         "step_4": "Coloque a cavala com a pele virada para cima, cubra com uma otoshibuta ou papel de cozimento perfurado e cozinhe a fogo médio a baixo por cerca de 8-10 minutos.",
@@ -5965,7 +5965,7 @@
       },
       "stepTexts": {
         "step_1": "Lave e escove o bardana, corte- o em um fósforo e coloque- o na água imediatamente por cerca de 5 minutos para limitar a oxidação e atenuar a estringência.",
-        "step_2": "Corte a cenoura em paus do mesmo tamanho e drene a barba muito bem.",
+        "step_2": "Corte a cenoura em paus do mesmo tamanho e escorra a barba muito bem.",
         "step_3": "Aqueça o óleo de sésamo em uma frigideira e molho de burdock e cenoura a fogo médio a alto durante 3-4 minutos.",
         "step_4": "Adicione açúcar e mirin e misture até que o açúcar seja dissolvido e os vegetais comecem a congelar.",
         "step_5": "Coloque no molho de soja e continue pulando até que o líquido tenha quase evaporado.",
@@ -6095,7 +6095,7 @@
       "stepTexts": {
         "step_1": "Aqueça suavemente o kakuni no fundo até que a carne esteja macia e a gordura brilhe novamente; não o ferva com força.",
         "step_2": "Traga o dashi para uma ebulição e sazona com molho de soja e mirin, degustando antes de adicionar mais sal.",
-        "step_3": "Em um pote separado cozinhe o udon de acordo com o pacote, em seguida, drene- os muito bem.",
+        "step_3": "Em um pote separado cozinhe o udon de acordo com o pacote, em seguida, escorra-os muito bem.",
         "step_4": "Enxagua o udon rapidamente apenas se necessário pelo tipo usado, em seguida, transferi- lo para as tigelas pré- aquecidas.",
         "step_5": "Despeje o caldo fervente no udon e separe suavemente os fios com os pauzinhos.",
         "step_6": "Adicione dois pedaços de kakuni por porção e adicione uma colher do fundo do manteiga para intensificar o sabor.",
@@ -6146,7 +6146,7 @@
       },
       "stepTexts": {
         "step_1": "Esgote o tofu e desfaça- o grossamente; corte o daikon, a cenoura, o gobo e o shiitake em pedaços pequenos e uniformes.",
-        "step_2": "Se você usar gobo fresco, coloque- o brevemente na água após o corte e, em seguida, drene- o bem.",
+        "step_2": "Se você usar gobo fresco, coloque- o brevemente na água após o corte e, em seguida, escorra-o bem.",
         "step_3": "Aqueça o óleo de sésamo em casserola e marrom antes das raízes e cogumelos por 3-4 minutos.",
         "step_4": "Adicione o tofu e misture suavemente para cobri- lo com óleo sem reduzi- lo ao creme.",
         "step_5": "Verter o kombu dashi, trazer à luz ferver e remover a espuma que emerge.",
@@ -6307,7 +6307,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Se o arroz cozido é muito amido, lave- o rapidamente sob água fria e drene- o; isso mantém o zosui mais leve.",
+        "step_1": "Se o arroz cozido é muito amido, lave- o rapidamente sob água fria e escorra-o; isso mantém o zosui mais leve.",
         "step_2": "Corte o frango em tiras finas e leve o dashi a ferver com molho de soja e mirin.",
         "step_3": "Adicione o frango e cozinhe por cerca de 4-5 minutos, removendo qualquer espuma.",
         "step_4": "Combine o arroz e cozinhe mais 4-5 minutos, agitando o suficiente para não quebrar os feijões.",
@@ -6564,7 +6564,7 @@
         "step_1": "Numa panela antiadherente sem gorduras adicionadas, grelhar os rolos de alho até que estejam dourados e torrá- los ligeiramente na superfície, mantenha- se de lado.",
         "step_2": "Coloque em uma panela, ferva o caldo Dashi com molho de soja, mirin e açúcar.",
         "step_3": "Combine as fatias de porco e deixe- as cozinhar por 3-4 minutos até que estejam macias.",
-        "step_4": "Cozinhe soba em muita água fervente para o tempo indicado no pacote (cerca de 3-4 minutos), drene e enxague brevemente.",
+        "step_4": "Cozinhe soba em muita água fervente para o tempo indicado no pacote (cerca de 3-4 minutos), escorra e enxague brevemente.",
         "step_5": "Divida o soba em duas tigelas grandes.",
         "step_6": "Adicione sobre o caldo fervente com as fatias de porco e guarneça com o porro grelhado e um copo de Shichimi Togarashi."
       }
@@ -6613,7 +6613,7 @@
         "step_3": "Misture rapidamente farinha de tempura e água gelada, deixando alguns pequenos blocos e mantendo a massa fria.",
         "step_4": "Leve o óleo para cerca de 170°C, passe os camarões para a massa e frite- os alguns de cada vez por cerca de 2 minutos, até que sejam leves e crocantes.",
         "step_5": "Esgote a tempura na grade sem cobri- la.",
-        "step_6": "Cozinhe o udon em água separada, drene bem e distribua- os nas tigelas.",
+        "step_6": "Cozinhe o udon em água separada, escorra bem e distribua- os nas tigelas.",
         "step_7": "Despeje o caldo fervente no udon e adicione cebola.",
         "step_8": "Ele adapta os camarões em tempura apenas no momento de servir, de modo que a crosta permanece crocante por mais tempo."
       }
@@ -7411,7 +7411,7 @@
         "step_3": "Prove com 1 colher de sopa de molho de soja e TobanDjan.",
         "step_4": "Em um argamassa ou tigela, emulsifique a pasta de sésamo preto com sésamo torrado, 1 colher de sopa de molho de soja e um colher de caldo quente até que você obtenha um creme suave.",
         "step_5": "Aqueça o caldo de frango restante e combine a base com sésamo preto, misturando- se vigorosamente com um batido para distribuir o sésamo uniformemente.",
-        "step_6": "Cozinhe os macarrão para ramen em muita água fervente não salgada por 2 minutos, em seguida, drene bem.",
+        "step_6": "Cozinhe os macarrão para ramen em muita água fervente não salgada por 2 minutos, em seguida, escorra bem.",
         "step_7": "Adicione o caldo preto e perfumado nas tigelas, coloque os macarrão no centro.",
         "step_8": "Coloque o porco dourado no topo, os ovos marinados se dividirem ao meio, brotos de soja e cebola abundante."
       }
@@ -7570,7 +7570,7 @@
         "step_5": "Na mesma panela, usando parte da gordura do pato, ele brinde pedaços de alho-francês até que estejam bem dourados e ligeiramente caramelizados.",
         "step_6": "Em um pote, adicione dashi, molho de soja, mirin e açúcar.",
         "step_7": "Traga o caldo a ferver, adicione os puerros torrados e fatias de pato e deixe- o cozir por 2 minutos. Para uma preparação doméstica prudente, confirme com um termómetro que o peito de pato atinge pelo menos 74 °C no centro antes de servir. Os tempos são indicativos; a passagem breve pelo caldo não substitui a medição.",
-        "step_8": "Cozinhe os fios de massa soba em água fervente por cerca de 4 minutos; drene- os, lave- os sob água fria para remover o amido de superfície e aqueça- os brevemente em água quente antes de servir.",
+        "step_8": "Cozinhe os fios de massa soba em água fervente por cerca de 4 minutos; escorra-os, lave- os sob água fria para remover o amido de superfície e aqueça- os brevemente em água quente antes de servir.",
         "step_9": "Distribua o soba nas tigelas e cubra- o com caldo quente, fatias de pato e puerros.",
         "step_10": "Completar com o zest yuzu ralado e servir imediatamente."
       }
@@ -7796,7 +7796,7 @@
         "step_3": "Adicione daikon, cenoura e shiitake e salte por cerca de 3 minutos.",
         "step_4": "Despeje o dashi kombu, leve à luz e cozinhe coberto por cerca de 8-10 minutos, até que as raízes estejam tenras.",
         "step_5": "Sazonar com molho de soja e mirin e saborear o caldo antes de adicionar mais sal.",
-        "step_6": "Cozinhe o udon em um pote separado para o tempo necessário, drene bem e distribua- os nas tigelas.",
+        "step_6": "Cozinhe o udon em um pote separado para o tempo necessário, escorra bem e distribua- os nas tigelas.",
         "step_7": "Verter sobre a sopa com tofu e legumes.",
         "step_8": "Completo com cebola e shichimi togarashi e servir muito quente."
       }
@@ -7896,10 +7896,10 @@
         "step_2": "Cubra com tampa e cozinhe a fogo alto por 3-4 minutos até que os moluscos se abram. Use amêijoas vivas e depuradas de fornecedor fiável. Deite fora as que têm conchas partidas ou não fecham ao toque e, depois de bem cozidas, as que permaneçam fechadas. Não aproveite o líquido das amêijoas rejeitadas.",
         "step_3": "Filtrar cuidadosamente o líquido liberado dos moluscos e mantê- lo de lado junto com moluscos abertos.",
         "step_4": "Adicione o caldo das amêijoas ao caldo Dashi, adicione o molho de soja leve e uma pitada de sal.",
-        "step_5": "Aqueça bem o caldo de mosquito sem reduzi- lo excessivamente.",
-        "step_6": "Cozinhe os macarrão para ramen em água fervente abundante por 2 minutos e drene.",
+        "step_5": "Aqueça bem o caldo de amêijoas sem reduzi- lo excessivamente.",
+        "step_6": "Cozinhe os macarrão para ramen em água fervente abundante por 2 minutos e escorra.",
         "step_7": "Distribua os macarrão nas tigelas e cubra- os com o caldo quente para os moluscos.",
-        "step_8": "Adiante sobre os moluscos na concha, o milho e a cebola fresca; completa com uma noz de manteiga, que derreterá vai amarrar o estoque de frutos do mar."
+        "step_8": "Disponha por cima os moluscos na concha, o milho e a cebola fresca; completa com uma noz de manteiga, que derreterá vai amarrar o caldo de marisco."
       }
     },
     "recipe_000157": {

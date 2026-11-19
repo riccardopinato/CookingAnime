@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000129",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -379,7 +379,7 @@
         "step_1": "Numa panela antiadherente sem gorduras adicionadas, grelhar os rolos de alho até que estejam dourados e torrá- los ligeiramente na superfície, mantenha- se de lado.",
         "step_2": "Coloque em uma panela, ferva o caldo Dashi com molho de soja, mirin e açúcar.",
         "step_3": "Combine as fatias de porco e deixe- as cozinhar por 3-4 minutos até que estejam macias.",
-        "step_4": "Cozinhe soba em muita água fervente para o tempo indicado no pacote (cerca de 3-4 minutos), drene e enxague brevemente.",
+        "step_4": "Cozinhe soba em muita água fervente para o tempo indicado no pacote (cerca de 3-4 minutos), escorra e enxague brevemente.",
         "step_5": "Divida o soba em duas tigelas grandes.",
         "step_6": "Adicione sobre o caldo fervente com as fatias de porco e guarneça com o porro grelhado e um copo de Shichimi Togarashi."
       }

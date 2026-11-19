@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000123",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Barakamon",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -327,7 +327,7 @@
         }
       },
       "steps": {
-        "step_1": "Se o arroz cozido é muito amido, lave- o rapidamente sob água fria e drene- o; isso mantém o zosui mais leve.",
+        "step_1": "Se o arroz cozido é muito amido, lave- o rapidamente sob água fria e escorra-o; isso mantém o zosui mais leve.",
         "step_2": "Corte o frango em tiras finas e leve o dashi a ferver com molho de soja e mirin.",
         "step_3": "Adicione o frango e cozinhe por cerca de 4-5 minutos, removendo qualquer espuma.",
         "step_4": "Combine o arroz e cozinhe mais 4-5 minutos, agitando o suficiente para não quebrar os feijões.",

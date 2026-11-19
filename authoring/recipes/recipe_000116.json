@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000116",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -386,7 +386,7 @@
       },
       "steps": {
         "step_1": "Lave e escove o bardana, corte- o em um fósforo e coloque- o na água imediatamente por cerca de 5 minutos para limitar a oxidação e atenuar a estringência.",
-        "step_2": "Corte a cenoura em paus do mesmo tamanho e drene a barba muito bem.",
+        "step_2": "Corte a cenoura em paus do mesmo tamanho e escorra a barba muito bem.",
         "step_3": "Aqueça o óleo de sésamo em uma frigideira e molho de burdock e cenoura a fogo médio a alto durante 3-4 minutos.",
         "step_4": "Adicione açúcar e mirin e misture até que o açúcar seja dissolvido e os vegetais comecem a congelar.",
         "step_5": "Coloque no molho de soja e continue pulando até que o líquido tenha quase evaporado.",

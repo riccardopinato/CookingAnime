@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000056",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Fruits Basket",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -331,7 +331,7 @@
           "note": null
         },
         "uovo": {
-          "name": "oeuf (pour faire la frittatine fine kinhi tamago)",
+          "name": "oeuf (pour faire la omelette fine kinhi tamago)",
           "note": null
         },
         "cetriolo_giapponese_a_fettine_sottili": {

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000099",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Samurai Champloo",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -273,7 +273,7 @@
         "step_2": "Divida a massa em 12 porções iguais e forme bolas compactas sem fissuras.",
         "step_3": "Traga a ebulição um pote abundante de água e mergulhe os dangos sem sobrecarregá- lo.",
         "step_4": "Quando as bolas subirem para a superfície, continue cozindo por mais 2 minutos para cozinhar bem o centro.",
-        "step_5": "Transfira- os imediatamente para água e gelo para parar de cozinhar; drene- os e seque- os suavemente.",
+        "step_5": "Transfira- os imediatamente para água e gelo para parar de cozinhar; escorra-os e seque- os suavemente.",
         "step_6": "Jogue três dangos para cada espelho e distribua sobre o anko suave.",
         "step_7": "Misture kinako e açúcar, ponha em poeira os broches logo antes de servir e consumi- os diariamente para mantê- los macios."
       }

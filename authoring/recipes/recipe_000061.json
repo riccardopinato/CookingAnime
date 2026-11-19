@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000061",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars! - Shokugeki no Soma",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -407,7 +407,7 @@
         "step_4": "Añade lentamente el caldo de pollo caliente, mezclando bien para disolver completamente el miso.",
         "step_5": "Haz que el fuego sea dulce durante 10-15 minutos para mezclar todos los sabores.",
         "step_6": "En una sartén separada, salta los brotes de soja con una gota de aceite de sésamo durante 2 minutos manteniendo crujientes.",
-        "step_7": "Cocine en agua hirviendo los fideos frescos en abundante agua hirviendo no salada siguiendo las instrucciones del envase (unos 2-3 minutos), luego escúchelos cuidadosamente.",
+        "step_7": "Cocine en agua hirviendo los fideos frescos en abundante agua hirviendo no salada siguiendo las instrucciones del envase (unos 2-3 minutos), luego escúrrelos cuidadosamente.",
         "step_8": "Sobre la base de cada tazón, añade el caldo caliente con el miso y la carne.",
         "step_9": "Añade los fideos escurridos y colócalos en el centro.",
         "step_10": "Pone los brotes de soja, el maíz dulce, medio huevo marinado, una nuez de mantequilla de malta fresca en el centro (típica de la tradición de Sapporo), un polvo de cebolla y una hoja de alga Nori en el borde del tazón.",
@@ -659,7 +659,7 @@
         "step_4": "Adicione lentamente o caldo de frango quente, misturando- se bem para dissolver completamente o miso.",
         "step_5": "Ferva sobre um calor doce por 10-15 minutos para misturar todos os sabores.",
         "step_6": "Numa frigideira à parte, salteie os rebentos de soja com um fio de óleo de sésamo durante 2 minutos, mantendo-os estaladiços.",
-        "step_7": "Cozinhe os macarrão frescos em água fervente em muita água fervente, não salgada, seguindo as instruções do pacote (cerca de 2-3 minutos), em seguida, drene- os bem.",
+        "step_7": "Cozinhe os macarrão frescos em água fervente em muita água fervente, não salgada, seguindo as instruções do pacote (cerca de 2-3 minutos), em seguida, escorra-os bem.",
         "step_8": "Com base em cada tigela grande, adicione o caldo fervente com miso e carne.",
         "step_9": "Combine os macarrão drenados fazendo com que fiquem no centro.",
         "step_10": "Coloque de um lado os brotos de soja, o milho doce, meio ovo marinado, uma noz de manteiga de malga fresca no centro (típico da tradição de Sapporo), uma cebola aspersa e uma folha de algas Nori presas na borda da tigela.",

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000071",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -623,7 +623,7 @@
         "step_6": "Misture bem no fundo de cada tigela.",
         "step_7": "Colocar numa panela, aquecer o caldo de frango junto com o leite de soja sem fervê- lo difícilmente para evitar que o leite se enrole.",
         "step_8": "Adicione o caldo quente nas tigelas e misture bem com o batido para dissolver a pasta de sésamo no fundo.",
-        "step_9": "Coze macarrão ramen em água fervente por 2 minutos, drene bem e coloque- os no caldo.",
+        "step_9": "Coze macarrão ramen em água fervente por 2 minutos, escorra bem e coloque- os no caldo.",
         "step_10": "Decorar no centro com uma colher generosa de carne picante, as folhas bok choy cozidas e um copo de cebola fresca picada."
       }
     }

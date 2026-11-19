@@ -4346,7 +4346,7 @@
       "animeContext": "Dieses Rezept ist thematisch von Yuru Camp△, Golden Kamuy inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "sovracosce_e_ali_di_pollo_con_osso_e_pelle_1_sovracosce": {
-          "name": "Hähnchenüberschnürung mit Knochen und Haut",
+          "name": "Hähnchenoberkeule mit Knochen und Haut",
           "note": null
         },
         "sovracosce_e_ali_di_pollo_con_osso_e_pelle_2_ali_di_pollo_con_osso": {
@@ -5181,11 +5181,11 @@
     },
     "recipe_000098": {
       "title": "Chicken Teriyaki Don – Reisschale mit Teriyaki-Hähnchen",
-      "description": "Der Chicken Teriyaki Don kombiniert weißen Reis und Hähnchenüberknospen auf der Hautseite. Die Soja- und Mirin-Sauce wird um das Fleisch reduziert, bis sich eine Glasur bildet, dann wird das Huhn aufgeschnitten und auf den Reis gelegt. Die Teriyaki-Sauce schrumpft in der Pfanne, bis das Huhn, das auf dem Reis geschnitten und mit Sesam abgeschlossen wird, glasiert wird.",
+      "description": "Der Chicken Teriyaki Don kombiniert weißen Reis und Hähnchenoberkeulen auf der Hautseite. Die Soja- und Mirin-Sauce wird um das Fleisch reduziert, bis sich eine Glasur bildet, dann wird das Huhn aufgeschnitten und auf den Reis gelegt. Die Teriyaki-Sauce schrumpft in der Pfanne, bis das Huhn, das auf dem Reis geschnitten und mit Sesam abgeschlossen wird, glasiert wird.",
       "animeContext": "Dieses Rezept ist thematisch von Cooking Papa, My Hero Academia inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "sovracosce_di_pollo_disossate_con_la_pelle": {
-          "name": "Hähnchenüberschnürung mit der Haut",
+          "name": "Hähnchenoberkeule mit der Haut",
           "note": null
         },
         "riso_cotto_per_donburi": {
@@ -5979,7 +5979,7 @@
       "animeContext": "Dieses Rezept ist thematisch von Food Wars!, My Hero Academia inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
-          "name": "Hähnchenüberschnürung ohne Knochen, ohne Haut, mit Bissen",
+          "name": "Hähnchenoberkeule ohne Knochen, ohne Haut, mit Bissen",
           "note": null
         },
         "pollo_salsa_di_soia_2": {
@@ -6708,7 +6708,7 @@
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Hähnchenüberschnürung entbeint mit Haut",
+          "name": "Hähnchenoberkeule entbeint mit Haut",
           "note": null
         },
         "salsa_di_soia": {

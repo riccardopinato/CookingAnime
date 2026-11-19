@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000082",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Yuru Camp△",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 4,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -367,7 +367,7 @@
       "animeContext": "Dieses Rezept ist thematisch von Yuru Camp△, Golden Kamuy inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "sovracosce_e_ali_di_pollo_con_osso_e_pelle_1_sovracosce": {
-          "name": "Hähnchenüberschnürung mit Knochen und Haut",
+          "name": "Hähnchenoberkeule mit Knochen und Haut",
           "note": null
         },
         "sovracosce_e_ali_di_pollo_con_osso_e_pelle_2_ali_di_pollo_con_osso": {

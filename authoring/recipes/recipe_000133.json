@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000133",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -123,7 +123,7 @@
   "locales": {
     "en": {
       "title": "Tori Chashu Ramen — ramen topped with marinated chicken",
-      "description": "The Tori Chashu Ramen uses rolled and cooked chicken overbone in a marinade of soy sauce and aromas. The sliced chicken is placed on noodles and broth prepared separately, without confusing the cooking of the meat with the short time required by the pasta. The marinated chicken is left to cool and sliced before mounting with hot broth, noodles and marinated egg.",
+      "description": "The Tori Chashu Ramen uses rolled and cooked chicken thigh in a marinade of soy sauce and aromas. The sliced chicken is placed on noodles and broth prepared separately, without confusing the cooking of the meat with the short time required by the pasta. The marinated chicken is left to cool and sliced before mounting with hot broth, noodles and marinated egg.",
       "animeContext": "This recipe is thematically inspired by Food Wars!, Ramen Daisuki Koizumi-san. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "noodles_per_ramen": {
@@ -371,7 +371,7 @@
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Hähnchenüberschnürung entbeint mit Haut",
+          "name": "Hähnchenoberkeule entbeint mit Haut",
           "note": null
         },
         "salsa_di_soia": {

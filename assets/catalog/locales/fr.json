@@ -2873,7 +2873,7 @@
           "note": null
         },
         "uovo": {
-          "name": "oeuf (pour faire la frittatine fine kinhi tamago)",
+          "name": "oeuf (pour faire la omelette fine kinhi tamago)",
           "note": null
         },
         "cetriolo_giapponese_a_fettine_sottili": {
@@ -3038,7 +3038,7 @@
       },
       "stepTexts": {
         "step_1": "Lave soigneusement les palourdes déjà épurées sous l'eau courante froide.",
-        "step_2": "Dans une grande casserole avec couvercle, détachez la moitié du beurre et ajoutez l'ail coupé et le gingembre râpé.",
+        "step_2": "Dans une grande casserole avec couvercle, faites fondre la moitié du beurre et ajoutez l'ail coupé et le gingembre râpé.",
         "step_3": "Faites dorer à feu doux pendant 1 minute.",
         "step_4": "Rassemblez les palourdes dans la casserole et ajoutez immédiatement le saké japonais.",
         "step_5": "Couvrez immédiatement avec le couvercle et relevez la flamme au feu vif.",
@@ -3295,7 +3295,7 @@
       },
       "stepTexts": {
         "step_1": "Dans une casserole, ajoutez le bouillon de poulet, la sauce de soja, le sucre, le vinaigre de riz et la sauce d'huître.",
-        "step_2": "Il porte à léger ébullition à feu moyen, puis ajoute l'amidon de maïs dissous en amalgameant continuellement jusqu'à obtenir une sauce brillante, épaissie et veloutée, maintenez au chaud.",
+        "step_2": "Il porte à léger ébullition à feu moyen, puis ajoute l'amidon de maïs dissous en mélangeant continuellement jusqu'à obtenir une sauce brillante, épaissie et veloutée, maintenez au chaud.",
         "step_3": "Dans un bol, il travaille légèrement les 4 œufs avec une pincée de sel, poivre, huile de sésame, la pulpe de crabe défilée et la moitié des oignons.",
         "step_4": "Chauffez un fil d'huile abondant dans une poêle anti-adhérente à feu vif.",
         "step_5": "Ajouter la moitié du mélange d'œufs pour chaque portion.",
@@ -5712,7 +5712,7 @@
         "step_2": "Débollental pendant environ 1 minute, écolière et rincée: cette phase élimine les impuretés et une partie de l'odeur sans trop dissoudre la graisse.",
         "step_3": "Prépare le bouillon avec le dashi, l’ail, le piment et le miso ou la sauce soja. Assaisonne-le suffisamment, car le chou et le tofu en atténueront le goût.",
         "step_4": "Placez le chou sur le fond du nabe, ajoutez du tofu et des abats et versez le bouillon jusqu'à couvrir partiellement les ingrédients.",
-        "step_5": "Apportez à l'éponge et faites cuire les abats pendant environ 10-15 minutes, jusqu'à ce qu'ils deviennent gonflés et tenir.",
+        "step_5": "Portez à frémissement et faites cuire les abats pendant environ 10-15 minutes, jusqu'à ce qu'ils deviennent bien chauds et tendres.",
         "step_6": "Ajouter le nira coupé en bâtonnets dans les dernières minutes, sans trop mélanger.",
         "step_7": "Goûtez le bouillon, règlez le miso ou le soja et servez le nabe bouillant directement à partir de la casserole."
       }
@@ -6197,7 +6197,7 @@
         "step_2": "Chauffez une grande poêle, roulez le porc et ajoutez de la carotte, du chou et d'éventuelles pousses; sautez jusqu'à ce que les légumes commencent à se ramollir.",
         "step_3": "Ajoutez les nouilles et quelques cuillères à soupe d'eau, couvrez pendant 1 à 2 minutes puis séparez-les complètement.",
         "step_4": "Assaisonnez avec de la sauce yakisoba et sautez jusqu'à ce que le fond soit sec et les nouilles sont bien recouvertes; écartez-vous de la chaleur.",
-        "step_5": "Battre les œufs avec du lait et une pincée de sel, puis cuire dans une poêle propre une frittatine fine encore douce au centre.",
+        "step_5": "Battre les œufs avec du lait et une pincée de sel, puis cuire dans une poêle propre une omelette fine encore douce au centre.",
         "step_6": "Placez une portion de yakisoba au centre de la karma, repliez les bords et renversez le plat avec la fermeture vers le bas.",
         "step_7": "Complétez avec la sauce yakisoba, la mayonnaise Kewpie et les aonori; ajoutez des biens shoga ou katsuobushi si prévu.",
         "step_8": "Servez-vous immédiatement avant que l'omelette ne sèche."

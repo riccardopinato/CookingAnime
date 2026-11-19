@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000119",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -415,7 +415,7 @@
       },
       "steps": {
         "step_1": "Esgote o tofu e desfaça- o grossamente; corte o daikon, a cenoura, o gobo e o shiitake em pedaços pequenos e uniformes.",
-        "step_2": "Se você usar gobo fresco, coloque- o brevemente na água após o corte e, em seguida, drene- o bem.",
+        "step_2": "Se você usar gobo fresco, coloque- o brevemente na água após o corte e, em seguida, escorra-o bem.",
         "step_3": "Aqueça o óleo de sésamo em casserola e marrom antes das raízes e cogumelos por 3-4 minutos.",
         "step_4": "Adicione o tofu e misture suavemente para cobri- lo com óleo sem reduzi- lo ao creme.",
         "step_5": "Verter o kombu dashi, trazer à luz ferver e remover a espuma que emerge.",

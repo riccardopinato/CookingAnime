@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000098",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Cooking Papa",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -292,11 +292,11 @@
     },
     "de": {
       "title": "Chicken Teriyaki Don – Reisschale mit Teriyaki-Hähnchen",
-      "description": "Der Chicken Teriyaki Don kombiniert weißen Reis und Hähnchenüberknospen auf der Hautseite. Die Soja- und Mirin-Sauce wird um das Fleisch reduziert, bis sich eine Glasur bildet, dann wird das Huhn aufgeschnitten und auf den Reis gelegt. Die Teriyaki-Sauce schrumpft in der Pfanne, bis das Huhn, das auf dem Reis geschnitten und mit Sesam abgeschlossen wird, glasiert wird.",
+      "description": "Der Chicken Teriyaki Don kombiniert weißen Reis und Hähnchenoberkeulen auf der Hautseite. Die Soja- und Mirin-Sauce wird um das Fleisch reduziert, bis sich eine Glasur bildet, dann wird das Huhn aufgeschnitten und auf den Reis gelegt. Die Teriyaki-Sauce schrumpft in der Pfanne, bis das Huhn, das auf dem Reis geschnitten und mit Sesam abgeschlossen wird, glasiert wird.",
       "animeContext": "Dieses Rezept ist thematisch von Cooking Papa, My Hero Academia inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "sovracosce_di_pollo_disossate_con_la_pelle": {
-          "name": "Hähnchenüberschnürung mit der Haut",
+          "name": "Hähnchenoberkeule mit der Haut",
           "note": null
         },
         "riso_cotto_per_donburi": {

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000117",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -501,7 +501,7 @@
       "animeContext": "Dieses Rezept ist thematisch von Food Wars!, My Hero Academia inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
-          "name": "Hähnchenüberschnürung ohne Knochen, ohne Haut, mit Bissen",
+          "name": "Hähnchenoberkeule ohne Knochen, ohne Haut, mit Bissen",
           "note": null
         },
         "pollo_salsa_di_soia_2": {
