@@ -2528,7 +2528,7 @@
     },
     "recipe_000051": {
       "title": "Shio Ramen (Ramen al Sale con Chashu e Menma)",
-      "description": "Una versione pratica di Shio Ramen (Ramen al Sale con Chashu e Menma), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Lo Shio Ramen valorizza un brodo chiaro di pollo e dashi insaporito con sake, sale e olio di sesamo. I tagliolini vengono lessati separatamente e sistemati nel brodo caldo con chashu, uovo marinato, menma, cipollotto e nori: la rapidità dell’assemblaggio conserva la consistenza della pasta.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Naruto. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "tagliolini_per_ramen_freschi": {
@@ -2545,7 +2545,7 @@
         },
         "sale_marino_fine": {
           "name": "sale marino fine (o alga kelp salata)",
-          "note": null
+          "note": "0,5 cucchiaino iniziale: aggiusta solo dopo aver assaggiato il brodo"
         },
         "sake_da_cucina": {
           "name": "sake da cucina",
@@ -2560,7 +2560,7 @@
           "note": null
         },
         "uovo_marinate": {
-          "name": "uovo marinate (Ajitsuke Tamago)",
+          "name": "uova marinate (Ajitsuke Tamago)",
           "note": null
         },
         "germogli_di_bambu": {
@@ -2577,10 +2577,15 @@
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, metti in un pentolino porta a temperatura il brodo di pollo insieme al dashi in polvere, al sake e al sale fino a completo scioglimento. Unisci l'olio di sesamo e mantieni il brodo ben caldo a fuoco minimo senza farlo bollire.",
-        "step_2": "Prosegui così: usa una pentola capiente porta ad ebollizione abbondante acqua non salata. Lascia cuocere i tagliolini per ramen per circa 2 minuti (devono rimanere al dente). Scolali accuratamente scuotendo il cestello per eliminare l'acqua in eccesso.",
-        "step_3": "Nella fase successiva, aggiungi il brodo bollente nelle ciotole da ramen. Adagia delicatamente i noodles al centro facendoli piegare ordinatamente.",
-        "step_4": "Per completare, sistema su un lato le fette di maiale Chashu, l'uovo marinato tagliato a metà, i germogli di bambù menma e una spolverata abbondante di erba cipollina. Inserisci un foglio di alga nori sul bordo della ciotola e porta in tavola immediatamente caldo."
+        "step_1": "In un pentolino, scalda il brodo di pollo insieme al dashi in polvere, al sake e al sale fino a completo scioglimento. Usa inizialmente solo mezzo cucchiaino di sale fino, assaggia il brodo prima di servirlo e regola eventualmente a piccole dosi: dashi, chashu e condimenti sono già sapidi.",
+        "step_2": "Unisci l'olio di sesamo e mantieni il brodo ben caldo a fuoco minimo senza farlo bollire.",
+        "step_3": "In una pentola capiente, porta a ebollizione abbondante acqua non salata.",
+        "step_4": "Cuoci i tagliolini per ramen per circa 2 minuti (devono rimanere al dente).",
+        "step_5": "Scolali accuratamente scuotendo il cestello per eliminare l'acqua in eccesso.",
+        "step_6": "Aggiungi il brodo bollente nelle ciotole da ramen.",
+        "step_7": "Adagia delicatamente i noodles al centro facendoli piegare ordinatamente.",
+        "step_8": "Sistema su un lato le fette di maiale Chashu, l'uovo marinato tagliato a metà, i germogli di bambù menma e una spolverata abbondante di erba cipollina.",
+        "step_9": "Inserisci un foglio di alga nori sul bordo della ciotola e porta in tavola immediatamente caldo."
       }
     },
     "recipe_000052": {
@@ -2840,15 +2845,19 @@
     },
     "recipe_000056": {
       "title": "Chirashizushi (Riso Sushi Festivo guarnito con Pesce e Verdure)",
-      "description": "Un Chirashizushi (Riso Sushi Festivo guarnito con Pesce e Verdure) completo basato su riso caldo e guarnizioni preparate separatamente, con un condimento misurato che lascia riconoscibili tutti i componenti.",
+      "description": "Il Chirashizushi dispone sul riso sushi condito e intiepidito un mosaico di striscioline di frittata, pesce, gamberi, cetriolo e uova di salmone. La preparazione è soprattutto un assemblaggio delicato; gli ingredienti di mare destinati a essere serviti crudi richiedono una specifica verifica di idoneità e conservazione.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Fruits Basket, Kimi ni Todoke. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "riso_per_sushi_cotto_e_condito_con_aceto_di_riso": {
           "name": "riso per sushi cotto e condito con aceto di riso",
           "note": null
         },
-        "zucchero_e_sale": {
-          "name": "zucchero e sale (Sumeshi)",
+        "zucchero_e_sale_1_zucchero": {
+          "name": "zucchero",
+          "note": null
+        },
+        "zucchero_e_sale_2_sale_sumeshi": {
+          "name": "sale (Sumeshi)",
           "note": null
         },
         "salmone_fresco_per_sashimi_a_cubetti": {
@@ -2872,19 +2881,26 @@
           "note": null
         },
         "uova_di_salmone": {
-          "name": "Uova di salmone (Ikura) per guarnire",
+          "name": "uova di salmone (Ikura) per guarnire",
           "note": null
         },
-        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori": {
-          "name": "Semi di sesamo tostati e striscioline di alga nori",
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_1_semi_di_sesamo_tostati": {
+          "name": "semi di sesamo tostati",
+          "note": null
+        },
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_2_striscioline_di_alga_nori": {
+          "name": "striscioline di alga nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, stendi il riso per sushi condito e intiepidito all'interno di una grande ciotola in legno o ceramica.",
-        "step_2": "Prosegui così: lavora le uova con un pizzico di sale e zucchero. Lascia cuocere una frittatina sottilissima in padella, lasciala raffreddare e tagliala a striscioline sottili come tagliolini.",
-        "step_3": "Nella fase successiva, ricopri interamente la superficie del riso con le striscioline di frittata kinshi tamago. Sistema artisticamente a raggiera o a mosaico i cubetti di salmone, tonno, i gamberi e le fettine di cetriolo.",
-        "step_4": "Per completare, unisci qualche cucchiaio di uova di salmone Ikura luminose al centro, spolvera con semi di sesamo tostati e striscioline di alga nori. Porta in tavola fresco accompagnato da salsa di soia e wasabi."
+        "step_1": "Stendi il riso per sushi condito e intiepidito all'interno di una grande ciotola in legno o ceramica.",
+        "step_2": "Lavora le uova con un pizzico di sale e zucchero.",
+        "step_3": "Cuoci una frittatina sottilissima in padella, lasciala raffreddare e tagliala a striscioline sottili come tagliolini.",
+        "step_4": "Ricopri interamente la superficie del riso con le striscioline di frittata kinshi tamago.",
+        "step_5": "Sistema artisticamente a raggiera o a mosaico i cubetti di salmone, tonno, i gamberi e le fettine di cetriolo. Usa salmone e tonno espressamente forniti come idonei al consumo crudo, rispettando le indicazioni del fornitore su abbattimento e refrigerazione; tienili al freddo e assembla solo al momento del servizio. L'aspetto fresco non dimostra la sicurezza del pesce.",
+        "step_6": "Unisci qualche cucchiaio di uova di salmone Ikura luminose al centro, spolvera con semi di sesamo tostati e striscioline di alga nori.",
+        "step_7": "Porta in tavola fresco accompagnato da salsa di soia e wasabi."
       }
     },
     "recipe_000057": {
@@ -2988,7 +3004,7 @@
     },
     "recipe_000059": {
       "title": "Asari no Sakamushi (Vongole al Vapore con Sake e Zenzero)",
-      "description": "Una versione casalinga e pratica di Asari no Sakamushi (Vongole al Vapore con Sake e Zenzero), che mantiene ingredienti caratteristici, consistenza e tecnica del piatto con una sequenza chiara e ripetibile.",
+      "description": "Nell’Asari no Sakamushi le vongole già spurgate vengono cotte brevemente in un tegame coperto con sake, aglio e zenzero. Dopo aver aromatizzato il burro a fuoco dolce, si uniscono le vongole e si alza la fiamma per favorirne l’apertura; quelle rimaste chiuse vengono scartate. A fuoco spento si completa il brodetto con il burro restante e poca salsa di soia, poi si serve con erba cipollina fresca.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars! (Shokugeki no Soma), Midnight Diner (Shinya Shokudo). Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "vongole_fresche": {
@@ -2996,11 +3012,11 @@
           "note": null
         },
         "sake_da_cucina_giapponese": {
-          "name": "Sake da cucina giapponese",
+          "name": "sake da cucina giapponese",
           "note": null
         },
         "d_aglio_affettato_finemente": {
-          "name": "d'aglio affettato finemente",
+          "name": "spicchio d'aglio affettato finemente",
           "note": null
         },
         "zenzero_fresco_grattugiato": {
@@ -3016,15 +3032,20 @@
           "note": null
         },
         "erba_cipollina_fresca_tritata_per_guarnire": {
-          "name": "Erba cipollina fresca tritata per guarnire",
+          "name": "erba cipollina fresca tritata per guarnire",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, lava accuratamente le vongole già spurgate sotto acqua corrente fredda.",
-        "step_2": "Prosegui così: in un tegame capiente con coperchio, sciogli metà del burro ed unisci l'aglio affettato e lo zenzero grattugiato. Fai dorare a fuoco dolce per 1 minuto.",
-        "step_3": "Nella fase successiva, unisci le vongole nel tegame e aggiungi subito il sake giapponese. Copri immediatamente con il coperchio e alza la fiamma a fuoco vivo. Lascia cuocere per 3-4 minuti scuotendo ogni tanto il tegame finché tutte le vongole si aprono completamente (scarta quelle rimaste chiuse).",
-        "step_4": "Per completare, spegni il fuoco, unisci il restante burro e un filo di salsa di soia. Amalgama delicatamente per creare un brodetto saporito e lucido. Spolvera con abbondante erba cipollina fresca e porta in tavola caldissimo con il suo brodo."
+        "step_1": "Lava accuratamente le vongole già spurgate sotto acqua corrente fredda.",
+        "step_2": "In un tegame capiente con coperchio, sciogli metà del burro ed unisci l'aglio affettato e lo zenzero grattugiato.",
+        "step_3": "Fai dorare a fuoco dolce per 1 minuto.",
+        "step_4": "Unisci le vongole nel tegame e aggiungi subito il sake giapponese.",
+        "step_5": "Copri immediatamente con il coperchio e alza la fiamma a fuoco vivo.",
+        "step_6": "Cuoci per 3-4 minuti scuotendo ogni tanto il tegame finché tutte le vongole si aprono completamente (scarta quelle rimaste chiuse). Usa vongole vive provenienti da filiera controllata, scarta i gusci rotti e quelle che non si chiudono al tocco prima della cottura; scarta tutte le vongole rimaste chiuse dopo una cottura adeguata.",
+        "step_7": "Spegni il fuoco, unisci il restante burro e un filo di salsa di soia.",
+        "step_8": "Amalgama delicatamente per creare un brodetto saporito e lucido.",
+        "step_9": "Spolvera con abbondante erba cipollina fresca e porta in tavola caldissimo con il suo brodo."
       }
     },
     "recipe_000060": {
@@ -4231,16 +4252,12 @@
       }
     },
     "recipe_000080": {
-      "title": "Sanma no Shioyaki (Luccio di Mare Grigliato al Sale con Daikon)",
-      "description": "Un Sanma no Shioyaki (Luccio di Mare Grigliato al Sale con Daikon) saporito cotto con calore diretto controllato, cercando una buona doratura esterna senza asciugare il centro e completando con una salsa lucida.",
+      "title": "Sanma no Shioyaki (Costardella del Pacifico alla griglia con daikon)",
+      "description": "Il Sanma no Shioyaki è un pesce intero salato e grigliato finché la pelle diventa dorata. Si accompagna con daikon grattugiato e condimenti essenziali per lasciare in evidenza il sapore del pesce; la denominazione italiana della specie richiede una verifica tassonomica. Il daikon grattugiato, la salsa di soia e il limone accompagnano il pesce intero, la cui pelle viene resa dorata sulla griglia.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Yuru Camp△. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "pesce Sanma (Luccio di mare/Costardella) interi freschi",
+          "name": "costardella del Pacifico (Cololabis saira, sanma) intera, pulita ed eviscerata",
           "note": null
         },
         "sale_marino_grosso": {
@@ -4256,15 +4273,19 @@
           "note": null
         },
         "salsa_di_soia_per_servire": {
-          "name": "Salsa di soia per servire",
+          "name": "salsa di soia per servire",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, sciacqua i pesci Sanma lasciandoli interi (la tradizione giapponese prevede la cottura con le interiora per un gusto piacevolmente amarognolo). Incidi la pelle con 3 tagli diagonali su ciascun lato. Spolvera generosamente di sale grosso e lascia riposare 10 minuti.",
-        "step_2": "Prosegui così: asciuga l'umidità rilasciata dal sale con carta assorbente.",
-        "step_3": "Nella fase successiva, lascia cuocere i pesci su una griglia rovente o sulla piastra del forno a 220°C per circa 6-7 minuti per lato, finché la pelle diventa dorata, croccante e si formano leggere bruciacchiature. Sistema i pesci interi su piatti rettangolari allungati.",
-        "step_4": "Per completare, accompagna con una montagna di Daikon fresco grattugiato leggermente irrorato con un goccio di salsa di soia ed uno spicchio di limone."
+        "step_1": "Utilizza sanma già pulito ed eviscerato dal pescivendolo. Il sanma è la costardella del Pacifico (Cololabis saira), non il luccio di mare. Per la preparazione domestica usa pesce acquistato pulito/eviscerato oppure fallo pulire dal pescivendolo; cuocilo completamente e verifica il centro del pesce.",
+        "step_2": "Incidi la pelle con 3 tagli diagonali su ciascun lato.",
+        "step_3": "Spolvera generosamente di sale grosso e lascia riposare 10 minuti.",
+        "step_4": "Asciuga l'umidità rilasciata dal sale con carta assorbente.",
+        "step_5": "Cuoci i pesci su una griglia rovente o sulla piastra del forno a 220°C per circa 6-7 minuti per lato.",
+        "step_6": "Finché la pelle diventa dorata, croccante e si formano leggere bruciacchiature.",
+        "step_7": "Sistema i pesci interi su piatti rettangolari allungati.",
+        "step_8": "Accompagna con una montagna di Daikon fresco grattugiato leggermente irrorato con un goccio di salsa di soia ed uno spicchio di limone."
       }
     },
     "recipe_000081": {
@@ -5060,7 +5081,7 @@
     },
     "recipe_000096": {
       "title": "Asari Clam Chowder",
-      "description": "Un Asari Clam Chowder confortante cotto a sobbollore dolce, così gli ingredienti diventano teneri senza disfarsi e il fondo resta concentrato ma equilibrato.",
+      "description": "L’Asari Clam Chowder è una zuppa cremosa con vongole aperte al vapore, patate e cipolla. Il liquido delle vongole viene filtrato e recuperato per insaporire la base; i molluschi entrano solo alla fine, senza prolungarne inutilmente la cottura. Il liquido filtrato delle vongole entra nella base cremosa con latte e panna; i molluschi aperti si aggiungono alla fine.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "vongole_asari": {
@@ -5071,20 +5092,32 @@
           "name": "patata media a cubetti piccoli",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "cipolla e 1 carota a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "cipolla",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "carota a cubetti",
           "note": null
         },
         "pancetta_a_dadini": {
           "name": "pancetta a dadini",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "burro e 1.5 cucchiai di farina",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "burro",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "latte intero e 100 ml di panna da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "farina",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "latte intero",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "panna da cucina",
           "note": null
         },
         "sake_o_vino_bianco": {
@@ -5093,10 +5126,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, apri le vongole in una padella con il sake e un coperchio a fuoco vivo. Separa le vongole dal brodo filtrato e tieni tutto da parte. Usa una pentola sciogli il burro e rosola la pancetta con cipolla, carota e patata per 5 minuti.",
-        "step_2": "Prosegui così: spolvera con la farina e amalgama bene per 1 minuto per tostare.",
-        "step_3": "Nella fase successiva, aggiungi gradualmente il liquido delle vongole filtrato, il latte e la panna continuando a amalgamare fino a raggiungere una consistenza vellutata.",
-        "step_4": "Per completare, lascia cuocere per 12 minuti finché le patate sono tenere. Unisci le vongole aperte in ultimo, regola di pepe nero e porta in tavola calda accompagnata da crostini di pane."
+        "step_1": "Apri le vongole in una padella con il sake e un coperchio a fuoco vivo. Prima della cottura elimina le vongole rotte e quelle vive che non si chiudono al tocco; dopo la cottura scarta tutte quelle rimaste chiuse. Conserva refrigerato il liquido filtrato se non lo usi subito.",
+        "step_2": "Separa le vongole dal brodo filtrato e tieni tutto da parte.",
+        "step_3": "In una pentola, sciogli il burro e rosola la pancetta con cipolla, carota e patata per 5 minuti.",
+        "step_4": "Spolvera con la farina e amalgama bene per 1 minuto per tostare.",
+        "step_5": "Aggiungi gradualmente il liquido delle vongole filtrato, il latte e la panna continuando a mescolare fino a raggiungere una consistenza vellutata.",
+        "step_6": "Cuoci per 12 minuti finché le patate sono tenere.",
+        "step_7": "Unisci le vongole aperte in ultimo, regola di pepe nero e porta in tavola calda accompagnata da crostini di pane."
       }
     },
     "recipe_000097": {
@@ -5639,11 +5675,11 @@
     },
     "recipe_000110": {
       "title": "Motsunabe (Stufato di Frattaglie e Porri di Fukuoka)",
-      "description": "Un Motsunabe (Stufato di Frattaglie e Porri di Fukuoka) confortante cotto a sobbollore dolce, così gli ingredienti diventano teneri senza disfarsi e il fondo resta concentrato ma equilibrato.",
+      "description": "Il Motsunabe cuoce trippa o altre frattaglie pulite insieme a cavolo, porri cinesi e aromi in un brodo saporito. La preparazione delle frattaglie richiede particolare attenzione prima della cottura; le verdure si aggiungono per tempo in modo da rimanere riconoscibili. Il nira si aggiunge negli ultimi minuti di cottura delle frattaglie, che richiedono pulizia accurata prima di entrare nel brodo.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Golden Kamuy. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "trippa_o_frattaglie_di_manzo_maiale_pulite": {
-          "name": "trippa o frattaglie di manzo/maiale pulite",
+          "name": "trippa o frattaglie già pulite e precotte",
           "note": null
         },
         "cespo_di_cavolo_cappuccio_sfogliato": {
@@ -5654,8 +5690,12 @@
           "name": "erba cipollina / porri cinesi (Nira)",
           "note": null
         },
-        "brodo_dashi_con_aglio_e_peperoncino": {
-          "name": "brodo dashi con aglio e peperoncino",
+        "brodo_dashi_con_aglio_e_peperoncino_1_brodo_dashi_con_aglio": {
+          "name": "brodo dashi con aglio",
+          "note": null
+        },
+        "brodo_dashi_con_aglio_e_peperoncino_2_peperoncino": {
+          "name": "peperoncino",
           "note": null
         },
         "miso_chiaro_o_salsa_di_soia": {
@@ -5663,15 +5703,18 @@
           "note": null
         },
         "tofu_tagliato_a_cubetti": {
-          "name": "Tofu tagliato a cubetti",
+          "name": "tofu tagliato a cubetti",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, sbollenta brevemente le frattaglie per eliminare le impurità.",
-        "step_2": "Prosegui così: metti in un pentolino per nabe, sistema il cavolo sul fondo, unisci le frattaglie e il tofu.",
-        "step_3": "Nella fase successiva, copri con una montagna di erba cipollina Nira tagliata a bastoncino.",
-        "step_4": "Per completare, aggiungi il brodo dashi insaporito al miso e aglio e lascia cuocere a fuoco medio finché le verdure si ammorbidiscono."
+        "step_1": "Utilizza trippa già pulita e precotta; tagliala in bocconi regolari senza ricontaminarla con utensili usati per alimenti crudi. Per questa ricetta usa soltanto trippa/frattaglie vendute già pulite e precotte, seguendo le istruzioni del produttore. I 10–15 minuti sono un riscaldamento finale, NON bastano per rendere sicure frattaglie crude; se sono crude occorre prima una cottura completa specifica per il taglio.",
+        "step_2": "Sbollentale per circa 1 minuto, scolale e sciacquale: questa fase elimina impurità e parte dell’odore senza sciogli troppo il grasso.",
+        "step_3": "Prepara il brodo con dashi, aglio, peperoncino e miso oppure salsa di soia, mantenendolo saporito perché cavolo e tofu lo diluiranno.",
+        "step_4": "Sistema il cavolo sul fondo del nabe, aggiungi tofu e frattaglie e versa il brodo fino a coprire parzialmente gli ingredienti.",
+        "step_5": "Porta a sobbollore e cuoci le frattaglie per circa 10-15 minuti, finché diventano gonfie e tenere.",
+        "step_6": "Aggiungi il nira tagliato in bastoncini negli ultimi minuti, senza mescolare eccessivamente.",
+        "step_7": "Assaggia il brodo, regola il miso o la soia e servi il nabe bollente direttamente dalla pentola."
       }
     },
     "recipe_000111": {
@@ -5932,31 +5975,87 @@
     },
     "recipe_000117": {
       "title": "Tori no Karaage Namban Don (Ciotola di Pollo Fritto Namban)",
-      "description": "Un Tori no Karaage Namban Don (Ciotola di Pollo Fritto Namban) completo basato su riso caldo e guarnizioni preparate separatamente, con un condimento misurato che lascia riconoscibili tutti i componenti.",
+      "description": "Il Tori no Karaage Namban Don serve su riso caldo bocconi di pollo marinato, rivestito di amido e fritto. La salsa namban e i condimenti finali aggiungono una nota agrodolce senza rinunciare alla croccantezza del pollo. Il karaage caldo assorbe per pochi secondi la salsa namban, poi incontra il riso e la tartara fredda nella stessa ciotola.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, My Hero Academia. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "sovracosce di pollo a bocconcini fritti (Karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "sovracosce di pollo disossate, senza pelle, a bocconcini",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Salsa Namban (3 cucchiai soia, 2 aceto di riso, 1 zucchero)",
+        "pollo_salsa_di_soia_2": {
+          "name": "salsa di soia",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Salsa Tartara giapponese (uovo sodo tritato, maionese, cetriolini, cipolla)",
+        "pollo_sake_da_cucina_3": {
+          "name": "sake da cucina",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Riso caldo e cavolo cappuccio a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "zenzero fresco grattugiato",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "aglio grattugiato",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "fecola di patate o amido di mais",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "olio di semi per friggere",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "salsa di soia",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "aceto di riso",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "zucchero",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "uovo sodo",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "maionese giapponese",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "cipolla finemente tritata e sciacquata",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "cetriolino sottaceto tritato",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "riso giapponese cotto",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "cavolo cappuccio a julienne",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, prepara il pollo fritto Karaage dorato e croccante. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_2": "Prosegui così: immergi il pollo ancora caldo nella salsa Namban agrodolce per pochi secondi.",
-        "step_3": "Nella fase successiva, riso caldo, cavolo a fiammifero e il pollo Namban.",
-        "step_4": "Per completare, aggiungi abbondante salsa tartara fatta in casa sul pollo."
+        "step_1": "Taglia le sovracosce di pollo in bocconi regolari e condiscile con salsa di soia, sake, zenzero e aglio; lascia marinare almeno 20 minuti.",
+        "step_2": "Prepara la salsa namban portando a leggero bollore salsa di soia, aceto di riso, mirin e zucchero, poi lasciala intiepidire.",
+        "step_3": "Prepara la tartara mescolando uovo sodo tritato, cipolla e cetriolino ben scolati, maionese giapponese, poco aceto, sale e pepe; tienila in frigorifero.",
+        "step_4": "Scola il pollo dalla marinata, passalo nell’amido di patate o mais e scuoti l’eccesso.",
+        "step_5": "Friggi a 170-175°C in piccoli lotti finché i bocconi sono dorati e il pollo è completamente cotto; scola su griglia. Controlla i bocconcini di pollo con un termometro alimentare: la temperatura al cuore deve raggiungere almeno 74 °C. La doratura esterna o il tempo di frittura non garantiscono da soli la cottura.",
+        "step_6": "Immergi il karaage ancora caldo nella salsa namban per pochi secondi, così assorbe il condimento senza perdere del tutto la croccantezza.",
+        "step_7": "Distribuisci riso caldo e cavolo a julienne nelle ciotole, aggiungi il pollo namban e completa con la salsa tartara fredda.",
+        "step_8": "Servi immediatamente, mantenendo il contrasto tra riso caldo, pollo croccante e tartara fresca."
       }
     },
     "recipe_000118": {
@@ -6601,7 +6700,7 @@
     },
     "recipe_000133": {
       "title": "Tori Chashu Ramen (Ramen con Pollo Marinato)",
-      "description": "Una versione pratica di Tori Chashu Ramen (Ramen con Pollo Marinato), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Tori Chashu Ramen utilizza sovracoscia di pollo arrotolata e cotta in una marinatura di salsa di soia e aromi. Il pollo affettato viene disposto sopra noodles e brodo preparati separatamente, senza confondere la cottura della carne con il breve tempo richiesto dalla pasta. Il pollo marinato viene lasciato raffreddare e affettato prima del montaggio con brodo caldo, noodles e uovo marinato.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Ramen Daisuki Koizumi-san. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "noodles_per_ramen": {
@@ -6617,7 +6716,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "mirin": {
@@ -6628,24 +6727,35 @@
           "name": "zucchero",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "zenzero schiacciato e 1 spicchio d'aglio",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "zenzero schiacciato",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "spicchio d'aglio",
           "note": null
         },
         "brodo_di_pollo_leggero": {
           "name": "brodo di pollo leggero",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Uovo marinato (Ajitsuke Tamago) e cipollotto per servire",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "uovo marinato (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "cipollotto per servire",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, arrotola la sovracoscia di pollo con la pelle all'esterno e legala strettamente con spaghetto da cucina. Metti in un pentolino, rosola il rotolo di pollo su tutti i lati. Unisci salsa di soia, sake, mirin, zucchero, zenzero e aglio.",
-        "step_2": "Prosegui così: copri e lascia cuocere a fuoco basso per 15-20 minuti girando il pollo di tanto in tanto finché la salsa si addensa e glassa la carne.",
-        "step_3": "Nella fase successiva, lascia raffreddare il pollo e affettalo a dischi d'oro.",
-        "step_4": "Per completare, porta a temperatura il brodo di pollo e regolalo di sapore con 2 cucchiai della glassa di cottura del pollo. Lascia cuocere i noodles per ramen, scolali nella ciotola, aggiungi il brodo e guarnisci con le fette di Tori Chashu, uovo marinato a metà e cipollotto."
+        "step_1": "Arrotola la sovracoscia di pollo con la pelle all'esterno e legala strettamente con spaghetto da cucina.",
+        "step_2": "Metti in un pentolino, rosola il rotolo di pollo su tutti i lati.",
+        "step_3": "Unisci salsa di soia, sake, mirin, zucchero, zenzero e aglio.",
+        "step_4": "Copri e lascia cuocere a fuoco basso per 15-20 minuti girando il pollo di tanto in tanto finché la salsa si addensa e glassa la carne. Prima di affettare il rotolo di pollo, verifica con un termometro che il centro abbia raggiunto almeno 74 °C; prolunga la cottura se necessario. Usa spago da cucina, non spaghetti alimentari.",
+        "step_5": "Lascia raffreddare il pollo e affettalo a dischi d'oro.",
+        "step_6": "Scalda il brodo di pollo e regolalo di sapore con 2 cucchiai della glassa di cottura del pollo.",
+        "step_7": "Cuoci i noodles per ramen, scolali nella ciotola, aggiungi il brodo e guarnisci con le fette di Tori Chashu, uovo marinato a metà e cipollotto."
       }
     },
     "recipe_000134": {
@@ -7358,7 +7468,7 @@
     },
     "recipe_000149": {
       "title": "Kani Chahan (Riso Saltato con Polpa di Granchio e Porri)",
-      "description": "Un Kani Chahan (Riso Saltato con Polpa di Granchio e Porri) completo basato su riso caldo e guarnizioni preparate separatamente, con un condimento misurato che lascia riconoscibili tutti i componenti.",
+      "description": "Il Kani Chahan è riso giapponese già cotto e ben raffreddato, saltato rapidamente nel wok con uova, cipollotto e granchio. La salsa di soia viene versata sul bordo caldo della padella per profumare il riso senza renderlo umido. La soia viene versata sul bordo caldo del wok prima di essere incorporata al riso; il cipollotto fresco completa il servizio.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Cooking Master Boy. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "riso_cotto_del_giorno_prima": {
@@ -7370,15 +7480,15 @@
           "note": null
         },
         "uovo_sbattute": {
-          "name": "uovo sbattute",
+          "name": "uova sbattute",
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "cipollotto freschi tritati finemente",
+          "name": "cipollotti freschi tritati finemente",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "d'aglio tritato",
+          "name": "spicchio d'aglio tritato",
           "note": null
         },
         "olio_di_sesamo": {
@@ -7389,21 +7499,30 @@
           "name": "salsa di soia",
           "note": null
         },
-        "sale_e_pepe_bianco_macinato_fresco_q_b": {
-          "name": "Sale e pepe bianco macinato fresco q.b",
+        "sale_e_pepe_bianco_macinato_fresco_q_b_1_sale": {
+          "name": "sale",
+          "note": null
+        },
+        "sale_e_pepe_bianco_macinato_fresco_q_b_2_pepe_bianco_macinato_fresco_q_b": {
+          "name": "pepe bianco macinato fresco",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, sgranare bene il riso freddo con le mani per separare i chicchi.",
-        "step_2": "Prosegui così: porta a temperaturare un wok a fuoco vivace con l'olio di sesamo. Soffriggere aglio e metà del cipollotto. Aggiungire le uova sbattute e amalgamare rapidamente per creare strapazzate soffici.",
-        "step_3": "Nella fase successiva, aggiungire immediatamente il riso nel wok ed saltarlo a fuoco fortissimo per 3-4 minuti, sgranando costantemente con la spatola. Aggiungere la polpa di granchio sfibrata e amalgamare delicatamente per amalgamare senza sfaldare eccessivamente la polpa.",
-        "step_4": "Per completare, aggiungire la salsa di soia lungo il bordo arroventato del wok per farla caramellare prima di incorporarla al riso. Aggiustare di sale e abbondante pepe bianco. Unire il resto del cipollotto fresco e porta in tavolare ben caldo."
+        "step_1": "Sgrana bene il riso freddo con le mani per separare i chicchi. Usa riso cotto raffreddato rapidamente in uno strato sottile, idealmente entro un'ora, poi refrigerato e consumato entro 24 ore. Non lasciare il riso a temperatura ambiente; riscaldalo una sola volta finché è ben fumante in ogni parte.",
+        "step_2": "Scalda un wok a fuoco vivace con l'olio di sesamo.",
+        "step_3": "Soffriggi aglio e metà del cipollotto.",
+        "step_4": "Aggiungi le uova sbattute e mescola rapidamente per creare strapazzate soffici.",
+        "step_5": "Aggiungi immediatamente il riso nel wok e saltalo a fuoco fortissimo per 3-4 minuti, sgranando costantemente con la spatola.",
+        "step_6": "Aggiungi la polpa di granchio sfibrata e mescola delicatamente per amalgamare senza sfaldare eccessivamente la polpa.",
+        "step_7": "Aggiungi la salsa di soia lungo il bordo arroventato del wok per farla caramellare prima di incorporarla al riso.",
+        "step_8": "Regola di sale e abbondante pepe bianco.",
+        "step_9": "Unisci il resto del cipollotto fresco e servi ben caldo."
       }
     },
     "recipe_000150": {
       "title": "Kamo Namban Soba (Soba Calda in Brodo con Anatra e Porri Tostati)",
-      "description": "Una versione pratica di Kamo Namban Soba (Soba Calda in Brodo con Anatra e Porri Tostati), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Kamo Namban Soba unisce noodles di grano saraceno, petto d’anatra rosolato dal lato della pelle e porri tostati. Le fette di anatra terminano la cottura nel brodo di dashi, soia e mirin, che viene versato sulla soba appena prima del servizio. Le soba vengono sciacquate per eliminare l'amido e riscaldate prima di incontrare il brodo con anatra e porri tostati.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer, Emiya-san Chi no Kyou no Gohan. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "tagliolini_soba_di_grano_saraceno": {
@@ -7435,7 +7554,7 @@
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di Yuzu o limone grattugiata",
+          "name": "scorza di Yuzu o limone grattugiata",
           "note": null
         },
         "shichimi_togarashi": {
@@ -7444,10 +7563,16 @@
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, incidere la pelle del petto d'anatra a scacchiera. Cuocere in padella antiaderente fredda dal lato della pelle a fuoco medio-basso per 8-10 minuti raccogliendo il grasso fuso. Girare e cuocere altri 2 minuti. Far riposare la carne e tagliarla a fette sottili.",
-        "step_2": "Prosegui così: nella stessa padella con il grasso dell'anatra, tostare i tocchetti di porro finché la superficie risulta ben dorata e caramellata.",
-        "step_3": "Nella fase successiva, usa una pentola unire Dashi, salsa di soia, mirin e zucchero. Portare ad ebollizione, unire i porri tostati e le fette d'anatra lasciando sobbollire per 2 minuti. Cuoci in acqua bollentere i noodles Soba in acqua bollente per 4 minuti, sciacquare sotto acqua fredda per rimuovere l'amido e riporta a temperaturare brevemente in acqua calda.",
-        "step_4": "Per completare, disporre la soba nelle ciotole, coprire con il brodo caldo, le fette d'anatra ed i porri. Rifinire con scorza di Yuzu grattugiata."
+        "step_1": "Incidi la pelle del petto d'anatra a scacchiera senza arrivare alla carne.",
+        "step_2": "Cuoci in padella antiaderente fredda dal lato della pelle a fuoco medio-basso per 8-10 minuti raccogliendo il grasso fuso.",
+        "step_3": "Gira il petto d'anatra e cuocilo per altri 2 minuti.",
+        "step_4": "Lascia riposare la carne per qualche minuto, poi tagliala a fette sottili.",
+        "step_5": "Nella stessa padella, usando parte del grasso dell'anatra, tosta i tocchetti di porro finché risultano ben dorati e leggermente caramellati.",
+        "step_6": "In una pentola, unisci dashi, salsa di soia, mirin e zucchero.",
+        "step_7": "Porta il brodo a ebollizione, unisci i porri tostati e le fette d'anatra e lascia sobbollire per 2 minuti. Per una preparazione domestica prudente controlla con un termometro che il petto d'anatra raggiunga almeno 74 °C al cuore prima del servizio; i minuti indicati sono solo orientativi. Il breve passaggio nel brodo non sostituisce la verifica della temperatura.",
+        "step_8": "Cuoci i noodles soba in acqua bollente per circa 4 minuti; scolali, sciacquali sotto acqua fredda per eliminare l'amido superficiale e riscaldali brevemente in acqua calda prima del servizio.",
+        "step_9": "Distribuisci la soba nelle ciotole e coprila con il brodo caldo, le fette d'anatra e i porri.",
+        "step_10": "Completa con scorza di yuzu grattugiata e servi subito."
       }
     },
     "recipe_000151": {
@@ -7558,7 +7683,7 @@
     },
     "recipe_000153": {
       "title": "Tori Tsukune (Polpette di Pollo alla Piastra con Salsa Tare e Tuorlo)",
-      "description": "Un Tori Tsukune (Polpette di Pollo alla Piastra con Salsa Tare e Tuorlo) saporito cotto con calore diretto controllato, cercando una buona doratura esterna senza asciugare il centro e completando con una salsa lucida.",
+      "description": "I Tori Tsukune sono spiedini di pollo macinato con cipollotto e zenzero, modellati e grigliati prima di essere glassati con salsa tare. La ricetta propone un tuorlo per intingere: questa modalità di servizio richiede un’apposita verifica di sicurezza alimentare e un ingrediente idoneo. La glassa tare avvolge le polpette di pollo cotte; l'eventuale tuorlo da intingolo richiede idoneità verificata al consumo senza cottura.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Midnight Diner. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "macinato_di_pollo": {
@@ -7566,11 +7691,11 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "cipollotto tritati finemente",
+          "name": "cipollotti tritati finemente",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "cm di zenzero grattugiato",
+          "name": "zenzero grattugiato",
           "note": null
         },
         "amido_di_mais": {
@@ -7578,11 +7703,15 @@
           "note": null
         },
         "uovo": {
-          "name": "uovo (albume nell'impasto, tuorlo per servire)",
+          "name": "uovo pastorizzato (albume nell'impasto, tuorlo pastorizzato per servire)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sale e pepe q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sale",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pepe",
           "note": null
         },
         "salsa_di_soia": {
@@ -7600,17 +7729,15 @@
         "zucchero": {
           "name": "zucchero",
           "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "spiedini di legno bagnati nell'acqua",
-          "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, riunisci in una ciotola lavorare il macinato di pollo con cipollotto, zenzero, amido di mais, l'albume d'uovo, sale e pepe finché il composto risulta omogeneo e vischioso.",
-        "step_2": "Prosegui così: dividere l'impasto in 4 porzioni allungate ed modellarle attorno agli spiedini di legno dandogli una forma ovale cilindrica.",
-        "step_3": "Nella fase successiva, metti in un pentolino ridurre i componenti della salsa Tare fino a consistenza sciropposa. Grigliare gli spiedini su una padella con un filo d'olio a fuoco medio per 3-4 minuti per lato. Spennellare generosamente con la salsa Tare negli ultimi minuti rigirandoli spesso.",
-        "step_4": "Per completare, porta in tavolare gli spiedini lucidi e glassati accompagnati da un tuorlo d'uovo fresco in una ciotolina in cui intingere le polpette."
+        "step_1": "In una ciotola, lavora il macinato di pollo con cipollotto, zenzero, amido di mais, l'albume d'uovo, sale e pepe finché il composto risulta omogeneo e vischioso.",
+        "step_2": "Dividi l'impasto in 4 porzioni allungate e modellale attorno agli spiedini di legno dandogli una forma ovale cilindrica.",
+        "step_3": "In un pentolino, riduci i componenti della salsa Tare fino a consistenza sciropposa.",
+        "step_4": "Griglia gli spiedini su una padella con un filo d'olio a fuoco medio per 3-4 minuti per lato.",
+        "step_5": "Spennella generosamente con la salsa Tare negli ultimi minuti rigirandoli spesso.",
+        "step_6": "Servi gli spiedini glassati con il tuorlo pastorizzato idoneo al consumo senza cottura, per intingerli. Cuoci le polpette di pollo fino ad almeno 74 °C al cuore, misurati con un termometro. Per la salsa da intingere usa esclusivamente tuorlo pastorizzato idoneo al consumo senza cottura; non usare un tuorlo fresco crudo non pastorizzato."
       }
     },
     "recipe_000154": {
@@ -7724,7 +7851,7 @@
     },
     "recipe_000156": {
       "title": "Asari Ramen (Ramen al Brodo di Vongole e Burro)",
-      "description": "Una versione pratica di Asari Ramen (Ramen al Brodo di Vongole e Burro), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "L’Asari Ramen utilizza il liquido filtrato delle vongole aperte con sake e aglio per aromatizzare un brodo leggero di dashi. I noodles si cuociono a parte e vengono serviti subito con le vongole, il mais, cipollotto e poco burro. Il liquido filtrato delle vongole aromatizza il dashi, mentre il burro si scioglie nella ciotola al momento del servizio.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Ramen Daisuki Koizumi-san, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "ramen_noodles": {
@@ -7748,23 +7875,31 @@
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "d'aglio tritato",
+          "name": "spicchio d'aglio tritato",
           "note": null
         },
         "burro_di_malga": {
           "name": "burro di malga",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Mais dolce e cipollotto fresco per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "mais dolce",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "cipollotto fresco per guarnire",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, usa una pentola unire le vongole con il sake e l'aglio tritato. Coprire con coperchio e cuocere a fuoco vivo per 3-4 minuti finché le vongole si aprono. Filtrare il succo ottenuto e tenuto da parte con le vongole.",
-        "step_2": "Prosegui così: unire il succo delle vongole al brodo Dashi, aggiungere la salsa di soia chiara ed un pizzico di sale. Porta a temperaturare bene.",
-        "step_3": "Nella fase successiva, cuocere i noodles per ramen in abbondante acqua bollente per 2 minuti e scolare. Disporre i noodles nelle ciotole, coprire con il brodo caldo alle vongole.",
-        "step_4": "Per completare, adagiare sopra le vongole nel guscio, una cucchiaiata di mais, cipollotto fresco ed una noce di burro che sciogliendosi legherà il brodo marinaro."
+        "step_1": "Metti le vongole in una pentola con il sake e l'aglio tritato.",
+        "step_2": "Copri con coperchio e cuoci a fuoco vivo per 3-4 minuti finché le vongole si aprono. Usa vongole vive e spurgate da fornitore affidabile. Elimina quelle con guscio rotto o che non si chiudono al tocco prima di cuocerle; scarta quelle rimaste chiuse dopo una cottura adeguata. Non usare il liquido di molluschi scartati.",
+        "step_3": "Filtra accuratamente il liquido rilasciato dalle vongole e tienilo da parte insieme ai molluschi aperti.",
+        "step_4": "Unisci il succo delle vongole al brodo Dashi, aggiungi la salsa di soia chiara e un pizzico di sale.",
+        "step_5": "Scalda bene il brodo alle vongole senza farlo ridurre eccessivamente.",
+        "step_6": "Cuoci i noodles per ramen in abbondante acqua bollente per 2 minuti e scola.",
+        "step_7": "Distribuisci i noodles nelle ciotole e coprili con il brodo caldo alle vongole.",
+        "step_8": "Adagia sopra le vongole nel guscio, il mais e il cipollotto fresco; completa con una noce di burro, che sciogliendosi legherà il brodo marinaro."
       }
     },
     "recipe_000157": {

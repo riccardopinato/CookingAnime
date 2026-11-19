@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000080",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -21,28 +21,23 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "Fast Track 12/12: original recipe reconciled to full procedure and localized risk-specific corrections for IT/EN/ES/FR/DE/PT; FDA/FSIS/FSA and EU species evidence recorded in tool/fast_track_12_repairs.py.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
       "id": "pesce_sanma",
       "quantity": 2,
       "unit": "piece"
-    },
-    {
-      "id": "1",
-      "quantity": 1,
-      "unit": null
     },
     {
       "id": "sale_marino_grosso",
@@ -76,62 +71,74 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 600
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 420
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Sanma no Shioyaki",
-      "description": "A savory Sanma no Shioyaki cooked with controlled direct heat, aiming for good browning outside while keeping the center tender and the finishing sauce glossy.",
-      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Yuru Camp△. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Sanma no Shioyaki — grilled Pacific saury with daikon",
+      "description": "The Sanma no Shioyaki is a whole fish salted and grilled until the skin becomes golden. It is accompanied with grated daikons and essential condiments to leave in evidence the flavor of the fish; the Italian name of the species requires a taxonomic verification. The grated daikon, the soy sauce and the lemon accompany the whole fish, whose skin is made golden on the grill.",
+      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Yuru Camp△. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "Pesce sanma (luccio di mare/costardella) interi fresh",
+          "name": "whole Pacific saury (Cololabis saira), cleaned and gutted",
           "note": null
         },
         "sale_marino_grosso": {
-          "name": "Sea salt grosso",
+          "name": "Large sea salt",
           "note": null
         },
         "daikon_grattugiato": {
-          "name": "Daikon grated",
+          "name": "Grated Daikon",
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Fettine di lemon o sudachi",
+          "name": "lemon slices or Sudachi",
           "note": null
         },
         "salsa_di_soia_per_servire": {
-          "name": "Soy sauce for serving",
+          "name": "Soy sauce to serve",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the meat, fish or other main ingredient and mix any glaze or seasoning before heating the pan or grill.",
-        "step_2": "Cook over controlled direct heat until the first side browns well, then turn only as needed so the center stays juicy and the surface develops color.",
-        "step_3": "Add the sauce or glaze near the end and reduce it briefly, coating the food without letting sugar or miso scorch on the hot surface.",
-        "step_4": "Rest briefly when appropriate, slice cleanly and serve with the prepared rice, vegetables or garnish while still hot."
+        "step_1": "Rinse the Sanma fish leaving them whole (the Japanese tradition includes cooking with the entrails for a pleasantly bitter taste). Sanma is Pacific saury (Cololabis saira), not pike. For home cooking buy cleaned and gutted fish or have the fishmonger prepare it; cook the fish thoroughly and check the thickest part.",
+        "step_2": "Insert the skin with 3 diagonal cuts on each side.",
+        "step_3": "Sprinkle generously with coarse salt and let 10 minutes rest.",
+        "step_4": "Drys the moisture released by the salt with absorbent paper.",
+        "step_5": "Cook the fish on a hot grill or on the oven plate at 220°C for about 6-7 minutes per side.",
+        "step_6": "As long as the skin becomes golden, crispy and light burns form.",
+        "step_7": "Place whole fish on elongated rectangular plates.",
+        "step_8": "Come with a fresh, grated mountain of Daikon, lightly sprinkled with a drop of soy sauce and a clove of lemon."
       }
     },
     "it": {
-      "title": "Sanma no Shioyaki (Luccio di Mare Grigliato al Sale con Daikon)",
-      "description": "Un Sanma no Shioyaki (Luccio di Mare Grigliato al Sale con Daikon) saporito cotto con calore diretto controllato, cercando una buona doratura esterna senza asciugare il centro e completando con una salsa lucida.",
+      "title": "Sanma no Shioyaki (Costardella del Pacifico alla griglia con daikon)",
+      "description": "Il Sanma no Shioyaki è un pesce intero salato e grigliato finché la pelle diventa dorata. Si accompagna con daikon grattugiato e condimenti essenziali per lasciare in evidenza il sapore del pesce; la denominazione italiana della specie richiede una verifica tassonomica. Il daikon grattugiato, la salsa di soia e il limone accompagnano il pesce intero, la cui pelle viene resa dorata sulla griglia.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Yuru Camp△. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "pesce Sanma (Luccio di mare/Costardella) interi freschi",
+          "name": "costardella del Pacifico (Cololabis saira, sanma) intera, pulita ed eviscerata",
           "note": null
         },
         "sale_marino_grosso": {
@@ -147,32 +154,32 @@
           "note": null
         },
         "salsa_di_soia_per_servire": {
-          "name": "Salsa di soia per servire",
+          "name": "salsa di soia per servire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, sciacqua i pesci Sanma lasciandoli interi (la tradizione giapponese prevede la cottura con le interiora per un gusto piacevolmente amarognolo). Incidi la pelle con 3 tagli diagonali su ciascun lato. Spolvera generosamente di sale grosso e lascia riposare 10 minuti.",
-        "step_2": "Prosegui così: asciuga l'umidità rilasciata dal sale con carta assorbente.",
-        "step_3": "Nella fase successiva, lascia cuocere i pesci su una griglia rovente o sulla piastra del forno a 220°C per circa 6-7 minuti per lato, finché la pelle diventa dorata, croccante e si formano leggere bruciacchiature. Sistema i pesci interi su piatti rettangolari allungati.",
-        "step_4": "Per completare, accompagna con una montagna di Daikon fresco grattugiato leggermente irrorato con un goccio di salsa di soia ed uno spicchio di limone."
+        "step_1": "Utilizza sanma già pulito ed eviscerato dal pescivendolo. Il sanma è la costardella del Pacifico (Cololabis saira), non il luccio di mare. Per la preparazione domestica usa pesce acquistato pulito/eviscerato oppure fallo pulire dal pescivendolo; cuocilo completamente e verifica il centro del pesce.",
+        "step_2": "Incidi la pelle con 3 tagli diagonali su ciascun lato.",
+        "step_3": "Spolvera generosamente di sale grosso e lascia riposare 10 minuti.",
+        "step_4": "Asciuga l'umidità rilasciata dal sale con carta assorbente.",
+        "step_5": "Cuoci i pesci su una griglia rovente o sulla piastra del forno a 220°C per circa 6-7 minuti per lato.",
+        "step_6": "Finché la pelle diventa dorata, croccante e si formano leggere bruciacchiature.",
+        "step_7": "Sistema i pesci interi su piatti rettangolari allungati.",
+        "step_8": "Accompagna con una montagna di Daikon fresco grattugiato leggermente irrorato con un goccio di salsa di soia ed uno spicchio di limone."
       }
     },
     "es": {
-      "title": "Sanma no Shioyaki",
-      "description": "Una versión práctica de Sanma no Shioyaki para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Yuru Camp△. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Sanma no Shioyaki — paparda del Pacífico a la parrilla con daikon",
+      "description": "El Sanma no Shioyaki es un pez entero salado y asado hasta que la piel se vuelve dorada. Se acompaña con daikon rallado y condimentos esenciales para dejar en evidencia el sabor del pescado; la denominación italiana de la especie requiere una verificación taxonómica. El daikon rallado, la salsa de soja y el limón acompañan al pez entero, cuya piel se vuelve dorada en la parrilla.",
+      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Yuru Camp△. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "Pesce sanma (luccio di mare/costardella) interi fresco",
+          "name": "paparda del Pacífico (Cololabis saira) entera, limpia y eviscerada",
           "note": null
         },
         "sale_marino_grosso": {
-          "name": "Sea sal grosso",
+          "name": "sal marina gruesa",
           "note": null
         },
         "daikon_grattugiato": {
@@ -180,7 +187,7 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Fettine di limón o sudachi",
+          "name": "rodajas de limón o sudaquis",
           "note": null
         },
         "salsa_di_soia_per_servire": {
@@ -189,27 +196,27 @@
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Enjuaga los peces de Sanma dejándolos enteros (la tradición japonesa prevé la cocción con las entrañas para un gusto agradablemente amargo). El sanma es paparda del Pacífico (Cololabis saira), no lucio. Para cocinarlo en casa compra pescado limpio y eviscerado o pide que lo preparen en la pescadería; comprueba la cocción en la parte más gruesa.",
+        "step_2": "Incide la piel con 3 cortes diagonales en cada lado.",
+        "step_3": "Espolvorea generosamente de sal gruesa y deja reposar 10 minutos.",
+        "step_4": "Seca la humedad de la sal con papel absorbente.",
+        "step_5": "Cocine los peces sobre una parrilla ardiente o sobre la placa del horno a 220°C durante unos 6-7 minutos por lado.",
+        "step_6": "Hasta que la piel se vuelve dorada, crujiente y se forman pequeñas quemaduras.",
+        "step_7": "Arregla los peces enteros sobre platos rectangulares alargados.",
+        "step_8": "Acompaña con una montaña de Daikon fresco rallado ligeramente rociado con una gota de salsa de soja y un diente de limón."
       }
     },
     "fr": {
-      "title": "Sanma no Shioyaki",
-      "description": "Une version pratique de Sanma no Shioyaki à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Emiya-san Chi no Kyou no Gohan, Yuru Camp△. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Sanma no Shioyaki — balaou du Pacifique grillé au daikon",
+      "description": "Le Sanma no Shioyaki est un poisson entier salé et grillé jusqu'à ce que la peau devienne dorée. Il est accompagné de daikon râpé et assaisonnements essentiels pour laisser en évidence la saveur du poisson; la dénomination italienne de l'espèce nécessite une vérification taxinomique. Le daikon râpé, la sauce de soja et le citron accompagnent le poisson entier, dont la peau est rendue dorée sur la grille.",
+      "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Yuru Camp△. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "Pesce sanma (luccio di mare/costardella) interi frais",
+          "name": "balaou du Pacifique (Cololabis saira) entier, nettoyé et vidé",
           "note": null
         },
         "sale_marino_grosso": {
-          "name": "Sea sel grosso",
+          "name": "sel marin gros",
           "note": null
         },
         "daikon_grattugiato": {
@@ -217,36 +224,36 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Fettine di citron o sudachi",
+          "name": "Coquilles de citron ou de Sudachi",
           "note": null
         },
         "salsa_di_soia_per_servire": {
-          "name": "Sauce soja pour servir",
+          "name": "Sauce de soja pour servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Rincer les poissons Sanma en les laissant entiers (la tradition japonaise prévoit la cuisson avec les entrailles pour un goût agréablement amer). Le sanma est le balaou du Pacifique (Cololabis saira), pas un brochet. Pour une préparation domestique, prenez du poisson nettoyé et vidé ou faites-le préparer par le poissonnier ; vérifiez la cuisson dans la partie la plus épaisse.",
+        "step_2": "Inciter la peau avec 3 découpes diagonales de chaque côté.",
+        "step_3": "Il pulvérise généreusement de gros sel et laisse reposer 10 minutes.",
+        "step_4": "Sèche l'humidité libérée par le sel avec du papier absorbant.",
+        "step_5": "Faites cuire les poissons sur une grille brûlante ou sur la plaque du four à 220°C pendant environ 6 à 7 minutes par côté.",
+        "step_6": "Aussi longtemps que la peau devient dorée, croustillante et que de légères brûlures se forment.",
+        "step_7": "Installez les poissons entiers sur des plats rectangulaires allongés.",
+        "step_8": "Sers avec une généreuse portion de daikon frais râpé, légèrement arrosé de sauce soja, et un quartier de citron."
       }
     },
     "de": {
-      "title": "Sanma no Shioyaki",
-      "description": "Eine alltagstaugliche Version von Sanma no Shioyaki für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Yuru Camp△ inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Sanma no Shioyaki — gegrillter Pazifischer Makrelenhecht mit Daikon",
+      "description": "Das Sanma no Shioyaki ist ein ganzer salziger und gegrillter Fisch, bis die Haut goldgelb wird. Es wird mit geriebenen Daikons und wesentlichen Würzmitteln begleitet, um den Geschmack des Fisches hervorzuheben; die italienische Bezeichnung der Art erfordert eine taxonomische Überprüfung. Der geriebene Daikon, die Sojasauce und die Zitrone begleiten den ganzen Fisch, dessen Haut auf dem Grill goldgelb gemacht wird.",
+      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Yuru Camp△ inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "Pesce sanma (luccio di mare/costardella) interi frisch",
+          "name": "ganzer Pazifischer Makrelenhecht (Cololabis saira), gesäubert und ausgenommen",
           "note": null
         },
         "sale_marino_grosso": {
-          "name": "Sea Salz grosso",
+          "name": "Großes Meersalz",
           "note": null
         },
         "daikon_grattugiato": {
@@ -254,36 +261,36 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Fettine di Zitrone o sudachi",
+          "name": "Zitronen- oder Sudachi-Fenkel",
           "note": null
         },
         "salsa_di_soia_per_servire": {
-          "name": "Sojasauce zum Servieren",
+          "name": "Sojasoße zum Servieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Spülen Sie die Sanma Fische ganz (die japanische Tradition sieht das Kochen mit den Eingeweiden für einen angenehm bitteren Geschmack). Sanma ist Pazifischer Makrelenhecht (Cololabis saira), kein Hecht. Für die Zubereitung zu Hause ausgenommenen, gesäuberten Fisch kaufen oder beim Fischhändler ausnehmen lassen; die Garung an der dicksten Stelle prüfen.",
+        "step_2": "Berühren Sie die Haut mit 3 diagonalen Schnitten auf jeder Seite.",
+        "step_3": "Sie staubt großzügig mit Salz und lässt 10 Minuten ruhen.",
+        "step_4": "Trocknen Sie die vom Salz freigesetzte Feuchtigkeit mit absorbierendem Papier.",
+        "step_5": "Kochen Sie die Fische für ca. 6-7 Minuten pro Seite auf einem brennenden Grill oder auf der Backplatte bei 220 °C.",
+        "step_6": "Solange die Haut goldig, knusprig und leicht verbrennt wird.",
+        "step_7": "Setzen Sie die ganzen Fische auf gestreckten rechteckigen Tellern.",
+        "step_8": "Begleiten Sie mit einem frisch geriebenen Daikon Berg mit einem Tropfen Sojasoße und einer Zitrone."
       }
     },
     "pt": {
-      "title": "Sanma no Shioyaki",
-      "description": "Uma versão prática de Sanma no Shioyaki para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Emiya-san Chi no Kyou no Gohan, Yuru Camp△. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Sanma no Shioyaki — agulhão-do-Japão grelhado com daikon",
+      "description": "O Sanma no Shioyaki é um peixe inteiro salgado e grelhado até que a pele se torne dourada. É acompanhado de daikons ralados e condimentos essenciais para deixar em evidência o sabor do peixe; o nome italiano da espécie requer uma verificação taxonômica. O daikon ralado, o molho de soja e o limão acompanham o peixe inteiro, cuja pele é feita dourada na grelha.",
+      "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Yuru Camp△. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "Pesce sanma (luccio di mare/costardella) interi fresco",
+          "name": "agulhão-do-Japão (Cololabis saira) inteiro, limpo e eviscerado",
           "note": null
         },
         "sale_marino_grosso": {
-          "name": "Sea sal grosso",
+          "name": "Grande sal do mar",
           "note": null
         },
         "daikon_grattugiato": {
@@ -291,7 +298,7 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Fettine di limão o sudachi",
+          "name": "fatias de limão ou Sudachi",
           "note": null
         },
         "salsa_di_soia_per_servire": {
@@ -300,10 +307,14 @@
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Enxague os peixes Sanma deixando- os inteiros (a tradição japonesa inclui cozinhar com as entranhas para um gosto agradávelmente amargo). O sanma é agulhão-do-Japão (Cololabis saira), não lúcio. Para preparar em casa, utilize peixe limpo e eviscerado ou peça ao peixeiro que o prepare; verifique a cozedura na parte mais espessa.",
+        "step_2": "Insira a pele com 3 cortes diagonais em cada lado.",
+        "step_3": "Espolvore generosamente com sal grosso e deixe descansar 10 minutos.",
+        "step_4": "Seca a umidade liberada pelo sal com papel absorvente.",
+        "step_5": "Cozinhe o peixe numa grelha quente ou na placa do forno a 220°C por cerca de 6-7 minutos por lado.",
+        "step_6": "Desde que a pele se torne dourada, crocante e leve queimaduras formam.",
+        "step_7": "Coloque peixe inteiro em placas retangulares alongadas.",
+        "step_8": "Venha com uma montanha fresca e ralada de Daikon, levemente espalhada com uma gota de molho de soja e um dedo de limão."
       }
     }
   }

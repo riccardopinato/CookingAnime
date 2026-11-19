@@ -2527,60 +2527,65 @@
       }
     },
     "recipe_000051": {
-      "title": "Shio Ramen",
-      "description": "Eine alltagstaugliche Version von Shio Ramen für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Naruto inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Shio-Ramen — Salz-Ramen mit Chashu und Menma",
+      "description": "Der Shio Ramen zeichnet eine helle Brühe aus, die mit Sake, Salz und Sesamöl gewürzt ist. Die Nudeln werden getrennt gelesen und in der heißen Brühe mit Chashu, mariniertem Ei, Menma, Zwiebeln und Nori untergebracht: die Schnelligkeit der Montage bewahrt die Konsistenz der Pasta.",
+      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Naruto inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "tagliolini_per_ramen_freschi": {
-          "name": "Tagliolini per ramen frisch",
+          "name": "frische Ramen-Nudeln",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Hähnchen Brühe leggero",
+          "name": "leichte Hühnerbrühe",
           "note": null
         },
         "dashi_in_polvere": {
-          "name": "Dashi in polvere",
+          "name": "Dashi-Pulver",
           "note": null
         },
         "sale_marino_fine": {
-          "name": "Sea Salz fine (o alga kelp salata)",
-          "note": null
+          "name": "feines Meersalz (oder gesalzener Kombu)",
+          "note": "Mit ½ TL beginnen; erst nach dem Abschmecken nachsalzen"
         },
         "sake_da_cucina": {
-          "name": "Sake da cucina",
+          "name": "Kochsake",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         },
         "maiale_chashu": {
-          "name": "Schweinefleisch chashu",
+          "name": "Chashu-Schweinefleisch",
           "note": null
         },
         "uovo_marinate": {
-          "name": "Ei marinate (ajitsuke tamago)",
+          "name": "marinierte Eier (Ajitsuke Tamago)",
           "note": null
         },
         "germogli_di_bambu": {
-          "name": "Bambussprossen (menma)",
+          "name": "gewürzte Bambussprossen (Menma)",
           "note": null
         },
         "erba_cipollina_fresca_tritata": {
-          "name": "Erba cipollina frisch tritata",
+          "name": "frisch geschnittener Schnittlauch",
           "note": null
         },
         "alga_nori": {
-          "name": "Nori",
+          "name": "Nori-Alge",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Hühnerbrühe, Dashi-Pulver, Kochsake und Salz in einem kleinen Topf unter Rühren erhitzen, bis sich alles gelöst hat. Zunächst nur einen halben Teelöffel feines Salz verwenden. Die Brühe vor dem Servieren abschmecken und vorsichtig nachsalzen: Dashi und Beläge sind bereits salzig.",
+        "step_2": "Das Sesamöl einrühren und die Brühe bei sehr niedriger Hitze heiß halten, ohne sie weiter kochen zu lassen.",
+        "step_3": "In einem großen Topf reichlich ungesalzenes Wasser zum Kochen bringen.",
+        "step_4": "Die frischen Ramen-Nudeln etwa 2 Minuten kochen, sodass sie noch bissfest sind.",
+        "step_5": "Die Nudeln gründlich abgießen und das Sieb leicht schütteln, damit überschüssiges Wasser abtropft.",
+        "step_6": "Die heiße Brühe auf zwei Ramen-Schalen verteilen.",
+        "step_7": "Die Nudeln vorsichtig in die Mitte jeder Schale legen und zu einem gleichmäßigen Nest formen.",
+        "step_8": "Chashu-Scheiben, halbiertes mariniertes Ei, Menma und reichlich Schnittlauch neben den Nudeln anrichten.",
+        "step_9": "Ein Nori-Blatt an den Rand jeder Schale stecken und die Ramen sofort heiß servieren."
       }
     },
     "recipe_000052": {
@@ -2839,52 +2844,63 @@
       }
     },
     "recipe_000056": {
-      "title": "Chirashizushi",
-      "description": "Eine alltagstaugliche Version von Chirashizushi für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Fruits Basket, Kimi ni Todoke inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Chirashizushi – festlicher Sushi-Reis mit Fisch und Gemüse",
+      "description": "Das Chirashizushi verfügt über gewürzten Sushi-Reis, der ein Mosaik aus Frittata-Streifen, Fisch, Garnelen, Gurke und Lachseier enthält. Die Zubereitung ist vor allem eine zarte Montage; die Meereszutaten, die roh serviert werden sollen, erfordern eine spezifische Überprüfung der Eignung und Haltbarkeit.",
+      "animeContext": "Dieses Rezept ist thematisch von Fruits Basket, Kimi ni Todoke inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "riso_per_sushi_cotto_e_condito_con_aceto_di_riso": {
-          "name": "Sushi Reis cotto e condito con Reisessig",
+          "name": "Sushi-Reis, gekocht und mit Reisessig gewürzt",
           "note": null
         },
-        "zucchero_e_sale": {
-          "name": "Zucker e Salz (sumeshi)",
+        "zucchero_e_sale_1_zucchero": {
+          "name": "Zucker",
+          "note": null
+        },
+        "zucchero_e_sale_2_sale_sumeshi": {
+          "name": "Salz (Sumeshi)",
           "note": null
         },
         "salmone_fresco_per_sashimi_a_cubetti": {
-          "name": "Lachs frisch per sashimi a cubetti",
+          "name": "Frischlachs für Sashimi in Würfeln",
           "note": null
         },
         "tonno_fresco_a_cubetti": {
-          "name": "Thunfisch frisch a cubetti",
+          "name": "Frischer Kubus-Thunfisch",
           "note": null
         },
         "gamberi_cotti_sgusciati": {
-          "name": "Garnelen cotti sgusciati",
+          "name": "Garnelen, geschält",
           "note": null
         },
         "uovo": {
-          "name": "Ei (per fare la frittatina sottile kinshi tamago)",
+          "name": "Ei (für die Herstellung von dünnem Frittatin kinshi Tamago)",
           "note": null
         },
         "cetriolo_giapponese_a_fettine_sottili": {
-          "name": "Cetriolo giapponese a fettine sottili",
+          "name": "Japanische Gurke mit dünnen Scheiben",
           "note": null
         },
         "uova_di_salmone": {
-          "name": "Eier di Lachs (ikura) per guarnire",
+          "name": "Lachseier (Ikura) zum Garnieren",
           "note": null
         },
-        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori": {
-          "name": "Sesamsamen tostati e striscioline di nori",
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_1_semi_di_sesamo_tostati": {
+          "name": "geröstete Sesamsamen",
+          "note": null
+        },
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_2_striscioline_di_alga_nori": {
+          "name": "Alga nori-Kristalle",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Legen Sie den Reis für Sushi gewürzt und eingehüllt in einer großen Schüssel aus Holz oder Keramik.",
+        "step_2": "Er arbeitet seine Eier mit einer Prise Salz und Zucker.",
+        "step_3": "Kochen Sie eine dünne Pfanne in der Pfanne, lassen Sie sie abkühlen und schneiden Sie sie in dünne Streifen wie Nudeln.",
+        "step_4": "Bedecken Sie die Reisoberfläche vollständig mit den Frittata kinshi Tamago Streifen.",
+        "step_5": "Kunstlich strahlendes System oder Mosaik die Lachswürfel, Thunfisch, Garnelen und Gurke Scheiben. Nur Lachs und Thunfisch verwenden, die vom Lieferanten ausdrücklich für den Rohverzehr freigegeben sind; dessen Vorgaben zum Gefrieren und Kühlen einhalten. Bis zum Anrichten kalt lagern: frisches Aussehen ist kein Sicherheitsnachweis.",
+        "step_6": "Verbinden Sie ein paar Esslöffel helle Lachseier Ikura in der Mitte, stauben Sie mit gerösteten Sesamsamen und Streifen von Algen nori.",
+        "step_7": "Bringt frisch zu Tisch, begleitet von Soja-Sauce und Wasabi."
       }
     },
     "recipe_000057": {
@@ -2987,20 +3003,20 @@
       }
     },
     "recipe_000059": {
-      "title": "Asari no Sakamushi",
-      "description": "Eine alltagstaugliche Version von Asari no Sakamushi für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars! (Shokugeki no Soma), Midnight Diner (Shinya Shokudo) inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Asari no Sakamushi – Muscheln in Sakedampf mit Ingwer",
+      "description": "Für Asari no Sakamushi werden bereits entsandete Venusmuscheln kurz mit Sake, Knoblauch und Ingwer in einer zugedeckten Pfanne gedämpft. Zunächst wird die Butter bei milder Hitze aromatisiert, dann werden die Muscheln bei stärkerer Hitze geöffnet; geschlossen gebliebene Muscheln werden entsorgt. Den Sud nach dem Abschalten mit restlicher Butter und etwas Sojasauce verfeinern und mit frischem Schnittlauch servieren.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars! (Shokugeki no Soma), Midnight Diner (Shinya Shokudo) inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "vongole_fresche": {
-          "name": "Venusmuscheln frisch (fatte spurgare in Wasser salata)",
+          "name": "frische Muscheln (in Salzwasser gereinigt)",
           "note": null
         },
         "sake_da_cucina_giapponese": {
-          "name": "Sake da cucina giapponese",
+          "name": "japanischer Kochsake",
           "note": null
         },
         "d_aglio_affettato_finemente": {
-          "name": "D'Knoblauch in Scheiben finemente",
+          "name": "Knoblauchzehe fein geschnitten",
           "note": null
         },
         "zenzero_fresco_grattugiato": {
@@ -3012,19 +3028,24 @@
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "erba_cipollina_fresca_tritata_per_guarnire": {
-          "name": "Erba cipollina frisch tritata per guarnire",
+          "name": "Frisch gehacktes Schnittlauch zum Garnieren",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Waschen Sie die bereits unter kaltem Wasser gereinigten Muscheln gründlich.",
+        "step_2": "In einer großen Pfanne mit Deckel, schmelzen Sie die Hälfte der Butter und fügen Sie den geschnittenen Knoblauch und den geriebenen Ingwer zusammen.",
+        "step_3": "Knoblauch und Ingwer bei schwacher Hitze 1 Minute lang leicht goldbraun anbraten.",
+        "step_4": "Kombinieren Sie die Muscheln in die Pfanne und fügen Sie sofort den japanischen Sake hinzu.",
+        "step_5": "Bedecken Sie den Deckel sofort und heben Sie die Flamme auf lebendiges Feuer.",
+        "step_6": "Kochen Sie 3-4 Minuten lang, indem Sie die Pfanne ab und zu schütteln, bis sich alle Muscheln vollständig öffnen (verpacken Sie die verschlossenen Muscheln). Lebende Venusmuscheln von einem zuverlässigen Anbieter verwenden. Beschädigte Muscheln und solche, die sich bei Berührung nicht schließen, vor dem Garen aussortieren; Muscheln, die nach gründlichem Garen geschlossen bleiben, wegwerfen.",
+        "step_7": "Mach das Feuer aus, misch die restlichen Butter und einen Faden Sojasauce.",
+        "step_8": "Amalgam sanft, um eine schmackhafte und glänzende Brodetto zu schaffen.",
+        "step_9": "Staub mit reichlich frischen Schnittlauch und bringt mit seiner Brühe sehr heiß auf den Tisch."
       }
     },
     "recipe_000060": {
@@ -4231,20 +4252,16 @@
       }
     },
     "recipe_000080": {
-      "title": "Sanma no Shioyaki",
-      "description": "Eine alltagstaugliche Version von Sanma no Shioyaki für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Yuru Camp△ inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Sanma no Shioyaki — gegrillter Pazifischer Makrelenhecht mit Daikon",
+      "description": "Das Sanma no Shioyaki ist ein ganzer salziger und gegrillter Fisch, bis die Haut goldgelb wird. Es wird mit geriebenen Daikons und wesentlichen Würzmitteln begleitet, um den Geschmack des Fisches hervorzuheben; die italienische Bezeichnung der Art erfordert eine taxonomische Überprüfung. Der geriebene Daikon, die Sojasauce und die Zitrone begleiten den ganzen Fisch, dessen Haut auf dem Grill goldgelb gemacht wird.",
+      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Yuru Camp△ inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "Pesce sanma (luccio di mare/costardella) interi frisch",
+          "name": "ganzer Pazifischer Makrelenhecht (Cololabis saira), gesäubert und ausgenommen",
           "note": null
         },
         "sale_marino_grosso": {
-          "name": "Sea Salz grosso",
+          "name": "Großes Meersalz",
           "note": null
         },
         "daikon_grattugiato": {
@@ -4252,19 +4269,23 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Fettine di Zitrone o sudachi",
+          "name": "Zitronen- oder Sudachi-Fenkel",
           "note": null
         },
         "salsa_di_soia_per_servire": {
-          "name": "Sojasauce zum Servieren",
+          "name": "Sojasoße zum Servieren",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Spülen Sie die Sanma Fische ganz (die japanische Tradition sieht das Kochen mit den Eingeweiden für einen angenehm bitteren Geschmack). Sanma ist Pazifischer Makrelenhecht (Cololabis saira), kein Hecht. Für die Zubereitung zu Hause ausgenommenen, gesäuberten Fisch kaufen oder beim Fischhändler ausnehmen lassen; die Garung an der dicksten Stelle prüfen.",
+        "step_2": "Berühren Sie die Haut mit 3 diagonalen Schnitten auf jeder Seite.",
+        "step_3": "Sie staubt großzügig mit Salz und lässt 10 Minuten ruhen.",
+        "step_4": "Trocknen Sie die vom Salz freigesetzte Feuchtigkeit mit absorbierendem Papier.",
+        "step_5": "Kochen Sie die Fische für ca. 6-7 Minuten pro Seite auf einem brennenden Grill oder auf der Backplatte bei 220 °C.",
+        "step_6": "Solange die Haut goldig, knusprig und leicht verbrennt wird.",
+        "step_7": "Setzen Sie die ganzen Fische auf gestreckten rechteckigen Tellern.",
+        "step_8": "Begleiten Sie mit einem frisch geriebenen Daikon Berg mit einem Tropfen Sojasoße und einer Zitrone."
       }
     },
     "recipe_000081": {
@@ -5059,44 +5080,59 @@
       }
     },
     "recipe_000096": {
-      "title": "Asari Clam Chowder",
-      "description": "Eine alltagstaugliche Version von Asari Clam Chowder für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Asari-Clam-Chowder – cremige Muschelsuppe",
+      "description": "Das Asari Clam Chowder ist eine cremige Suppe mit gedämpften Muscheln, Kartoffeln und Zwiebeln. Die Flüssigkeit der Muscheln wird gefiltert und wiedergewonnen, um die Basis zu würzen; die Weichtiere kommen erst am Ende, ohne unnötig zu lang zu kochen. Die gefilterte Flüssigkeit der Muscheln tritt mit Milch und Sahne in die cremige Basis ein; die geöffneten Weichtiere werden schließlich hinzugefügt.",
+      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "vongole_asari": {
-          "name": "Venusmuscheln asari (o veraci) frisch e spurgate",
+          "name": "Asäre (oder echte) Muscheln, frisch und gereinigt",
           "note": null
         },
         "patata_media_a_cubetti_piccoli": {
-          "name": "Kartoffel media a cubetti piccoli",
+          "name": "Durchschnittliche Kartoffel mit kleinen Würfeln",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "Zwiebel e 1 Karotte a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "Zwiebel",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "Würfelmöhre",
           "note": null
         },
         "pancetta_a_dadini": {
-          "name": "Pancetta a dadini",
+          "name": "Mutternbauch",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "Butter e 1.5 cucchiai di Mehl",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "Butter",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "Milch intero e 100 ml di Sahne da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "Mehl",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "Vollmilch",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "Kochsahne",
           "note": null
         },
         "sake_o_vino_bianco": {
-          "name": "Sake o vino weiß",
+          "name": "Sake oder Weißwein",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Öffne die Muscheln in einer Pfanne mit Sake und einem lebendigen Feuerdeckel. Vor dem Garen beschädigte Muscheln und solche aussortieren, die sich bei Berührung nicht schließen. Nach dem Garen geschlossen gebliebene Muscheln wegwerfen. Abgesiebten Sud sofort verwenden oder kühlen.",
+        "step_2": "Trennen Sie die Muscheln von der gefilterten Brühe und halten Sie alles beiseite.",
+        "step_3": "In einem Topf spülen Sie die Butter und rösten den Speck mit Zwiebeln, Karotten und Kartoffeln für 5 Minuten.",
+        "step_4": "Pulver mit Mehl und Amalgam gut für 1 Minute zum Rösten.",
+        "step_5": "Fügen Sie die Flüssigkeit der gefilterten Muscheln, die Milch und die Sahne nach und nach hinzu und mischen Sie weiter, bis eine samtige Konsistenz erreicht ist.",
+        "step_6": "Kochen Sie für 12 Minuten, bis die Kartoffeln halten.",
+        "step_7": "Kombinieren Sie die zuletzt geöffneten Muscheln, schwarzer Pfefferregel und bringen Sie sie ins Diner, begleitet von Brotkrusten."
       }
     },
     "recipe_000097": {
@@ -5638,40 +5674,47 @@
       }
     },
     "recipe_000110": {
-      "title": "Motsunabe",
-      "description": "Eine alltagstaugliche Version von Motsunabe für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Golden Kamuy inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Motsunabe – Innereien-Lauch-Hotpot aus Fukuoka",
+      "description": "Der Motsunabe koch trippa oder andere gereinigte Schlachtnebenerzeugnisse zusammen mit Kohl, chinesischen Lauch und Aromen in einer schmackhaften Brühe. Die Zubereitung der Schlachtnebenerzeugnisse erfordert besondere Aufmerksamkeit vor dem Kochen; das Gemüse wird rechtzeitig hinzugefügt, um erkennbar zu bleiben. Das Nira wird in den letzten Minuten des Kochens der Schlachtnebenerzeugnisse hinzugefügt, die gründlich gereinigt werden müssen, bevor sie in die Brühe gelangen.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Golden Kamuy inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "trippa_o_frattaglie_di_manzo_maiale_pulite": {
-          "name": "Trippa o frattaglie di Rindfleisch/Schweinefleisch pulite",
+          "name": "Trübe oder Schlachtnebenerzeugnisse von gereinigtem Rind/Schwein",
           "note": null
         },
         "cespo_di_cavolo_cappuccio_sfogliato": {
-          "name": "Cespo di Kohl sfogliato",
+          "name": "Kraussalat-Kautschuk (Kautschuk)",
           "note": null
         },
         "erba_cipollina_porri_cinesi": {
-          "name": "Erba cipollina / porri cinesi (nira)",
+          "name": "Schnittlauch/Chinesische Lauch (Nira)",
           "note": null
         },
-        "brodo_dashi_con_aglio_e_peperoncino": {
-          "name": "Dashi Brühe con Knoblauch e peperoncino",
+        "brodo_dashi_con_aglio_e_peperoncino_1_brodo_dashi_con_aglio": {
+          "name": "Brühe Dashi mit Knoblauch",
+          "note": null
+        },
+        "brodo_dashi_con_aglio_e_peperoncino_2_peperoncino": {
+          "name": "Chili",
           "note": null
         },
         "miso_chiaro_o_salsa_di_soia": {
-          "name": "Miso chiaro o Sojasauce",
+          "name": "helle Miso oder Sojasoße",
           "note": null
         },
         "tofu_tagliato_a_cubetti": {
-          "name": "Tofu cut into cubetti",
+          "name": "Tofu in Würfel geschnitten",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Reinigen Sie die Schlachtnebenerzeugnisse sorgfältig; reiben Sie sie mit Salz und wenig Mehl, spülen Sie sie mehrmals und schneiden Sie sie in regelmäßigen Bissen. Nur bereits gereinigte und vorgegarte Kutteln/Innereien nach Herstellerangaben verwenden. Die 10–15 Minuten dienen lediglich zum abschließenden Erhitzen und reichen NICHT zum sicheren Garen roher Innereien.",
+        "step_2": "Etwa 1 Minute lang bläst es, spült es ab und spült es ab: Diese Phase beseitigt Verunreinigungen und einen Teil des Geruchs, ohne das Fett zu sehr zu lösen.",
+        "step_3": "Bereiten Sie die Brühe mit Dashi, Knoblauch, Chili und Miso oder Soja-Sauce, halten Sie es geschmackvoll, weil Kohl und Tofu verdünnen.",
+        "step_4": "Setzen Sie den Kohl auf den Boden des Nabe, fügen Sie Tofu und Schlachtnebenerzeugnisse hinzu und gießen Sie die Brühe, bis die Zutaten teilweise abgedeckt sind.",
+        "step_5": "Bringen Sie die Schlachtnebenerzeugnisse zum Aufstehen und kochen Sie sie für ca. 10-15 Minuten, bis sie geschwollen und gehalten werden.",
+        "step_6": "Fügen Sie das Nira in Stöcke in den letzten Minuten geschnitten, ohne übermäßig zu mischen.",
+        "step_7": "Probieren Sie die Brühe, regieren Sie die Miso oder Soja und servieren Sie die kochende Nabe direkt aus dem Topf."
       }
     },
     "recipe_000111": {
@@ -5931,32 +5974,88 @@
       }
     },
     "recipe_000117": {
-      "title": "Tori no Karaage Namban Don",
-      "description": "Eine alltagstaugliche Version von Tori no Karaage Namban Don für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, My Hero Academia inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tori no Karaage Namban Don – Reisschale mit frittiertem Hähnchen",
+      "description": "Der Tori no Karaage Namban Don serviert warmen Reis mit mariniertem, mit Stärke und gebratenem Hähnchen. Die Namban-Sauce und die letzten Würzmittel fügen eine süßliche Note hinzu, ohne auf die Knusprigheit des Huhns zu verzichten. Die heiße Karaage absorbiert für ein paar Sekunden die Namban-Sauce, dann trifft sie den Reis und die kalte Schildkröte in der gleichen Schüssel.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, My Hero Academia inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "Sovracosce di Hähnchen a bocconcini fritti (karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "Hähnchenüberschnürung ohne Knochen, ohne Haut, mit Bissen",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Sauce namban (3 cucchiai soia, 2 Reisessig, 1 Zucker)",
+        "pollo_salsa_di_soia_2": {
+          "name": "Sojasoße",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Sauce tartara giapponese (Ei sodo tritato, maionese, cetriolini, Zwiebel)",
+        "pollo_sake_da_cucina_3": {
+          "name": "Küchensake",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Reis caldo e Kohl a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "Ingwer frisch gerieben",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "Knoblauch, gerieben",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "Kartoffelstärke oder Maisstärke",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "Samenöl zum Braten",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "Sojasoße",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "Reisessig",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "Mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "Zucker",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "gekochtes Ei",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "Japanische Mayonnaise",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "Zwiebel fein zerkleinert und gewaschen",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "Gehackter Gurke",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "Japanischer gekochter Reis",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "Julienne-Kappe",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schneide die Hähnchenüberschenkel in regelmäßigen Bissen und würze sie mit Sojasoße, Sake, Ingwer und Knoblauch; lass sie mindestens 20 Minuten schwimmen.",
+        "step_2": "Bereiten Sie die Namban-Sauce, indem Sie leicht zu bulgarieren Soja-Sauce, Reisessig, Mirin und Zucker, dann lassen Sie sie einschüchtern.",
+        "step_3": "Bereiten Sie die Tartara durch Mischen von gehackten gekochten Ei, Zwiebeln und Cornichons gut aufgefüllt, japanische Mayonnaise, wenig Essig, Salz und Pfeffer; halten Sie es im Kühlschrank.",
+        "step_4": "Schütte das Huhn aus der Marinade, gib es in die Stärke von Kartoffeln oder Mais und schüttele das überschüssige.",
+        "step_5": "Frittieren Sie bei 170-175°C in kleinen Partien, bis die Bissen goldgelb und das Huhn vollständig gekocht sind; streuen Sie auf Gitter. Hähnchenstücke mit einem Lebensmittelthermometer kontrollieren: Die Kerntemperatur muss mindestens 74 °C erreichen. Bräunung und Frittierzeit allein beweisen keine vollständige Garung.",
+        "step_6": "Tauchen Sie die noch warme Karaage in die Namban-Sauce ein, so absorbiert sie den Würz, ohne die Knusprigheit zu verlieren.",
+        "step_7": "Geben Sie heißem Reis und Kohl in Julienne Schüsseln, fügen Sie das Huhn Namban und komplett mit kalten Tartar-Sauce.",
+        "step_8": "Servieren Sie sofort und halten Sie den Kontrast zwischen heißem Reis, knusprigem Huhn und frischem Tatar."
       }
     },
     "recipe_000118": {
@@ -6600,24 +6699,24 @@
       }
     },
     "recipe_000133": {
-      "title": "Tori Chashu Ramen",
-      "description": "Eine alltagstaugliche Version von Tori Chashu Ramen für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Ramen Daisuki Koizumi-san inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tori Chashu Ramen – Ramen mit mariniertem Hähnchen",
+      "description": "Der Tori Chashu Ramen verwendet Hähnchenüberknöpfe, gerollt und in einer Marinade von Soja-Sauce und Aromen gekocht. Das aufgeschnittene Huhn wird über Nudeln und Brühe getrennt gelegt, ohne das Kochen des Fleisches mit der kurzen Zeit zu verwechseln, die die Pasta benötigt. Das marinierte Huhn wird vor der Montage mit heißer Brühe, Nudeln und mariniertem Ei gekühlt und aufgeschnitten.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Ramen Daisuki Koizumi-san inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "noodles_per_ramen": {
-          "name": "Noodles per ramen",
+          "name": "noodles für Ramen",
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Sovracosce di Hähnchen disossate con pelle",
+          "name": "Hähnchenüberschnürung entbeint mit Haut",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "mirin": {
@@ -6628,24 +6727,35 @@
           "name": "Zucker",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "Ingwer schiacciato e 1 spicchio d'Knoblauch",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "Ingwer zerquetscht",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "Knoblauchzehen",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Hähnchen Brühe leggero",
+          "name": "Leichte Hühnerbrühe",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Ei marinato (ajitsuke tamago) e spring Zwiebel zum Servieren",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "Mariniertes Ei (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "Zwiebel zum Servieren",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Drehen Sie die Hähnchenüberdeckung mit der Haut nach außen und binden Sie sie fest mit Küchengarn.",
+        "step_2": "Legen Sie die Hähnchenrolle auf allen Seiten in einen Topf.",
+        "step_3": "Kombinieren Sie Sojasoße, Sake, Mirin, Zucker, Ingwer und Knoblauch.",
+        "step_4": "Bedecken Sie und lassen Sie das Huhn 15 bis 20 Minuten lang mit niedrigem Feuer backen, bis sich die Soße verdichtet und das Fleisch glasiert. Vor dem Aufschneiden des Hähnchenrollbratens mit einem Thermometer mindestens 74 °C Kerntemperatur prüfen; nötigenfalls länger garen. Küchengarn statt Spaghetti verwenden.",
+        "step_5": "Lass das Huhn abkühlen und schneide es in Goldscheiben.",
+        "step_6": "Erhitzen Sie die Hühnerbrühe und regulieren Sie sie mit 2 Esslöffeln Hühnerkocherglasur.",
+        "step_7": "Kochen Sie die Ramen-Nudeln, streuen Sie sie in die Schüssel, fügen Sie die Brühe und garnieren Sie mit den Scheiben von Tori Chashu, mariniertes Ei in der Mitte und Zwiebeln."
       }
     },
     "recipe_000134": {
@@ -7357,73 +7467,82 @@
       }
     },
     "recipe_000149": {
-      "title": "Kani Chahan",
-      "description": "Eine alltagstaugliche Version von Kani Chahan für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Cooking Master Boy inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kani Chahan – gebratener Reis mit Krabben und Lauch",
+      "description": "Der Kani Chahan ist bereits gekochter und gut gekühlter japanischer Reis, der schnell mit Eiern, Zwiebeln und Krabben in den Wok gesprungen ist. Die Sojasoße wird an den warmen Rand der Pfanne ausgegossen, um den Reis zu duften, ohne ihn feucht zu machen. Die Soja wird vor der Beimischung zum Reis an den warmen Wokrand abgegeben; die frische Zwiebel ergänzt den Service.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Cooking Master Boy inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "riso_cotto_del_giorno_prima": {
-          "name": "Reis cotto del giorno prima (freddo di frigorifero)",
+          "name": "gekochter Reis des Vortages (Kühlschrank)",
           "note": null
         },
         "polpa_di_granchio_fresca_o_in_scatola_scolata": {
-          "name": "Polpa di Krabbe frisch o in scatola scolata",
+          "name": "Krabbenfleisch, frisch oder in Dosen",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "Ei sbattute",
+          "name": "Geworfene Eier",
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "Spring Zwiebel frisch tritati finemente",
+          "name": "Frühlingszwiebeln, frisch fein gemahlen",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'Knoblauch tritato",
+          "name": "Knoblauchzehe, gehackt",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
-        "sale_e_pepe_bianco_macinato_fresco_q_b": {
-          "name": "Salz e pepper weiß macinato frisch q.b",
+        "sale_e_pepe_bianco_macinato_fresco_q_b_1_sale": {
+          "name": "Salz",
+          "note": null
+        },
+        "sale_e_pepe_bianco_macinato_fresco_q_b_2_pepe_bianco_macinato_fresco_q_b": {
+          "name": "frisch gemahlener weißer Pfeffer",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Den kalten Reis mit den Händen gut mischen, um die Körner zu trennen. Gekochten Reis in einer flachen Schicht schnell, idealerweise innerhalb einer Stunde, abkühlen, dann kühlen und binnen 24 Stunden verwenden. Nicht bei Raumtemperatur stehen lassen; nur einmal vollständig dampfend heiß aufwärmen.",
+        "step_2": "Erhitzt einen Wok mit Sesamöl.",
+        "step_3": "Du quälst Knoblauch und die Hälfte der Zwiebel.",
+        "step_4": "Fügen Sie die gestoßenen Eier hinzu und mischen Sie schnell, um weich Rühren zu erstellen.",
+        "step_5": "Fügen Sie den Reis sofort in den Wok und springen Sie ihn für 3-4 Minuten in starkem Feuer, kontinuierlich mit dem Spachtel.",
+        "step_6": "Fügen Sie das Krabbenfleisch hinzu und mischen Sie vorsichtig, um das Fruchtfleisch zu vermischen, ohne das Fruchtfleisch übermäßig zu zerkleinern.",
+        "step_7": "Fügen Sie die Sojasoße entlang der heiß gebrannten Wok-Ränder hinzu, um sie zu karamellieren, bevor Sie sie in Reis einbauen.",
+        "step_8": "Salzregel und reichlich weißer Pfeffer.",
+        "step_9": "Kombinieren Sie den Rest der frischen Zwiebel und servieren Sie warm."
       }
     },
     "recipe_000150": {
-      "title": "Kamo Namban Soba",
-      "description": "Eine alltagstaugliche Version von Kamo Namban Soba für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Emiya-san Chi no Kyou no Gohan inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kamo Namban Soba – heiße Soba mit Ente und geröstetem Lauch",
+      "description": "Die Kamo Namban Soba verbindet Nudeln aus Buchweizen, Brüste von Enten, die von der Hautseite und gerösteten Lauch gerötet werden. Die Entenscheiben beenden das Kochen in der Brühe von Dashi, Soja und Mirin, die auf der Soba kurz vor dem Service vergossen wird. Die Sobas werden gespült, um die Stärke zu beseitigen und erhitzt, bevor sie die Brühe mit Ente und gerösteten Lauch treffen.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Emiya-san Chi no Kyou no Gohan inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "tagliolini_soba_di_grano_saraceno": {
-          "name": "Tagliolini soba di grano saraceno",
+          "name": "Buchweizenschnecken Soba",
           "note": null
         },
         "petto_d_anatra_con_pelle": {
-          "name": "Petto d'anatra con pelle",
+          "name": "Entenbrust mit Haut",
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Porri lunghi giapponesi (naganegi) cut into tocchetti di 4 cm",
+          "name": "Japanische Lauch (Naganegi) in Löffeln von 4 cm Länge",
           "note": null
         },
         "brodo_dashi_concentrato": {
-          "name": "Dashi Brühe concentrato",
+          "name": "Dashi-Brühe konzentriert",
           "note": null
         },
         "salsa_di_soia_scura": {
-          "name": "Sojasauce scura",
+          "name": "Dunkle Sojasoße",
           "note": null
         },
         "mirin": {
@@ -7435,19 +7554,25 @@
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di yuzu o Zitrone gerieben",
+          "name": "Yuzu Schale oder geriebene Zitrone",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi",
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Die Haut der Entenbrust kreuzweise einschneiden, ohne dass du das Fleisch bekommst.",
+        "step_2": "Kochen Sie in der kalten Pfanne auf der Hautseite bei mittlerer bis niedriger Hitze für 8-10 Minuten, indem Sie das geschmolzene Fett sammeln.",
+        "step_3": "Drehen Sie die Entenbrust und kochen Sie es für weitere 2 Minuten.",
+        "step_4": "Lassen Sie das Fleisch für ein paar Minuten ruhen, dann schneiden Sie es in dünne Scheiben.",
+        "step_5": "In der gleichen Pfanne, mit einem Teil des Entenfetts, die Lauchrührer, bis sie gut vergoldet und leicht karamelliert sind.",
+        "step_6": "In einem Topf, vereinen Sie Dashi, Soja-Sauce, Mirin und Zucker.",
+        "step_7": "Bring die Brühe zum Kochen, misch die gerösteten Lauch und die Entenscheiben zusammen und lass sie 2 Minuten lang weich werden. Für eine vorsichtige Zubereitung zu Hause die Entenbrust vor dem Servieren mit einem Thermometer auf mindestens 74 °C Kerntemperatur prüfen. Zeitangaben sind Richtwerte; kurzes Ziehen in Brühe ersetzt diese Kontrolle nicht.",
+        "step_8": "Kochen Sie die Soba Nudeln in kochendem Wasser für ungefähr 4 Minuten; spülen Sie sie unter kaltem Wasser ab, um die Oberflächenstärke zu entfernen und erwärmen Sie sie kurz in heißem Wasser vor dem Service.",
+        "step_9": "Geben Sie die Soba in die Schüssel und bedecken Sie sie mit heißer Brühe, Entenscheiben und Lauch.",
+        "step_10": "Komplett mit einer Schale geriebenen Yuzu und serviere sofort."
       }
     },
     "recipe_000151": {
@@ -7557,36 +7682,40 @@
       }
     },
     "recipe_000153": {
-      "title": "Tori Tsukune",
-      "description": "Eine alltagstaugliche Version von Tori Tsukune für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Midnight Diner inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tori Tsukune – gegrillte Hähnchenbällchen mit Tare und Eigelb",
+      "description": "Die Tsukune Tori sind gemahlene Hähnchenspieße mit Zwiebeln und Ingwer, geformt und gegrillt, bevor sie mit Sauce veredelt werden. Das Rezept bietet einen Eigelb zum Eintauchen: Dieser Service-Modus erfordert eine spezielle Überprüfung der Lebensmittelsicherheit und eine geeignete Zutat. Die Glasur umwickelt gekochte Hähnchenbällchen; eine mögliche Intillo-Eisel erfordert eine geprüfte Eignung für den Verzehr ohne Kochen.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Midnight Diner inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "macinato_di_pollo": {
-          "name": "Macinato di Hähnchen",
+          "name": "Hähnchenhackfleisch",
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Spring Zwiebel tritati finemente",
+          "name": "Zwiebeln, fein gemahlen",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "Cm di Ingwer gerieben",
+          "name": "Ingwer gerieben",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Maisstärke (katakuriko)",
+          "name": "Maisstärke (Katakuriko)",
           "note": null
         },
         "uovo": {
-          "name": "Ei (Ei weiß nell'impasto, Ei yolk zum Servieren)",
+          "name": "pasteurisiertes Ei (Eiweiß in der Masse, pasteurisiertes Eigelb zum Dippen)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Salz e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "Salz",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "Pfeffer",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -7594,23 +7723,21 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
           "name": "Zucker",
           "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "Spiedini di legno bagnati nell'Wasser",
-          "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer Schüssel arbeitet das Hähnchenhackfleisch mit Zwiebeln, Ingwer, Maisstärke, Eiweiß, Salz und Pfeffer, bis die Verbindung homogen und klebrig ist.",
+        "step_2": "Teilen Sie den Teig in 4 längliche und modellierte Portionen um die hölzernen Spieße und geben ihm eine ovale zylinderförmige Form.",
+        "step_3": "In einem Topf, reduzieren Sie die Bestandteile der Tare-Soße auf siruphaltige Konsistenz.",
+        "step_4": "Grillen Sie die Spieße auf einer Pfanne mit einem durchschnittlichen Ölfaden für 3-4 Minuten pro Seite.",
+        "step_5": "Bestreichen großzügig mit der Tare-Sauce in den letzten Minuten drehen sie oft.",
+        "step_6": "Servieren Sie die glänzenden und glasierten Spieße mit einem frischen Eigelb in einer Schüssel, in die die Fleischbällchen eintauchen. Hähnchenbällchen mit einem Thermometer auf mindestens 74 °C Kerntemperatur garen. Zum Dippen nur pasteurisiertes, für den Rohverzehr geeignetes Eigelb verwenden, niemals rohes unpasteurisiertes Eigelb."
       }
     },
     "recipe_000154": {
@@ -7723,48 +7850,56 @@
       }
     },
     "recipe_000156": {
-      "title": "Asari Ramen",
-      "description": "Eine alltagstaugliche Version von Asari Ramen für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Ramen Daisuki Koizumi-san, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Asari-Ramen – Ramen in Muschelbrühe mit Butter",
+      "description": "Die Asari Ramen verwendet die gefilterte Flüssigkeit der offenen Muscheln mit Sake und Knoblauch, um eine leichte Brühe von Dashi zu würzen. Die Nudeln backen sich getrennt und werden sofort mit Muscheln, Mais, Zwiebeln und wenig Butter serviert. Die gefilterte Flüssigkeit der Muscheln würzt das Dashi, während die Butter zum Zeitpunkt des Servierens in der Schüssel schmelzt.",
+      "animeContext": "Dieses Rezept ist thematisch von Ramen Daisuki Koizumi-san, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "ramen_noodles": {
-          "name": "Ramen noodles",
+          "name": "Ramennoodles",
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "Venusmuscheln veraci spurgate",
+          "name": "Echte, gereinigte Muscheln",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Dashi Brühe leggero",
+          "name": "Dashi-Brühe leicht",
           "note": null
         },
         "sake_giapponese": {
-          "name": "Sake giapponese",
+          "name": "Japanischer Sake",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Sojasauce chiara",
+          "name": "Sojasoße, hell",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'Knoblauch tritato",
+          "name": "Knoblauchzehe, gehackt",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Butter di malga",
+          "name": "Almbutter",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Zuckermais e spring Zwiebel frisch per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "Zuckermais",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "Frühlingszwiebeln",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Legen Sie die Muscheln in einen Topf mit Sake und gehacktem Knoblauch.",
+        "step_2": "Bedecken Sie mit Deckel und kochen Sie 3-4 Minuten lang mit lebendigem Feuer, bis sich die Muscheln öffnen. Lebende, gereinigte Venusmuscheln von einem zuverlässigen Anbieter verwenden. Beschädigte Muscheln oder solche, die sich bei Berührung nicht schließen, aussortieren; nach gründlichem Garen geschlossene Muscheln wegwerfen. Deren Flüssigkeit nicht verwenden.",
+        "step_3": "Filtern Sie die von den Muscheln freigesetzte Flüssigkeit sorgfältig und halten Sie sie zusammen mit den geöffneten Weichtieren beiseite.",
+        "step_4": "Kombinieren Sie den Saft der Muscheln mit der Dashi-Brühe, fügen Sie die helle Sojasoße und eine Prise Salz hinzu.",
+        "step_5": "Erhitzt die Brühe gut auf die Muscheln, ohne sie übermäßig zu reduzieren.",
+        "step_6": "Kochen Sie die Ramen-Nudeln in reichlich kochendem Wasser für 2 Minuten und spülen.",
+        "step_7": "Geben Sie die Nudeln in die Schüssel und decken Sie sie mit der heißen Suppe an die Muscheln.",
+        "step_8": "Adagia über den Muscheln in der Schale, Mais und Zwiebel frisch; komplett mit einer Nuss Butter, die die Meeresbrühe schmelzen wird."
       }
     },
     "recipe_000157": {

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000150",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "Fast Track 12/12: original recipe reconciled to full procedure and localized risk-specific corrections for IT/EN/ES/FR/DE/PT; FDA/FSIS/FSA and EU species evidence recorded in tool/fast_track_12_repairs.py.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 20,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "porri_lunghi_giapponesi",
       "quantity": 2,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "brodo_dashi_concentrato",
@@ -87,70 +87,100 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 600
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 120
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 240
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_10",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kamo Namban Soba",
-      "description": "A practical bowl of Kamo Namban Soba, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer, Emiya-san Chi no Kyou no Gohan. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kamo Namban Soba — hot soba noodles with duck and toasted leeks",
+      "description": "The Kamo Namban Soba combines buckwheat noodles, browned duck breast from the side of the skin and toasted leeks. The duck slices finish cooking in the stock of dashi, soy and mirin, which is poured on the soba just before the service. Soba are rinsed to remove starch and heated before meeting the broth with duck and toasted leeks.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer, Emiya-san Chi no Kyou no Gohan. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "tagliolini_soba_di_grano_saraceno": {
-          "name": "Tagliolini soba di grano saraceno",
+          "name": "buckwheat soba tagliolini",
           "note": null
         },
         "petto_d_anatra_con_pelle": {
-          "name": "Petto d'anatra con pelle",
+          "name": "duck breast with skin",
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Porri lunghi giapponesi (naganegi) cut into tocchetti di 4 cm",
+          "name": "Japanese long leeks (Naganegi) cut into 4 cm touches",
           "note": null
         },
         "brodo_dashi_concentrato": {
-          "name": "Dashi broth concentrato",
+          "name": "concentrated Dashi broth",
           "note": null
         },
         "salsa_di_soia_scura": {
-          "name": "Soy sauce scura",
+          "name": "Dark soy sauce",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di yuzu o lemon grated",
+          "name": "Yuzu peel or grated lemon",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi",
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Slice the skin of the duck breast in a crosshatch pattern without reaching the meat.",
+        "step_2": "Cook in a cold non-stick pan from the side of the skin over medium to low heat for 8-10 minutes by collecting the melted fat.",
+        "step_3": "Turn the duck breast and cook for another 2 minutes.",
+        "step_4": "Let the meat rest for a few minutes, then cut into thin slices.",
+        "step_5": "In the same pan, using part of the duck's fat, it toasts leek touches until they are well golden and slightly caramelized.",
+        "step_6": "In a pot, add dashi, soy sauce, mirin and sugar.",
+        "step_7": "Bring the broth to a boil, add the toasted leeks and slices of duck and let simmer for 2 minutes. For a conservative home preparation, use a food thermometer to check that duck breast reaches at least 74°C (165°F) at the centre before serving; timings are indicative. Brief simmering in broth does not replace this check.",
+        "step_8": "Cook the noodles soba in boiling water for about 4 minutes; drain them, rinse them under cold water to remove the surface starch and heat them briefly in hot water before serving.",
+        "step_9": "Distribute the soba in the bowls and cover it with hot broth, duck slices and leeks.",
+        "step_10": "Complete with grated yuzu zest and serve immediately."
       }
     },
     "it": {
       "title": "Kamo Namban Soba (Soba Calda in Brodo con Anatra e Porri Tostati)",
-      "description": "Una versione pratica di Kamo Namban Soba (Soba Calda in Brodo con Anatra e Porri Tostati), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Kamo Namban Soba unisce noodles di grano saraceno, petto d’anatra rosolato dal lato della pelle e porri tostati. Le fette di anatra terminano la cottura nel brodo di dashi, soia e mirin, che viene versato sulla soba appena prima del servizio. Le soba vengono sciacquate per eliminare l'amido e riscaldate prima di incontrare il brodo con anatra e porri tostati.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer, Emiya-san Chi no Kyou no Gohan. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "tagliolini_soba_di_grano_saraceno": {
@@ -182,7 +212,7 @@
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di Yuzu o limone grattugiata",
+          "name": "scorza di Yuzu o limone grattugiata",
           "note": null
         },
         "shichimi_togarashi": {
@@ -191,133 +221,151 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, incidere la pelle del petto d'anatra a scacchiera. Cuocere in padella antiaderente fredda dal lato della pelle a fuoco medio-basso per 8-10 minuti raccogliendo il grasso fuso. Girare e cuocere altri 2 minuti. Far riposare la carne e tagliarla a fette sottili.",
-        "step_2": "Prosegui così: nella stessa padella con il grasso dell'anatra, tostare i tocchetti di porro finché la superficie risulta ben dorata e caramellata.",
-        "step_3": "Nella fase successiva, usa una pentola unire Dashi, salsa di soia, mirin e zucchero. Portare ad ebollizione, unire i porri tostati e le fette d'anatra lasciando sobbollire per 2 minuti. Cuoci in acqua bollentere i noodles Soba in acqua bollente per 4 minuti, sciacquare sotto acqua fredda per rimuovere l'amido e riporta a temperaturare brevemente in acqua calda.",
-        "step_4": "Per completare, disporre la soba nelle ciotole, coprire con il brodo caldo, le fette d'anatra ed i porri. Rifinire con scorza di Yuzu grattugiata."
+        "step_1": "Incidi la pelle del petto d'anatra a scacchiera senza arrivare alla carne.",
+        "step_2": "Cuoci in padella antiaderente fredda dal lato della pelle a fuoco medio-basso per 8-10 minuti raccogliendo il grasso fuso.",
+        "step_3": "Gira il petto d'anatra e cuocilo per altri 2 minuti.",
+        "step_4": "Lascia riposare la carne per qualche minuto, poi tagliala a fette sottili.",
+        "step_5": "Nella stessa padella, usando parte del grasso dell'anatra, tosta i tocchetti di porro finché risultano ben dorati e leggermente caramellati.",
+        "step_6": "In una pentola, unisci dashi, salsa di soia, mirin e zucchero.",
+        "step_7": "Porta il brodo a ebollizione, unisci i porri tostati e le fette d'anatra e lascia sobbollire per 2 minuti. Per una preparazione domestica prudente controlla con un termometro che il petto d'anatra raggiunga almeno 74 °C al cuore prima del servizio; i minuti indicati sono solo orientativi. Il breve passaggio nel brodo non sostituisce la verifica della temperatura.",
+        "step_8": "Cuoci i noodles soba in acqua bollente per circa 4 minuti; scolali, sciacquali sotto acqua fredda per eliminare l'amido superficiale e riscaldali brevemente in acqua calda prima del servizio.",
+        "step_9": "Distribuisci la soba nelle ciotole e coprila con il brodo caldo, le fette d'anatra e i porri.",
+        "step_10": "Completa con scorza di yuzu grattugiata e servi subito."
       }
     },
     "es": {
-      "title": "Kamo Namban Soba",
-      "description": "Una versión práctica de Kamo Namban Soba para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Emiya-san Chi no Kyou no Gohan. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kamo namban soba — soba caliente con pato y puerros tostados",
+      "description": "El Kamo Namban Soba combina fideos de trigo sarraceno, pecho de pato rosolado en el lado de la piel y puerros tostados. Las rebanadas de pato terminan la cocción en el caldo de dashi, soja y mirin, que se derrama sobre la soba justo antes del servicio. Las soba se enjuagan para eliminar el almidón y se calientan antes de conocer el caldo con pato y puerros tostados.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Emiya-san Chi no Kyou no Gohan. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "tagliolini_soba_di_grano_saraceno": {
-          "name": "Tagliolini soba di grano saraceno",
+          "name": "fideos Soba de trigo sarraceno",
           "note": null
         },
         "petto_d_anatra_con_pelle": {
-          "name": "Petto d'anatra con pelle",
+          "name": "pecho de pato con piel",
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Porri lunghi giapponesi (naganegi) cut into tocchetti di 4 cm",
+          "name": "Puerros largos japoneses (Naganegi) cortados con toque de 4 cm",
           "note": null
         },
         "brodo_dashi_concentrato": {
-          "name": "Dashi caldo concentrato",
+          "name": "caldo Dashi concentrado",
           "note": null
         },
         "salsa_di_soia_scura": {
-          "name": "Salsa de soja scura",
+          "name": "Salsa de soja oscura",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di yuzu o limón rallado",
+          "name": "corteza de Yuzu o limón rallado",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi",
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Incide en la piel del pechuga de pato en forma de cuadrícula sin llegar a la carne.",
+        "step_2": "Cocine en sartén antiadherente frío en el lado de la piel a fuego medio-bajo durante 8-10 minutos recogiendo la grasa fundida.",
+        "step_3": "Da la vuelta a la pechuga de pato y cocínala durante otros 2 minutos.",
+        "step_4": "Deja reposar la carne durante unos minutos y córtala en rodajas finas.",
+        "step_5": "En la misma sartén, usando parte de la grasa del pato, tosta los toques de puerro hasta que estén bien dorados y ligeramente caramelizados.",
+        "step_6": "En una olla, combina dashi, salsa de soja, mirin y azúcar.",
+        "step_7": "Trae el caldo a ebullición, une los puerros tostados y las rebanadas de pato y deja que se calienten durante 2 minutos. Para una preparación doméstica prudente, comprueba con un termómetro que el centro de la pechuga de pato llegue al menos a 74 °C antes de servir. Los tiempos son orientativos y un hervor breve en el caldo no sustituye esta comprobación.",
+        "step_8": "Cocine los fideos soba en agua hirviendo durante unos 4 minutos; escúchelos, enjuáguelos bajo agua fría para eliminar el almidón superficial y calentarlos brevemente en agua caliente antes del servicio.",
+        "step_9": "Distribuye la soba en los cuencos y cúbrela con caldo caliente, rebanadas de pato y puerros.",
+        "step_10": "Completa con corteza de yuzu rallado y sirves de inmediato."
       }
     },
     "fr": {
-      "title": "Kamo Namban Soba",
-      "description": "Une version pratique de Kamo Namban Soba à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer, Emiya-san Chi no Kyou no Gohan. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kamo namban soba — nouilles soba chaudes au canard et aux poireaux grillés",
+      "description": "Le Kamo Namban Soba combine des nouilles de sarrasin, de la poitrine de canard roulé du côté de la peau et des poireaux grillés. Les tranches de canard terminent la cuisson dans le bouillon de dashi, de soja et de mirin, qui est versé sur le soba juste avant le service. Les sobas sont rincés pour éliminer l'amidon et chauffés avant de rencontrer le bouillon avec du canard et des poireaux grillés.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer, Emiya-san Chi no Kyou no Gohan. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "tagliolini_soba_di_grano_saraceno": {
-          "name": "Tagliolini soba di grano saraceno",
+          "name": "Sarrasin Soba de sarrasin",
           "note": null
         },
         "petto_d_anatra_con_pelle": {
-          "name": "Petto d'anatra con pelle",
+          "name": "poitrine de canard avec peau",
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Porri lunghi giapponesi (naganegi) cut into tocchetti di 4 cm",
+          "name": "poireaux longs japonais (Naganegi) coupés en morceaux de 4 cm",
           "note": null
         },
         "brodo_dashi_concentrato": {
-          "name": "Dashi bouillon concentrato",
+          "name": "bouillon dashi concentré",
           "note": null
         },
         "salsa_di_soia_scura": {
-          "name": "Sauce soja scura",
+          "name": "Sauce de soja foncée",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di yuzu o citron râpé",
+          "name": "zeste de Yuzu ou citron râpé",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi",
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Tu as la peau de la peau du magret en croisillons sans la viande.",
+        "step_2": "Faites cuire dans une poêle anti-adhérente froide du côté de la peau à feu moyen-bas pendant 8-10 minutes en ramassant la graisse fondue.",
+        "step_3": "Tourne la poitrine de canard et fais-le cuire pendant 2 minutes.",
+        "step_4": "Laissez reposer la viande quelques minutes, puis coupez-la en tranches fines.",
+        "step_5": "Dans la même poêle, en utilisant une partie de la graisse du canard, il grille les touchets de poireau jusqu'à ce qu'ils soient bien dorés et légèrement caramélisés.",
+        "step_6": "Dans une casserole, ajoutez des dashi, de la sauce soja, de la mirin et du sucre.",
+        "step_7": "Apportez le bouillon à ébullition, ajoutez les poireaux grillés et les tranches de canard et laissez bouillir pendant 2 minutes. Pour une préparation domestique prudente, vérifiez avec un thermomètre que le magret de canard atteint au moins 74 °C à cœur avant de servir. Les durées sont indicatives ; le bref passage dans le bouillon ne remplace pas ce contrôle.",
+        "step_8": "Faites cuire les nouilles soba dans l'eau bouillante pendant environ 4 minutes; écolières, rincez-les sous l'eau froide pour éliminer l'amidon superficiel et réchauffez-les brièvement dans l'eau chaude avant le service.",
+        "step_9": "Distribuez le soba dans les bols et couvrez-le avec le bouillon chaud, les tranches de canard et les poireaux.",
+        "step_10": "Complétez avec de l'écorce de yuzu râpée et servez-vous tout de suite."
       }
     },
     "de": {
-      "title": "Kamo Namban Soba",
-      "description": "Eine alltagstaugliche Version von Kamo Namban Soba für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Emiya-san Chi no Kyou no Gohan inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kamo Namban Soba – heiße Soba mit Ente und geröstetem Lauch",
+      "description": "Die Kamo Namban Soba verbindet Nudeln aus Buchweizen, Brüste von Enten, die von der Hautseite und gerösteten Lauch gerötet werden. Die Entenscheiben beenden das Kochen in der Brühe von Dashi, Soja und Mirin, die auf der Soba kurz vor dem Service vergossen wird. Die Sobas werden gespült, um die Stärke zu beseitigen und erhitzt, bevor sie die Brühe mit Ente und gerösteten Lauch treffen.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Emiya-san Chi no Kyou no Gohan inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "tagliolini_soba_di_grano_saraceno": {
-          "name": "Tagliolini soba di grano saraceno",
+          "name": "Buchweizenschnecken Soba",
           "note": null
         },
         "petto_d_anatra_con_pelle": {
-          "name": "Petto d'anatra con pelle",
+          "name": "Entenbrust mit Haut",
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Porri lunghi giapponesi (naganegi) cut into tocchetti di 4 cm",
+          "name": "Japanische Lauch (Naganegi) in Löffeln von 4 cm Länge",
           "note": null
         },
         "brodo_dashi_concentrato": {
-          "name": "Dashi Brühe concentrato",
+          "name": "Dashi-Brühe konzentriert",
           "note": null
         },
         "salsa_di_soia_scura": {
-          "name": "Sojasauce scura",
+          "name": "Dunkle Sojasoße",
           "note": null
         },
         "mirin": {
@@ -329,68 +377,80 @@
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di yuzu o Zitrone gerieben",
+          "name": "Yuzu Schale oder geriebene Zitrone",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi",
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Die Haut der Entenbrust kreuzweise einschneiden, ohne dass du das Fleisch bekommst.",
+        "step_2": "Kochen Sie in der kalten Pfanne auf der Hautseite bei mittlerer bis niedriger Hitze für 8-10 Minuten, indem Sie das geschmolzene Fett sammeln.",
+        "step_3": "Drehen Sie die Entenbrust und kochen Sie es für weitere 2 Minuten.",
+        "step_4": "Lassen Sie das Fleisch für ein paar Minuten ruhen, dann schneiden Sie es in dünne Scheiben.",
+        "step_5": "In der gleichen Pfanne, mit einem Teil des Entenfetts, die Lauchrührer, bis sie gut vergoldet und leicht karamelliert sind.",
+        "step_6": "In einem Topf, vereinen Sie Dashi, Soja-Sauce, Mirin und Zucker.",
+        "step_7": "Bring die Brühe zum Kochen, misch die gerösteten Lauch und die Entenscheiben zusammen und lass sie 2 Minuten lang weich werden. Für eine vorsichtige Zubereitung zu Hause die Entenbrust vor dem Servieren mit einem Thermometer auf mindestens 74 °C Kerntemperatur prüfen. Zeitangaben sind Richtwerte; kurzes Ziehen in Brühe ersetzt diese Kontrolle nicht.",
+        "step_8": "Kochen Sie die Soba Nudeln in kochendem Wasser für ungefähr 4 Minuten; spülen Sie sie unter kaltem Wasser ab, um die Oberflächenstärke zu entfernen und erwärmen Sie sie kurz in heißem Wasser vor dem Service.",
+        "step_9": "Geben Sie die Soba in die Schüssel und bedecken Sie sie mit heißer Brühe, Entenscheiben und Lauch.",
+        "step_10": "Komplett mit einer Schale geriebenen Yuzu und serviere sofort."
       }
     },
     "pt": {
-      "title": "Kamo Namban Soba",
-      "description": "Uma versão prática de Kamo Namban Soba para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer, Emiya-san Chi no Kyou no Gohan. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kamo namban soba — soba quente com pato e alho-francês tostado",
+      "description": "O Kamo Namban Soba combina macarrão de sarraço, peito de pato do lado da pele e puerros torrados. As fatias de pato terminam de cozinhar no estoque de dashi, soja e mirin, que é derramado no soba pouco antes do serviço. Soba é enxaguado para remover o amido e aquecido antes de encontrar o caldo com pato e puerros torrados.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer, Emiya-san Chi no Kyou no Gohan. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "tagliolini_soba_di_grano_saraceno": {
-          "name": "Tagliolini soba di grano saraceno",
+          "name": "sarrazno soba tagliolini",
           "note": null
         },
         "petto_d_anatra_con_pelle": {
-          "name": "Petto d'anatra con pelle",
+          "name": "peito de pato com pele",
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Porri lunghi giapponesi (naganegi) cut into tocchetti di 4 cm",
+          "name": "Porros longos japoneses (Naganegi) cortados em toques de 4 cm",
           "note": null
         },
         "brodo_dashi_concentrato": {
-          "name": "Dashi caldo concentrato",
+          "name": "caldo de Dashi concentrado",
           "note": null
         },
         "salsa_di_soia_scura": {
-          "name": "Molho de soja scura",
+          "name": "Molho de soja escuro",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di yuzu o limão ralado",
+          "name": "Descasca de Yuzu ou limão ralado",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi",
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte a pele do peito de pato em padrão cruzado sem atingir a carne.",
+        "step_2": "Cozinhe em uma panela antiadherente fria do lado da pele em fogo médio a baixo durante 8-10 minutos, recolhendo a gordura derretida.",
+        "step_3": "Vire o peito de pato e cozinhe por mais 2 minutos.",
+        "step_4": "Deixe a carne descansar por alguns minutos, em seguida, cortar em fatias finas.",
+        "step_5": "Na mesma panela, usando parte da gordura do pato, ele brinde pedaços de alho-francês até que estejam bem dourados e ligeiramente caramelizados.",
+        "step_6": "Em um pote, adicione dashi, molho de soja, mirin e açúcar.",
+        "step_7": "Traga o caldo a ferver, adicione os puerros torrados e fatias de pato e deixe- o cozir por 2 minutos. Para uma preparação doméstica prudente, confirme com um termómetro que o peito de pato atinge pelo menos 74 °C no centro antes de servir. Os tempos são indicativos; a passagem breve pelo caldo não substitui a medição.",
+        "step_8": "Cozinhe os fios de massa soba em água fervente por cerca de 4 minutos; drene- os, lave- os sob água fria para remover o amido de superfície e aqueça- os brevemente em água quente antes de servir.",
+        "step_9": "Distribua o soba nas tigelas e cubra- o com caldo quente, fatias de pato e puerros.",
+        "step_10": "Completar com o zest yuzu ralado e servir imediatamente."
       }
     }
   }

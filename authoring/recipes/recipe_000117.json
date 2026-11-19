@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000117",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,44 +21,109 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "Fast Track 12/12: original recipe reconciled to full procedure and localized risk-specific corrections for IT/EN/ES/FR/DE/PT; FDA/FSIS/FSA and EU species evidence recorded in tool/fast_track_12_repairs.py.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 25,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
-      "id": "sovracosce_di_pollo_a_bocconcini_fritti",
+      "id": "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1",
       "quantity": 400,
       "unit": "g"
     },
     {
-      "id": "salsa_namban",
-      "quantity": null,
-      "unit": null
+      "id": "pollo_salsa_di_soia_2",
+      "quantity": 1.5,
+      "unit": "tbsp"
     },
     {
-      "id": "salsa_tartara_giapponese",
-      "quantity": null,
-      "unit": null
+      "id": "pollo_sake_da_cucina_3",
+      "quantity": 1,
+      "unit": "tbsp"
     },
     {
-      "id": "riso_caldo_e_cavolo_cappuccio_a_tacco",
-      "quantity": null,
-      "unit": null
+      "id": "pollo_zenzero_fresco_grattugiato_4",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": "pollo_aglio_grattugiato_5",
+      "quantity": 1,
+      "unit": "clove"
+    },
+    {
+      "id": "pollo_fecola_di_patate_o_amido_di_mais_6",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "id": "pollo_olio_di_semi_per_friggere_7",
+      "quantity": 700,
+      "unit": "ml"
+    },
+    {
+      "id": "salsa_namban_salsa_di_soia_8",
+      "quantity": 3,
+      "unit": "tbsp"
+    },
+    {
+      "id": "salsa_namban_aceto_di_riso_9",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": "salsa_namban_mirin_10",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": "salsa_namban_zucchero_11",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": "tartara_uovo_sodo_12",
+      "quantity": 1,
+      "unit": "piece"
+    },
+    {
+      "id": "tartara_maionese_giapponese_13",
+      "quantity": 70,
+      "unit": "g"
+    },
+    {
+      "id": "tartara_cipolla_finemente_tritata_e_sciacquata_14",
+      "quantity": 30,
+      "unit": "g"
+    },
+    {
+      "id": "tartara_cetriolino_sottaceto_tritato_15",
+      "quantity": 25,
+      "unit": "g"
+    },
+    {
+      "id": "ciotola_riso_giapponese_cotto_16",
+      "quantity": 2,
+      "unit": "portion"
+    },
+    {
+      "id": "ciotola_cavolo_cappuccio_a_julienne_17",
+      "quantity": 100,
+      "unit": "g"
     }
   ],
   "steps": [
     {
       "id": "step_1",
-      "timerSeconds": null
+      "timerSeconds": 1200
     },
     {
       "id": "step_2",
@@ -71,181 +136,533 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Tori no Karaage Namban Don",
-      "description": "A satisfying Tori no Karaage Namban Don centered on warm rice and carefully prepared toppings, with seasoning kept focused so each component remains recognizable.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, My Hero Academia. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tori no Karaage Namban Don — fried chicken rice bowl",
+      "description": "The Tori no Karaage Namban Don serves on hot rice marinated chicken bites, coated with starch and fried. The namban sauce and the final condiments add a sweet and sour note without sacrificing the crispness of the chicken. The warm karaage absorbs for a few seconds the Namban sauce, then meets the rice and the cold tartar in the same bowl.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, My Hero Academia. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "Sovracosce di chicken a bocconcini fritti (karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "Deboned chicken over thighs, without skin, with small mouthpieces",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Sauce namban (3 cucchiai soia, 2 rice vinegar, 1 sugar)",
+        "pollo_salsa_di_soia_2": {
+          "name": "Soy sauce",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Sauce tartara giapponese (egg sodo tritato, maionese, cetriolini, onion)",
+        "pollo_sake_da_cucina_3": {
+          "name": "Cooking sake",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Rice caldo e cabbage a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "Grated fresh ginger",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "grated garlic",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "potato starch or maize starch",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "seed oil for frying",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "Soy sauce",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "Rice vinegar",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "sugar",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "hard-boiled egg",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "Japanese mayonnaise",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "finely chopped and rinsed onion",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "Gherkin chopped pickle",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "Cooked Japanese Rice",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "cabbage hood julienne",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice and keep it warm while you cook or season the toppings separately; dry wet ingredients well so the bowl does not become watery.",
-        "step_2": "Cook the principal topping with controlled heat and reduce any sauce until it coats the ingredients instead of pooling heavily in the bowl.",
-        "step_3": "Portion the rice, then arrange the toppings evenly so each serving contains the intended balance of protein, vegetables and seasoning.",
-        "step_4": "Add the final garnish and sauce just before serving, preserving crisp or raw elements until the last moment."
+        "step_1": "Cut the chicken thighs into regular bites and dress them with soy sauce, sake, ginger and garlic; let marinate at least 20 minutes.",
+        "step_2": "Prepare the Namban sauce bringing to light boiling soy sauce, rice vinegar, mirin and sugar, then let it warm.",
+        "step_3": "Prepare the tartar by mixing chopped boiled egg, onion and pickle well drained, japanese mayonnaise, little vinegar, salt and pepper; keep it in the refrigerator.",
+        "step_4": "Drain the chicken from marinade, pass it into potato or maize starch and shake the excess.",
+        "step_5": "Fry at 170-175°C in small lots until the bites are golden and the chicken is completely cooked; drain on grill. Check the chicken pieces with a food thermometer: the centre must reach at least 74°C (165°F). A golden crust or frying time alone does not guarantee doneness.",
+        "step_6": "Immerse the karaage still warm in the namban sauce for a few seconds, so it absorbs the seasoning without completely losing the crispness.",
+        "step_7": "Distribute hot rice and cabbage to julienne in the bowls, add the chicken namban and complete with the cold tartar sauce.",
+        "step_8": "Serve immediately, keeping the contrast between hot rice, crispy chicken and fresh tartar."
       }
     },
     "it": {
       "title": "Tori no Karaage Namban Don (Ciotola di Pollo Fritto Namban)",
-      "description": "Un Tori no Karaage Namban Don (Ciotola di Pollo Fritto Namban) completo basato su riso caldo e guarnizioni preparate separatamente, con un condimento misurato che lascia riconoscibili tutti i componenti.",
+      "description": "Il Tori no Karaage Namban Don serve su riso caldo bocconi di pollo marinato, rivestito di amido e fritto. La salsa namban e i condimenti finali aggiungono una nota agrodolce senza rinunciare alla croccantezza del pollo. Il karaage caldo assorbe per pochi secondi la salsa namban, poi incontra il riso e la tartara fredda nella stessa ciotola.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, My Hero Academia. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "sovracosce di pollo a bocconcini fritti (Karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "sovracosce di pollo disossate, senza pelle, a bocconcini",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Salsa Namban (3 cucchiai soia, 2 aceto di riso, 1 zucchero)",
+        "pollo_salsa_di_soia_2": {
+          "name": "salsa di soia",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Salsa Tartara giapponese (uovo sodo tritato, maionese, cetriolini, cipolla)",
+        "pollo_sake_da_cucina_3": {
+          "name": "sake da cucina",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Riso caldo e cavolo cappuccio a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "zenzero fresco grattugiato",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "aglio grattugiato",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "fecola di patate o amido di mais",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "olio di semi per friggere",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "salsa di soia",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "aceto di riso",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "zucchero",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "uovo sodo",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "maionese giapponese",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "cipolla finemente tritata e sciacquata",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "cetriolino sottaceto tritato",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "riso giapponese cotto",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "cavolo cappuccio a julienne",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, prepara il pollo fritto Karaage dorato e croccante. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_2": "Prosegui così: immergi il pollo ancora caldo nella salsa Namban agrodolce per pochi secondi.",
-        "step_3": "Nella fase successiva, riso caldo, cavolo a fiammifero e il pollo Namban.",
-        "step_4": "Per completare, aggiungi abbondante salsa tartara fatta in casa sul pollo."
+        "step_1": "Taglia le sovracosce di pollo in bocconi regolari e condiscile con salsa di soia, sake, zenzero e aglio; lascia marinare almeno 20 minuti.",
+        "step_2": "Prepara la salsa namban portando a leggero bollore salsa di soia, aceto di riso, mirin e zucchero, poi lasciala intiepidire.",
+        "step_3": "Prepara la tartara mescolando uovo sodo tritato, cipolla e cetriolino ben scolati, maionese giapponese, poco aceto, sale e pepe; tienila in frigorifero.",
+        "step_4": "Scola il pollo dalla marinata, passalo nell’amido di patate o mais e scuoti l’eccesso.",
+        "step_5": "Friggi a 170-175°C in piccoli lotti finché i bocconi sono dorati e il pollo è completamente cotto; scola su griglia. Controlla i bocconcini di pollo con un termometro alimentare: la temperatura al cuore deve raggiungere almeno 74 °C. La doratura esterna o il tempo di frittura non garantiscono da soli la cottura.",
+        "step_6": "Immergi il karaage ancora caldo nella salsa namban per pochi secondi, così assorbe il condimento senza perdere del tutto la croccantezza.",
+        "step_7": "Distribuisci riso caldo e cavolo a julienne nelle ciotole, aggiungi il pollo namban e completa con la salsa tartara fredda.",
+        "step_8": "Servi immediatamente, mantenendo il contrasto tra riso caldo, pollo croccante e tartara fresca."
       }
     },
     "es": {
-      "title": "Tori no Karaage Namban Don",
-      "description": "Una versión práctica de Tori no Karaage Namban Don para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, My Hero Academia. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tori no karaage namban don — arroz con pollo frito namban",
+      "description": "El Tori no Karaage Namban Don sirve sobre arroz caliente bocados de pollo marinado, recubierto de almidón y frito. La salsa namban y los condimentos finales añaden una nota agridulce sin renunciar a la crujienteza del pollo. El karaage caliente absorbe por unos segundos la salsa namban, luego se encuentra con el arroz y la tártara fría en el mismo tazón.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, My Hero Academia. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "Sovracosce di pollo a bocconcini fritti (karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "Conchas de pollo deshuesadas, sin piel, de bocadillos",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Salsa namban (3 cucchiai soia, 2 vinagre de arroz, 1 azúcar)",
+        "pollo_salsa_di_soia_2": {
+          "name": "Salsa de soja",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Salsa tartara giapponese (huevo sodo tritato, maionese, cetriolini, cebolla)",
+        "pollo_sake_da_cucina_3": {
+          "name": "Sake de cocina",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Arroz caldo e col a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "jengibre fresco rallado",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "ajo rallado",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "fécula de patata o almidón de maíz",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "Aceite de semilla para freír",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "Salsa de soja",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "vinagre de arroz",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "azúcar",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "Huevo duro",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "mayonesa japonesa",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "cebolla finamente picada y enjuagada",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "pepinillo pepinillo picado",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "arroz japonés cocido",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "col capucha de julienne",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta los muslos de pollo en bocados regulares y sazona con salsa de soja, sake, jengibre y ajo; deja marinar al menos 20 minutos.",
+        "step_2": "Prepara la salsa nanban llevando a hervor suave la salsa de soja, el vinagre de arroz, el mirin y el azúcar. Después deja que se temple.",
+        "step_3": "Prepara la tártara mezclando huevo duro picado, cebolla y pepinillo bien escurrido, mayonesa japonesa, poco vinagre, sal y pimienta; mantenla en la nevera.",
+        "step_4": "Escurrir el pollo de la marinada, pasarlo en el almidón de patatas o maíz y sacudir el exceso.",
+        "step_5": "Freír a 170-175°C en pequeños lotes hasta que los bocados estén dorados y el pollo esté completamente cocido; escurrir sobre la parrilla. Comprueba los trozos de pollo con un termómetro de cocina: el centro debe alcanzar al menos 74 °C. El dorado exterior o el tiempo de fritura por sí solos no garantizan la cocción.",
+        "step_6": "Sumerge el karaage todavía caliente en la salsa namban durante unos segundos, por lo que absorbe el condimento sin perder del todo la crujienteza.",
+        "step_7": "Distribuye arroz caliente y col a julienne en los cuencos, añade el pollo namban y completa con la salsa tártara fría.",
+        "step_8": "Sirve inmediatamente, manteniendo el contraste entre arroz caliente, pollo crujiente y tártaro fresco."
       }
     },
     "fr": {
-      "title": "Tori no Karaage Namban Don",
-      "description": "Une version pratique de Tori no Karaage Namban Don à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, My Hero Academia. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tori no karaage namban don — bol de riz au poulet frit namban",
+      "description": "Le Tori no Karaage Namban Don sert sur riz chaud des bouchées de poulet mariné, recouvert d'amidon et de frit. La sauce namban et les condiments finaux ajoutent une note aigre-douce sans renoncer à la croustillance du poulet. Le karaage chaud absorbe pendant quelques secondes la sauce namban, puis rencontre le riz et la tartare froide dans le même bol.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, My Hero Academia. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "Sovracosce di poulet a bocconcini fritti (karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "Succursales de poulet désossées, sans peau, à boulettes",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Sauce namban (3 cucchiai soia, 2 vinaigre de riz, 1 sucre)",
+        "pollo_salsa_di_soia_2": {
+          "name": "Sauce de soja",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Sauce tartara giapponese (œuf sodo tritato, maionese, cetriolini, oignon)",
+        "pollo_sake_da_cucina_3": {
+          "name": "saké de cuisine",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Riz caldo e chou a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "gingembre frais râpé",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "ail râpé",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "fécule de pommes de terre ou amidon de maïs",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "huile de graines à frire",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "Sauce de soja",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "vinaigre de riz",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "sucre",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "œuf dur",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "mayonnaise japonaise",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "oignon finement haché et rincé",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "Cornichons, cornichons, cornichons, cornichons hachés",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "riz japonais cuit",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "Chou capuche julienne",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coupe les hauts de cuisse de poulet en morceaux réguliers et assaisonne-les avec la sauce soja, le saké, le gingembre et l’ail. Laisse mariner au moins 20 minutes.",
+        "step_2": "Porte doucement à frémissement la sauce soja, le vinaigre de riz, le mirin et le sucre pour préparer la sauce nanban, puis laisse tiédir.",
+        "step_3": "Préparez la tartare en mélangeant œuf dur haché, oignon et cornichon bien écolés, mayonnaise japonaise, peu de vinaigre, sel et poivre; gardez-la au réfrigérateur.",
+        "step_4": "Essuyez le poulet de la marinade, passez-le dans l'amidon de pommes de terre ou de maïs et secouez l'excès.",
+        "step_5": "Fritez à 170-175°C en petits lots jusqu'à ce que les bouchées soient dorées et que le poulet soit complètement cuit; aspirez sur le grill. Vérifiez les morceaux de poulet avec un thermomètre alimentaire : ils doivent atteindre au moins 74 °C à cœur. La couleur dorée et le temps de friture ne suffisent pas à garantir la cuisson.",
+        "step_6": "Plongez le karaage encore chaud dans la sauce namban pendant quelques secondes, puis absorbez l'assaisonnement sans perdre complètement le croquant.",
+        "step_7": "Distribuez du riz chaud et du chou julienne dans les bols, ajoutez le poulet namban et complètez avec la sauce tartare froide.",
+        "step_8": "Servez immédiatement, en maintenant le contraste entre riz chaud, poulet croustillant et tartare fraîche."
       }
     },
     "de": {
-      "title": "Tori no Karaage Namban Don",
-      "description": "Eine alltagstaugliche Version von Tori no Karaage Namban Don für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, My Hero Academia inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tori no Karaage Namban Don – Reisschale mit frittiertem Hähnchen",
+      "description": "Der Tori no Karaage Namban Don serviert warmen Reis mit mariniertem, mit Stärke und gebratenem Hähnchen. Die Namban-Sauce und die letzten Würzmittel fügen eine süßliche Note hinzu, ohne auf die Knusprigheit des Huhns zu verzichten. Die heiße Karaage absorbiert für ein paar Sekunden die Namban-Sauce, dann trifft sie den Reis und die kalte Schildkröte in der gleichen Schüssel.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, My Hero Academia inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "Sovracosce di Hähnchen a bocconcini fritti (karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "Hähnchenüberschnürung ohne Knochen, ohne Haut, mit Bissen",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Sauce namban (3 cucchiai soia, 2 Reisessig, 1 Zucker)",
+        "pollo_salsa_di_soia_2": {
+          "name": "Sojasoße",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Sauce tartara giapponese (Ei sodo tritato, maionese, cetriolini, Zwiebel)",
+        "pollo_sake_da_cucina_3": {
+          "name": "Küchensake",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Reis caldo e Kohl a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "Ingwer frisch gerieben",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "Knoblauch, gerieben",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "Kartoffelstärke oder Maisstärke",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "Samenöl zum Braten",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "Sojasoße",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "Reisessig",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "Mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "Zucker",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "gekochtes Ei",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "Japanische Mayonnaise",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "Zwiebel fein zerkleinert und gewaschen",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "Gehackter Gurke",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "Japanischer gekochter Reis",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "Julienne-Kappe",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schneide die Hähnchenüberschenkel in regelmäßigen Bissen und würze sie mit Sojasoße, Sake, Ingwer und Knoblauch; lass sie mindestens 20 Minuten schwimmen.",
+        "step_2": "Bereiten Sie die Namban-Sauce, indem Sie leicht zu bulgarieren Soja-Sauce, Reisessig, Mirin und Zucker, dann lassen Sie sie einschüchtern.",
+        "step_3": "Bereiten Sie die Tartara durch Mischen von gehackten gekochten Ei, Zwiebeln und Cornichons gut aufgefüllt, japanische Mayonnaise, wenig Essig, Salz und Pfeffer; halten Sie es im Kühlschrank.",
+        "step_4": "Schütte das Huhn aus der Marinade, gib es in die Stärke von Kartoffeln oder Mais und schüttele das überschüssige.",
+        "step_5": "Frittieren Sie bei 170-175°C in kleinen Partien, bis die Bissen goldgelb und das Huhn vollständig gekocht sind; streuen Sie auf Gitter. Hähnchenstücke mit einem Lebensmittelthermometer kontrollieren: Die Kerntemperatur muss mindestens 74 °C erreichen. Bräunung und Frittierzeit allein beweisen keine vollständige Garung.",
+        "step_6": "Tauchen Sie die noch warme Karaage in die Namban-Sauce ein, so absorbiert sie den Würz, ohne die Knusprigheit zu verlieren.",
+        "step_7": "Geben Sie heißem Reis und Kohl in Julienne Schüsseln, fügen Sie das Huhn Namban und komplett mit kalten Tartar-Sauce.",
+        "step_8": "Servieren Sie sofort und halten Sie den Kontrast zwischen heißem Reis, knusprigem Huhn und frischem Tatar."
       }
     },
     "pt": {
-      "title": "Tori no Karaage Namban Don",
-      "description": "Uma versão prática de Tori no Karaage Namban Don para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, My Hero Academia. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tori no karaage namban don — tigela de arroz com frango frito namban",
+      "description": "O Tori no Karaage Namban Don serve em picadas de frango marinado com arroz quente, revestido com amido e frito. O molho de namban e os condimentos finais adicionam uma nota doce e azeda sem sacrificar a frescura do frango. O karaage quente absorve por alguns segundos o molho Namban, então encontra o arroz e o tártaro frio na mesma tigela.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, My Hero Academia. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "Sovracosce di frango a bocconcini fritti (karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "Frango despejado sobre as coxas, sem pele, com pequenos bocais",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Molho namban (3 cucchiai soia, 2 vinagre de arroz, 1 açúcar)",
+        "pollo_salsa_di_soia_2": {
+          "name": "Molho de soja",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Molho tartara giapponese (ovo sodo tritato, maionese, cetriolini, cebola)",
+        "pollo_sake_da_cucina_3": {
+          "name": "Cozinhar saquê",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Arroz caldo e couve a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "Gengibre fresco ralado",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "alho ralado",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "amido de batata ou amido de milho",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "óleo de semente para fritar",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "Molho de soja",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "Vinagre de arroz",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "açúcar",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "ovo duro cozido",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "Maionesa japonesa",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "Cebola finamente picada e enxaguada",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "Pickle picado do Gherkin",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "Arroz Japonês Cozido",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "capuz de repolho julienne",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte as sobrecoxas de frango em pedaços regulares e tempere com molho de soja, saquê, gengibre e alho. Deixe marinar durante pelo menos 20 minutos.",
+        "step_2": "Prepare o molho Namban trazendo para o molho de soja fervente leve, vinagre de arroz, mirin e açúcar, em seguida, deixe- o aquecer.",
+        "step_3": "Prepare o tártaro misturando ovo cozido picado, cebola e picles bem drenado, maionese japonesa, pouco vinagre, sal e pimenta; mantenha- o na geladeira.",
+        "step_4": "Esgote o frango da marinada, passe- o para o amido de batata ou milho e agite o excesso.",
+        "step_5": "Fritar a 170-175°C em pequenos lotes até que as mordidas estejam douradas e o frango esteja completamente cozido; drenar na grelha. Verifique os pedaços de frango com um termómetro alimentar: o centro deve atingir pelo menos 74 °C. A cor dourada e o tempo de fritura, por si só, não garantem a cozedura.",
+        "step_6": "Mergulhe o karaage ainda quente no molho de namban por alguns segundos, assim ele absorve o tempero sem perder completamente a frescura.",
+        "step_7": "Distribua arroz quente e repolho para julienne nas tigelas, adicione o namban de frango e complete com o molho tártaro frio.",
+        "step_8": "Servir imediatamente, mantendo o contraste entre arroz quente, frango crocante e tártaro fresco."
       }
     }
   }
