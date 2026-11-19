@@ -27,6 +27,7 @@ FIXES = {
     ("turn off the fire", "turn off the heat"),
     ("Bring to the table", "Serve"),
     ("bring to the table", "serve"),
+    ("flour 00", "Italian 00 flour"),
  ],
  "es": [
     ("Cebollina fresca", "Cebollino fresco"),
@@ -52,6 +53,8 @@ FIXES = {
     ("Brodo de Dashi", "Caldo de dashi"),
     ("brodo de dashi", "caldo de dashi"),
     ("frittatina", "omelete fina"),
+    ("moscas, verdadeiras, torcidas", "amêijoas depuradas"),
+    ("moscas, verdadeiras", "amêijoas depuradas"),
  ],
 }
 # WITNESS can include known issues that need contextual review rather than
@@ -227,6 +230,12 @@ def audit(recipes: list[dict]) -> dict:
             if not isinstance(d, dict):
                 issues.append({"locale": locale, "kind": "missing_locale", "severity": "ERROR"})
                 continue
+            if num in (51, 56, 59, 80, 96, 110, 117, 133, 149, 150, 153, 156):
+                from fast_track_12_repairs import SAFETY
+                full_method = " ".join(str(v) for v in d.get("steps", {}).values())
+                if SAFETY[num][locale] not in full_method:
+                    issues.append({"locale": locale, "kind": "missing_source_bound_safety",
+                                   "severity": "ERROR"})
             if set(d.get("ingredients", {})) != ingredients:
                 issues.append({"locale": locale, "kind": "ingredient_key_drift", "severity": "ERROR"})
             if set(d.get("steps", {})) != steps:
@@ -335,7 +344,21 @@ def main() -> int:
     before = audit(recipes)
     edited, field_count = apply_fixes(recipes) if args.apply else ([], 0)
     after = audit(recipes)
+    prior = read(args.report) if args.apply and args.report.is_file() else None
+    initial = prior.get("cumulative", {}).get("initial") if prior else None
+    if initial is None:
+        initial = prior["before"]["summary"] if prior else before["summary"]
+    prior_ids = prior.get("cumulative", {}).get("correctedIDs", prior.get("correctedIDs", [])) if prior else []
+    prior_fields = prior.get("cumulative", {}).get("correctedTextFields", prior.get("correctedTextFields", 0)) if prior else 0
+    cumulative = {
+        "initial": initial,
+        "latest": after["summary"],
+        "correctedIDs": sorted(set(prior_ids + edited)),
+        "correctedRecipeCount": len(set(prior_ids + edited)),
+        "correctedTextFields": prior_fields + field_count,
+    }
     report = {
+        "cumulative": cumulative,
         "date": "2026-11-19",
         "mode": "APPLIED_SOURCE_BOUND_FIXED_ERRORS" if args.apply else "READ_ONLY",
         "before": before,
