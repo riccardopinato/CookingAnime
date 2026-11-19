@@ -1,0 +1,40 @@
+name: Recipe Fast Track backlog inventory
+
+on:
+  pull_request:
+    paths:
+      - 'authoring/recipes/**'
+      - 'assets/catalog/**'
+      - 'tool/fast_track_recipe_inventory.py'
+      - '.github/workflows/recipe-fast-track-inventory.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Inspect existing recipes 51-162
+        run: |
+          python3 tool/fast_track_recipe_inventory.py --output build/fast-track-recipes.json
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          data=json.loads(Path('build/fast-track-recipes.json').read_text(encoding='utf-8'))
+          print('Recipes:',data['scope']['recipes'])
+          print('Needs review:',data['needs_ai_review'])
+          print('Candidates needing contextual review:',data['contextual_review_candidates'])
+          print('Issue types:',data['issue_counts'])
+          assert data['scope']['recipes']==112
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: fast-track-recipes-inventory
+          path: build/fast-track-recipes.json
+          retention-days: 14
