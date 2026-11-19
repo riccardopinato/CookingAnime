@@ -2840,7 +2840,7 @@
         "step_5": "Hähnchenstücke bei mittlerer Hitze garen; 5–7 Minuten sind nur ein Richtwert. Mit einem Thermometer sicherstellen, dass die Kerntemperatur mindestens 74 °C erreicht; andernfalls weitergaren.",
         "step_6": "Kombinieren Sie die Udon Nudeln direkt in der heißen Eintopfbrühe und lassen Sie für weitere 4-5 Minuten kochen, damit sie die Aromen des Miso absorbieren.",
         "step_7": "Für cremiges Eigelb nur pasteurisierte Eier verwenden. Je ein Ei in die Mitte der Portion geben, den Herd ausschalten und etwa 2 Minuten abdecken, bis das Eiweiß gestockt ist. Nicht pasteurisierte Eier vollständig durchgaren.",
-        "step_8": "Grillen Sie mit frischer Frühlingszwiebel und bringen Sie auf den Tisch heiß direkt aus dem Topf."
+        "step_8": "Mit frisch geschnittener Frühlingszwiebel garnieren und sehr heiß direkt aus dem Topf servieren."
       }
     },
     "recipe_000056": {
@@ -3169,7 +3169,7 @@
         "step_7": "Kochen Sie in kochendem Wasser die frischen Nudeln in reichlich heißem, ungesalzenem Wasser nach den Anweisungen der Packung (ca. 2-3 Minuten), dann spülen Sie sie gründlich.",
         "step_8": "Basierend auf jeder großen Schüssel fügen Sie die kochende Brühe mit Miso und Fleisch.",
         "step_9": "Kombinieren Sie die Noodles, indem Sie sie in der Mitte zaubern.",
-        "step_10": "Planen Sie auf einer Seite die Sojasprossen, den süßen Mais, ein halbes, mariniertes Ei, eine Nuss aus frischer Almbutter in der Mitte (typisch für die Tradition von Sapporo), einen fein geschnittene Frühlingszwiebeln und ein Blatt Nori-Alge am Rand der Schüssel.",
+        "step_10": "Sojasprossen und Zuckermais seitlich anrichten, ein halbes mariniertes Ei dazugeben und ein Stück frische Almbutter in die Mitte setzen, wie bei Ramen aus Sapporo. Mit fein geschnittener Frühlingszwiebel bestreuen und ein Noriblatt an den Schüsselrand stecken.",
         "step_11": "Bringt sofort heiß auf den Tisch!"
       }
     },
@@ -3296,12 +3296,12 @@
       "stepTexts": {
         "step_1": "In einem Topf mischen Sie Hühnerbrühe, Sojasoße, Zucker, Reisessig und Austersoße.",
         "step_2": "Bringt bei mittlerer Hitze leicht kochen, dann fügen Sie die geschmolzene Maisstärke durch ständiges Mischen hinzu, bis eine glänzende, verdichtete und samtige Soße erhalten ist, und halten Sie warm.",
-        "step_3": "In einer Schüssel arbeitet er leicht die 4 Eier mit einer Prise Salz, Pfeffer, Sesamöl, gestreiftem Krabbenfleisch und der Hälfte der Frühlingszwiebeln.",
+        "step_3": "In einer Schüssel die vier Eier leicht mit etwas Salz und Pfeffer, Sesamöl, zerpflücktem Krabbenfleisch und der Hälfte der fein geschnittenen Frühlingszwiebeln verquirlen.",
         "step_4": "Erhitzen Sie einen reichlichen Ölfaden in einer Pfanne, die bei lebendigem Feuer brennt.",
         "step_5": "Fügen Sie die Hälfte der Eiermischung für jede Portion hinzu.",
         "step_6": "Fahren Sie mit dem Kochen für 1 Minute, indem Sie die Pfanne bewegen, so dass die Basis repräsentiert, aber die Oberseite bleibt unglaublich cremig und weich.",
         "step_7": "Legen Sie das goldene Omelette über einen Berg warmen Reis in der Mitte eines Bodentellers.",
-        "step_8": "Nappa reichlich das Omelette mit der süßen, süßen Ankake-Sauce und garnissi mit den restlichen Frühlingszwiebeln."
+        "step_8": "Das Omelett großzügig mit der heißen süß-sauren Ankake-Sauce überziehen und mit den restlichen Frühlingszwiebeln garnieren."
       }
     },
     "recipe_000064": {
@@ -5631,10 +5631,10 @@
         "step_2": "Bläse die Knochen 10 Minuten, schäle und spüle sie gründlich; wische auch den Topf, bevor du die richtige Brühe beginnst.",
         "step_3": "Bedecken Sie die Knochen mit frischem Wasser, fügen Sie Knoblauch und Ingwer hinzu und führen zu starkem Siede; Schaum die dunklen Gerinnsel in den frühen Stadien.",
         "step_4": "Halten Sie ein festes Siegel für mindestens 5-6 Stunden, indem Sie mit kochendem Wasser, wenn Sie es benötigen: Fett und Kollagen müssen emulgieren, bis die Brühe matt und vollmundig.",
-        "step_5": "Filtern Sie die Brühe, setzen Sie sie auf das Feuer und richten Sie die Konzentration ein; bereiten Sie neben dem tare, chashu, Eier, Sprossen, Frühlingszwiebeln, Nori und Mayu-Öl.",
+        "step_5": "Die Brühe abseihen, erneut erhitzen und die Konzentration anpassen. Tare, Chashu, Eier, Sprossen, geschnittene Frühlingszwiebel, Nori und Mayu (schwarzes Knoblauchöl) separat bereitstellen.",
         "step_6": "Bringen Sie einen separaten Topf mit Wasser und kochen Sie frische Nudeln für die angegebene Zeit, in der Regel 1-2 Minuten; Schlitten sehr gut.",
         "step_7": "Legen Sie den Sarg auf den Boden der vorgewärmten Schalen, gießen Sie die kochende Tonkotsu-Brühe und mischen.",
-        "step_8": "Fügen Sie die Nudeln hinzu und ergänzen Sie sofort mit Chashu, Halb Ajitama, Sprossen, Frühlingszwiebeln, Nori und ein paar Tropfen Mayu."
+        "step_8": "Die Nudeln hinzufügen und sofort mit Chashu, einem halben marinierten Ajitama-Ei, Sprossen, Frühlingszwiebel, Nori und einigen Tropfen Mayu garnieren."
       }
     },
     "recipe_000109": {
@@ -7511,13 +7511,13 @@
       "stepTexts": {
         "step_1": "Den kalten Reis mit den Händen gut mischen, um die Körner zu trennen. Gekochten Reis in einer flachen Schicht schnell, idealerweise innerhalb einer Stunde, abkühlen, dann kühlen und binnen 24 Stunden verwenden. Nicht bei Raumtemperatur stehen lassen; nur einmal vollständig dampfend heiß aufwärmen.",
         "step_2": "Erhitzt einen Wok mit Sesamöl.",
-        "step_3": "Du quälst Knoblauch und die Hälfte der Frühlingszwiebel.",
+        "step_3": "Knoblauch und die Hälfte der gehackten Frühlingszwiebeln sanft anbraten.",
         "step_4": "Fügen Sie die gestoßenen Eier hinzu und mischen Sie schnell, um weich Rühren zu erstellen.",
         "step_5": "Fügen Sie den Reis sofort in den Wok und springen Sie ihn für 3-4 Minuten in starkem Feuer, kontinuierlich mit dem Spachtel.",
         "step_6": "Fügen Sie das Krabbenfleisch hinzu und mischen Sie vorsichtig, um das Fruchtfleisch zu vermischen, ohne das Fruchtfleisch übermäßig zu zerkleinern.",
         "step_7": "Fügen Sie die Sojasoße entlang der heiß gebrannten Wok-Ränder hinzu, um sie zu karamellieren, bevor Sie sie in Reis einbauen.",
         "step_8": "Salzregel und reichlich weißer Pfeffer.",
-        "step_9": "Kombinieren Sie den Rest der frischen Frühlingszwiebel und servieren Sie warm."
+        "step_9": "Die restlichen frischen Frühlingszwiebeln unterheben und sehr heiß servieren."
       }
     },
     "recipe_000150": {

@@ -2840,7 +2840,7 @@
         "step_5": "Cuece el pollo a fuego medio; los 5–7 minutos son orientativos. Comprueba con un termómetro que el centro alcance al menos 74 °C y prolonga la cocción si es necesario.",
         "step_6": "Combina los fideos udon directamente en el caldo caliente guisado y deja cocer por otros 4-5 minutos para que absorban los sabores del miso.",
         "step_7": "Usa huevos pasteurizados si deseas la yema cremosa. Casca uno en el centro de cada porción, apaga el fuego y tapa unos 2 minutos hasta que cuaje la clara. Si los huevos no están pasteurizados, cuécelos por completo.",
-        "step_8": "Guarniza con la cebolleta fresca y lleva a la mesa muy caliente directamente desde la olla."
+        "step_8": "Decora con la cebolleta fresca cortada y sirve muy caliente directamente de la olla."
       }
     },
     "recipe_000056": {
@@ -3169,7 +3169,7 @@
         "step_7": "Cocine en agua hirviendo los fideos frescos en abundante agua hirviendo no salada siguiendo las instrucciones del envase (unos 2-3 minutos), luego escúrrelos cuidadosamente.",
         "step_8": "Sobre la base de cada tazón, añade el caldo caliente con el miso y la carne.",
         "step_9": "Añade los fideos escurridos y colócalos en el centro.",
-        "step_10": "Pone los brotes de soja, el maíz dulce, medio huevo marinado, una nuez de mantequilla de malta fresca en el centro (típica de la tradición de Sapporo), un polvo de cebolleta y una hoja de alga Nori en el borde del tazón.",
+        "step_10": "Coloca a un lado los brotes de soja y el maíz dulce; añade medio huevo marinado y una nuez de mantequilla fresca de montaña en el centro, al estilo de Sapporo. Termina con cebolleta cortada fina y una lámina de nori apoyada en el borde del cuenco.",
         "step_11": "¡Lleva a la mesa inmediatamente caliente!"
       }
     },
@@ -3296,12 +3296,12 @@
       "stepTexts": {
         "step_1": "En una olla, une el caldo de pollo, la salsa de soja, el azúcar, el vinagre de arroz y la salsa de ostra.",
         "step_2": "Trae a ligera ebullición a fuego medio, luego añade a hilo el almidón de maíz disuelto amalgamando continuamente hasta obtener una salsa brillante, espesada y aterciopelada, mantén el calor.",
-        "step_3": "En un tazón, trabaja ligeramente los 4 huevos con una pizca de sal, pimienta, aceite de sésamo, pulpa de cangrejo desfilada y la mitad de los cebolletas.",
+        "step_3": "En un cuenco, bate ligeramente los cuatro huevos con una pizca de sal y pimienta, el aceite de sésamo, la carne de cangrejo desmenuzada y la mitad de las cebolletas cortadas finas.",
         "step_4": "Calienta un hilo de aceite abundante en una sartén antiadherente a fuego vivo.",
         "step_5": "Añadir la mitad de la mezcla de huevos por cada porción.",
         "step_6": "Sigue cocinando durante 1 minuto moviendo la sartén para que la base cuaje pero la parte superior se mantenga increíblemente cremosa y suave.",
         "step_7": "Pone la tortilla dorada sobre una montaña de arroz caliente colocada en el centro de un plato de fondo.",
-        "step_8": "Napa abundantemente la tortilla con la salsa agridulce Ankake bien caliente y guárnate con las cebolletas restantes."
+        "step_8": "Cubre generosamente la tortilla con la salsa ankake agridulce bien caliente y termina con las cebolletas restantes."
       }
     },
     "recipe_000064": {
@@ -5631,10 +5631,10 @@
         "step_2": "Hervir los huesos 10 minutos, escurrir y enjuagar cuidadosamente; también limpiar la olla antes de empezar el caldo real.",
         "step_3": "Cubre los huesos con agua fresca, añade ajo y jengibre y lleva a ebullición vigoroso; espuma los coágulos oscuros en las primeras fases.",
         "step_4": "Mantén un sello firme durante al menos 5-6 horas, rebosando con agua hirviendo cuando lo necesites: grasa y colágeno deben emulsionarse hasta hacer el caldo opaco y con cuerpo.",
-        "step_5": "Filtra el caldo, ponlo sobre el fuego y regula la concentración; prepara aparte tar, chashu, huevos, brotes, cebolleta, nori y aceite mayu.",
+        "step_5": "Cuela el caldo, vuelve a ponerlo al fuego y ajusta su concentración. Prepara aparte el tare, el chashu, los huevos, los brotes, la cebolleta cortada, el nori y el mayu (aceite de ajo negro).",
         "step_6": "Lleva a hervir una olla separada de agua y cocina los fideos frescos para el tiempo indicado, generalmente 1-2 minutos; escólelos muy bien.",
         "step_7": "Ponga el tarro en el fondo de los cuencos precalentados, vierta el caldo tónkotsu caliente y revuelva.",
-        "step_8": "Añadir fideos se completa inmediatamente con chashu, medio ajitama, brotes, cebolleta, nori y unas pocas gotas de mayu."
+        "step_8": "Añade los fideos y termina enseguida con chashu, medio huevo marinado ajitama, brotes, cebolleta, nori y unas gotas de mayu."
       }
     },
     "recipe_000109": {
@@ -7511,13 +7511,13 @@
       "stepTexts": {
         "step_1": "Desgrana bien el arroz frío con las manos para separar los granos. Utiliza arroz cocido enfriado rápidamente en una capa fina, idealmente en una hora, refrigerado y consumido en 24 horas. No lo dejes a temperatura ambiente y recaliéntalo una sola vez hasta que esté muy caliente por completo.",
         "step_2": "Calienta un wok a fuego vivo con aceite de sésamo.",
-        "step_3": "Sufres ajo y la mitad de la cebolleta.",
+        "step_3": "Sofríe suavemente el ajo y la mitad de las cebolletas picadas.",
         "step_4": "Añade los huevos batidos y revuelve rápidamente para crear revueltos suaves.",
         "step_5": "Añade el arroz al wok inmediatamente y salta a fuego fuerte durante 3-4 minutos, desgranando constantemente con la espátula.",
         "step_6": "Añade la pulpa de cangrejo desfibrada y mezcla suavemente para mezclar sin exhalar excesivamente la pulpa.",
         "step_7": "Añade la salsa de soja a lo largo del borde enrollado del wok para hacerla caramelizar antes de incorporarla al arroz.",
         "step_8": "Ajusta de sal y abundante pimienta blanca.",
-        "step_9": "Une el resto de la cebolleta fresca y sirves bien caliente."
+        "step_9": "Incorpora las cebolletas frescas restantes y sirve bien caliente."
       }
     },
     "recipe_000150": {

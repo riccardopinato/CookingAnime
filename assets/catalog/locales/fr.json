@@ -2840,7 +2840,7 @@
         "step_5": "Faites mijoter le poulet à feu moyen ; 5 à 7 minutes sont indicatives. Vérifiez au thermomètre que la température à cœur atteint au moins 74 °C et prolongez la cuisson si nécessaire.",
         "step_6": "Combinez les nouilles udon directement dans le bouillon bouillant ragoût et laissez cuire encore 4-5 minutes pour absorber les saveurs du miso.",
         "step_7": "Utilisez des œufs pasteurisés si vous voulez un jaune crémeux. Cassez-en un au centre de chaque portion, coupez le feu et couvrez environ 2 minutes jusqu'à ce que le blanc soit pris. Sinon, faites cuire complètement le blanc et le jaune.",
-        "step_8": "Garnissez avec la cébette fraîche et apportez à la table très chaud directement à partir de la casserole."
+        "step_8": "Parsemez de cébette fraîche émincée et servez bien chaud, directement dans la casserole."
       }
     },
     "recipe_000056": {
@@ -3169,7 +3169,7 @@
         "step_7": "Faites cuire dans de l'eau bouillante les nouilles fraîches dans de l'eau bouillante non salée en suivant les instructions de l'emballage (environ 2-3 minutes), puis égouttez-les soigneusement.",
         "step_8": "Sur la base de chaque grand bol, ajoutez le bouillon bouillant avec le miso et la viande.",
         "step_9": "Rassemblez les nouilles en les faisant s'adapter au milieu.",
-        "step_10": "Il range sur un côté les bourgeons de soja, le maïs doux, demi-œuf mariné, une noix de beurre de magicien frais au centre (typique de la tradition de Sapporo), une époussetée d'cébettes et une feuille d'algue Nori enfilé sur le bord du bol.",
+        "step_10": "Disposez les pousses de soja et le maïs doux sur un côté, puis un demi-œuf mariné et une noix de beurre frais de montagne au centre, dans le style de Sapporo. Ajoutez de la cébette finement émincée et glissez une feuille de nori sur le bord du bol.",
         "step_11": "Amenez à table immédiatement bien chaud!"
       }
     },
@@ -3296,12 +3296,12 @@
       "stepTexts": {
         "step_1": "Dans une casserole, ajoutez le bouillon de poulet, la sauce de soja, le sucre, le vinaigre de riz et la sauce d'huître.",
         "step_2": "Il porte à léger ébullition à feu moyen, puis ajoute l'amidon de maïs dissous en mélangeant continuellement jusqu'à obtenir une sauce brillante, épaissie et veloutée, maintenez au chaud.",
-        "step_3": "Dans un bol, il travaille légèrement les 4 œufs avec une pincée de sel, poivre, huile de sésame, la pulpe de crabe défilée et la moitié des cébettes.",
+        "step_3": "Dans un bol, battez légèrement les quatre œufs avec une pincée de sel et de poivre, l'huile de sésame, la chair de crabe effilochée et la moitié des cébettes finement émincées.",
         "step_4": "Chauffez un fil d'huile abondant dans une poêle anti-adhérente à feu vif.",
         "step_5": "Ajouter la moitié du mélange d'œufs pour chaque portion.",
         "step_6": "Continuez la cuisson pendant 1 minute en déplaçant la poêle afin que la base se représente mais la partie supérieure reste incroyablement crémeuse et douce.",
         "step_7": "Posez l'omelette dorée au-dessus d'une montagne de riz chaud au centre d'un plat de fond.",
-        "step_8": "Napez abondamment l'omelette avec la sauce Agrodolce Ankake bien chaude et garnissez avec les cébettes restants."
+        "step_8": "Nappez généreusement l'omelette de sauce ankake aigre-douce bien chaude et parsemez du reste des cébettes."
       }
     },
     "recipe_000064": {
@@ -5631,10 +5631,10 @@
         "step_2": "Débolitez les os 10 minutes, écoliez-les et rincez-les soigneusement; nettoyez également la casserole avant de commencer le bouillon proprement dit.",
         "step_3": "Couvrez les os avec de l'eau fraîche, ajoutez de l'ail et du gingembre et éblouissez vigoureusement; moussez les caillots foncés au début.",
         "step_4": "Gardez une bulle ferme pendant au moins 5-6 heures, en bloquant avec de l'eau bouillante quand elle est nécessaire: graisse et collagène doivent s'émulsionr jusqu'à rendre le bouillon opaque et corsé.",
-        "step_5": "Filtre le bouillon, remets-le sur le feu et ajuste sa concentration. Prépare séparément le tare, le chashu, les œufs, les pousses, la cébette et le nori.",
+        "step_5": "Filtrez le bouillon, remettez-le à chauffer et ajustez sa concentration. Préparez séparément le tare, le chashu, les œufs, les pousses, la cébette émincée, le nori et le mayu (huile à l'ail noir).",
         "step_6": "Porte une casserole d’eau séparée à ébullition et fais cuire les nouilles fraîches pendant le temps indiqué, généralement 1 à 2 minutes. Égoutte-les soigneusement.",
         "step_7": "Dépose le tare au fond des bols préchauffés, verse le bouillon tonkotsu brûlant et mélange.",
-        "step_8": "Ajoute les nouilles, puis complète aussitôt avec le chashu, une demi-portion d’ajitama, des pousses, de la cébette, du nori et quelques gouttes de mayu."
+        "step_8": "Ajoutez les nouilles et garnissez aussitôt de chashu, d'un demi-œuf mariné ajitama, de pousses, de cébette, de nori et de quelques gouttes de mayu."
       }
     },
     "recipe_000109": {
@@ -7511,13 +7511,13 @@
       "stepTexts": {
         "step_1": "Égrenez bien le riz froid avec vos mains pour séparer les grains. Utilisez du riz cuit refroidi rapidement en couche fine, idéalement en une heure, puis réfrigéré et consommé sous 24 heures. Ne le laissez pas à température ambiante et ne le réchauffez qu'une fois, jusqu'à ce qu'il soit brûlant à cœur.",
         "step_2": "Réchauffez un wok à feu vif avec de l'huile de sésame.",
-        "step_3": "Tu souffres de l'ail et de la moitié de la cébette.",
+        "step_3": "Faites revenir doucement l'ail et la moitié des cébettes hachées.",
         "step_4": "Ajoutez les œufs battus et mélangez rapidement pour créer brouillés doux.",
         "step_5": "Ajoutez immédiatement le riz dans le wok et sautez-le très fort pendant 3-4 minutes, en égrenant constamment avec la spatule.",
         "step_6": "Ajoutez la pulpe de crabe défibrée et mélangez doucement pour amalgamer la pulpe sans la détruire excessivement.",
         "step_7": "Ajoutez la sauce soja le long du bord perché du wok pour la faire caraméliser avant de l'incorporer au riz.",
         "step_8": "Règle de sel et abondant poivre blanc.",
-        "step_9": "Joignez le reste de la cébette fraîche et servez bien chaud."
+        "step_9": "Ajoutez le reste des cébettes fraîches et servez bien chaud."
       }
     },
     "recipe_000150": {
