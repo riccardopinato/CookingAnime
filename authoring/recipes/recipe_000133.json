@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000133",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -71,7 +71,7 @@
     },
     {
       "id": "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio",
-      "quantity": 1.0,
+      "quantity": 1,
       "unit": "piece"
     },
     {
@@ -167,7 +167,7 @@
           "note": null
         },
         "uovo_marinato_2_cipollotto_per_servire": {
-          "name": "onion to serve",
+          "name": "spring onion, for serving",
           "note": null
         }
       },
@@ -178,7 +178,7 @@
         "step_4": "Cover and cook over low heat for 15-20 minutes by turning the chicken from time to time until the sauce thickens and glazes the meat. Before slicing the rolled chicken, verify with a food thermometer that the centre has reached at least 74°C (165°F); cook longer if necessary. Tie with kitchen twine, not edible spaghetti.",
         "step_5": "Let the chicken cool and slice it with gold discs.",
         "step_6": "Heat the chicken broth and adjust it to taste with 2 tablespoons of chicken cooking glaze.",
-        "step_7": "Cook the noodles for ramen, drain them into the bowl, add the broth and garnish with the slices of Tori Chashu, marinated egg in half and onion."
+        "step_7": "Cook the noodles for ramen, drain them into the bowl, add the broth and garnish with the slices of Tori Chashu, marinated egg in half and spring onion."
       }
     },
     "it": {
@@ -287,7 +287,7 @@
           "note": null
         },
         "uovo_marinato_2_cipollotto_per_servire": {
-          "name": "Cipollotto para servir",
+          "name": "cebolleta para servir",
           "note": null
         }
       },
@@ -298,7 +298,7 @@
         "step_4": "Cubre y deja que se cocine a fuego bajo durante 15-20 minutos girando el pollo de vez en cuando hasta que la salsa se espese y glasee la carne. Antes de cortar el pollo enrollado, comprueba con un termómetro que el centro alcance al menos 74 °C; prolonga la cocción si hace falta. Ata con hilo de cocina, no con espaguetis.",
         "step_5": "Deja que el pollo se enfríe y corta con discos de oro.",
         "step_6": "Calienta el caldo de pollo y ajusta el sabor con 2 cucharadas del glaseado de la cocina del pollo.",
-        "step_7": "Cocine los fideos para ramen, escólelos en el tazón, añada el caldo y guárnelos con las rebanadas de Tori Chashu, huevo marinado a la mitad y cebolla."
+        "step_7": "Cocine los fideos para ramen, escólelos en el tazón, añada el caldo y guárnelos con las rebanadas de Tori Chashu, huevo marinado a la mitad y cebolleta."
       }
     },
     "fr": {
@@ -347,7 +347,7 @@
           "note": null
         },
         "uovo_marinato_2_cipollotto_per_servire": {
-          "name": "ciboulette pour servir",
+          "name": "cébette pour servir",
           "note": null
         }
       },
@@ -358,7 +358,7 @@
         "step_4": "Couvrez et laissez cuire à faible feu pendant 15-20 minutes en tournant le poulet de temps en temps jusqu'à ce que la sauce épaisse et glaçage de la viande. Avant de trancher le poulet roulé, vérifiez au thermomètre que le centre a atteint au moins 74 °C ; prolongez la cuisson si nécessaire. Ficelez avec de la ficelle de cuisine.",
         "step_5": "Laissez le poulet refroidir et tranchez-le avec des disques d'or.",
         "step_6": "Chauffez le bouillon de poulet et régulez-le avec 2 cuillères à soupe de glaçage de poulet.",
-        "step_7": "Faites cuire les nouilles pour ramen, écollez-les dans le bol, ajoutez le bouillon et garnissez avec les tranches de Tori Chashu, œuf mariné au milieu et oignons."
+        "step_7": "Faites cuire les nouilles pour ramen, écollez-les dans le bol, ajoutez le bouillon et garnissez avec les tranches de Tori Chashu, œuf mariné au milieu et cébettes."
       }
     },
     "de": {
@@ -407,7 +407,7 @@
           "note": null
         },
         "uovo_marinato_2_cipollotto_per_servire": {
-          "name": "Zwiebel zum Servieren",
+          "name": "Frühlingszwiebel zum Servieren",
           "note": null
         }
       },
@@ -418,7 +418,7 @@
         "step_4": "Bedecken Sie und lassen Sie das Huhn 15 bis 20 Minuten lang mit niedrigem Feuer backen, bis sich die Soße verdichtet und das Fleisch glasiert. Vor dem Aufschneiden des Hähnchenrollbratens mit einem Thermometer mindestens 74 °C Kerntemperatur prüfen; nötigenfalls länger garen. Küchengarn statt Spaghetti verwenden.",
         "step_5": "Lass das Huhn abkühlen und schneide es in Goldscheiben.",
         "step_6": "Erhitzen Sie die Hühnerbrühe und regulieren Sie sie mit 2 Esslöffeln Hühnerkocherglasur.",
-        "step_7": "Kochen Sie die Ramen-Nudeln, streuen Sie sie in die Schüssel, fügen Sie die Brühe und garnieren Sie mit den Scheiben von Tori Chashu, mariniertes Ei in der Mitte und Zwiebeln."
+        "step_7": "Kochen Sie die Ramen-Nudeln, streuen Sie sie in die Schüssel, fügen Sie die Brühe und garnieren Sie mit den Scheiben von Tori Chashu, mariniertes Ei in der Mitte und Frühlingszwiebeln."
       }
     },
     "pt": {
@@ -467,7 +467,7 @@
           "note": null
         },
         "uovo_marinato_2_cipollotto_per_servire": {
-          "name": "cebola para servir",
+          "name": "cebola de rama para servir",
           "note": null
         }
       },
@@ -478,7 +478,7 @@
         "step_4": "Cubra e cozinhe a fogo lento durante 15-20 minutos girando o frango de vez em quando até que o molho espesse e esmalte a carne. Antes de fatiar o rolo de frango, confirme com um termómetro que o centro atingiu pelo menos 74 °C; prolongue a cozedura se necessário. Ate com fio de cozinha.",
         "step_5": "Deixe o frango esfriar e fatiá- lo com discos de ouro.",
         "step_6": "Aqueça o caldo de frango e ajuste- o ao sabor com 2 colheres de sopa de esmalte de cozimento de frango.",
-        "step_7": "Cozinhe os macarrão para ramen, esgote- os na tigela, adicione o caldo e guarneça com as fatias de Tori Chashu, ovo marinado ao meio e cebola."
+        "step_7": "Cozinhe os macarrão para ramen, esgote- os na tigela, adicione o caldo e guarneça com as fatias de Tori Chashu, ovo marinado ao meio e cebola de rama."
       }
     }
   }

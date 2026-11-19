@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000130",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -144,7 +144,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Onion freshly sliced finely",
+          "name": "fresh spring onion, finely sliced",
           "note": null
         }
       },
@@ -155,7 +155,7 @@
         "step_4": "Take the oil to about 170°C, pass the shrimps into the batter and fry them a few at a time for about 2 minutes, until they are light and crispy.",
         "step_5": "Drain the tempura on the grid without covering it.",
         "step_6": "Cook the udon in separate water, drain well and distribute them in the bowls.",
-        "step_7": "Pour the boiling broth on the udon and add onion.",
+        "step_7": "Pour the boiling broth on the udon and add spring onion.",
         "step_8": "It adapts the shrimps in tempura only at the time of serving, so the crust remains crunchy longer."
       }
     },
@@ -242,7 +242,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Cepollotto fresco cortado finamente",
+          "name": "cebolleta fresca, finamente cortada",
           "note": null
         }
       },
@@ -291,7 +291,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Ciboulette frais coupé finement",
+          "name": "cébette fraîche finement émincée",
           "note": null
         }
       },
@@ -340,7 +340,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Zwiebeln, frisch, fein geschnitten",
+          "name": "frische Frühlingszwiebel, fein geschnitten",
           "note": null
         }
       },
@@ -389,7 +389,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Cebola recém cortada finamente",
+          "name": "cebola de rama fresca, finamente cortada",
           "note": null
         }
       },
@@ -400,7 +400,7 @@
         "step_4": "Leve o óleo para cerca de 170°C, passe os camarões para a massa e frite- os alguns de cada vez por cerca de 2 minutos, até que sejam leves e crocantes.",
         "step_5": "Esgote a tempura na grade sem cobri- la.",
         "step_6": "Cozinhe o udon em água separada, escorra bem e distribua- os nas tigelas.",
-        "step_7": "Despeje o caldo fervente no udon e adicione cebola.",
+        "step_7": "Despeje o caldo fervente no udon e adicione cebola de rama.",
         "step_8": "Ele adapta os camarões em tempura apenas no momento de servir, de modo que a crosta permanece crocante por mais tempo."
       }
     }

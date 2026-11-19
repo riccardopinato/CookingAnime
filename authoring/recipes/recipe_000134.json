@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000134",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "La collina dei papaveri",
   "animeReferences": [
@@ -141,7 +141,7 @@
         "step_3": "Prepare the garnishes before assembling: grate the ginger, finely slice the spring onion and cut the nori into strips.",
         "step_4": "Spread the cooked shirasu whitebait evenly over the rice without pressing them down.",
         "step_5": "Make a shallow well in the middle and gently add a pasteurized egg yolk suitable for eating without cooking. Do not use an unpasteurized raw yolk.",
-        "step_6": "Add ginger, onion and nori in small separate quantities, so each bite can be adjusted as desired.",
+        "step_6": "Add ginger, spring onion and nori in small separate quantities, so each bite can be adjusted as desired.",
         "step_7": "Pour the soy sauce flushed just before eating and partially mix the yolk with rice and shirasu, keeping different textures in the bowl."
       }
     },
@@ -215,7 +215,7 @@
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
-          "name": "cipollotto",
+          "name": "cebolleta",
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
@@ -229,7 +229,7 @@
         "step_3": "Prepara los acompañamientos: ralla el jengibre, corta fina la cebolleta y corta el nori en tiras.",
         "step_4": "Reparte los pescaditos shirasu cocidos sobre el arroz sin aplastarlos.",
         "step_5": "Haz un pequeño hueco en el centro y coloca una yema pasteurizada apta para consumo sin cocción. No utilices una yema cruda sin pasteurizar.",
-        "step_6": "Añade jengibre, cebolla y nori en pequeñas cantidades separadas, así cada bocado se puede ajustar al gusto.",
+        "step_6": "Añade jengibre, cebolleta y nori en pequeñas cantidades separadas, así cada bocado se puede ajustar al gusto.",
         "step_7": "Verter la salsa de soja de hilo sólo inmediatamente antes de comer y mezclar parcialmente la yema con arroz y shirasu, manteniendo diferentes texturas en el tazón."
       }
     },
@@ -259,7 +259,7 @@
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
-          "name": "ciboulette",
+          "name": "cébette",
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
@@ -273,7 +273,7 @@
         "step_3": "Préparez les garnitures : râpez le gingembre, émincez la cébette et coupez le nori en lanières.",
         "step_4": "Répartissez les petits poissons shirasu cuits sur le riz sans les écraser.",
         "step_5": "Faites un petit creux au centre et déposez délicatement un jaune d'œuf pasteurisé adapté à la consommation sans cuisson. N'utilisez pas de jaune cru non pasteurisé.",
-        "step_6": "Ajouter du gingembre, de l'oignon et du nori en petites quantités séparées, de sorte que chaque bouchée peut être réglée à volonté.",
+        "step_6": "Ajouter du gingembre, de la cébette et du nori en petites quantités séparées, de sorte que chaque bouchée peut être réglée à volonté.",
         "step_7": "Versez la sauce de soja à fil juste avant de manger et mélangez partiellement le jaune avec du riz et du shirasu, en maintenant différentes textures dans le bol."
       }
     },
@@ -303,7 +303,7 @@
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
-          "name": "Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
@@ -317,7 +317,7 @@
         "step_3": "Die Garnituren vorbereiten: Ingwer reiben, Frühlingszwiebel fein schneiden und Nori in Streifen schneiden.",
         "step_4": "Die gegarten Shirasu-Kleinfische gleichmäßig auf dem Reis verteilen, ohne sie zu zerdrücken.",
         "step_5": "In der Mitte eine kleine Mulde formen und vorsichtig pasteurisiertes, zum Rohverzehr geeignetes Eigelb hineinlegen. Kein unpasteurisiertes rohes Eigelb verwenden.",
-        "step_6": "Fügen Sie Ingwer, Zwiebel und Nori in kleinen Mengen getrennt, so kann jeder Bissen nach Belieben eingestellt werden.",
+        "step_6": "Fügen Sie Ingwer, Frühlingszwiebel und Nori in kleinen Mengen getrennt, so kann jeder Bissen nach Belieben eingestellt werden.",
         "step_7": "Gießen Sie die Soja-Sauce nur kurz vor dem Essen ein und mischen Sie den Eigelb teilweise mit Reis und Shirasu, wobei verschiedene Bestände in der Schüssel zu halten sind."
       }
     },
@@ -347,7 +347,7 @@
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
-          "name": "cebolinho",
+          "name": "cebola de rama",
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
@@ -358,10 +358,10 @@
       "steps": {
         "step_1": "Prepare o arroz japonês e sirva- o quente, depois deixe- o descansar um minuto na tigela para dispersar o vapor mais intenso.",
         "step_2": "Esgote bem o shirasu e verifique que não há excesso de líquido; se estiverem muito salgados, experimente- os antes de adicionar mais molho de soja.",
-        "step_3": "Prepare as guarnições: rale o gengibre, corte finamente o cebolinho e o nori em tiras.",
+        "step_3": "Prepare as guarnições: rale o gengibre, corte finamente o cebola de rama e o nori em tiras.",
         "step_4": "Distribua os pequenos peixes shirasu cozidos sobre o arroz, sem os esmagar.",
         "step_5": "Faça uma pequena cavidade ao centro e coloque delicadamente uma gema pasteurizada própria para consumo sem cozedura. Não utilize gema crua não pasteurizada.",
-        "step_6": "Adicione gengibre, cebola e nori em pequenas quantidades separadas, para que cada mordida possa ser ajustada conforme desejado.",
+        "step_6": "Adicione gengibre, cebola de rama e nori em pequenas quantidades separadas, para que cada mordida possa ser ajustada conforme desejado.",
         "step_7": "Verter o molho de soja fluído pouco antes de comer e misturar parcialmente a gema com arroz e shirasu, mantendo diferentes texturas na tigela."
       }
     }

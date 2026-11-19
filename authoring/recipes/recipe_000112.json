@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000112",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Naruto",
   "animeReferences": [
@@ -118,7 +118,7 @@
           "note": null
         },
         "finitura_cipollotto_fresco_affettato_5": {
-          "name": "fresh sliced onion",
+          "name": "fresh spring onion, sliced",
           "note": null
         },
         "finitura_maionese_giapponese_kewpie_6": {
@@ -132,7 +132,7 @@
         "step_3": "Distribute the very hot rice into the bowls and season with some of the lard sauce.",
         "step_4": "Place the chashu over the rice without crowding it, so that every bite receives meat and sauce.",
         "step_5": "Cut the jitama in half and add it to the bowl.",
-        "step_6": "Complete with sliced onion and, if expected, a small amount of mayonnaise Kewpie.",
+        "step_6": "Complete with sliced spring onion and, if expected, a small amount of mayonnaise Kewpie.",
         "step_7": "Serve immediately before the chashu's fat cools and repents."
       }
     },
@@ -198,7 +198,7 @@
           "note": null
         },
         "finitura_cipollotto_fresco_affettato_5": {
-          "name": "cipollotto fresco cortado",
+          "name": "cebolleta fresca en rodajas",
           "note": null
         },
         "finitura_maionese_giapponese_kewpie_6": {
@@ -212,7 +212,7 @@
         "step_3": "Distribuir el arroz muy caliente en los cuencos y condimentarlo con parte de la salsa de soldadura.",
         "step_4": "Pon el chashu sobre el arroz sin amontonarlo, para que cada bocado reciba carne y salsa.",
         "step_5": "Corta el jeitama por la mitad y añádelo al tazón.",
-        "step_6": "Completa con cebolla cortada y, si se espera, una pequeña cantidad de mayonesa Kewpie.",
+        "step_6": "Completa con cebolleta cortada y, si se espera, una pequeña cantidad de mayonesa Kewpie.",
         "step_7": "Sirve inmediatamente, antes de que la grasa del chashu se enfríe y se solidifique."
       }
     },
@@ -238,7 +238,7 @@
           "note": null
         },
         "finitura_cipollotto_fresco_affettato_5": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         },
         "finitura_maionese_giapponese_kewpie_6": {
@@ -252,7 +252,7 @@
         "step_3": "Distribuez le riz très chaud dans les bols et assaisonnez-le avec une partie de la sauce de brassage.",
         "step_4": "Disposez le chashu sur le riz sans le taper, de sorte que chaque bouchée reçoive de la viande et de la sauce.",
         "step_5": "Coupez l'ajitama en deux et ajoutez-le au bol.",
-        "step_6": "Complétez avec l'oignon coupé et, le cas échéant, une petite quantité de mayonnaise Kewpie.",
+        "step_6": "Complétez avec la cébette coupé et, le cas échéant, une petite quantité de mayonnaise Kewpie.",
         "step_7": "Servez-vous immédiatement avant que la graisse du chashu ne refroidisse et ne se représente."
       }
     },
@@ -278,7 +278,7 @@
           "note": null
         },
         "finitura_cipollotto_fresco_affettato_5": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "finitura_maionese_giapponese_kewpie_6": {
@@ -292,7 +292,7 @@
         "step_3": "Geben Sie den sehr warmen Reis in die Schüssel und würzen Sie ihn mit einem Teil der Soße.",
         "step_4": "Legen Sie das Chashu über den Reis, ohne ihn zu stopfen, so dass jeder Bissen Fleisch und Sauce erhält.",
         "step_5": "Schneide die Hälfte des Ajitama aus und füge sie der Schüssel hinzu.",
-        "step_6": "Komplett mit geschnittener Zwiebel und, falls geplant, eine kleine Menge Mayonnaise Kewpie.",
+        "step_6": "Komplett mit geschnittener Frühlingszwiebel und, falls geplant, eine kleine Menge Mayonnaise Kewpie.",
         "step_7": "Servieren Sie sofort, bevor das Fett des Chashu erkältet und repräsentiert wird."
       }
     },
@@ -318,7 +318,7 @@
           "note": null
         },
         "finitura_cipollotto_fresco_affettato_5": {
-          "name": "cebola fresca cortada",
+          "name": "cebola de rama fresca às rodelas",
           "note": null
         },
         "finitura_maionese_giapponese_kewpie_6": {
@@ -332,7 +332,7 @@
         "step_3": "Distribua o arroz muito quente nas tigelas e sazona com um pouco do molho de manteiga.",
         "step_4": "Coloque o chashu sobre o arroz sem o aglomerar, de modo que cada mordida receba carne e molho.",
         "step_5": "Cortar o jitama ao meio e adicioná- lo à tigela.",
-        "step_6": "Completar com cebola cortada e, se esperado, uma pequena quantidade de maionese Kewpie.",
+        "step_6": "Completar com cebola de rama cortada e, se esperado, uma pequena quantidade de maionese Kewpie.",
         "step_7": "Servir imediatamente antes da gordura do chashu se arrepender e arrepender."
       }
     }
