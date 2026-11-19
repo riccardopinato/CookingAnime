@@ -7683,7 +7683,7 @@
     },
     "recipe_000153": {
       "title": "Tori tsukune — almôndegas de frango grelhadas com molho tare e gema",
-      "description": "Os Tori Tsukune são broches de frango moldados com cebola e gengibre, moldados e grelhados antes de serem vitrificados com molho. A receita propõe uma gema para mergulhar: este modo de serviço requer uma verificação especial de segurança alimentar e um ingrediente adequado. O esmalte rasgado envolve as almôndegas de carne de frango cozidas; a gema eventual do mergulho requer aptidão verificada para o consumo sem cozimento.",
+      "description": "Os tori tsukune são almôndegas alongadas de frango picado com cebola de rama e gengibre, moldadas em espetos, cozinhadas na frigideira e glaceadas com molho tare de soja, mirin, saqué e açúcar. Cozinhe o frango até atingir pelo menos 74 °C no centro. Para acompanhar como molho, use apenas gema pasteurizada adequada ao consumo sem cozedura, nunca gema crua não pasteurizada.",
       "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Midnight Diner. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "macinato_di_pollo": {
@@ -7691,7 +7691,7 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Cebolas finamente picadas",
+          "name": "cebolas de rama picadas finamente",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {

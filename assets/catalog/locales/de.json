@@ -7683,7 +7683,7 @@
     },
     "recipe_000153": {
       "title": "Tori Tsukune – gegrillte Hähnchenbällchen mit Tare und Eigelb",
-      "description": "Die Tsukune Tori sind gemahlene Hähnchenspieße mit Zwiebeln und Ingwer, geformt und gegrillt, bevor sie mit Sauce veredelt werden. Das Rezept bietet einen Eigelb zum Eintauchen: Dieser Service-Modus erfordert eine spezielle Überprüfung der Lebensmittelsicherheit und eine geeignete Zutat. Die Glasur umwickelt gekochte Hähnchenbällchen; eine mögliche Intillo-Eisel erfordert eine geprüfte Eignung für den Verzehr ohne Kochen.",
+      "description": "Tori Tsukune sind längliche Spieße aus Hähnchenhackfleisch mit Frühlingszwiebeln und Ingwer, die in der Pfanne gegart und mit Tare aus Sojasauce, Mirin, Sake und Zucker glasiert werden. Das Hähnchenfleisch muss im Kern mindestens 74 °C erreichen. Als Dip nur pasteurisiertes, ausdrücklich zum Verzehr ohne Erhitzen geeignetes Eigelb verwenden; niemals rohes, unpasteurisiertes Eigelb servieren.",
       "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Midnight Diner inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "macinato_di_pollo": {
@@ -7691,7 +7691,7 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Zwiebeln, fein gemahlen",
+          "name": "Frühlingszwiebeln, fein gehackt",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {

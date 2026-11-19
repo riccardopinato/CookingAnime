@@ -7683,7 +7683,7 @@
     },
     "recipe_000153": {
       "title": "Tori Tsukune — grilled chicken meatballs with tare and egg yolk",
-      "description": "The Tori Tsukune are ground chicken skewers with onion and ginger, molded and grilled before being glazed with sauce. The recipe proposes a yolk for dip: this mode of service requires a special food safety check and a suitable ingredient. The tore glaze wraps the cooked chicken meatballs; the eventual yolk from dip requires verified fitness for consumption without cooking.",
+      "description": "Tori tsukune are skewered ground-chicken meatballs seasoned with spring onions and ginger, pan-grilled and glazed with tare made from soy sauce, mirin, sake and sugar. Cook the chicken to at least 74°C (165°F) at the centre. If serving an egg-yolk dip, use only pasteurized yolk suitable for consumption without cooking; never serve raw unpasteurized yolk.",
       "animeContext": "This recipe is thematically inspired by Food Wars!, Midnight Diner. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "macinato_di_pollo": {
@@ -7691,7 +7691,7 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "finely chopped onions",
+          "name": "finely chopped spring onions",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {

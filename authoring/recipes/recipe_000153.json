@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000153",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -119,7 +119,7 @@
   "locales": {
     "en": {
       "title": "Tori Tsukune — grilled chicken meatballs with tare and egg yolk",
-      "description": "The Tori Tsukune are ground chicken skewers with onion and ginger, molded and grilled before being glazed with sauce. The recipe proposes a yolk for dip: this mode of service requires a special food safety check and a suitable ingredient. The tore glaze wraps the cooked chicken meatballs; the eventual yolk from dip requires verified fitness for consumption without cooking.",
+      "description": "Tori tsukune are skewered ground-chicken meatballs seasoned with spring onions and ginger, pan-grilled and glazed with tare made from soy sauce, mirin, sake and sugar. Cook the chicken to at least 74°C (165°F) at the centre. If serving an egg-yolk dip, use only pasteurized yolk suitable for consumption without cooking; never serve raw unpasteurized yolk.",
       "animeContext": "This recipe is thematically inspired by Food Wars!, Midnight Diner. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "macinato_di_pollo": {
@@ -127,7 +127,7 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "finely chopped onions",
+          "name": "finely chopped spring onions",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
@@ -178,7 +178,7 @@
     },
     "it": {
       "title": "Tori Tsukune (Polpette di Pollo alla Piastra con Salsa Tare e Tuorlo)",
-      "description": "I Tori Tsukune sono spiedini di pollo macinato con cipollotto e zenzero, modellati e grigliati prima di essere glassati con salsa tare. La ricetta propone un tuorlo per intingere: questa modalità di servizio richiede un’apposita verifica di sicurezza alimentare e un ingrediente idoneo. La glassa tare avvolge le polpette di pollo cotte; l'eventuale tuorlo da intingolo richiede idoneità verificata al consumo senza cottura.",
+      "description": "I tori tsukune sono polpette allungate di pollo macinato con cipollotto e zenzero, modellate sugli spiedini e cotte in padella, poi glassate con salsa tare a base di soia, mirin, sake e zucchero. Cuoci il pollo fino ad almeno 74 °C al cuore. Per intingere, servi a parte solo tuorlo pastorizzato idoneo al consumo senza cottura, mai tuorlo crudo non pastorizzato.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Midnight Diner. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "macinato_di_pollo": {
@@ -237,7 +237,7 @@
     },
     "es": {
       "title": "Tori tsukune — albóndigas de pollo a la plancha con salsa tare y yema",
-      "description": "Los Tori Tsukune son pinchos de pollo molidos con cebolla y jengibre, moldeados y asados antes de ser glaseados con salsa tar. La receta propone una yema para mojar: este modo de servicio requiere una verificación de seguridad alimentaria y un ingrediente adecuado. El glaseado envuelve las albóndigas de pollo cocidas; la posible yema de intingol requiere aptitud comprobada para el consumo sin cocinar.",
+      "description": "Los tori tsukune son albóndigas alargadas de pollo picado con cebolleta y jengibre, moldeadas en brochetas, cocinadas a la plancha y glaseadas con salsa tare de soja, mirin, sake y azúcar. Cocina el pollo hasta alcanzar al menos 74 °C en el centro. Si sirves una yema para mojar, utiliza únicamente yema pasteurizada apta para consumo sin cocción; nunca yema cruda sin pasteurizar.",
       "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Midnight Diner. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "macinato_di_pollo": {
@@ -296,7 +296,7 @@
     },
     "fr": {
       "title": "Tori tsukune — boulettes de poulet grillées, sauce tare et jaune d’œuf",
-      "description": "Les Tori Tsukune sont des brochettes de poulet moulues avec un oignon et du gingembre, façonnées et grillées avant d'être glaciées avec de la sauce. La recette propose un jaune d'œuf pour tremper: ce mode de service nécessite un contrôle de sécurité alimentaire et un ingrédient approprié. Le glaçage enroule les boulettes de poulet cuites; le jaune d'oeuf éventuel nécessite une aptitude vérifiée à la consommation sans cuisson.",
+      "description": "Les tori tsukune sont des boulettes allongées de poulet haché, cébettes et gingembre, façonnées sur des brochettes, cuites à la poêle puis laquées avec une sauce tare à base de soja, mirin, saké et sucre. Faites cuire le poulet à au moins 74 °C à cœur. Si vous proposez un jaune d'œuf en sauce, utilisez uniquement un jaune pasteurisé adapté à la consommation sans cuisson, jamais un jaune cru non pasteurisé.",
       "animeContext": "Cette recette s'inspire librement de Food Wars!, Midnight Diner. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "macinato_di_pollo": {
@@ -304,7 +304,7 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "oignons hachés finement",
+          "name": "cébettes finement émincées",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
@@ -355,7 +355,7 @@
     },
     "de": {
       "title": "Tori Tsukune – gegrillte Hähnchenbällchen mit Tare und Eigelb",
-      "description": "Die Tsukune Tori sind gemahlene Hähnchenspieße mit Zwiebeln und Ingwer, geformt und gegrillt, bevor sie mit Sauce veredelt werden. Das Rezept bietet einen Eigelb zum Eintauchen: Dieser Service-Modus erfordert eine spezielle Überprüfung der Lebensmittelsicherheit und eine geeignete Zutat. Die Glasur umwickelt gekochte Hähnchenbällchen; eine mögliche Intillo-Eisel erfordert eine geprüfte Eignung für den Verzehr ohne Kochen.",
+      "description": "Tori Tsukune sind längliche Spieße aus Hähnchenhackfleisch mit Frühlingszwiebeln und Ingwer, die in der Pfanne gegart und mit Tare aus Sojasauce, Mirin, Sake und Zucker glasiert werden. Das Hähnchenfleisch muss im Kern mindestens 74 °C erreichen. Als Dip nur pasteurisiertes, ausdrücklich zum Verzehr ohne Erhitzen geeignetes Eigelb verwenden; niemals rohes, unpasteurisiertes Eigelb servieren.",
       "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Midnight Diner inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "macinato_di_pollo": {
@@ -363,7 +363,7 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Zwiebeln, fein gemahlen",
+          "name": "Frühlingszwiebeln, fein gehackt",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
@@ -414,7 +414,7 @@
     },
     "pt": {
       "title": "Tori tsukune — almôndegas de frango grelhadas com molho tare e gema",
-      "description": "Os Tori Tsukune são broches de frango moldados com cebola e gengibre, moldados e grelhados antes de serem vitrificados com molho. A receita propõe uma gema para mergulhar: este modo de serviço requer uma verificação especial de segurança alimentar e um ingrediente adequado. O esmalte rasgado envolve as almôndegas de carne de frango cozidas; a gema eventual do mergulho requer aptidão verificada para o consumo sem cozimento.",
+      "description": "Os tori tsukune são almôndegas alongadas de frango picado com cebola de rama e gengibre, moldadas em espetos, cozinhadas na frigideira e glaceadas com molho tare de soja, mirin, saqué e açúcar. Cozinhe o frango até atingir pelo menos 74 °C no centro. Para acompanhar como molho, use apenas gema pasteurizada adequada ao consumo sem cozedura, nunca gema crua não pasteurizada.",
       "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Midnight Diner. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "macinato_di_pollo": {
@@ -422,7 +422,7 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Cebolas finamente picadas",
+          "name": "cebolas de rama picadas finamente",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
