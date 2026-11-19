@@ -2820,7 +2820,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "uovo_fresche": {
@@ -2840,7 +2840,7 @@
         "step_5": "Hähnchenstücke bei mittlerer Hitze garen; 5–7 Minuten sind nur ein Richtwert. Mit einem Thermometer sicherstellen, dass die Kerntemperatur mindestens 74 °C erreicht; andernfalls weitergaren.",
         "step_6": "Kombinieren Sie die Udon Nudeln direkt in der heißen Eintopfbrühe und lassen Sie für weitere 4-5 Minuten kochen, damit sie die Aromen des Miso absorbieren.",
         "step_7": "Für cremiges Eigelb nur pasteurisierte Eier verwenden. Je ein Ei in die Mitte der Portion geben, den Herd ausschalten und etwa 2 Minuten abdecken, bis das Eiweiß gestockt ist. Nicht pasteurisierte Eier vollständig durchgaren.",
-        "step_8": "Grillen Sie mit frischer Zwiebel und bringen Sie auf den Tisch heiß direkt aus dem Topf."
+        "step_8": "Grillen Sie mit frischer Frühlingszwiebel und bringen Sie auf den Tisch heiß direkt aus dem Topf."
       }
     },
     "recipe_000056": {
@@ -3151,7 +3151,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "alga_nori": {
@@ -3169,7 +3169,7 @@
         "step_7": "Kochen Sie in kochendem Wasser die frischen Nudeln in reichlich heißem, ungesalzenem Wasser nach den Anweisungen der Packung (ca. 2-3 Minuten), dann spülen Sie sie gründlich.",
         "step_8": "Basierend auf jeder großen Schüssel fügen Sie die kochende Brühe mit Miso und Fleisch.",
         "step_9": "Kombinieren Sie die Noodles, indem Sie sie in der Mitte zaubern.",
-        "step_10": "Planen Sie auf einer Seite die Sojasprossen, den süßen Mais, ein halbes, mariniertes Ei, eine Nuss aus frischer Almbutter in der Mitte (typisch für die Tradition von Sapporo), einen Zwiebelstaub und ein Blatt Nori-Alge am Rand der Schüssel.",
+        "step_10": "Planen Sie auf einer Seite die Sojasprossen, den süßen Mais, ein halbes, mariniertes Ei, eine Nuss aus frischer Almbutter in der Mitte (typisch für die Tradition von Sapporo), einen fein geschnittene Frühlingszwiebeln und ein Blatt Nori-Alge am Rand der Schüssel.",
         "step_11": "Bringt sofort heiß auf den Tisch!"
       }
     },
@@ -3253,7 +3253,7 @@
           "note": null
         },
         "cipollotto_freschi_affettati_finemente": {
-          "name": "Zwiebeln, frisch, fein geschnitten",
+          "name": "frische Frühlingszwiebeln, fein geschnitten",
           "note": null
         },
         "olio_di_sesamo": {
@@ -3296,12 +3296,12 @@
       "stepTexts": {
         "step_1": "In einem Topf mischen Sie Hühnerbrühe, Sojasoße, Zucker, Reisessig und Austersoße.",
         "step_2": "Bringt bei mittlerer Hitze leicht kochen, dann fügen Sie die geschmolzene Maisstärke durch ständiges Mischen hinzu, bis eine glänzende, verdichtete und samtige Soße erhalten ist, und halten Sie warm.",
-        "step_3": "In einer Schüssel arbeitet er leicht die 4 Eier mit einer Prise Salz, Pfeffer, Sesamöl, gestreiftem Krabbenfleisch und der Hälfte der Zwiebeln.",
+        "step_3": "In einer Schüssel arbeitet er leicht die 4 Eier mit einer Prise Salz, Pfeffer, Sesamöl, gestreiftem Krabbenfleisch und der Hälfte der Frühlingszwiebeln.",
         "step_4": "Erhitzen Sie einen reichlichen Ölfaden in einer Pfanne, die bei lebendigem Feuer brennt.",
         "step_5": "Fügen Sie die Hälfte der Eiermischung für jede Portion hinzu.",
         "step_6": "Fahren Sie mit dem Kochen für 1 Minute, indem Sie die Pfanne bewegen, so dass die Basis repräsentiert, aber die Oberseite bleibt unglaublich cremig und weich.",
         "step_7": "Legen Sie das goldene Omelette über einen Berg warmen Reis in der Mitte eines Bodentellers.",
-        "step_8": "Nappa reichlich das Omelette mit der süßen, süßen Ankake-Sauce und garnissi mit den restlichen Zwiebeln."
+        "step_8": "Nappa reichlich das Omelette mit der süßen, süßen Ankake-Sauce und garnissi mit den restlichen Frühlingszwiebeln."
       }
     },
     "recipe_000064": {
@@ -3456,7 +3456,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Zwiebeln, geschnitten",
+          "name": "Frühlingszwiebeln, in Ringe geschnitten",
           "note": null
         },
         "pasta_di_miso": {
@@ -3493,7 +3493,7 @@
         "step_6": "Fügen Sie die Hühnerbrühe hinzu und kreuzen Sie wieder an.",
         "step_7": "Kombinieren Sie die goldenen Auberginen in der Pfanne, mischen Sie sie sanft, um die Aromen für 2 Minuten zu absorbieren.",
         "step_8": "Dann fügen Sie geschmolzene Maisstärke mit Faden hinzu, bis Sie eine dicke, wickelnde Soße erhalten.",
-        "step_9": "Staub mit frischen Zwiebeln und bringt auf den Tisch auf eine Schüssel mit heißem Reis."
+        "step_9": "Staub mit frischen Frühlingszwiebeln und bringt auf den Tisch auf eine Schüssel mit heißem Reis."
       }
     },
     "recipe_000067": {
@@ -3758,7 +3758,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Frühlingszwiebeln, frisch gehackt",
+          "name": "frische Frühlingszwiebel, gehackt",
           "note": null
         }
       },
@@ -3772,7 +3772,7 @@
         "step_7": "Legen Sie die Hühnerbrühe in einen Topf, erwärmen Sie die Hühnerbrühe zusammen mit Sojamilch, ohne es stark kochen zu lassen, um zu verhindern, dass die Milch fällt.",
         "step_8": "Die heiße Brühe in die Schüsseln geben und die Sesampaste am Boden mit einem Schneebesen gründlich darin auflösen.",
         "step_9": "Die Ramen-Nudeln 2 Minuten in kochendem Wasser garen, gründlich abgießen und in die Brühe geben.",
-        "step_10": "Grillen Sie in die Mitte mit einem großzügigen Esslöffel würziges Fleisch, Bok-choy-Blatt und einem frisch gehackten Zwiebelstaub."
+        "step_10": "Grillen Sie in die Mitte mit einem großzügigen Esslöffel würziges Fleisch, Bok-choy-Blatt und einem frisch gehackten fein geschnittene Frühlingszwiebeln."
       }
     },
     "recipe_000072": {
@@ -3860,7 +3860,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "Zwiebel (nur grün)",
+          "name": "Frühlingszwiebel (nur der grüne Teil)",
           "note": null
         },
         "sake": {
@@ -3990,7 +3990,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         }
       },
@@ -4003,7 +4003,7 @@
         "step_6": "Den Herd ausschalten, die zerbröselten Curry-Roux-Würfel zugeben und mit dem Schneebesen rühren, bis sie sich vollständig aufgelöst haben und eine dicke, samtige Brühe entstanden ist.",
         "step_7": "Die Udon-Nudeln 2 Minuten in kochendem Wasser garen, abgießen und auf zwei große Schüsseln verteilen.",
         "step_8": "Die heiße, dickflüssige Currybrühe über die Udon-Nudeln gießen.",
-        "step_9": "Adoptieren Sie die knusprige Tonkatsu-Schokolade auf der Oberfläche und garnistieren Sie mit reichlich frischen Zwiebeln."
+        "step_9": "Adoptieren Sie die knusprige Tonkatsu-Schokolade auf der Oberfläche und garnistieren Sie mit reichlich frischen Frühlingszwiebeln."
       }
     },
     "recipe_000076": {
@@ -4048,7 +4048,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "gehackte Zwiebel",
+          "name": "gehackte Frühlingszwiebel",
           "note": null
         },
         "katsuobushi": {
@@ -4065,7 +4065,7 @@
         "step_6": "Braten Sie in heißem Öl bei 180°C für 3-4 Minuten, bis das äußere Crosticin weiß und knusprig wird.",
         "step_7": "Machen Sie die Würfel warm gebratenen Tofu in einzelnen Schüsseln.",
         "step_8": "Fügen Sie die warme Brühe vorsichtig um den Tofu hinzu (ohne sie vollständig zu bedecken, um die Kruste nicht zu erweichen).",
-        "step_9": "Bewahren Sie die Spitze jedes Würfels mit einer geriebenen Daikon-Flocke, einer Prise Ingwer, Zwiebeln und Katsuobushi-Flocken."
+        "step_9": "Bewahren Sie die Spitze jedes Würfels mit einer geriebenen Daikon-Flocke, einer Prise Ingwer, Frühlingszwiebeln und Katsuobushi-Flocken."
       }
     },
     "recipe_000077": {
@@ -4143,7 +4143,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "gehackte Zwiebel",
+          "name": "gehackte Frühlingszwiebel",
           "note": null
         },
         "ketchup": {
@@ -4180,7 +4180,7 @@
         "step_6": "In demselben Wok mischst du einen Ölfaden, brennst Knoblauch, Ingwer und würzige Doubanjiang-Paste nieder, bis sie ihre Aromen freisetzen.",
         "step_7": "Fügen Sie Ketchup, Hühnerbrühe, Sojasoße und Zucker hinzu.",
         "step_8": "Bringt sie zum Blenden, dann mischen Sie die gelöste Stärke in einen Löffel Wasser, um die Soße zu verdichten.",
-        "step_9": "Legen Sie die Garnelen in die Pfanne zusammen mit der gehackten Zwiebel, springt für 1 Minute, um sie vollständig in die glänzende und würzige Soße einwickeln.",
+        "step_9": "Legen Sie die Garnelen in die Pfanne zusammen mit der gehackten Frühlingszwiebel, springt für 1 Minute, um sie vollständig in die glänzende und würzige Soße einwickeln.",
         "step_10": "Servieren Sie sofort mit weißem Reis."
       }
     },
@@ -4394,7 +4394,7 @@
         "step_1": "In einen Topf, Nabe (oder großen Topf) legen Sie Wasser, die Kombu-Alge und die Hähnchenstücke mit dem Knochen.",
         "step_2": "Es führt zum langsamen Siede bis zum mittleren Feuer, indem der Schaum ständig mit einem Schaumstoff entfernt wird, um eine klare und reiche Brühe zu erhalten.",
         "step_3": "Nach 20 Minuten entfernen Sie die Kombu Alge, fügen Sie den Sake hinzu und backen das Huhn noch 15 Minuten, bis das Fleisch zart und die weiße Brühe opaleszent wird.",
-        "step_4": "Verbinden Sie den in Stücke geschnittenen Chinakohl, die mit Stern gravierten Shiitake-Pilz, die Zwiebeln und den Kubiktofu.",
+        "step_4": "Verbinden Sie den in Stücke geschnittenen Chinakohl, die mit Stern gravierten Shiitake-Pilz, die Frühlingszwiebeln und den Kubiktofu.",
         "step_5": "Kochen Sie für 8-10 Minuten, bis das Gemüse hält.",
         "step_6": "Leg den Topf in die Mitte des Tisches.",
         "step_7": "Jedes Mitglied nimmt Stücke von Huhn und Gemüse in die frische Ponzu-Soße eintauchend."
@@ -4402,15 +4402,15 @@
     },
     "recipe_000083": {
       "title": "Tsukemen – Ramen-Nudeln zum Dippen in kräftiger Brühe",
-      "description": "Im Tsukemen werden die Nudeln von einer konzentrierten Brühe aus Fleisch, Dashi und Würzmitteln abgekocht und serviert. Jeder Nudelbissen wird in heißer Soße getrunken; Chashu und mariniertes Ei ergänzen den Service, ohne die Konsistenz der Nudeln zu verlieren. Die konzentrierte Brühe wurde in einer separaten Schüssel kochend serviert, während die Nudeln bis zum Eintauchen kalt bleiben.",
+      "description": "Tsukemen sind dicke japanische Nudeln, die gekocht, kalt abgespült und getrennt von einer konzentrierten Schweine- und Hühnerbrühe mit Sojasauce, Mirin, Reisessig, Chiliöl und Katsuobushi serviert werden. Schweine-Chashu, ein mariniertes Ei und Nori ergänzen die Nudeln. Tauche jede Portion erst unmittelbar vor dem Essen in die sehr heiße Brühe, statt alle Nudeln auf einmal einzuweichen.",
       "animeContext": "Dieses Rezept ist thematisch von Ramen Daisuki Koizumi-san, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "spessi_noodles_per_tsukemen_o_ramen": {
-          "name": "dicken Nudeln für Tsukemen oder Ramen",
+          "name": "dicke Nudeln für Tsukemen oder Ramen",
           "note": null
         },
         "fettine_di_carne_chashu_di_maiale": {
-          "name": "Schweineschnecken-Chashu",
+          "name": "Schweine-Chashu in Scheiben",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
@@ -4418,11 +4418,11 @@
           "note": null
         },
         "brodo_di_maiale_pollo_concentrato": {
-          "name": "Schweinebrühe/Konzentrat",
+          "name": "konzentrierte Schweine- und Hühnerbrühe",
           "note": null
         },
         "polvere_di_pesce": {
-          "name": "Fischpulver (arme Katsuobushi)",
+          "name": "Katsuobushi-Pulver (getrockneter Bonito, gemahlen)",
           "note": null
         },
         "salsa_di_soia": {
@@ -4450,18 +4450,18 @@
           "note": null
         },
         "cipollotto": {
-          "name": "Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "In einem Topf, reduzieren Sie die Brühe von Schwein und Hühnchen, so dass es weich wird, bis es sehr dick und lecker.",
-        "step_2": "Kombinieren Sie Sojasoße, Mirin, Reisessig, würziges Öl und Fischpulver Katsuobushi, um einen intensiven Umamischub zu geben.",
-        "step_3": "Kochen Sie die dicken Nudeln in reichlich kochendem Wasser für die auf der Verpackung angegebene Zeit (in der Regel 5-6 Minuten).",
-        "step_4": "Schütten Sie die Nudeln und spülen Sie sie sofort unter kaltem fließendem Wasser und Eis mit Ihren Händen, um die Oberflächenstärke zu entfernen und sie extrem elastisch und hart zu machen, schütten Sie sie sehr gut.",
-        "step_5": "Machen Sie kalte Nudeln auf einem Teller oder Bambuskorb mit über dem Chashu, dem halbmarinierten Ei und dem Nori Blatt.",
-        "step_6": "Fügen Sie die kochende Brühe hinzu und konzentrieren Sie sich auf eine separate Schüssel.",
-        "step_7": "Nehmen Sie eine kalte Nudelsträhne mit den Stäben, tauchen Sie sie in die kochende Brühe konzentriert und genießen Sie sie sofort."
+        "step_1": "Die Schweine- und Hühnerbrühe in einem kleinen Topf bei schwacher Hitze einkochen lassen, bis sie kräftig und konzentriert ist.",
+        "step_2": "Sojasauce, Mirin, Reisessig, Chiliöl und Katsuobushi-Pulver einrühren, sodass eine umamireiche Brühe zum Eintauchen entsteht.",
+        "step_3": "Die dicken Nudeln in reichlich kochendem Wasser nach Packungsangabe garen (gewöhnlich 5–6 Minuten).",
+        "step_4": "Die Nudeln sofort abgießen und unter sehr kaltem fließendem Wasser, möglichst mit Eis, abspülen, um überschüssige Stärke zu entfernen. Die Stränge behutsam lösen und gründlich abtropfen lassen, damit sie bissfest und elastisch bleiben.",
+        "step_5": "Die kalten Nudeln auf einem Teller oder Bambustablett anrichten. Mit Schweine-Chashu, einem halbierten marinierten Ei und Nori servieren.",
+        "step_6": "Die sehr heiße konzentrierte Brühe in eine separate kleine Schüssel füllen.",
+        "step_7": "Mit Stäbchen eine kleine Portion kalter Nudeln aufnehmen, kurz in die heiße Brühe tauchen und sofort essen."
       }
     },
     "recipe_000084": {
@@ -4797,7 +4797,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "alga_nori": {
@@ -4808,11 +4808,11 @@
       "stepTexts": {
         "step_1": "Bereiten Sie den Sarg vor: In einem Topf erwärmt Soja-Sauce, Mirin, Ingwer und Knoblauch für 3 Minuten bei niedrigem Feuer, dann filtern.",
         "step_2": "Die Hühner- oder Dashi-Brühe bis zum leichten Köcheln erhitzen und warm halten, ohne sie zu stark einreduzieren zu lassen.",
-        "step_3": "Bereiten Sie die Toppings vor den Nudeln vor: hacken Sie das Chashu, schneiden Sie in die Hälfte l snajaitama, schneiden Sie die Zwiebel und portionieren narutomaki und nori.",
+        "step_3": "Bereiten Sie die Toppings vor den Nudeln vor: hacken Sie das Chashu, schneiden Sie in die Hälfte l snajaitama, schneiden Sie die Frühlingszwiebel und portionieren narutomaki und nori.",
         "step_4": "Das Tare auf dem Boden von zwei vorgewärmten Ramen-Schalen verteilen. Die kochend heiße Brühe zugeben und verrühren, damit sich die Würze gleichmäßig verteilt.",
         "step_5": "Kochen Sie frische Nudeln in reichlich kochendem Wasser für ca. 2 Minuten oder für die vom Hersteller angegebene Zeit; spülen Sie sie sorgfältig, ohne sie zu spülen.",
         "step_6": "Bring die Nudeln sofort in die Brühe und trenne sie mit den Stäben, damit sie sich nicht verstauen.",
-        "step_7": "Komplett mit Chashu, Halb Ajitama, Narutomaki, Zwiebeln und Nori; Servieren sofort, während Nudeln und Brühe sind immer noch sehr heiß."
+        "step_7": "Komplett mit Chashu, Halb Ajitama, Narutomaki, Frühlingszwiebeln und Nori; Servieren sofort, während Nudeln und Brühe sind immer noch sehr heiß."
       }
     },
     "recipe_000091": {
@@ -4885,7 +4885,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Zwiebeln, geschnitten",
+          "name": "Frühlingszwiebeln, in Ringe geschnitten",
           "note": null
         },
         "salsa_di_soia": {
@@ -4907,10 +4907,10 @@
       },
       "stepTexts": {
         "step_1": "Wasche die Sojasprossen in kaltem Wasser, streue sie sehr gut und trockne sie ab: sie müssen in die Pfanne fast trocken gehen, um knusprig zu bleiben.",
-        "step_2": "Schneide Speck, Karotte und Zwiebel in dünne Stücke und backe Sojasoße, Dashi-Granulat, Pfeffer und Sesamöl neben dem Wok.",
+        "step_2": "Schneide Speck, Karotte und Frühlingszwiebel in dünne Stücke und backe Sojasoße, Dashi-Granulat, Pfeffer und Sesamöl neben dem Wok.",
         "step_3": "Erhitzt den Wok mit hohem Fokus und rostet den Speck ohne andere Fette, bis er einen Teil seines Fetts freisetzt und Farbe annimmt.",
         "step_4": "Fügen Sie die Karotte hinzu und springen Sie für ca. 1 Minute, halten Sie das Feuer hoch.",
-        "step_5": "Kombinieren Sie Knospen und Zwiebeln und springen Sie kräftig für ungefähr 2 Minuten: die Knospen müssen gerade erweichen, aber beißen.",
+        "step_5": "Kombinieren Sie Knospen und Frühlingszwiebeln und springen Sie kräftig für ungefähr 2 Minuten: die Knospen müssen gerade erweichen, aber beißen.",
         "step_6": "Würze mit Sojasoße und Dashi, mische für ein paar Sekunden und schalte aus, bevor Wasser auf dem Boden entsteht.",
         "step_7": "Komplett mit schwarzem Pfeffer und Sesamöl und sofort servieren."
       }
@@ -5213,7 +5213,7 @@
           "note": null
         },
         "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu_2_cipollotto_tritato_per_guar": {
-          "name": "gehackte Zwiebel zum Garnieren",
+          "name": "gehackte Frühlingszwiebel zum Garnieren",
           "note": null
         }
       },
@@ -5223,7 +5223,7 @@
         "step_3": "Entfernen Sie überschüssiges Fett aus der Pfanne mit Küchenpapier.",
         "step_4": "Mischen Sie die Zutaten der Teriyaki-Sauce und fügen Sie sie in die Pfanne mit dem Huhn.",
         "step_5": "Machen Sie die Soße, bis sie glänzend und glasiert wird und das Huhn ständig nackt wird.",
-        "step_6": "Schneide das Huhn in Streifen, lege es auf den heißen Reis, füge die karamellierte Soße hinzu und fülle sie mit Sesam und Zwiebel."
+        "step_6": "Schneide das Huhn in Streifen, lege es auf den heißen Reis, füge die karamellierte Soße hinzu und fülle sie mit Sesam und Frühlingszwiebel."
       }
     },
     "recipe_000099": {
@@ -5292,7 +5292,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Frühlingszwiebeln, frisch gehackt",
+          "name": "frische Frühlingszwiebel, gehackt",
           "note": null
         }
       },
@@ -5303,7 +5303,7 @@
         "step_4": "Schalten Sie das Feuer aus, fügen Sie den Curryroux kurz nach und nach ein, bis er vollständig aufgelöst ist, dann zünden Sie es mit niedrigem Feuer wieder an.",
         "step_5": "Weitere 5 Minuten unter Rühren garen: Die Brühe soll den Löffel leicht überziehen, aber flüssig genug bleiben, um die Udon-Nudeln zu umhüllen.",
         "step_6": "Die Udon-Nudeln im separaten Wasser garen, gründlich abgießen und auf die Schüsseln verteilen.",
-        "step_7": "Gießen Sie heißes Curry auf Udon, komplett mit Zwiebeln und servieren Sie sofort."
+        "step_7": "Gießen Sie heißes Curry auf Udon, komplett mit Frühlingszwiebeln und servieren Sie sofort."
       }
     },
     "recipe_000101": {
@@ -5614,7 +5614,7 @@
           "note": null
         },
         "topping_cipollotto_affettato_10": {
-          "name": "Schnittlauch",
+          "name": "Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "topping_alga_nori_11": {
@@ -5631,10 +5631,10 @@
         "step_2": "Bläse die Knochen 10 Minuten, schäle und spüle sie gründlich; wische auch den Topf, bevor du die richtige Brühe beginnst.",
         "step_3": "Bedecken Sie die Knochen mit frischem Wasser, fügen Sie Knoblauch und Ingwer hinzu und führen zu starkem Siede; Schaum die dunklen Gerinnsel in den frühen Stadien.",
         "step_4": "Halten Sie ein festes Siegel für mindestens 5-6 Stunden, indem Sie mit kochendem Wasser, wenn Sie es benötigen: Fett und Kollagen müssen emulgieren, bis die Brühe matt und vollmundig.",
-        "step_5": "Filtern Sie die Brühe, setzen Sie sie auf das Feuer und richten Sie die Konzentration ein; bereiten Sie neben dem tare, chashu, Eier, Sprossen, Zwiebeln, Nori und Mayu-Öl.",
+        "step_5": "Filtern Sie die Brühe, setzen Sie sie auf das Feuer und richten Sie die Konzentration ein; bereiten Sie neben dem tare, chashu, Eier, Sprossen, Frühlingszwiebeln, Nori und Mayu-Öl.",
         "step_6": "Bringen Sie einen separaten Topf mit Wasser und kochen Sie frische Nudeln für die angegebene Zeit, in der Regel 1-2 Minuten; Schlitten sehr gut.",
         "step_7": "Legen Sie den Sarg auf den Boden der vorgewärmten Schalen, gießen Sie die kochende Tonkotsu-Brühe und mischen.",
-        "step_8": "Fügen Sie die Nudeln hinzu und ergänzen Sie sofort mit Chashu, Halb Ajitama, Sprossen, Zwiebeln, Nori und ein paar Tropfen Mayu."
+        "step_8": "Fügen Sie die Nudeln hinzu und ergänzen Sie sofort mit Chashu, Halb Ajitama, Sprossen, Frühlingszwiebeln, Nori und ein paar Tropfen Mayu."
       }
     },
     "recipe_000109": {
@@ -5783,7 +5783,7 @@
           "note": null
         },
         "finitura_cipollotto_fresco_affettato_5": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "finitura_maionese_giapponese_kewpie_6": {
@@ -5797,7 +5797,7 @@
         "step_3": "Geben Sie den sehr warmen Reis in die Schüssel und würzen Sie ihn mit einem Teil der Soße.",
         "step_4": "Legen Sie das Chashu über den Reis, ohne ihn zu stopfen, so dass jeder Bissen Fleisch und Sauce erhält.",
         "step_5": "Schneide die Hälfte des Ajitama aus und füge sie der Schüssel hinzu.",
-        "step_6": "Komplett mit geschnittener Zwiebel und, falls geplant, eine kleine Menge Mayonnaise Kewpie.",
+        "step_6": "Komplett mit geschnittener Frühlingszwiebel und, falls geplant, eine kleine Menge Mayonnaise Kewpie.",
         "step_7": "Servieren Sie sofort, bevor das Fett des Chashu erkältet und repräsentiert wird."
       }
     },
@@ -5863,7 +5863,7 @@
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_1_cipollotto": {
-          "name": "Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_2_semi_di_sesamo": {
@@ -5876,12 +5876,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Bereiten Sie das Mensuyu im Voraus vor und kühlen Sie es im Kühlschrank gut ab; reiben Sie den Ingwer und schneiden Sie die Zwiebel kurz vor dem Service.",
+        "step_1": "Bereiten Sie das Mensuyu im Voraus vor und kühlen Sie es im Kühlschrank gut ab; reiben Sie den Ingwer und schneiden Sie die Frühlingszwiebel kurz vor dem Service.",
         "step_2": "Bringen Sie reichlich ungesalzenes Wasser zum Kochen und tauchen Sie die Somen ein und trennen Sie sie sofort mit den Stäben.",
         "step_3": "Kochen Sie sie für ca. 90 Sekunden oder je nach Verpackung: Sie müssen elastisch bleiben und dürfen sich nicht verdrehen.",
         "step_4": "Schäle und wasche sie unter kaltem fließendem Wasser, indem du sie sanft mit den Händen reibst, um die Oberflächenstärke zu beseitigen.",
         "step_5": "Bringen Sie sie in Wasser und Eis, nur um sie kalt zu halten, ohne sie zu lange untertauchen zu lassen.",
-        "step_6": "Servieren Sie kleine Portionen zu einer Zeit und intimil in kaltem Mensuyu mit Ingwer, Zwiebeln und Sesam.",
+        "step_6": "Servieren Sie kleine Portionen zu einer Zeit und intimil in kaltem Mensuyu mit Ingwer, Frühlingszwiebeln und Sesam.",
         "step_7": "Wenn Sie den Nagashi-Service simulieren wollen, lassen Sie die Somen in sauberem kaltem Wasser fließen und sammeln Sie sie sofort mit den Stäben."
       }
     },
@@ -6084,7 +6084,7 @@
           "note": null
         },
         "finitura_cipollotto_affettato_6": {
-          "name": "Schnittlauch",
+          "name": "Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "finitura_karashi_7": {
@@ -6099,7 +6099,7 @@
         "step_4": "Die Udon-Nudeln nur dann kurz abspülen, wenn dies für die verwendete Sorte vorgesehen ist; anschließend in vorgewärmte Schüsseln geben.",
         "step_5": "Die kochend heiße Brühe über die Udon-Nudeln gießen und die Nudelstränge behutsam mit Essstäbchen trennen.",
         "step_6": "Pro Portion zwei Stücke Kakuni und fügen Sie einen Löffel aus dem Boden der Deuterium, um den Geschmack zu verstärken.",
-        "step_7": "Komplett mit Zwiebeln und eine kleine Menge Karashi am Rand der Schüssel und servieren Sie sofort."
+        "step_7": "Komplett mit Frühlingszwiebeln und eine kleine Menge Karashi am Rand der Schüssel und servieren Sie sofort."
       }
     },
     "recipe_000119": {
@@ -6302,7 +6302,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
-          "name": "Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         }
       },
@@ -6313,7 +6313,7 @@
         "step_4": "Verbinden Sie den Reis und lassen Sie weitere 4-5 Minuten knacken, indem Sie nur so viel rühren, wie Sie brauchen, um die Körner nicht zu brechen.",
         "step_5": "Werfen Sie das Ei, ohne es vollständig homogen zu machen, und gießen Sie es mit Draht auf die Oberfläche.",
         "step_6": "Schalte das Feuer aus, bedecke etwa 1 Minute und lass mich das Kochen mit der Restwärme beenden.",
-        "step_7": "Komplett mit Zwiebeln und servieren Sie sofort, wenn der Reis weich, aber noch nicht lose ist."
+        "step_7": "Komplett mit Frühlingszwiebeln und servieren Sie sofort, wenn der Reis weich, aber noch nicht lose ist."
       }
     },
     "recipe_000124": {
@@ -6603,7 +6603,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Zwiebeln, frisch, fein geschnitten",
+          "name": "frische Frühlingszwiebel, fein geschnitten",
           "note": null
         }
       },
@@ -6648,16 +6648,16 @@
           "note": null
         },
         "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
-          "name": "Frühlingszwiebeln",
+          "name": "frische Frühlingszwiebel zum Garnieren",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereiten Sie den Mensuyu vor und lassen Sie ihn im Kühlschrank vollständig abkühlen; Gurken, Zwiebeln und Nori und halten Sie den Tenkasu trocken bis zum Service.",
+        "step_1": "Bereiten Sie den Mensuyu vor und lassen Sie ihn im Kühlschrank vollständig abkühlen; Gurken, Frühlingszwiebeln und Nori und halten Sie den Tenkasu trocken bis zum Service.",
         "step_2": "Die Udon-Nudeln in reichlich kochendem Wasser garen, bis sie elastisch, aber noch bissfest sind.",
         "step_3": "Schicken Sie sie und kühlen Sie sie sofort unter kaltem fließendem Wasser ab, dann gehen sie in Wasser und Eis, um das Kochen vollständig zu stoppen.",
         "step_4": "Schütten Sie die Udon mit Sorgfalt und schütteln Sie gut: Restwasser würde das Mensuyu verdünnen.",
-        "step_5": "Geben Sie sie in die Schüssel und fügen Sie Gurken, Ei, Zwiebel und Nori.",
+        "step_5": "Geben Sie sie in die Schüssel und fügen Sie Gurken, Ei, Frühlingszwiebel und Nori.",
         "step_6": "Fügen Sie Tenkasu nur zum letzten Moment hinzu, so bleibt es knusprig.",
         "step_7": "Gießen Sie das kalte Mensuyu unmittelbar vor dem Servieren ein und mischen Sie zum Tisch."
       }
@@ -6744,7 +6744,7 @@
           "note": null
         },
         "uovo_marinato_2_cipollotto_per_servire": {
-          "name": "Zwiebel zum Servieren",
+          "name": "Frühlingszwiebel zum Servieren",
           "note": null
         }
       },
@@ -6755,7 +6755,7 @@
         "step_4": "Bedecken Sie und lassen Sie das Huhn 15 bis 20 Minuten lang mit niedrigem Feuer backen, bis sich die Soße verdichtet und das Fleisch glasiert. Vor dem Aufschneiden des Hähnchenrollbratens mit einem Thermometer mindestens 74 °C Kerntemperatur prüfen; nötigenfalls länger garen. Küchengarn statt Spaghetti verwenden.",
         "step_5": "Lass das Huhn abkühlen und schneide es in Goldscheiben.",
         "step_6": "Erhitzen Sie die Hühnerbrühe und regulieren Sie sie mit 2 Esslöffeln Hühnerkocherglasur.",
-        "step_7": "Kochen Sie die Ramen-Nudeln, streuen Sie sie in die Schüssel, fügen Sie die Brühe und garnieren Sie mit den Scheiben von Tori Chashu, mariniertes Ei in der Mitte und Zwiebeln."
+        "step_7": "Kochen Sie die Ramen-Nudeln, streuen Sie sie in die Schüssel, fügen Sie die Brühe und garnieren Sie mit den Scheiben von Tori Chashu, mariniertes Ei in der Mitte und Frühlingszwiebeln."
       }
     },
     "recipe_000134": {
@@ -6784,7 +6784,7 @@
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
-          "name": "Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
@@ -6798,7 +6798,7 @@
         "step_3": "Die Garnituren vorbereiten: Ingwer reiben, Frühlingszwiebel fein schneiden und Nori in Streifen schneiden.",
         "step_4": "Die gegarten Shirasu-Kleinfische gleichmäßig auf dem Reis verteilen, ohne sie zu zerdrücken.",
         "step_5": "In der Mitte eine kleine Mulde formen und vorsichtig pasteurisiertes, zum Rohverzehr geeignetes Eigelb hineinlegen. Kein unpasteurisiertes rohes Eigelb verwenden.",
-        "step_6": "Fügen Sie Ingwer, Zwiebel und Nori in kleinen Mengen getrennt, so kann jeder Bissen nach Belieben eingestellt werden.",
+        "step_6": "Fügen Sie Ingwer, Frühlingszwiebel und Nori in kleinen Mengen getrennt, so kann jeder Bissen nach Belieben eingestellt werden.",
         "step_7": "Gießen Sie die Soja-Sauce nur kurz vor dem Essen ein und mischen Sie den Eigelb teilweise mit Reis und Shirasu, wobei verschiedene Bestände in der Schüssel zu halten sind."
       }
     },
@@ -6968,7 +6968,7 @@
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Zwiebeln, in Unterlegscheiben geschnitten",
+          "name": "Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         }
       },
@@ -6980,7 +6980,7 @@
         "step_5": "Bedecken Sie und kochen Sie mit mittlerem bis niedrigem Fokus für etwa 10 Minuten, bis die Wurzeln erhalten werden.",
         "step_6": "Fügen Sie Tofu hinzu und erwärmen Sie es für 2-3 Minuten, ohne stark zu mischen.",
         "step_7": "Den Herd ausschalten, das Miso in einer Kelle Brühe auflösen und in die Suppe rühren, ohne sie erneut aufzukochen.",
-        "step_8": "Komplett mit Zwiebeln und serviert sehr heiß."
+        "step_8": "Komplett mit Frühlingszwiebeln und serviert sehr heiß."
       }
     },
     "recipe_000139": {
@@ -7401,7 +7401,7 @@
           "note": null
         },
         "germogli_di_soia_e_cipollotto_fresco_2_cipollotto_fresco": {
-          "name": "Frühlingszwiebeln",
+          "name": "frische Frühlingszwiebel",
           "note": null
         }
       },
@@ -7413,7 +7413,7 @@
         "step_5": "Die restliche Hühnerbrühe erhitzen und die schwarze Sesambasis mit einem Schneebesen kräftig einrühren, bis sich der Sesam gleichmäßig verteilt.",
         "step_6": "Kochen Sie die Ramen-Nudeln in reichlich kochendem Wasser nicht salzig für 2 Minuten, dann spülen Sie sorgfältig.",
         "step_7": "Fügen Sie die schwarze und duftende Brühe in die Schüssel, adagia i nodels in der Mitte.",
-        "step_8": "Du hängst über das geröstete Schweinefleisch, die in der Mitte zerstreuten Marinier, Sojasprossen und reichlich Zwiebeln."
+        "step_8": "Du hängst über das geröstete Schweinefleisch, die in der Mitte zerstreuten Marinier, Sojasprossen und reichlich Frühlingszwiebeln."
       }
     },
     "recipe_000148": {
@@ -7484,7 +7484,7 @@
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "Frühlingszwiebeln, frisch fein gemahlen",
+          "name": "frische Frühlingszwiebeln, fein gehackt",
           "note": null
         },
         "d_aglio_tritato": {
@@ -7511,13 +7511,13 @@
       "stepTexts": {
         "step_1": "Den kalten Reis mit den Händen gut mischen, um die Körner zu trennen. Gekochten Reis in einer flachen Schicht schnell, idealerweise innerhalb einer Stunde, abkühlen, dann kühlen und binnen 24 Stunden verwenden. Nicht bei Raumtemperatur stehen lassen; nur einmal vollständig dampfend heiß aufwärmen.",
         "step_2": "Erhitzt einen Wok mit Sesamöl.",
-        "step_3": "Du quälst Knoblauch und die Hälfte der Zwiebel.",
+        "step_3": "Du quälst Knoblauch und die Hälfte der Frühlingszwiebel.",
         "step_4": "Fügen Sie die gestoßenen Eier hinzu und mischen Sie schnell, um weich Rühren zu erstellen.",
         "step_5": "Fügen Sie den Reis sofort in den Wok und springen Sie ihn für 3-4 Minuten in starkem Feuer, kontinuierlich mit dem Spachtel.",
         "step_6": "Fügen Sie das Krabbenfleisch hinzu und mischen Sie vorsichtig, um das Fruchtfleisch zu vermischen, ohne das Fruchtfleisch übermäßig zu zerkleinern.",
         "step_7": "Fügen Sie die Sojasoße entlang der heiß gebrannten Wok-Ränder hinzu, um sie zu karamellieren, bevor Sie sie in Reis einbauen.",
         "step_8": "Salzregel und reichlich weißer Pfeffer.",
-        "step_9": "Kombinieren Sie den Rest der frischen Zwiebel und servieren Sie warm."
+        "step_9": "Kombinieren Sie den Rest der frischen Frühlingszwiebel und servieren Sie warm."
       }
     },
     "recipe_000150": {
@@ -7617,7 +7617,7 @@
           "note": null
         },
         "cipollotto_e_maionese_giapponese_1_cipollotto": {
-          "name": "Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         },
         "cipollotto_e_maionese_giapponese_2_maionese_giapponese": {
@@ -7634,7 +7634,7 @@
         "step_6": "Spenden Sie die Oberfläche mit wenig Öl und falten Sie jede Scheibe in der Mitte, in Form einer Schale, indem Sie ein Stück Backpapier innen, um zu verhindern, dass es fest.",
         "step_7": "Lassen Sie die Sandwiches für 15 Minuten ruhen, dann kochen Sie sie im Dampfkorb für etwa 12 Minuten bei mittlerer Hitze.",
         "step_8": "Öffne die warmen Sandwiches sanft, lösche das Backpapier.",
-        "step_9": "Machen Sie mit gut geglasten Chashu-Fetzen mit seiner Soße, frischen Gurke-Fetzen, Zwiebeln und einem Mayonnaisefaden."
+        "step_9": "Machen Sie mit gut geglasten Chashu-Fetzen mit seiner Soße, frischen Gurke-Fetzen, Frühlingszwiebeln und einem Mayonnaisefaden."
       }
     },
     "recipe_000152": {
@@ -7887,7 +7887,7 @@
           "note": null
         },
         "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
-          "name": "Frühlingszwiebeln",
+          "name": "frische Frühlingszwiebel zum Garnieren",
           "note": null
         }
       },
@@ -7899,7 +7899,7 @@
         "step_5": "Erhitzt die Brühe gut auf die Muscheln, ohne sie übermäßig zu reduzieren.",
         "step_6": "Kochen Sie die Ramen-Nudeln in reichlich kochendem Wasser für 2 Minuten und spülen.",
         "step_7": "Geben Sie die Nudeln in die Schüssel und decken Sie sie mit der heißen Suppe an die Muscheln.",
-        "step_8": "Adagia über den Muscheln in der Schale, Mais und Zwiebel frisch; komplett mit einer Nuss Butter, die die Meeresbrühe schmelzen wird."
+        "step_8": "Adagia über den Muscheln in der Schale, Mais und Frühlingszwiebel frisch; komplett mit einer Nuss Butter, die die Meeresbrühe schmelzen wird."
       }
     },
     "recipe_000157": {
