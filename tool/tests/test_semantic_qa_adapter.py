@@ -37,6 +37,19 @@ class AdapterTests(unittest.TestCase):
             self.assertEqual(len(data["targetLocales"]),5)
             self.assertEqual(data["records"][0]["context"]["ingredients"][0]["quantity"],100)
             self.assertEqual(data["records"][-1]["id"],"recipe_000162")
+    def test_localized_ingredient_notes_are_semantically_visible(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)
+            self.make_root(root)
+            path=root/"authoring/recipes/recipe_000128.json"
+            source=json.loads(path.read_text(encoding="utf-8"))
+            source["locales"]["it"]["ingredients"]["a"]["note"]="Circa 160 g per persona."
+            source["locales"]["en"]["ingredients"]["a"]["note"]="About 160 g per person."
+            path.write_text(json.dumps(source),encoding="utf-8")
+            data=adapter.collect(root)
+            row=data["records"][127]
+            self.assertIn("160 g",row["source"]["ingredients"]["a"]["note"])
+            self.assertIn("160 g",row["translations"]["en"]["ingredients"]["a"]["note"])
     def test_mismatch_detected_and_not_silently_skipped(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp)
