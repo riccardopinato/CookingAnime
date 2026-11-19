@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000147",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Ramen Daisuki Koizumi-san",
   "animeReferences": [
@@ -189,7 +189,7 @@
           "note": null
         },
         "germogli_di_soia_e_cipollotto_fresco_2_cipollotto_fresco": {
-          "name": "fresh onion",
+          "name": "fresh spring onion",
           "note": null
         }
       },
@@ -201,7 +201,7 @@
         "step_5": "Heat the remaining chicken broth and combine the base with black sesame, mixing vigorously with a whisk to distribute sesame evenly.",
         "step_6": "Cook the noodles for ramen in plenty of unsalted boiling water for 2 minutes, then drain thoroughly.",
         "step_7": "Add the black broth and scented in the bowls, place the noodles in the center.",
-        "step_8": "Place the browned pork on top, the marinated eggs split in half, soy sprouts and abundant onion."
+        "step_8": "Place the browned pork on top, the marinated eggs split in half, soy sprouts and abundant spring onion."
       }
     },
     "it": {
@@ -327,7 +327,7 @@
           "note": null
         },
         "germogli_di_soia_e_cipollotto_fresco_2_cipollotto_fresco": {
-          "name": "cipollotto fresco",
+          "name": "cebolleta fresca",
           "note": null
         }
       },
@@ -396,7 +396,7 @@
           "note": null
         },
         "germogli_di_soia_e_cipollotto_fresco_2_cipollotto_fresco": {
-          "name": "oignon frais",
+          "name": "cébette fraîche",
           "note": null
         }
       },
@@ -408,7 +408,7 @@
         "step_5": "Chauffez le reste du bouillon de poulet et joignez la base au sésame noir, en mélangeant vigoureusement avec un fouet pour distribuer le sésame de manière uniforme.",
         "step_6": "Faites cuire les nouilles pour ramen dans de l'eau bouillante non salée pendant 2 minutes, puis égouttez soigneusement.",
         "step_7": "Ajoutez le bouillon noir et parfumé dans les bols, adagie les nouilles au centre.",
-        "step_8": "Disposez au-dessus de la viande de porc roulée, les œufs marinés divisés en deux, pousses de soja et abondant oignon."
+        "step_8": "Disposez au-dessus de la viande de porc roulée, les œufs marinés divisés en deux, pousses de soja et abondant cébette."
       }
     },
     "de": {
@@ -465,7 +465,7 @@
           "note": null
         },
         "germogli_di_soia_e_cipollotto_fresco_2_cipollotto_fresco": {
-          "name": "Frühlingszwiebeln",
+          "name": "frische Frühlingszwiebel",
           "note": null
         }
       },
@@ -477,7 +477,7 @@
         "step_5": "Die restliche Hühnerbrühe erhitzen und die schwarze Sesambasis mit einem Schneebesen kräftig einrühren, bis sich der Sesam gleichmäßig verteilt.",
         "step_6": "Kochen Sie die Ramen-Nudeln in reichlich kochendem Wasser nicht salzig für 2 Minuten, dann spülen Sie sorgfältig.",
         "step_7": "Fügen Sie die schwarze und duftende Brühe in die Schüssel, adagia i nodels in der Mitte.",
-        "step_8": "Du hängst über das geröstete Schweinefleisch, die in der Mitte zerstreuten Marinier, Sojasprossen und reichlich Zwiebeln."
+        "step_8": "Du hängst über das geröstete Schweinefleisch, die in der Mitte zerstreuten Marinier, Sojasprossen und reichlich Frühlingszwiebeln."
       }
     },
     "pt": {
@@ -534,7 +534,7 @@
           "note": null
         },
         "germogli_di_soia_e_cipollotto_fresco_2_cipollotto_fresco": {
-          "name": "cebola fresca",
+          "name": "cebola de rama fresca",
           "note": null
         }
       },
@@ -546,7 +546,7 @@
         "step_5": "Aqueça o caldo de frango restante e combine a base com sésamo preto, misturando- se vigorosamente com um batido para distribuir o sésamo uniformemente.",
         "step_6": "Cozinhe os macarrão para ramen em muita água fervente não salgada por 2 minutos, em seguida, escorra bem.",
         "step_7": "Adicione o caldo preto e perfumado nas tigelas, coloque os macarrão no centro.",
-        "step_8": "Coloque o porco dourado no topo, os ovos marinados se dividirem ao meio, brotos de soja e cebola abundante."
+        "step_8": "Coloque o porco dourado no topo, os ovos marinados se dividirem ao meio, brotos de soja e cebola de rama abundante."
       }
     }
   }
