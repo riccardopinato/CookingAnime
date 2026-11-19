@@ -6218,32 +6218,39 @@
       }
     },
     "recipe_000124": {
-      "title": "Uni Don",
-      "description": "Une version pratique de Uni Don à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Golden Kamuy. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Uni don — bol de riz aux oursins frais",
+      "description": "L'Uni Don présente des gonades d'oursin sur du riz japonais à sushi tiédi. Utilisez uniquement de l'uni explicitement adapté à une consommation crue et conservez-le au réfrigérateur jusqu'au dressage; ni la dégustation ni l'odeur ne permettent de garantir sa sécurité. Répartissez le riz tiède, et non brûlant, avec des lanières de nori, déposez délicatement l'uni en une seule couche et servez le wasabi et la sauce soja à part.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Golden Kamuy. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "polpa_di_ricci_di_mare": {
-          "name": "Polpa di ricci di mare (uni) freschissima",
+          "name": "pulpe de bouclés de mer (Unis) très fraîche",
           "note": null
         },
         "riso_sushi_tiepido": {
-          "name": "Riz sushi tiepido",
+          "name": "Riz Sushi tiède",
           "note": null
         },
-        "wasabi_fresco_e_salsa_di_soia_pregiata": {
-          "name": "Wasabi frais e sauce soja pregiata",
+        "wasabi_fresco_e_salsa_di_soia_pregiata_1_wasabi_fresco": {
+          "name": "wasabi frais",
+          "note": null
+        },
+        "wasabi_fresco_e_salsa_di_soia_pregiata_2_salsa_di_soia_pregiata": {
+          "name": "Sauce de soja de haute qualité",
           "note": null
         },
         "strisce_di_alga_nori": {
-          "name": "Strisce di nori",
+          "name": "algue nori en lanières",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Utilisez un liquide très frais et maintenez-le réfrigéré jusqu'à l'assemblage; éliminez délicatement l'excès de liquide éventuel sans écraser les gonades.",
+        "step_2": "Préparez le riz japonais, assaisonnez-le comme indiqué si vous utilisez du riz sushi et laissez-le tiède couvert: il doit être tiède, pas bouillant.",
+        "step_3": "Vérifiez que l'uni est explicitement adapté à une consommation crue et qu'il a été conservé selon les indications du fournisseur. Ne le goûtez pas pour évaluer sa sécurité: l'odeur et la saveur ne suffisent pas.",
+        "step_4": "Distribuez le riz dans les bols sans le compresser et ajoutez de fines bandes de nori.",
+        "step_5": "Disposez les langues d'une seule couche en les manipulant le moins possible pour les garder intactes.",
+        "step_6": "Ajouter une petite quantité de wasabi sur le côté, pas directement sur tout le hérisson.",
+        "step_7": "Servez la sauce de soja séparément ou versez très peu de fil seulement au moment de manger, de sorte que la saveur délicate de l'un reste protagoniste."
       }
     },
     "recipe_000125": {
@@ -6642,40 +6649,47 @@
       }
     },
     "recipe_000134": {
-      "title": "Shirasu Don",
-      "description": "Une version pratique de Shirasu Don à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par La collina dei papaveri, Midnight Diner. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Shirasu don — bol de riz aux petits poissons shirasu et à l’œuf",
+      "description": "Le Shirasu Don associe du riz japonais chaud à de petits poissons shirasu déjà cuits et à un jaune d'œuf issu d'un œuf pasteurisé adapté à l'usage prévu. Disposez les ingrédients dans le bol juste avant de servir et ajoutez un filet de sauce soja. Le shirasu déjà cuit vous disposez sur le riz avec jaune pâteux apte à la consommation sans cuisson, en ajoutant du soja uniquement au service.",
+      "animeContext": "Cette recette s'inspire librement de La collina dei papaveri, Midnight Diner. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "riso_giapponese_caldo_cotto_al_vapore": {
-          "name": "Riz giapponese caldo cotto al vapore",
+          "name": "riz japonais chaud cuit à la vapeur",
           "note": null
         },
         "shirasu": {
-          "name": "Shirasu (bianchetti bolliti o al vapore)",
+          "name": "shirasu (blanches bouillies ou à la vapeur)",
           "note": null
         },
         "tuorlo_d_uovo_fresco": {
-          "name": "Œuf yolk d'œuf frais",
+          "name": "jaune d'œuf pasteurisé adapté à la consommation sans cuisson",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Gingembre râpé",
+          "name": "gingembre râpé",
           "note": null
         },
-        "cipollotto_e_alga_nori_a_striscioline": {
-          "name": "Spring oignon e nori a striscioline",
+        "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
+          "name": "ciboulette",
+          "note": null
+        },
+        "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
+          "name": "alga nori a strisciline",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Préparez le riz japonais et servez-le bien chaud, puis laissez-le reposer une minute dans le bol pour disperser la vapeur la plus intense.",
+        "step_2": "Essayez bien les shirasu et vérifiez qu'il n'y a pas d'excès de liquide; s'ils sont très salés, goûtez-les avant d'ajouter une autre sauce de soja.",
+        "step_3": "Préparez les garnitures : râpez le gingembre, émincez la cébette et coupez le nori en lanières.",
+        "step_4": "Répartissez les petits poissons shirasu cuits sur le riz sans les écraser.",
+        "step_5": "Faites un petit creux au centre et déposez délicatement un jaune d'œuf pasteurisé adapté à la consommation sans cuisson. N'utilisez pas de jaune cru non pasteurisé.",
+        "step_6": "Ajouter du gingembre, de l'oignon et du nori en petites quantités séparées, de sorte que chaque bouchée peut être réglée à volonté.",
+        "step_7": "Versez la sauce de soja à fil juste avant de manger et mélangez partiellement le jaune avec du riz et du shirasu, en maintenant différentes textures dans le bol."
       }
     },
     "recipe_000135": {
@@ -7159,60 +7173,68 @@
       }
     },
     "recipe_000146": {
-      "title": "Maguro Don",
-      "description": "Une version pratique de Maguro Don à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Midnight Diner: Tokyo Stories. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Maguro don — bol de riz au thon rouge frais et au wasabi",
+      "description": "Le Maguro Don dispose de tranches de thon rouge spécialement adaptées à la consommation crue sur riz sushi assaisonné et tiède. Le thon est maintenu réfrigéré selon les indications du fournisseur; un bref marinage aromatisé le poisson mais ne constitue pas un traitement de sécurité. Les tranches de thon doivent être spécifiquement propres à la consommation crue et maintenues réfrigérées selon les indications du fournisseur.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Midnight Diner: Tokyo Stories. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "filetto_di_tonno_rosso_per_sushi": {
-          "name": "Filetto di thon rouge per sushi (qualità sashimi)",
+          "name": "thon rouge expressément adapté à la consommation crue, conservé selon les indications du fournisseur",
           "note": null
         },
         "riso_per_sushi": {
-          "name": "Sushi riz (riz japonica)",
+          "name": "Riz à sushi (Riso Japonica)",
           "note": null
         },
         "aceto_di_riso": {
-          "name": "Vinaigre de riz",
+          "name": "vinaigre de riz",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "sale": {
-          "name": "Sel",
+          "name": "sel",
           "note": null
         },
         "salsa_di_soia_shoyu": {
-          "name": "Sauce soja shoyu",
+          "name": "Sauce de soja Shoyu",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "wasabi_fresco_in_pasta": {
-          "name": "Wasabi frais in pasta",
+          "name": "wasabi frais en pâtes",
           "note": null
         },
         "alga_nori_tagliato_a_striscioline_sottili": {
-          "name": "Nori cut into striscioline sottili",
+          "name": "alga nori coupée en fines bandes",
           "note": null
         },
         "porro_fresco_o_erba_cipollina_tritata": {
-          "name": "Porro frais o erba cipollina tritata",
+          "name": "poireau frais ou ciboulette hachée",
           "note": null
         },
         "semi_di_sesamo_tostato": {
-          "name": "Graines de sésame tostato",
+          "name": "graines de sésame grillées",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Rincer soigneusement le riz à sushi sous l'eau froide courante jusqu'à ce que l'eau soit limpide.",
+        "step_2": "Faites cuire le riz à feu bas avec couvercle pendant 12 minutes.",
+        "step_3": "Mettez dans une casserole, faites dissoudre le sucre et du sel dans le vinaigre de riz en réchauffant légèrement.",
+        "step_4": "Combinez le mélange de vinaigre au riz chaud en l'égrenant doucement avec une spatule en bois et en étincelant.",
+        "step_5": "Utilisez uniquement du thon adapté à la consommation crue et maintenez-le au froid selon les indications du fournisseur. Avec un couteau et une planche propres, coupez-le en tranches de 7 à 8 mm, la lame inclinée à 45 degrés.",
+        "step_6": "Dans un bol, mélangez la sauce soja avec la mirin.",
+        "step_7": "Assaisonnez le thon pendant 1 à 2 minutes dans le mélange soja-mirin et conservez-le au froid jusqu'au service. Cette marinade ne rend pas sûr un poisson impropre à la consommation crue.",
+        "step_8": "Disposez le riz sushi dans les bols de Donburi.",
+        "step_9": "Répartissez des lanières d'algue nori sur le riz.",
+        "step_10": "Disposez les tranches de thon en éventail pour couvrir le riz.",
+        "step_11": "Décorez le centre d'une petite pointe de wasabi, de cébette ciselée et de graines de sésame grillées.",
+        "step_12": "Servez-vous immédiatement accompagné de sauce soja supplémentaire."
       }
     },
     "recipe_000147": {
@@ -7986,36 +8008,39 @@
       }
     },
     "recipe_000162": {
-      "title": "Yuzu Sorbet",
-      "description": "Une version pratique de Yuzu Sorbet à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Kaguya-sama: Love is War. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Sorbet au yuzu — dessert rafraîchissant aux agrumes japonais",
+      "description": "Le sorbet au yuzu est préparé à partir d'un sirop d'eau, de sucre et de jus de cet agrume, refroidi avant congélation. La recette prévoit du blanc d'œuf pasteurisé pour alléger la texture : ne le remplacez pas par du blanc d'œuf cru non pasteurisé. La recette utilise du blanc d’œuf pasteurisé, incorporé pendant la congélation ; les mélanges suivants brisent les cristaux du sorbet au yuzu.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Kaguya-sama: Love is War. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
-          "name": "Succo di yuzu frais o 100% puro imbottigliato",
+          "name": "jus de Yuzu frais ou 100% pur mis en bouteille",
           "note": null
         },
         "acqua": {
-          "name": "Eau",
+          "name": "eau",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Œuf blanc d'œuf",
+          "name": "blanc d'œuf pasteurisé adapté à la consommation sans cuisson",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza râpé di 1 citron biologico",
+          "name": "zeste râpée de 1 citron biologique",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une casserole, réchauffez l'eau avec le sucre et le zeste de citron jusqu'à ce que le sucre soit complètement dissous.",
+        "step_2": "Laissez refroidir le sirop à température ambiante.",
+        "step_3": "Intégrez le jus de Yuzu au sirop froid et mélangez-le soigneusement.",
+        "step_4": "Ajoutez le composé dans un récipient en acier bas et placez-le dans le congélateur.",
+        "step_5": "Après 1 heure, lorsque le sorbet commence à prendre sur les bords, montez uniquement le blanc d'œuf pasteurisé en neige ferme puis incorporez-le délicatement. N'utilisez pas de blanc d'œuf cru non pasteurisé.",
+        "step_6": "Placez dans le congélateur pendant 3 heures supplémentaires, en mélangeant vigoureusement avec une fourchette toutes les 45 minutes pour briser les cristaux de glace.",
+        "step_7": "Servez dans des coupes glacées en décorant avec des feuilles de menthe ou des tranches d'agrumes."
       }
     }
   }

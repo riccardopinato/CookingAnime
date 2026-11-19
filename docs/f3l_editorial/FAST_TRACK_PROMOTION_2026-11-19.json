@@ -72,6 +72,7 @@
     "recipe_000121",
     "recipe_000122",
     "recipe_000123",
+    "recipe_000124",
     "recipe_000125",
     "recipe_000126",
     "recipe_000127",
@@ -80,6 +81,7 @@
     "recipe_000130",
     "recipe_000131",
     "recipe_000132",
+    "recipe_000134",
     "recipe_000135",
     "recipe_000136",
     "recipe_000137",
@@ -91,6 +93,7 @@
     "recipe_000143",
     "recipe_000144",
     "recipe_000145",
+    "recipe_000146",
     "recipe_000147",
     "recipe_000148",
     "recipe_000151",
@@ -101,12 +104,13 @@
     "recipe_000158",
     "recipe_000159",
     "recipe_000160",
-    "recipe_000161"
+    "recipe_000161",
+    "recipe_000162"
   ],
-  "eligibleCount": 96,
-  "newChangesThisExecution": 96,
-  "italianDetailedStepsInChangedRecords": 772,
-  "allLocaleMethodStepsInChangedRecords": 4632,
+  "eligibleCount": 100,
+  "newChangesThisExecution": 4,
+  "italianDetailedStepsInChangedRecords": 33,
+  "allLocaleMethodStepsInChangedRecords": 198,
   "hold": {
     "recipe_000051": "Salt amount 1.5 tbsp in 500 ml broth requires correction before publishing updated method",
     "recipe_000056": "Raw seafood sourcing and cold-chain handling",
@@ -115,17 +119,13 @@
     "recipe_000096": "Shellfish handling and cooking guidance",
     "recipe_000110": "Offal cleaning, doneness and handling",
     "recipe_000117": "Poultry/egg preparation safety",
-    "recipe_000124": "Raw sea urchin suitability and unsafe raw tasting instruction",
     "recipe_000133": "Poultry/egg preparation safety",
-    "recipe_000134": "Raw egg-yolk suitability even with previous text remediation",
-    "recipe_000146": "Raw tuna sourcing and handling safeguards",
     "recipe_000149": "Cooked-rice rapid cooling and reheating safeguards",
     "recipe_000150": "Poultry/duck doneness and handling",
     "recipe_000153": "Raw dipping yolk suitability",
-    "recipe_000156": "Clam handling and cooking guidance",
-    "recipe_000162": "Raw egg white pasteurization wording and sourcing must remain exact"
+    "recipe_000156": "Clam handling and cooking guidance"
   },
-  "holdCount": 16,
+  "holdCount": 12,
   "batches": [
     {
       "from": "recipe_000051",

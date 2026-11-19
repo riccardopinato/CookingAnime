@@ -6218,32 +6218,39 @@
       }
     },
     "recipe_000124": {
-      "title": "Uni Don",
-      "description": "Una versión práctica de Uni Don para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Golden Kamuy. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Uni don — arroz con erizos de mar frescos",
+      "description": "El Uni Don dispone huevas de erizo de mar sobre arroz japonés de sushi templado. Utiliza únicamente uni expresamente apto para consumir crudo y mantenlo refrigerado hasta el montaje; ni el sabor ni el olor demuestran su seguridad. Reparte el arroz templado, no caliente, en cuencos con tiras de nori, coloca delicadamente el uni en una sola capa y sirve el wasabi y la soja aparte.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Golden Kamuy. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "polpa_di_ricci_di_mare": {
-          "name": "Polpa di ricci di mare (uni) freschissima",
+          "name": "Carne de erizo de mar (Uni) fresca",
           "note": null
         },
         "riso_sushi_tiepido": {
-          "name": "Arroz sushi tiepido",
+          "name": "arroz Sushi tibio",
           "note": null
         },
-        "wasabi_fresco_e_salsa_di_soia_pregiata": {
-          "name": "Wasabi fresco e salsa de soja pregiata",
+        "wasabi_fresco_e_salsa_di_soia_pregiata_1_wasabi_fresco": {
+          "name": "wasabi fresco",
+          "note": null
+        },
+        "wasabi_fresco_e_salsa_di_soia_pregiata_2_salsa_di_soia_pregiata": {
+          "name": "Salsa de soja de alta calidad",
           "note": null
         },
         "strisce_di_alga_nori": {
-          "name": "Strisce di nori",
+          "name": "tiras de algas nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Utiliza unos muy fresco y manténlo refrigerado hasta el montaje; elimina suavemente cualquier exceso de líquido sin aplastar las gónadas.",
+        "step_2": "Prepara el arroz japonés, sazonalo como se indica si usas arroz sushi y deja que repose tapado y se temple: debe ser tibio, no hirviendo.",
+        "step_3": "Comprueba que el uni sea expresamente apto para comer crudo y que se haya conservado según las indicaciones del proveedor. No lo pruebes para evaluar su seguridad: el olor y el sabor no son pruebas suficientes.",
+        "step_4": "Distribuye el arroz en los cuencos sin comprimirlo y añade tiras finas de nori.",
+        "step_5": "Dispone de las lenguas de uno en una sola capa, manipulándolas lo menos posible para mantenerlas intactas.",
+        "step_6": "Añadir una pequeña cantidad de wasabi al lado, no directamente en todo el erizo.",
+        "step_7": "Servir la salsa de soja por separado o verter muy poco en el momento de comer, por lo que el sabor delicado de la salsa de soja sigue siendo protagonista."
       }
     },
     "recipe_000125": {
@@ -6642,20 +6649,20 @@
       }
     },
     "recipe_000134": {
-      "title": "Shirasu Don",
-      "description": "Una versión práctica de Shirasu Don para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en La collina dei papaveri, Midnight Diner. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Shirasu don — arroz con chanquetes y huevo",
+      "description": "El Shirasu Don combina arroz japonés caliente, blanquecitos ya cocidos y una yema obtenida a partir de huevo pasteurizado adecuado para el consumo previsto. Los ingredientes se disponen en el tazón justo antes del servicio, con salsa de soja añadida a hilo. El shirasu ya cocido se dispone sobre el arroz con yema pasteurizada adecuado para el consumo sin cocción, añadiendo soja sólo al servicio.",
+      "animeContext": "Esta receta está inspirada temáticamente en La collina dei papaveri, Midnight Diner. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "riso_giapponese_caldo_cotto_al_vapore": {
-          "name": "Arroz giapponese caldo cotto al vapore",
+          "name": "arroz japonés caliente cocido al vapor",
           "note": null
         },
         "shirasu": {
-          "name": "Shirasu (bianchetti bolliti o al vapore)",
+          "name": "shirasu (blanquetas hervidas o al vapor)",
           "note": null
         },
         "tuorlo_d_uovo_fresco": {
-          "name": "Huevo yolk d'huevo fresco",
+          "name": "yema de huevo pasteurizada apta para consumo sin cocción",
           "note": null
         },
         "salsa_di_soia": {
@@ -6663,19 +6670,26 @@
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Jengibre rallado",
+          "name": "jengibre rallado",
           "note": null
         },
-        "cipollotto_e_alga_nori_a_striscioline": {
-          "name": "Spring cebolla e nori a striscioline",
+        "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
+          "name": "cipollotto",
+          "note": null
+        },
+        "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
+          "name": "Alga nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Prepara el arroz japonés y sírvele bien caliente, luego déjalo descansar un minuto en el tazón para dispersar el vapor más intenso.",
+        "step_2": "Escurrir bien los shirasu y comprobar que no hay exceso de líquido; si son muy salados, pruébalos antes de añadir más salsa de soja.",
+        "step_3": "Prepara los acompañamientos: ralla el jengibre, corta fina la cebolleta y corta el nori en tiras.",
+        "step_4": "Reparte los pescaditos shirasu cocidos sobre el arroz sin aplastarlos.",
+        "step_5": "Haz un pequeño hueco en el centro y coloca una yema pasteurizada apta para consumo sin cocción. No utilices una yema cruda sin pasteurizar.",
+        "step_6": "Añade jengibre, cebolla y nori en pequeñas cantidades separadas, así cada bocado se puede ajustar al gusto.",
+        "step_7": "Verter la salsa de soja de hilo sólo inmediatamente antes de comer y mezclar parcialmente la yema con arroz y shirasu, manteniendo diferentes texturas en el tazón."
       }
     },
     "recipe_000135": {
@@ -7159,60 +7173,68 @@
       }
     },
     "recipe_000146": {
-      "title": "Maguro Don",
-      "description": "Una versión práctica de Maguro Don para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Midnight Diner: Tokyo Stories. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Maguro don — arroz con atún rojo fresco y wasabi",
+      "description": "El maguro Don dispone de rodajas de atún rojo expresamente aptas para el consumo crudo sobre arroz sushi sazonado e tiepidito. El atún se mantiene refrigerado según las indicaciones del proveedor; un breve marinado aromatizado el pescado pero no constituye un tratamiento de seguridad. Las rodajas de atún deberán estar expresamente aptas para el consumo crudo y mantenerse refrigeradas según las indicaciones del proveedor.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Midnight Diner: Tokyo Stories. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "filetto_di_tonno_rosso_per_sushi": {
-          "name": "Filetto di atún rojo per sushi (qualità sashimi)",
+          "name": "atún rojo expresamente apto para consumo crudo, conservado según las instrucciones del proveedor",
           "note": null
         },
         "riso_per_sushi": {
-          "name": "Sushi arroz (arroz japonica)",
+          "name": "arroz para sushi (Riso japonica)",
           "note": null
         },
         "aceto_di_riso": {
-          "name": "Vinagre de arroz",
+          "name": "vinagre de arroz",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "sale": {
-          "name": "Sal",
+          "name": "sal",
           "note": null
         },
         "salsa_di_soia_shoyu": {
-          "name": "Salsa de soja shoyu",
+          "name": "Salsa de soja Shoyu",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "wasabi_fresco_in_pasta": {
-          "name": "Wasabi fresco in pasta",
+          "name": "wasabi fresco en pasta",
           "note": null
         },
         "alga_nori_tagliato_a_striscioline_sottili": {
-          "name": "Nori cut into striscioline sottili",
+          "name": "Alga nori cortada en tiras finas",
           "note": null
         },
         "porro_fresco_o_erba_cipollina_tritata": {
-          "name": "Porro fresco o erba cipollina tritata",
+          "name": "Puerro fresco o cebollino picado",
           "note": null
         },
         "semi_di_sesamo_tostato": {
-          "name": "Semillas de sésamo tostato",
+          "name": "Semillas de sésamo tostada",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Enjuaga cuidadosamente el arroz para sushi bajo agua fría corriente hasta que el agua sea transparente.",
+        "step_2": "Cocine el arroz a fuego lento con tapa durante 12 minutos.",
+        "step_3": "Ponlo en una olla, suelta azúcar y sal en vinagre de arroz calentando ligeramente.",
+        "step_4": "Mezclar la mezcla de vinagre con el arroz caliente desgranándolo suavemente con una espátula de madera y hacer que se tierre.",
+        "step_5": "Utiliza atún expresamente apto para consumo crudo y mantenlo refrigerado según las indicaciones del proveedor. Con un cuchillo y una tabla limpios, córtalo en lonchas de 7–8 mm, inclinando la hoja 45 grados.",
+        "step_6": "En un tazón, mezcla la salsa de soja con el mirin.",
+        "step_7": "Aliña el atún con la mezcla de soja y mirin durante 1–2 minutos y mantenlo refrigerado hasta servir. Marinarlo no hace seguro un pescado inadecuado para consumo crudo.",
+        "step_8": "Pon el sushi en los cuencos de Donburi.",
+        "step_9": "Esparce la superficie con el alga Nori a rastras.",
+        "step_10": "Coloca las lonchas de atún en forma radial hasta cubrir el arroz.",
+        "step_11": "Decora el centro con un pequeño copete de wasabi, cebolleta picada y semillas de sésamo tostadas.",
+        "step_12": "Sirve de inmediato acompañado con salsa de soja extra."
       }
     },
     "recipe_000147": {
@@ -7986,12 +8008,12 @@
       }
     },
     "recipe_000162": {
-      "title": "Yuzu Sorbet",
-      "description": "Una versión práctica de Yuzu Sorbet para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Kaguya-sama: Love is War. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Sorbete de yuzu — refrescante cítrico japonés",
+      "description": "El sorbete de yuzu se elabora con un almíbar de agua y azúcar y zumo de este cítrico, que se enfría antes de congelarlo. La receta utiliza clara de huevo pasteurizada para aligerar la textura: no debe sustituirse por clara cruda sin pasteurizar. La receta utiliza clara de huevo pasteurizada, incorporada durante la congelación; las mezclas sucesivas rompen los cristales del sorbete de yuzu.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Kaguya-sama: Love is War. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
-          "name": "Succo di yuzu fresco o 100% puro imbottigliato",
+          "name": "zumo de Yuzu fresco o 100% puro embotellado",
           "note": null
         },
         "acqua": {
@@ -7999,23 +8021,26 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Huevo blanco d'huevo",
+          "name": "clara de huevo pasteurizada apta para consumo sin cocción",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza rallado di 1 limón biologico",
+          "name": "corteza rallado de 1 limón orgánico",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una olla, calienta el agua con azúcar y la corteza de limón hasta que el azúcar se derrite completamente.",
+        "step_2": "Deja enfriar el jarabe a temperatura ambiente.",
+        "step_3": "Incorpora el jugo de Yuzu al jarabe frío y mezcla cuidadosamente.",
+        "step_4": "Añadir el compuesto en un contenedor bajo de acero y colocarlo en el congelador.",
+        "step_5": "Después de 1 hora, cuando el sorbete empiece a cuajar por los bordes, monta a punto de nieve únicamente la clara pasteurizada e incorpórala con unas varillas. No uses clara cruda sin pasteurizar.",
+        "step_6": "Ponlo en el congelador por 3 horas más, mezclando vigorosamente con un tenedor cada 45 minutos para romper los cristales de hielo.",
+        "step_7": "Servir en copas heladas decorando con hojitas de menta o rodajas de cítricos."
       }
     }
   }

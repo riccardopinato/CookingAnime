@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000162",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 5,
   "servings": 4,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -52,12 +52,12 @@
     {
       "id": "albume_d_uovo",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "scorza_grattugiata_di_1_limone_biologico",
-      "quantity": null,
-      "unit": null
+      "quantity": 1,
+      "unit": "piece"
     }
   ],
   "steps": [
@@ -76,45 +76,60 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 3600
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Yuzu Sorbet",
-      "description": "A Japanese-style Yuzu Sorbet designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Yuzu Sorbet — refreshing Japanese citrus sorbet",
+      "description": "The yuzu sorbet is prepared from a syrup of water, sugar and juice of the citrus juice, left to cool before freezing. The recipe includes the use of pasteurized egg whites to lighten the consistency: do not replace it with raw unpasteurized egg whites. The recipe uses pasteurized egg white, incorporated as the sorbet begins to freeze; further stirring breaks up the ice crystals.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
-          "name": "Succo di yuzu fresh o 100% puro imbottigliato",
+          "name": "fresh or 100% pure Yuzu juice bottled",
           "note": null
         },
         "acqua": {
-          "name": "Water",
+          "name": "water",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Egg white d'egg",
+          "name": "pasteurized egg white suitable for consumption without cooking",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza grated di 1 lemon biologico",
+          "name": "grated peel of 1 organic lemon",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "In a saucepan, heat the water with sugar and lemon peel until the sugar is completely dissolved.",
+        "step_2": "Let the syrup cool at room temperature.",
+        "step_3": "Embed Yuzu's juice into cold syrup and mix thoroughly.",
+        "step_4": "Add the mixture in a low steel container and put in a freezer.",
+        "step_5": "After 1 hour, when the sorbet begins to set around the edges, whip only pasteurized egg white to stiff peaks and fold it into the sorbet with a whisk. Do not use raw, unpasteurized egg white.",
+        "step_6": "Put in the freezer for another 3 hours, mixing vigorously with a fork every 45 minutes to break the ice crystals.",
+        "step_7": "Serve in iced cups decorated with mint leaves or citrus slices."
       }
     },
     "it": {
       "title": "Yuzu Sorbet (Sorbetto Rinfrescante all'Agrume Yuzu)",
-      "description": "Un Yuzu Sorbet (Sorbetto Rinfrescante all'Agrume Yuzu) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Il sorbetto allo yuzu si prepara da uno sciroppo di acqua, zucchero e succo dell’agrume, lasciato raffreddare prima del congelamento. La ricetta prevede l’impiego di albume pastorizzato per alleggerire la consistenza: non sostituirlo con albume crudo non pastorizzato. L'albume previsto è pastorizzato e si incorpora durante il congelamento; le successive mescolate rompono i cristalli del sorbetto allo yuzu.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Kaguya-sama: Love is War. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
@@ -130,28 +145,31 @@
           "note": null
         },
         "albume_d_uovo": {
-          "name": "albume d'uovo",
+          "name": "albume d'uovo pastorizzato, idoneo al consumo senza cottura",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza grattugiata di 1 limone biologico",
+          "name": "scorza grattugiata di 1 limone biologico",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, metti in un pentolino porta a temperaturare l'acqua con lo zucchero e la scorza di limone finché lo zucchero è completamente sciolto. Far raffreddare lo sciroppo a temperatura ambiente.",
-        "step_2": "Prosegui così: incorporare il succo di Yuzu allo sciroppo freddo e amalgamare accuratamente.",
-        "step_3": "Nella fase successiva, aggiungire il composto in un contenitore basso in acciaio e riporre in freezer. Dopo 1 ora, quando inizia a rassodarsi ai bordi, montare a neve l'albume d'uovo ed incorporarlo al sorbetto con una frusta per renderlo spumoso. Riporre in freezer per altre 3 ore, amalgamando vigorosamente con una forchetta ogni 45 minuti per rompere i cristalli di ghiaccio.",
-        "step_4": "Per completare, porta in tavolare in coppette ghiacciate decorando con foglioline di menta o fettine di agrume."
+        "step_1": "In un pentolino, scalda l'acqua con lo zucchero e la scorza di limone finché lo zucchero è completamente sciolto.",
+        "step_2": "Lascia raffreddare lo sciroppo a temperatura ambiente.",
+        "step_3": "Incorpora il succo di Yuzu allo sciroppo freddo e mescola accuratamente.",
+        "step_4": "Aggiungi il composto in un contenitore basso in acciaio e riponi in freezer.",
+        "step_5": "Dopo 1 ora, quando il sorbetto inizia a rassodarsi ai bordi, monta a neve solo l'albume pastorizzato e incorporalo con una frusta per rendere il composto spumoso. Non usare albume crudo non pastorizzato.",
+        "step_6": "Riponi in freezer per altre 3 ore, amalgamando vigorosamente con una forchetta ogni 45 minuti per rompere i cristalli di ghiaccio.",
+        "step_7": "Servi in coppette ghiacciate decorando con foglioline di menta o fettine di agrume."
       }
     },
     "es": {
-      "title": "Yuzu Sorbet",
-      "description": "Una versión práctica de Yuzu Sorbet para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Kaguya-sama: Love is War. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Sorbete de yuzu — refrescante cítrico japonés",
+      "description": "El sorbete de yuzu se elabora con un almíbar de agua y azúcar y zumo de este cítrico, que se enfría antes de congelarlo. La receta utiliza clara de huevo pasteurizada para aligerar la textura: no debe sustituirse por clara cruda sin pasteurizar. La receta utiliza clara de huevo pasteurizada, incorporada durante la congelación; las mezclas sucesivas rompen los cristales del sorbete de yuzu.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Kaguya-sama: Love is War. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
-          "name": "Succo di yuzu fresco o 100% puro imbottigliato",
+          "name": "zumo de Yuzu fresco o 100% puro embotellado",
           "note": null
         },
         "acqua": {
@@ -159,65 +177,71 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Huevo blanco d'huevo",
+          "name": "clara de huevo pasteurizada apta para consumo sin cocción",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza rallado di 1 limón biologico",
+          "name": "corteza rallado de 1 limón orgánico",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una olla, calienta el agua con azúcar y la corteza de limón hasta que el azúcar se derrite completamente.",
+        "step_2": "Deja enfriar el jarabe a temperatura ambiente.",
+        "step_3": "Incorpora el jugo de Yuzu al jarabe frío y mezcla cuidadosamente.",
+        "step_4": "Añadir el compuesto en un contenedor bajo de acero y colocarlo en el congelador.",
+        "step_5": "Después de 1 hora, cuando el sorbete empiece a cuajar por los bordes, monta a punto de nieve únicamente la clara pasteurizada e incorpórala con unas varillas. No uses clara cruda sin pasteurizar.",
+        "step_6": "Ponlo en el congelador por 3 horas más, mezclando vigorosamente con un tenedor cada 45 minutos para romper los cristales de hielo.",
+        "step_7": "Servir en copas heladas decorando con hojitas de menta o rodajas de cítricos."
       }
     },
     "fr": {
-      "title": "Yuzu Sorbet",
-      "description": "Une version pratique de Yuzu Sorbet à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Kaguya-sama: Love is War. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Sorbet au yuzu — dessert rafraîchissant aux agrumes japonais",
+      "description": "Le sorbet au yuzu est préparé à partir d'un sirop d'eau, de sucre et de jus de cet agrume, refroidi avant congélation. La recette prévoit du blanc d'œuf pasteurisé pour alléger la texture : ne le remplacez pas par du blanc d'œuf cru non pasteurisé. La recette utilise du blanc d’œuf pasteurisé, incorporé pendant la congélation ; les mélanges suivants brisent les cristaux du sorbet au yuzu.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Kaguya-sama: Love is War. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
-          "name": "Succo di yuzu frais o 100% puro imbottigliato",
+          "name": "jus de Yuzu frais ou 100% pur mis en bouteille",
           "note": null
         },
         "acqua": {
-          "name": "Eau",
+          "name": "eau",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Œuf blanc d'œuf",
+          "name": "blanc d'œuf pasteurisé adapté à la consommation sans cuisson",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza râpé di 1 citron biologico",
+          "name": "zeste râpée de 1 citron biologique",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une casserole, réchauffez l'eau avec le sucre et le zeste de citron jusqu'à ce que le sucre soit complètement dissous.",
+        "step_2": "Laissez refroidir le sirop à température ambiante.",
+        "step_3": "Intégrez le jus de Yuzu au sirop froid et mélangez-le soigneusement.",
+        "step_4": "Ajoutez le composé dans un récipient en acier bas et placez-le dans le congélateur.",
+        "step_5": "Après 1 heure, lorsque le sorbet commence à prendre sur les bords, montez uniquement le blanc d'œuf pasteurisé en neige ferme puis incorporez-le délicatement. N'utilisez pas de blanc d'œuf cru non pasteurisé.",
+        "step_6": "Placez dans le congélateur pendant 3 heures supplémentaires, en mélangeant vigoureusement avec une fourchette toutes les 45 minutes pour briser les cristaux de glace.",
+        "step_7": "Servez dans des coupes glacées en décorant avec des feuilles de menthe ou des tranches d'agrumes."
       }
     },
     "de": {
-      "title": "Yuzu Sorbet",
-      "description": "Eine alltagstaugliche Version von Yuzu Sorbet für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Kaguya-sama: Love is War inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Yuzu-Sorbet – erfrischendes Sorbet aus japanischer Zitrusfrucht",
+      "description": "Yuzu-Sorbet wird aus Zuckersirup und Yuzu-Saft hergestellt und vor dem Gefrieren abgekühlt. Für eine lockere Textur sieht das Rezept pasteurisiertes Eiweiß vor; unpasteurisiertes rohes Eiweiß darf nicht als Ersatz verwendet werden. Das Rezept verwendet pasteurisiertes Eiweiß, das während des Gefrierens untergerührt wird; weiteres Durchmischen bricht die Eiskristalle auf.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Kaguya-sama: Love is War inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
-          "name": "Succo di yuzu frisch o 100% puro imbottigliato",
+          "name": "Yuzu-Saft frisch oder 100% rein in Flaschen",
           "note": null
         },
         "acqua": {
@@ -229,52 +253,58 @@
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Ei weiß d'Ei",
+          "name": "pasteurisiertes Eiweiß, für den Verzehr ohne Garen geeignet",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza gerieben di 1 Zitrone biologico",
+          "name": "geriebene Schale von 1 Bio-Zitrone",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einem Topf erwärmt er das Wasser mit Zucker und Zitronenschale, bis der Zucker vollständig gelöst ist.",
+        "step_2": "Lassen Sie den Sirup auf Raumtemperatur abkühlen.",
+        "step_3": "Fügen Sie Yuzu-Saft in den kalten Sirup ein und mischen Sie sorgfältig.",
+        "step_4": "Fügen Sie die Verbindung in einen niedrigen Behälter aus Stahl hinzu und legen Sie sie in den Gefrierschrank.",
+        "step_5": "Nach 1 Stunde, sobald der Sorbetansatz am Rand fest wird, ausschließlich pasteurisiertes Eiweiß steif schlagen und vorsichtig unterheben. Kein rohes, unpasteurisiertes Eiweiß verwenden.",
+        "step_6": "Legen Sie 3 Stunden lang mit einer Gabel alle 45 Minuten kräftig in den Gefrierschrank, um die Eiskristalle zu brechen.",
+        "step_7": "Servieren Sie in eisigen Bechern mit Minzefolie oder Zitrusscheiben."
       }
     },
     "pt": {
-      "title": "Yuzu Sorbet",
-      "description": "Uma versão prática de Yuzu Sorbet para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Kaguya-sama: Love is War. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Sorvete de yuzu — sorvete refrescante de citrino japonês",
+      "description": "O sorbet de yuzu é preparado com um xarope de água e açúcar e sumo do citrino, arrefecido antes de congelar. A receita utiliza clara de ovo pasteurizada para tornar a textura mais leve; não a substitua por clara crua não pasteurizada. A receita utiliza clara de ovo pasteurizada, incorporada durante a congelação; as misturas seguintes quebram os cristais do sorbet de yuzu.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Kaguya-sama: Love is War. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
-          "name": "Succo di yuzu fresco o 100% puro imbottigliato",
+          "name": "fresco ou 100% puro suco de Yuzu engarrafado",
           "note": null
         },
         "acqua": {
-          "name": "Água",
+          "name": "água",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Ovo branco d'ovo",
+          "name": "clara de ovo pasteurizada, própria para consumo sem cozedura",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza ralado di 1 limão biologico",
+          "name": "casca ralada de 1 limão orgânico",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa panela, aqueça a água com açúcar e casca de limão até que o açúcar esteja completamente dissolvido.",
+        "step_2": "Deixe o xarope esfriar à temperatura ambiente.",
+        "step_3": "Incorpore o suco do Yuzu em xarope frio e misture cuidadosamente.",
+        "step_4": "Adicione a mistura em um recipiente de aço baixo e coloque em um congelador.",
+        "step_5": "Após 1 hora, quando o sorvete começar a firmar nos bordos, bata em castelo apenas a clara pasteurizada e envolva-a cuidadosamente com umas varas de arame. Não utilize clara crua não pasteurizada.",
+        "step_6": "Coloque no congelador por mais 3 horas, misturando vigorosamente com um garfo a cada 45 minutos para quebrar os cristais de gelo.",
+        "step_7": "Servir em copos gelados decorados com folhas de menta ou fatias de citrinos."
       }
     }
   }
