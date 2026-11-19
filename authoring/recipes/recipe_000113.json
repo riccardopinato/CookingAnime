@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000113",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -40,9 +40,14 @@
       "unit": "piece"
     },
     {
-      "id": "albume_d_uovo_2_cucchiai_di_amido_di_mais",
+      "id": "albume_d_uovo",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
+    },
+    {
+      "id": "amido_di_mais",
+      "quantity": 2,
+      "unit": "tbsp"
     },
     {
       "id": "maionese_kewpie",
@@ -80,58 +85,81 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Ebi Mayo",
-      "description": "A practical home-cooking version of Ebi Mayo, preserving the dish’s characteristic ingredients, texture and cooking method with a clear repeatable sequence.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Isekai Izakaya Nobu. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Ebi Mayo — crispy shrimp in sweet-and-tangy mayo sauce",
+      "description": "The Ebi Mayo are shrimps with a thin crust of starch and white, fried and then covered with a creamy mayonnaise sauce with a sweet and sour taste. The sauce is added at the end, so the shrimps remain warm and slightly crispy. The mayo ebi sauce covers the shrimps still warm immediately after frying, without letting them rest until softening the crust.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Isekai Izakaya Nobu. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "gamberone_sgusciati_e_puliti": {
-          "name": "Large shrimp sgusciati e puliti",
+          "name": "Shrimp, peeled and cleaned",
           "note": null
         },
-        "albume_d_uovo_2_cucchiai_di_amido_di_mais": {
-          "name": "Egg white d'egg + 2 cucchiai di cornstarch",
+        "albume_d_uovo": {
+          "name": "egg white",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "maize starch",
           "note": null
         },
         "maionese_kewpie": {
-          "name": "Maionese kewpie",
+          "name": "mayonnaise Kewpie",
           "note": null
         },
         "latte_condensato_o_miele": {
-          "name": "Milk condensato o honey",
+          "name": "condensed milk or honey",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di lemon",
+          "name": "lemon juice",
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Oil for frying",
+          "name": "frying oil",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare and measure all ingredients before applying heat, keeping garnishes and finishing sauces separate until the final stage.",
-        "step_2": "Cook the main component with controlled heat, following the intended technique and watching texture and doneness rather than relying only on time.",
-        "step_3": "Add the remaining seasoning or liquid and continue only until the flavors combine and the characteristic texture of the dish is reached.",
-        "step_4": "Assemble neatly, add the final garnish and serve at the recommended temperature while the contrasting textures are still clear."
+        "step_1": "Dry the shrimp well and practice a small cut on the back if necessary to remove the intestinal thread.",
+        "step_2": "Mix Kewpie mayonnaise, condensed milk or honey and lemon juice until you get a smooth sauce; keep it aside at cool temperature.",
+        "step_3": "It passes the shrimps into the album and then into the cornstarch, eliminating the excess to obtain a thin coating.",
+        "step_4": "Bring the oil to about 170°C and fry a few shrimps at a time for 2-3 minutes, until they are just golden and cooked in the center.",
+        "step_5": "Drain onto grid or absorbent paper and let them rest only a few seconds.",
+        "step_6": "Condiscile still warm with the sauce Ebi Mayo, stirring gently to cover them without softening the crust too much.",
+        "step_7": "Serve immediately, with lemon peel or onion as a finish."
       }
     },
     "it": {
       "title": "Ebi Mayo (Gamberi Croccanti in Salsa Maionese Agrodolce)",
-      "description": "Una versione casalinga e pratica di Ebi Mayo (Gamberi Croccanti in Salsa Maionese Agrodolce), che mantiene ingredienti caratteristici, consistenza e tecnica del piatto con una sequenza chiara e ripetibile.",
+      "description": "Gli Ebi Mayo sono gamberi con una sottile crosta di amido e albume, fritti e poi rivestiti da una salsa cremosa alla maionese dal gusto agrodolce. La salsa si aggiunge alla fine, così i gamberi restano caldi e leggermente croccanti. La salsa ebi mayo riveste i gamberi ancora caldi subito dopo la frittura, senza lasciarli riposare fino ad ammorbidire la crosta.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Isekai Izakaya Nobu. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "gamberone_sgusciati_e_puliti": {
-          "name": "gamberone sgusciati e puliti",
+          "name": "gamberi sgusciati e puliti",
           "note": null
         },
-        "albume_d_uovo_2_cucchiai_di_amido_di_mais": {
-          "name": "albume d'uovo + 2 cucchiai di amido di mais",
+        "albume_d_uovo": {
+          "name": "albume d'uovo",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "amido di mais",
           "note": null
         },
         "maionese_kewpie": {
@@ -147,40 +175,47 @@
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Olio per friggere",
+          "name": "olio per friggere",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, amalgama la maionese con il latte condensato e il succo di limone per preparare la salsa.",
-        "step_2": "Prosegui così: passa i gamberi nell'albume e poi nell'amido di mais. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_3": "Nella fase successiva, friggi i gamberi in olio ben caldo a 170°C per 2-3 minuti fino a doratura.",
-        "step_4": "Per completare, scola i gamberi fritti e tuffali immediatamente nella salsa Ebi Mayo amalgamando delicatamente."
+        "step_1": "Asciuga bene i gamberi e pratica un piccolo taglio sul dorso se necessario per eliminare il filo intestinale.",
+        "step_2": "Mescola maionese Kewpie, latte condensato o miele e succo di limone fino a ottenere una salsa liscia; tienila da parte a temperatura fresca.",
+        "step_3": "Passa i gamberi nell’albume e poi nell’amido di mais, eliminando l’eccesso per ottenere un rivestimento sottile.",
+        "step_4": "Porta l’olio a circa 170°C e friggi pochi gamberi per volta per 2-3 minuti, finché sono appena dorati e cotti al centro.",
+        "step_5": "Scolali su griglia o carta assorbente e lasciali riposare solo pochi secondi.",
+        "step_6": "Condiscili ancora caldi con la salsa Ebi Mayo, mescolando delicatamente per rivestirli senza ammorbidire troppo la crosta.",
+        "step_7": "Servi subito, con eventuale scorza di limone o cipollotto come finitura."
       }
     },
     "es": {
-      "title": "Ebi Mayo",
-      "description": "Una versión práctica de Ebi Mayo para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Isekai Izakaya Nobu. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Ebi mayo — gambas crujientes con salsa de mayonesa agridulce",
+      "description": "Los Ebi Mayo son camarones con una delgada corteza de almidón y clara de huevo, fritos y luego recubiertos con una salsa cremosa a la mayonesa con sabor agridulce. La salsa se añade al final, por lo que los camarones permanecen calientes y ligeramente crujientes. La salsa ebi mayo viste las gambas todavía calientes poco después de la fritura, sin dejarlas descansar hasta suavizar la corteza.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Isekai Izakaya Nobu. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "gamberone_sgusciati_e_puliti": {
-          "name": "Large gambas sgusciati e puliti",
+          "name": "Camarones sin cáscara y limpios",
           "note": null
         },
-        "albume_d_uovo_2_cucchiai_di_amido_di_mais": {
-          "name": "Huevo blanco d'huevo + 2 cucchiai di maicena",
+        "albume_d_uovo": {
+          "name": "Albúminas de huevo",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "almidón de maíz",
           "note": null
         },
         "maionese_kewpie": {
-          "name": "Maionese kewpie",
+          "name": "Mayonesa Kewpie",
           "note": null
         },
         "latte_condensato_o_miele": {
-          "name": "Leche condensato o honey",
+          "name": "leche condensada o miel",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di limón",
+          "name": "jugo de limón",
           "note": null
         },
         "olio_per_friggere": {
@@ -189,109 +224,130 @@
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Seca bien los camarones y practica un pequeño corte en la espalda si es necesario para eliminar el hilo intestinal.",
+        "step_2": "Mezcla mayonesa Kewpie, leche condensada o miel y jugo de limón hasta obtener una salsa lisa; mantenla a un lado a temperatura fresca.",
+        "step_3": "Pasa las gambas a la albúmina y luego al almidón de maíz, eliminando el exceso para obtener un revestimiento delgado.",
+        "step_4": "Lleva el aceite a unos 170°C y fríe unos pocos camarones a la vez durante 2-3 minutos, hasta que estén recién dorados y cocidos en el centro.",
+        "step_5": "Escurrir sobre la rejilla o papel absorbente y dejar reposar sólo unos segundos.",
+        "step_6": "Considéralos todavía calientes con la salsa Ebi Mayo, mezclando suavemente para vestirlos sin suavizar demasiado la corteza.",
+        "step_7": "Servir inmediatamente, con posible corteza de limón o cebolleta como acabado."
       }
     },
     "fr": {
-      "title": "Ebi Mayo",
-      "description": "Une version pratique de Ebi Mayo à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Isekai Izakaya Nobu. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Ebi mayo — crevettes croustillantes à la sauce mayonnaise aigre-douce",
+      "description": "Les Ebi Mayo sont des crevettes avec une fine croûte d'amidon et d'albums, frits puis revêtus d'une sauce crémeuse à la mayonnaise au goût aigre-douce. La sauce s'ajoute à la fin, de sorte que les crevettes restent chaudes et légèrement croustillantes. La sauce ebi mayo recouvre les crevettes encore chaudes juste après la friture, sans les laisser se reposer jusqu'à adoucir la croûte.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Isekai Izakaya Nobu. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "gamberone_sgusciati_e_puliti": {
-          "name": "Large crevettes sgusciati e puliti",
+          "name": "crevettes décortiquées et propres",
           "note": null
         },
-        "albume_d_uovo_2_cucchiai_di_amido_di_mais": {
-          "name": "Œuf blanc d'œuf + 2 cucchiai di fécule de maïs",
+        "albume_d_uovo": {
+          "name": "Albums d'œufs",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "amidon de maïs",
           "note": null
         },
         "maionese_kewpie": {
-          "name": "Maionese kewpie",
+          "name": "mayonnaise Kewpie",
           "note": null
         },
         "latte_condensato_o_miele": {
-          "name": "Lait condensato o honey",
+          "name": "lait condensé ou miel",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di citron",
+          "name": "jus de citron",
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Huile pour friture",
+          "name": "huile à frire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Essuyez bien les crevettes et pratiquez une petite coupure sur le dos si nécessaire pour éliminer le fil intestinal.",
+        "step_2": "Mélangez mayonnaise Kewpie, lait condensé ou miel et jus de citron jusqu'à obtenir une sauce lisse; gardez-la de côté à température fraîche.",
+        "step_3": "Il passe les crevettes dans l'albume et ensuite dans l'amidon de maïs, en éliminant l'excès pour obtenir un revêtement mince.",
+        "step_4": "Apporte de l'huile à environ 170°C et frire quelques crevettes à la fois pendant 2-3 minutes, jusqu'à ce qu'elles soient à peine dorées et cuites au centre.",
+        "step_5": "Égouttez-les sur grille ou papier absorbant et laissez-les reposer quelques secondes.",
+        "step_6": "Assaisonnez-les encore chauds avec la sauce Ebi Mayo, en mélangeant délicatement pour les habiller sans adoucir trop la croûte.",
+        "step_7": "Servez-vous tout de suite, avec éventuellement zeste de citron ou d'oignons comme finition."
       }
     },
     "de": {
-      "title": "Ebi Mayo",
-      "description": "Eine alltagstaugliche Version von Ebi Mayo für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Isekai Izakaya Nobu inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Ebi Mayo – knusprige Garnelen mit süßsaurer Mayonnaise",
+      "description": "Die Mayo-Ebi sind Garnelen mit einer dünnen Kruste aus Stärke und Eiweiß, gebraten und dann mit einer cremigen Mayonnaise-Soße mit einem süßen Geschmack überzogen. Die Sauce wird am Ende hinzugefügt, so dass die Garnelen warm und leicht knusprig bleiben. Die ebi mayo Sauce kleidet die Garnelen noch warm unmittelbar nach dem Braten, ohne sie ruhen zu lassen, bis die Kruste erweicht.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Isekai Izakaya Nobu inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "gamberone_sgusciati_e_puliti": {
-          "name": "Large Garnelen sgusciati e puliti",
+          "name": "Garnelen, geschält und gereinigt",
           "note": null
         },
-        "albume_d_uovo_2_cucchiai_di_amido_di_mais": {
-          "name": "Ei weiß d'Ei + 2 cucchiai di Maisstärke",
+        "albume_d_uovo": {
+          "name": "Eiweiß",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "Maisstärke",
           "note": null
         },
         "maionese_kewpie": {
-          "name": "Maionese kewpie",
+          "name": "Mayonnaise Kewpie",
           "note": null
         },
         "latte_condensato_o_miele": {
-          "name": "Milch condensato o honey",
+          "name": "Kondensmilch oder Honig",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di Zitrone",
+          "name": "Zitronensaft",
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Öl zum Frittieren",
+          "name": "Bratenöl",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Trocknet die Garnelen gut und übt einen kleinen Schnitt auf dem Rücken, wenn nötig, um den Darmdraht zu entfernen.",
+        "step_2": "Mayonnaise Mischung Kewpie, Kondensmilch oder Honig und Zitronensaft, bis Sie eine glatte Soße erhalten; halten Sie sie bei frischer Temperatur beiseite.",
+        "step_3": "Die Garnelen werden dann in den Lumpen und dann in die Maisstärke geleitet, wodurch der Überschuß beseitigt wird, um eine dünne Beschichtung zu erhalten.",
+        "step_4": "Bring das Öl auf ca. 170°C und brate ein paar Garnelen für 2-3 Minuten, bis sie gerade in der Mitte goldgelb und gekocht sind.",
+        "step_5": "Schicken Sie sie auf Gitter oder absorbierendes Papier und lassen Sie sie nur ein paar Sekunden ruhen.",
+        "step_6": "Konnte sie immer noch warm mit der Mayo Ebi Soße, sanft mischen, um sie zu kleiden, ohne die Kruste zu erweichen.",
+        "step_7": "Servieren Sie sofort, mit eventueller Zitronenschale oder Zwiebel als Finishing."
       }
     },
     "pt": {
-      "title": "Ebi Mayo",
-      "description": "Uma versão prática de Ebi Mayo para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Isekai Izakaya Nobu. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Ebi mayo — camarão crocante com molho de maionese agridoce",
+      "description": "Os Ebi Mayo são camarões com uma fina crosta de amido e branco, fritos e, em seguida, cobertos com um molho cremoso de maionese com um sabor doce e azedo. O molho é adicionado no final, para que os camarões permaneçam quentes e ligeiramente crocantes. O molho mayo ebi cobre os camarões ainda quentes imediatamente após a fritura, sem deixá- los descansar até suavizar a crosta.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Isekai Izakaya Nobu. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "gamberone_sgusciati_e_puliti": {
-          "name": "Large camarões sgusciati e puliti",
+          "name": "Camarão, descascado e limpo",
           "note": null
         },
-        "albume_d_uovo_2_cucchiai_di_amido_di_mais": {
-          "name": "Ovo branco d'ovo + 2 cucchiai di amido de milho",
+        "albume_d_uovo": {
+          "name": "clara de ovo",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "amido de milho",
           "note": null
         },
         "maionese_kewpie": {
-          "name": "Maionese kewpie",
+          "name": "maionese Kewpie",
           "note": null
         },
         "latte_condensato_o_miele": {
-          "name": "Leite condensato o honey",
+          "name": "leite condensado ou mel",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di limão",
+          "name": "suco de limão",
           "note": null
         },
         "olio_per_friggere": {
@@ -300,10 +356,13 @@
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Seque bem os camarões e pratique um pequeno corte na parte de trás, se necessário para remover o fio intestinal.",
+        "step_2": "Misture maionese Kewpie, leite condensado ou mel e suco de limão até obter um molho suave; mantenha- o de lado à temperatura fresca.",
+        "step_3": "Ele passa os camarões para o álbum e, em seguida, para o amido de milho, eliminando o excesso para obter um revestimento fino.",
+        "step_4": "Traga o óleo para cerca de 170°C e frite alguns camarões de cada vez por 2-3 minutos, até que estejam apenas dourados e cozidos no centro.",
+        "step_5": "Esgote na grade ou papel absorvente e deixe- os descansar apenas alguns segundos.",
+        "step_6": "Condíscil ainda quente com o molho Ebi Mayo, mexendo suavemente para cobri- los sem amolecer demais a crosta.",
+        "step_7": "Servir imediatamente, com casca de limão ou cebola como um acabamento."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000097",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 20,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "tuorlo_d_uovo",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "olio_di_semi_di_arachidi_per_friggere",
@@ -86,53 +86,68 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kakiage Tempura",
-      "description": "A crisp Kakiage Tempura with a dry, well-set coating and a juicy or creamy center, cooked in controlled oil and served before the crust softens.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Demon Slayer. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kakiage Tempura — crisp vegetable fritters",
+      "description": "Kakiage Tempura collects onion, carrot and, optionally, shrimps in small pancakes with irregular surface. A cold batter binds just the ingredients; the frying must be light and crisp, to be served immediately with tentsuyu. Bunches of battery vegetables fry in small quantities; the tempura is drained on the grill and served still hot.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Demon Slayer. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "cipolla_affettata_sottilmente": {
-          "name": "Onion sliced sottilmente",
+          "name": "Onion sliced subtly",
           "note": null
         },
         "carota_a_julienne_sottile": {
-          "name": "Carrot a julienne sottile",
+          "name": "thin julienne carrot",
           "note": null
         },
         "gamberetti_sgusciati_a_pezzetti": {
-          "name": "Gamberetti sgusciati a pezzetti (opzionale)",
+          "name": "Shrimp (optional)",
           "note": null
         },
         "farina_tipo_00_setacciata": {
-          "name": "Flour tipo 00 setacciata",
+          "name": "flour type 00 sieved",
           "note": null
         },
         "acqua_ghiacciata": {
-          "name": "Ice-cold water",
+          "name": "frozen water",
           "note": null
         },
         "tuorlo_d_uovo": {
-          "name": "Egg yolk d'egg",
+          "name": "egg yolk",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral oil di arachidi for frying",
+          "name": "peanut seed oil for frying",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the filling or main ingredient, season it evenly and dry or chill it as needed so the coating can adhere without slipping.",
-        "step_2": "Coat or batter the pieces in the stated order, keeping the outer layer light and even rather than pressing it into a dense shell.",
-        "step_3": "Fry in small batches at controlled temperature until the exterior is deeply crisp and the center is fully cooked or heated through.",
-        "step_4": "Drain on a rack or absorbent paper, add the finishing sauce or garnish only at the end and serve promptly before the crust softens."
+        "step_1": "Slice onion and carrot very thin and cut shrimp into small pieces; dry everything well and dust with a spoonful of flour.",
+        "step_2": "Bring the oil to about 170°C in a deep pot and prepare a drizzling grill next door.",
+        "step_3": "Beat the yolk into the frozen water and incorporate the flour with a few stirs: the batter must remain cold and slightly lumpy.",
+        "step_4": "Pour only the amount of batter needed to bind vegetables and shrimps, without turning the mixture into a heavy dough.",
+        "step_5": "Shape small piles on a skimmer or between two spoons and slide gently into the oil.",
+        "step_6": "Fry a few kakiage at a time for 2-3 minutes per side, turning them once, until they are golden and light.",
+        "step_7": "Drain on grill, room immediately and serve hot with tentsuyu or salt to the matcha."
       }
     },
     "it": {
       "title": "Kakiage Tempura",
-      "description": "Un Kakiage Tempura croccante, con rivestimento asciutto e ben aderente e interno succoso o cremoso, fritto a temperatura controllata e servito appena pronto.",
+      "description": "La Kakiage Tempura raccoglie cipolla, carota e, facoltativamente, gamberetti in piccole frittelle dalla superficie irregolare. Una pastella fredda lega appena gli ingredienti; la frittura deve risultare leggera e croccante, da servire subito con tentsuyu. I mucchietti di verdure pastellate si friggono in piccole quantità; la tempura viene scolata su griglia e servita ancora calda.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Demon Slayer. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "cipolla_affettata_sottilmente": {
@@ -160,179 +175,194 @@
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Olio di semi di arachidi per friggere",
+          "name": "olio di semi di arachidi per friggere",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, riunisci in una ciotola capiente unisci le verdure affettate e i gamberetti, spolverandoli con 1 cucchiaio di farina secca per far aderire la pastella. Prepara la pastella sbattendo velocemente il tuorlo nell'acqua ghiacciata e incorporando la farina senza lavorare troppo l'impasto (deve rimanere grumoso).",
-        "step_2": "Prosegui così: aggiungi la pastella sulle verdure e amalgama delicatamente.",
-        "step_3": "Nella fase successiva, preleva mucchietti di composto con una schiumarola o bacchette e tuffali delicatamente nell'olio caldo a 170°C.",
-        "step_4": "Per completare, friggi per 2-3 minuti per lato finché la frittura risulta dorata, leggera e ultra-croccante. Scola su carta assorbente e porta in tavola calda accompagnata da sale matcha o salsa tentsuyu."
+        "step_1": "Affetta cipolla e carota molto sottili e taglia i gamberetti in piccoli pezzi; asciuga bene tutto e spolvera con un cucchiaio di farina.",
+        "step_2": "Porta l’olio a circa 170°C in una pentola profonda e prepara accanto una griglia per lo sgocciolamento.",
+        "step_3": "Sbatti il tuorlo nell’acqua ghiacciata e incorpora la farina con poche mescolate: la pastella deve restare fredda e leggermente grumosa.",
+        "step_4": "Versa solo la quantità di pastella necessaria a legare verdure e gamberi, senza trasformare il composto in un impasto pesante.",
+        "step_5": "Forma piccoli mucchietti su una schiumarola o tra due cucchiai e falli scivolare delicatamente nell’olio.",
+        "step_6": "Friggi pochi kakiage alla volta per 2-3 minuti per lato, girandoli una sola volta, finché sono dorati e leggeri.",
+        "step_7": "Scola su griglia, sala subito e servi caldo con tentsuyu o sale al matcha."
       }
     },
     "es": {
-      "title": "Kakiage Tempura",
-      "description": "Una versión práctica de Kakiage Tempura para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Demon Slayer. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kakiage tempura — buñuelos crujientes de verduras",
+      "description": "La Kakiage Tempura recoge cebolla, zanahoria y, opcionalmente, camarones en pequeños panqueques de superficie irregular. Una masa fría apenas ata los ingredientes; la fritura debe ser ligera y crujiente, para servir inmediatamente con tentsuyu. Los montones de verduras pastadas se fríen en pequeñas cantidades; el tempura se escurrirá sobre la parrilla y se servirá todavía caliente.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Demon Slayer. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "cipolla_affettata_sottilmente": {
-          "name": "Cebolla en rodajas sottilmente",
+          "name": "cebolla cortada sutilmente",
           "note": null
         },
         "carota_a_julienne_sottile": {
-          "name": "Zanahoria a julienne sottile",
+          "name": "zanahoria de julienne fina",
           "note": null
         },
         "gamberetti_sgusciati_a_pezzetti": {
-          "name": "Gamberetti sgusciati a pezzetti (opzionale)",
+          "name": "camarones de camarón (opcional)",
           "note": null
         },
         "farina_tipo_00_setacciata": {
-          "name": "Harina tipo 00 setacciata",
+          "name": "harina tipo 00 tamizado",
           "note": null
         },
         "acqua_ghiacciata": {
-          "name": "Ice-cold agua",
+          "name": "Agua helada",
           "note": null
         },
         "tuorlo_d_uovo": {
-          "name": "Huevo yolk d'huevo",
+          "name": "Yema de huevo",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral aceite di arachidi para freír",
+          "name": "Aceite de semilla de cacahuete para freír",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta cebolla y zanahoria muy finas y corta los camarones en trozos pequeños; seca bien todo y limpia con una cucharada de harina.",
+        "step_2": "Lleva el aceite a unos 170°C en una olla profunda y prepara al lado una rejilla para el goteo.",
+        "step_3": "Pon la yema en el agua helada e incorpora la harina con pocas mezclas: la masa debe permanecer fría y ligeramente grumosa.",
+        "step_4": "Sólo vierte la cantidad de masa necesaria para atar verduras y camarones, sin transformar la mezcla en una masa pesada.",
+        "step_5": "Forma pequeños montones en una espumadora o entre dos cucharas y deslízalos suavemente en el aceite.",
+        "step_6": "Fríe unos cuantos kakiages a la vez durante 2-3 minutos por lado, gírándolos una sola vez, hasta que sean dorados y ligeros.",
+        "step_7": "Escurrir sobre la parrilla, sala de inmediato y servicio caliente con tentsuyu o sal al matcha."
       }
     },
     "fr": {
-      "title": "Kakiage Tempura",
-      "description": "Une version pratique de Kakiage Tempura à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Demon Slayer. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kakiage tempura — beignets croustillants de légumes",
+      "description": "Le Kakiage Tempura récolte l'oignon, la carotte et, facultativement, les crevettes dans de petites crêpes de la surface irrégulière. Une pâte froide se lie à peine les ingrédients; la friture doit être légère et croustillante, à servir immédiatement avec le tenduyu. Les tas de légumes pastellés se frissent en petites quantités; la tempura est sculptée sur grille et servie encore chaude.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Demon Slayer. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "cipolla_affettata_sottilmente": {
-          "name": "Oignon tranché sottilmente",
+          "name": "oignon coupé subtilement",
           "note": null
         },
         "carota_a_julienne_sottile": {
-          "name": "Carotte a julienne sottile",
+          "name": "Carotte à julienne mince",
           "note": null
         },
         "gamberetti_sgusciati_a_pezzetti": {
-          "name": "Gamberetti sgusciati a pezzetti (opzionale)",
+          "name": "crevettes décortiquées en morceaux (en option)",
           "note": null
         },
         "farina_tipo_00_setacciata": {
-          "name": "Farine tipo 00 setacciata",
+          "name": "farine type 00 tamisée",
           "note": null
         },
         "acqua_ghiacciata": {
-          "name": "Ice-cold eau",
+          "name": "eau glacée",
           "note": null
         },
         "tuorlo_d_uovo": {
-          "name": "Œuf yolk d'œuf",
+          "name": "Jaune d'œufs",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral huile di arachidi pour friture",
+          "name": "Huile de graines d'arachides à frire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "L'oignon et la carotte sont très fins et coupent les crevettes en petits morceaux; ils sèchent bien tout et époussetent avec une cuillère à soupe de farine.",
+        "step_2": "Il porte l'huile à environ 170°C dans une casserole profonde et prépare à côté une grille d'égouttage.",
+        "step_3": "Claquez le jaune dans l'eau glacée et incorporez la farine avec quelques mélanges: la pâte doit rester froide et légèrement grumeuse.",
+        "step_4": "Versez seulement la quantité de pâte nécessaire pour attacher les légumes et les crevettes, sans transformer le composé en une pâte lourde.",
+        "step_5": "Forme de petites pièces sur une mousse ou entre deux cuillères à soupe et glissez doucement dans l'huile.",
+        "step_6": "Frottez quelques kakiage à la fois pendant 2-3 minutes sur le côté, en les tournant une seule fois, jusqu'à ce qu'ils soient dorés et légers.",
+        "step_7": "Escolade sur le grill, salle immédiatement et servez chaud avec tentsuyu ou montez au matcha."
       }
     },
     "de": {
-      "title": "Kakiage Tempura",
-      "description": "Eine alltagstaugliche Version von Kakiage Tempura für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Demon Slayer inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kakiage-Tempura – knusprige Gemüsefritter",
+      "description": "Die Kakiage Tempura sammelt Zwiebeln, Karotten und, optional, Garnelen in kleinen Pfannkuchen von der unregelmäßigen Oberfläche. Ein kalter Teig bindet nur die Zutaten; das Braten muss leicht und knusprig sein, sofort mit tentsuyu serviert werden. Die Haufen von Teiggemüse werden in kleinen Mengen gebraten; die Tempura wird auf dem Grill aufgefüllt und noch warm serviert.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Demon Slayer inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "cipolla_affettata_sottilmente": {
-          "name": "Zwiebel in Scheiben sottilmente",
+          "name": "Zwiebeln, dünn geschnitten",
           "note": null
         },
         "carota_a_julienne_sottile": {
-          "name": "Karotte a julienne sottile",
+          "name": "Karotte zu Julienne dünn",
           "note": null
         },
         "gamberetti_sgusciati_a_pezzetti": {
-          "name": "Gamberetti sgusciati a pezzetti (opzionale)",
+          "name": "Garnelen in Stücken (optional)",
           "note": null
         },
         "farina_tipo_00_setacciata": {
-          "name": "Mehl tipo 00 setacciata",
+          "name": "Mehl vom Typ 00, gesiebt",
           "note": null
         },
         "acqua_ghiacciata": {
-          "name": "Ice-cold Wasser",
+          "name": "Eiswasser",
           "note": null
         },
         "tuorlo_d_uovo": {
-          "name": "Ei yolk d'Ei",
+          "name": "Eigelb",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral Öl di arachidi zum Frittieren",
+          "name": "Erdnusssamenöl zum Braten",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Zwiebeln und sehr dünne Karotte schneiden und Garnelen in kleine Stücke schneiden; trocknet alles gut und staubt mit einem Esslöffel Mehl.",
+        "step_2": "Bring das Öl bei ca. 170°C in einen tiefen Topf und bereite nebenan ein Abtropfgitter vor.",
+        "step_3": "Werfen Sie den Eigelb in das eisige Wasser und geben Sie das Mehl mit wenigen Mischungen ein: der Teig muss kalt und leicht klumpig bleiben.",
+        "step_4": "Gießen Sie nur die Menge an Teig, die Sie benötigen, um Gemüse und Garnelen zu binden, ohne die Verbindung in einen schweren Teig zu verwandeln.",
+        "step_5": "Formen Sie kleine Haufen auf einem Schaumstoff oder zwischen zwei Löffeln und lassen Sie vorsichtig in das Öl rutschen.",
+        "step_6": "Frittieren Sie ein paar Kakiage auf einmal für 2-3 Minuten pro Seite, drehen Sie sie nur einmal, bis sie goldig und leicht sind.",
+        "step_7": "Auf dem Grill, der Saal sofort und servieren Sie warm mit tentsuyu oder Salz zum Matcha."
       }
     },
     "pt": {
-      "title": "Kakiage Tempura",
-      "description": "Uma versão prática de Kakiage Tempura para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Demon Slayer. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kakiage tempura — pataniscas estaladiças de legumes",
+      "description": "Kakiage Tempura recolhe cebola, cenoura e, opcionalmente, camarão em pequenas panquecas com superfície irregular. Uma massa fria liga apenas os ingredientes; a fritura deve ser leve e crocante, para ser servida imediatamente com tentsuyu. Bando de legumes de bateria frita em pequenas quantidades; a tempura é drenada na grelha e servida ainda quente.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Demon Slayer. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "cipolla_affettata_sottilmente": {
-          "name": "Cebola fatiado sottilmente",
+          "name": "Cebola cortada sutilmente",
           "note": null
         },
         "carota_a_julienne_sottile": {
-          "name": "Cenoura a julienne sottile",
+          "name": "cenoura juliana fina",
           "note": null
         },
         "gamberetti_sgusciati_a_pezzetti": {
-          "name": "Gamberetti sgusciati a pezzetti (opzionale)",
+          "name": "Camarão (opcional)",
           "note": null
         },
         "farina_tipo_00_setacciata": {
-          "name": "Farinha tipo 00 setacciata",
+          "name": "o tipo de farinha 00 selecionado",
           "note": null
         },
         "acqua_ghiacciata": {
-          "name": "Ice-cold água",
+          "name": "água congelada",
           "note": null
         },
         "tuorlo_d_uovo": {
-          "name": "Ovo yolk d'ovo",
+          "name": "gema de ovo",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral óleo di arachidi para fritar",
+          "name": "Óleo de sementes de amendoim para fritar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte cebola e cenoura muito finas e corte camarão em pedaços pequenos; seque tudo bem e poeira com uma colher cheia de farinha.",
+        "step_2": "Traga o óleo para cerca de 170°C em um pote profundo e prepare uma grelha de escovar ao lado.",
+        "step_3": "Bata a gema na água congelada e incorpora a farinha com algumas agitações: a massa deve permanecer fria e ligeiramente grumosa.",
+        "step_4": "Verter apenas a quantidade de massa necessária para amarrar vegetais e camarão, sem transformar a mistura em uma massa pesada.",
+        "step_5": "Formar pequenas pilhas em um esquimador ou entre duas colheres e deslizar suavemente para o óleo.",
+        "step_6": "Frite alguns kakiage de cada vez por 2-3 minutos por lado, girando- os uma vez, até que estejam dourados e leves.",
+        "step_7": "Esgote na grelha, aloje imediatamente e sirva quente com tentsuyu ou sal para o matcha."
       }
     }
   }

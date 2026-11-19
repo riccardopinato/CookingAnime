@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000157",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -65,7 +65,12 @@
       "unit": "tbsp"
     },
     {
-      "id": "semi_di_sesamo_bianco_e_nero_tostato",
+      "id": "semi_di_sesamo_bianco_e_nero_tostato_1_semi_di_sesamo_bianco",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "id": "semi_di_sesamo_bianco_e_nero_tostato_2_nero_tostato",
       "quantity": null,
       "unit": null
     }
@@ -85,58 +90,87 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 300
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 240
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 240
+    },
+    {
+      "id": "step_9",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Nasu Dengaku",
-      "description": "A quick-cooked Nasu Dengaku that relies on high heat, organized mise en place and short cooking times to keep vegetables lively and sauces concentrated.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer, Emiya-san Chi no Kyou no Gohan. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Nasu Dengaku — eggplant glazed with sweet toasted miso",
+      "description": "The Nasu Dengaku are half-boiled eggplant in a pan, brushed with a sweet icing of miso, mirin and sake. The surface is briefly passed under the grill to caramelize, then completed with toasted sesame. The sweet miso glaze forms small bubbles under the grill, then the eggplants are completed with toasted sesame.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer, Emiya-san Chi no Kyou no Gohan. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "melanzana_tonde_medie_o_giapponesi_corte": {
-          "name": "Eggplant tonde medie o giapponesi corte",
+          "name": "medium or short Japanese round eggplant",
           "note": null
         },
         "pasta_di_miso_bianco": {
-          "name": "Miso paste white (shiro miso)",
+          "name": "white miso paste (Shiro Miso)",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral oil",
+          "name": "seed oil",
           "note": null
         },
-        "semi_di_sesamo_bianco_e_nero_tostato": {
-          "name": "Sesame seeds white e black tostato",
+        "semi_di_sesamo_bianco_e_nero_tostato_1_semi_di_sesamo_bianco": {
+          "name": "White sesame seeds",
+          "note": null
+        },
+        "semi_di_sesamo_bianco_e_nero_tostato_2_nero_tostato": {
+          "name": "toasted black sesame seeds",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and measure every ingredient before heating the pan, because the cooking phase is short and should not be interrupted for preparation.",
-        "step_2": "Use a hot pan or griddle and cook the firmer ingredients first, keeping them moving so they brown without steaming in their own moisture.",
-        "step_3": "Add the remaining ingredients and sauce in stages, cooking only until the sauce clings and the vegetables retain some bite.",
-        "step_4": "Finish with the fresh garnish and serve immediately, while the pan-seared surfaces and concentrated seasoning are still vivid."
+        "step_1": "Cut the eggplants in half in the direction of length.",
+        "step_2": "Slice the grilled pulp without piercing the skin.",
+        "step_3": "Heat the oil in a large pan.",
+        "step_4": "Cook the eggplants on the side of the flesh over medium heat for 5 minutes until golden.",
+        "step_5": "Turn the eggplant, cover and continue cooking for another 4 minutes, until the pulp is soft.",
+        "step_6": "In a saucepan, mix miso, mirin, sake and sugar over low heat for 2 minutes until you get a smooth and dense glaze.",
+        "step_7": "Generously brush the flesh of the eggplant with miso frosting.",
+        "step_8": "Place the aubergines under the oven grill at 220°C for 3–4 minutes, until the glaze bubbles and caramelizes slightly.",
+        "step_9": "Complete with toasted sesame seeds and serve hot eggplants."
       }
     },
     "it": {
       "title": "Nasu Dengaku (Melanzane Glassate al Miso Dolce Tostato)",
-      "description": "Un Nasu Dengaku (Melanzane Glassate al Miso Dolce Tostato) dalla cottura rapida, basato su fiamma vivace, ingredienti già pronti e tempi brevi per mantenere verdure croccanti e salsa concentrata.",
+      "description": "Le Nasu Dengaku sono mezze melanzane rosolate in padella, spennellate con una glassa dolce di miso, mirin e sake. La superficie viene passata brevemente sotto il grill per caramellare, poi completata con sesamo tostato. La glassa dolce al miso forma piccole bolle sotto il grill, poi le melanzane vengono completate con sesamo tostato.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer, Emiya-san Chi no Kyou no Gohan. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "melanzana_tonde_medie_o_giapponesi_corte": {
-          "name": "melanzana tonde medie o giapponesi corte",
+          "name": "melanzane tonde medie o giapponesi corte",
           "note": null
         },
         "pasta_di_miso_bianco": {
@@ -159,111 +193,138 @@
           "name": "olio di semi",
           "note": null
         },
-        "semi_di_sesamo_bianco_e_nero_tostato": {
-          "name": "Semi di sesamo bianco e nero tostato",
+        "semi_di_sesamo_bianco_e_nero_tostato_1_semi_di_sesamo_bianco": {
+          "name": "semi di sesamo bianco",
+          "note": null
+        },
+        "semi_di_sesamo_bianco_e_nero_tostato_2_nero_tostato": {
+          "name": "semi di sesamo nero tostato",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, tagliare le melanzane a metà nel senso della lunghezza. Incidere la polpa a griglia senza forare la buccia.",
-        "step_2": "Prosegui così: porta a temperaturare l'olio in una padella. Cuocere le melanzane dal lato della polpa a fuoco medio per 5 minuti finché dorate. Girare, coprire e cuocere altri 4 minuti finché morbide.",
-        "step_3": "Nella fase successiva, metti in un pentolino amalgamare miso, mirin, sake e zucchero a fuoco basso per 2 minuti fino ad ottenere una glassa liscia e densa. Spennellare generosamente la polpa delle melanzane con la glassa al miso. Trasferire sotto il grill del forno a 220°C per 3-4 minuti finché la salsa fa le bolle e caramella leggermente.",
-        "step_4": "Per completare, spolverare con semi di sesamo tostati e porta in tavolare calde."
+        "step_1": "Taglia le melanzane a metà nel senso della lunghezza.",
+        "step_2": "Incidi la polpa a griglia senza perforare la buccia.",
+        "step_3": "Scalda l'olio in una padella ampia.",
+        "step_4": "Cuoci le melanzane dal lato della polpa a fuoco medio per 5 minuti finché dorate.",
+        "step_5": "Gira le melanzane, copri e prosegui la cottura per altri 4 minuti, finché la polpa è morbida.",
+        "step_6": "In un pentolino, mescola miso, mirin, sake e zucchero a fuoco basso per 2 minuti fino a ottenere una glassa liscia e densa.",
+        "step_7": "Spennella generosamente la polpa delle melanzane con la glassa al miso.",
+        "step_8": "Trasferisci le melanzane sotto il grill del forno a 220°C per 3-4 minuti, finché la glassa forma bolle e caramella leggermente.",
+        "step_9": "Completa con semi di sesamo tostati e servi le melanzane calde."
       }
     },
     "es": {
-      "title": "Nasu Dengaku",
-      "description": "Una versión práctica de Nasu Dengaku para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Emiya-san Chi no Kyou no Gohan. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Nasu dengaku — berenjenas glaseadas con miso dulce tostado",
+      "description": "Las Nasu Dengaku son medio berenjenas rosoladas en la sartén, desmenuzadas con un glaseado dulce de miso, mirin y sake. La superficie se pasa brevemente por debajo de la parrilla para caramelizar, luego se completa con sésamo tostado. El glaseado dulce de miso forma pequeñas burbujas bajo la parrilla, luego las berenjenas se completan con sésamo tostado.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Emiya-san Chi no Kyou no Gohan. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "melanzana_tonde_medie_o_giapponesi_corte": {
-          "name": "Berenjena tonde medie o giapponesi corte",
+          "name": "berenjenas redondas medias o japonesas cortas",
           "note": null
         },
         "pasta_di_miso_bianco": {
-          "name": "Miso paste blanco (shiro miso)",
+          "name": "pasta de miso blanco (shiro Miso)",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral aceite",
+          "name": "Aceite de semilla",
           "note": null
         },
-        "semi_di_sesamo_bianco_e_nero_tostato": {
-          "name": "Semillas de sésamo blanco e negro tostato",
+        "semi_di_sesamo_bianco_e_nero_tostato_1_semi_di_sesamo_bianco": {
+          "name": "Semillas de sésamo blanco",
+          "note": null
+        },
+        "semi_di_sesamo_bianco_e_nero_tostato_2_nero_tostato": {
+          "name": "Semillas de sésamo negra tostadas",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta las berenjenas a la mitad en el sentido de la longitud.",
+        "step_2": "Incide la pulpa a la parrilla sin perforar la piel.",
+        "step_3": "Calienta el aceite en una sartén grande.",
+        "step_4": "Cocine las berenjenas del lado de la pulpa a fuego medio durante 5 minutos hasta que dore.",
+        "step_5": "Gira las berenjenas, cubre y continúa la cocción durante 4 minutos más, hasta que la pulpa sea suave.",
+        "step_6": "En una olla, mezcla miso, mirin, sake y azúcar a fuego lento durante 2 minutos hasta obtener un glaseado suave y denso.",
+        "step_7": "Despelleja generosamente la pulpa de las berenjenas con el glaseado al miso.",
+        "step_8": "Transferir las berenjenas bajo la parrilla del horno a 220°C durante 3-4 minutos, hasta que el glaseado forme burbujas y caramelos ligeramente.",
+        "step_9": "Completa con semillas de sésamo tostadas y sirve a las berenjenas calientes."
       }
     },
     "fr": {
-      "title": "Nasu Dengaku",
-      "description": "Une version pratique de Nasu Dengaku à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer, Emiya-san Chi no Kyou no Gohan. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Nasu dengaku — aubergines laquées au miso doux grillé",
+      "description": "Les Nasu Dengaku sont des demi-aubergines roulées dans des poêles, plumées avec un glaçage doux de miso, de myrin et de saké. La surface est passée brièvement sous le grill pour caramel, puis complétée par du sésame grillé. Le glaçage doux forme de petites bulles sous le grill, puis les aubergines sont complétées par du sésame grillé.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer, Emiya-san Chi no Kyou no Gohan. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "melanzana_tonde_medie_o_giapponesi_corte": {
-          "name": "Aubergine tonde medie o giapponesi corte",
+          "name": "Aubergines rondes moyennes ou japonaises courtes",
           "note": null
         },
         "pasta_di_miso_bianco": {
-          "name": "Miso paste blanc (shiro miso)",
+          "name": "pâte de miso blanc (Shiro Miso)",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "saké",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral huile",
+          "name": "huile de graines",
           "note": null
         },
-        "semi_di_sesamo_bianco_e_nero_tostato": {
-          "name": "Graines de sésame blanc e noir tostato",
+        "semi_di_sesamo_bianco_e_nero_tostato_1_semi_di_sesamo_bianco": {
+          "name": "graines de sésame blanc",
+          "note": null
+        },
+        "semi_di_sesamo_bianco_e_nero_tostato_2_nero_tostato": {
+          "name": "graines de sésame noir grillé",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coupe les aubergines en deux dans le sens de la longueur.",
+        "step_2": "Inciter la pulpe à griller sans perforer la peau.",
+        "step_3": "Chauffez l'huile dans une grande poêle.",
+        "step_4": "Faites cuire les aubergines du côté de la pulpe à feu moyen pendant 5 minutes jusqu'à ce que vous ayez de l'or.",
+        "step_5": "Tournez les aubergines, couvrez et continuez la cuisson pendant 4 minutes, jusqu'à ce que la pulpe soit douce.",
+        "step_6": "Dans une casserole, mélange miso, mirin, saké et sucre à feu bas pendant 2 minutes jusqu'à obtenir un glaçage lisse et dense.",
+        "step_7": "Elle aspire généreusement la pulpe des aubergines avec du glaçage au miso.",
+        "step_8": "Transférez les aubergines sous le gril du four à 220°C pendant 3-4 minutes, jusqu'à ce que le glaçage forme des bulles et des bonbons légèrement.",
+        "step_9": "Complétez avec des graines de sésame grillées et servez les aubergines chaudes."
       }
     },
     "de": {
-      "title": "Nasu Dengaku",
-      "description": "Eine alltagstaugliche Version von Nasu Dengaku für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Emiya-san Chi no Kyou no Gohan inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Nasu Dengaku – Aubergine mit süßer gerösteter Misoglasur",
+      "description": "Die Nasu Dengaku sind halbgebrannte Auberginen in der Pfanne, mit einer süßen Glasur aus Miso, Mirin und Sake gespeist. Die Oberfläche wird kurz unter dem Grill für Karamell, dann mit Toast Sesam ergänzt. Die süße Misoglasur bildet kleine Blasen unter dem Grill, dann werden die Auberginen mit geröstetem Sesam ergänzt.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Emiya-san Chi no Kyou no Gohan inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "melanzana_tonde_medie_o_giapponesi_corte": {
-          "name": "Aubergine tonde medie o giapponesi corte",
+          "name": "mittlere oder kurze runde Auberginen/Melanzani",
           "note": null
         },
         "pasta_di_miso_bianco": {
-          "name": "Miso paste weiß (shiro miso)",
+          "name": "Paste aus weißem Miso (Shiro Miso)",
           "note": null
         },
         "mirin": {
@@ -271,7 +332,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
@@ -279,60 +340,78 @@
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral Öl",
+          "name": "Samenöl",
           "note": null
         },
-        "semi_di_sesamo_bianco_e_nero_tostato": {
-          "name": "Sesamsamen weiß e schwarz tostato",
+        "semi_di_sesamo_bianco_e_nero_tostato_1_semi_di_sesamo_bianco": {
+          "name": "Weiße Sesamsamen",
+          "note": null
+        },
+        "semi_di_sesamo_bianco_e_nero_tostato_2_nero_tostato": {
+          "name": "Sesamsamen, geröstet",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schneide die Auberginen in der Mitte in der Richtung der Länge ab.",
+        "step_2": "Berühren Sie das gegrillte Fruchtfleisch, ohne die Schale zu durchbohren.",
+        "step_3": "Erhitzt das Öl in einer großen Pfanne.",
+        "step_4": "Backen Sie die Auberginen 5 Minuten lang auf der Seite des durchschnittlichen feurigen Fruchtfleisches, bis Sie golden sind.",
+        "step_5": "Drehen Sie die Auberginen um, bedecken Sie das Kochen für weitere 4 Minuten, bis das Fruchtfleisch weich ist.",
+        "step_6": "In einem Topf, Mischung Miso, Mirin, Sake und Zucker mit niedrigem Feuer für 2 Minuten, bis Sie eine glatte und dichte Glasur.",
+        "step_7": "Das Fruchtfleisch der Auberginen großzügig mit der Misoglasur bestreichen.",
+        "step_8": "Übertragen Sie die Auberginen für 3 bis 4 Minuten unter den Ofengrill bei 220 °C, bis die Glasur leicht Blasen und Süßigkeiten bildet.",
+        "step_9": "Komplett mit gerösteten Sesamsamen und serviere heiße Auberginen."
       }
     },
     "pt": {
-      "title": "Nasu Dengaku",
-      "description": "Uma versão prática de Nasu Dengaku para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer, Emiya-san Chi no Kyou no Gohan. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Nasu dengaku — beringela glaceada com miso doce tostado",
+      "description": "O Nasu Dengaku é uma berinjela meio cozida numa panela, escovada com um doce gelo de miso, mirin e sake. A superfície é brevemente passada sob a grelha para caramelizar, então completada com sésamo torrado. O esmalte de miso doce forma pequenas bolhas sob a grelha, então as berinjelas são completadas com sésamo torrado.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer, Emiya-san Chi no Kyou no Gohan. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "melanzana_tonde_medie_o_giapponesi_corte": {
-          "name": "Beringela tonde medie o giapponesi corte",
+          "name": "berinjela redonda japonesa média ou curta",
           "note": null
         },
         "pasta_di_miso_bianco": {
-          "name": "Miso paste branco (shiro miso)",
+          "name": "pasta de miso branco (Shiro Miso)",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral óleo",
+          "name": "óleo de sementes",
           "note": null
         },
-        "semi_di_sesamo_bianco_e_nero_tostato": {
-          "name": "Sementes de sésamo branco e preto tostato",
+        "semi_di_sesamo_bianco_e_nero_tostato_1_semi_di_sesamo_bianco": {
+          "name": "Sementes de sésamo branco",
+          "note": null
+        },
+        "semi_di_sesamo_bianco_e_nero_tostato_2_nero_tostato": {
+          "name": "sementes de sésamo preto tostadas",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte as berinjelas ao meio na direção do comprimento.",
+        "step_2": "Corte a polpa grelhada sem piercing na pele.",
+        "step_3": "Aqueça o óleo em uma panela grande.",
+        "step_4": "Cozinhe as berinjelas do lado da carne a fogo médio durante 5 minutos até dourar.",
+        "step_5": "Vire a berinjela, cubra e continue cozindo por mais 4 minutos, até que a polpa esteja macia.",
+        "step_6": "Numa panela, misturar miso, mirin, sake e açúcar a fogo lento durante 2 minutos até obter um esmalte suave e denso.",
+        "step_7": "Escove generosamente a carne da berinjela com miso glaseado.",
+        "step_8": "Transferir as berinjelas sob a grelha do forno a 220°C por 3-4 minutos, até que o esmalte forme bolhas e doces ligeiramente.",
+        "step_9": "Completar com sementes de sésamo torradas e servir berinjelas quentes."
       }
     }
   }

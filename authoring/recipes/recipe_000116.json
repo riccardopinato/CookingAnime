@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000116",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -21,23 +21,28 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 5,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
-      "id": "radice_di_gobo",
+      "id": "radice_di_gobo_1_radice_di_gobo_bardana",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
+    },
+    {
+      "id": "radice_di_gobo_2_carota_a_fiammifero",
+      "quantity": 1.0,
+      "unit": "piece"
     },
     {
       "id": "olio_di_sesamo",
@@ -52,15 +57,20 @@
     {
       "id": "mirin",
       "quantity": 1,
-      "unit": null
+      "unit": "tbsp"
     },
     {
       "id": "zucchero",
       "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_1_peperoncino_shichimi_togara",
+      "quantity": null,
       "unit": null
     },
     {
-      "id": "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to",
+      "id": "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_2_semi_di_sesamo_tostati",
       "quantity": null,
       "unit": null
     }
@@ -68,7 +78,7 @@
   "steps": [
     {
       "id": "step_1",
-      "timerSeconds": null
+      "timerSeconds": 300
     },
     {
       "id": "step_2",
@@ -76,25 +86,41 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 240
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kimpira Gobo",
-      "description": "A quick-cooked Kimpira Gobo that relies on high heat, organized mise en place and short cooking times to keep vegetables lively and sauces concentrated.",
-      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Fruits Basket. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kinpira Gobo — sautéed burdock root and carrots",
+      "description": "In the Kimpira Gobo thin sticks of bardana and carrot are quickly salted and flavored with soy sauce, mirin and sesame. The consistency remains slightly crisp; shichimi and toasted seeds complete the vegetables. The bardana must remain slightly crisp after evaporation of the soy sauce, with sesame and shichimi added last.",
+      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Fruits Basket. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
-        "radice_di_gobo": {
-          "name": "Radice di gobo (bardana) e 1 carrot a fiammifero",
+        "radice_di_gobo_1_radice_di_gobo_bardana": {
+          "name": "Gobo root (bardana)",
+          "note": null
+        },
+        "radice_di_gobo_2_carota_a_fiammifero": {
+          "name": "carrot to match",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         },
         "salsa_di_soia": {
@@ -102,32 +128,43 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
-        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to": {
-          "name": "Peperoncino shichimi togarashi e sesame seeds tostati",
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_1_peperoncino_shichimi_togara": {
+          "name": "Chilli Chili Shichimi Togarashi",
+          "note": null
+        },
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_2_semi_di_sesamo_tostati": {
+          "name": "toasted sesame seeds",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and measure every ingredient before heating the pan, because the cooking phase is short and should not be interrupted for preparation.",
-        "step_2": "Use a hot pan or griddle and cook the firmer ingredients first, keeping them moving so they brown without steaming in their own moisture.",
-        "step_3": "Add the remaining ingredients and sauce in stages, cooking only until the sauce clings and the vegetables retain some bite.",
-        "step_4": "Finish with the fresh garnish and serve immediately, while the pan-seared surfaces and concentrated seasoning are still vivid."
+        "step_1": "Wash and brush the bardana, cut it into a match and put it in the water immediately for about 5 minutes to limit oxidation and attenuate astringency.",
+        "step_2": "Cut the carrot into sticks of the same size and drain the beard very well.",
+        "step_3": "Heat sesame oil in a frying pan and burdock and carrot sauce over medium to high heat for 3-4 minutes.",
+        "step_4": "Add sugar and mirin and mix until the sugar is dissolved and the vegetables start to icing.",
+        "step_5": "Pour in the soy sauce and keep jumping until the liquid has almost evaporated.",
+        "step_6": "Taste: the bardana must be cooked but still slightly crispy.",
+        "step_7": "Complete with toasted sesame and togarashi shichimi and serve warm, warm or at room temperature."
       }
     },
     "it": {
       "title": "Kimpira Gobo (Radici di Bardana e Carote Saltate)",
-      "description": "Un Kimpira Gobo (Radici di Bardana e Carote Saltate) dalla cottura rapida, basato su fiamma vivace, ingredienti già pronti e tempi brevi per mantenere verdure croccanti e salsa concentrata.",
+      "description": "Nel Kimpira Gobo bastoncini sottili di bardana e carota vengono saltati rapidamente e insaporiti con salsa di soia, mirin e sesamo. La consistenza resta leggermente croccante; shichimi e semi tostati completano le verdure. La bardana deve restare leggermente croccante dopo l'evaporazione della salsa di soia, con sesamo e shichimi aggiunti per ultimi.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Fruits Basket. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
-        "radice_di_gobo": {
-          "name": "radice di Gobo (bardana) e 1 carota a fiammifero",
+        "radice_di_gobo_1_radice_di_gobo_bardana": {
+          "name": "radice di Gobo (bardana)",
+          "note": null
+        },
+        "radice_di_gobo_2_carota_a_fiammifero": {
+          "name": "carota a fiammifero",
           "note": null
         },
         "olio_di_sesamo": {
@@ -146,29 +183,40 @@
           "name": "zucchero",
           "note": null
         },
-        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to": {
-          "name": "Peperoncino Shichimi Togarashi e semi di sesamo tostati",
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_1_peperoncino_shichimi_togara": {
+          "name": "peperoncino Shichimi Togarashi",
+          "note": null
+        },
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_2_semi_di_sesamo_tostati": {
+          "name": "semi di sesamo tostati",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, taglia la bardana a fiammiferi e lasciala in ammollo in acqua per 5 minuti.",
-        "step_2": "Prosegui così: salta la bardana e la carota nell'olio di sesamo a fuoco vivace per 3-4 minuti.",
-        "step_3": "Nella fase successiva, unisci zucchero, mirin e salsa di soia; lascia cuocere finché i liquidi evaporano e le verdure si caramellano.",
-        "step_4": "Per completare, spolvera con sesamo tostato e peperoncino Shichimi. Controlla consistenza e cottura prima di passare alla fase successiva."
+        "step_1": "Lava e spazzola la bardana, tagliala a fiammifero e mettila subito in acqua per circa 5 minuti per limitarne l’ossidazione e attenuare l’astringenza.",
+        "step_2": "Taglia la carota in bastoncini della stessa dimensione e scola molto bene la bardana.",
+        "step_3": "Scalda l’olio di sesamo in padella e salta bardana e carota a fuoco medio-alto per 3-4 minuti.",
+        "step_4": "Aggiungi zucchero e mirin e mescola finché lo zucchero è sciolto e le verdure iniziano a glassarsi.",
+        "step_5": "Versa la salsa di soia e continua a saltare finché il liquido è quasi del tutto evaporato.",
+        "step_6": "Assaggia: la bardana deve essere cotta ma ancora leggermente croccante.",
+        "step_7": "Completa con sesamo tostato e shichimi togarashi e servi caldo, tiepido o a temperatura ambiente."
       }
     },
     "es": {
-      "title": "Kimpira Gobo",
-      "description": "Una versión práctica de Kimpira Gobo para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Fruits Basket. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kinpira gobo — raíz de bardana y zanahoria salteadas",
+      "description": "En el Kimpira Gobo palitos finos de bardana y zanahoria se saltan rápidamente y se sazonan con salsa de soja, mirín y sésamo. La consistencia sigue siendo ligeramente crujiente; shichimi y semillas tostadas completan las verduras. La bardana debe permanecer ligeramente crujiente después de la evaporación de la salsa de soja, con sésamo y shichimi añadidos al último.",
+      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Fruits Basket. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
-        "radice_di_gobo": {
-          "name": "Radice di gobo (bardana) e 1 zanahoria a fiammifero",
+        "radice_di_gobo_1_radice_di_gobo_bardana": {
+          "name": "Raíz de Gobo (Bardana)",
+          "note": null
+        },
+        "radice_di_gobo_2_carota_a_fiammifero": {
+          "name": "zanahoria de fósforo",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame aceite",
+          "name": "Aceite de sésamo",
           "note": null
         },
         "salsa_di_soia": {
@@ -176,77 +224,99 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
-        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to": {
-          "name": "Peperoncino shichimi togarashi e semillas de sésamo tostati",
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_1_peperoncino_shichimi_togara": {
+          "name": "chile Shichimi Togarashi",
+          "note": null
+        },
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_2_semi_di_sesamo_tostati": {
+          "name": "Semillas de sésamo tostadas",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Lava y cepilla la bardana, córtala en fósforo y ponla en agua durante unos 5 minutos para limitar la oxidación y atenuar la astringencia.",
+        "step_2": "Corta la zanahoria en palitos del mismo tamaño y escurrir muy bien la bardana.",
+        "step_3": "Calienta el aceite de sésamo en la sartén y salta bardana y zanahoria a fuego medio-alto durante 3-4 minutos.",
+        "step_4": "Añade azúcar y mirin y mezcla hasta que el azúcar se derrita y las verduras empiezan a glasearse.",
+        "step_5": "Vierte la salsa de soja y sigue saltando hasta que el líquido esté casi totalmente evaporado.",
+        "step_6": "Prueba: la bardana debe ser cocida pero todavía ligeramente crujiente.",
+        "step_7": "Completa con sésamo tostada y shichimi togarashi y sirvientes calientes, tibios o a temperatura ambiente."
       }
     },
     "fr": {
-      "title": "Kimpira Gobo",
-      "description": "Une version pratique de Kimpira Gobo à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Emiya-san Chi no Kyou no Gohan, Fruits Basket. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kinpira gobo — racine de bardane et carottes sautées",
+      "description": "Dans le Kimpira Gobo bâtonnets fins de bardane et carotte sont sautés rapidement et savoureux avec de la sauce de soja, de la myrine et du sésame. La consistance reste légèrement croustillante; shichimi et graines grillées complètent les légumes. La bardane doit rester légèrement croustillante après l'évaporation de la sauce de soja, avec le sésame et les chichimi ajoutés pour les derniers.",
+      "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Fruits Basket. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
-        "radice_di_gobo": {
-          "name": "Radice di gobo (bardana) e 1 carotte a fiammifero",
+        "radice_di_gobo_1_radice_di_gobo_bardana": {
+          "name": "Gobo racine (bardane)",
+          "note": null
+        },
+        "radice_di_gobo_2_carota_a_fiammifero": {
+          "name": "Carotte en allumette",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
-        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to": {
-          "name": "Peperoncino shichimi togarashi e graines de sésame tostati",
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_1_peperoncino_shichimi_togara": {
+          "name": "Piment Shichimi Togarashi",
+          "note": null
+        },
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_2_semi_di_sesamo_tostati": {
+          "name": "Graines de sésame grillées",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Lave et brosse la bardane, coupe-la en allumette et mets-la dans l'eau pendant environ 5 minutes pour en limiter l'oxydation et atténuer l'astringence.",
+        "step_2": "Coupez la carotte en bâtonnets de la même taille et aspirez très bien la bardane.",
+        "step_3": "Chauffez l'huile de sésame dans la poêle et sautez bardane et carotte à feu moyen-haut pendant 3-4 minutes.",
+        "step_4": "Ajoute le sucre et le mirin, puis remue jusqu’à dissolution du sucre, lorsque les légumes commencent à se glacer.",
+        "step_5": "Versez la sauce soja et continuez à sauter jusqu'à ce que le liquide soit presque complètement évaporé.",
+        "step_6": "Goûtez: la bardane doit être cuite mais encore légèrement croustillante.",
+        "step_7": "Complétez avec le sésame grillé et les shichimi togarashi et servez chaud, tiède ou à température ambiante."
       }
     },
     "de": {
-      "title": "Kimpira Gobo",
-      "description": "Eine alltagstaugliche Version von Kimpira Gobo für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Fruits Basket inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kinpira Gobo – gebratene Klettenwurzel mit Karotten",
+      "description": "Im Kimpira Gobo werden dünne Klettersteigchen und Karotte schnell übersprungen und mit Soja-, Mirin- und Sesamsoße gewürzt. Die Konsistenz bleibt leicht knusprig; Shichimi und halbgeröstete vervollständigen das Gemüse. Die Klette muss nach dem Verdampfen der Sojasoße leicht knusprig bleiben, mit Sesam und Shichimi als letzten hinzugefügt.",
+      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Fruits Basket inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
-        "radice_di_gobo": {
-          "name": "Radice di gobo (bardana) e 1 Karotte a fiammifero",
+        "radice_di_gobo_1_radice_di_gobo_bardana": {
+          "name": "Gobowurzel (Bardana)",
+          "note": null
+        },
+        "radice_di_gobo_2_carota_a_fiammifero": {
+          "name": "Streichhölzer-Möhre",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -257,29 +327,40 @@
           "name": "Zucker",
           "note": null
         },
-        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to": {
-          "name": "Peperoncino shichimi togarashi e Sesamsamen tostati",
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_1_peperoncino_shichimi_togara": {
+          "name": "Chili Shichimi Togarashi",
+          "note": null
+        },
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_2_semi_di_sesamo_tostati": {
+          "name": "geröstete Sesamsamen",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Lava und Bürsten Sie die Klette, schneiden Sie sie in Streichhölzer und legen Sie sie sofort für etwa 5 Minuten ins Wasser, um ihre Oxidation zu begrenzen und die Astronomie zu mildern.",
+        "step_2": "Schneide die Karotte in Stöcke der gleichen Größe und schütte die Klette sehr gut ab.",
+        "step_3": "Erhitzt Sesamöl in der Pfanne und springt Klette und Karotte bei mittlerer bis hoher Hitze für 3-4 Minuten.",
+        "step_4": "Fügen Sie Zucker und Mirin hinzu und mischen Sie, bis der Zucker gelöst ist und das Gemüse beginnt zu glasieren.",
+        "step_5": "Gießen Sie die Sojasoße aus und springen Sie weiter, bis die Flüssigkeit fast vollständig verdunstet ist.",
+        "step_6": "Probieren Sie: Die Klette muss gekocht werden, aber immer noch leicht knusprig.",
+        "step_7": "Komplett mit gerösteten Sesam und togarashi Schichimi und warmen, warmen oder bei Raumtemperatur servieren."
       }
     },
     "pt": {
-      "title": "Kimpira Gobo",
-      "description": "Uma versão prática de Kimpira Gobo para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Emiya-san Chi no Kyou no Gohan, Fruits Basket. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kinpira gobo — raiz de bardana e cenoura salteadas",
+      "description": "No Kimpira Gobo os bastões finos de bardana e cenoura são rapidamente salgados e aromatizados com molho de soja, mirin e sésamo. A consistência permanece ligeiramente nítida; shichimi e sementes torradas completam os vegetais. O bardana deve permanecer ligeiramente fresco após a evaporação do molho de soja, com o sésamo e shichimi adicionados em último lugar.",
+      "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Fruits Basket. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
-        "radice_di_gobo": {
-          "name": "Radice di gobo (bardana) e 1 cenoura a fiammifero",
+        "radice_di_gobo_1_radice_di_gobo_bardana": {
+          "name": "Raiz de gobo (bardana)",
+          "note": null
+        },
+        "radice_di_gobo_2_carota_a_fiammifero": {
+          "name": "cenoura para combinar",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         },
         "salsa_di_soia": {
@@ -287,23 +368,30 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
-        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to": {
-          "name": "Peperoncino shichimi togarashi e sementes de sésamo tostati",
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_1_peperoncino_shichimi_togara": {
+          "name": "Chilli Chili Shichimi Togarashi",
+          "note": null
+        },
+        "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_2_semi_di_sesamo_tostati": {
+          "name": "sementes de sésamo tostadas",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Lave e escove o bardana, corte- o em um fósforo e coloque- o na água imediatamente por cerca de 5 minutos para limitar a oxidação e atenuar a estringência.",
+        "step_2": "Corte a cenoura em paus do mesmo tamanho e drene a barba muito bem.",
+        "step_3": "Aqueça o óleo de sésamo em uma frigideira e molho de burdock e cenoura a fogo médio a alto durante 3-4 minutos.",
+        "step_4": "Adicione açúcar e mirin e misture até que o açúcar seja dissolvido e os vegetais comecem a congelar.",
+        "step_5": "Coloque no molho de soja e continue pulando até que o líquido tenha quase evaporado.",
+        "step_6": "Sabor: o bardana deve ser cozido, mas ainda ligeiramente crocante.",
+        "step_7": "Completar com sésamo torrado e shichimi togarashi e servir quente, quente ou à temperatura ambiente."
       }
     }
   }

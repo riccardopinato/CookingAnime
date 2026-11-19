@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000126",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,38 +21,58 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 25,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
       "id": "carne_di_maiale",
-      "quantity": null,
-      "unit": null
+      "quantity": 120,
+      "unit": "g"
     },
     {
       "id": "gamberi",
-      "quantity": null,
-      "unit": null
+      "quantity": 6,
+      "unit": "piece"
     },
     {
-      "id": "cipolla_e_lotus_negli_spiedini",
-      "quantity": null,
-      "unit": null
+      "id": "cipolla_e_lotus_negli_spiedini_1_cipolla",
+      "quantity": 1,
+      "unit": "piece"
     },
     {
-      "id": "pastella_liquida",
-      "quantity": null,
-      "unit": null
+      "id": "cipolla_e_lotus_negli_spiedini_2_radice_di_loto_negli_spiedini",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "id": "farina_per_pastella",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "id": "acqua_fredda_per_pastella",
+      "quantity": 150,
+      "unit": "ml"
+    },
+    {
+      "id": "uovo_per_pastella",
+      "quantity": 1,
+      "unit": "piece"
+    },
+    {
+      "id": "pastella_liquida_2_panko_raffinato",
+      "quantity": 100,
+      "unit": "g"
     },
     {
       "id": "salsa_tonkatsu_speziata",
@@ -76,145 +96,233 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kushikatsu",
-      "description": "A crisp Kushikatsu with a dry, well-set coating and a juicy or creamy center, cooked in controlled oil and served before the crust softens.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Isekai Izakaya Nobu. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kushikatsu — Osaka-style crispy fried skewers",
+      "description": "The Kushikatsu are meat skewers, shrimps and fried and breaded vegetables until you get a uniform crust. The pieces are cut in similar sizes and infiltrated before the breading; the sauce is used separately. The skewers are fried a few at a time and drained on the grill; meat and shrimp require a verification of the cooking in the center.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Isekai Izakaya Nobu. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "carne_di_maiale": {
-          "name": "Pork",
+          "name": "pork",
           "note": null
         },
         "gamberi": {
-          "name": "Shrimp",
+          "name": "prawns",
           "note": null
         },
-        "cipolla_e_lotus_negli_spiedini": {
-          "name": "Onion e lotus negli spiedini",
+        "cipolla_e_lotus_negli_spiedini_1_cipolla": {
+          "name": "onion",
           "note": null
         },
-        "pastella_liquida": {
-          "name": "Pastella liquida (flour, water, egg) e panko raffinato",
+        "cipolla_e_lotus_negli_spiedini_2_radice_di_loto_negli_spiedini": {
+          "name": "lotus root in skewers",
+          "note": null
+        },
+        "farina_per_pastella": {
+          "name": "flour 00 for batter",
+          "note": null
+        },
+        "acqua_fredda_per_pastella": {
+          "name": "very cold water",
+          "note": null
+        },
+        "uovo_per_pastella": {
+          "name": "egg",
+          "note": null
+        },
+        "pastella_liquida_2_panko_raffinato": {
+          "name": "refined panko",
           "note": null
         },
         "salsa_tonkatsu_speziata": {
-          "name": "Tonkatsu sauce speziata",
+          "name": "Tonkatsu spicy sauce",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the filling or main ingredient, season it evenly and dry or chill it as needed so the coating can adhere without slipping.",
-        "step_2": "Coat or batter the pieces in the stated order, keeping the outer layer light and even rather than pressing it into a dense shell.",
-        "step_3": "Fry in small batches at controlled temperature until the exterior is deeply crisp and the center is fully cooked or heated through.",
-        "step_4": "Drain on a rack or absorbent paper, add the finishing sauce or garnish only at the end and serve promptly before the crust softens."
+        "step_1": "Cut pork, shrimp, onion and lotus root into similar pieces, small enough to cook at the same time, and put them separately on skewers.",
+        "step_2": "Dry all the ingredients and flour slightly to favor the adhesion of the batter.",
+        "step_3": "Prepare a fluid batter with flour, egg and cold water, without working too hard.",
+        "step_4": "Pass every skewer into the batter and then into the panko, pressing just to create a uniform layer.",
+        "step_5": "Bring the oil to 170-175°C and fry a few skewers at a time, adjusting the times according to the ingredient.",
+        "step_6": "Drain on the grill and let stand for one minute; check that meat and shrimp are cooked in the middle.",
+        "step_7": "Serve hot with kushikatsu sauce or tonkatsu separately, avoiding to leave the skewers immersed in the sauce."
       }
     },
     "it": {
       "title": "Kushikatsu (Spiedini Fritti Croccanti di Osaka)",
-      "description": "Un Kushikatsu (Spiedini Fritti Croccanti di Osaka) croccante, con rivestimento asciutto e ben aderente e interno succoso o cremoso, fritto a temperatura controllata e servito appena pronto.",
+      "description": "I Kushikatsu sono spiedini di carne, gamberi e verdure impanati e fritti fino a ottenere una crosta uniforme. I pezzi vengono tagliati di dimensioni simili e infilzati prima della panatura; la salsa si serve a parte. Gli spiedini vengono fritti pochi alla volta e scolati su griglia; carne e gamberi richiedono una verifica della cottura al centro.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Isekai Izakaya Nobu. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "carne_di_maiale": {
-          "name": "Carne di maiale",
+          "name": "carne di maiale",
           "note": null
         },
         "gamberi": {
           "name": "gamberi",
           "note": null
         },
-        "cipolla_e_lotus_negli_spiedini": {
-          "name": "cipolla e lotus negli spiedini",
+        "cipolla_e_lotus_negli_spiedini_1_cipolla": {
+          "name": "cipolla",
           "note": null
         },
-        "pastella_liquida": {
-          "name": "Pastella liquida (farina, acqua, uovo) e panko raffinato",
+        "cipolla_e_lotus_negli_spiedini_2_radice_di_loto_negli_spiedini": {
+          "name": "radice di loto negli spiedini",
+          "note": null
+        },
+        "farina_per_pastella": {
+          "name": "farina 00 per la pastella",
+          "note": null
+        },
+        "acqua_fredda_per_pastella": {
+          "name": "acqua molto fredda",
+          "note": null
+        },
+        "uovo_per_pastella": {
+          "name": "uovo",
+          "note": null
+        },
+        "pastella_liquida_2_panko_raffinato": {
+          "name": "panko raffinato",
           "note": null
         },
         "salsa_tonkatsu_speziata": {
-          "name": "Salsa Tonkatsu speziata",
+          "name": "salsa Tonkatsu speziata",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, infila gli ingredienti negli spiedini di legno. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_2": "Prosegui così: passa ogni spiedino nella pastella e poi impanalo accuratamente nel panko.",
-        "step_3": "Nella fase successiva, friggi in olio profondo fino a doratura croccante.",
-        "step_4": "Per completare, porta in tavolali bollenti da intingere nella salsa speciale Tonkatsu."
+        "step_1": "Taglia maiale, gamberi, cipolla e radice di loto in pezzi simili, abbastanza piccoli da cuocere nello stesso tempo, e infilali separatamente sugli spiedini.",
+        "step_2": "Asciuga bene tutti gli ingredienti e infarinali leggermente per favorire l’adesione della pastella.",
+        "step_3": "Prepara una pastella fluida con farina, uovo e acqua fredda, senza lavorarla eccessivamente.",
+        "step_4": "Passa ogni spiedino nella pastella e poi nel panko, premendo appena per creare uno strato uniforme.",
+        "step_5": "Porta l’olio a 170-175°C e friggi pochi spiedini alla volta, regolando i tempi in base all’ingrediente.",
+        "step_6": "Scola su griglia e lascia riposare un minuto; verifica che carne e gamberi siano cotti al centro.",
+        "step_7": "Servi bollenti con salsa kushikatsu o tonkatsu a parte, evitando di lasciare gli spiedini immersi nella salsa."
       }
     },
     "es": {
-      "title": "Kushikatsu",
-      "description": "Una versión práctica de Kushikatsu para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Isekai Izakaya Nobu. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kushikatsu — brochetas fritas crujientes de Osaka",
+      "description": "Los Kushikatsu son pinchos de carne, gambas y verduras empanadas y fritas hasta obtener una corteza uniforme. Las piezas se cortan de tamaño similar y se clavan antes de la pasta; la salsa se sirve aparte. Los pinchos se fríen pocos a la vez y se escurren sobre la parrilla; carne y gambas requieren una verificación de la cocción en el centro.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Isekai Izakaya Nobu. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "carne_di_maiale": {
-          "name": "Cerdo",
+          "name": "Carne de cerdo",
           "note": null
         },
         "gamberi": {
-          "name": "Gambas",
+          "name": "Camarones",
           "note": null
         },
-        "cipolla_e_lotus_negli_spiedini": {
-          "name": "Cebolla e lotus negli spiedini",
+        "cipolla_e_lotus_negli_spiedini_1_cipolla": {
+          "name": "cebolla",
           "note": null
         },
-        "pastella_liquida": {
-          "name": "Pastella liquida (harina, agua, huevo) e panko raffinato",
+        "cipolla_e_lotus_negli_spiedini_2_radice_di_loto_negli_spiedini": {
+          "name": "Raíz de loto en los pinchos",
+          "note": null
+        },
+        "farina_per_pastella": {
+          "name": "harina 00 para la masa",
+          "note": null
+        },
+        "acqua_fredda_per_pastella": {
+          "name": "agua muy fría",
+          "note": null
+        },
+        "uovo_per_pastella": {
+          "name": "huevo",
+          "note": null
+        },
+        "pastella_liquida_2_panko_raffinato": {
+          "name": "Panko refinado",
           "note": null
         },
         "salsa_tonkatsu_speziata": {
-          "name": "Tonkatsu salsa speziata",
+          "name": "salsa Tonkatsu especiada",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta cerdo, gambas, cebolla y raíz de loto en trozos similares, lo suficientemente pequeños como para cocinar al mismo tiempo, y ponlos por separado en los pinchos.",
+        "step_2": "Seca bien todos los ingredientes e infartos ligeramente para favorecer la adhesión de la masa.",
+        "step_3": "Prepara una masa fluida con harina, huevo y agua fría, sin trabajar demasiado.",
+        "step_4": "Pasa cada broche en la masa y luego en el panko, pulsando apenas para crear una capa uniforme.",
+        "step_5": "Lleva el aceite a 170-175°C y fríe unos pocos pinchos a la vez, ajustando los tiempos según el ingrediente.",
+        "step_6": "Escurrir sobre la parrilla y dejar reposar un minuto; comprobar que la carne y el camarón están cocidos en el centro.",
+        "step_7": "Servir caliente con salsa kushikatsu o tonkatsu aparte, evitando dejar los picadillos sumergidos en la salsa."
       }
     },
     "fr": {
-      "title": "Kushikatsu",
-      "description": "Une version pratique de Kushikatsu à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Isekai Izakaya Nobu. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kushikatsu — brochettes panées et frites d’Osaka",
+      "description": "Les Kushikatsu sont des brochettes de viande, des crevettes et des légumes panés et frits jusqu'à obtenir une croûte uniforme. Les morceaux sont coupés de dimensions similaires et enfilés avant la panure; la sauce sert à part. Les brochettes sont frites quelques-uns à la fois et décollent sur grille; la viande et les crevettes nécessitent une vérification de la cuisson au centre.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Isekai Izakaya Nobu. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "carne_di_maiale": {
-          "name": "Porc",
+          "name": "Viande de porc",
           "note": null
         },
         "gamberi": {
-          "name": "Crevettes",
+          "name": "crevettes",
           "note": null
         },
-        "cipolla_e_lotus_negli_spiedini": {
-          "name": "Oignon e lotus negli spiedini",
+        "cipolla_e_lotus_negli_spiedini_1_cipolla": {
+          "name": "oignon",
           "note": null
         },
-        "pastella_liquida": {
-          "name": "Pastella liquida (farine, eau, œuf) e panko raffinato",
+        "cipolla_e_lotus_negli_spiedini_2_radice_di_loto_negli_spiedini": {
+          "name": "racine de lotus dans les brochettes",
+          "note": null
+        },
+        "farina_per_pastella": {
+          "name": "farine 00 pour la pâte",
+          "note": null
+        },
+        "acqua_fredda_per_pastella": {
+          "name": "eau très froide",
+          "note": null
+        },
+        "uovo_per_pastella": {
+          "name": "œuf",
+          "note": null
+        },
+        "pastella_liquida_2_panko_raffinato": {
+          "name": "panko raffiné",
           "note": null
         },
         "salsa_tonkatsu_speziata": {
-          "name": "Tonkatsu sauce speziata",
+          "name": "Sauce Tonkatsu épicée",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Couper le porc, les crevettes, l'oignon et la racine de lotus en morceaux similaires, assez petits pour cuire en même temps, et les enfiler séparément sur les brochettes.",
+        "step_2": "Essuyez bien tous les ingrédients et infarctus légèrement pour favoriser l'adhésion de la pâte.",
+        "step_3": "Préparez une pâte fluide avec de la farine, de l'œuf et de l'eau froide, sans en faire trop.",
+        "step_4": "Il passe chaque brochette dans la pâte, puis dans le panko, en appuyant juste pour créer une couche uniforme.",
+        "step_5": "Apporte de l'huile à 170-175°C et frire quelques brochettes à la fois, en réglant les temps en fonction de l'ingrédient.",
+        "step_6": "Essayez sur le grill et laissez reposer une minute; vérifiez que la viande et les crevettes sont cuites au centre.",
+        "step_7": "Servir chaud avec la sauce kushikatsu ou tonkatsu à part, en évitant de laisser les brochettes immergées dans la sauce."
       }
     },
     "de": {
-      "title": "Kushikatsu",
-      "description": "Eine alltagstaugliche Version von Kushikatsu für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Isekai Izakaya Nobu inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kushikatsu – knusprig frittierte Spieße aus Osaka",
+      "description": "Die Kushikatsu sind Spieße aus Fleisch, Garnelen und Gemüse, die bis zu einer gleichmäßigen Kruste gebacken und gebraten sind. Die Stücke werden in ähnlicher Größe geschnitten und vor dem Braten eingestochen; die Soße wird getrennt verwendet. Die Spieße werden nur wenige zu einer Zeit gebraten und auf dem Grill aufgekocht; Fleisch und Garnelen erfordern eine Überprüfung des Kochens in der Mitte.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Isekai Izakaya Nobu inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "carne_di_maiale": {
           "name": "Schweinefleisch",
@@ -224,57 +332,95 @@
           "name": "Garnelen",
           "note": null
         },
-        "cipolla_e_lotus_negli_spiedini": {
-          "name": "Zwiebel e lotus negli spiedini",
+        "cipolla_e_lotus_negli_spiedini_1_cipolla": {
+          "name": "Zwiebel",
           "note": null
         },
-        "pastella_liquida": {
-          "name": "Pastella liquida (Mehl, Wasser, Ei) e panko raffinato",
+        "cipolla_e_lotus_negli_spiedini_2_radice_di_loto_negli_spiedini": {
+          "name": "Lotuswurzel in Spießen",
+          "note": null
+        },
+        "farina_per_pastella": {
+          "name": "Mehl 00 für den Teig",
+          "note": null
+        },
+        "acqua_fredda_per_pastella": {
+          "name": "sehr kaltes Wasser",
+          "note": null
+        },
+        "uovo_per_pastella": {
+          "name": "Ei",
+          "note": null
+        },
+        "pastella_liquida_2_panko_raffinato": {
+          "name": "raffiniertes Panko",
           "note": null
         },
         "salsa_tonkatsu_speziata": {
-          "name": "Tonkatsu Sauce speziata",
+          "name": "Sauce Tonkatsu würzig",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schweineschneider, Garnelen, Zwiebeln und Lotuswurzel in ähnliche Stücke, klein genug, um gleichzeitig zu kochen, und steck sie separat auf die Spieße.",
+        "step_2": "Trocknet alle Zutaten und Herzinfarkte leicht, um die Passion des Teiges zu fördern.",
+        "step_3": "Bereiten Sie einen flüssigen Teig mit Mehl, Ei und kaltem Wasser, ohne es übermäßig zu verarbeiten.",
+        "step_4": "Gib jedes Spieß in den Pastell und dann in den Panko und drücke gerade, um eine gleichmäßige Schicht zu erstellen.",
+        "step_5": "Bring das Öl auf 170-175°C und frittiere ein paar Spieße zur gleichen Zeit, wobei die Zeit auf der Grundlage des Bestandteils eingestellt wird.",
+        "step_6": "Schütten Sie es auf das Gitter und lassen Sie eine Minute ruhen; überprüfen Sie, ob Fleisch und Garnelen in der Mitte gekocht werden.",
+        "step_7": "Heiße Servieren mit Kushikatsu- oder Tonkatsu-Sauce, ohne die Spieße in der Soße eingetaucht zu lassen."
       }
     },
     "pt": {
-      "title": "Kushikatsu",
-      "description": "Uma versão prática de Kushikatsu para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Isekai Izakaya Nobu. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kushikatsu — espetadas fritas e estaladiças de Osaka",
+      "description": "Os Kushikatsu são broches de carne, camarões e legumes fritos e pão até obter uma crosta uniforme. Os pedaços são cortados em tamanhos semelhantes e infiltrados antes do pão; o molho é usado separadamente. Os broches são fritos alguns de cada vez e drenados na grelha; carne e camarão requerem uma verificação do cozimento no centro.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Isekai Izakaya Nobu. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "carne_di_maiale": {
-          "name": "Porco",
+          "name": "porco",
           "note": null
         },
         "gamberi": {
           "name": "Camarões",
           "note": null
         },
-        "cipolla_e_lotus_negli_spiedini": {
-          "name": "Cebola e lotus negli spiedini",
+        "cipolla_e_lotus_negli_spiedini_1_cipolla": {
+          "name": "cebola",
           "note": null
         },
-        "pastella_liquida": {
-          "name": "Pastella liquida (farinha, água, ovo) e panko raffinato",
+        "cipolla_e_lotus_negli_spiedini_2_radice_di_loto_negli_spiedini": {
+          "name": "Raiz de lótus em brochuras",
+          "note": null
+        },
+        "farina_per_pastella": {
+          "name": "farinha 00 para massa",
+          "note": null
+        },
+        "acqua_fredda_per_pastella": {
+          "name": "água muito fria",
+          "note": null
+        },
+        "uovo_per_pastella": {
+          "name": "ovo",
+          "note": null
+        },
+        "pastella_liquida_2_panko_raffinato": {
+          "name": "panko refinado",
           "note": null
         },
         "salsa_tonkatsu_speziata": {
-          "name": "Tonkatsu molho speziata",
+          "name": "Molho picante Tonkatsu",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Cortar porco, camarão, cebola e raiz de loto em pedaços semelhantes, pequenos o suficiente para cozinhar ao mesmo tempo, e colocá- los separadamente em broches.",
+        "step_2": "Seque todos os ingredientes e farinha ligeiramente para favorecer a adesão da massa.",
+        "step_3": "Prepare uma massa de fluido com farinha, ovo e água fria, sem trabalhar muito duro.",
+        "step_4": "Passe cada espelho para a massa e, em seguida, para o panko, pressionando apenas para criar uma camada uniforme.",
+        "step_5": "Traga o óleo para 170-175°C e frite alguns pintos de cada vez, ajustando os horários de acordo com o ingrediente.",
+        "step_6": "Esgote a grelha e deixe- a ficar por um minuto; verifique que carne e camarão são cozidos no meio.",
+        "step_7": "Servir quente com molho Kushikatsu ou tonkatsu separadamente, evitando deixar os broches imersos no molho."
       }
     }
   }

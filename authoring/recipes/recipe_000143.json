@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000143",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Cardcaptor Sakura",
   "animeReferences": [
@@ -21,23 +21,23 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 30,
   "cookMinutes": 20,
   "servings": 6,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
       "id": "rotolo_di_pasta_frolla_fresca",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "crema_pasticcera_alla_vaniglia",
@@ -46,13 +46,13 @@
     },
     {
       "id": "frutta_fresca_mista",
-      "quantity": null,
-      "unit": null
+      "quantity": 250,
+      "unit": "g"
     },
     {
       "id": "gelatina_per_dolci",
-      "quantity": null,
-      "unit": null
+      "quantity": 2,
+      "unit": "tbsp"
     }
   ],
   "steps": [
@@ -62,50 +62,70 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 1200
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 1200
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Japanese Fruit Tartlet",
-      "description": "A Japanese-style Japanese Fruit Tartlet designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Cardcaptor Sakura, K-On!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Japanese Fruit Tartlets — fresh fruit mini tarts",
+      "description": "The Japanese Fruit Tartlet have shell of short pastry cooked in white, filled with cold pastry cream and fresh fruit. A light gelatin shiny the surface, while the fresh storage protects the filling. Fresh fruit should be dried before decorating the cream, and neutral gelatin protects the surface without soaking the shorts.",
+      "animeContext": "This recipe is thematically inspired by Cardcaptor Sakura, K-On!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "rotolo_di_pasta_frolla_fresca": {
-          "name": "Rotolo di pasta frolla fresh",
+          "name": "roll of fresh short pastry",
           "note": null
         },
         "crema_pasticcera_alla_vaniglia": {
-          "name": "Crema pasticcera alla vaniglia",
+          "name": "vanilla pastry cream",
           "note": null
         },
         "frutta_fresca_mista": {
-          "name": "Frutta fresh mista (strawberries, kiwi, blueberries, mandarini)",
+          "name": "fresh mixed fruit (frogs, kiwis, blueberries, mandarin)",
           "note": null
         },
         "gelatina_per_dolci": {
-          "name": "Gelatina per dolci (per lucidare)",
+          "name": "Jelly for sweets (for polishing)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Line the buttered tartlet moulds with shortcrust pastry, trim the edges and prick the bases with a fork.",
+        "step_2": "Cools the shells formed for 15-20 minutes before cooking, so they keep the shape better.",
+        "step_3": "Bake in white at 180°C for about 15-20 minutes until they are uniformly golden.",
+        "step_4": "Shape and let cool completely on a grid.",
+        "step_5": "Fill each cold shell with cold pastry cream, leveling it without crossing the edge.",
+        "step_6": "Cut the fruit just before use, dry it and stock it in a compact way on the cream.",
+        "step_7": "Brush with a veil of neutral gelatin to polish and protect the fruit.",
+        "step_8": "Keep cool and serve in the day to keep the crisp short."
       }
     },
     "it": {
       "title": "Japanese Fruit Tartlet (Tartellette alla Frutta Fresca)",
-      "description": "Un Japanese Fruit Tartlet (Tartellette alla Frutta Fresca) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Le Japanese Fruit Tartlet hanno gusci di pasta frolla cotti in bianco, riempiti di crema pasticcera fredda e frutta fresca. Una leggera gelatina lucida la superficie, mentre la conservazione al fresco protegge il ripieno. La frutta fresca va asciugata prima di decorare la crema, e la gelatina neutra protegge la superficie senza inzuppare la frolla.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Cardcaptor Sakura, K-On!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "rotolo_di_pasta_frolla_fresca": {
@@ -117,135 +137,155 @@
           "note": null
         },
         "frutta_fresca_mista": {
-          "name": "Frutta fresca mista (fragole, kiwi, mirtilli, mandarini)",
+          "name": "frutta fresca mista (fragole, kiwi, mirtilli, mandarini)",
           "note": null
         },
         "gelatina_per_dolci": {
-          "name": "Gelatina per dolci (per lucidare)",
+          "name": "gelatina per dolci (per lucidare)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, ricava 6 dischi di pasta frolla e rivestici gli stampini da tartelletta imburrati. Pratica dei fori con la forchetta sul fondo.",
-        "step_2": "Prosegui così: lascia cuocere in forno preriporta a temperaturato a 180°C per 15-20 minuti (cottura in bianco) finché sono dorate. Lascia raffreddare.",
-        "step_3": "Nella fase successiva, farcisci i gusci di frolla freddi con la crema pasticcera. Decora la superficie disponendo la frutta fresca tagliata ad arte.",
-        "step_4": "Per completare, spennella con gelatina per dolci per rendere la frutta lucida e preservarne la freschezza."
+        "step_1": "Rivesti gli stampini imburrati con la pasta frolla, rifila i bordi e bucherella il fondo con una forchetta.",
+        "step_2": "Raffredda i gusci formati per 15-20 minuti prima della cottura, così mantengono meglio la forma.",
+        "step_3": "Cuoci in bianco a 180°C per circa 15-20 minuti, finché sono uniformemente dorati.",
+        "step_4": "Sforma e lascia raffreddare completamente su una griglia.",
+        "step_5": "Riempi ogni guscio freddo con crema pasticcera ben fredda, livellandola senza oltrepassare il bordo.",
+        "step_6": "Taglia la frutta poco prima dell’uso, asciugala e disponila in modo compatto sulla crema.",
+        "step_7": "Spennella con un velo di gelatina neutra per lucidare e proteggere la frutta.",
+        "step_8": "Conserva al fresco e servi in giornata per mantenere la frolla croccante."
       }
     },
     "es": {
-      "title": "Japanese Fruit Tartlet",
-      "description": "Una versión práctica de Japanese Fruit Tartlet para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Cardcaptor Sakura, K-On!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tartaletas japonesas de fruta fresca",
+      "description": "Las Japanese Fruit Tartlet tienen cáscaras de pasta frilla cocidas en blanco, rellenas con crema pastelera fría y fruta fresca. Una ligera gelatina lúcida la superficie, mientras que la conservación al fresco protege el relleno. La fruta fresca debe secarse antes de decorar la crema, y la gelatina neutra protege la superficie sin empapar la burra.",
+      "animeContext": "Esta receta está inspirada temáticamente en Cardcaptor Sakura, K-On!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "rotolo_di_pasta_frolla_fresca": {
-          "name": "Rotolo di pasta frolla fresco",
+          "name": "Rollo de pasta fresca",
           "note": null
         },
         "crema_pasticcera_alla_vaniglia": {
-          "name": "Crema pasticcera alla vaniglia",
+          "name": "crema pastelera de vainilla",
           "note": null
         },
         "frutta_fresca_mista": {
-          "name": "Frutta fresco mista (strawberries, kiwi, blueberries, mandarini)",
+          "name": "Fruta fresca mixta (frugonas, kiwis, arándanos, mandarinas)",
           "note": null
         },
         "gelatina_per_dolci": {
-          "name": "Gelatina per dolci (per lucidare)",
+          "name": "gelatina para pasteles (para lustrar)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Vestir los moldes enburridos con la pasta burla, cortar los bordes y agujerear el fondo con un tenedor.",
+        "step_2": "Enfría las cáscaras formadas durante 15-20 minutos antes de la cocción, por lo que mantienen mejor la forma.",
+        "step_3": "Cocine en blanco a 180°C durante unos 15-20 minutos, hasta que estén uniformemente dorados.",
+        "step_4": "Deja que se enfríe completamente en una cuadrícula.",
+        "step_5": "Llena cada caparazón frío con crema pastelera bien fría, nivelándola sin cruzar el borde.",
+        "step_6": "Corta la fruta justo antes de su uso, seca la fruta y ponla de forma compacta en la crema.",
+        "step_7": "Espinilla con un velo de gelatina neutra para lustrar y proteger la fruta.",
+        "step_8": "Guarda fresco y sirve en el día para mantener la crujiente."
       }
     },
     "fr": {
-      "title": "Japanese Fruit Tartlet",
-      "description": "Une version pratique de Japanese Fruit Tartlet à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Cardcaptor Sakura, K-On!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tartelettes japonaises aux fruits frais",
+      "description": "Les Japanese Fruit Tartlet ont des coquilles de pâte à modeler cuites en blanc, remplies de crème pâtissière froide et de fruits frais. Une légère gélatine polit la surface, tandis que la conservation au frais protège la farce. Les fruits frais doivent être séchés avant de décorer la crème, et la gélatine neutre protège la surface sans tremper la grue.",
+      "animeContext": "Cette recette s'inspire librement de Cardcaptor Sakura, K-On!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "rotolo_di_pasta_frolla_fresca": {
-          "name": "Rotolo di pasta frolla frais",
+          "name": "rouleau de pâte à modeler frais",
           "note": null
         },
         "crema_pasticcera_alla_vaniglia": {
-          "name": "Crema pasticcera alla vaniglia",
+          "name": "crème pâte à la vanille",
           "note": null
         },
         "frutta_fresca_mista": {
-          "name": "Frutta frais mista (strawberries, kiwi, blueberries, mandarini)",
+          "name": "Fruits frais mélangés (fragoles, kiwis, myrtilles, génisses)",
           "note": null
         },
         "gelatina_per_dolci": {
-          "name": "Gelatina per dolci (per lucidare)",
+          "name": "gélatine pour desserts (à polir)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Revêtez les moules beurrés avec la pâte à pilonner, refilez les bords et percez le fond avec une fourchette.",
+        "step_2": "Refroidir les coquilles formées pendant 15-20 minutes avant la cuisson, afin de maintenir la forme.",
+        "step_3": "Faites cuire en blanc à 180°C pendant environ 15-20 minutes, jusqu'à ce qu'ils soient uniformément dorés.",
+        "step_4": "Déformer et laisser refroidir complètement sur une grille.",
+        "step_5": "Remplissez chaque coquille froide avec de la crème pâtissière bien froide, en la nivelant sans dépasser le bord.",
+        "step_6": "Coupez les fruits juste avant l'utilisation, sèchez-la et placez-la de façon compacte sur la crème.",
+        "step_7": "Éponge avec un voile de gélatine neutre pour polir et protéger les fruits.",
+        "step_8": "Conservez au frais et servez-vous dans la journée pour garder la grue croustillante."
       }
     },
     "de": {
-      "title": "Japanese Fruit Tartlet",
-      "description": "Eine alltagstaugliche Version von Japanese Fruit Tartlet für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Cardcaptor Sakura, K-On! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Japanische Tartelettes mit frischen Früchten",
+      "description": "Die Japanese Fruit Tartlets haben weiss gekochte Pastaschalen, gefüllt mit kalter Konditoreicreme und frischem Obst. Eine leichte Gelee glänzend die Oberfläche, während die Aufbewahrung in frischer Form die Füllung schützt. Frisches Obst muss vor dem Dekorieren der Creme getrocknet werden, und neutrale Gelee schützt die Oberfläche, ohne die Frucht zu wässern.",
+      "animeContext": "Dieses Rezept ist thematisch von Cardcaptor Sakura, K-On! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "rotolo_di_pasta_frolla_fresca": {
-          "name": "Rotolo di pasta frolla frisch",
+          "name": "Frischer Teig Rolle",
           "note": null
         },
         "crema_pasticcera_alla_vaniglia": {
-          "name": "Crema pasticcera alla vaniglia",
+          "name": "Vanille-Pastillencreme",
           "note": null
         },
         "frutta_fresca_mista": {
-          "name": "Frutta frisch mista (strawberries, kiwi, blueberries, mandarini)",
+          "name": "Mischungen von frischem Obst (Kiefernfrüchte, Kiwifrüchte, Preiselbeeren, Mandarinen)",
           "note": null
         },
         "gelatina_per_dolci": {
-          "name": "Gelatina per dolci (per lucidare)",
+          "name": "Dessertgelatine (zum Polieren)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Zieht die mit der Nudel berauschten Formen an, steckt die Ränder ein und bohrt den Boden mit einer Gabel.",
+        "step_2": "Kühlen Sie die geformten Schalen für 15-20 Minuten vor dem Kochen, so halten Sie die Form besser.",
+        "step_3": "Backen Sie bei 180°C für ca. 15-20 Minuten weiß, bis sie gleichmäßig goldgelb sind.",
+        "step_4": "Gestalten Sie und lassen Sie es komplett auf einem Gitter abkühlen.",
+        "step_5": "Füllen Sie jede kalte Schale mit kühler Konditoreicreme, ohne den Rand zu überschreiten.",
+        "step_6": "Schneide die Früchte kurz vor dem Gebrauch ab, trockne sie und fülle sie kompakt auf die Creme.",
+        "step_7": "Spenella mit einem neutralen Gelee-Schleif zum Polieren und zum Schutz der Früchte.",
+        "step_8": "Kühl lagern und servieren Sie am Tag, um die knusprige Flocke zu halten."
       }
     },
     "pt": {
-      "title": "Japanese Fruit Tartlet",
-      "description": "Uma versão prática de Japanese Fruit Tartlet para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Cardcaptor Sakura, K-On!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tarteletes japonesas de fruta fresca",
+      "description": "O Tartlet de Frutas Japonesas tem casca de pastelaria curta cozida em branco, cheia de creme de pastelaria fria e frutas frescas. Uma gelatina leve brilha a superfície, enquanto o armazenamento fresco protege o preenchimento. As frutas frescas devem ser secas antes de decorar o creme, e a gelatina neutra protege a superfície sem encharcar os shorts.",
+      "animeContext": "Esta receita inspira-se tematicamente em Cardcaptor Sakura, K-On!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "rotolo_di_pasta_frolla_fresca": {
-          "name": "Rotolo di pasta frolla fresco",
+          "name": "rolo de pastelaria curta fresca",
           "note": null
         },
         "crema_pasticcera_alla_vaniglia": {
-          "name": "Crema pasticcera alla vaniglia",
+          "name": "creme de pastelaria de baunilha",
           "note": null
         },
         "frutta_fresca_mista": {
-          "name": "Frutta fresco mista (strawberries, kiwi, blueberries, mandarini)",
+          "name": "frutas frescas (sapos, kiwis, mirtilos, mandarim)",
           "note": null
         },
         "gelatina_per_dolci": {
-          "name": "Gelatina per dolci (per lucidare)",
+          "name": "Gelatina para doces (para polir)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Veste os moldes manteigados com a pasta curta, corte as bordas e fure o fundo com um garfo.",
+        "step_2": "Esfria as conchas formadas por 15-20 minutos antes de cozinhar, para que mantenham a forma melhor.",
+        "step_3": "Cozinhe em branco a 180°C por cerca de 15-20 minutos até que sejam uniformemente dourados.",
+        "step_4": "Formar e deixar esfriar completamente em uma grade.",
+        "step_5": "Preencha cada concha fria com creme de pastelaria fria, nivelando- o sem atravessar a borda.",
+        "step_6": "Corte o fruto pouco antes de usar, seque- o e estoque- o de forma compacta no creme.",
+        "step_7": "Escove com um véu de gelatina neutra para polir e proteger o fruto.",
+        "step_8": "Mantenha- se frio e sirva no dia para manter o fresco curto."
       }
     }
   }

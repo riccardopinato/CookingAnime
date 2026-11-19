@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000099",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Samurai Champloo",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -53,11 +53,6 @@
       "id": "farina_di_soia_tostata",
       "quantity": 2,
       "unit": "tbsp"
-    },
-    {
-      "id": "spiedini_in_bambu",
-      "quantity": null,
-      "unit": null
     }
   ],
   "steps": [
@@ -75,46 +70,57 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Anko Dango con Kinako",
-      "description": "A home-friendly Anko Dango con Kinako that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Samurai Champloo, Naruto. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Anko Dango with Kinako — rice dumplings with sweet bean paste",
+      "description": "The Anko Dango are balls of glutinous rice boiled, cooled and sticked on skewers. They are completed with a smooth anko cover and a dusting of sweet toasted toasted toasted kinako flour. Boiled dangos are stopped in frozen water before being infiltrated: anko and kinako are distributed just before the service.",
+      "animeContext": "This recipe is thematically inspired by Samurai Champloo, Naruto. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous rice flour (shiratamako o mochiko)",
+          "name": "Gluteny rice flour (Shiratamako or Mochiko)",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm water",
+          "name": "lukewarm water",
           "note": null
         },
         "confettura_di_fagioli_rossi_anko": {
-          "name": "Confettura di red beans anko (koshian liscia)",
+          "name": "red bean jam anko (koshian smooth)",
           "note": null
         },
         "farina_di_soia_tostata": {
-          "name": "Flour di soia tostata (kinako) miscelata con 1 cucchiaino di sugar",
-          "note": null
-        },
-        "spiedini_in_bambu": {
-          "name": "Spiedini in bambù",
+          "name": "toasted soya floura (kinako) mixed with 1 teaspoon sugar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "Pour the rice flour into a bowl and add the water little at a time, kneading until the mass is smooth and soft, similar to the ear lobe.",
+        "step_2": "Divide the dough into 12 equal portions and form compact balls without cracks.",
+        "step_3": "Bring to a boil an abundant pot of water and dive the dangos without overloading it.",
+        "step_4": "When the balls go up to the surface, continue cooking for another 2 minutes to cook well the center.",
+        "step_5": "Transfer them immediately into water and ice to stop cooking; drain them and dry them gently.",
+        "step_6": "Throw three dangos for each skewer and distribute over the smooth anko.",
+        "step_7": "Mix kinako and sugar, dust the skewers just before serving and consume them daily to keep them soft."
       }
     },
     "it": {
       "title": "Anko Dango con Kinako",
-      "description": "Un Anko Dango con Kinako casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "description": "Gli Anko Dango sono palline di riso glutinoso bollite, raffreddate e infilzate sugli spiedini. Si completano con una copertura di anko liscio e una spolverata di farina di soia tostata kinako zuccherata. I dango lessati vengono fermati in acqua ghiacciata prima di essere infilzati: anko e kinako si distribuiscono appena prima del servizio.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Samurai Champloo, Naruto. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
@@ -130,151 +136,146 @@
           "note": null
         },
         "farina_di_soia_tostata": {
-          "name": "farina di soia tostata (kinako) miscelata con 1 cucchiaino di zucchero",
-          "note": null
-        },
-        "spiedini_in_bambu": {
-          "name": "Spiedini in bambù",
+          "name": "farina di soia tostataaa (kinako) miscelata con 1 cucchiaino di zucchero",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, riunisci in una ciotola unisci la farina di riso glutinoso e l'acqua poco alla volta, impastando fino ad ottenere una consistenza morbida simile al lobo dell'orecchio. Forma circa 12 palline uguali.",
-        "step_2": "Prosegui così: quando salgono a galla, lascia cuocere per altri 2 minuti.",
-        "step_3": "Nella fase successiva, preleva i dango con una schiumarola e tuffali immediatamente in acqua e ghiaccio per raffreddarli e renderli elastici.",
-        "step_4": "Per completare, infila 3 palline su ciascuno spiedino di bambù. Ricopri la superficie con uno strato generoso di anko liscio e spolvera con la farina kinako dolce."
+        "step_1": "Versa la farina di riso in una ciotola e aggiungi l’acqua poco alla volta, impastando finché la massa è liscia e morbida, simile al lobo dell’orecchio.",
+        "step_2": "Dividi l’impasto in 12 porzioni uguali e forma palline compatte senza crepe.",
+        "step_3": "Porta a bollore una pentola abbondante d’acqua e immergi i dango senza sovraccaricarla.",
+        "step_4": "Quando le palline salgono a galla, continua la cottura per altri 2 minuti per cuocere bene il centro.",
+        "step_5": "Trasferiscile subito in acqua e ghiaccio per fermare la cottura; scolale e asciugale delicatamente.",
+        "step_6": "Infila tre dango per ogni spiedino e distribuisci sopra l’anko liscio.",
+        "step_7": "Mescola kinako e zucchero, spolvera gli spiedini appena prima di servire e consumali in giornata per mantenerli morbidi."
       }
     },
     "es": {
-      "title": "Anko Dango con Kinako",
-      "description": "Una versión práctica de Anko Dango con Kinako para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Samurai Champloo, Naruto. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Anko dango con kinako — bolitas de arroz con pasta dulce de judías",
+      "description": "Los Anko Dango son bolas de arroz glutinoso hervidas, enfriadas y apuñaladas en los pinchos. Se completan con una cubierta de anko liso y una espolvoreada de harina de soja tostada kinako azucarada. Los dangos helados se detienen en agua helada antes de ser infiltrados: anko y kinako se distribuyen justo antes del servicio.",
+      "animeContext": "Esta receta está inspirada temáticamente en Samurai Champloo, Naruto. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous arroz harina (shiratamako o mochiko)",
+          "name": "harina de arroz glutinoso (Shiratamako o Mochiko)",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm agua",
+          "name": "Agua tibia",
           "note": null
         },
         "confettura_di_fagioli_rossi_anko": {
-          "name": "Confettura di rojo beans anko (koshian liscia)",
+          "name": "Confitura de frijoles rojos anko (koshian lisa)",
           "note": null
         },
         "farina_di_soia_tostata": {
-          "name": "Harina di soia tostata (kinako) miscelata con 1 cucchiaino di azúcar",
-          "note": null
-        },
-        "spiedini_in_bambu": {
-          "name": "Spiedini in bambù",
+          "name": "harina de soja tostada (kinako) mezclada con 1 cucharadita de azúcar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Vierta la harina de arroz en un tazón y añade el agua poco a poco, amasando hasta que la masa sea lisa y suave, como el lóbulo del oído.",
+        "step_2": "Divide la masa en 12 porciones iguales y forma bolas compactas sin grietas.",
+        "step_3": "Lleva a hervir una olla abundante de agua y sumerge los dangos sin sobrecargarla.",
+        "step_4": "Cuando las bolas suben a la superficie, continúa cocinando durante otros 2 minutos para cocinar bien el centro.",
+        "step_5": "Transfiéralas inmediatamente al agua y al hielo para detener la cocción; escúchalas y sécalas suavemente.",
+        "step_6": "Ensarta tres dango en cada brocheta y reparte por encima el anko de textura lisa.",
+        "step_7": "Mezcla kinako y azúcar, limpia los pinchos justo antes de servir y consumirlos en el día para mantenerlos suaves."
       }
     },
     "fr": {
-      "title": "Anko Dango con Kinako",
-      "description": "Une version pratique de Anko Dango con Kinako à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Samurai Champloo, Naruto. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Anko dango au kinako — boulettes de riz à la pâte de haricots sucrée",
+      "description": "Les Anko Dango sont des boules de riz glutineux bouillies, refroidies et enfilées sur les brochettes. Elles se complètent avec une couverture d'anko lisse et une poudre de farine de soja grillée kinako sucrée. Les dangos lésés sont arrêtés dans l'eau glacée avant d'être infiltrés: anko et kinako se distribuent juste avant le service.",
+      "animeContext": "Cette recette s'inspire librement de Samurai Champloo, Naruto. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous riz farine (shiratamako o mochiko)",
+          "name": "farine de riz spiritueuse (Shiratamako ou Mochiko)",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm eau",
+          "name": "eau tiède",
           "note": null
         },
         "confettura_di_fagioli_rossi_anko": {
-          "name": "Confettura di rouge beans anko (koshian liscia)",
+          "name": "confiture de haricots rouges anko (koshian lisse)",
           "note": null
         },
         "farina_di_soia_tostata": {
-          "name": "Farine di soia tostata (kinako) miscelata con 1 cucchiaino di sucre",
-          "note": null
-        },
-        "spiedini_in_bambu": {
-          "name": "Spiedini in bambù",
+          "name": "farine de soja torréfiée (kinako) mélangée avec 1 cuillère à café de sucre",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Versez la farine de riz dans un bol et ajoutez de l'eau peu à peu, en pétrissant jusqu'à ce que la masse soit lisse et douce, semblable au lobe de l'oreille.",
+        "step_2": "Diviser la pâte en 12 portions égales et forme des boules compactes sans fissures.",
+        "step_3": "Il porte à ébullition une casserole abondante d'eau et plonge les danses sans surcharger.",
+        "step_4": "Quand les balles montent à flot, continuez la cuisson pendant 2 minutes pour bien cuire le centre.",
+        "step_5": "Plonge-les aussitôt dans de l’eau glacée pour stopper la cuisson, puis égoutte-les et sèche-les délicatement.",
+        "step_6": "Mettez trois danses pour chaque brochette et distribuez au-dessus de l'anko lisse.",
+        "step_7": "Mélangez le kinako et le sucre, époussetez les brochettes juste avant de servir et consommez-les dans la journée pour les maintenir doux."
       }
     },
     "de": {
-      "title": "Anko Dango con Kinako",
-      "description": "Eine alltagstaugliche Version von Anko Dango con Kinako für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Samurai Champloo, Naruto inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Anko Dango mit Kinako – Reisbällchen mit süßer Bohnenpaste",
+      "description": "Die Anko Dangos sind gekochte, gekühlte und inspizierte Reisbälle auf den Spießen. Sie ergänzen sich mit einer Abdeckung von glattem Anko und einem Pulver aus gezuckertem Kinako-Sojamehl. Die abgeleckten Dangos werden in eisigem Wasser gehalten, bevor sie infiltriert werden: Anko und Kinako verteilen sich kurz vor dem Dienst.",
+      "animeContext": "Dieses Rezept ist thematisch von Samurai Champloo, Naruto inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous Reis Mehl (shiratamako o mochiko)",
+          "name": "Reismehl, glutinös (Shiratamako oder Mochiko)",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm Wasser",
+          "name": "lauwarmes Wasser",
           "note": null
         },
         "confettura_di_fagioli_rossi_anko": {
-          "name": "Confettura di rot beans anko (koshian liscia)",
+          "name": "Anko rote Bohnen-Konfitüre (glattes Koshian)",
           "note": null
         },
         "farina_di_soia_tostata": {
-          "name": "Mehl di soia tostata (kinako) miscelata con 1 cucchiaino di Zucker",
-          "note": null
-        },
-        "spiedini_in_bambu": {
-          "name": "Spiedini in bambù",
+          "name": "Toast-Sojamehl (Kinako) mit 1 Teelöffel Zucker gemischt",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Gießen Sie das Reismehl in eine Schüssel und fügen Sie Wasser nach und nach hinzu und kneten, bis die Masse glatt und weich ist, ähnlich dem Ohrlappen.",
+        "step_2": "Teilen Sie den Teig in 12 gleiche Portionen und bilden kompakte Kugeln ohne Risse.",
+        "step_3": "Bringt einen Topf mit reichlich Wasser und taucht die Dangos ein, ohne sie zu überladen.",
+        "step_4": "Wenn die Kugeln ans Wasser steigen, kochen Sie 2 Minuten lang weiter, um das Zentrum gut zu kochen.",
+        "step_5": "Bringen Sie sie sofort in Wasser und Eis, um das Kochen zu stoppen; schälen und trocknen Sie sie vorsichtig.",
+        "step_6": "Stecken Sie drei Dangos für jedes Spieß und verteilen Sie über glattes L-Anko.",
+        "step_7": "Mischen Sie Kinako und Zucker, stauben Sie die Spieße kurz vor dem Servieren und konsumieren Sie sie am Tag, um sie weich zu halten."
       }
     },
     "pt": {
-      "title": "Anko Dango con Kinako",
-      "description": "Uma versão prática de Anko Dango con Kinako para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Samurai Champloo, Naruto. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Anko dango com kinako — bolinhos de arroz com pasta doce de feijão",
+      "description": "Os Anko Dango são bolas de arroz glútino cozido, resfriado e enfiado em broches. Eles são completados com uma capa de anko suave e uma poeira de farinha de kinako torrada torrada. Os dangos fervidos são parados em água congelada antes de serem infiltrados: o anko e o kinako são distribuídos pouco antes do serviço.",
+      "animeContext": "Esta receita inspira-se tematicamente em Samurai Champloo, Naruto. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous arroz farinha (shiratamako o mochiko)",
+          "name": "Farinha de arroz de glúten (Shiratamako ou Mochiko)",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm água",
+          "name": "Água morna",
           "note": null
         },
         "confettura_di_fagioli_rossi_anko": {
-          "name": "Confettura di vermelho beans anko (koshian liscia)",
+          "name": "jambo de feijão vermelho anko (koshian smooth)",
           "note": null
         },
         "farina_di_soia_tostata": {
-          "name": "Farinha di soia tostata (kinako) miscelata con 1 cucchiaino di açúcar",
-          "note": null
-        },
-        "spiedini_in_bambu": {
-          "name": "Spiedini in bambù",
+          "name": "farinha de soja tostada (kinako) misturada com 1 colher de chá de açúcar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Despeje a farinha de arroz numa tigela e adicione a água pouco de cada vez, amassando até que a massa seja suave e macia, semelhante ao lóbulo da orelha.",
+        "step_2": "Divida a massa em 12 porções iguais e forme bolas compactas sem fissuras.",
+        "step_3": "Traga a ebulição um pote abundante de água e mergulhe os dangos sem sobrecarregá- lo.",
+        "step_4": "Quando as bolas subirem para a superfície, continue cozindo por mais 2 minutos para cozinhar bem o centro.",
+        "step_5": "Transfira- os imediatamente para água e gelo para parar de cozinhar; drene- os e seque- os suavemente.",
+        "step_6": "Jogue três dangos para cada espelho e distribua sobre o anko suave.",
+        "step_7": "Misture kinako e açúcar, ponha em poeira os broches logo antes de servir e consumi- os diariamente para mantê- los macios."
       }
     }
   }

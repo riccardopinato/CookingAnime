@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000140",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "K-On!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 40,
   "cookMinutes": 20,
   "servings": 8,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -96,53 +96,69 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 1800
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Matcha Mille Crepe Cake",
-      "description": "A Japanese-style Matcha Mille Crepe Cake designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by K-On!, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Matcha Mille-Crêpe Cake — layered green tea crêpe cake",
+      "description": "The Matcha Mille Crepe Cake overlaps many thin crêpe with green tea alternating with matcha cream. After preparing and cooling the discs, the cake is layered and served cold with a dusting of matcha. The matcha crêpes are alternated with thin layers of cream and the dessert serves cold with powder tea on the surface.",
+      "animeContext": "This recipe is thematically inspired by K-On!, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose flour",
+          "name": "flour 00",
           "note": null
         },
         "polvere_di_matcha": {
-          "name": "Polvere di matcha",
+          "name": "Matcha powder",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "uovo": {
-          "name": "Egg",
+          "name": "egg",
           "note": null
         },
         "latte_caldo": {
-          "name": "Milk caldo",
+          "name": "hot milk",
           "note": null
         },
         "burro_fuso": {
-          "name": "Butter fuso",
+          "name": "melted butter",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy cream da montare",
+          "name": "fresh cream to be assembled",
           "note": null
         },
         "crema_pasticcera_o_mascarpone": {
-          "name": "Crema pasticcera o mascarpone",
+          "name": "Pastry cream or mascarpone",
           "note": null
         },
         "zucchero_a_velo": {
-          "name": "Sugar a velo",
+          "name": "icing sugar",
           "note": null
         },
         "matcha": {
@@ -151,15 +167,19 @@
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Slice flour and Matcha in a bowl.",
+        "step_2": "Add sugar and eggs, then add warm milk and melted butter by mixing with a whisk until you get a liquid batter without lumps.",
+        "step_3": "Rest in the fridge for 30 minutes.",
+        "step_4": "Cook about 15-20 thin crepes in a lightly buttered non-stick pan, let them cool completely.",
+        "step_5": "Mount the cream with the icing sugar and Matcha, then incorporate it with the pastry cream.",
+        "step_6": "Assemble the dessert by placing the first crack on a plate, spread a thin layer of cream and cover with another crack.",
+        "step_7": "Repeat until the ingredients are exhausted.",
+        "step_8": "Dust the surface with Matcha powder before serving cold from the refrigerator."
       }
     },
     "it": {
       "title": "Matcha Mille Crepe Cake (Torta Millefoglie di Crepes al Tè Verde)",
-      "description": "Un Matcha Mille Crepe Cake (Torta Millefoglie di Crepes al Tè Verde) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "La Matcha Mille Crepe Cake sovrappone molte crêpe sottili al tè verde alternate con crema al matcha. Dopo aver preparato e raffreddato i dischi, la torta viene assemblata a strati e servita ben fredda con una spolverata di matcha. Le crêpe al matcha vengono alternate a strati sottili di crema e il dolce si serve freddo con tè in polvere sulla superficie.",
       "animeContext": "Questa ricetta è ispirata tematicamente a K-On!, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "farina_00": {
@@ -204,51 +224,55 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, setaccia farina e Matcha in una ciotola. Unisci zucchero e uova, poi aggiungi il latte tiepido e il burro fuso amalgamando con una frusta fino a ottenere una pastella liquida e senza grumi. Riposo in frigo per 30 minuti.",
-        "step_2": "Prosegui così: lascia cuocere circa 15-20 crepes sottilissime in una padella antiaderente leggermente imburrata. Lasciale raffreddare completamente.",
-        "step_3": "Nella fase successiva, monta la panna con lo zucchero a velo e il Matcha, poi incorporala alla crema pasticcera. Assembla il dolce adagiando la prima crepe su un piatto, spalma uno strato sottile di crema e copri con un'altra crepe. Ripeti fino a esaurire gli ingredienti.",
-        "step_4": "Per completare, spolvera la superficie con Matcha in polvere prima di porta in tavolare ben fredda da frigorifero."
+        "step_1": "Setaccia farina e Matcha in una ciotola.",
+        "step_2": "Unisci zucchero e uova, poi aggiungi il latte tiepido e il burro fuso amalgamando con una frusta fino a ottenere una pastella liquida e senza grumi.",
+        "step_3": "Riposo in frigo per 30 minuti.",
+        "step_4": "Cuoci circa 15-20 crepes sottilissime in una padella antiaderente leggermente imburrata, lasciale raffreddare completamente.",
+        "step_5": "Monta la panna con lo zucchero a velo e il Matcha, poi incorporala alla crema pasticcera.",
+        "step_6": "Assembla il dolce adagiando la prima crepe su un piatto, spalma uno strato sottile di crema e copri con un'altra crepe.",
+        "step_7": "Ripeti fino a esaurire gli ingredienti.",
+        "step_8": "Spolvera la superficie con Matcha in polvere prima di servire ben fredda da frigorifero."
       }
     },
     "es": {
-      "title": "Matcha Mille Crepe Cake",
-      "description": "Una versión práctica de Matcha Mille Crepe Cake para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en K-On!, Food Wars!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tarta milhojas de crepes de matcha",
+      "description": "La Matcha Mille Crepe Cake superpone muchas crepas delgadas al té verde alternadas con crema al Matcha. Después de preparar y enfriar los discos, el pastel se ensambla en capas y se sirve bien fría con un polvo de matcha. Las crepas de Matcha se alternan con capas finas de crema y el postre se sirve frío con té en polvo en la superficie.",
+      "animeContext": "Esta receta está inspirada temáticamente en K-On!, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose harina",
+          "name": "harina 00",
           "note": null
         },
         "polvere_di_matcha": {
-          "name": "Polvere di matcha",
+          "name": "Polvo de Matcha",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "uovo": {
-          "name": "Huevo",
+          "name": "huevo",
           "note": null
         },
         "latte_caldo": {
-          "name": "Leche caldo",
+          "name": "leche caliente",
           "note": null
         },
         "burro_fuso": {
-          "name": "Mantequilla fuso",
+          "name": "mantequilla derretida",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy nata da montare",
+          "name": "crema fresca para montar",
           "note": null
         },
         "crema_pasticcera_o_mascarpone": {
-          "name": "Crema pasticcera o mascarpone",
+          "name": "crema pastelera o mascarpone",
           "note": null
         },
         "zucchero_a_velo": {
-          "name": "Azúcar a velo",
+          "name": "azúcar en polvo",
           "note": null
         },
         "matcha": {
@@ -257,51 +281,55 @@
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Ponga harina y Matcha en un tazón.",
+        "step_2": "Combina azúcar y huevos, luego añade la leche tibia y la mantequilla fundida mezclando con unas varillas hasta obtener una masa líquida y sin grumos.",
+        "step_3": "Descanse en la nevera durante 30 minutos.",
+        "step_4": "Cocine alrededor de 15-20 crepes delgados en una sartén antiadherente ligeramente inburrada, déjelos enfriar completamente.",
+        "step_5": "Monta la crema con el azúcar en velo y el Matcha, luego la incorporas a la crema pastelera.",
+        "step_6": "Ensambla el postre con la primera grieta sobre un plato, unta una capa fina de crema y cubre con otra grieta.",
+        "step_7": "Repite hasta que se agoten los ingredientes.",
+        "step_8": "Espolvorear la superficie con Matcha en polvo antes de servir bien fría como nevera."
       }
     },
     "fr": {
-      "title": "Matcha Mille Crepe Cake",
-      "description": "Une version pratique de Matcha Mille Crepe Cake à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par K-On!, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Gâteau mille-crêpes au matcha",
+      "description": "La Matcha Mille Crèche Cake chevauche de nombreuses crêpes fines au thé vert alternées avec de la crème au matcha. Après avoir préparé et refroidi les disques, le gâteau est assemblé en couches et servi bien froide avec une soupe de matcha. Les crêpes au matcha sont alternées en couches minces de crème et le dessert sert froid avec du thé en poudre sur la surface.",
+      "animeContext": "Cette recette s'inspire librement de K-On!, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose farine",
+          "name": "farine 00",
           "note": null
         },
         "polvere_di_matcha": {
-          "name": "Polvere di matcha",
+          "name": "poudre de Matcha",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "uovo": {
-          "name": "Œuf",
+          "name": "œuf",
           "note": null
         },
         "latte_caldo": {
-          "name": "Lait caldo",
+          "name": "lait chaud",
           "note": null
         },
         "burro_fuso": {
-          "name": "Beurre fuso",
+          "name": "beurre fondu",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy crème da montare",
+          "name": "crème fraîche à monter",
           "note": null
         },
         "crema_pasticcera_o_mascarpone": {
-          "name": "Crema pasticcera o mascarpone",
+          "name": "crème pâtissière ou mascarpone",
           "note": null
         },
         "zucchero_a_velo": {
-          "name": "Sucre a velo",
+          "name": "sucre à voile",
           "note": null
         },
         "matcha": {
@@ -310,23 +338,27 @@
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Soie de farine et Matcha dans un bol.",
+        "step_2": "Mélangez le sucre et les œufs, puis ajoutez le lait tiède et le beurre fondu en mélangeant avec un fouet jusqu'à obtenir une pâte liquide et sans grumeaux.",
+        "step_3": "Repos dans le frigo pendant 30 minutes.",
+        "step_4": "Faites cuire environ 15-20 crêpes très fines dans une poêle antiadhérente légèrement beurrée, laissez-les refroidir complètement.",
+        "step_5": "Montez la crème avec le sucre à voile et le Matcha, puis ajoutez-la à la crème pâtissière.",
+        "step_6": "Assembler le dessert en plaçant la première fissure sur un plat, enduire une fine couche de crème et couvrir avec une autre fissure.",
+        "step_7": "Répétez jusqu'à ce que les ingrédients soient épuisés.",
+        "step_8": "Pulvérisez la surface avec Matcha en poudre avant de servir bien froid du réfrigérateur."
       }
     },
     "de": {
-      "title": "Matcha Mille Crepe Cake",
-      "description": "Eine alltagstaugliche Version von Matcha Mille Crepe Cake für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von K-On!, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Matcha-Mille-Crêpes-Torte",
+      "description": "Der Matcha Mille Crepe Cake überdeckt viele dünne Crêpe mit abwechselndem Grüntee mit Matcha-Creme. Nach der Zubereitung und Abkühlung der Scheiben wird der Kuchen in Schichten montiert und mit einem abgestaubten Matcha kalt serviert. Die Matcha-Crêpe werden in dünne Schichten von Creme gewechselt und das Dessert wird mit pulverisiertem Tee auf der Oberfläche kalt serviert.",
+      "animeContext": "Dieses Rezept ist thematisch von K-On!, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose Mehl",
+          "name": "Mehl 00",
           "note": null
         },
         "polvere_di_matcha": {
-          "name": "Polvere di matcha",
+          "name": "Matcha-Pulver",
           "note": null
         },
         "zucchero": {
@@ -338,23 +370,23 @@
           "note": null
         },
         "latte_caldo": {
-          "name": "Milch caldo",
+          "name": "Warmmilch",
           "note": null
         },
         "burro_fuso": {
-          "name": "Butter fuso",
+          "name": "geschmolzene Butter",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy Sahne da montare",
+          "name": "Frisch zu montierende Sahne",
           "note": null
         },
         "crema_pasticcera_o_mascarpone": {
-          "name": "Crema pasticcera o mascarpone",
+          "name": "Konditoreicreme oder Mascarpone",
           "note": null
         },
         "zucchero_a_velo": {
-          "name": "Zucker a velo",
+          "name": "Schleierzucker",
           "note": null
         },
         "matcha": {
@@ -363,63 +395,71 @@
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Seide Mehl und Matcha in einer Schüssel.",
+        "step_2": "Zucker und Eier verrühren, dann lauwarme Milch und geschmolzene Butter mit dem Schneebesen einarbeiten, bis ein dünnflüssiger, klümpchenfreier Teig entsteht.",
+        "step_3": "Ich ruhe 30 Minuten im Kühlschrank.",
+        "step_4": "Kochen Sie ca. 15-20 dünne Crêpes in einer leicht bürstenden Pfanne, lassen Sie sie vollständig abkühlen.",
+        "step_5": "Sahne mit Schleierzucker und Matcha, dann in die Konditorei eingeben.",
+        "step_6": "Setzen Sie den Kuchen zusammen, indem Sie den ersten Risse auf eine Schüssel legen, schmieren Sie eine dünne Schicht von Creme und bedecken Sie ihn mit einem anderen Risse.",
+        "step_7": "Wiederhole, bis du die Zutaten versiehst.",
+        "step_8": "Stauben Sie die Oberfläche mit Matcha-Pulver ab, bevor Sie sie aus dem Kühlschrank kühl servieren."
       }
     },
     "pt": {
-      "title": "Matcha Mille Crepe Cake",
-      "description": "Uma versão prática de Matcha Mille Crepe Cake para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por K-On!, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Bolo de mil crepes de matcha",
+      "description": "O bolo Matcha Mille Crepe sobrepõe- se a muitas crepes finas com chá verde alternando com creme matcha. Depois de preparar e resfriar os discos, o bolo é em camadas e servido frio com uma poeira de matcha. As crepes matcha são alternadas com camadas finas de creme e a sobremesa serve frio com chá em pó na superfície.",
+      "animeContext": "Esta receita inspira-se tematicamente em K-On!, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose farinha",
+          "name": "farinha 00",
           "note": null
         },
         "polvere_di_matcha": {
-          "name": "Polvere di matcha",
+          "name": "Pó Matcha",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "uovo": {
-          "name": "Ovo",
+          "name": "ovo",
           "note": null
         },
         "latte_caldo": {
-          "name": "Leite caldo",
+          "name": "leite quente",
           "note": null
         },
         "burro_fuso": {
-          "name": "Manteiga fuso",
+          "name": "manteiga derretida",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy natas da montare",
+          "name": "creme fresco a ser montado",
           "note": null
         },
         "crema_pasticcera_o_mascarpone": {
-          "name": "Crema pasticcera o mascarpone",
+          "name": "Creme de pastelaria ou mascarpone",
           "note": null
         },
         "zucchero_a_velo": {
-          "name": "Açúcar a velo",
+          "name": "açúcar gelado",
           "note": null
         },
         "matcha": {
-          "name": "Matcha",
+          "name": "Combinação",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte farinha e Matcha em uma tigela.",
+        "step_2": "Adicione açúcar e ovos, em seguida, adicione leite quente e manteiga derretida misturando- se com um batido até obter uma massa líquida sem nódulos.",
+        "step_3": "Descanse na geladeira por 30 minutos.",
+        "step_4": "Cozinhe cerca de 15-20 crepes finos em uma panela antiadherente levemente manteiga, deixe- os esfriar completamente.",
+        "step_5": "Montar o creme com o açúcar gelado e Matcha, em seguida, incorporá- lo com o creme de pastelaria.",
+        "step_6": "Montar a sobremesa colocando a primeira fissura em um prato, espalhar uma camada fina de creme e cobrir com outra fissura.",
+        "step_7": "Repita até que os ingredientes estejam exaustos.",
+        "step_8": "Ponha a superfície com o pó Matcha antes de servir frio da geladeira."
       }
     }
   }

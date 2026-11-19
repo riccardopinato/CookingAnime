@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000152",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 20,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -40,9 +40,14 @@
       "unit": "g"
     },
     {
-      "id": "curry_giapponese_denso_gia_pronto_con_carne_e_pata",
+      "id": "curry_giapponese_denso_gia_pronto_con_carne_e_pata_1_curry_giapponese_denso_gia",
       "quantity": 300,
       "unit": "g"
+    },
+    {
+      "id": "curry_giapponese_denso_gia_pronto_con_carne_e_pata_2_patate",
+      "quantity": 2,
+      "unit": "piece"
     },
     {
       "id": "uovo_fresche",
@@ -81,61 +86,84 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 720
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Yaki Curry",
-      "description": "A practical home-cooking version of Yaki Curry, preserving the dish’s characteristic ingredients, texture and cooking method with a clear repeatable sequence.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Persona 5. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Yaki Curry — baked curry gratin with cheese and egg",
+      "description": "The Yaki Curry is prepared by distributing hot rice and thick Japanese curry in small pyrophiles. In the middle is added an egg, while cheese and panko form the crust during a short gratin in the oven. The cheese gratin over the curry and rice, while the hot container is brought directly to the table after cooking.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Persona 5. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "riso_bianco_cotto_al_vapore": {
-          "name": "White rice cotto al vapore",
+          "name": "steamed white rice",
           "note": null
         },
-        "curry_giapponese_denso_gia_pronto_con_carne_e_pata": {
-          "name": "Curry giapponese denso già pronto con carne e potatoes",
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_1_curry_giapponese_denso_gia": {
+          "name": "dense Japanese curry already ready with meat",
+          "note": null
+        },
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_2_patate": {
+          "name": "potatoes",
           "note": null
         },
         "uovo_fresche": {
-          "name": "Egg fresh",
+          "name": "fresh eggs",
           "note": null
         },
         "formaggio_gouda_o_mozzarella_per_pizza_grattugiata": {
-          "name": "Formaggio gouda o mozzarella per pizza grated",
+          "name": "Gouda cheese or Mozzarella cheese for grated pizza",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese breadcrumbs)",
+          "name": "panko (Japanese breadcrumbs)",
           "note": null
         },
         "prezzemolo_tritato": {
-          "name": "Prezzemolo tritato",
+          "name": "chopped parsley",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare and measure all ingredients before applying heat, keeping garnishes and finishing sauces separate until the final stage.",
-        "step_2": "Cook the main component with controlled heat, following the intended technique and watching texture and doneness rather than relying only on time.",
-        "step_3": "Add the remaining seasoning or liquid and continue only until the flavors combine and the characteristic texture of the dish is reached.",
-        "step_4": "Assemble neatly, add the final garnish and serve at the recommended temperature while the contrasting textures are still clear."
+        "step_1": "Preheat the oven to 200°C and lightly burn two heat-resistant single portion pyrophiles.",
+        "step_2": "Distribute hot rice on the bottom without compressing it and cover it with thick Japanese curry.",
+        "step_3": "Create a hollow in the middle of each baking dish and gently break an egg inside.",
+        "step_4": "Distribute the cheese around the egg and complete with a thin sprinkle of panko.",
+        "step_5": "Bake for about 10-12 minutes, until the cheese is melted and golden and the album is reprised.",
+        "step_6": "Check the yolk according to the desired result: to keep it soft avoids unnecessary extension of cooking.",
+        "step_7": "Complete with parsley and serve immediately in the baking dish, paying attention to the temperature of the container."
       }
     },
     "it": {
       "title": "Yaki Curry (Curry al Forno Gratinato con Formaggio e Uovo)",
-      "description": "Una versione casalinga e pratica di Yaki Curry (Curry al Forno Gratinato con Formaggio e Uovo), che mantiene ingredienti caratteristici, consistenza e tecnica del piatto con una sequenza chiara e ripetibile.",
+      "description": "Lo Yaki Curry si prepara distribuendo riso caldo e curry giapponese denso in piccole pirofile. Al centro viene aggiunto un uovo, mentre formaggio e panko formano la crosta durante una breve gratinatura in forno. Il formaggio gratina sopra il curry e il riso, mentre il recipiente caldo si porta direttamente in tavola dopo la cottura.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Persona 5. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "riso_bianco_cotto_al_vapore": {
           "name": "riso bianco cotto al vapore",
           "note": null
         },
-        "curry_giapponese_denso_gia_pronto_con_carne_e_pata": {
-          "name": "curry giapponese denso già pronto con carne e patate",
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_1_curry_giapponese_denso_gia": {
+          "name": "curry giapponese denso già pronto con carne",
+          "note": null
+        },
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_2_patate": {
+          "name": "patate",
           "note": null
         },
         "uovo_fresche": {
-          "name": "uovo fresche",
+          "name": "uova fresche",
           "note": null
         },
         "formaggio_gouda_o_mozzarella_per_pizza_grattugiata": {
@@ -147,163 +175,194 @@
           "note": null
         },
         "prezzemolo_tritato": {
-          "name": "Prezzemolo tritato",
+          "name": "prezzemolo tritato",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, disporre il riso cotto sul fondo di due pirofile da forno monoporzione resistenti al calore.",
-        "step_2": "Prosegui così: aggiungire abbondante curry giapponese denso sopra il riso lasciando un leggero incavo al centro.",
-        "step_3": "Nella fase successiva, rompere un uovo crudo al centro dell'incavo nel curry. Cospargere tutto attorno con abbondante formaggio grattugiato e spolverare con il panko per la croccantezza. Cuoci in fornore in forno statico preriporta a temperaturato a 200°C per 10-12 minuti o fino a quando il formaggio è ben fuso, dorato ed il tuorlo risulta morbido ma l'albume rappreso.",
-        "step_4": "Per completare, spolverare con prezzemolo fresco e porta in tavolare bollente direttamente nella pirofila."
+        "step_1": "Preriscalda il forno a 200°C e imburra leggermente due pirofile monoporzione resistenti al calore.",
+        "step_2": "Distribuisci il riso caldo sul fondo senza comprimerlo e coprilo con il curry giapponese denso.",
+        "step_3": "Crea un incavo al centro di ogni pirofila e rompi delicatamente un uovo all’interno.",
+        "step_4": "Distribuisci il formaggio intorno all’uovo e completa con una sottile spolverata di panko.",
+        "step_5": "Inforna per circa 10-12 minuti, finché il formaggio è fuso e dorato e l’albume risulta rappreso.",
+        "step_6": "Controlla il tuorlo in base al risultato desiderato: per mantenerlo morbido evita di prolungare inutilmente la cottura.",
+        "step_7": "Completa con prezzemolo e servi subito direttamente nella pirofila, facendo attenzione alla temperatura del recipiente."
       }
     },
     "es": {
-      "title": "Yaki Curry",
-      "description": "Una versión práctica de Yaki Curry para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Persona 5. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Yaki curry — curry gratinado al horno con queso y huevo",
+      "description": "El Yaki Curry se prepara distribuyendo arroz caliente y curry japonés denso en pequeños pirófilas. En el centro se añade un huevo, mientras que el queso y el panko forman la corteza durante una breve gratinación en horno. El queso gratina sobre el curry y el arroz, mientras que el recipiente caliente se lleva directamente a la mesa después de la cocción.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Persona 5. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "riso_bianco_cotto_al_vapore": {
-          "name": "Blanco arroz cotto al vapore",
+          "name": "arroz blanco cocido al vapor",
           "note": null
         },
-        "curry_giapponese_denso_gia_pronto_con_carne_e_pata": {
-          "name": "Curry giapponese denso già pronto con carne e patatas",
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_1_curry_giapponese_denso_gia": {
+          "name": "curry japonés denso ya listo con carne",
+          "note": null
+        },
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_2_patate": {
+          "name": "patatas",
           "note": null
         },
         "uovo_fresche": {
-          "name": "Huevo fresco",
+          "name": "Huevos frescos",
           "note": null
         },
         "formaggio_gouda_o_mozzarella_per_pizza_grattugiata": {
-          "name": "Formaggio gouda o mozzarella per pizza rallado",
+          "name": "queso Gouda o Mozzarella para pizza rallado",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese pan rallado)",
+          "name": "Panko (pan rallado japonés)",
           "note": null
         },
         "prezzemolo_tritato": {
-          "name": "Prezzemolo tritato",
+          "name": "perejil picado",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Precalentar el horno a 200°C y emborrachar ligeramente dos pirófilas monoporción resistentes al calor.",
+        "step_2": "Distribuya el arroz caliente en el fondo sin comprimirlo y cúbralo con el curry japonés denso.",
+        "step_3": "Crea un hueco en el centro de cada pirófila y rompe suavemente un huevo en el interior.",
+        "step_4": "Distribuye el queso alrededor del huevo y completa con un delgado polvo de panko.",
+        "step_5": "Informa durante unos 10-12 minutos, hasta que el queso esté fundido y dorado y la albúmina se reproduzca.",
+        "step_6": "Controla la yema según el resultado deseado: para mantenerla suave evita prolongar innecesariamente la cocción.",
+        "step_7": "Completa con perejil y sirve directamente en la pirofílica, prestando atención a la temperatura del recipiente."
       }
     },
     "fr": {
-      "title": "Yaki Curry",
-      "description": "Une version pratique de Yaki Curry à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Persona 5. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Yaki curry — curry gratiné au four avec fromage et œuf",
+      "description": "Le Yaki Curry se prépare en distribuant du riz chaud et du curry japonais dense en petits pyrofiles. Au centre, un œuf est ajouté, tandis que le fromage et le panko forment la croûte lors d'une courte gravure au four. Le fromage gratte au-dessus du curry et du riz, tandis que le récipient chaud se porte directement à la table après la cuisson.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Persona 5. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "riso_bianco_cotto_al_vapore": {
-          "name": "Blanc riz cotto al vapore",
+          "name": "riz blanc cuit à la vapeur",
           "note": null
         },
-        "curry_giapponese_denso_gia_pronto_con_carne_e_pata": {
-          "name": "Curry giapponese denso già pronto con carne e pommes de terre",
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_1_curry_giapponese_denso_gia": {
+          "name": "curry japonais dense déjà prêt avec de la viande",
+          "note": null
+        },
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_2_patate": {
+          "name": "pommes de terre",
           "note": null
         },
         "uovo_fresche": {
-          "name": "Œuf frais",
+          "name": "œufs frais",
           "note": null
         },
         "formaggio_gouda_o_mozzarella_per_pizza_grattugiata": {
-          "name": "Formaggio gouda o mozzarella per pizza râpé",
+          "name": "fromage Gouda ou Mozzarella pour pizza râpée",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese chapelure)",
+          "name": "Panko (chapelure japonais)",
           "note": null
         },
         "prezzemolo_tritato": {
-          "name": "Prezzemolo tritato",
+          "name": "persil haché",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Préchauffez le four à 200°C et embourrez légèrement deux pyrofiles monoportion résistant à la chaleur.",
+        "step_2": "Distribuez le riz chaud au fond sans le compresser et couvrez-le avec le curry japonais dense.",
+        "step_3": "Créez un creux au centre de chaque pirofile et cassez doucement un œuf à l'intérieur.",
+        "step_4": "Distribuez le fromage autour de l'oeuf et complètez avec une fine soupe de panko.",
+        "step_5": "Inforna pendant environ 10-12 minutes, jusqu'à ce que le fromage soit fondu et doré et que l'albume soit représenté.",
+        "step_6": "Vérifiez le jaune d'œuf en fonction du résultat désiré: pour le garder doux, évitez de prolonger inutilement la cuisson.",
+        "step_7": "Complétez avec du persil et servez directement dans le pirophile, en veillant à la température du récipient."
       }
     },
     "de": {
-      "title": "Yaki Curry",
-      "description": "Eine alltagstaugliche Version von Yaki Curry für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Persona 5 inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Yaki Curry – überbackenes Curry mit Käse und Ei",
+      "description": "Der Yaki Curry wird zubereitet, indem er warmen Reis und dichten japanischen Curry in kleine Pyrofile verteilt. In der Mitte wird ein Ei hinzugefügt, während Käse und Panko die Kruste während einer kurzen Bäckerei im Ofen bilden. Der Käse gratuliert über Curry und Reis, während der heiße Behälter nach dem Kochen direkt zum Tisch gebracht wird.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Persona 5 inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "riso_bianco_cotto_al_vapore": {
-          "name": "Weiß Reis cotto al vapore",
+          "name": "Weißer Reis, gedämpft",
           "note": null
         },
-        "curry_giapponese_denso_gia_pronto_con_carne_e_pata": {
-          "name": "Curry giapponese denso già pronto con carne e Kartoffeln",
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_1_curry_giapponese_denso_gia": {
+          "name": "Japanischer Curry dicht bereits bereit mit Fleisch",
+          "note": null
+        },
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_2_patate": {
+          "name": "Kartoffeln",
           "note": null
         },
         "uovo_fresche": {
-          "name": "Ei frisch",
+          "name": "frische Eier",
           "note": null
         },
         "formaggio_gouda_o_mozzarella_per_pizza_grattugiata": {
-          "name": "Formaggio gouda o mozzarella per pizza gerieben",
+          "name": "Gouda- oder Mozzarella-Käse für geriebene Pizza",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese Semmelbrösel)",
+          "name": "Panko (Japanischer Pony)",
           "note": null
         },
         "prezzemolo_tritato": {
-          "name": "Prezzemolo tritato",
+          "name": "Gehackte Petersilie",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Er heizt den Ofen auf 200°C vor und mischt leicht zwei wärmebeständige Pyrofile ein.",
+        "step_2": "Geben Sie den warmen Reis auf den Boden, ohne ihn zu komprimieren und decken Sie ihn mit dem dicken japanischen Curry.",
+        "step_3": "Erstellen Sie eine Röhre in der Mitte jeder Pyrofile und brechen Sie vorsichtig ein Ei im Inneren.",
+        "step_4": "Geben Sie den Käse rund um das Ei und komplett mit einem dünnen Staub von Panko.",
+        "step_5": "Inforna für ca. 10-12 Minuten, bis der Käse geschmolzen und goldig ist und das Album reflektiert wird.",
+        "step_6": "Prüfen Sie das Eigelb entsprechend dem gewünschten Ergebnis: Um es weich zu halten, vermeiden Sie unnötige Verlängerungen des Kochens.",
+        "step_7": "Komplett mit Petersilie und serviere sofort direkt in der Pyrophilie, wobei auf die Temperatur des Behälters achten."
       }
     },
     "pt": {
-      "title": "Yaki Curry",
-      "description": "Uma versão prática de Yaki Curry para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Persona 5. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Yaki curry — caril gratinado no forno com queijo e ovo",
+      "description": "O Yaki Curry é preparado distribuindo arroz quente e curry japonês grosso em pequenos pirófilos. No meio é adicionado um ovo, enquanto queijo e panko formam a crosta durante um curto gratin no forno. O queijo passa sobre o curry e o arroz, enquanto o recipiente quente é trazido diretamente para a mesa após o cozimento.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Persona 5. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "riso_bianco_cotto_al_vapore": {
-          "name": "Branco arroz cotto al vapore",
+          "name": "arroz branco vaporizado",
           "note": null
         },
-        "curry_giapponese_denso_gia_pronto_con_carne_e_pata": {
-          "name": "Curry giapponese denso già pronto con carne e batatas",
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_1_curry_giapponese_denso_gia": {
+          "name": "curry japonês denso já está pronto com carne",
+          "note": null
+        },
+        "curry_giapponese_denso_gia_pronto_con_carne_e_pata_2_patate": {
+          "name": "batatas",
           "note": null
         },
         "uovo_fresche": {
-          "name": "Ovo fresco",
+          "name": "ovos frescos",
           "note": null
         },
         "formaggio_gouda_o_mozzarella_per_pizza_grattugiata": {
-          "name": "Formaggio gouda o mozzarella per pizza ralado",
+          "name": "Queijo Gouda ou queijo Mozzarella para pizza ralada",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese pão ralado)",
+          "name": "panko (Pão japonês)",
           "note": null
         },
         "prezzemolo_tritato": {
-          "name": "Prezzemolo tritato",
+          "name": "salsa picada",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Preaqueça o forno a 200°C e queime levemente dois pirófilos de única porção resistentes ao calor.",
+        "step_2": "Distribua arroz quente no fundo sem comprimi- lo e cubra- o com curry japonês espesso.",
+        "step_3": "Crie um oco no meio de cada prato de cozimento e quebre suavemente um ovo dentro.",
+        "step_4": "Distribua o queijo ao redor do ovo e complete com um pingo fino de panko.",
+        "step_5": "Leve ao forno durante cerca de 10 a 12 minutos, até o queijo derreter e alourar e a clara do ovo ficar firme.",
+        "step_6": "Verifique a gema de acordo com o resultado desejado: para mantê- la suave evita a extensão desnecessária do cozimento.",
+        "step_7": "Complete com salsa e sirva imediatamente no prato de cozimento, prestando atenção à temperatura do recipiente."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000061",
-  "contentVersion": 1,
+  "contentVersion": 3,
   "status": "published",
   "inspirationTitle": "Food Wars! - Shokugeki no Soma",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 30,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "cm_di_zenzero_fresco_grattugiato",
       "quantity": 1,
-      "unit": null
+      "unit": "cm"
     },
     {
       "id": "sake",
@@ -101,8 +101,8 @@
     },
     {
       "id": "germogli_di_soia",
-      "quantity": null,
-      "unit": null
+      "quantity": 100,
+      "unit": "g"
     },
     {
       "id": "cipollotto_fresco_affettato",
@@ -131,89 +131,124 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 900
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_10",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_11",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Miso Ramen di Sapporo",
-      "description": "A practical bowl of Miso Ramen di Sapporo, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Sapporo Miso Ramen",
+      "description": "The Miso Ramen of Sapporo starts from a base of garlic, ginger, meat and miso red and white slightly toasted. The broth is added gradually; the noodles are cooked separately and the bowl is completed with jumped buds, corn, egg and a nut of butter.",
+      "animeContext": "This recipe is thematically inspired by Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "brodo_di_pollo": {
-          "name": "Chicken broth (o pork)",
+          "name": "chicken stock (or pork)",
           "note": null
         },
         "miso_rosso": {
-          "name": "Red miso (aka miso)",
+          "name": "Red miso (Aka Miso)",
           "note": null
         },
         "miso_bianco": {
-          "name": "White miso (shiro miso)",
+          "name": "white miso (Shiro Miso)",
           "note": null
         },
         "olio_di_sesamo_tostati": {
-          "name": "Sesame oil tostati",
+          "name": "toasted sesame oil",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'garlic tritato",
+          "name": "chopped garlic clove",
           "note": null
         },
         "cm_di_zenzero_fresco_grattugiato": {
-          "name": "Cm di ginger fresh grated",
+          "name": "Grated fresh ginger",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di pork",
+          "name": "Pork minced meat",
           "note": null
         },
         "noodle_freschi_per_ramen": {
-          "name": "Noodle fresh per ramen",
+          "name": "fresh noodles for ramen",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Egg ajitsuke tamago (marinate)",
+          "name": "marinated eggs Ajitsuke Tamago",
           "note": null
         },
         "mais_dolce": {
-          "name": "Sweet corn",
+          "name": "sweet corn",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Butter di malga",
+          "name": "Malga butter",
           "note": null
         },
         "germogli_di_soia": {
-          "name": "Bean sprouts (moyashi) saltati",
+          "name": "Sauteed soy sprouts (Moyashi)",
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring onion fresh sliced",
+          "name": "fresh sliced onion",
           "note": null
         },
         "alga_nori": {
-          "name": "Nori",
+          "name": "Alga Nori",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "In a large pot, heat the sesame oil and brown the chopped garlic, grated ginger and the ground pork meat on medium heat until the meat becomes golden and grated.",
+        "step_2": "Combine sake and sugar.",
+        "step_3": "Then it incorporates the red miso and the white miso vigorously amalgamating with a wooden spoon to to slightly toast the miso without burning it.",
+        "step_4": "Slowly add the hot chicken broth, mixing well to completely dissolve the miso.",
+        "step_5": "Boil over a sweet heat for 10-15 minutes to mix all flavors.",
+        "step_6": "In a separate pan, skip the soy sprouts with a drop of sesame oil for 2 minutes while keeping them crispy.",
+        "step_7": "Cook the fresh noodles in boiling water in plenty of boiling water, not salted, following the instructions of the package (about 2-3 minutes), then drain them thoroughly.",
+        "step_8": "On the basis of each large bowl add the boiling broth with miso and meat.",
+        "step_9": "Combine the drained noodles by making them stick in the center.",
+        "step_10": "Place on one side the soy sprouts, the sweet corn, half a marinated egg, a nut of fresh malga butter in the center (typical of the tradition of Sapporo), a sprinkled onion and a sheet of Nori algae stuck on the edge of the bowl.",
+        "step_11": "Bring to the table immediately hot!"
       }
     },
     "it": {
       "title": "Miso Ramen di Sapporo",
-      "description": "Una versione pratica di Miso Ramen di Sapporo, costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Miso Ramen di Sapporo parte da una base di aglio, zenzero, carne e miso rosso e bianco leggermente tostati. Il brodo viene aggiunto gradualmente; i noodles si cuociono separatamente e la ciotola si completa con germogli saltati, mais, uovo e una noce di burro.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "brodo_di_pollo": {
@@ -233,11 +268,11 @@
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "d'aglio tritato",
+          "name": "spicchio d'aglio tritato",
           "note": null
         },
         "cm_di_zenzero_fresco_grattugiato": {
-          "name": "cm di zenzero fresco grattugiato",
+          "name": "zenzero fresco grattugiato",
           "note": null
         },
         "sake": {
@@ -257,7 +292,7 @@
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "uovo Ajitsuke Tamago (marinate)",
+          "name": "uova marinate Ajitsuke Tamago",
           "note": null
         },
         "mais_dolce": {
@@ -282,136 +317,150 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, usa una pentola capiente, porta a temperatura l'olio di sesamo e rosola l'aglio tritato, lo zenzero grattugiato e la carne macinata di maiale a fuoco medio finché la carne non diventa dorata e sgranata. Unisci il sake e lo zucchero, poi incorpora il miso rosso e il miso bianco amalgamando energicamente con un cucchiaio di legno per tostare leggermente il miso senza bruciarlo.",
-        "step_2": "Prosegui così: aggiungi lentamente il brodo di pollo caldo, amalgamando bene per sciogliere completamente il miso. Fai sobbollire a fuoco dolce per 10-15 minuti per amalgamare tutti i sapori.",
-        "step_3": "Nella fase successiva, in una padellina separate, salta i germogli di soia con un goccio d'olio di sesamo per 2 minuti mantenendoli croccanti. Cuoci in acqua bollente i noodle freschi in abbondante acqua bollente non salata seguendo le istruzioni della confezione (circa 2-3 minuti), poi scolali accuratamente.",
-        "step_4": "Per completare, sulla base di ciascuna ciotola capiente aggiungi il brodo bollente col miso e la carne. Unisci i noodle scolati facendoli adagiare al centro. Sistema su un lato i germogli di soia, il mais dolce, mezzo uovo marinato, una noce di burro di malga fresca al centro (tipica della tradizione di Sapporo), una spolverata di cipollotto e un foglio di alga Nori infilato sul bordo della ciotola. Porta in tavola immediatamente ben caldo!"
+        "step_1": "In una pentola, capiente, scalda l'olio di sesamo e rosola l'aglio tritato, lo zenzero grattugiato e la carne macinata di maiale a fuoco medio finché la carne non diventa dorata e sgranata.",
+        "step_2": "Unisci il sake e lo zucchero.",
+        "step_3": "Poi incorpora il miso rosso e il miso bianco amalgamando energicamente con un cucchiaio di legno per tostare leggermente il miso senza bruciarlo.",
+        "step_4": "Aggiungi lentamente il brodo di pollo caldo, amalgamando bene per sciogli completamente il miso.",
+        "step_5": "Fai sobbollire a fuoco dolce per 10-15 minuti per amalgamare tutti i sapori.",
+        "step_6": "In una padellina separate, salta i germogli di soia con un goccio d'olio di sesamo per 2 minuti mantenendoli croccanti.",
+        "step_7": "Cuoci in acqua bollente i noodle freschi in abbondante acqua bollente non salata seguendo le istruzioni della confezione (circa 2-3 minuti), poi scolali accuratamente.",
+        "step_8": "Sulla base di ciascuna ciotola capiente aggiungi il brodo bollente col miso e la carne.",
+        "step_9": "Unisci i noodle scolati facendoli adagia al centro.",
+        "step_10": "Sistema su un lato i germogli di soia, il mais dolce, mezzo uovo marinato, una noce di burro di malga fresca al centro (tipica della tradizione di Sapporo), una spolverata di cipollotto e un foglio di alga Nori infilato sul bordo della ciotola.",
+        "step_11": "Porta in tavola immediatamente ben caldo!"
       }
     },
     "es": {
-      "title": "Miso Ramen di Sapporo",
-      "description": "Una versión práctica de Miso Ramen di Sapporo para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Miso ramen de Sapporo",
+      "description": "El Miso Ramen de Sapporo parte de una base de ajo, jengibre, carne y miso rojo y blanco ligeramente tostados. El caldo se añade gradualmente; los fideos se cocinan por separado y el tazón se completa con brotes saltados, maíz, huevo y una nuez de mantequilla.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "brodo_di_pollo": {
-          "name": "Pollo caldo (o cerdo)",
+          "name": "Caldo de pollo (o cerdo)",
           "note": null
         },
         "miso_rosso": {
-          "name": "Rojo miso (aka miso)",
+          "name": "Miso rojo (Aka Miso)",
           "note": null
         },
         "miso_bianco": {
-          "name": "Blanco miso (shiro miso)",
+          "name": "Miso blanco (shiro Miso)",
           "note": null
         },
         "olio_di_sesamo_tostati": {
-          "name": "Sesame aceite tostati",
+          "name": "Aceite de sésamo tostado",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ajo tritato",
+          "name": "Racimos de ajo picados",
           "note": null
         },
         "cm_di_zenzero_fresco_grattugiato": {
-          "name": "Cm di jengibre fresco rallado",
+          "name": "jengibre fresco rallado",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di cerdo",
+          "name": "Carne picada de cerdo",
           "note": null
         },
         "noodle_freschi_per_ramen": {
-          "name": "Noodle fresco per ramen",
+          "name": "fideos frescos para ramen",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Huevo ajitsuke tamago (marinate)",
+          "name": "huevos marinados Ajitsuke Tamago",
           "note": null
         },
         "mais_dolce": {
-          "name": "Maíz dulce",
+          "name": "maíz dulce",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Mantequilla di malga",
+          "name": "manteca de malta",
           "note": null
         },
         "germogli_di_soia": {
-          "name": "Brotes de soja (moyashi) saltati",
+          "name": "brotes de soja (Moyashi) saltados",
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring cebolla fresco en rodajas",
+          "name": "cipollotto fresco cortado",
           "note": null
         },
         "alga_nori": {
-          "name": "Nori",
+          "name": "Alga Nori",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una olla, de gran capacidad, calienta el aceite de sésamo y rosola el ajo picado, el jengibre rallado y la carne picada de cerdo a fuego medio hasta que la carne se convierte en dorada y desenvainada.",
+        "step_2": "Une el sake y el azúcar.",
+        "step_3": "Luego incorpora el miso rojo y el miso blanco mezclando vigorosamente con una cuchara de madera para tostar ligeramente el miso sin quemarlo.",
+        "step_4": "Añade lentamente el caldo de pollo caliente, mezclando bien para disolver completamente el miso.",
+        "step_5": "Haz que el fuego sea dulce durante 10-15 minutos para mezclar todos los sabores.",
+        "step_6": "En una sartén separada, salta los brotes de soja con una gota de aceite de sésamo durante 2 minutos manteniendo crujientes.",
+        "step_7": "Cocine en agua hirviendo los fideos frescos en abundante agua hirviendo no salada siguiendo las instrucciones del envase (unos 2-3 minutos), luego escúchelos cuidadosamente.",
+        "step_8": "Sobre la base de cada tazón, añade el caldo caliente con el miso y la carne.",
+        "step_9": "Añade los fideos escurridos y colócalos en el centro.",
+        "step_10": "Pone los brotes de soja, el maíz dulce, medio huevo marinado, una nuez de mantequilla de malta fresca en el centro (típica de la tradición de Sapporo), un polvo de cebolla y una hoja de alga Nori en el borde del tazón.",
+        "step_11": "¡Lleva a la mesa inmediatamente caliente!"
       }
     },
     "fr": {
-      "title": "Miso Ramen di Sapporo",
-      "description": "Une version pratique de Miso Ramen di Sapporo à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Ramen au miso de Sapporo",
+      "description": "Le Miso Ramen de Sapporo part d'une base d'ail, de gingembre, de viande et de miso rouge et blanc légèrement grillé. Le bouillon est ajouté progressivement; les nouilles se cuitent séparément et le bol se complète avec des bourgeons sautés, maïs, œuf et une noix de beurre.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "brodo_di_pollo": {
-          "name": "Poulet bouillon (o porc)",
+          "name": "bouillon de poulet (ou de porc)",
           "note": null
         },
         "miso_rosso": {
-          "name": "Rouge miso (aka miso)",
+          "name": "Miso rouge (Aka Miso)",
           "note": null
         },
         "miso_bianco": {
-          "name": "Blanc miso (shiro miso)",
+          "name": "Miso blanc (Shiro Miso)",
           "note": null
         },
         "olio_di_sesamo_tostati": {
-          "name": "Sesame huile tostati",
+          "name": "Huile de sésame grillée",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ail tritato",
+          "name": "gousse d'ail haché",
           "note": null
         },
         "cm_di_zenzero_fresco_grattugiato": {
-          "name": "Cm di gingembre frais râpé",
+          "name": "gingembre frais râpé",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "saké",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di porc",
+          "name": "viande hachée de porc",
           "note": null
         },
         "noodle_freschi_per_ramen": {
-          "name": "Noodle frais per ramen",
+          "name": "nouilles fraîches pour ramen",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Œuf ajitsuke tamago (marinate)",
+          "name": "oeufs marinés Ajitsuke Tamago",
           "note": null
         },
         "mais_dolce": {
@@ -419,60 +468,67 @@
           "note": null
         },
         "burro_di_malga": {
-          "name": "Beurre di malga",
+          "name": "beurre de girofle",
           "note": null
         },
         "germogli_di_soia": {
-          "name": "Germes de soja (moyashi) saltati",
+          "name": "Graines de soja (Moyashi) sautées",
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring oignon frais tranché",
+          "name": "Ciboulette frais coupé",
           "note": null
         },
         "alga_nori": {
-          "name": "Nori",
+          "name": "alga Nori",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une casserole, grande, chauffe l'huile de sésame et roule l'ail haché, le gingembre râpé et la viande hachée de porc à feu moyen jusqu'à ce que la viande devienne dorée et égrenée.",
+        "step_2": "Rassemblez le saké et le sucre.",
+        "step_3": "Puis il intègre le miso rouge et le miso blanc en mélangeant vigoureusement avec une cuillère à soupe en bois pour griller légèrement le miso sans le brûler.",
+        "step_4": "Ajoutez lentement le bouillon de poulet chaud, en mélangeant bien pour faire fondre complètement le miso.",
+        "step_5": "Faites glisser à feu doux pendant 10-15 minutes pour mélanger toutes les saveurs.",
+        "step_6": "Dans une chapelle séparée, saute les bourgeons de soja avec une goutte d'huile de sésame pendant 2 minutes en les gardant croustillants.",
+        "step_7": "Faites cuire dans de l'eau bouillante les nouilles fraîches dans de l'eau bouillante non salée en suivant les instructions de l'emballage (environ 2-3 minutes), puis aspirez-les soigneusement.",
+        "step_8": "Sur la base de chaque grand bol, ajoutez le bouillon bouillant avec le miso et la viande.",
+        "step_9": "Rassemblez les nouilles en les faisant s'adapter au milieu.",
+        "step_10": "Il range sur un côté les bourgeons de soja, le maïs doux, demi-œuf mariné, une noix de beurre de magicien frais au centre (typique de la tradition de Sapporo), une époussetée d'oignons et une feuille d'algue Nori enfilé sur le bord du bol.",
+        "step_11": "Amenez à table immédiatement bien chaud!"
       }
     },
     "de": {
-      "title": "Miso Ramen di Sapporo",
-      "description": "Eine alltagstaugliche Version von Miso Ramen di Sapporo für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Sapporo-Miso-Ramen",
+      "description": "Der Miso Ramen di Sapporo beginnt mit einer Basis von Knoblauch, Ingwer, Fleisch und Miso rot und weiß leicht geröstet. Die Brühe wird nach und nach hinzugefügt; die Nudeln werden getrennt gekocht und die Schüssel wird mit gesprungenen Sprossen, Mais, Ei und eine Butternuss ergänzt.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "brodo_di_pollo": {
-          "name": "Hähnchen Brühe (o Schweinefleisch)",
+          "name": "Hühnerbrühe (oder Schwein)",
           "note": null
         },
         "miso_rosso": {
-          "name": "Rot miso (aka miso)",
+          "name": "Miso rot (Aka Miso)",
           "note": null
         },
         "miso_bianco": {
-          "name": "Weiß miso (shiro miso)",
+          "name": "Weißer Miso (Shiro Miso)",
           "note": null
         },
         "olio_di_sesamo_tostati": {
-          "name": "Sesame Öl tostati",
+          "name": "geröstetes Sesamöl",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'Knoblauch tritato",
+          "name": "Knoblauchzehe, gehackt",
           "note": null
         },
         "cm_di_zenzero_fresco_grattugiato": {
-          "name": "Cm di Ingwer frisch gerieben",
+          "name": "Ingwer frisch gerieben",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
@@ -480,15 +536,15 @@
           "note": null
         },
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di Schweinefleisch",
+          "name": "Hackfleisch/Faschiertes von Schweinen",
           "note": null
         },
         "noodle_freschi_per_ramen": {
-          "name": "Noodle frisch per ramen",
+          "name": "frische Ramen-Nudeln",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Ei ajitsuke tamago (marinate)",
+          "name": "Marinierte Eier Ajitsuke Tamago",
           "note": null
         },
         "mais_dolce": {
@@ -496,104 +552,118 @@
           "note": null
         },
         "burro_di_malga": {
-          "name": "Butter di malga",
+          "name": "Almbutter",
           "note": null
         },
         "germogli_di_soia": {
-          "name": "Sojasprossen (moyashi) saltati",
+          "name": "Sojasprossen (Moyashi) übersprungen",
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring Zwiebel frisch in Scheiben",
+          "name": "Schnittlauch, frisch geschnitten",
           "note": null
         },
         "alga_nori": {
-          "name": "Nori",
+          "name": "Nori-Alga",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einem großen Topf erwärmt er das Sesamöl und rostet den gehackten Knoblauch, den geriebenen Ingwer und das gehackte Schweinefleisch bei mittlerer Hitze, bis das Fleisch goldgelb und entkörnt wird.",
+        "step_2": "Verbinden Sie den Sake und den Zucker.",
+        "step_3": "Dann enthält er den roten Miso und den weißen Miso, der kräftig mit einem Holzlöffel vermengt wird, um den Miso leicht zu rösten, ohne ihn zu verbrennen.",
+        "step_4": "Fügen Sie die warme Hühnerbrühe langsam hinzu und mischen Sie sie gut, um das Miso vollständig loszuwerden.",
+        "step_5": "Machen Sie 10-15 Minuten mit süßem Feuer, um alle Aromen zu vermischen.",
+        "step_6": "In einer separaten Pfanne springt die Sojasprossen mit einem Tropfen Sesamöl für 2 Minuten und hält sie knusprig.",
+        "step_7": "Kochen Sie in kochendem Wasser die frischen Nudeln in reichlich heißem, ungesalzenem Wasser nach den Anweisungen der Packung (ca. 2-3 Minuten), dann spülen Sie sie gründlich.",
+        "step_8": "Basierend auf jeder großen Schüssel fügen Sie die kochende Brühe mit Miso und Fleisch.",
+        "step_9": "Kombinieren Sie die Noodles, indem Sie sie in der Mitte zaubern.",
+        "step_10": "Planen Sie auf einer Seite die Sojasprossen, den süßen Mais, ein halbes, mariniertes Ei, eine Nuss aus frischer Almbutter in der Mitte (typisch für die Tradition von Sapporo), einen Zwiebelstaub und ein Blatt Nori-Alge am Rand der Schüssel.",
+        "step_11": "Bringt sofort heiß auf den Tisch!"
       }
     },
     "pt": {
-      "title": "Miso Ramen di Sapporo",
-      "description": "Uma versão prática de Miso Ramen di Sapporo para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Ramen de miso de Sapporo",
+      "description": "O Miso Ramen de Sapporo começa a partir de uma base de alho, gengibre, carne e miso vermelho e branco ligeiramente tostados. O caldo é adicionado gradualmente; os macarrão são cozidos separadamente e a tigela é completada com botões pulados, milho, ovo e uma noz de manteiga.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars! - Shokugeki no Soma, Ramen Daisuki Koizumi-san. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "brodo_di_pollo": {
-          "name": "Frango caldo (o porco)",
+          "name": "estoque de frango (ou porco)",
           "note": null
         },
         "miso_rosso": {
-          "name": "Vermelho miso (aka miso)",
+          "name": "Miso vermelho (Aka Miso)",
           "note": null
         },
         "miso_bianco": {
-          "name": "Branco miso (shiro miso)",
+          "name": "Miso branco (Shiro Miso)",
           "note": null
         },
         "olio_di_sesamo_tostati": {
-          "name": "Sesame óleo tostati",
+          "name": "óleo de sésamo tostado",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'alho tritato",
+          "name": "dente de alho picado",
           "note": null
         },
         "cm_di_zenzero_fresco_grattugiato": {
-          "name": "Cm di gengibre fresco ralado",
+          "name": "Gengibre fresco ralado",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di porco",
+          "name": "Carne picada de porco",
           "note": null
         },
         "noodle_freschi_per_ramen": {
-          "name": "Noodle fresco per ramen",
+          "name": "macarrão fresco para ramen",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Ovo ajitsuke tamago (marinate)",
+          "name": "ovos marinados Ajitsuke Tamago",
           "note": null
         },
         "mais_dolce": {
-          "name": "Milho doce",
+          "name": "milho doce",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Manteiga di malga",
+          "name": "Manteiga de Malga",
           "note": null
         },
         "germogli_di_soia": {
-          "name": "Rebentos de soja (moyashi) saltati",
+          "name": "Brotos de soja sautados (Moyashi)",
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring cebola fresco fatiado",
+          "name": "cebola fresca cortada",
           "note": null
         },
         "alga_nori": {
-          "name": "Nori",
+          "name": "Alga Nori",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa panela grande, aqueça o óleo de sésamo e marrom o alho picado, o gengibre ralado e a carne de porco moída a fogo médio até que a carne se torne dourada e ralado.",
+        "step_2": "Combine sake e açúcar.",
+        "step_3": "Em seguida, incorpora o miso vermelho e o miso branco amalgamando vigorosamente com uma colher de madeira para torrar ligeiramente o miso sem queimá- lo.",
+        "step_4": "Adicione lentamente o caldo de frango quente, misturando- se bem para dissolver completamente o miso.",
+        "step_5": "Ferva sobre um calor doce por 10-15 minutos para misturar todos os sabores.",
+        "step_6": "Numa frigideira à parte, salteie os rebentos de soja com um fio de óleo de sésamo durante 2 minutos, mantendo-os estaladiços.",
+        "step_7": "Cozinhe os macarrão frescos em água fervente em muita água fervente, não salgada, seguindo as instruções do pacote (cerca de 2-3 minutos), em seguida, drene- os bem.",
+        "step_8": "Com base em cada tigela grande, adicione o caldo fervente com miso e carne.",
+        "step_9": "Combine os macarrão drenados fazendo com que fiquem no centro.",
+        "step_10": "Coloque de um lado os brotos de soja, o milho doce, meio ovo marinado, uma noz de manteiga de malga fresca no centro (típico da tradição de Sapporo), uma cebola aspersa e uma folha de algas Nori presas na borda da tigela.",
+        "step_11": "Traga para a mesa imediatamente quente!"
       }
     }
   }

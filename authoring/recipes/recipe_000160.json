@@ -1,13 +1,13 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000160",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "The Disastrous Life of Saiki K.",
   "animeReferences": [
     {
       "workTitle": "The Disastrous Life of Saiki K.",
-      "relation": "inspired",
+      "relation": "recurring_association",
       "season": null,
       "episode": null,
       "chapter": null
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 5,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -57,13 +57,13 @@
     {
       "id": "gelato_alla_vaniglia",
       "quantity": 2,
-      "unit": "piece"
+      "unit": "scoop"
     }
   ],
   "steps": [
     {
       "id": "step_1",
-      "timerSeconds": null
+      "timerSeconds": 300
     },
     {
       "id": "step_2",
@@ -76,45 +76,60 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 7200
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Coffee Jelly",
-      "description": "A Japanese-style Coffee Jelly designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by The Disastrous Life of Saiki K., K-On!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Coffee Jelly — coffee jelly with ice cream and whipped cream",
+      "description": "Coffee Jelly is a sugared coffee jelly left firm in the refrigerator and served in cubes. The consistency can be obtained with gelatin or agar using different activation methods; it is completed with cream and vanilla ice cream. Coffee jelly is cut into cubes and served cold with cream and vanilla ice cream only at the end.",
+      "animeContext": "This recipe is thematically inspired by The Disastrous Life of Saiki K., K-On!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "caffe_espresso_lungo_o_americano_zuccherato": {
-          "name": "Caffè espresso lungo o americano zuccherato",
+          "name": "long espresso coffee or sweet American espresso",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sugar",
+          "name": "semolate sugar",
           "note": null
         },
         "gelatina_in_fogli": {
-          "name": "Gelatina in fogli (o 2g di agar agar)",
-          "note": null
+          "name": "gelatin in sheets",
+          "note": "Alternatively, use about 2 g of agar-agar, following the specific activation method of the product."
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy cream da montare",
+          "name": "fresh cream to be assembled",
           "note": null
         },
         "gelato_alla_vaniglia": {
-          "name": "Gelato alla vaniglia",
+          "name": "Vanilla ice cream",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Put the jelly soaked in cold water for about 5 minutes; if you use agar, follow the boiling provided for that gelling agent instead.",
+        "step_2": "Prepare the coffee and melt the sugar while it is still hot.",
+        "step_3": "With gelatin, remove from the heat and incorporate well squeezed sheets until they are completely dissolved; with agar, boil the mixture for as long as necessary to activate it.",
+        "step_4": "Pour into a low baking dish or directly into the glasses and let cool.",
+        "step_5": "Transfer to the refrigerator for at least 2 hours until the gelatin is completely firmed.",
+        "step_6": "If you used a baking dish, cut the iced coffee into regular cubes and distribute them in the glasses.",
+        "step_7": "Complete with fresh or slightly whipped cream and a vanilla ice cream ball just before serving."
       }
     },
     "it": {
       "title": "Coffee Jelly (Gelato e Gelatina al Caffè con Panna)",
-      "description": "Un Coffee Jelly (Gelato e Gelatina al Caffè con Panna) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "La Coffee Jelly è una gelatina al caffè zuccherato lasciata rassodare in frigorifero e servita a cubetti. La consistenza può essere ottenuta con gelatina oppure agar seguendo metodi di attivazione diversi; si completa con panna e gelato alla vaniglia. La gelatina al caffè viene tagliata a cubetti e servita fredda con panna e gelato alla vaniglia soltanto alla fine.",
       "animeContext": "Questa ricetta è ispirata tematicamente a The Disastrous Life of Saiki K., K-On!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "caffe_espresso_lungo_o_americano_zuccherato": {
@@ -126,8 +141,8 @@
           "note": null
         },
         "gelatina_in_fogli": {
-          "name": "gelatina in fogli (o 2g di Agar Agar)",
-          "note": null
+          "name": "gelatina in fogli",
+          "note": "In alternativa usa circa 2 g di agar-agar, seguendo il metodo di attivazione specifico del prodotto."
         },
         "panna_fresca_da_montare": {
           "name": "panna fresca da montare",
@@ -139,142 +154,157 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, ammollare i fogli di gelatina in acqua fredda per 5 minuti.",
-        "step_2": "Prosegui così: porta a temperaturare il caffè espresso caldo con lo zucchero ed unire la gelatina strizzata amalgamando fino a completo scioglimento.",
-        "step_3": "Nella fase successiva, aggiungire il liquido al caffè in una pirofila rettangolare o direttamente nei bicchieri da porta in tavolazio e riporre in frigorifero per almeno 2 ore finché ben rassodato. Se raffreddato in pirofila, tagliare la gelatina al caffè a cubetti regolari con un coltello.",
-        "step_4": "Per completare, disporre i cubetti di gelatina nei bicchieri, aggiungire sopra un filo di panna fresca liquida ed ultimare con una pallina di gelato alla vaniglia in cima."
+        "step_1": "Metti la gelatina in ammollo in acqua fredda per circa 5 minuti; se usi agar, segui invece la bollitura prevista per quel gelificante.",
+        "step_2": "Prepara il caffè e scioglici lo zucchero mentre è ancora caldo.",
+        "step_3": "Con gelatina, togli dal fuoco e incorpora i fogli ben strizzati finché sono completamente sciolti; con agar, fai bollire il composto per il tempo necessario ad attivarlo.",
+        "step_4": "Versa in una pirofila bassa o direttamente nei bicchieri e lascia intiepidire.",
+        "step_5": "Trasferisci in frigorifero per almeno 2 ore, finché la gelatina è completamente rassodata.",
+        "step_6": "Se hai usato una pirofila, taglia il caffè gelificato in cubetti regolari e distribuiscili nei bicchieri.",
+        "step_7": "Completa con panna fresca o leggermente montata e una pallina di gelato alla vaniglia subito prima di servire."
       }
     },
     "es": {
-      "title": "Coffee Jelly",
-      "description": "Una versión práctica de Coffee Jelly para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en The Disastrous Life of Saiki K., K-On!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Coffee jelly — gelatina de café con helado y nata",
+      "description": "La Coffee Jelly es una gelatina de café azucarada que se deja reposar en la nevera y se sirve con cubitos. La consistencia se puede obtener con gelatina o agar siguiendo métodos de activación diferentes; se completa con crema y helado de vainilla. La gelatina de café se corta en cubos y se sirve fría con crema y helado de vainilla sólo al final.",
+      "animeContext": "Esta receta está inspirada temáticamente en The Disastrous Life of Saiki K., K-On!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "caffe_espresso_lungo_o_americano_zuccherato": {
-          "name": "Caffè espresso lungo o americano zuccherato",
+          "name": "café espresso largo o americano azucarado",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated azúcar",
+          "name": "azúcar semilado",
           "note": null
         },
         "gelatina_in_fogli": {
-          "name": "Gelatina in fogli (o 2g di agar agar)",
-          "note": null
+          "name": "gelatina en hojas",
+          "note": "Alternativamente, utiliza aproximadamente 2 g de agar-agar, siguiendo el método de activación específico del producto."
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy nata da montare",
+          "name": "crema fresca para montar",
           "note": null
         },
         "gelato_alla_vaniglia": {
-          "name": "Gelato alla vaniglia",
+          "name": "helado de vainilla",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Pon la gelatina en remojo en agua fría durante unos 5 minutos; si usas agar, sigue el hervido previsto para ese gelificante.",
+        "step_2": "Prepara el café y suelta el azúcar mientras aún está caliente.",
+        "step_3": "Con gelatina, quita del fuego e incorpora las hojas bien estriadas hasta que estén completamente derretidas; con agar, haz hervir el compuesto durante el tiempo necesario para activarlo.",
+        "step_4": "Vierte en una fuente baja o directamente en los vasos y deja que se enfríe.",
+        "step_5": "Transferir a la nevera durante al menos 2 horas, hasta que la gelatina esté completamente afinada.",
+        "step_6": "Si has usado un pirófila, corta el café helado en cubos regulares y repartelos en los vasos.",
+        "step_7": "Completa con crema fresca o ligeramente montada y una bola de helado de vainilla justo antes de servir."
       }
     },
     "fr": {
-      "title": "Coffee Jelly",
-      "description": "Une version pratique de Coffee Jelly à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par The Disastrous Life of Saiki K., K-On!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Coffee jelly — gelée de café avec glace et crème fouettée",
+      "description": "Coffee Jelly est une gelée au café sucré laissée refroidir au réfrigérateur et servie en cubes. La consistance peut être obtenue avec de la gélatine ou agar selon différentes méthodes d'activation; elle se complète avec de la crème et de la glace à la vanille. La gelée au café est coupée en cubes et servie froidement avec de la crème et de la glace à la vanille seulement à la fin.",
+      "animeContext": "Cette recette s'inspire librement de The Disastrous Life of Saiki K., K-On!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "caffe_espresso_lungo_o_americano_zuccherato": {
-          "name": "Caffè espresso lungo o americano zuccherato",
+          "name": "café expresso long ou américain sucré",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sucre",
+          "name": "sucre en poudre, en granulés ou sous d'autres formes solides, d'une teneur en poids de matières grasses provenant du lait et d'une teneur en poids de matières grasses égale ou supérieure à 40% mais n'excédant pas 10%",
           "note": null
         },
         "gelatina_in_fogli": {
-          "name": "Gelatina in fogli (o 2g di agar agar)",
-          "note": null
+          "name": "gélatine en feuilles",
+          "note": "Alternativement, il utilise environ 2 g d'agar-agar, selon la méthode d'activation spécifique du produit."
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy crème da montare",
+          "name": "crème fraîche à monter",
           "note": null
         },
         "gelato_alla_vaniglia": {
-          "name": "Gelato alla vaniglia",
+          "name": "crème glacée vanille",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Mettez la gelée dans de l'eau froide pendant environ 5 minutes; si vous utilisez de l'agar, suivez plutôt la bouilloire prévue pour ce gelant.",
+        "step_2": "Préparez le café et lâchez-nous le sucre pendant qu'il est encore chaud.",
+        "step_3": "Avec de la gélatine, retirez du feu et incorporez les feuilles bien rayées jusqu'à ce qu'elles soient complètement dissoutes; avec de l'agar, faites bouillir le mélange pendant le temps nécessaire pour l'activer.",
+        "step_4": "Versez dans un pirofil bas ou directement dans les verres et laissez tiède.",
+        "step_5": "Placez au réfrigérateur pendant au moins deux heures, jusqu'à ce que la gelée soit bien prise.",
+        "step_6": "Si vous avez utilisé un pirofila, coupez le café glacé dans des cubes réguliers et distribuez-les dans des verres.",
+        "step_7": "Complétez avec de la crème fraîche ou légèrement montée et une boule de glace vanille juste avant de servir."
       }
     },
     "de": {
-      "title": "Coffee Jelly",
-      "description": "Eine alltagstaugliche Version von Coffee Jelly für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von The Disastrous Life of Saiki K., K-On! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Coffee Jelly – Kaffeegelee mit Eis und Schlagsahne",
+      "description": "Coffee Jelly ist eine gezuckerte Kaffeegelatine, die im Kühlschrank stopft und mit Würfeln serviert wird. Die Konsistenz kann mit Gelatine oder Agar nach unterschiedlichen Aktivierungsmethoden hergestellt werden; sie wird mit Vanille-Sahne und -Eis ergänzt. Die Kaffeegelatine wird in Würfel geschnitten und kalt mit Sahne und Vanilleeis erst am Ende serviert.",
+      "animeContext": "Dieses Rezept ist thematisch von The Disastrous Life of Saiki K., K-On! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "caffe_espresso_lungo_o_americano_zuccherato": {
-          "name": "Caffè espresso lungo o americano zuccherato",
+          "name": "Espresso lang oder amerikanischen zuckerhaltigen Kaffee",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated Zucker",
+          "name": "Semolatzucker",
           "note": null
         },
         "gelatina_in_fogli": {
-          "name": "Gelatina in fogli (o 2g di agar agar)",
-          "note": null
+          "name": "Gelatine in Blättern",
+          "note": "Alternativ wird etwa 2 g Agar-Agar nach der produktspezifischen Aktivierungsmethode verwendet."
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy Sahne da montare",
+          "name": "Frisch zu montierende Sahne",
           "note": null
         },
         "gelato_alla_vaniglia": {
-          "name": "Gelato alla vaniglia",
+          "name": "Vanilleeis",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Legen Sie die Gelee in kaltem Wasser für ca. 5 Minuten; wenn Sie Agar verwenden, folgen Sie stattdessen dem für dieses Geliermittel vorgesehenen Kochen.",
+        "step_2": "Mach den Kaffee fertig und lass uns den Zucker los, während es noch warm ist.",
+        "step_3": "Mit Gelatine, entfernen Sie aus dem Feuer und enthalten die gut gestreiften Blätter, bis sie vollständig gelöst sind; mit Agar, kochen Sie die Verbindung so lange, wie es notwendig ist, um es zu aktivieren.",
+        "step_4": "Gießen Sie es in eine niedrige Pyrophilie oder direkt in die Gläser und lassen Sie es einschüchtern.",
+        "step_5": "Legen Sie die Gelatine mindestens 2 Stunden lang in den Kühlschrank, bis die Gelee vollständig gehärtet ist.",
+        "step_6": "Wenn Sie eine Pyrofile verwendet haben, schneiden Sie den gefrorenen Kaffee in regelmäßigen Würfeln und verteilen Sie sie in Gläsern.",
+        "step_7": "Komplett mit frischer oder leicht montierter Sahne und einer Vanilleeiskugel unmittelbar vor dem Servieren."
       }
     },
     "pt": {
-      "title": "Coffee Jelly",
-      "description": "Uma versão prática de Coffee Jelly para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por The Disastrous Life of Saiki K., K-On!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Coffee jelly — gelatina de café com gelado e natas batidas",
+      "description": "A gelatina de café é uma gelatina de café açucarada deixada firme na geladeira e servida em cubos. A consistência pode ser obtida com gelatina ou ágar usando diferentes métodos de ativação; é completada com creme e sorvete de baunilha. A geleia de café é cortada em cubos e servida fria com sorvete de creme e baunilha apenas no final.",
+      "animeContext": "Esta receita inspira-se tematicamente em The Disastrous Life of Saiki K., K-On!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "caffe_espresso_lungo_o_americano_zuccherato": {
-          "name": "Caffè espresso lungo o americano zuccherato",
+          "name": "café expresso longo ou expresso americano doce",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated açúcar",
+          "name": "açúcar semolado",
           "note": null
         },
         "gelatina_in_fogli": {
-          "name": "Gelatina in fogli (o 2g di agar agar)",
-          "note": null
+          "name": "gelatina em folhas",
+          "note": "Alternativamente, use cerca de 2 g de agar- agar, seguindo o método de ativação específico do produto."
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy natas da montare",
+          "name": "creme fresco a ser montado",
           "note": null
         },
         "gelato_alla_vaniglia": {
-          "name": "Gelato alla vaniglia",
+          "name": "Sorvete de vanila",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Coloque a geleia embebida em água fria por cerca de 5 minutos; se você usar agar, siga a ebulição fornecida para aquele agente gelificador em vez disso.",
+        "step_2": "Prepare o café e derreta o açúcar enquanto ainda estiver quente.",
+        "step_3": "Com gelatina, remova do calor e incorpore folhas bem apertadas até que sejam completamente dissolvidas; com agar, ferva a mistura o tempo necessário para ativar.",
+        "step_4": "Coloque em um prato de cozimento baixo ou diretamente nos copos e deixe esfriar.",
+        "step_5": "Transferir para o frigorífico por pelo menos 2 horas até que a gelatina esteja completamente firme.",
+        "step_6": "Se você usou um prato de cozimento, corte o café gelado em cubos regulares e distribua- os nos copos.",
+        "step_7": "Completar com creme fresco ou ligeiramente batido e uma bola de sorvete de baunilha logo antes de servir."
       }
     }
   }

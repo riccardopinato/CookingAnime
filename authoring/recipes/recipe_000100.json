@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000100",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Persona 5",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 20,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -60,9 +60,14 @@
       "unit": "piece"
     },
     {
-      "id": "salsa_di_soia_e_1_cucchiaino_di_mirin",
+      "id": "salsa_di_soia_e_1_cucchiaino_di_mirin_1_salsa_di_soia",
       "quantity": 1,
       "unit": "tbsp"
+    },
+    {
+      "id": "salsa_di_soia_e_1_cucchiaino_di_mirin_2_cucchiaino_di_mirin",
+      "quantity": 1,
+      "unit": "tsp"
     },
     {
       "id": "cipollotto_fresco_tritato",
@@ -77,29 +82,41 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 180
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 240
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 300
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Japanese Curry Udon Classico",
-      "description": "A practical bowl of Japanese Curry Udon Classico, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Persona 5, Mob Psycho 100. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Classic Japanese Curry Udon",
+      "description": "Japanese Curry Udon serves thick udon in a dashi broth thickened with Japanese curry roux. Onion and meat cook in the tasty base, while noodles are boiled separately before receiving warm curry. The udon boil in separate water, so the warm curry can cover them without becoming too dense in the bowl.",
+      "animeContext": "This recipe is thematically inspired by Persona 5, Mob Psycho 100. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "noodles_udon_freschi_o_surgelati": {
-          "name": "Noodles udon fresh o surgelati",
+          "name": "fresh or frozen noodles udon",
           "note": null
         },
         "roux_di_curry_giapponese_gia_pronto": {
-          "name": "Roux di curry giapponese già pronto",
+          "name": "Japanese curry roux already ready",
           "note": null
         },
         "brodo_dashi": {
@@ -107,32 +124,39 @@
           "note": null
         },
         "fettine_sottili_di_maiale_o_manzo": {
-          "name": "Fettine sottili di pork o beef",
+          "name": "thin slices of pork or beef",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Onion sliced",
+          "name": "sliced onion",
           "note": null
         },
-        "salsa_di_soia_e_1_cucchiaino_di_mirin": {
-          "name": "Soy sauce e 1 cucchiaino di mirin",
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_1_salsa_di_soia": {
+          "name": "Soy sauce",
+          "note": null
+        },
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_2_cucchiaino_di_mirin": {
+          "name": "mirin",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring onion fresh tritato",
+          "name": "fresh chopped onion",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Slice the onion and cut the meat into thin, bite-sized pieces. Bring a separate pot of water to the boil for the udon noodles.",
+        "step_2": "Meat rosola and onion in casserole for about 3 minutes, until the meat changes color and the onion begins to soften.",
+        "step_3": "Add the dashi, soy sauce and mirin; simmer gently for 3–4 minutes.",
+        "step_4": "Turn off the fire, incorporate the curry roux little by little until it is completely melted, then rekindle over low heat.",
+        "step_5": "Cook another 5 minutes stirring: the broth must veil the spoon but remain fluid enough to wrap the udon.",
+        "step_6": "Cook the udon noodles in the separate pot of water, drain thoroughly and divide among the bowls.",
+        "step_7": "Pour the boiling curry on the udon, complete with onion and serve immediately."
       }
     },
     "it": {
       "title": "Japanese Curry Udon Classico",
-      "description": "Una versione pratica di Japanese Curry Udon Classico, costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Japanese Curry Udon serve udon spessi in un brodo di dashi addensato con roux di curry giapponese. Cipolla e carne cuociono nella base saporita, mentre i noodles vengono lessati separatamente prima di ricevere il curry caldo. Gli udon si lessano in acqua separata, così il curry caldo può ricoprirli senza diventare troppo denso nella ciotola.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Persona 5, Mob Psycho 100. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "noodles_udon_freschi_o_surgelati": {
@@ -155,184 +179,219 @@
           "name": "cipolla affettata",
           "note": null
         },
-        "salsa_di_soia_e_1_cucchiaino_di_mirin": {
-          "name": "salsa di soia e 1 cucchiaino di mirin",
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_1_salsa_di_soia": {
+          "name": "salsa di soia",
+          "note": null
+        },
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_2_cucchiaino_di_mirin": {
+          "name": "mirin",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Cipollotto fresco tritato",
+          "name": "cipollotto fresco tritato",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, usa una pentola rosola le fettine di carne con la cipolla per 3 minuti. Aggiungi il brodo dashi, porta a bollore e unisci la salsa di soia e il mirin.",
-        "step_2": "Prosegui così: spegni momentaneamente il fuoco, sciogli i cubetti di curry nel brodo caldo amalgamando bene, poi riaccendi a fuoco basso per 5 minuti finché il brodo si addensa.",
-        "step_3": "Nella fase successiva, cuoci in acqua bollente gli udon in acqua bollente separata per 2 minuti e scolali.",
-        "step_4": "Per completare, sistema gli udon nelle ciotole e ricopri con il curry profumato e cremoso. Guarnisci con abbondante cipollotto fresco tritato."
+        "step_1": "Affetta la cipolla e taglia la carne in bocconi sottili; porta a bollore una pentola d’acqua separata per gli udon.",
+        "step_2": "Rosola carne e cipolla in casseruola per circa 3 minuti, finché la carne cambia colore e la cipolla inizia ad ammorbidirsi.",
+        "step_3": "Aggiungi il dashi, salsa di soia e mirin e porta a sobbollore per 3-4 minuti.",
+        "step_4": "Spegni il fuoco, incorpora il roux di curry poco alla volta finché è completamente sciolto, poi riaccendi a fuoco basso.",
+        "step_5": "Cuoci altri 5 minuti mescolando: il brodo deve velare il cucchiaio ma restare abbastanza fluido da avvolgi gli udon.",
+        "step_6": "Cuoci gli udon nell’acqua separata, scolali accuratamente e distribuiscili nelle ciotole.",
+        "step_7": "Versa il curry bollente sugli udon, completa con cipollotto e servi subito."
       }
     },
     "es": {
-      "title": "Japanese Curry Udon Classico",
-      "description": "Una versión práctica de Japanese Curry Udon Classico para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Persona 5, Mob Psycho 100. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Udon con curry japonés clásico",
+      "description": "El Japanese Curry Udon sirve udon grueso en un caldo de dashi espesado con roux de curry japonés. Cipolla y carne cocinan en la base sabrosa, mientras que los fideos se leen por separado antes de recibir el curry caliente. Los udons se leen en agua separada, así el curry caliente puede cubrirlos sin llegar a ser demasiado denso en el tazón.",
+      "animeContext": "Esta receta está inspirada temáticamente en Persona 5, Mob Psycho 100. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "noodles_udon_freschi_o_surgelati": {
-          "name": "Noodles udon fresco o surgelati",
+          "name": "fideos udon frescos o congelados",
           "note": null
         },
         "roux_di_curry_giapponese_gia_pronto": {
-          "name": "Roux di curry giapponese già pronto",
+          "name": "roux de curry japonés ya listo",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "caldo dashi",
           "note": null
         },
         "fettine_sottili_di_maiale_o_manzo": {
-          "name": "Fettine sottili di cerdo o ternera",
+          "name": "rodajas finas de cerdo o de ternera",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Cebolla en rodajas",
+          "name": "cebolla cortada",
           "note": null
         },
-        "salsa_di_soia_e_1_cucchiaino_di_mirin": {
-          "name": "Salsa de soja e 1 cucchiaino di mirin",
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_1_salsa_di_soia": {
+          "name": "Salsa de soja",
+          "note": null
+        },
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_2_cucchiaino_di_mirin": {
+          "name": "mirin",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring cebolla fresco tritato",
+          "name": "cipollotto fresco picado",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta la cebolla en rodajas y la carne en trozos finos; pon a hervir aparte una olla de agua para los fideos udon.",
+        "step_2": "Rosola carne y cebolla en cazuela durante unos 3 minutos, hasta que la carne cambia de color y la cebolla comienza a suavizarse.",
+        "step_3": "Añade el dashi, salsa de soja y mirin y lleva a hervir durante 3-4 minutos.",
+        "step_4": "Apaga el fuego, incorpora el roux del curry poco a poco hasta que se derrite completamente, luego vuelve a encender a fuego bajo.",
+        "step_5": "Cuece otros 5 minutos removiendo: el caldo debe cubrir ligeramente la cuchara, pero seguir lo bastante fluido para envolver los udon.",
+        "step_6": "Cuece los fideos udon en el agua aparte, escúrrelos bien y repártelos entre los cuencos.",
+        "step_7": "Vierte el curry bien caliente sobre los udon, añade cebolleta y sirve de inmediato."
       }
     },
     "fr": {
-      "title": "Japanese Curry Udon Classico",
-      "description": "Une version pratique de Japanese Curry Udon Classico à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Persona 5, Mob Psycho 100. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Udon au curry japonais traditionnel",
+      "description": "Le Japanese Curry Udon sert udon épais dans un bouillon de dashi épaissé avec des roux de curry japonais. Cipolla et viande cuire dans la base savoureuse, tandis que les nouilles sont lissées séparément avant de recevoir le curry chaud. Les udons se lèchent dans l'eau séparée, ainsi le curry chaud peut les couvrir sans devenir trop dense dans le bol.",
+      "animeContext": "Cette recette s'inspire librement de Persona 5, Mob Psycho 100. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "noodles_udon_freschi_o_surgelati": {
-          "name": "Noodles udon frais o surgelati",
+          "name": "Noodles udon frais ou surgelés",
           "note": null
         },
         "roux_di_curry_giapponese_gia_pronto": {
-          "name": "Roux di curry giapponese già pronto",
+          "name": "roux de curry japonais déjà prêt",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi bouillon",
+          "name": "bouillon dashi",
           "note": null
         },
         "fettine_sottili_di_maiale_o_manzo": {
-          "name": "Fettine sottili di porc o bœuf",
+          "name": "Coquillages fins de porc ou de bœuf",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Oignon tranché",
+          "name": "oignon coupé",
           "note": null
         },
-        "salsa_di_soia_e_1_cucchiaino_di_mirin": {
-          "name": "Sauce soja e 1 cucchiaino di mirin",
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_1_salsa_di_soia": {
+          "name": "Sauce de soja",
+          "note": null
+        },
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_2_cucchiaino_di_mirin": {
+          "name": "mirin",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring oignon frais tritato",
+          "name": "Ciboulette frais haché",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Émince l’oignon et coupe la viande en fines bouchées ; porte séparément une casserole d’eau à ébullition pour les nouilles udon.",
+        "step_2": "Rosola viande et oignon en casserole pendant environ 3 minutes, jusqu'à ce que la viande change de couleur et l'oignon commence à s'adoucir.",
+        "step_3": "Ajoute le dashi, la sauce soja et le mirin, puis laisse frémir 3 à 4 minutes.",
+        "step_4": "Éteignez le feu, incorporez le roux de curry peu à peu jusqu'à ce qu'il soit complètement dissous, puis rallumez à feu bas.",
+        "step_5": "Poursuis la cuisson 5 minutes en remuant : la sauce doit napper la cuillère tout en restant assez fluide pour enrober les nouilles udon.",
+        "step_6": "Fais cuire les nouilles udon dans l’eau prévue à part, égoutte-les soigneusement et répartis-les dans les bols.",
+        "step_7": "Verse le curry brûlant sur les nouilles udon, ajoute de la cébette et sers sans attendre."
       }
     },
     "de": {
-      "title": "Japanese Curry Udon Classico",
-      "description": "Eine alltagstaugliche Version von Japanese Curry Udon Classico für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Persona 5, Mob Psycho 100 inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Klassische Udon-Nudeln mit japanischem Curry",
+      "description": "Die Japanese Curry Udon serviert dicken Udon in einer Brühe von Dashi, die mit japanischem Curryroux verdichtet ist. Zwiebeln und Fleisch kochen in der schmackhaften Basis, während die Nudeln getrennt vor dem Erhalten des warmen Currys gekocht werden. Die Udons werden in separatem Wasser gekocht, so dass warmes Curry sie bedecken kann, ohne in der Schüssel zu dicht zu werden.",
+      "animeContext": "Dieses Rezept ist thematisch von Persona 5, Mob Psycho 100 inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "noodles_udon_freschi_o_surgelati": {
-          "name": "Noodles udon frisch o surgelati",
+          "name": "Nudeln udon, frisch oder gefroren",
           "note": null
         },
         "roux_di_curry_giapponese_gia_pronto": {
-          "name": "Roux di curry giapponese già pronto",
+          "name": "Japanischer Curryroux bereits fertig",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi Brühe",
+          "name": "Brühe Dashi",
           "note": null
         },
         "fettine_sottili_di_maiale_o_manzo": {
-          "name": "Fettine sottili di Schweinefleisch o Rindfleisch",
+          "name": "Schweineschmalz oder Rinderschmalz",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Zwiebel in Scheiben",
+          "name": "Zwiebeln, geschnitten",
           "note": null
         },
-        "salsa_di_soia_e_1_cucchiaino_di_mirin": {
-          "name": "Sojasauce e 1 cucchiaino di mirin",
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_1_salsa_di_soia": {
+          "name": "Sojasoße",
+          "note": null
+        },
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_2_cucchiaino_di_mirin": {
+          "name": "Mirin",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring Zwiebel frisch tritato",
+          "name": "Frühlingszwiebeln, frisch gehackt",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Die Zwiebel in Scheiben und das Fleisch in dünne, mundgerechte Stücke schneiden. Für die Udon-Nudeln in einem separaten Topf Wasser zum Kochen bringen.",
+        "step_2": "Rosola Fleisch und Zwiebel in Kasserolle für ca. 3 Minuten, bis das Fleisch Farbe ändert und die Zwiebel beginnt zu erweichen.",
+        "step_3": "Fügen Sie dashi, Soja-Sauce und Mirin hinzu und bringen Sie es für 3-4 Minuten zum Auftauen.",
+        "step_4": "Schalten Sie das Feuer aus, fügen Sie den Curryroux kurz nach und nach ein, bis er vollständig aufgelöst ist, dann zünden Sie es mit niedrigem Feuer wieder an.",
+        "step_5": "Weitere 5 Minuten unter Rühren garen: Die Brühe soll den Löffel leicht überziehen, aber flüssig genug bleiben, um die Udon-Nudeln zu umhüllen.",
+        "step_6": "Die Udon-Nudeln im separaten Wasser garen, gründlich abgießen und auf die Schüsseln verteilen.",
+        "step_7": "Gießen Sie heißes Curry auf Udon, komplett mit Zwiebeln und servieren Sie sofort."
       }
     },
     "pt": {
-      "title": "Japanese Curry Udon Classico",
-      "description": "Uma versão prática de Japanese Curry Udon Classico para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Persona 5, Mob Psycho 100. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Udon com caril japonês clássico",
+      "description": "Japonês Curry Udon serve udon espesso em um caldo de dashi espessado com curry roux japonês. Cebola e cozinheiro de carne na base saborosa, enquanto macarrão são fervidos separadamente antes de receber curry quente. O udon ferve em água separada, para que o curry quente possa cobri- los sem ficar muito denso na tigela.",
+      "animeContext": "Esta receita inspira-se tematicamente em Persona 5, Mob Psycho 100. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "noodles_udon_freschi_o_surgelati": {
-          "name": "Noodles udon fresco o surgelati",
+          "name": "udon de macarrão fresco ou congelado",
           "note": null
         },
         "roux_di_curry_giapponese_gia_pronto": {
-          "name": "Roux di curry giapponese già pronto",
+          "name": "O curry roux japonês já está pronto",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Coberto de Dashi",
           "note": null
         },
         "fettine_sottili_di_maiale_o_manzo": {
-          "name": "Fettine sottili di porco o carne bovina",
+          "name": "fatias finas de porco ou carne de bovino",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Cebola fatiado",
+          "name": "Cebola cortada",
           "note": null
         },
-        "salsa_di_soia_e_1_cucchiaino_di_mirin": {
-          "name": "Molho de soja e 1 cucchiaino di mirin",
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_1_salsa_di_soia": {
+          "name": "Molho de soja",
+          "note": null
+        },
+        "salsa_di_soia_e_1_cucchiaino_di_mirin_2_cucchiaino_di_mirin": {
+          "name": "mirin",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring cebola fresco tritato",
+          "name": "cebola fresca picada",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte a cebola em rodelas e a carne em pedaços finos. Leve uma panela de água separada à fervura para cozinhar os noodles udon.",
+        "step_2": "Rosola de carne e cebola em casserola por cerca de 3 minutos, até que a carne mude de cor e a cebola comece a suavizar.",
+        "step_3": "Adicione o dashi, o molho de soja e o mirin e deixe fervilhar suavemente durante 3 a 4 minutos.",
+        "step_4": "Desligue o fogo, incorpore o curry roux pouco a pouco até que seja completamente derretido, em seguida, acenda a fogo baixo.",
+        "step_5": "Cozinhe mais 5 minutos em agitação: o caldo deve velar a colher, mas permanecer fluido o suficiente para envolver o udon.",
+        "step_6": "Coza os udon na água separada, escorra-os bem e distribua-os pelas tigelas.",
+        "step_7": "Verter o curry fervente no udon, completo com cebola e servir imediatamente."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000087",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,28 +21,33 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 40,
   "cookMinutes": 20,
   "servings": 4,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
       "id": "dischi_di_pan_di_spagna_o_meringhe_tonde_pronte",
       "quantity": 4,
-      "unit": null
+      "unit": "piece"
     },
     {
-      "id": "ripieno_200ml_panna_fresca_montata_con_1_cucchiaio",
-      "quantity": null,
-      "unit": null
+      "id": "panna_fresca_da_montare",
+      "quantity": 200,
+      "unit": "ml"
+    },
+    {
+      "id": "zucchero_a_velo_per_panna",
+      "quantity": 1,
+      "unit": "tbsp"
     },
     {
       "id": "crema_marmellata_di_castagne_dolci",
@@ -61,8 +66,8 @@
     },
     {
       "id": "castagne_sciroppate",
-      "quantity": null,
-      "unit": null
+      "quantity": 8,
+      "unit": "piece"
     }
   ],
   "steps": [
@@ -81,58 +86,86 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
       "title": "Mont Blanc Chestnut Cake",
-      "description": "A Japanese-style Mont Blanc Chestnut Cake designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, K-On!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "description": "Mont Blanc with chestnuts has a base of Spanish bread or meringue, whipped cream and a cream of chestnuts distributed in decorative threads. The assembly takes place cold to obtain the typical dome shape, completed with icing sugar. The chestnut cream is extruded in thin threads on the cream dome; icing sugar and chestnut complete the decoration.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, K-On!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "dischi_di_pan_di_spagna_o_meringhe_tonde_pronte": {
-          "name": "Dischi di pan di spagna o meringhe tonde pronte",
+          "name": "ready-made spanish or round meringue discs",
           "note": null
         },
-        "ripieno_200ml_panna_fresca_montata_con_1_cucchiaio": {
-          "name": "Ripieno: 200ml heavy cream montata con 1 cucchiaio di sugar a velo",
+        "panna_fresca_da_montare": {
+          "name": "fresh cream to be assembled",
           "note": null
+        },
+        "zucchero_a_velo_per_panna": {
+          "name": "icing sugar",
+          "note": "To sweeten whipped cream."
         },
         "crema_marmellata_di_castagne_dolci": {
-          "name": "Crema/marmellata di chestnuts dolci",
+          "name": "cream/jam of sweet chestnuts",
           "note": null
         },
         "burro_morbido": {
-          "name": "Butter morbido",
+          "name": "soft butter",
           "note": null
         },
         "rum_o_latte": {
-          "name": "Rum o milk",
+          "name": "rum or milk",
           "note": null
         },
         "castagne_sciroppate": {
-          "name": "Chestnuts sciroppate (kuri no kanrooni) per la cima",
+          "name": "chestnuts in syrup (Kuri no Kanrooni) for the top",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "In a bowl, work the chestnut cream with soft butter and rum with the electric whip until it becomes velvety and free of lumps.",
+        "step_2": "Pass it through a fine sieve to ensure fluidity in cream spaghetti.",
+        "step_3": "Place the sponge bread or meringue discs on the saucers.",
+        "step_4": "Place in the center of each disc a whole chestnut in syrup.",
+        "step_5": "Cover the chestnut by creating a mountain / high cupola of whipped cream using a spatula.",
+        "step_6": "Insert the chestnut cream into a sac-à-poche with a multi-hole nozzle (mouth for Mont Blanc/spaghetti).",
+        "step_7": "Squeeze the chestnut cream all around the whipped cream dome creating overlapping threads to cover it entirely.",
+        "step_8": "Dust the top with icing sugar to simulate the snow and lay a chestnut in syrup on top."
       }
     },
     "it": {
       "title": "Mont Blanc Chestnut Cake (Torta Mont Blanc alle Castagne)",
-      "description": "Un Mont Blanc Chestnut Cake (Torta Mont Blanc alle Castagne) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Il Mont Blanc alle castagne presenta una base di pan di Spagna o meringa, panna montata e una crema di castagne distribuita in fili decorativi. L’assemblaggio avviene a freddo per ottenere la tipica forma a cupola, completata con zucchero a velo. La crema di castagne viene estrusa in fili sottili sulla cupola di panna; zucchero a velo e castagna completano il decoro.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, K-On!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "dischi_di_pan_di_spagna_o_meringhe_tonde_pronte": {
           "name": "dischi di pan di spagna o meringhe tonde pronte",
           "note": null
         },
-        "ripieno_200ml_panna_fresca_montata_con_1_cucchiaio": {
-          "name": "Ripieno: 200ml panna fresca montata con 1 cucchiaio di zucchero a velo",
+        "panna_fresca_da_montare": {
+          "name": "panna fresca da montare",
           "note": null
+        },
+        "zucchero_a_velo_per_panna": {
+          "name": "zucchero a velo",
+          "note": "Per dolcificare la panna montata."
         },
         "crema_marmellata_di_castagne_dolci": {
           "name": "crema/marmellata di castagne dolci",
@@ -147,163 +180,199 @@
           "note": null
         },
         "castagne_sciroppate": {
-          "name": "Castagne sciroppate (Kuri no Kanrooni) per la cima",
+          "name": "castagne sciroppate (Kuri no Kanrooni) per la cima",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, riunisci in una ciotola lavora la crema di castagne con il burro morbido ed il rum con la frusta elettrica finché diventa vellutata e priva di grumi. Passala attraverso un setaccio fine per garantire la fluidità negli spaghetti di crema.",
-        "step_2": "Prosegui così: sistema i dischi di pan di spagna o meringa sui piattini. Metti al centro di ciascun disco una castagna sciroppata intera.",
-        "step_3": "Nella fase successiva, ricopri la castagna creando una montagnola/cupola alta di panna montata utilizzando una spatola. Inserisci la crema di castagne in una sac-à-poche dotata di bocchetta a fori multipli (bocchetta per Mont Blanc/spaghetti).",
-        "step_4": "Per completare, spremi la crema di castagne tutt'intorno alla cupola di panna montata creando dei fili sovrapposti fino a coprirla interamente. Spolvera la cima con zucchero a velo per simulare la neve e adagia una castagna sciroppata in cima."
+        "step_1": "In una ciotola, lavora la crema di castagne con il burro morbido e il rum con la frusta elettrica finché diventa vellutata e priva di grumi.",
+        "step_2": "Passala attraverso un setaccio fine per garantire la fluidità negli spaghetti di crema.",
+        "step_3": "Sistema i dischi di pan di spagna o meringa sui piattini.",
+        "step_4": "Metti al centro di ciascun disco una castagna sciroppata intera.",
+        "step_5": "Ricopri la castagna creando una montagnola/cupola alta di panna montata utilizzando una spatola.",
+        "step_6": "Inserisci la crema di castagne in una sac-à-poche dotata di bocchetta a fori multipli (bocchetta per Mont Blanc/spaghetti).",
+        "step_7": "Spremi la crema di castagne tutt'intorno alla cupola di panna montata creando dei fili sovrapposti fino a coprirla interamente.",
+        "step_8": "Spolvera la cima con zucchero a velo per simulare la neve e adagia una castagna sciroppata in cima."
       }
     },
     "es": {
-      "title": "Mont Blanc Chestnut Cake",
-      "description": "Una versión práctica de Mont Blanc Chestnut Cake para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, K-On!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tarta Mont Blanc de castañas",
+      "description": "El Mont Blanc en las castañas presenta una base de pan de España o merengue, crema montada y una crema de castañas distribuida en hilos decorativos. El montaje se realiza en frío para obtener la típica forma de cúpula, completada con azúcar de velo. La crema de castaña es extruida en hilos finos en la cúpula de nata; azúcar en velo y castaña completan el decoro.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, K-On!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "dischi_di_pan_di_spagna_o_meringhe_tonde_pronte": {
-          "name": "Dischi di pan di spagna o meringhe tonde pronte",
+          "name": "Discos de pan de españa o merengue redondos listos",
           "note": null
         },
-        "ripieno_200ml_panna_fresca_montata_con_1_cucchiaio": {
-          "name": "Ripieno: 200ml heavy nata montata con 1 cucchiaio di azúcar a velo",
+        "panna_fresca_da_montare": {
+          "name": "crema fresca para montar",
           "note": null
+        },
+        "zucchero_a_velo_per_panna": {
+          "name": "azúcar en polvo",
+          "note": "Para edulcorar la crema batida."
         },
         "crema_marmellata_di_castagne_dolci": {
-          "name": "Crema/marmellata di chestnuts dolci",
+          "name": "crema/mermelada de castañas dulces",
           "note": null
         },
         "burro_morbido": {
-          "name": "Mantequilla morbido",
+          "name": "mantequilla suave",
           "note": null
         },
         "rum_o_latte": {
-          "name": "Rum o leche",
+          "name": "ron o leche",
           "note": null
         },
         "castagne_sciroppate": {
-          "name": "Chestnuts sciroppate (kuri no kanrooni) per la cima",
+          "name": "Castañas almíbar (Kuri no Kanrooni) para la cima",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En un tazón, trabaja la crema de castañas con mantequilla suave y ron con batidora eléctrica hasta que se vuelve aterciopelada y sin grumos.",
+        "step_2": "Pásala a través de un tamiz fino para asegurar la fluidez en los fideos de crema.",
+        "step_3": "Pon los discos de pan de españa o merengue en los platillos.",
+        "step_4": "Pon en el centro de cada disco una castaña almíbar entera.",
+        "step_5": "Cubre la castaña creando una montaña/cúpula alta de crema montada utilizando una espátula.",
+        "step_6": "Inserte la crema de castañas en una sac-à-poche con una boquilla de agujeros múltiples (boqueta para Mont Blanc/spaghetti).",
+        "step_7": "Aprieta la crema de castañas alrededor de la cúpula de nata montada creando hilos superpuestos hasta cubrirla completamente.",
+        "step_8": "Espolvorea la cima con azúcar en velo para simular la nieve y coloca una castaña en el almuerzo en la cima."
       }
     },
     "fr": {
-      "title": "Mont Blanc Chestnut Cake",
-      "description": "Une version pratique de Mont Blanc Chestnut Cake à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, K-On!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Mont-Blanc aux châtaignes",
+      "description": "Le Mont Blanc aux châtaignes présente une base de pain d'Espagne ou de meringue, crème fouettée et une crème de châtaigne distribuée en fils décoratifs. L'assemblage se fait à froid pour obtenir la forme typique en dôme, complétée par du sucre à voile. La crème de châtaigne est extrudée en fils fins sur le dôme de crème; sucre à voile et châtaigne complètent la décoration.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, K-On!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "dischi_di_pan_di_spagna_o_meringhe_tonde_pronte": {
-          "name": "Dischi di pan di spagna o meringhe tonde pronte",
+          "name": "Disques de pain d'Espagne ou de meringues ronds prêts",
           "note": null
         },
-        "ripieno_200ml_panna_fresca_montata_con_1_cucchiaio": {
-          "name": "Ripieno: 200ml heavy crème montata con 1 cucchiaio di sucre a velo",
+        "panna_fresca_da_montare": {
+          "name": "crème fraîche à monter",
           "note": null
+        },
+        "zucchero_a_velo_per_panna": {
+          "name": "sucre à voile",
+          "note": "Pour adoucir la crème fouettée."
         },
         "crema_marmellata_di_castagne_dolci": {
-          "name": "Crema/marmellata di chestnuts dolci",
+          "name": "crème/marmelade de châtaignes douces",
           "note": null
         },
         "burro_morbido": {
-          "name": "Beurre morbido",
+          "name": "beurre doux",
           "note": null
         },
         "rum_o_latte": {
-          "name": "Rum o lait",
+          "name": "rhum ou lait",
           "note": null
         },
         "castagne_sciroppate": {
-          "name": "Chestnuts sciroppate (kuri no kanrooni) per la cima",
+          "name": "châtaignes au sirop (Kuri no Kanrooni) pour le sommet",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans un bol, il travaille la crème de châtaigne avec le beurre doux et le rhum avec le fouet électrique jusqu'à ce qu'elle devienne veloutée et sans grumeaux.",
+        "step_2": "Passez-la à travers un tamis fin pour assurer la fluidité dans les spaghettis de crème.",
+        "step_3": "Installez les disques d'espagnol ou de meringue sur les soucoupes.",
+        "step_4": "Mettez au centre de chaque disque une châtaigne entière.",
+        "step_5": "Recouvrez la châtaigne en créant un monticule/dôme haut de crème montée à l'aide d'une spatule.",
+        "step_6": "Insérez la crème de châtaigne dans un sac-à-poche équipé d'une bouche à trous multiples (bouche pour Mont Blanc/spaghetti).",
+        "step_7": "Pressez la crème de châtaigne autour du dôme de crème montée en créant des fils superposés jusqu'à la couvrir entièrement.",
+        "step_8": "Il pulvérise le sommet avec du sucre à voile pour simuler la neige et adagie une châtaigne au sommet."
       }
     },
     "de": {
-      "title": "Mont Blanc Chestnut Cake",
-      "description": "Eine alltagstaugliche Version von Mont Blanc Chestnut Cake für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, K-On! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Mont-Blanc-Kastanientorte",
+      "description": "Der Mont Blanc in den Kastanien hat eine Base aus Spanien oder Meringa, Schlagsahne und eine Kastaniencreme in dekorative Drähte verteilt. Die Montage erfolgt kalt, um die typische Kuppelform zu erhalten, ergänzt mit Schleierzucker. Die Kastaniencreme wird in dünnen Fäden auf der Kuppel von Sahne extrudiert; Schleierzucker und Kastanienzucker ergänzen die Dekoration.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, K-On! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "dischi_di_pan_di_spagna_o_meringhe_tonde_pronte": {
-          "name": "Dischi di pan di spagna o meringhe tonde pronte",
+          "name": "Spanplatten oder runde Ringscheiben",
           "note": null
         },
-        "ripieno_200ml_panna_fresca_montata_con_1_cucchiaio": {
-          "name": "Ripieno: 200ml heavy Sahne montata con 1 cucchiaio di Zucker a velo",
+        "panna_fresca_da_montare": {
+          "name": "Frisch zu montierende Sahne",
           "note": null
+        },
+        "zucchero_a_velo_per_panna": {
+          "name": "Schleierzucker",
+          "note": "Um die Schlagsahne zu süßen."
         },
         "crema_marmellata_di_castagne_dolci": {
-          "name": "Crema/marmellata di chestnuts dolci",
+          "name": "Sahne/Süßkastanienmarmelade",
           "note": null
         },
         "burro_morbido": {
-          "name": "Butter morbido",
+          "name": "Weichbutter",
           "note": null
         },
         "rum_o_latte": {
-          "name": "Rum o Milch",
+          "name": "Rum oder Milch",
           "note": null
         },
         "castagne_sciroppate": {
-          "name": "Chestnuts sciroppate (kuri no kanrooni) per la cima",
+          "name": "Kastanien (Kuri no Kanrooni) für die Spitze",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Kastaniencreme, weiche Butter und Rum in einer Schüssel mit dem Handrührgerät cremig und klümpchenfrei aufschlagen.",
+        "step_2": "Gehen Sie durch ein feines Sieb, um die Flüssigkeit in den Spaghetti-Creme zu gewährleisten.",
+        "step_3": "Machen Sie die Platten von Span- oder Meringa-Panzer auf die Untertassen.",
+        "step_4": "Legen Sie in der Mitte jeder Platte eine ganze Kastanie in Stücke.",
+        "step_5": "Bedecken Sie die Kastanie mit einem Spachtel und erstellen Sie eine hohe Sahne-Höhe/Kuppel.",
+        "step_6": "Geben Sie die Kastaniencreme in eine Schabe mit mehreren Löchern (Mont Blanc/Spaghetti-Flasche) ein.",
+        "step_7": "Drücken Sie die Kastaniencreme rund um die Kuppel mit Schlagsahne, indem Sie überlappende Drähte anlegen, bis sie vollständig bedeckt ist.",
+        "step_8": "Die Spitze mit Schleierzucker stauben, um den Schnee zu simulieren, und eine Kastanie auf der Oberseite polieren."
       }
     },
     "pt": {
-      "title": "Mont Blanc Chestnut Cake",
-      "description": "Uma versão prática de Mont Blanc Chestnut Cake para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, K-On!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Bolo Mont Blanc de castanha",
+      "description": "O Mont Blanc de castanhas tem uma base de pão de ló ou merengue, natas batidas e creme de castanhas aplicado em fios decorativos. A montagem é feita a frio, criando a forma característica de cúpula, e termina com açúcar em pó. O creme de castanha é extrudido em fios finos na cúpula de creme; açúcar gelado e castanha completam a decoração.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, K-On!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "dischi_di_pan_di_spagna_o_meringhe_tonde_pronte": {
-          "name": "Dischi di pan di spagna o meringhe tonde pronte",
+          "name": "discos em espanhol ou meringue redondos prontos",
           "note": null
         },
-        "ripieno_200ml_panna_fresca_montata_con_1_cucchiaio": {
-          "name": "Ripieno: 200ml heavy natas montata con 1 cucchiaio di açúcar a velo",
+        "panna_fresca_da_montare": {
+          "name": "creme fresco a ser montado",
           "note": null
+        },
+        "zucchero_a_velo_per_panna": {
+          "name": "açúcar gelado",
+          "note": "Para adoçar o creme batido."
         },
         "crema_marmellata_di_castagne_dolci": {
-          "name": "Crema/marmellata di chestnuts dolci",
+          "name": "creme/jam de castanhas doces",
           "note": null
         },
         "burro_morbido": {
-          "name": "Manteiga morbido",
+          "name": "manteiga macia",
           "note": null
         },
         "rum_o_latte": {
-          "name": "Rum o leite",
+          "name": "rum ou leite",
           "note": null
         },
         "castagne_sciroppate": {
-          "name": "Chestnuts sciroppate (kuri no kanrooni) per la cima",
+          "name": "castanhas no xarope (Kuri no Kanrooni) para o topo",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa taça, bata o creme de castanha com a manteiga amolecida e o rum usando uma batedeira elétrica até obter uma mistura cremosa e sem grumos.",
+        "step_2": "Passe- o através de uma peneira fina para garantir a fluidez em espaguete de creme.",
+        "step_3": "Coloque o pão de esponja ou discos de meringue nos discos.",
+        "step_4": "Coloque no centro de cada disco uma castanha inteira em xarope.",
+        "step_5": "Cubra o castanho criando uma cúpula montanhosa / alta de creme batido usando uma espátula.",
+        "step_6": "Insira o creme de castanha em um saco-à- poche com um bico multi- buraco (boca para Mont Blanc/ spaghetti).",
+        "step_7": "Aperte o creme de castanha ao redor da cúpula de creme batido criando linhas sobrepostas para cobri- lo inteiramente.",
+        "step_8": "Ponha o topo com açúcar gelado para simular a neve e coloque um castanho em xarope no topo."
       }
     }
   }

@@ -4753,7 +4753,7 @@
     },
     {
       "id": "recipe_000052",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Black Butler (Kuroshitsuji)",
       "animeReferences": [
@@ -4778,7 +4778,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_00",
@@ -4822,8 +4822,8 @@
         },
         {
           "id": "panko",
-          "quantity": null,
-          "unit": null
+          "quantity": 100,
+          "unit": "g"
         },
         {
           "id": "olio_di_semi_per_friggere",
@@ -4838,7 +4838,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 300
         },
         {
           "id": "step_3",
@@ -4846,13 +4846,49 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 3600
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": 900
+        },
+        {
+          "id": "step_11",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_12",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_13",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000053",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
       "animeReferences": [
@@ -4877,7 +4913,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "gamberone_freschi_sgusciati",
@@ -4886,8 +4922,8 @@
         },
         {
           "id": "verdure_a_scelta",
-          "quantity": null,
-          "unit": null
+          "quantity": 150,
+          "unit": "g"
         },
         {
           "id": "riso_bianco_per_sushi_o_riso_originario_cotto_al_v",
@@ -4902,7 +4938,7 @@
         {
           "id": "tuorlo_d_uovo",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "acqua_ghiacciata",
@@ -4947,7 +4983,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 120
         },
         {
           "id": "step_3",
@@ -4956,12 +4992,32 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000054",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Spy x Family",
       "animeReferences": [
@@ -4986,7 +5042,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "carne_macinata_mista",
@@ -5060,17 +5116,53 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 240
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": 480
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_11",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_12",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_13",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000055",
-      "contentVersion": 1,
+      "contentVersion": 3,
       "status": "published",
       "inspirationTitle": "Yuru Camp△",
       "animeReferences": [
@@ -5095,7 +5187,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "noodles_udon_freschi_o_congelati",
@@ -5125,7 +5217,7 @@
         {
           "id": "funghi_shiitake_freschi_incisi_a_croce",
           "quantity": 4,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "tofu_rigido_a_cubetti",
@@ -5163,6 +5255,22 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 420
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 300
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
@@ -5263,7 +5371,7 @@
     },
     {
       "id": "recipe_000057",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Gintama",
       "animeReferences": [
@@ -5288,7 +5396,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_di_riso_glutinoso",
@@ -5297,8 +5405,8 @@
         },
         {
           "id": "90ml_di_acqua_tiepida",
-          "quantity": 80,
-          "unit": null
+          "quantity": 85,
+          "unit": "ml"
         },
         {
           "id": "zucchero",
@@ -5352,12 +5460,36 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": 60
         }
       ]
     },
     {
       "id": "recipe_000058",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer (Kimetsu no Yaiba)",
       "animeReferences": [
@@ -5382,7 +5514,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_di_riso_glutinoso",
@@ -5430,6 +5562,34 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_11",
           "timerSeconds": null
         }
       ]
@@ -5520,7 +5680,7 @@
     },
     {
       "id": "recipe_000060",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Si alza il vento (Studio Ghibli)",
       "animeReferences": [
@@ -5545,7 +5705,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "uovo_grandi_a_temperatura_ambiente",
@@ -5585,7 +5745,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 720
         },
         {
           "id": "step_3",
@@ -5593,13 +5753,29 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 2400
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000061",
-      "contentVersion": 1,
+      "contentVersion": 3,
       "status": "published",
       "inspirationTitle": "Food Wars! - Shokugeki no Soma",
       "animeReferences": [
@@ -5624,7 +5800,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "brodo_di_pollo",
@@ -5654,7 +5830,7 @@
         {
           "id": "cm_di_zenzero_fresco_grattugiato",
           "quantity": 1,
-          "unit": null
+          "unit": "cm"
         },
         {
           "id": "sake",
@@ -5693,8 +5869,8 @@
         },
         {
           "id": "germogli_di_soia",
-          "quantity": null,
-          "unit": null
+          "quantity": 100,
+          "unit": "g"
         },
         {
           "id": "cipollotto_fresco_affettato",
@@ -5723,12 +5899,40 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 900
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_11",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000062",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Yuru Camp△",
       "animeReferences": [
@@ -5753,7 +5957,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "fette_sottili_di_pancia_di_maiale",
@@ -5763,7 +5967,7 @@
         {
           "id": "cavolo_cinese",
           "quantity": 0.5,
-          "unit": null
+          "unit": "head"
         },
         {
           "id": "tofu_setoso_o_fermo",
@@ -5771,8 +5975,13 @@
           "unit": "piece"
         },
         {
-          "id": "funghi_enoki_e_4_funghi_shiitake",
+          "id": "funghi_enoki_e_4_funghi_shiitake_1_funghi_enoki",
           "quantity": 1,
+          "unit": "piece"
+        },
+        {
+          "id": "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake",
+          "quantity": 4.0,
           "unit": "piece"
         },
         {
@@ -5822,12 +6031,32 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 720
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000063",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Dragon Ball",
       "animeReferences": [
@@ -5852,7 +6081,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "riso_bianco_giapponese_cotto_a_vapore",
@@ -5880,7 +6109,12 @@
           "unit": "tsp"
         },
         {
-          "id": "sale_e_pepe_q_b",
+          "id": "sale_e_pepe_q_b_1_sale",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "sale_e_pepe_q_b_2_pepe_q_b",
           "quantity": null,
           "unit": null
         },
@@ -5931,12 +6165,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000064",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Isekai Shokudo - Restaurant to Another World",
       "animeReferences": [
@@ -5961,7 +6211,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "carne_macinata_mista",
@@ -5994,14 +6244,19 @@
           "unit": "tsp"
         },
         {
-          "id": "sale_e_pepe",
+          "id": "sale_e_pepe_1_sale",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "sale_e_pepe_2_pepe",
           "quantity": null,
           "unit": null
         },
         {
           "id": "farina_tipo_00",
-          "quantity": null,
-          "unit": null
+          "quantity": 50,
+          "unit": "g"
         },
         {
           "id": "uovo_sbattuto",
@@ -6010,8 +6265,8 @@
         },
         {
           "id": "panko",
-          "quantity": null,
-          "unit": null
+          "quantity": 100,
+          "unit": "g"
         },
         {
           "id": "olio_di_semi_per_friggere",
@@ -6019,7 +6274,12 @@
           "unit": null
         },
         {
-          "id": "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to",
+          "id": "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_1_cavolo_cappuccio_affettato",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "id": "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_2_salsa_tonkatsu_per_servire",
           "quantity": null,
           "unit": null
         }
@@ -6040,12 +6300,32 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 360
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000065",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Cooking Papa",
       "animeReferences": [
@@ -6070,7 +6350,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "fettine_sottili_di_lombata_o_pancia_di_maiale",
@@ -6109,11 +6389,16 @@
         },
         {
           "id": "riso_bianco_cotto_a_vapore",
-          "quantity": null,
-          "unit": null
+          "quantity": 2,
+          "unit": "portion"
         },
         {
-          "id": "cavolo_cappuccio_grattugiato_e_maionese_giapponese",
+          "id": "cavolo_cappuccio_grattugiato_e_maionese_giapponese_1_cavolo_cappuccio_grattugiat",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "cavolo_cappuccio_grattugiato_e_maionese_giapponese_2_maionese_giapponese_kewpie",
           "quantity": null,
           "unit": null
         }
@@ -6133,13 +6418,25 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000066",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars! - Shokugeki no Soma",
       "animeReferences": [
@@ -6164,7 +6461,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "melanzana_perline_o_giapponesi",
@@ -6177,9 +6474,14 @@
           "unit": "g"
         },
         {
-          "id": "d_aglio_e_1_cm_di_zenzero_tritati",
+          "id": "d_aglio_e_1_cm_di_zenzero_tritati_1_spicchio_spicchio_d_aglio",
           "quantity": 1,
           "unit": "piece"
+        },
+        {
+          "id": "d_aglio_e_1_cm_di_zenzero_tritati_2_cm_di_zenzero_tritati",
+          "quantity": 1,
+          "unit": "cm"
         },
         {
           "id": "cipollotto_affettati",
@@ -6220,7 +6522,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 360
         },
         {
           "id": "step_2",
@@ -6233,12 +6535,32 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000067",
-      "contentVersion": 1,
+      "contentVersion": 3,
       "status": "published",
       "inspirationTitle": "K-On!",
       "animeReferences": [
@@ -6263,7 +6585,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "cavolo_cappuccio_tagliato_finissimo",
@@ -6276,9 +6598,14 @@
           "unit": "g"
         },
         {
-          "id": "tenkasu",
+          "id": "tenkasu_1_tenkasu_palline_di_pastella_fritta",
           "quantity": 30,
           "unit": "g"
+        },
+        {
+          "id": "tenkasu_2_katsuobushi",
+          "quantity": null,
+          "unit": null
         },
         {
           "id": "brodo_dashi_freddo",
@@ -6311,13 +6638,33 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000068",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Doraemon",
       "animeReferences": [
@@ -6342,7 +6689,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "uovo_grandi",
@@ -6371,13 +6718,13 @@
         },
         {
           "id": "3_cucchiai_d_acqua",
-          "quantity": 2,
-          "unit": null
+          "quantity": 2.5,
+          "unit": "tbsp"
         },
         {
           "id": "tuorli",
           "quantity": 2,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "zucchero_2",
@@ -6416,12 +6763,44 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 900
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_11",
+          "timerSeconds": 30
+        },
+        {
+          "id": "step_12",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000069",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars! - Shokugeki no Soma",
       "animeReferences": [
@@ -6446,7 +6825,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "biscotti_secco",
@@ -6485,8 +6864,8 @@
         },
         {
           "id": "buccia_grattugiata_di_1_yuzu",
-          "quantity": null,
-          "unit": null
+          "quantity": 1,
+          "unit": "piece"
         },
         {
           "id": "farina",
@@ -6501,7 +6880,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 900
         },
         {
           "id": "step_3",
@@ -6510,18 +6889,34 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 3000
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 14400
         }
       ]
     },
     {
       "id": "recipe_000070",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer (Mitsuri Kanroji)",
       "animeReferences": [
         {
           "workTitle": "Demon Slayer (Mitsuri Kanroji)",
-          "relation": "inspired",
+          "relation": "recurring_association",
           "season": null,
           "episode": null,
           "chapter": null
@@ -6540,7 +6935,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "riso_glutinoso_rosa",
@@ -6555,7 +6950,7 @@
         {
           "id": "foglie_di_ciliegio_in_salamoia",
           "quantity": 6,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "zucchero",
@@ -6575,7 +6970,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 360
         },
         {
           "id": "step_3",
@@ -6584,12 +6979,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000071",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
       "animeReferences": [
@@ -6614,7 +7021,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "carne_macinata_di_maiale",
@@ -6708,12 +7115,36 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000072",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "My Hero Academia",
       "animeReferences": [
@@ -6738,7 +7169,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "noodles_precotti_per_yakisoba",
@@ -6753,7 +7184,7 @@
         {
           "id": "cavolo_cappuccio_tagliato_a_listarelle",
           "quantity": 0.25,
-          "unit": null
+          "unit": "head"
         },
         {
           "id": "carota_tagliata_a_julienne",
@@ -6822,12 +7253,36 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 240
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000073",
-      "contentVersion": 1,
+      "contentVersion": 3,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -6852,7 +7307,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "pancia_di_maiale_intera",
@@ -6862,7 +7317,7 @@
         {
           "id": "fettine_di_zenzero_fresco",
           "quantity": 3,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "cipollotto",
@@ -6911,17 +7366,33 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 2700
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 2400
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 900
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000074",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Gintama",
       "animeReferences": [
@@ -6934,9 +7405,9 @@
         },
         {
           "workTitle": "One Piece",
-          "relation": "inspired",
+          "relation": "verified_appearance",
           "season": null,
-          "episode": null,
+          "episode": "966",
           "chapter": null
         }
       ],
@@ -6946,17 +7417,12 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
-        {
-          "id": "1",
-          "quantity": 1,
-          "unit": null
-        },
         {
           "id": "litri_di_brodo_dashi",
           "quantity": 2,
-          "unit": null
+          "unit": "l"
         },
         {
           "id": "salsa_di_soia_chiara",
@@ -6975,8 +7441,8 @@
         },
         {
           "id": "ingredienti_fisso_1_2_daikon",
-          "quantity": null,
-          "unit": null
+          "quantity": 0.5,
+          "unit": "piece"
         },
         {
           "id": "uovo_sode",
@@ -6991,22 +7457,22 @@
         {
           "id": "tortini_di_pesce_nerimono",
           "quantity": 4,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "fagottini_di_tofu_fritto_con_mochi",
           "quantity": 4,
-          "unit": null
+          "unit": "piece"
         }
       ],
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 900
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 120
         },
         {
           "id": "step_3",
@@ -7015,12 +7481,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 3600
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000075",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Persona 5",
       "animeReferences": [
@@ -7045,12 +7527,12 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "cotolette_tonkatsu_di_maiale_pronte_e_impanate_nel",
           "quantity": 2,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "noodles_udon_freschi_o_congelati",
@@ -7096,7 +7578,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 360
         },
         {
           "id": "step_2",
@@ -7109,12 +7591,32 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000076",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer (Kimetsu no Yaiba)",
       "animeReferences": [
@@ -7139,7 +7641,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "tofu_fermo",
@@ -7200,7 +7702,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 900
         },
         {
           "id": "step_2",
@@ -7213,12 +7715,32 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 240
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000077",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -7243,7 +7765,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "anguilla_grigliata",
@@ -7271,11 +7793,6 @@
           "unit": "tbsp"
         },
         {
-          "id": "1",
-          "quantity": 1,
-          "unit": null
-        },
-        {
           "id": "zucchero",
           "quantity": 5,
           "unit": "tbsp"
@@ -7293,7 +7810,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 300
         },
         {
           "id": "step_3",
@@ -7301,13 +7818,29 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 480
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000078",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -7332,7 +7865,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "gamberi_grandi_sgusciati_e_puliti",
@@ -7347,7 +7880,7 @@
         {
           "id": "albume_d_uovo",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "sake",
@@ -7411,17 +7944,41 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 600
         },
         {
           "id": "step_4",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_10",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000079",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Isekai Shokudo (Restaurant to Another World)",
       "animeReferences": [
@@ -7446,7 +8003,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "polpa_di_granchio",
@@ -7490,8 +8047,8 @@
         },
         {
           "id": "farina_00_2",
-          "quantity": null,
-          "unit": null
+          "quantity": 50,
+          "unit": "g"
         },
         {
           "id": "uovo_sbattute",
@@ -7516,7 +8073,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 120
         },
         {
           "id": "step_3",
@@ -7524,6 +8081,30 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 3600
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_10",
           "timerSeconds": null
         }
       ]
@@ -7609,7 +8190,7 @@
     },
     {
       "id": "recipe_000081",
-      "contentVersion": 1,
+      "contentVersion": 3,
       "status": "published",
       "inspirationTitle": "Spy x Family",
       "animeReferences": [
@@ -7634,7 +8215,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "pane_per_sandwich_morbido_senza_crosta",
@@ -7662,7 +8243,12 @@
           "unit": "tsp"
         },
         {
-          "id": "sale_e_pepe_nero",
+          "id": "sale_e_pepe_nero_1_sale",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "sale_e_pepe_nero_2_pepe_nero",
           "quantity": null,
           "unit": null
         },
@@ -7675,7 +8261,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 540
         },
         {
           "id": "step_2",
@@ -7688,12 +8274,40 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": 300
+        },
+        {
+          "id": "step_11",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000082",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Yuru Camp△",
       "animeReferences": [
@@ -7718,22 +8332,22 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
-          "id": "sovracosce_e_ali_di_pollo_con_osso_e_pelle",
+          "id": "sovracosce_e_ali_di_pollo_con_osso_e_pelle_1_sovracosce",
           "quantity": 600,
           "unit": "g"
         },
         {
-          "id": "1",
-          "quantity": 1,
-          "unit": null
+          "id": "sovracosce_e_ali_di_pollo_con_osso_e_pelle_2_ali_di_pollo_con_osso",
+          "quantity": 4,
+          "unit": "piece"
         },
         {
           "id": "litri_d_acqua",
           "quantity": 2,
-          "unit": null
+          "unit": "l"
         },
         {
           "id": "alga_kombu",
@@ -7748,7 +8362,7 @@
         {
           "id": "cavolo_cinese",
           "quantity": 0.5,
-          "unit": null
+          "unit": "head"
         },
         {
           "id": "cipollotti",
@@ -7792,12 +8406,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000083",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Ramen Daisuki Koizumi-san",
       "animeReferences": [
@@ -7822,7 +8448,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "spessi_noodles_per_tsukemen_o_ramen",
@@ -7832,7 +8458,7 @@
         {
           "id": "fettine_di_carne_chashu_di_maiale",
           "quantity": 4,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "uovo_ajitsuke_tamago",
@@ -7876,8 +8502,8 @@
         },
         {
           "id": "germogli_di_bambu",
-          "quantity": null,
-          "unit": null
+          "quantity": 50,
+          "unit": "g"
         },
         {
           "id": "cipollotto",
@@ -7896,17 +8522,29 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 360
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000084",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -7931,7 +8569,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "petto_o_sovracoscia_di_pollo_senza_pelle",
@@ -7939,9 +8577,14 @@
           "unit": "g"
         },
         {
-          "id": "farina_00_e_1_uovo_sbattuto_per_impanare",
-          "quantity": null,
-          "unit": null
+          "id": "farina_00_e_1_uovo_sbattuto_per_impanare_1_farina_00",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "id": "farina_00_e_1_uovo_sbattuto_per_impanare_2_uovo_sbattuto_per_impanare",
+          "quantity": 1.0,
+          "unit": "piece"
         },
         {
           "id": "salsa_di_soia",
@@ -7984,7 +8627,12 @@
           "unit": "tsp"
         },
         {
-          "id": "sale_e_pepe",
+          "id": "sale_e_pepe_1_sale",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "sale_e_pepe_2_pepe",
           "quantity": null,
           "unit": null
         }
@@ -8005,12 +8653,32 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 360
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000085",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -8035,7 +8703,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_di_warabimochi",
@@ -8059,8 +8727,8 @@
         },
         {
           "id": "sciroppo_di_zucchero_nero_giapponese",
-          "quantity": null,
-          "unit": null
+          "quantity": 3,
+          "unit": "tbsp"
         }
       ],
       "steps": [
@@ -8074,17 +8742,29 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 420
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000086",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -8109,17 +8789,17 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "tuorli_d_uovo",
           "quantity": 2,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "albumi_d_uovo_freschi_e_freddi",
           "quantity": 3,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "latte_intero",
@@ -8148,11 +8828,16 @@
         },
         {
           "id": "burro_per_la_padella",
-          "quantity": null,
-          "unit": null
+          "quantity": 1,
+          "unit": "tsp"
         },
         {
-          "id": "zucchero_a_velo_e_sciroppo_d_acero_per_servire",
+          "id": "zucchero_a_velo_e_sciroppo_d_acero_per_servire_1_zucchero_a_velo",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "id": "zucchero_a_velo_e_sciroppo_d_acero_per_servire_2_sciroppo_d_acero_per_servire",
           "quantity": null,
           "unit": null
         }
@@ -8173,12 +8858,44 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": 360
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_11",
+          "timerSeconds": 300
+        },
+        {
+          "id": "step_12",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000087",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -8203,17 +8920,22 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "dischi_di_pan_di_spagna_o_meringhe_tonde_pronte",
           "quantity": 4,
-          "unit": null
+          "unit": "piece"
         },
         {
-          "id": "ripieno_200ml_panna_fresca_montata_con_1_cucchiaio",
-          "quantity": null,
-          "unit": null
+          "id": "panna_fresca_da_montare",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "zucchero_a_velo_per_panna",
+          "quantity": 1,
+          "unit": "tbsp"
         },
         {
           "id": "crema_marmellata_di_castagne_dolci",
@@ -8232,8 +8954,8 @@
         },
         {
           "id": "castagne_sciroppate",
-          "quantity": null,
-          "unit": null
+          "quantity": 8,
+          "unit": "piece"
         }
       ],
       "steps": [
@@ -8252,12 +8974,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000088",
-      "contentVersion": 1,
+      "contentVersion": 3,
       "status": "published",
       "inspirationTitle": "Cardcaptor Sakura",
       "animeReferences": [
@@ -8282,7 +9020,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "pane_per_sandwich_morbido_shokupan",
@@ -8306,18 +9044,18 @@
         },
         {
           "id": "frutta_fresca_assortita_fragole_intere",
-          "quantity": null,
-          "unit": null
+          "quantity": 8,
+          "unit": "piece"
         },
         {
           "id": "kiwi_sbucciati",
-          "quantity": null,
-          "unit": null
+          "quantity": 2,
+          "unit": "piece"
         },
         {
           "id": "mandarini_o_uva_senza_semi",
-          "quantity": null,
-          "unit": null
+          "quantity": 2,
+          "unit": "piece"
         }
       ],
       "steps": [
@@ -8336,12 +9074,32 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 1200
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000089",
-      "contentVersion": 1,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -8366,7 +9124,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "riso_glutinoso_per_dolci",
@@ -8396,21 +9154,37 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 900
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 600
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000090",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Naruto",
       "animeReferences": [
@@ -8435,7 +9209,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "tagliolini_per_ramen_freschi",
@@ -8469,8 +9243,8 @@
         },
         {
           "id": "fettine_di_chashu",
-          "quantity": null,
-          "unit": null
+          "quantity": 4,
+          "unit": "slice"
         },
         {
           "id": "uovo_marinato_ajitsuke_tamago_a_meta",
@@ -8479,8 +9253,8 @@
         },
         {
           "id": "naruto",
-          "quantity": null,
-          "unit": null
+          "quantity": 4,
+          "unit": "slice"
         },
         {
           "id": "cipollotto_fresco_affettato",
@@ -8496,7 +9270,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 180
         },
         {
           "id": "step_2",
@@ -8509,12 +9283,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000091",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -8539,7 +9325,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "riso_giapponese_a_grano_corto",
@@ -8559,7 +9345,7 @@
         {
           "id": "funghi_shiitake_idratati_e_affettati",
           "quantity": 3,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "carota_tagliata_a_julienne",
@@ -8577,7 +9363,12 @@
           "unit": "tbsp"
         },
         {
-          "id": "mirin_e_1_cucchiaio_di_sake",
+          "id": "mirin_e_1_cucchiaio_di_sake_1_mirin",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "id": "mirin_e_1_cucchiaio_di_sake_2_cucchiaio_di_sake",
           "quantity": 1,
           "unit": "tbsp"
         }
@@ -8585,7 +9376,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 900
         },
         {
           "id": "step_2",
@@ -8598,12 +9389,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 900
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000092",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Gintama",
       "animeReferences": [
@@ -8628,7 +9431,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "germogli_di_soia_freschi",
@@ -8661,9 +9464,14 @@
           "unit": "tsp"
         },
         {
-          "id": "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d",
+          "id": "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_1_pepe_nero_macinato_fresco",
           "quantity": null,
           "unit": null
+        },
+        {
+          "id": "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_2_cucchiaino_di_olio_di_sesam",
+          "quantity": 1,
+          "unit": "tsp"
         }
       ],
       "steps": [
@@ -8681,13 +9489,25 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000093",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -8712,12 +9532,12 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "cotolette_di_maiale_tonkatsu_gia_pronte_e_affettat",
           "quantity": 2,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "riso_bianco_cotto",
@@ -8767,7 +9587,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 240
         },
         {
           "id": "step_3",
@@ -8776,12 +9596,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 90
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000094",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Yuru Camp△",
       "animeReferences": [
@@ -8806,7 +9638,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "trancio_di_salmone_fresco_a_bocconcini",
@@ -8826,7 +9658,7 @@
         {
           "id": "cavolo_cinese_tagliato_a_pezzi",
           "quantity": 0.25,
-          "unit": null
+          "unit": "head"
         },
         {
           "id": "tofu_duro_a_cubetti",
@@ -8839,8 +9671,13 @@
           "unit": "g"
         },
         {
-          "id": "carota_a_rondelle_e_1_patata_a_cubetti",
+          "id": "carota_a_rondelle_e_1_patata_a_cubetti_1_carota_a_rondelle",
           "quantity": 1,
+          "unit": "piece"
+        },
+        {
+          "id": "carota_a_rondelle_e_1_patata_a_cubetti_2_patata_a_cubetti",
+          "quantity": 1.0,
           "unit": "piece"
         },
         {
@@ -8860,17 +9697,29 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 600
         },
         {
           "id": "step_4",
+          "timerSeconds": 240
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 480
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000095",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Ramen Daisuki Koizumi-san",
       "animeReferences": [
@@ -8895,7 +9744,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "ramen_noodles_sode",
@@ -8913,29 +9762,39 @@
           "unit": "tsp"
         },
         {
-          "id": "sake_e_1_cucchiaino_di_olio_di_sesamo_chiaro",
+          "id": "sake_e_1_cucchiaino_di_olio_di_sesamo_chiaro_1_sake",
           "quantity": 1,
           "unit": "tbsp"
         },
         {
-          "id": "succo_di_yuzu_fresco",
+          "id": "sake_e_1_cucchiaino_di_olio_di_sesamo_chiaro_2_cucchiaino_di_olio_di_sesamo_chia",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "id": "succo_di_yuzu_fresco_1_succo_di_yuzu_fresco_o_mix_limone_mandarino",
           "quantity": 2,
           "unit": "tbsp"
         },
         {
+          "id": "succo_di_yuzu_fresco_2_scorza_grattugiata",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
           "id": "guarnizioni_fettine_di_petto_di_pollo_cotto_a_bass",
-          "quantity": null,
-          "unit": null
+          "quantity": 120,
+          "unit": "g"
         },
         {
           "id": "germogli_di_bambu",
-          "quantity": null,
-          "unit": null
+          "quantity": 40,
+          "unit": "g"
         },
         {
           "id": "uovo_sodo_barzotto",
-          "quantity": null,
-          "unit": null
+          "quantity": 1,
+          "unit": "piece"
         },
         {
           "id": "scorza_di_yuzu_fresca",
@@ -8958,6 +9817,18 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -9048,7 +9919,7 @@
     },
     {
       "id": "recipe_000097",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -9073,7 +9944,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "cipolla_affettata_sottilmente",
@@ -9103,7 +9974,7 @@
         {
           "id": "tuorlo_d_uovo",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "olio_di_semi_di_arachidi_per_friggere",
@@ -9127,12 +9998,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000098",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Cooking Papa",
       "animeReferences": [
@@ -9157,12 +10040,12 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "sovracosce_di_pollo_disossate_con_la_pelle",
           "quantity": 2,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "riso_cotto_per_donburi",
@@ -9190,7 +10073,12 @@
           "unit": "tbsp"
         },
         {
-          "id": "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu",
+          "id": "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu_1_semi_di_sesamo_tostati",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu_2_cipollotto_tritato_per_guar",
           "quantity": null,
           "unit": null
         }
@@ -9211,12 +10099,20 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000099",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Samurai Champloo",
       "animeReferences": [
@@ -9241,7 +10137,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_di_riso_glutinoso",
@@ -9262,11 +10158,6 @@
           "id": "farina_di_soia_tostata",
           "quantity": 2,
           "unit": "tbsp"
-        },
-        {
-          "id": "spiedini_in_bambu",
-          "quantity": null,
-          "unit": null
         }
       ],
       "steps": [
@@ -9284,13 +10175,25 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000100",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Persona 5",
       "animeReferences": [
@@ -9315,7 +10218,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "noodles_udon_freschi_o_surgelati",
@@ -9343,9 +10246,14 @@
           "unit": "piece"
         },
         {
-          "id": "salsa_di_soia_e_1_cucchiaino_di_mirin",
+          "id": "salsa_di_soia_e_1_cucchiaino_di_mirin_1_salsa_di_soia",
           "quantity": 1,
           "unit": "tbsp"
+        },
+        {
+          "id": "salsa_di_soia_e_1_cucchiaino_di_mirin_2_cucchiaino_di_mirin",
+          "quantity": 1,
+          "unit": "tsp"
         },
         {
           "id": "cipollotto_fresco_tritato",
@@ -9360,21 +10268,33 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 180
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 240
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 300
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000101",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Yuru Camp△",
       "animeReferences": [
@@ -9399,7 +10319,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "riso_per_sushi_cotto_caldo",
@@ -9442,13 +10362,25 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000102",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -9473,7 +10405,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "uovo_fresche_grandi",
@@ -9496,9 +10428,14 @@
           "unit": "tsp"
         },
         {
-          "id": "pizzico_di_sale_e_olio_per_la_padella",
+          "id": "pizzico_di_sale_e_olio_per_la_padella_1_pizzico_di_sale",
           "quantity": 1,
-          "unit": null
+          "unit": "pinch"
+        },
+        {
+          "id": "pizzico_di_sale_e_olio_per_la_padella_2_olio_per_la_padella",
+          "quantity": 1,
+          "unit": "tsp"
         },
         {
           "id": "daikon_grattugiato_per_servire",
@@ -9522,12 +10459,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000103",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "K-On!",
       "animeReferences": [
@@ -9552,7 +10501,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "gelato_al_te_verde_matcha",
@@ -9572,7 +10521,7 @@
         {
           "id": "dango_o_shiratama_piccolini",
           "quantity": 4,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "panna_montata_zuccherata",
@@ -9581,8 +10530,8 @@
         },
         {
           "id": "corn_flakes_o_fiocchi_di_cereali_croccanti",
-          "quantity": null,
-          "unit": null
+          "quantity": 40,
+          "unit": "g"
         },
         {
           "id": "cialde_o_bastoncini_pocky_al_matcha_per_guarnire",
@@ -9606,12 +10555,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000104",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Kiki - Consegne a domicilio",
       "animeReferences": [
@@ -9636,7 +10597,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "zucca_giapponese_kabocha",
@@ -9660,8 +10621,8 @@
         },
         {
           "id": "farina_00",
-          "quantity": null,
-          "unit": null
+          "quantity": 50,
+          "unit": "g"
         },
         {
           "id": "uovo_sbattuto",
@@ -9670,11 +10631,16 @@
         },
         {
           "id": "panko_giapponese",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_1_olio_di_semi_per_friggere",
           "quantity": null,
           "unit": null
         },
         {
-          "id": "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser",
+          "id": "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_2_salsa_tonkatsu_per_servire",
           "quantity": null,
           "unit": null
         }
@@ -9682,7 +10648,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 900
         },
         {
           "id": "step_2",
@@ -9695,12 +10661,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000105",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -9725,7 +10707,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "shiroan",
@@ -9769,12 +10751,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000106",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "My Neighbor Totoro",
       "animeReferences": [
@@ -9799,17 +10797,12 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "patata_dolci_giapponesi_a_pasta_viola_gialla",
           "quantity": 2,
           "unit": "piece"
-        },
-        {
-          "id": "alluminio_per_cartoccio_e_un_pizzico_di_sale_marin",
-          "quantity": null,
-          "unit": null
         }
       ],
       "steps": [
@@ -9827,13 +10820,25 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 4500
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000107",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -9858,7 +10863,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "spesse_di_pane_per_toast_giapponese_shokupan",
@@ -9897,12 +10902,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000108",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
       "animeReferences": [
@@ -9927,57 +10944,77 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
-          "id": "tagliolini_fresh_ramen",
-          "quantity": 400,
-          "unit": "g"
-        },
-        {
-          "id": "ossa_di_maiale",
+          "id": "brodo_ossa_di_maiale_miste_collo_femore_o_nocche_1",
           "quantity": 1,
           "unit": "kg"
         },
         {
-          "id": "chashu",
+          "id": "brodo_acqua_fredda_piu_acqua_bollente_per_i_rabbocchi_2",
+          "quantity": 3,
+          "unit": "l"
+        },
+        {
+          "id": "brodo_zenzero_fresco_a_fette_3",
+          "quantity": 25,
+          "unit": "g"
+        },
+        {
+          "id": "brodo_aglio_schiacciato_4",
           "quantity": 4,
-          "unit": "slice"
+          "unit": "clove"
         },
         {
-          "id": "uovo_ajitsuke_tamago",
-          "quantity": 2,
-          "unit": "piece"
+          "id": "ramen_noodles_freschi_per_ramen_5",
+          "quantity": 400,
+          "unit": "g"
         },
         {
-          "id": "tara_al_miso_soia",
+          "id": "tare_tare_di_miso_o_salsa_di_soia_6",
           "quantity": 2,
           "unit": "tbsp"
         },
         {
-          "id": "olio_mayu",
-          "quantity": null,
-          "unit": null
+          "id": "topping_chashu_7",
+          "quantity": 4,
+          "unit": "slice"
         },
         {
-          "id": "germogli_di_soia",
-          "quantity": null,
-          "unit": null
+          "id": "topping_ajitama_8",
+          "quantity": 2,
+          "unit": "piece"
         },
         {
-          "id": "cipollotto_e_alga_nori",
-          "quantity": null,
-          "unit": null
+          "id": "topping_germogli_di_soia_9",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "topping_cipollotto_affettato_10",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "topping_alga_nori_11",
+          "quantity": 2,
+          "unit": "piece"
+        },
+        {
+          "id": "topping_olio_mayu_12",
+          "quantity": 1,
+          "unit": "tsp"
         }
       ],
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 1800
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 600
         },
         {
           "id": "step_3",
@@ -9985,13 +11022,29 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 21600
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000109",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -10016,7 +11069,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "pasta_di_sesamo_nero",
@@ -10041,7 +11094,7 @@
         {
           "id": "pizzico_di_sale",
           "quantity": 1,
-          "unit": null
+          "unit": "pinch"
         }
       ],
       "steps": [
@@ -10059,6 +11112,18 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -10144,7 +11209,7 @@
     },
     {
       "id": "recipe_000111",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -10169,7 +11234,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "sgombro_fresco",
@@ -10189,17 +11254,17 @@
         {
           "id": "sake",
           "quantity": 2,
-          "unit": null
+          "unit": "tbsp"
         },
         {
           "id": "zucchero",
           "quantity": 1,
-          "unit": null
+          "unit": "tbsp"
         },
         {
           "id": "radice_di_zenzero_a_fettine_sottili",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "acqua_o_dashi",
@@ -10222,13 +11287,25 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 300
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000112",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Naruto",
       "animeReferences": [
@@ -10253,30 +11330,35 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
-          "id": "chashu",
+          "id": "chashu_chashu_brasato_1",
           "quantity": 300,
           "unit": "g"
         },
         {
-          "id": "riso_bianco_caldissimo",
-          "quantity": 2,
-          "unit": "portion"
-        },
-        {
-          "id": "salsa_di_brasatura_del_chashu",
+          "id": "chashu_salsa_di_brasatura_del_chashu_2",
           "quantity": 2,
           "unit": "tbsp"
         },
         {
-          "id": "uovo_sodo_marinato",
+          "id": "ciotola_riso_giapponese_cotto_e_ben_caldo_3",
+          "quantity": 2,
+          "unit": "portion"
+        },
+        {
+          "id": "ciotola_ajitama_4",
           "quantity": 1,
           "unit": "piece"
         },
         {
-          "id": "cipollotto_fresco_e_maionese_giapponese",
+          "id": "finitura_cipollotto_fresco_affettato_5",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "finitura_maionese_giapponese_kewpie_6",
           "quantity": null,
           "unit": null
         }
@@ -10297,12 +11379,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000113",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -10327,7 +11421,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "gamberone_sgusciati_e_puliti",
@@ -10335,9 +11429,14 @@
           "unit": "piece"
         },
         {
-          "id": "albume_d_uovo_2_cucchiai_di_amido_di_mais",
+          "id": "albume_d_uovo",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
+        },
+        {
+          "id": "amido_di_mais",
+          "quantity": 2,
+          "unit": "tbsp"
         },
         {
           "id": "maionese_kewpie",
@@ -10375,13 +11474,25 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000114",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Non Non Biyori",
       "animeReferences": [
@@ -10406,7 +11517,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "noodles_somen_sottilissimi",
@@ -10415,8 +11526,8 @@
         },
         {
           "id": "brodo_mentsuyu_freddo_di_frigorifero",
-          "quantity": null,
-          "unit": null
+          "quantity": 200,
+          "unit": "ml"
         },
         {
           "id": "zenzero_grattugiato",
@@ -10424,7 +11535,12 @@
           "unit": null
         },
         {
-          "id": "cipollotto_e_semi_di_sesamo",
+          "id": "cipollotto_e_semi_di_sesamo_1_cipollotto",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "cipollotto_e_semi_di_sesamo_2_semi_di_sesamo",
           "quantity": null,
           "unit": null
         },
@@ -10445,17 +11561,29 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 90
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000115",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Gintama",
       "animeReferences": [
@@ -10480,12 +11608,17 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "polvere_di_kanten",
           "quantity": 4,
           "unit": "g"
+        },
+        {
+          "id": "acqua_per_kanten",
+          "quantity": 500,
+          "unit": "ml"
         },
         {
           "id": "confettura_di_fagioli_rossi_anko",
@@ -10494,24 +11627,24 @@
         },
         {
           "id": "frutta_mista",
-          "quantity": null,
-          "unit": null
+          "quantity": 200,
+          "unit": "g"
         },
         {
           "id": "sciroppo_di_zucchero_nero_kuromitsu",
-          "quantity": null,
-          "unit": null
+          "quantity": 4,
+          "unit": "tbsp"
         },
         {
           "id": "palline_di_mochi_o_shiratama",
-          "quantity": null,
-          "unit": null
+          "quantity": 12,
+          "unit": "piece"
         }
       ],
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 120
         },
         {
           "id": "step_2",
@@ -10523,13 +11656,25 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000116",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -10554,12 +11699,17 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
-          "id": "radice_di_gobo",
+          "id": "radice_di_gobo_1_radice_di_gobo_bardana",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
+        },
+        {
+          "id": "radice_di_gobo_2_carota_a_fiammifero",
+          "quantity": 1.0,
+          "unit": "piece"
         },
         {
           "id": "olio_di_sesamo",
@@ -10574,15 +11724,20 @@
         {
           "id": "mirin",
           "quantity": 1,
-          "unit": null
+          "unit": "tbsp"
         },
         {
           "id": "zucchero",
           "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "id": "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_1_peperoncino_shichimi_togara",
+          "quantity": null,
           "unit": null
         },
         {
-          "id": "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to",
+          "id": "peperoncino_shichimi_togarashi_e_semi_di_sesamo_to_2_semi_di_sesamo_tostati",
           "quantity": null,
           "unit": null
         }
@@ -10590,7 +11745,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 300
         },
         {
           "id": "step_2",
@@ -10598,10 +11753,22 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 240
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -10677,7 +11844,7 @@
     },
     {
       "id": "recipe_000118",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Jujutsu Kaisen",
       "animeReferences": [
@@ -10702,30 +11869,40 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
-          "id": "noodles_udon_spessi",
+          "id": "base_udon_spessi_1",
           "quantity": 2,
           "unit": "portion"
         },
         {
-          "id": "kakuni",
+          "id": "kakuni_kakuni_completo_2",
           "quantity": 4,
           "unit": "piece"
         },
         {
-          "id": "brodo_dashi_con_dashi",
+          "id": "brodo_dashi_3",
           "quantity": 800,
           "unit": "ml"
         },
         {
-          "id": "soia_e_mirin",
+          "id": "brodo_salsa_di_soia_4",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "brodo_mirin_5",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "finitura_cipollotto_affettato_6",
           "quantity": null,
           "unit": null
         },
         {
-          "id": "cipollotto_e_senape_giapponese_karashi",
+          "id": "finitura_karashi_7",
           "quantity": null,
           "unit": null
         }
@@ -10746,12 +11923,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000119",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -10776,7 +11965,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "tofu_fermo_sbriciolato",
@@ -10785,18 +11974,23 @@
         },
         {
           "id": "daikon",
-          "quantity": null,
-          "unit": null
+          "quantity": 100,
+          "unit": "g"
         },
         {
           "id": "carota",
-          "quantity": null,
-          "unit": null
+          "quantity": 80,
+          "unit": "g"
         },
         {
-          "id": "gobo_e_funghi_shiitake_a_pezzetti",
-          "quantity": null,
-          "unit": null
+          "id": "gobo_e_funghi_shiitake_a_pezzetti_1_gobo",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "id": "gobo_e_funghi_shiitake_a_pezzetti_2_funghi_shiitake_a_pezzetti",
+          "quantity": 4,
+          "unit": "piece"
         },
         {
           "id": "olio_di_sesamo",
@@ -10809,8 +12003,13 @@
           "unit": "ml"
         },
         {
-          "id": "salsa_di_soia_e_1_di_sake",
+          "id": "salsa_di_soia_e_1_di_sake_1_salsa_di_soia",
           "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "salsa_di_soia_e_1_di_sake_2_di_sake",
+          "quantity": 1,
           "unit": "tbsp"
         }
       ],
@@ -10825,17 +12024,29 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 240
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 900
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000120",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -10860,25 +12071,45 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
-          "id": "yakisoba_pronta_con_carne_e_verdure",
+          "id": "yakisoba_yakisoba_completa_1",
           "quantity": 1,
           "unit": "portion"
         },
         {
-          "id": "uovo_sbattute_con_1_cucchiaio_di_latte",
+          "id": "omelette_uova_2",
           "quantity": 2,
           "unit": "piece"
         },
         {
-          "id": "salsa_per_yakisoba",
-          "quantity": null,
-          "unit": null
+          "id": "omelette_latte_3",
+          "quantity": 1,
+          "unit": "tbsp"
         },
         {
-          "id": "maionese_kewpie_e_aonori",
+          "id": "omelette_olio_neutro_4",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "id": "finitura_salsa_yakisoba_5",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "id": "finitura_maionese_giapponese_6",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "id": "finitura_aonori_7",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "id": "finitura_beni_shoga_8",
           "quantity": null,
           "unit": null
         }
@@ -10894,17 +12125,33 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 120
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000121",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -10929,7 +12176,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "formaggio_spalmabile",
@@ -10957,8 +12204,13 @@
           "unit": "ml"
         },
         {
-          "id": "farina_00_20g_di_amido_di_mais",
+          "id": "farina_00",
           "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "id": "amido_di_mais",
+          "quantity": 20,
           "unit": "g"
         }
       ],
@@ -10978,12 +12230,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 3600
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 900
         }
       ]
     },
     {
       "id": "recipe_000122",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Grand Blue",
       "animeReferences": [
@@ -11008,22 +12276,22 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "anguria_fresca_a_cubetti_ghiacciati",
-          "quantity": null,
-          "unit": null
+          "quantity": 300,
+          "unit": "g"
         },
         {
           "id": "palline_di_mochi_shiratama",
-          "quantity": null,
-          "unit": null
+          "quantity": 12,
+          "unit": "piece"
         },
         {
           "id": "sciroppo_di_seltz_o_sprite",
-          "quantity": null,
-          "unit": null
+          "quantity": 200,
+          "unit": "ml"
         }
       ],
       "steps": [
@@ -11033,7 +12301,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 120
         },
         {
           "id": "step_3",
@@ -11042,12 +12310,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000123",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Barakamon",
       "animeReferences": [
@@ -11072,7 +12352,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "riso_cotto_lavato",
@@ -11085,14 +12365,24 @@
           "unit": "g"
         },
         {
-          "id": "brodo_dashi_insaporito_con_soia_e_mirin",
+          "id": "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so",
           "quantity": 600,
           "unit": "ml"
         },
         {
-          "id": "uovo_sbattuto_e_cipollotto",
+          "id": "brodo_dashi_insaporito_con_soia_e_mirin_2_mirin",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "id": "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto",
           "quantity": 1,
           "unit": "piece"
+        },
+        {
+          "id": "uovo_sbattuto_e_cipollotto_2_cipollotto",
+          "quantity": null,
+          "unit": null
         }
       ],
       "steps": [
@@ -11106,10 +12396,22 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 300
         },
         {
           "id": "step_4",
+          "timerSeconds": 300
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -11185,15 +12487,15 @@
     },
     {
       "id": "recipe_000125",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Lucky Star",
       "animeReferences": [
         {
           "workTitle": "Lucky Star",
-          "relation": "inspired",
+          "relation": "verified_appearance",
           "season": null,
-          "episode": null,
+          "episode": "1",
           "chapter": null
         },
         {
@@ -11210,22 +12512,22 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
-          "id": "pasta_brioche_soffice",
-          "quantity": null,
-          "unit": null
+          "id": "impasto_impasto_brioche_per_choco_cornet_1",
+          "quantity": 1,
+          "unit": "batch"
         },
         {
-          "id": "crema_pasticcera_al_cioccolato_denso",
-          "quantity": null,
-          "unit": null
+          "id": "farcitura_crema_al_cioccolato_densa_2",
+          "quantity": 1,
+          "unit": "batch"
         },
         {
-          "id": "stampi_a_cono_da_forno",
-          "quantity": null,
-          "unit": null
+          "id": "finitura_uovo_sbattuto_per_spennellare_3",
+          "quantity": 1,
+          "unit": "piece"
         }
       ],
       "steps": [
@@ -11235,7 +12537,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 5400
         },
         {
           "id": "step_3",
@@ -11244,12 +12546,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 1800
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 900
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000126",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -11274,27 +12592,47 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "carne_di_maiale",
-          "quantity": null,
-          "unit": null
+          "quantity": 120,
+          "unit": "g"
         },
         {
           "id": "gamberi",
-          "quantity": null,
-          "unit": null
+          "quantity": 6,
+          "unit": "piece"
         },
         {
-          "id": "cipolla_e_lotus_negli_spiedini",
-          "quantity": null,
-          "unit": null
+          "id": "cipolla_e_lotus_negli_spiedini_1_cipolla",
+          "quantity": 1,
+          "unit": "piece"
         },
         {
-          "id": "pastella_liquida",
-          "quantity": null,
-          "unit": null
+          "id": "cipolla_e_lotus_negli_spiedini_2_radice_di_loto_negli_spiedini",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "farina_per_pastella",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "acqua_fredda_per_pastella",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "id": "uovo_per_pastella",
+          "quantity": 1,
+          "unit": "piece"
+        },
+        {
+          "id": "pastella_liquida_2_panko_raffinato",
+          "quantity": 100,
+          "unit": "g"
         },
         {
           "id": "salsa_tonkatsu_speziata",
@@ -11318,12 +12656,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000127",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -11348,22 +12698,32 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
-          "id": "acqua_minerale_purissima",
+          "id": "mochi_d_acqua_acqua_minerale_a_basso_residuo_fisso_1",
           "quantity": 500,
           "unit": "ml"
         },
         {
-          "id": "polvere_agar_agar_kanten",
-          "quantity": 12,
+          "id": "mochi_d_acqua_agar_agar_in_polvere_2",
+          "quantity": 1,
           "unit": "g"
         },
         {
-          "id": "farina_di_soia_tostat_kinako_e_sciroppo_kuromitsu",
-          "quantity": null,
-          "unit": null
+          "id": "mochi_d_acqua_zucchero_3",
+          "quantity": 20,
+          "unit": "g"
+        },
+        {
+          "id": "servizio_kinako_4",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "id": "servizio_kuromitsu_5",
+          "quantity": 2,
+          "unit": "tbsp"
         }
       ],
       "steps": [
@@ -11382,12 +12742,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 14400
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000128",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
       "animeReferences": [
@@ -11412,7 +12784,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "carne_di_manzo_o_maiale_a_cubetti",
@@ -11422,7 +12794,7 @@
         {
           "id": "mela_rossa_grande",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "cacao_amaro_in_polvere",
@@ -11447,7 +12819,7 @@
         {
           "id": "noce_di_roux_per_curry_giapponese",
           "quantity": 1,
-          "unit": null
+          "unit": "portion"
         },
         {
           "id": "brodo_di_carne",
@@ -11456,8 +12828,8 @@
         },
         {
           "id": "riso_bianco_cotto_al_vapore",
-          "quantity": null,
-          "unit": null
+          "quantity": 320,
+          "unit": "g"
         }
       ],
       "steps": [
@@ -11476,12 +12848,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 1200
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 300
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000129",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -11506,7 +12894,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "tagliolini_soba",
@@ -11521,7 +12909,7 @@
         {
           "id": "porro_grande",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "brodo_dashi",
@@ -11560,17 +12948,25 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 240
         },
         {
           "id": "step_4",
+          "timerSeconds": 240
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000130",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -11595,7 +12991,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "tagliolini_udon_freschi_o_congelati",
@@ -11653,13 +13049,29 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000131",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "March Comes in Like a Lion",
       "animeReferences": [
@@ -11684,7 +13096,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "udon",
@@ -11699,7 +13111,7 @@
         {
           "id": "cetriolo_tagliato_a_julienne",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "uovo_sodo_o_uovo_cotto_a_bassa_temperatura",
@@ -11712,7 +13124,12 @@
           "unit": "ml"
         },
         {
-          "id": "nori_a_striscioline_e_cipollotto_fresco_per_guarni",
+          "id": "nori_a_striscioline_e_cipollotto_fresco_per_guarni_1_nori_a_striscioline",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn",
           "quantity": null,
           "unit": null
         }
@@ -11733,12 +13150,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000132",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Chainsaw Man",
       "animeReferences": [
@@ -11763,7 +13192,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "spesse_di_pane_da_tramezzino_giapponese",
@@ -11773,7 +13202,7 @@
         {
           "id": "cotolette_di_maiale_fritte",
           "quantity": 2,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "salsa_curry_denso",
@@ -11806,6 +13235,18 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -11985,7 +13426,7 @@
     },
     {
       "id": "recipe_000135",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -12010,7 +13451,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "melanzana_perline_o_corte_giapponesi",
@@ -12038,7 +13479,12 @@
           "unit": "tbsp"
         },
         {
-          "id": "daikon_grattugiato_e_zenzero_fresco_per_guarnire",
+          "id": "daikon_grattugiato_e_zenzero_fresco_per_guarnire_1_daikon_grattugiato",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "daikon_grattugiato_e_zenzero_fresco_per_guarnire_2_zenzero_fresco_per_guarnire",
           "quantity": null,
           "unit": null
         }
@@ -12054,17 +13500,29 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 240
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000136",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -12089,7 +13547,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "tofu_solido",
@@ -12120,11 +13578,6 @@
           "id": "semi_di_sesamo_tostati_per_guarnire",
           "quantity": null,
           "unit": null
-        },
-        {
-          "id": "spiedini_di_legno",
-          "quantity": null,
-          "unit": null
         }
       ],
       "steps": [
@@ -12138,17 +13591,29 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 120
         },
         {
           "id": "step_4",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 30
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000137",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Ranma ½",
       "animeReferences": [
@@ -12173,7 +13638,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "udon_freschi",
@@ -12183,7 +13648,7 @@
         {
           "id": "cavolo_cappuccio_affettato",
           "quantity": 0.5,
-          "unit": null
+          "unit": "head"
         },
         {
           "id": "carota_a_striscioline",
@@ -12219,7 +13684,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 60
         },
         {
           "id": "step_2",
@@ -12227,17 +13692,29 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 120
         },
         {
           "id": "step_4",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000138",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "My Hero Academia",
       "animeReferences": [
@@ -12262,7 +13739,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "pancia_di_maiale_affettata_finemente",
@@ -12272,7 +13749,7 @@
         {
           "id": "radice_di_daikon_a_fettine",
           "quantity": 0.5,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "carota_a_mezzaluna",
@@ -12316,17 +13793,33 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 120
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000139",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Fruits Basket",
       "animeReferences": [
@@ -12351,7 +13844,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "zucca_kabocha",
@@ -12394,13 +13887,21 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 300
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_6",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000140",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "K-On!",
       "animeReferences": [
@@ -12425,7 +13926,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_00",
@@ -12489,17 +13990,33 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 1800
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000141",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Gintama",
       "animeReferences": [
@@ -12524,7 +14041,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "pasta_di_sesamo_nero",
@@ -12552,7 +14069,12 @@
           "unit": "g"
         },
         {
-          "id": "panna_montata_e_sesamo_nero_tostata_per_guarnire",
+          "id": "panna_montata_e_sesamo_nero_tostata_per_guarnire_1_panna_montata",
+          "quantity": 80,
+          "unit": "ml"
+        },
+        {
+          "id": "panna_montata_e_sesamo_nero_tostata_per_guarnire_2_sesamo_nero_tostato_per_guarn",
           "quantity": null,
           "unit": null
         }
@@ -12560,7 +14082,7 @@
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 600
         },
         {
           "id": "step_2",
@@ -12573,12 +14095,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 10800
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000142",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Hyouka",
       "animeReferences": [
@@ -12603,7 +14137,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_di_riso_glutinoso",
@@ -12632,8 +14166,8 @@
         },
         {
           "id": "amido_di_mais_o_fecola_per_spolverare",
-          "quantity": null,
-          "unit": null
+          "quantity": 30,
+          "unit": "g"
         }
       ],
       "steps": [
@@ -12647,17 +14181,33 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 90
         },
         {
           "id": "step_4",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000143",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Cardcaptor Sakura",
       "animeReferences": [
@@ -12682,12 +14232,12 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "rotolo_di_pasta_frolla_fresca",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "crema_pasticcera_alla_vaniglia",
@@ -12696,13 +14246,13 @@
         },
         {
           "id": "frutta_fresca_mista",
-          "quantity": null,
-          "unit": null
+          "quantity": 250,
+          "unit": "g"
         },
         {
           "id": "gelatina_per_dolci",
-          "quantity": null,
-          "unit": null
+          "quantity": 2,
+          "unit": "tbsp"
         }
       ],
       "steps": [
@@ -12712,21 +14262,37 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 1200
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 1200
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000144",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -12751,12 +14317,12 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "gusci_di_frolla_per_tartelletta_gia_cotti",
           "quantity": 6,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "formaggio_spalmabile",
@@ -12810,12 +14376,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 720
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000145",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Non Non Biyori",
       "animeReferences": [
@@ -12840,7 +14422,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_00",
@@ -12888,6 +14470,18 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 480
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -12998,7 +14592,7 @@
     },
     {
       "id": "recipe_000147",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Ramen Daisuki Koizumi-san",
       "animeReferences": [
@@ -13023,7 +14617,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "tagliolini_freschi_per_ramen",
@@ -13081,7 +14675,12 @@
           "unit": "piece"
         },
         {
-          "id": "germogli_di_soia_e_cipollotto_fresco",
+          "id": "germogli_di_soia_e_cipollotto_fresco_1_germogli_di_soia",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "id": "germogli_di_soia_e_cipollotto_fresco_2_cipollotto_fresco",
           "quantity": null,
           "unit": null
         }
@@ -13102,12 +14701,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000148",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "One Piece",
       "animeReferences": [
@@ -13132,7 +14747,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "calamaro_freschi_interi_puliti",
@@ -13190,6 +14805,26 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 240
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 180
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
           "timerSeconds": null
         }
       ]
@@ -13379,7 +15014,7 @@
     },
     {
       "id": "recipe_000151",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Dragon Ball",
       "animeReferences": [
@@ -13404,7 +15039,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_tipo_00",
@@ -13434,7 +15069,7 @@
         {
           "id": "pizzico_di_sale",
           "quantity": 1,
-          "unit": null
+          "unit": "pinch"
         },
         {
           "id": "maiale_chashu",
@@ -13443,16 +15078,21 @@
         },
         {
           "id": "salsa_della_brasatura_del_chashu_ridotta",
-          "quantity": null,
-          "unit": null
+          "quantity": 4,
+          "unit": "tbsp"
         },
         {
           "id": "cetriolo_a_fettine_sottili",
+          "quantity": 0.5,
+          "unit": "piece"
+        },
+        {
+          "id": "cipollotto_e_maionese_giapponese_1_cipollotto",
           "quantity": null,
           "unit": null
         },
         {
-          "id": "cipollotto_e_maionese_giapponese",
+          "id": "cipollotto_e_maionese_giapponese_2_maionese_giapponese",
           "quantity": null,
           "unit": null
         }
@@ -13468,17 +15108,37 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 600
         },
         {
           "id": "step_4",
+          "timerSeconds": 3600
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000152",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -13503,7 +15163,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "riso_bianco_cotto_al_vapore",
@@ -13511,9 +15171,14 @@
           "unit": "g"
         },
         {
-          "id": "curry_giapponese_denso_gia_pronto_con_carne_e_pata",
+          "id": "curry_giapponese_denso_gia_pronto_con_carne_e_pata_1_curry_giapponese_denso_gia",
           "quantity": 300,
           "unit": "g"
+        },
+        {
+          "id": "curry_giapponese_denso_gia_pronto_con_carne_e_pata_2_patate",
+          "quantity": 2,
+          "unit": "piece"
         },
         {
           "id": "uovo_fresche",
@@ -13551,6 +15216,18 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 720
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -13661,7 +15338,7 @@
     },
     {
       "id": "recipe_000154",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -13686,12 +15363,12 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "confezioni_di_udon_freschi_o_congelati",
           "quantity": 2,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "tofu_fermo_sbriciolato_a_mano",
@@ -13711,7 +15388,7 @@
         {
           "id": "funghi_shiitake_reidratati_e_affettati",
           "quantity": 4,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "brodo_kombu_dashi",
@@ -13734,7 +15411,12 @@
           "unit": "tbsp"
         },
         {
-          "id": "erba_cipollina_e_shichimi_togarashi",
+          "id": "erba_cipollina_e_shichimi_togarashi_1_erba_cipollina",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "erba_cipollina_e_shichimi_togarashi_2_shichimi_togarashi",
           "quantity": null,
           "unit": null
         }
@@ -13750,17 +15432,33 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 180
         },
         {
           "id": "step_4",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000155",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -13785,7 +15483,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "tranci_di_ricciola_fresca",
@@ -13825,17 +15523,17 @@
         {
           "id": "fettine_di_zenzero_fresco",
           "quantity": 3,
-          "unit": null
+          "unit": "piece"
         }
       ],
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 600
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 10
         },
         {
           "id": "step_3",
@@ -13843,6 +15541,18 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 1200
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 600
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -13938,7 +15648,7 @@
     },
     {
       "id": "recipe_000157",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -13963,7 +15673,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "melanzana_tonde_medie_o_giapponesi_corte",
@@ -13996,7 +15706,12 @@
           "unit": "tbsp"
         },
         {
-          "id": "semi_di_sesamo_bianco_e_nero_tostato",
+          "id": "semi_di_sesamo_bianco_e_nero_tostato_1_semi_di_sesamo_bianco",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "semi_di_sesamo_bianco_e_nero_tostato_2_nero_tostato",
           "quantity": null,
           "unit": null
         }
@@ -14016,13 +15731,33 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 300
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 240
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": 240
+        },
+        {
+          "id": "step_9",
           "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000158",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "K-On!",
       "animeReferences": [
@@ -14047,7 +15782,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "uovo",
@@ -14101,12 +15836,28 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 1800
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000159",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Fruits Basket",
       "animeReferences": [
@@ -14131,7 +15882,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_per_dolci",
@@ -14151,7 +15902,7 @@
         {
           "id": "tuorlo_d_uovo",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "pasta_di_fagioli_bianchi",
@@ -14161,12 +15912,17 @@
         {
           "id": "castagne_sciroppate_o_lesse_intatte",
           "quantity": 8,
-          "unit": null
+          "unit": "piece"
         },
         {
-          "id": "tuorlo_1_cucchiaino_di_salsa_di_soia",
+          "id": "tuorlo_per_spennellatura",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
+        },
+        {
+          "id": "salsa_di_soia_per_spennellatura",
+          "quantity": 1,
+          "unit": "tsp"
         },
         {
           "id": "semi_di_sesamo_nero",
@@ -14185,23 +15941,43 @@
         },
         {
           "id": "step_3",
-          "timerSeconds": null
+          "timerSeconds": 1200
         },
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": 900
         }
       ]
     },
     {
       "id": "recipe_000160",
-      "contentVersion": 1,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "The Disastrous Life of Saiki K.",
       "animeReferences": [
         {
           "workTitle": "The Disastrous Life of Saiki K.",
-          "relation": "inspired",
+          "relation": "recurring_association",
           "season": null,
           "episode": null,
           "chapter": null
@@ -14220,7 +15996,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "caffe_espresso_lungo_o_americano_zuccherato",
@@ -14245,13 +16021,13 @@
         {
           "id": "gelato_alla_vaniglia",
           "quantity": 2,
-          "unit": "piece"
+          "unit": "scoop"
         }
       ],
       "steps": [
         {
           "id": "step_1",
-          "timerSeconds": null
+          "timerSeconds": 300
         },
         {
           "id": "step_2",
@@ -14264,12 +16040,24 @@
         {
           "id": "step_4",
           "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 7200
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
         }
       ]
     },
     {
       "id": "recipe_000161",
-      "contentVersion": 1,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Nana",
       "animeReferences": [
@@ -14294,7 +16082,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "farina_00",
@@ -14327,14 +16115,19 @@
           "unit": "ml"
         },
         {
-          "id": "fragole_fresche_e_banane_a_fettine",
-          "quantity": null,
-          "unit": null
+          "id": "fragole_fresche_e_banane_a_fettine_1_fragole_fresche",
+          "quantity": 6,
+          "unit": "piece"
+        },
+        {
+          "id": "fragole_fresche_e_banane_a_fettine_2_banane_a_fettine",
+          "quantity": 1,
+          "unit": "piece"
         },
         {
           "id": "sciroppo_di_cioccolato_o_nutella",
-          "quantity": null,
-          "unit": null
+          "quantity": 2,
+          "unit": "tbsp"
         }
       ],
       "steps": [
@@ -14344,7 +16137,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 900
         },
         {
           "id": "step_3",
@@ -14352,6 +16145,30 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": 60
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_10",
           "timerSeconds": null
         }
       ]

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000148",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "One Piece",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -90,17 +90,37 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 240
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Ika no Sugatayaki",
-      "description": "A savory Ika no Sugatayaki cooked with controlled direct heat, aiming for good browning outside while keeping the center tender and the finishing sauce glossy.",
-      "animeContext": "This recipe is thematically inspired by One Piece, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Ika no Sugatayaki — whole grilled squid with teriyaki sauce",
+      "description": "Ika no Sugatayaki grill squid whole engraved on the surface and glaze them in the last minutes with soy teriyaki sauce, sake and mirin. They slice following the incisions and serve with togarashi shichimi and mayonnaise on the side. The squid is engraved, grilled and brushed with teriyaki in the last minutes; shichimi and Kewpie accompany the slices.",
+      "animeContext": "This recipe is thematically inspired by One Piece, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "calamaro_freschi_interi_puliti": {
-          "name": "Squid fresh interi puliti (con tentacoli)",
+          "name": "fresh whole squids cleaned with tentacles",
           "note": null
         },
         "salsa_di_soia": {
@@ -108,44 +128,49 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake_da_cucina": {
-          "name": "Sake da cucina",
+          "name": "Cooking sake",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "zenzero_fresco_grattugiato": {
-          "name": "Ginger fresh grated",
+          "name": "Grated fresh ginger",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (misto 7 spezie giapponese)",
+          "name": "Shichimi Togarashi (mixed 7 Japanese spices)",
           "note": null
         },
         "maionese_giapponese_kewpie_per_servire": {
-          "name": "Maionese giapponese kewpie for serving",
+          "name": "Japanese mayonnaise Kewpie to serve",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the meat, fish or other main ingredient and mix any glaze or seasoning before heating the pan or grill.",
-        "step_2": "Cook over controlled direct heat until the first side browns well, then turn only as needed so the center stays juicy and the surface develops color.",
-        "step_3": "Add the sauce or glaze near the end and reduce it briefly, coating the food without letting sugar or miso scorch on the hot surface.",
-        "step_4": "Rest briefly when appropriate, slice cleanly and serve with the prepared rice, vegetables or garnish while still hot."
+        "step_1": "Wash and dry the squid thoroughly.",
+        "step_2": "Practice on the body of the squid parallel horizontal cuts spaced about 1 cm, without engraving to the bottom, so the cooking will remain uniform.",
+        "step_3": "In a saucepan, add soy sauce, mirin, sake, sugar and grated ginger.",
+        "step_4": "Cook over low heat for 3-4 minutes until the sauce thickens slightly.",
+        "step_5": "Warm up a hot plate or a steak pan over a high heat.",
+        "step_6": "Grill the squids and tentacles for 2-3 minutes per side.",
+        "step_7": "Brush the squid thoroughly with Teriyaki sauce in the last 2 minutes of cooking, turning them until the surface is shiny and caramelized.",
+        "step_8": "Cut the squid into slices following the incisions already practised.",
+        "step_9": "Serve with Kewpie mayonnaise separately and a sprinkle of Shichimi Togarashi."
       }
     },
     "it": {
       "title": "Ika no Sugatayaki (Calamaro Intero Grigliato alla Salsa Teriyaki)",
-      "description": "Un Ika no Sugatayaki (Calamaro Intero Grigliato alla Salsa Teriyaki) saporito cotto con calore diretto controllato, cercando una buona doratura esterna senza asciugare il centro e completando con una salsa lucida.",
+      "description": "L’Ika no Sugatayaki griglia calamari interi incisi in superficie e li glassa negli ultimi minuti con salsa teriyaki di soia, sake e mirin. Si affettano seguendo le incisioni e si servono con shichimi togarashi e maionese a lato. Il calamaro viene inciso, grigliato e spennellato con teriyaki negli ultimi minuti; shichimi e Kewpie accompagnano le fette.",
       "animeContext": "Questa ricetta è ispirata tematicamente a One Piece, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "calamaro_freschi_interi_puliti": {
-          "name": "calamaro freschi interi puliti (con tentacoli)",
+          "name": "calamari freschi interi puliti con tentacoli",
           "note": null
         },
         "salsa_di_soia": {
@@ -173,24 +198,29 @@
           "note": null
         },
         "maionese_giapponese_kewpie_per_servire": {
-          "name": "Maionese giapponese Kewpie per servire",
+          "name": "maionese giapponese Kewpie per servire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, lavare ed asciugare i calamari. Effettuare dei tagli orizzontali paralleli lungo il corpo del calamaro a distanza di 1 cm, senza tagliarlo completamente, per facilitare la cottura uniforme.",
-        "step_2": "Prosegui così: metti in un pentolino unire salsa di soia, mirin, sake, zucchero e zenzero grattugiato. Cuocere a fuoco basso per 3-4 minuti finché la salsa si addensa leggermente.",
-        "step_3": "Nella fase successiva, porta a temperaturare una piastra o bistecchiera a fuoco vivo. Grigliare i calamari ed i tentacoli per 2-3 minuti per lato. Spennellare abbondantemente i calamari con la salsa Teriyaki negli ultimi 2 minuti di cottura, rigirandoli finché la superficie risulta lucida e caramellata.",
-        "step_4": "Per completare, tagliare a fette complete lungo le incisioni fatte. Porta in tavolare con maionese Kewpie a parte e una spolverata di Shichimi Togarashi."
+        "step_1": "Lava e asciuga accuratamente i calamari.",
+        "step_2": "Pratica sul corpo del calamaro tagli orizzontali paralleli distanziati di circa 1 cm, senza incidere fino in fondo, così la cottura resterà uniforme.",
+        "step_3": "In un pentolino, unisci salsa di soia, mirin, sake, zucchero e zenzero grattugiato.",
+        "step_4": "Cuoci a fuoco basso per 3-4 minuti finché la salsa si addensa leggermente.",
+        "step_5": "Scalda molto bene una piastra o una bistecchiera a fuoco vivo.",
+        "step_6": "Griglia i calamari ed i tentacoli per 2-3 minuti per lato.",
+        "step_7": "Spennella abbondantemente i calamari con la salsa Teriyaki negli ultimi 2 minuti di cottura, rigirandoli finché la superficie risulta lucida e caramellata.",
+        "step_8": "Taglia il calamaro a fette seguendo le incisioni già praticate.",
+        "step_9": "Servi con maionese Kewpie a parte e una spolverata di Shichimi Togarashi."
       }
     },
     "es": {
-      "title": "Ika no Sugatayaki",
-      "description": "Una versión práctica de Ika no Sugatayaki para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en One Piece, Food Wars!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Ika no sugatayaki — calamar entero a la parrilla con salsa teriyaki",
+      "description": "L.Ika no Sugatayaki malla calamares enteros grabados en la superficie y los glaseado en los últimos minutos con salsa teriyaki de soja, sake y mirin. Se cortan siguiendo los grabados y se sirven con shichimi togarashi y mayonesa al lado. El calamar es grabado, asado y desmenuzado con teriyaki en los últimos minutos; shichimi y Kewpie acompañan las rebanadas.",
+      "animeContext": "Esta receta está inspirada temáticamente en One Piece, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "calamaro_freschi_interi_puliti": {
-          "name": "Calamar fresco interi puliti (con tentacoli)",
+          "name": "calamares frescos enteros limpios con tentáculos",
           "note": null
         },
         "salsa_di_soia": {
@@ -198,93 +228,103 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake_da_cucina": {
-          "name": "Sake da cucina",
+          "name": "Sake de cocina",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "zenzero_fresco_grattugiato": {
-          "name": "Jengibre fresco rallado",
+          "name": "jengibre fresco rallado",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (misto 7 spezie giapponese)",
+          "name": "Shichimi Togarashi (mezcla 7 especias japonesas)",
           "note": null
         },
         "maionese_giapponese_kewpie_per_servire": {
-          "name": "Maionese giapponese kewpie para servir",
+          "name": "mayonesa japonesa Kewpie para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Lava y seca cuidadosamente los calamares.",
+        "step_2": "Práctica sobre el cuerpo del calamar cortes horizontales paralelos distanciados de aproximadamente 1 cm, sin afectar hasta el fondo, así la cocción permanecerá uniforme.",
+        "step_3": "En una olla, combina salsa de soja, mirin, sake, azúcar y jengibre rallado.",
+        "step_4": "Cocine bajo fuego durante 3-4 minutos hasta que la salsa se espese ligeramente.",
+        "step_5": "Calienta muy bien una placa o un bistec a fuego vivo.",
+        "step_6": "Rejilla calamares y tentáculos durante 2-3 minutos por lado.",
+        "step_7": "Aprieta bien los calamares con la salsa Teriyaki en los últimos 2 minutos de cocción, volteándolos hasta que la superficie sea brillante y caramelizada.",
+        "step_8": "Corta el calamar en rodajas siguiendo las incisiones ya practicadas.",
+        "step_9": "Sirve con mayonesa Kewpie aparte y un poco de Shichimi Togarashi."
       }
     },
     "fr": {
-      "title": "Ika no Sugatayaki",
-      "description": "Une version pratique de Ika no Sugatayaki à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par One Piece, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Ika no sugatayaki — calmar entier grillé à la sauce teriyaki",
+      "description": "L'Ika no Sugatayaki grille calamars entiers gravés à la surface et les glaçage dans les dernières minutes avec la sauce teriyaki du soja, le saké et la myrin. Ils se coupent en suivant les gravures et servent avec les shichimi togarashi et la mayonnaise sur le côté. Le calamar est gravé, grillé et plumé avec teriyaki dans les dernières minutes; shichimi et Kewpie accompagnent les tranches.",
+      "animeContext": "Cette recette s'inspire librement de One Piece, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "calamaro_freschi_interi_puliti": {
-          "name": "Calmar frais interi puliti (con tentacoli)",
+          "name": "calmars frais entiers nettoyés avec tentacules",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake_da_cucina": {
-          "name": "Sake da cucina",
+          "name": "saké de cuisine",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "zenzero_fresco_grattugiato": {
-          "name": "Gingembre frais râpé",
+          "name": "gingembre frais râpé",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (misto 7 spezie giapponese)",
+          "name": "Shichimi Togarashi (mixte 7 épices japonaise)",
           "note": null
         },
         "maionese_giapponese_kewpie_per_servire": {
-          "name": "Maionese giapponese kewpie pour servir",
+          "name": "mayonnaise japonaise Kewpie pour servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Lave et sèche soigneusement les calmars.",
+        "step_2": "Pratique sur le corps du calmar coupes horizontales parallèles espacées d'environ 1 cm, sans affecter jusqu'au bout, ainsi la cuisson restera uniforme.",
+        "step_3": "Dans une casserole, ajoutez de la sauce soja, mirin, saké, sucre et gingembre râpé.",
+        "step_4": "Faites cuire à faible feu pendant 3-4 minutes jusqu'à ce que la sauce s'épaississe légèrement.",
+        "step_5": "Chauffez très bien une plaque ou un steak à feu vif.",
+        "step_6": "Grille les calmars et les tentacules pendant 2-3 minutes sur le côté.",
+        "step_7": "Pincez abondamment les calmars avec la sauce Teriyaki dans les 2 dernières minutes de cuisson, les retournez jusqu'à ce que la surface soit brillante et caramélisée.",
+        "step_8": "Coupe le calmar en tranches en suivant les gravures déjà pratiquées.",
+        "step_9": "Sers avec la mayonnaise Kewpie à part et une pincée de shichimi togarashi."
       }
     },
     "de": {
-      "title": "Ika no Sugatayaki",
-      "description": "Eine alltagstaugliche Version von Ika no Sugatayaki für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von One Piece, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Ika no Sugatayaki – ganzer gegrillter Tintenfisch mit Teriyakisauce",
+      "description": "L.K. no Sugatayaki Grill ganzen Kalmaren in die Oberfläche eingraviert und Glasur in den letzten Minuten mit Teriyaki Soße von Soja, Sake und Mirin. Sie schneiden nach den Gravuren und werden mit togarashi Schichimi und Mayonnaise auf der Seite verwendet. Der Tintenfisch wird in den letzten Minuten mit Teriyaki graviert, gegrillt und spinelliert; Schichimi und Kewpie begleiten die Scheiben.",
+      "animeContext": "Dieses Rezept ist thematisch von One Piece, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "calamaro_freschi_interi_puliti": {
-          "name": "Tintenfisch frisch interi puliti (con tentacoli)",
+          "name": "frische Kalmare, ganz sauber mit Tentakeln",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -292,7 +332,7 @@
           "note": null
         },
         "sake_da_cucina": {
-          "name": "Sake da cucina",
+          "name": "Küchensake",
           "note": null
         },
         "zucchero": {
@@ -304,28 +344,33 @@
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (misto 7 spezie giapponese)",
+          "name": "Shichimi Togarashi (gemischt 7 japanische Gewürze)",
           "note": null
         },
         "maionese_giapponese_kewpie_per_servire": {
-          "name": "Maionese giapponese kewpie zum Servieren",
+          "name": "Japanische Mayonnaise Kewpie zum Servieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Wasche und trockne die Tintenfische gründlich.",
+        "step_2": "Üben Sie auf dem Körper des Tintenfischs parallele horizontale Schnitte von etwa 1 cm Abstand, ohne bis zum Ende zu gravieren, so dass das Kochen gleichmäßig bleibt.",
+        "step_3": "In einem Topf, fügen Sie Soja-Sauce, Mirin, Sake, Zucker und geriebenen Ingwer.",
+        "step_4": "Kochen Sie 3-4 Minuten lang mit niedrigem Fokus, bis sich die Soße leicht verdichtet.",
+        "step_5": "Erhitzt eine Platte oder ein Steak sehr gut mit lebendigem Feuer.",
+        "step_6": "Grillen Sie die Tintenfische und Tentakel für 2-3 Minuten pro Seite.",
+        "step_7": "Spennella reichlich die Tintenfische mit Teriyaki-Soße in den letzten 2 Minuten des Kochens, drehen sie, bis die Oberfläche glänzend und karamelliert ist.",
+        "step_8": "Schneiden Sie den Tintenfisch in Scheiben, indem Sie die bereits angewendeten Gravuren befolgen.",
+        "step_9": "Servieren Sie mit Mayonnaise Kewpie getrennt und ein Staubsauger von Shichimi Togarashi."
       }
     },
     "pt": {
-      "title": "Ika no Sugatayaki",
-      "description": "Uma versão prática de Ika no Sugatayaki para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por One Piece, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Ika no sugatayaki — lula inteira grelhada com molho teriyaki",
+      "description": "Ika no Sugatayaki grill lulas inteiras gravadas na superfície e esmalte- as nos últimos minutos com molho de soja teriyaki, sake e mirin. Eles cortam seguindo as incisões e servem com togarashi shichimi e maionese no lado. O calamar é gravado, grelhado e escovado com teriyaki nos últimos minutos; shichimi e Kewpie acompanham as fatias.",
+      "animeContext": "Esta receita inspira-se tematicamente em One Piece, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "calamaro_freschi_interi_puliti": {
-          "name": "Lula fresco interi puliti (con tentacoli)",
+          "name": "lulas inteiras frescas limpas com tentáculos",
           "note": null
         },
         "salsa_di_soia": {
@@ -333,15 +378,15 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake_da_cucina": {
-          "name": "Sake da cucina",
+          "name": "Cozinhar saquê",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "zenzero_fresco_grattugiato": {
@@ -349,19 +394,24 @@
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (misto 7 spezie giapponese)",
+          "name": "Shichimi Togarashi (misturado 7 especiarias japonesas)",
           "note": null
         },
         "maionese_giapponese_kewpie_per_servire": {
-          "name": "Maionese giapponese kewpie para servir",
+          "name": "Maionesa japonesa Kewpie para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Lave e seque bem o calamar.",
+        "step_2": "Prática no corpo dos cortes horizontais paralelos de lula espaçados cerca de 1 cm, sem gravação no fundo, para que o cozimento permaneça uniforme.",
+        "step_3": "Em uma panela, adicione molho de soja, mirin, sake, açúcar e gengibre ralado.",
+        "step_4": "Cozinhe a fogo lento por 3-4 minutos até que o molho se espesse ligeiramente.",
+        "step_5": "Aqueça um prato quente ou uma panela de bife sobre um fogo alto.",
+        "step_6": "Grelhe os calamares e tentáculos por 2-3 minutos por lado.",
+        "step_7": "Escove bem o calamar com molho Teriyaki nos últimos 2 minutos de cozimento, girando- os até que a superfície seja brilhante e caramelizada.",
+        "step_8": "Corte o calamar em fatias após as incisões já praticadas.",
+        "step_9": "Servir com maionese Kewpie separadamente e um copo de Shichimi Togarashi."
       }
     }
   }

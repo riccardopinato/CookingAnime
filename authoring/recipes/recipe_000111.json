@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000111",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -52,17 +52,17 @@
     {
       "id": "sake",
       "quantity": 2,
-      "unit": null
+      "unit": "tbsp"
     },
     {
       "id": "zucchero",
       "quantity": 1,
-      "unit": null
+      "unit": "tbsp"
     },
     {
       "id": "radice_di_zenzero_a_fettine_sottili",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "acqua_o_dashi",
@@ -85,54 +85,69 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 600
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 300
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Saba no Misoni",
-      "description": "A comforting Saba no Misoni prepared with gentle simmering so the main ingredients become tender while the broth stays flavorful and balanced.",
-      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Cooking Papa. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Saba no Misoni — mackerel braised with miso and ginger",
+      "description": "The Saba no Misoni is mackerel stewed in a sauce of miso, mirin and ginger. The fish is burned and then cooked gently in the bottom, which shrinks without breaking the fillets; it is completed with fresh ginger. The miso is dissolved in part of the bottom before returning to the mackerel; the sauce thickens without aggressive boiling.",
+      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Cooking Papa. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "sgombro_fresco": {
-          "name": "Mackerel fresh",
+          "name": "fresh mackerel",
           "note": null
         },
         "miso": {
-          "name": "Miso",
+          "name": "miso",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "radice_di_zenzero_a_fettine_sottili": {
-          "name": "Radice di ginger a fettine sottili",
+          "name": "Ginger root with thin slices",
           "note": null
         },
         "acqua_o_dashi": {
-          "name": "Water o dashi",
+          "name": "water or dashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and organize the main ingredients so pieces of similar density are comparable in size; prepare the seasoned broth separately before simmering.",
-        "step_2": "Build the broth over moderate heat and add the ingredients in order of cooking time, keeping the liquid at a gentle simmer rather than a hard boil.",
-        "step_3": "Continue cooking until proteins are safely cooked and vegetables are tender but intact, adjusting the seasoning only after the broth has reduced slightly.",
-        "step_4": "Finish with the final aromatics or garnish and serve hot, allowing a brief rest when useful so the ingredients absorb the seasoned broth."
+        "step_1": "Slightly insert the skin of the mackerel fillets and pour boiling water over it for a few seconds; drain and dry them to mitigate the most intense smell.",
+        "step_2": "Cut the ginger into thin slices and prepare in a large pan water or dashi, sake, mirin and sugar.",
+        "step_3": "Bring the liquid to a boil and add half the ginger.",
+        "step_4": "Place the mackerel with the skin facing upwards, cover with an otoshibuta or perforated baking paper and cook over medium to low heat for about 8-10 minutes.",
+        "step_5": "Take a ladle from the bottom, melt the miso and put it back in the pan without boiling it violently.",
+        "step_6": "Continue napping the fillets with the bottom for 3-5 minutes, until the sauce becomes shiny and slightly dense.",
+        "step_7": "Complete with the ginger left and serve immediately, with the skin intact and the meat still juicy."
       }
     },
     "it": {
       "title": "Saba no Misoni (Sgombro Stufato al Miso e Zenzero)",
-      "description": "Un Saba no Misoni (Sgombro Stufato al Miso e Zenzero) confortante cotto a sobbollore dolce, così gli ingredienti diventano teneri senza disfarsi e il fondo resta concentrato ma equilibrato.",
+      "description": "Lo Saba no Misoni è sgombro stufato in una salsa di miso, mirin e zenzero. Il pesce viene scottato e poi cotto delicatamente nel fondo, che si restringe senza rompere i filetti; si completa con zenzero fresco. Il miso viene sciolto in parte del fondo prima di tornare sullo sgombro; la salsa si addensa senza bolliture aggressive.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Cooking Papa. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "sgombro_fresco": {
@@ -165,39 +180,42 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, pratica un'incisione a X sulla pelle dello sgombro e aggiungici sopra acqua bollente per eliminare gli odori forti.",
-        "step_2": "Prosegui così: in una padella aggiungi acqua, sake, mirin, zucchero e le fettine di zenzero; porta a bollore.",
-        "step_3": "Nella fase successiva, unisci lo sgombro con la pelle rivolta verso l'alto e lascia cuocere coperto per 10 minuti.",
-        "step_4": "Per completare, sciogli il miso nel fondo di cottura e nappa i filetti finché la salsa diventa lucida e ristretta."
+        "step_1": "Incidi leggermente la pelle dei filetti di sgombro e versaci sopra acqua bollente per pochi secondi; scolali e asciugali per attenuare l’odore più intenso.",
+        "step_2": "Taglia lo zenzero a fettine sottili e prepara in una padella larga acqua o dashi, sake, mirin e zucchero.",
+        "step_3": "Porta il liquido a bollore e aggiungi metà dello zenzero.",
+        "step_4": "Sistema lo sgombro con la pelle rivolta verso l’alto, copri con un otoshibuta o con carta forno forata e cuoci a fuoco medio-basso per circa 8-10 minuti.",
+        "step_5": "Preleva un mestolo del fondo, scioglici il miso e rimettilo in padella senza farlo bollire violentemente.",
+        "step_6": "Continua a nappare i filetti con il fondo per 3-5 minuti, finché la salsa diventa lucida e leggermente densa.",
+        "step_7": "Completa con lo zenzero rimasto e servi subito, con la pelle integra e la carne ancora succosa."
       }
     },
     "es": {
-      "title": "Saba no Misoni",
-      "description": "Una versión práctica de Saba no Misoni para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Cooking Papa. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Saba no misoni — caballa estofada con miso y jengibre",
+      "description": "El Saba no Misoni está sazonado estofado en una salsa de miso, mirin y jengibre. El pescado se quema y luego cocina suavemente en el fondo, que se encoge sin romper los filetes; se completa con jengibre fresco. El miso se disuelve en parte del fondo antes de volver a la caballa; la salsa se espesa sin hervir agresivamente.",
+      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Cooking Papa. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "sgombro_fresco": {
-          "name": "Caballa fresco",
+          "name": "caballa fresca",
           "note": null
         },
         "miso": {
-          "name": "Miso",
+          "name": "miso",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "radice_di_zenzero_a_fettine_sottili": {
-          "name": "Radice di jengibre a fettine sottili",
+          "name": "Raíz de jengibre de rodajas finas",
           "note": null
         },
         "acqua_o_dashi": {
@@ -206,60 +224,66 @@
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Incide ligeramente la piel de los filetes de caballa y vierte sobre ellos agua hirviendo durante unos segundos; escúlelos y séquelos para atenuar el olor más intenso.",
+        "step_2": "Corta el jengibre con rodajas finas y prepara en una sartén grande agua o dashi, sake, mirin y azúcar.",
+        "step_3": "Lleva el líquido a embotellar y añade la mitad del jengibre.",
+        "step_4": "Arregla la caballa con la piel hacia arriba, cubre con un otoshibuta o con papel de horno perforado y cocina a fuego medio-bajo durante unos 8-10 minutos.",
+        "step_5": "Toma un cucharón del fondo, derrite el miso y ponlo en la sartén sin hervirlo violentamente.",
+        "step_6": "Sigue nacendo los filetes con el fondo durante 3-5 minutos, hasta que la salsa se lúzca y ligeramente densa.",
+        "step_7": "Completa con el jengibre que queda y sirve inmediatamente, con la piel integral y la carne aún jugosa."
       }
     },
     "fr": {
-      "title": "Saba no Misoni",
-      "description": "Une version pratique de Saba no Misoni à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Emiya-san Chi no Kyou no Gohan, Cooking Papa. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Saba no misoni — maquereau mijoté au miso et au gingembre",
+      "description": "Le Saba no Misoni est maquereau ragoûté dans une sauce de miso, de myrin et de gingembre. Le poisson est brûlé puis cuit doucement dans le fond, qui se rétrécit sans casser les filets; il se complète avec du gingembre frais. Le miso est dissous en partie du fond avant de revenir sur le maquereau; la sauce s'épaissit sans bouillonnement agressif.",
+      "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Cooking Papa. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "sgombro_fresco": {
-          "name": "Maquereau frais",
+          "name": "maquereau frais",
           "note": null
         },
         "miso": {
-          "name": "Miso",
+          "name": "miso",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "saké",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "radice_di_zenzero_a_fettine_sottili": {
-          "name": "Radice di gingembre a fettine sottili",
+          "name": "Racine de gingembre en tranches fines",
           "note": null
         },
         "acqua_o_dashi": {
-          "name": "Eau o dashi",
+          "name": "Eau ou dashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Incise légèrement la peau des filets de maquereau, verse de l’eau bouillante dessus pendant quelques secondes, puis égoutte et sèche-les pour atténuer leur odeur prononcée.",
+        "step_2": "Coupez le gingembre en tranches fines et préparez dans une poêle large eau ou dashi, saké, mirin et sucre.",
+        "step_3": "Apportez le liquide à ébullition et ajoutez la moitié du gingembre.",
+        "step_4": "Le maquereau avec la peau dirigée vers le haut, couvre avec un otoshibuta ou avec du papier four perforé et cuisinez à feu moyen à bas pendant environ 8-10 minutes.",
+        "step_5": "Prends une louche du fond, lâche le miso et remets-le dans une poêle sans le faire bouillir violemment.",
+        "step_6": "Continuez à napper les filets avec le fond pendant 3 à 5 minutes, jusqu'à ce que la sauce soit brillante et légèrement dense.",
+        "step_7": "Complétez avec le gingembre restant et servez immédiatement, avec la peau intacte et la viande encore juteuse."
       }
     },
     "de": {
-      "title": "Saba no Misoni",
-      "description": "Eine alltagstaugliche Version von Saba no Misoni für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Cooking Papa inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Saba no Misoni – Makrele in Miso-Ingwer-Sauce geschmort",
+      "description": "Der Saba no Monisono ist in einer Miso-, Mirin- und Ingwersoße enthäutet. Der Fisch wird verbrannt und dann sanft in den Boden gekocht, der sich verengt, ohne die Gewinde zu brechen; er wird mit frischem Ingwer ergänzt. Der Miso wird teilweise in den Boden aufgelöst, bevor er auf die Makrele zurückkehrt; die Soße wird ohne aggressives Kochen verdichtet.",
+      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Cooking Papa inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "sgombro_fresco": {
-          "name": "Makrele frisch",
+          "name": "Frischer Makrele",
           "note": null
         },
         "miso": {
@@ -271,7 +295,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
@@ -279,60 +303,66 @@
           "note": null
         },
         "radice_di_zenzero_a_fettine_sottili": {
-          "name": "Radice di Ingwer a fettine sottili",
+          "name": "Ingwerwurzel in dünnen Scheiben",
           "note": null
         },
         "acqua_o_dashi": {
-          "name": "Wasser o dashi",
+          "name": "Wasser oder Dashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Berühren Sie die Haut der Makrelenfilets leicht und gießen Sie für ein paar Sekunden kochendes Wasser über sie; Schäle und Trockner, um den intensiveren Geruch zu mildern.",
+        "step_2": "Schneide Ingwer in dünne Scheiben und backe in einer breiten Pfanne Wasser oder Dashi, Sake, Mirin und Zucker.",
+        "step_3": "Bringen Sie die Flüssigkeit zum Blenden und fügen Sie die Hälfte des Ingwers hinzu.",
+        "step_4": "Bedecken Sie die Makrele mit nach oben gerichteter Haut, decken Sie sie mit einem Otoshibuta oder mit gebohrtem Backpapier und kochen Sie mit mittlerem bis niedrigem Fokus für etwa 8-10 Minuten.",
+        "step_5": "Nehmen Sie eine Schale aus dem Boden, lösen Sie den Miso und stecken Sie ihn wieder in die Pfanne, ohne ihn zu kochen.",
+        "step_6": "Die Gewinde werden weiterhin mit dem Boden für 3-5 Minuten geboren, bis die Soße glänzend und leicht dicht wird.",
+        "step_7": "Komplett mit dem restlichen Ingwer und serviere sofort, mit der Haut integriert und das Fleisch noch saftig."
       }
     },
     "pt": {
-      "title": "Saba no Misoni",
-      "description": "Uma versão prática de Saba no Misoni para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Emiya-san Chi no Kyou no Gohan, Cooking Papa. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Saba no misoni — cavala estufada com miso e gengibre",
+      "description": "O Saba no Misoni é uma sarda ensopada num molho de miso, mirin e gengibre. O peixe é queimado e depois cozido suavemente no fundo, o que se encolhe sem quebrar os filetes; é completado com gengibre fresco. O miso é dissolvido em parte do fundo antes de voltar para a sacola; o molho engrossa sem ferver agressiva.",
+      "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Cooking Papa. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "sgombro_fresco": {
-          "name": "Cavala fresco",
+          "name": "sarjeta fresca",
           "note": null
         },
         "miso": {
-          "name": "Miso",
+          "name": "miso",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "radice_di_zenzero_a_fettine_sottili": {
-          "name": "Radice di gengibre a fettine sottili",
+          "name": "Raiz de gengibre com fatias finas",
           "note": null
         },
         "acqua_o_dashi": {
-          "name": "Água o dashi",
+          "name": "água ou dashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Insira ligeiramente a pele dos filetes de sarjeta e derrama água fervente sobre ele por alguns segundos; drene e seque- os para atenuar o cheiro mais intenso.",
+        "step_2": "Corte o gengibre em fatias finas e prepare- se em uma grande panela de água ou dashi, sake, mirin e açúcar.",
+        "step_3": "Traga o líquido para uma ebulição e adicione metade do gengibre.",
+        "step_4": "Coloque a cavala com a pele virada para cima, cubra com uma otoshibuta ou papel de cozimento perfurado e cozinhe a fogo médio a baixo por cerca de 8-10 minutos.",
+        "step_5": "Retire uma concha do líquido de cozedura, dissolva nela o miso e volte a deitá-lo na frigideira sem deixar ferver intensamente.",
+        "step_6": "Continue a dormir os filetes com o fundo por 3-5 minutos, até que o molho fique brilhante e ligeiramente denso.",
+        "step_7": "Complete com o gengibre à esquerda e sirva imediatamente, com a pele intacta e a carne ainda suculenta."
       }
     }
   }

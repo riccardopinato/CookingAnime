@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000105",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 30,
   "servings": 2,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -76,49 +76,69 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Nerikiri",
-      "description": "A home-friendly Nerikiri that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer, Kimi ni Todoke. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Nerikiri — traditional Japanese wagashi sweets",
+      "description": "The Nerikiri is a small sweet molded with shiroan white bean paste and a base of glutinous rice flour. Each portion is spread out, filled with anko and handmade in decorative forms, to be served with tea. The blackikiri is hand-molded around the anko, with small wagashi tools that draw petals and details on the surface.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer, Kimi ni Todoke. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "shiroan": {
-          "name": "Shiroan (pasta di fagioli bianchi sweet)",
+          "name": "shiroan (sweet white bean paste)",
           "note": null
         },
         "farina_di_riso_shiratamako": {
-          "name": "Flour di rice shiratamako",
+          "name": "Shiratamako rice flour",
           "note": null
         },
         "acqua": {
-          "name": "Water",
+          "name": "water",
           "note": null
         },
         "coloranti_alimentari_in_gel": {
-          "name": "Coloranti alimentari in gel (rosa, verde)",
+          "name": "food colours in gel (pink, green)",
           "note": null
         },
         "anko": {
-          "name": "Anko (sweet red bean paste) per il ripieno centrale",
+          "name": "Anko (red bean paste) for central filling",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "Melt the shiratamako in the water until the lumps are removed, then incorporate it with the shiroan in a non-stick pan.",
+        "step_2": "Cook over very low heat stirring and crushing the mixture until it loses moisture, becomes elastic and comes off the pan.",
+        "step_3": "Transfer the dough onto a tray and work it several times as it cools to obtain a smooth and uniform mass.",
+        "step_4": "Divide it into the necessary portions and color small parts with minimal amounts of dye, kneading until the dye is homogeneous.",
+        "step_5": "Form four balls of anko from about 15 g each and keep them covered so that they do not dry out.",
+        "step_6": "Flatten a portion of nerikiri, place the anko filling in the centre and seal the seam firmly underneath.",
+        "step_7": "Model the surface with toothpick or wagashi tools to create petals and details, working with barely wet hands.",
+        "step_8": "Keep covered and serve at room temperature with tea, preferably on the same day."
       }
     },
     "it": {
       "title": "Nerikiri",
-      "description": "Un Nerikiri casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "description": "Il Nerikiri è un piccolo dolce modellato con pasta dolce di fagioli bianchi shiroan e una base di farina di riso glutinoso. Ogni porzione viene stesa, riempita con anko e lavorata a mano in forme decorative, da servire con il tè. Il nerikiri viene plasmato a mano intorno all'anko, con piccoli attrezzi da wagashi che disegnano petali e dettagli sulla superficie.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer, Kimi ni Todoke. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "shiroan": {
-          "name": "Shiroan (pasta di fagioli bianchi dolce)",
+          "name": "shiroan (pasta di fagioli bianchi dolce)",
           "note": null
         },
         "farina_di_riso_shiratamako": {
@@ -130,7 +150,7 @@
           "note": null
         },
         "coloranti_alimentari_in_gel": {
-          "name": "Coloranti alimentari in gel (rosa, verde)",
+          "name": "coloranti alimentari in gel (rosa, verde)",
           "note": null
         },
         "anko": {
@@ -139,23 +159,27 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, sciogli la farina shiratamako nell'acqua in una ciotolina. Unisci la shiroan e lascia cuocere al microonde o in padella a fuoco bassissimo amalgamando finché l'impasto diventa elastico e non appiccicoso (impasto Nerikiri).",
-        "step_2": "Prosegui così: dividi l'impasto nerikiri e colorane una parte di rosa e una di verde con pochissimo colorante.",
-        "step_3": "Nella fase successiva, prendi un pallino di anko rosso (15g). Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_4": "Per completare, stendi un disco di nerikiri rosa, avvolgi l'anko e richiudi a pallina liscia. Usa uno stuzzicadenti o un attrezzo da modellare per incidere delicatamente i petali di un fiore di ciliegio sulla superficie."
+        "step_1": "Sciogli lo shiratamako nell’acqua fino a eliminare i grumi, poi incorporalo allo shiroan in una padella antiaderente.",
+        "step_2": "Cuoci a fuoco molto basso mescolando e schiacciando il composto finché perde umidità, diventa elastico e si stacca dalla padella.",
+        "step_3": "Trasferisci l’impasto su un vassoio e lavoralo più volte mentre raffredda per ottenere una massa liscia e uniforme.",
+        "step_4": "Dividilo nelle porzioni necessarie e colora piccole parti con quantità minime di colorante, impastando finché la tinta è omogenea.",
+        "step_5": "Forma quattro palline di anko da circa 15 g ciascuna e tienile coperte per non farle seccare.",
+        "step_6": "Appiattisci una porzione di nerikiri, racchiudi l’anko al centro e chiudi bene la giuntura sul fondo.",
+        "step_7": "Modella la superficie con stecchino o attrezzi da wagashi per creare petali e dettagli, lavorando con mani appena umide.",
+        "step_8": "Conserva coperto e servi a temperatura ambiente con tè, preferibilmente il giorno stesso."
       }
     },
     "es": {
-      "title": "Nerikiri",
-      "description": "Una versión práctica de Nerikiri para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Kimi ni Todoke. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Nerikiri — dulces japoneses tradicionales wagashi",
+      "description": "El Nerikiri es un pequeño dulce moldeado con pasta dulce de frijoles blancos shiroan y una base de harina de arroz glutinoso. Cada porción se extiende, llena con anko y se trabaja a mano en formas decorativas, para servir con el té. El negrokiri se moldea a mano alrededor del anko, con pequeñas herramientas de wagashi que dibujan pétalos y detalles en la superficie.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Kimi ni Todoke. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "shiroan": {
-          "name": "Shiroan (pasta di fagioli bianchi dulce)",
+          "name": "shiroan (Pasta de frijoles blancos dulce)",
           "note": null
         },
         "farina_di_riso_shiratamako": {
-          "name": "Harina di arroz shiratamako",
+          "name": "harina de arroz Shiratamako",
           "note": null
         },
         "acqua": {
@@ -163,65 +187,73 @@
           "note": null
         },
         "coloranti_alimentari_in_gel": {
-          "name": "Coloranti alimentari in gel (rosa, verde)",
+          "name": "colorantes alimentarios en gel (rosa, verde)",
           "note": null
         },
         "anko": {
-          "name": "Anko (dulce rojo bean paste) per il ripieno centrale",
+          "name": "Anko (pasta de frijoles rojos) para relleno central",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Suelte el shiratamako en el agua hasta eliminar los grumos, luego inserte al shiroan en una sartén antiadherente.",
+        "step_2": "Cocer a fuego muy bajo mezclando y aplastando el compuesto hasta que pierde humedad, se vuelve elástico y se separa de la sartén.",
+        "step_3": "Transfiera la masa a una bandeja y échela varias veces mientras se enfría para obtener una masa lisa y uniforme.",
+        "step_4": "Divídelo en las porciones necesarias y colorea pequeñas partes con cantidades mínimas de colorante, amasando hasta que el tinte sea homogéneo.",
+        "step_5": "Forma cuatro bolas de anko de alrededor de 15 g cada una y manténlas cubiertas para que no se sequen.",
+        "step_6": "Aplana una porción de nerikiri, coloca el anko en el centro y sella bien la unión por la parte inferior.",
+        "step_7": "Modela la superficie con palillo o herramientas de wagashi para crear pétalos y detalles, trabajando con manos recién húmedas.",
+        "step_8": "Conserva cubierto y sirve a temperatura ambiente con té, preferiblemente el mismo día."
       }
     },
     "fr": {
-      "title": "Nerikiri",
-      "description": "Une version pratique de Nerikiri à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer, Kimi ni Todoke. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Nerikiri — confiseries japonaises traditionnelles wagashi",
+      "description": "Le Nerikiri est un petit dessert modelé avec des pâtes douces de haricots blancs shiroan et une base de farine de riz à base d'glutinos. Chaque portion est étendue, remplie d'anko et travaillée à la main dans des formes décoratives, à servir avec le thé. Le nerakiri est façonné à la main autour de l'anko, avec de petits outils de wagashi qui dessinent des pétales et des détails sur la surface.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer, Kimi ni Todoke. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "shiroan": {
-          "name": "Shiroan (pasta di fagioli bianchi doux)",
+          "name": "shiroan (pâte de haricots blancs doux)",
           "note": null
         },
         "farina_di_riso_shiratamako": {
-          "name": "Farine di riz shiratamako",
+          "name": "farine de riz Shiratamako",
           "note": null
         },
         "acqua": {
-          "name": "Eau",
+          "name": "eau",
           "note": null
         },
         "coloranti_alimentari_in_gel": {
-          "name": "Coloranti alimentari in gel (rosa, verde)",
+          "name": "colorants alimentaires en gel (rose, vert)",
           "note": null
         },
         "anko": {
-          "name": "Anko (doux rouge bean paste) per il ripieno centrale",
+          "name": "Anko (pâte de haricots rouges) pour la farce centrale",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dissoudre le shiratamako dans l'eau jusqu'à éliminer les grumeaux, puis l'incorporer au shiroan dans une poêle anti-adhérente.",
+        "step_2": "Faites cuire à feu très bas en mélangeant et en écrasant le composé jusqu'à ce qu'il perde l'humidité, devient élastique et se détache de la poêle.",
+        "step_3": "Transférez la pâte sur un plateau et travaillez-la plusieurs fois pendant qu'elle refroidit pour obtenir une masse lisse et uniforme.",
+        "step_4": "Divisez-le dans les portions nécessaires et colorez de petites parties avec des quantités minimales de colorant, en pétrissant jusqu'à ce que la teinte soit homogène.",
+        "step_5": "Il forme quatre boules d'anko d'environ 15 g chacune et garde les couvertures pour ne pas les sécher.",
+        "step_6": "Aplatissez une portion de nerekiri, enfermez l'anko au centre et fermez bien la jointure au fond.",
+        "step_7": "Modelez la surface avec des tiges ou des outils de wagashi pour créer des pétales et des détails, en travaillant avec des mains à peine humides.",
+        "step_8": "Conservez couvert et servez à température ambiante avec du thé, de préférence le jour même."
       }
     },
     "de": {
-      "title": "Nerikiri",
-      "description": "Eine alltagstaugliche Version von Nerikiri für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Kimi ni Todoke inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Nerikiri – traditionelle japanische Wagashi-Konfekte",
+      "description": "Der Nerikiri ist ein kleines süßes, geformtes Gebäck mit shiroan-weißen Bohnen und einer Basis aus glutinösem Reismehl. Jede Portion wird mit Anko gefüllt und von Hand in dekorative Formen verarbeitet und mit Tee serviert. Der Nerikiri wird von Hand um den Anko geformt, mit kleinen Wagashi-Werkzeugen, die Blütenblätter und Details auf der Oberfläche zeichnen.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Kimi ni Todoke inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "shiroan": {
-          "name": "Shiroan (pasta di fagioli bianchi süß)",
+          "name": "Shiroan (süßen weißen Bohnenpaste)",
           "note": null
         },
         "farina_di_riso_shiratamako": {
-          "name": "Mehl di Reis shiratamako",
+          "name": "Reismehl Shiratamako",
           "note": null
         },
         "acqua": {
@@ -229,52 +261,60 @@
           "note": null
         },
         "coloranti_alimentari_in_gel": {
-          "name": "Coloranti alimentari in gel (rosa, verde)",
+          "name": "Lebensmittelfarbstoffe in Gel (rosa, grün)",
           "note": null
         },
         "anko": {
-          "name": "Anko (süß rot bean paste) per il ripieno centrale",
+          "name": "Anko (rote Bohnenpaste) für die zentrale Füllung",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Lösen Sie den Shiratamako im Wasser, bis die Klumpen entfernt sind, und dann in eine Pfanne einbauen.",
+        "step_2": "Kochen Sie mit sehr niedrigem Fokus, indem Sie die Verbindung mischen und zerdrücken, bis sie Feuchtigkeit verliert, elastisch wird und sich von der Pfanne löst.",
+        "step_3": "Legen Sie den Teig auf ein Tablett und arbeiten Sie es mehrmals, während es abkühlt, um eine glatte und gleichmäßige Masse zu erhalten.",
+        "step_4": "Teilen Sie es in die benötigten Portionen und färbt kleine Teile mit minimalen Mengen des Farbstoffs und kneten, bis die Farbe homogen ist.",
+        "step_5": "Aus dem Anko vier Kugeln von jeweils etwa 15 g formen und abgedeckt aufbewahren, damit sie nicht austrocknen.",
+        "step_6": "Legen Sie eine Portion Nerikiri, umschließen Sie l-Anko in der Mitte und schließen Sie das Gelenk auf dem Boden gut.",
+        "step_7": "Modellieren Sie die Oberfläche mit Wagashi-Steckern oder Werkzeugen, um Blumenblätter und Details zu erstellen, indem Sie mit frisch feuchten Händen arbeiten.",
+        "step_8": "Bewahren Sie es überdacht auf und servieren Sie es bei Raumtemperatur mit Tee, vorzugsweise am selben Tag."
       }
     },
     "pt": {
-      "title": "Nerikiri",
-      "description": "Uma versão prática de Nerikiri para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer, Kimi ni Todoke. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Nerikiri — doces japoneses tradicionais wagashi",
+      "description": "O Nerikiri é um pequeno doce moldado com pasta de feijão branco shiroan e uma base de farinha de arroz glutinosa. Cada porção é espalhada, preenchida com anko e feita à mão em formas decorativas, para ser servida com chá. O blackikiri é moldado à mão ao redor do anko, com pequenas ferramentas wagashi que desenham pétalas e detalhes na superfície.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer, Kimi ni Todoke. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "shiroan": {
-          "name": "Shiroan (pasta di fagioli bianchi doce)",
+          "name": "shiroan (pasta de feijão branco doce)",
           "note": null
         },
         "farina_di_riso_shiratamako": {
-          "name": "Farinha di arroz shiratamako",
+          "name": "Farinha de arroz Shiratamako",
           "note": null
         },
         "acqua": {
-          "name": "Água",
+          "name": "água",
           "note": null
         },
         "coloranti_alimentari_in_gel": {
-          "name": "Coloranti alimentari in gel (rosa, verde)",
+          "name": "cores de alimentos em gel (rosa, verde)",
           "note": null
         },
         "anko": {
-          "name": "Anko (doce vermelho bean paste) per il ripieno centrale",
+          "name": "Anko (pasta de feijão vermelho) para preenchimento central",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Derreta o shiratamako na água até que os nódulos sejam removidos, em seguida, incorporá- lo com o shiroan em uma panela antiadherente.",
+        "step_2": "Cozinhe a fogo muito baixo agitando e esmagando a mistura até que ela perca umidade, se torne elástica e saia da panela.",
+        "step_3": "Transferir a massa para uma bandeja e trabalhá- la várias vezes à medida que ela esfria para obter uma massa suave e uniforme.",
+        "step_4": "Divida- o nas porções necessárias e core pequenas partes com quantidades mínimas de corante, amassando até que o corante seja homogêneo.",
+        "step_5": "Forme quatro bolas de anko a partir de cerca de 15 g cada e mantenha- as cobertas para que não se sequem.",
+        "step_6": "Achate uma porção de nerikiri, coloque o anko no centro e feche bem a junção na parte inferior.",
+        "step_7": "Modele a superfície com ferramentas de palito ou wagashi para criar pétalas e detalhes, trabalhando com mãos mal molhadas.",
+        "step_8": "Mantenha a cobertura e sirva à temperatura ambiente com chá, de preferência no mesmo dia."
       }
     }
   }

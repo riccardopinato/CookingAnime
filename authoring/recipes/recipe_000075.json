@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000075",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Persona 5",
   "animeReferences": [
@@ -21,23 +21,23 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 30,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
       "id": "cotolette_tonkatsu_di_maiale_pronte_e_impanate_nel",
       "quantity": 2,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "noodles_udon_freschi_o_congelati",
@@ -83,7 +83,7 @@
   "steps": [
     {
       "id": "step_1",
-      "timerSeconds": null
+      "timerSeconds": 360
     },
     {
       "id": "step_2",
@@ -96,28 +96,48 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Katsu Curry Udon",
-      "description": "A practical bowl of Katsu Curry Udon, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Persona 5, Jujutsu Kaisen. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Katsu Curry Udon — udon noodles with curry and breaded cutlet",
+      "description": "The Katsu Curry Udon combines thick udon in a Japanese curry sauce and a crunchy tonkatsu cutlet. The pasta is cooked while the curry and onion base is heated; the cutlet is placed on the bowl only at the time of service. The curry broth remains fluid enough to wrap the udon, while the tonkatsu is resting on only at the end.",
+      "animeContext": "This recipe is thematically inspired by Persona 5, Jujutsu Kaisen. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "cotolette_tonkatsu_di_maiale_pronte_e_impanate_nel": {
-          "name": "Cotolette tonkatsu di pork pronte e impanate nel panko",
+          "name": "Tonkatsu pork cotlets ready and breaded in panko",
           "note": null
         },
         "noodles_udon_freschi_o_congelati": {
-          "name": "Noodles udon fresh o congelati",
+          "name": "fresh or frozen noodles Udon",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Onion sliced",
+          "name": "sliced onion",
           "note": null
         },
         "carota_a_dadini": {
-          "name": "Carrot a dadini",
+          "name": "Carrot with dice",
           "note": null
         },
         "brodo_dashi": {
@@ -125,7 +145,7 @@
           "note": null
         },
         "curry_giapponese": {
-          "name": "Curry giapponese (roux in tavoletta)",
+          "name": "Japanese curry (Roux in tablet)",
           "note": null
         },
         "salsa_di_soia": {
@@ -137,20 +157,25 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring onion fresh sliced",
+          "name": "fresh sliced onion",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Fry the Tonkatsu schooner in abundant oil of hot seeds at 170°C until perfect gilding (about 5-6 minutes).",
+        "step_2": "Drain it on absorbent paper and cut it into strips.",
+        "step_3": "Put in a saucepan, fry the onion and carrot with a little oil.",
+        "step_4": "Combine Dashi broth, soy sauce and Mirin.",
+        "step_5": "Cook until the vegetables are tender.",
+        "step_6": "Turn off the heat, add the crumbled curry-roux cubes and stir with a whisk until they dissolve into a thick, smooth broth.",
+        "step_7": "Cook the Udon in boiling water for 2 minutes, drain and divide them into two large bowls.",
+        "step_8": "Add the thick broth to the boiling curry above the Udon.",
+        "step_9": "Add the crunchy Tonkatsu schnitzel on the surface and garnish with plenty of fresh onion."
       }
     },
     "it": {
       "title": "Katsu Curry Udon",
-      "description": "Una versione pratica di Katsu Curry Udon, costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Katsu Curry Udon unisce udon spessi in una salsa al curry giapponese e una cotoletta tonkatsu croccante. La pasta viene cotta mentre la base di curry e cipolla si scalda; la cotoletta si posa sulla ciotola solo al momento del servizio. Il brodo al curry rimane abbastanza fluido da avvolgere gli udon, mentre il tonkatsu viene adagiato sopra soltanto alla fine.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Persona 5, Jujutsu Kaisen. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "cotolette_tonkatsu_di_maiale_pronte_e_impanate_nel": {
@@ -174,7 +199,7 @@
           "note": null
         },
         "curry_giapponese": {
-          "name": "Curry Giapponese (Roux in tavoletta)",
+          "name": "curry Giapponese (Roux in tavoletta)",
           "note": null
         },
         "salsa_di_soia": {
@@ -186,44 +211,49 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Cipollotto fresco affettato",
+          "name": "cipollotto fresco affettato",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, friggi la cotoletta Tonkatsu in abbondante olio di semi caldo a 170°C fino a perfetta doratura (circa 5-6 minuti). Scolala su carta assorbente e tagliala a strisce.",
-        "step_2": "Prosegui così: metti in un pentolino fai soffriggere la cipolla e la carota con un filo d'olio. Unisci il brodo Dashi, la salsa di soia e il Mirin. Lascia cuocere finché le verdure sono tenere.",
-        "step_3": "Nella fase successiva, spegni il fuoco, unisci i cubetti di curry roux sbriciolati e amalgama bene con la frusta finché si sciolgono completamente creando un brodo vellutato e denso. Lascia cuocere gli Udon in acqua bollente per 2 minuti, scolali e dividili in due ciotole capienti.",
-        "step_4": "Per completare, aggiungi il brodo denso al curry bollente sopra gli Udon. Adagia la cotoletta Tonkatsu croccante sulla superficie e guarnisci con abbondante cipollotto fresco."
+        "step_1": "Friggi la cotoletta Tonkatsu in abbondante olio di semi caldo a 170°C fino a perfetta doratura (circa 5-6 minuti).",
+        "step_2": "Scolala su carta assorbente e tagliala a strisce.",
+        "step_3": "Metti in un pentolino fai soffriggere la cipolla e la carota con un filo d'olio.",
+        "step_4": "Unisci il brodo Dashi, la salsa di soia e il Mirin.",
+        "step_5": "Cuoci finché le verdure sono tenere.",
+        "step_6": "Spegni il fuoco, unisci i cubetti di curry roux sbriciolati e amalgama bene con la frusta finché si sciolgono completamente creando un brodo vellutato e denso.",
+        "step_7": "Cuoci gli Udon in acqua bollente per 2 minuti, scolali e dividili in due ciotole capienti.",
+        "step_8": "Aggiungi il brodo denso al curry bollente sopra gli Udon.",
+        "step_9": "Adagia la cotoletta Tonkatsu croccante sulla superficie e guarnisci con abbondante cipollotto fresco."
       }
     },
     "es": {
-      "title": "Katsu Curry Udon",
-      "description": "Una versión práctica de Katsu Curry Udon para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Persona 5, Jujutsu Kaisen. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Katsu curry udon — fideos udon con curry y filete empanado",
+      "description": "El Katsu Curry Udon combina udon grueso en una salsa de curry japonesa y una chuleta tonkatsu crujiente. La pasta se cocina mientras que la base de curry y cebolla se calienta; la chuleta se coloca sobre el tazón sólo en el momento del servicio. El caldo al curry permanece bastante fluido para envolver udon, mientras que el tonkatsu se coloca encendido solamente al final.",
+      "animeContext": "Esta receta está inspirada temáticamente en Persona 5, Jujutsu Kaisen. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "cotolette_tonkatsu_di_maiale_pronte_e_impanate_nel": {
-          "name": "Cotolette tonkatsu di cerdo pronte e impanate nel panko",
+          "name": "Tonkatsu chuletas de cerdo listas y empanadas en panko",
           "note": null
         },
         "noodles_udon_freschi_o_congelati": {
-          "name": "Noodles udon fresco o congelati",
+          "name": "fideos udon frescos o congelados",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Cebolla en rodajas",
+          "name": "cebolla cortada",
           "note": null
         },
         "carota_a_dadini": {
-          "name": "Zanahoria a dadini",
+          "name": "zanahoria de dados",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Caldo Dashi",
           "note": null
         },
         "curry_giapponese": {
-          "name": "Curry giapponese (roux in tavoletta)",
+          "name": "curry Japonés (Roux en tableta)",
           "note": null
         },
         "salsa_di_soia": {
@@ -235,48 +265,53 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring cebolla fresco en rodajas",
+          "name": "cipollotto fresco cortado",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Freír la chuleta Tonkatsu en abundante aceite de semillas calientes a 170°C hasta un dorado perfecto (aproximadamente 5-6 minutos).",
+        "step_2": "Escurrir sobre papel absorbente y cortarlo en tiras.",
+        "step_3": "Pon la cebolla y la zanahoria en una olla con un hilo de aceite.",
+        "step_4": "Une el caldo Dashi, la salsa de soja y el Mirin.",
+        "step_5": "Cocine hasta que las verduras se mantengan.",
+        "step_6": "Apaga el fuego, añade los dados de roux de curry desmenuzados y remueve con unas varillas hasta que se disuelvan y el caldo quede espeso y homogéneo.",
+        "step_7": "Cocine los udon en agua hirviendo durante 2 minutos, escúlelos y dívilos en dos cuencos grandes.",
+        "step_8": "Añade el caldo denso al curry caliente sobre los udon.",
+        "step_9": "Ajusta la chuleta Tonkatsu crujiente sobre la superficie y adorna con abundante cebolla fresca."
       }
     },
     "fr": {
-      "title": "Katsu Curry Udon",
-      "description": "Une version pratique de Katsu Curry Udon à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Persona 5, Jujutsu Kaisen. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Katsu curry udon — nouilles udon au curry et escalope panée",
+      "description": "Le Katsu Curry Udon allie udon épais dans une sauce au curry japonais et une côtelette tonkatsu croustillante. La pâte est cuite pendant que la base de curry et d'oignon se réchauffe; la couette se pose sur le bol seulement au moment du service. Le bouillon au curry reste assez fluide pour envelopper les udon, tandis que le tonkatsu est arrosé sur seulement à la fin.",
+      "animeContext": "Cette recette s'inspire librement de Persona 5, Jujutsu Kaisen. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "cotolette_tonkatsu_di_maiale_pronte_e_impanate_nel": {
-          "name": "Cotolette tonkatsu di porc pronte e impanate nel panko",
+          "name": "côtelettes Tonkatsu de porc prêtes et panées dans le panko",
           "note": null
         },
         "noodles_udon_freschi_o_congelati": {
-          "name": "Noodles udon frais o congelati",
+          "name": "Noodles Udon, frais ou congelés",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Oignon tranché",
+          "name": "oignon coupé",
           "note": null
         },
         "carota_a_dadini": {
-          "name": "Carotte a dadini",
+          "name": "Carotte en dés",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi bouillon",
+          "name": "Brode dashi",
           "note": null
         },
         "curry_giapponese": {
-          "name": "Curry giapponese (roux in tavoletta)",
+          "name": "curry japonais (Roux en tablette)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
@@ -284,48 +319,53 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring oignon frais tranché",
+          "name": "Ciboulette frais coupé",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Frottez la côtelette Tonkatsu dans une huile de graines chaude abondante à 170°C jusqu'à ce que la dorure soit parfaite (environ 5-6 minutes).",
+        "step_2": "Écoule sur papier absorbant et coupe-la en bandes.",
+        "step_3": "Mettez dans une casserole, faites souffrir l'oignon et la carotte avec un fil d'huile.",
+        "step_4": "Joignez le bouillon dashi, la sauce soja et le Mirin.",
+        "step_5": "Tu cuisines jusqu'à ce que les légumes soient tendres.",
+        "step_6": "Éteignez le feu, combinez les cubes de curry roux et amalgamez bien avec le fouet jusqu'à ce qu'ils se dissolvent complètement en créant un bouillon velouté et dense.",
+        "step_7": "Cuisez les Udon dans de l'eau bouillante pendant 2 minutes, écoliez et divisez-les en deux bols de grande taille.",
+        "step_8": "Ajoutez le bouillon épais au curry chaud au-dessus des Udon.",
+        "step_9": "Adagia la côtelette Tonkatsu croustillante sur la surface et garnis avec un gros oignon frais."
       }
     },
     "de": {
-      "title": "Katsu Curry Udon",
-      "description": "Eine alltagstaugliche Version von Katsu Curry Udon für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Persona 5, Jujutsu Kaisen inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Katsu Curry Udon – Udon-Nudeln mit Curry und paniertem Schnitzel",
+      "description": "Das Katsu Curry Udon verbindet dicken Udon in einer Sauce mit japanischem Curry und einer knusprig tonkatsu Schüssel. Die Pasta wird gekocht, während die Basis von Curry und Zwiebel erwärmt wird; die Schüssel legt sich auf die Schüssel erst zum Zeitpunkt des Service. Die Currybrühe bleibt flüssig genug, um die Udons zu wickeln, während Tonkatsu an nur am Ende aufgewickelt wird.",
+      "animeContext": "Dieses Rezept ist thematisch von Persona 5, Jujutsu Kaisen inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "cotolette_tonkatsu_di_maiale_pronte_e_impanate_nel": {
-          "name": "Cotolette tonkatsu di Schweinefleisch pronte e impanate nel panko",
+          "name": "Schweine-Tonkatsu-Cotolette bereit und im Panko gepanzert",
           "note": null
         },
         "noodles_udon_freschi_o_congelati": {
-          "name": "Noodles udon frisch o congelati",
+          "name": "Nudeln Udon, frisch oder gefroren",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Zwiebel in Scheiben",
+          "name": "Zwiebeln, geschnitten",
           "note": null
         },
         "carota_a_dadini": {
-          "name": "Karotte a dadini",
+          "name": "Würfelmöhre",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi Brühe",
+          "name": "Dashi-Brühe",
           "note": null
         },
         "curry_giapponese": {
-          "name": "Curry giapponese (roux in tavoletta)",
+          "name": "Japanischer Curry (Roux-Tablett)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -333,44 +373,49 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring Zwiebel frisch in Scheiben",
+          "name": "Schnittlauch, frisch geschnitten",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Braten Sie die Tonkatsu-Scheune in reichlich heißem Samenöl bei 170°C bis zur perfekten Vergoldung (ca. 5-6 Minuten).",
+        "step_2": "Schütten Sie es auf absorbierendes Papier und schneiden Sie es in Streifen.",
+        "step_3": "Legen Sie die Zwiebel und die Karotte mit einem Ölfaden in einen Topf.",
+        "step_4": "Brühe Dashi, Sojasoße und Mirin.",
+        "step_5": "Kochen Sie, solange das Gemüse halten.",
+        "step_6": "Den Herd ausschalten, die zerbröselten Curry-Roux-Würfel zugeben und mit dem Schneebesen rühren, bis sie sich vollständig aufgelöst haben und eine dicke, samtige Brühe entstanden ist.",
+        "step_7": "Die Udon-Nudeln 2 Minuten in kochendem Wasser garen, abgießen und auf zwei große Schüsseln verteilen.",
+        "step_8": "Die heiße, dickflüssige Currybrühe über die Udon-Nudeln gießen.",
+        "step_9": "Adoptieren Sie die knusprige Tonkatsu-Schokolade auf der Oberfläche und garnistieren Sie mit reichlich frischen Zwiebeln."
       }
     },
     "pt": {
-      "title": "Katsu Curry Udon",
-      "description": "Uma versão prática de Katsu Curry Udon para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Persona 5, Jujutsu Kaisen. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Katsu curry udon — massa udon com caril e panado crocante",
+      "description": "O Udon de Curry Katsu combina udon grosso em um molho de curry japonês e uma talha de tonkatsu crocante. A massa é cozida enquanto a base de curry e cebola é aquecida; a talha é colocada na tigela apenas no momento do serviço. O caldo de curry permanece fluido o suficiente para enrolar o udon, enquanto o tonkatsu só está no final.",
+      "animeContext": "Esta receita inspira-se tematicamente em Persona 5, Jujutsu Kaisen. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "cotolette_tonkatsu_di_maiale_pronte_e_impanate_nel": {
-          "name": "Cotolette tonkatsu di porco pronte e impanate nel panko",
+          "name": "Cotlets de porco Tonkatsu prontos e em panko",
           "note": null
         },
         "noodles_udon_freschi_o_congelati": {
-          "name": "Noodles udon fresco o congelati",
+          "name": "macarrão fresco ou congelado Udon",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Cebola fatiado",
+          "name": "Cebola cortada",
           "note": null
         },
         "carota_a_dadini": {
-          "name": "Cenoura a dadini",
+          "name": "Cenoura com dados",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Coberto de Dashi",
           "note": null
         },
         "curry_giapponese": {
-          "name": "Curry giapponese (roux in tavoletta)",
+          "name": "Curry japonês (Roux no tablet)",
           "note": null
         },
         "salsa_di_soia": {
@@ -382,15 +427,20 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Spring cebola fresco fatiado",
+          "name": "cebola fresca cortada",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Fritar a gole de Tonkatsu em óleo abundante de sementes quentes a 170°C até doramento perfeito (cerca de 5-6 minutos).",
+        "step_2": "Esgote- o em papel absorvente e corte- o em tiras.",
+        "step_3": "Coloque uma panela, frite a cebola e a cenoura com um pouco de óleo.",
+        "step_4": "Combine o caldo Dashi, molho de soja e Mirin.",
+        "step_5": "Cozinhe até que os legumes estejam tenros.",
+        "step_6": "Desligue o lume, junte os cubos de roux de caril esfarelados e mexa com umas varas até se dissolverem por completo, formando um caldo cremoso e espesso.",
+        "step_7": "Cozinhe o Udon em água fervente por 2 minutos, drene e divida- os em duas tigelas grandes.",
+        "step_8": "Adicione o caldo grosso ao curry fervente acima do Udon.",
+        "step_9": "Adicione o schnitzel crocante Tonkatsu na superfície e guarneça com muita cebola fresca."
       }
     }
   }

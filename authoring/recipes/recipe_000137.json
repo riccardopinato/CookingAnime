@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000137",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Ranma ½",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "cavolo_cappuccio_affettato",
       "quantity": 0.5,
-      "unit": null
+      "unit": "head"
     },
     {
       "id": "carota_a_striscioline",
@@ -78,7 +78,7 @@
   "steps": [
     {
       "id": "step_1",
-      "timerSeconds": null
+      "timerSeconds": 60
     },
     {
       "id": "step_2",
@@ -86,37 +86,49 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 120
     },
     {
       "id": "step_4",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Yakiudon al Sesamo e Verdure",
-      "description": "A quick-cooked Yakiudon al Sesamo e Verdure that relies on high heat, organized mise en place and short cooking times to keep vegetables lively and sauces concentrated.",
-      "animeContext": "This recipe is thematically inspired by Ranma ½, My Hero Academia. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Sesame and Vegetable Yakiudon",
+      "description": "The Yakiudon with sesame combines thick udon, cabbage and carrots blown in a pan over a lively heat. The pasta is first loosened in hot water, then quickly browned with vegetables and seasoning to maintain an elastic consistency. The sauce enters the hot edge of the wok and covers the freshly blown udon, to be served immediately with sesame and onion.",
+      "animeContext": "This recipe is thematically inspired by Ranma ½, My Hero Academia. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "udon_freschi": {
-          "name": "Udon fresh",
+          "name": "Fresh Udon",
           "note": null
         },
         "cavolo_cappuccio_affettato": {
-          "name": "Cabbage sliced",
+          "name": "Sliced cabbage",
           "note": null
         },
         "carota_a_striscioline": {
-          "name": "Carrot a striscioline",
+          "name": "strip carrot",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Onion sliced",
+          "name": "sliced onion",
           "note": null
         },
         "salsa_per_yakisoba_tonkatsu": {
-          "name": "Sauce per yakisoba/tonkatsu",
+          "name": "Yakisoba/Tonkatsu sauce",
           "note": null
         },
         "salsa_di_soia": {
@@ -124,24 +136,27 @@
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi (fiocchi di bonito) for serving",
+          "name": "katsuobushi (bonito flakes) to serve",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and measure every ingredient before heating the pan, because the cooking phase is short and should not be interrupted for preparation.",
-        "step_2": "Use a hot pan or griddle and cook the firmer ingredients first, keeping them moving so they brown without steaming in their own moisture.",
-        "step_3": "Add the remaining ingredients and sauce in stages, cooking only until the sauce clings and the vegetables retain some bite.",
-        "step_4": "Finish with the fresh garnish and serve immediately, while the pan-seared surfaces and concentrated seasoning are still vivid."
+        "step_1": "Loosen the udon noodles in boiling water for about 1 minute, drain and separate them gently without breaking them.",
+        "step_2": "Slice cabbage, carrot and onion into thin pieces and prepare the sauces before heating the wok.",
+        "step_3": "Heat the sesame oil over high heat and stir-fry the onion and carrot for 1–2 minutes.",
+        "step_4": "Add the cabbage and continue cooking for another 2 minutes, leaving the vegetables still slightly crispy.",
+        "step_5": "Add the udon noodles and stir-fry over high heat until thoroughly hot.",
+        "step_6": "Pour yakisoba/tonkatsu sauce and soy sauce along the warm edge of the wok and mix quickly to cover all noodles.",
+        "step_7": "Serve immediately with katsuobushi, sesame or onion, avoiding to leave the udon firm in the pan."
       }
     },
     "it": {
       "title": "Yakiudon al Sesamo e Verdure",
-      "description": "Un Yakiudon al Sesamo e Verdure dalla cottura rapida, basato su fiamma vivace, ingredienti già pronti e tempi brevi per mantenere verdure croccanti e salsa concentrata.",
+      "description": "Lo Yakiudon al sesamo unisce udon spessi, cavolo e carote saltati in padella a fuoco vivace. La pasta viene prima allentata in acqua calda, poi rosolata rapidamente con verdure e condimento per mantenere una consistenza elastica. La salsa entra sul bordo rovente del wok e ricopre gli udon appena saltati, da servire subito con sesamo e cipollotto.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Ranma ½, My Hero Academia. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "udon_freschi": {
@@ -173,40 +188,43 @@
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi (fiocchi di bonito) per servire",
+          "name": "katsuobushi (fiocchi di bonito) per servire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, sgrana gli udon tuffandoli per 1 minuto in acqua bollente, scolali subito.",
-        "step_2": "Prosegui così: in un wok caldissmo con olio di sesamo, rosola la cipolla, la carota e il cavolo cappuccio per 3-4 minuti mantenendoli croccanti.",
-        "step_3": "Nella fase successiva, unisci gli udon e salta a fuoco vivo. Aggiungi la salsa per yakisoba e la salsa di soia. Amalgama energicamente per distribuire il condimento uniforme.",
-        "step_4": "Per completare, impiatta e spolvera con abbondante Katsuobushi che \"danzerà\" sopra per il calore."
+        "step_1": "Allenta gli udon in acqua bollente per circa 1 minuto, scolali e separali con delicatezza senza spezzarli.",
+        "step_2": "Affetta cavolo, carota e cipolla in pezzi sottili e prepara le salse prima di scaldare il wok.",
+        "step_3": "Scalda l’olio di sesamo a fuoco alto e salta prima cipolla e carota per 1-2 minuti.",
+        "step_4": "Aggiungi il cavolo e continua la cottura per altri 2 minuti, lasciando le verdure ancora leggermente croccanti.",
+        "step_5": "Unisci gli udon e saltali a fuoco vivo finché sono ben caldi.",
+        "step_6": "Versa salsa yakisoba/tonkatsu e salsa di soia lungo il bordo caldo del wok e mescola rapidamente per rivestire tutti i noodles.",
+        "step_7": "Servi subito con katsuobushi, sesamo o cipollotto, evitando di lasciare gli udon fermi nella padella."
       }
     },
     "es": {
-      "title": "Yakiudon al Sesamo e Verdure",
-      "description": "Una versión práctica de Yakiudon al Sesamo e Verdure para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Ranma ½, My Hero Academia. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Yakiudon con sésamo y verduras",
+      "description": "El Yakiudon con el sésamo combina udon grueso, col y zanahorias saltadas en la sartén a fuego vivo. La pasta se suelta primero en agua caliente, luego rosolada rápidamente con verduras y condimento para mantener una consistencia elástica. La salsa entra en el borde ardiente del wok y cubre los udons recién saltados, para servir inmediatamente con sésamo y cebolleta.",
+      "animeContext": "Esta receta está inspirada temáticamente en Ranma ½, My Hero Academia. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "udon_freschi": {
-          "name": "Udon fresco",
+          "name": "udon fresco",
           "note": null
         },
         "cavolo_cappuccio_affettato": {
-          "name": "Col en rodajas",
+          "name": "col capucha cortada",
           "note": null
         },
         "carota_a_striscioline": {
-          "name": "Zanahoria a striscioline",
+          "name": "zanahoria de strasciolina",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Cebolla en rodajas",
+          "name": "cebolla cortada",
           "note": null
         },
         "salsa_per_yakisoba_tonkatsu": {
-          "name": "Salsa per yakisoba/tonkatsu",
+          "name": "Salsa para Yaquisoba/Tonkatsu",
           "note": null
         },
         "salsa_di_soia": {
@@ -214,134 +232,143 @@
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame aceite",
+          "name": "Aceite de sésamo",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi (fiocchi di bonito) para servir",
+          "name": "katsuobushi (hoyos de bonito) para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Suelta los udon en agua hirviendo durante aproximadamente 1 minuto; escúrrelos y sepáralos con cuidado para que no se rompan.",
+        "step_2": "Corta la col, la zanahoria y la cebolla en trozos delgados y prepara las salsas antes de calentar el wok.",
+        "step_3": "Calienta el aceite de sésamo a fuego alto y salta primero cebolla y zanahoria durante 1-2 minutos.",
+        "step_4": "Añade la col y continúa cocinando durante 2 minutos más, dejando las verduras ligeramente crujientes.",
+        "step_5": "Añade los udon y saltéalos a fuego fuerte hasta que estén bien calientes.",
+        "step_6": "Verter salsa yaquisoba/tonkatsu y salsa de soja a lo largo del borde caliente del wok y mezclar rápidamente para cubrir todos los fideos.",
+        "step_7": "Sirve de inmediato con katsuobushi, sésamo o cebolleta, sin dejar los udon reposando en la sartén."
       }
     },
     "fr": {
-      "title": "Yakiudon al Sesamo e Verdure",
-      "description": "Une version pratique de Yakiudon al Sesamo e Verdure à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Ranma ½, My Hero Academia. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Yakiudon au sésame et aux légumes",
+      "description": "Le Yakiudon allie udon épais, chou et carottes sautés dans une poêle à feu vif. La pâte est d'abord desserrée dans l'eau chaude, puis roulée rapidement avec des légumes et assaisonnement pour maintenir une consistance élastique. La sauce entre sur le bord brûlant du wok et recouvre les udons à peine sautés, à servir immédiatement avec le sésame et l'oignon.",
+      "animeContext": "Cette recette s'inspire librement de Ranma ½, My Hero Academia. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "udon_freschi": {
           "name": "Udon frais",
           "note": null
         },
         "cavolo_cappuccio_affettato": {
-          "name": "Chou tranché",
+          "name": "Chou chevelu en tranches",
           "note": null
         },
         "carota_a_striscioline": {
-          "name": "Carotte a striscioline",
+          "name": "Carotte à strisciline",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Oignon tranché",
+          "name": "oignon coupé",
           "note": null
         },
         "salsa_per_yakisoba_tonkatsu": {
-          "name": "Sauce per yakisoba/tonkatsu",
+          "name": "Sauce Yakisoba/Tonkatsu",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi (fiocchi di bonito) pour servir",
+          "name": "katsuobushi (flous de bonito) pour servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Détache délicatement les nouilles udon dans l’eau bouillante pendant environ 1 minute, égoutte-les et sépare-les sans les casser.",
+        "step_2": "Coiffe le chou, la carotte et l'oignon en morceaux fins et prépare les sauces avant de chauffer le wok.",
+        "step_3": "Chauffez l'huile de sésame à feu élevé et sautez d'abord l'oignon et la carotte pendant 1 à 2 minutes.",
+        "step_4": "Ajoutez le chou et continuez la cuisson pendant 2 minutes, laissant les légumes encore légèrement croustillants.",
+        "step_5": "Ajoute les nouilles udon et fais-les sauter à feu vif jusqu’à ce qu’elles soient bien chaudes.",
+        "step_6": "Versa sauce yakisoba/tonkatsu et sauce soja le long du bord chaud de wok et mélange rapidement pour revêtir toutes les nouilles.",
+        "step_7": "Sers aussitôt avec du katsuobushi, du sésame ou de la cébette, sans laisser les nouilles udon attendre dans la poêle."
       }
     },
     "de": {
-      "title": "Yakiudon al Sesamo e Verdure",
-      "description": "Eine alltagstaugliche Version von Yakiudon al Sesamo e Verdure für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Ranma ½, My Hero Academia inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Yakiudon mit Sesam und Gemüse",
+      "description": "Der Yakiudon mit Sesam verbindet dicke Udons, Kohl und Karotten, die in die Bratpfanne gesprungen sind. Die Pasta wird zunächst in heißem Wasser gelöst, dann schnell mit Gemüse und Würz, um eine elastische Konsistenz zu erhalten. Die Soße kommt auf den brennenden Rand des Wok und bedeckt die neu gesprungenen Udons, um sofort mit Sesam und Zwiebeln zu servieren.",
+      "animeContext": "Dieses Rezept ist thematisch von Ranma ½, My Hero Academia inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "udon_freschi": {
-          "name": "Udon frisch",
+          "name": "Frisches Udon",
           "note": null
         },
         "cavolo_cappuccio_affettato": {
-          "name": "Kohl in Scheiben",
+          "name": "Kohlrabi aufgeschnitten",
           "note": null
         },
         "carota_a_striscioline": {
-          "name": "Karotte a striscioline",
+          "name": "Criscioline-Möhre",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Zwiebel in Scheiben",
+          "name": "Zwiebeln, geschnitten",
           "note": null
         },
         "salsa_per_yakisoba_tonkatsu": {
-          "name": "Sauce per yakisoba/tonkatsu",
+          "name": "Soße für Yakisoba/Tonkatsu",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi (fiocchi di bonito) zum Servieren",
+          "name": "katsuobushi (Bonito-Flocken) zum Servieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Die Udon-Nudeln etwa 1 Minute in kochendem Wasser lockern, abgießen und vorsichtig voneinander trennen, ohne sie zu zerreißen.",
+        "step_2": "Kohl, Karotte und Zwiebel in dünne Stücke schneiden und die Soßen backen, bevor der Wok erwärmt wird.",
+        "step_3": "Erhitzt Sesamöl mit hohem Feuer und springt zuerst Zwiebel und Karotte für 1-2 Minuten.",
+        "step_4": "Fügen Sie den Kohl hinzu und kochen Sie für weitere 2 Minuten, so dass das Gemüse noch etwas knusprig ist.",
+        "step_5": "Die Udon-Nudeln zugeben und bei starker Hitze unter Rühren braten, bis sie durchgehend heiß sind.",
+        "step_6": "Gießen Sie Yakisoba/tonkatsu Soße und Sojasoße entlang der heißen Wokkante und mischen Sie schnell, um alle Nudeln zu kleiden.",
+        "step_7": "Sofort mit Katsuobushi, Sesam oder Frühlingszwiebel servieren und die Udon-Nudeln nicht in der Pfanne stehen lassen."
       }
     },
     "pt": {
-      "title": "Yakiudon al Sesamo e Verdure",
-      "description": "Uma versão prática de Yakiudon al Sesamo e Verdure para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Ranma ½, My Hero Academia. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Yakiudon com sésamo e legumes",
+      "description": "O Yakiudon com sésamo combina udon espesso, repolho e cenouras sopradas em uma panela em um calor vivo. A massa primeiro é solta em água quente, em seguida, rapidamente dourado com vegetais e tempero para manter uma consistência elástica. O molho entra na borda quente do wok e cobre o udon recém soprado, para ser servido imediatamente com sésamo e cebola.",
+      "animeContext": "Esta receita inspira-se tematicamente em Ranma ½, My Hero Academia. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "udon_freschi": {
-          "name": "Udon fresco",
+          "name": "Udon novo",
           "note": null
         },
         "cavolo_cappuccio_affettato": {
-          "name": "Couve fatiado",
+          "name": "Repolho cortado",
           "note": null
         },
         "carota_a_striscioline": {
-          "name": "Cenoura a striscioline",
+          "name": "tira cenoura",
           "note": null
         },
         "cipolla_affettata": {
-          "name": "Cebola fatiado",
+          "name": "Cebola cortada",
           "note": null
         },
         "salsa_per_yakisoba_tonkatsu": {
-          "name": "Molho per yakisoba/tonkatsu",
+          "name": "Molho Yakisoba/ Tonkatsu",
           "note": null
         },
         "salsa_di_soia": {
@@ -349,19 +376,22 @@
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi (fiocchi di bonito) para servir",
+          "name": "katsuobushi (bonito flocos) para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Solte delicadamente os udon em água a ferver durante cerca de 1 minuto, escorra e separe os fios sem os partir.",
+        "step_2": "Corte o repolho, a cenoura e a cebola em pedaços finos e prepare os molhos antes de aquecer o wok.",
+        "step_3": "Aqueça o óleo de sésamo em lume forte e salteie primeiro a cebola e a cenoura durante 1 a 2 minutos.",
+        "step_4": "Adicione o repolho e continue cozindo por mais 2 minutos, deixando os vegetais ainda ligeiramente crocantes.",
+        "step_5": "Junte os udon e salteie em lume forte até ficarem bem quentes.",
+        "step_6": "Despeje molho de yakisoba/ tonkatsu e molho de soja ao longo da borda quente do wok e misture rapidamente para cobrir todos os macarrão.",
+        "step_7": "Servir imediatamente com katsuobushi, sésamo ou cebola, evitando deixar a empresa udon na panela."
       }
     }
   }

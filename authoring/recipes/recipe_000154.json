@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000154",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -21,23 +21,23 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
       "id": "confezioni_di_udon_freschi_o_congelati",
       "quantity": 2,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "tofu_fermo_sbriciolato_a_mano",
@@ -57,7 +57,7 @@
     {
       "id": "funghi_shiitake_reidratati_e_affettati",
       "quantity": 4,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "brodo_kombu_dashi",
@@ -80,7 +80,12 @@
       "unit": "tbsp"
     },
     {
-      "id": "erba_cipollina_e_shichimi_togarashi",
+      "id": "erba_cipollina_e_shichimi_togarashi_1_erba_cipollina",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "id": "erba_cipollina_e_shichimi_togarashi_2_shichimi_togarashi",
       "quantity": null,
       "unit": null
     }
@@ -96,41 +101,57 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 180
     },
     {
       "id": "step_4",
+      "timerSeconds": 600
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kenchin Udon",
-      "description": "A practical bowl of Kenchin Udon, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer, Yuru Camp△. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kenchin Udon — Buddhist-style vegetable and tofu udon soup",
+      "description": "The Kenchin Udon is a udon soup with crumbled tofu and roots like daikon and carrot in kombu broth. Vegetables are cooked in the base, while noodles are boiled separately and joined in the serving bowls. The udon are boiled separately and covered with soup with tofu and roots, completed by chives and shichimi.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer, Yuru Camp△. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "confezioni_di_udon_freschi_o_congelati": {
-          "name": "Confezioni di udon fresh o congelati",
+          "name": "Packs of Udon fresh or frozen",
           "note": null
         },
         "tofu_fermo_sbriciolato_a_mano": {
-          "name": "Tofu fermo sbriciolato a mano",
+          "name": "tofu firm crumbled by hand",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Daikon root slices",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Carrot a mezzaluna",
+          "name": "carrot to crescent",
           "note": null
         },
         "funghi_shiitake_reidratati_e_affettati": {
-          "name": "Shiitake mushrooms reidratati e affettati",
+          "name": "Rehydrated and sliced Shiitake mushrooms",
           "note": null
         },
         "brodo_kombu_dashi": {
-          "name": "Broth kombu dashi (vegetariano)",
+          "name": "Kombu Dashi broth (vegetarian)",
           "note": null
         },
         "salsa_di_soia": {
@@ -138,28 +159,36 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         },
-        "erba_cipollina_e_shichimi_togarashi": {
-          "name": "Erba cipollina e shichimi togarashi",
+        "erba_cipollina_e_shichimi_togarashi_1_erba_cipollina": {
+          "name": "chives",
+          "note": null
+        },
+        "erba_cipollina_e_shichimi_togarashi_2_shichimi_togarashi": {
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Drain the tofu and crumble it coarsely; cut daikon, carrot and shiitake into pieces of similar size.",
+        "step_2": "Heat sesame oil in a saucepan and brown the tofu until some parts take color.",
+        "step_3": "Add the daikon, carrot and shiitake and stir-fry for about 3 minutes.",
+        "step_4": "Pour the kombu dashi, bring to light boil and cook covered for about 8-10 minutes, until the roots are tender.",
+        "step_5": "Season with soy sauce and mirin and taste the broth before adding more salt.",
+        "step_6": "Cook the udon in a separate pot for the required time, drain well and distribute them in the bowls.",
+        "step_7": "Pour over the soup with tofu and vegetables.",
+        "step_8": "Complete with chives and shichimi togarashi and serve very hot."
       }
     },
     "it": {
       "title": "Kenchin Udon (Udon in Zuppa Buddista con Tofu e Radici)",
-      "description": "Una versione pratica di Kenchin Udon (Udon in Zuppa Buddista con Tofu e Radici), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Kenchin Udon è una zuppa di udon con tofu sbriciolato e radici come daikon e carota in brodo di kombu. Le verdure vengono cotte nella base, mentre i noodles vengono lessati separatamente e uniti nelle ciotole al servizio. Gli udon vengono lessati separatamente e ricoperti di zuppa con tofu e radici, completata da erba cipollina e shichimi.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer, Yuru Camp△. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "confezioni_di_udon_freschi_o_congelati": {
@@ -167,7 +196,7 @@
           "note": null
         },
         "tofu_fermo_sbriciolato_a_mano": {
-          "name": "Tofu fermo sbriciolato a mano",
+          "name": "tofu fermo sbriciolato a mano",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
@@ -198,45 +227,53 @@
           "name": "olio di sesamo",
           "note": null
         },
-        "erba_cipollina_e_shichimi_togarashi": {
-          "name": "Erba cipollina e Shichimi Togarashi",
+        "erba_cipollina_e_shichimi_togarashi_1_erba_cipollina": {
+          "name": "erba cipollina",
+          "note": null
+        },
+        "erba_cipollina_e_shichimi_togarashi_2_shichimi_togarashi": {
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, porta a temperaturare l'olio di sesamo in una pentola. Aggiungere il tofu sbriciolato a mano e rosolarlo finché dorato. Unire carote, Daikon e funghi Shiitake continuando a saltare per 3 minuti.",
-        "step_2": "Prosegui così: aggiungire il Kombu Dashi nella pentola. Portare ad ebollizione, coprire e sobbollire per 8 minuti finché le radici sono tenere.",
-        "step_3": "Nella fase successiva, aggiungere salsa di soia e mirin aggiustando di sale. Cuoci in acqua bollentere gli Udon in acqua bollente per 1-2 minuti, scolare e distribuire nelle ciotole.",
-        "step_4": "Per completare, aggiungire la ricca zuppa con le verdure sopra gli Udon. Guarnire con erba cipollina fresca e Shichimi Togarashi."
+        "step_1": "Scola il tofu e sbriciolalo grossolanamente; taglia daikon, carota e shiitake in pezzi di dimensione simile.",
+        "step_2": "Scalda l’olio di sesamo in casseruola e rosola il tofu finché alcune parti prendono colore.",
+        "step_3": "Aggiungi daikon, carota e shiitake e salta per circa 3 minuti.",
+        "step_4": "Versa il kombu dashi, porta a leggero bollore e cuoci coperto per circa 8-10 minuti, finché le radici sono tenere.",
+        "step_5": "Condisci con salsa di soia e mirin e assaggia il brodo prima di aggiungere altro sale.",
+        "step_6": "Cuoci gli udon in una pentola separata per il tempo richiesto, scolali bene e distribuiscili nelle ciotole.",
+        "step_7": "Versa sopra la zuppa con tofu e verdure.",
+        "step_8": "Completa con erba cipollina e shichimi togarashi e servi molto caldo."
       }
     },
     "es": {
-      "title": "Kenchin Udon",
-      "description": "Una versión práctica de Kenchin Udon para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Yuru Camp△. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kenchin udon — sopa budista de udon con tofu y raíces",
+      "description": "El Kenchin Udon es una sopa de udon con tofu desmenuzado y raíces como daikon y zanahoria en caldo de kombu. Las verduras se cocinan en la base, mientras que los fideos se levantan por separado y se unen en los cuencos al servicio. Los udons se lessan por separado y se recubren con sopa con tofu y raíces, completadas con cebollina y shichimi.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Yuru Camp△. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "confezioni_di_udon_freschi_o_congelati": {
-          "name": "Confezioni di udon fresco o congelati",
+          "name": "Paquetes de udon frescos o congelados",
           "note": null
         },
         "tofu_fermo_sbriciolato_a_mano": {
-          "name": "Tofu fermo sbriciolato a mano",
+          "name": "tofu firme desmenuzado a mano",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Raíz de Daikon a rodajas",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Zanahoria a mezzaluna",
+          "name": "zanahoria a media luna",
           "note": null
         },
         "funghi_shiitake_reidratati_e_affettati": {
-          "name": "Shiitake setas reidratati e affettati",
+          "name": "Setas Shiitake rehidratadas y rebanadas",
           "note": null
         },
         "brodo_kombu_dashi": {
-          "name": "Caldo kombu dashi (vegetariano)",
+          "name": "caldo Kombu Dashi (vegetariano)",
           "note": null
         },
         "salsa_di_soia": {
@@ -244,109 +281,125 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame aceite",
+          "name": "Aceite de sésamo",
           "note": null
         },
-        "erba_cipollina_e_shichimi_togarashi": {
-          "name": "Erba cipollina e shichimi togarashi",
+        "erba_cipollina_e_shichimi_togarashi_1_erba_cipollina": {
+          "name": "Cebolletas",
+          "note": null
+        },
+        "erba_cipollina_e_shichimi_togarashi_2_shichimi_togarashi": {
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Escurrir el tofu y desmenuzarlo gruesamente; cortar daikon, zanahoria y shiitake en trozos del tamaño similar.",
+        "step_2": "Calienta el aceite de sésamo en cazuela y rosola el tofu hasta que algunas partes toman color.",
+        "step_3": "Añadir daikon, zanahoria y shiitake y saltar durante unos 3 minutos.",
+        "step_4": "Vierta el kombu dashi, lleva a un hervor suave y hornear cubierto durante unos 8-10 minutos, hasta que las raíces se mantienen.",
+        "step_5": "Sazona con salsa de soja y mirin y prueba el caldo antes de añadir más sal.",
+        "step_6": "Cuece los udon en una olla aparte durante el tiempo indicado, escúrrelos bien y repártelos entre los cuencos.",
+        "step_7": "Vierta sobre la sopa con tofu y verduras.",
+        "step_8": "Completa con cebollina y shichimi togarashi y sirvientes muy calientes."
       }
     },
     "fr": {
-      "title": "Kenchin Udon",
-      "description": "Une version pratique de Kenchin Udon à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer, Yuru Camp△. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kenchin udon — soupe d’udon bouddhique au tofu et légumes-racines",
+      "description": "Le Kenchin Udon est une soupe d'oudon avec du tofu débridé et des racines comme daikon et carotte en bouillon de kombu. Les légumes sont cuits dans la base, tandis que les nouilles sont lissées séparément et unies dans les bols au service. Les udons sont lissés séparément et recouverts de soupe avec du tofu et des racines, complétée par de la ciboulette et des chichimi.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer, Yuru Camp△. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "confezioni_di_udon_freschi_o_congelati": {
-          "name": "Confezioni di udon frais o congelati",
+          "name": "conditionnements d'Udon frais ou congelés",
           "note": null
         },
         "tofu_fermo_sbriciolato_a_mano": {
-          "name": "Tofu fermo sbriciolato a mano",
+          "name": "tofu serré à la main",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Racine de Daikon en tranches",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Carotte a mezzaluna",
+          "name": "Carotte en croissant",
           "note": null
         },
         "funghi_shiitake_reidratati_e_affettati": {
-          "name": "Shiitake champignons reidratati e affettati",
+          "name": "champignons Shiitake réhydrates et coupés",
           "note": null
         },
         "brodo_kombu_dashi": {
-          "name": "Bouillon kombu dashi (vegetariano)",
+          "name": "brodo Kombu dashi (végétarien)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         },
-        "erba_cipollina_e_shichimi_togarashi": {
-          "name": "Erba cipollina e shichimi togarashi",
+        "erba_cipollina_e_shichimi_togarashi_1_erba_cipollina": {
+          "name": "Ciboulette",
+          "note": null
+        },
+        "erba_cipollina_e_shichimi_togarashi_2_shichimi_togarashi": {
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Découpe le tofu et déchire grossièrement; coupe daikon, carotte et shiitake en morceaux de taille similaire.",
+        "step_2": "Chauffez l'huile de sésame dans la casserole et roulez le tofu jusqu'à ce que certaines parties prennent la couleur.",
+        "step_3": "Ajouter daikon, carotte et shiitake et sauter pendant environ 3 minutes.",
+        "step_4": "Versez le kombu dashi, apportez à la légère bulle et cuire couvert pendant environ 8-10 minutes, jusqu'à ce que les racines sont tendres.",
+        "step_5": "Assaisonne avec la sauce soja et le mirin ; goûte le bouillon avant d’ajouter davantage de sel.",
+        "step_6": "Fais cuire les nouilles udon dans une casserole séparée pendant le temps indiqué, égoutte-les et répartis-les dans les bols.",
+        "step_7": "Versez sur la soupe avec du tofu et des légumes.",
+        "step_8": "Complétez avec ciboulette et chichimi togarashi et servez très chaud."
       }
     },
     "de": {
-      "title": "Kenchin Udon",
-      "description": "Eine alltagstaugliche Version von Kenchin Udon für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Yuru Camp△ inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kenchin Udon – buddhistische Udon-Suppe mit Tofu und Wurzelgemüse",
+      "description": "Das Kenchin Udon ist eine Suppe aus Udon mit zerbröckeltem Tofu und Wurzeln wie Daikon und Karotte aus kombu-Brühe. Gemüse wird in der Basis gekocht, während Nudeln getrennt gekocht und in den Schüsseln im Dienst zusammengefügt werden. Die Udon-Nudeln werden separat gekocht und in Schalen mit der Suppe aus Tofu und Wurzelgemüse serviert; zum Schluss mit Schnittlauch und Shichimi garnieren.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Yuru Camp△ inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "confezioni_di_udon_freschi_o_congelati": {
-          "name": "Confezioni di udon frisch o congelati",
+          "name": "Udon-Packungen, frisch oder gefroren",
           "note": null
         },
         "tofu_fermo_sbriciolato_a_mano": {
-          "name": "Tofu fermo sbriciolato a mano",
+          "name": "Tofu still von Hand zerbröckelt",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Daikonwurzel in Scheiben",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Karotte a mezzaluna",
+          "name": "Karotte mit Halbmond",
           "note": null
         },
         "funghi_shiitake_reidratati_e_affettati": {
-          "name": "Shiitake Pilze reidratati e affettati",
+          "name": "Shiitake-Pilz, rehydriert und aufgeschnitten",
           "note": null
         },
         "brodo_kombu_dashi": {
-          "name": "Brühe kombu dashi (vegetariano)",
+          "name": "Kombu Dashi (vegetarische Brühe)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -354,48 +407,56 @@
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         },
-        "erba_cipollina_e_shichimi_togarashi": {
-          "name": "Erba cipollina e shichimi togarashi",
+        "erba_cipollina_e_shichimi_togarashi_1_erba_cipollina": {
+          "name": "Schnittlauch",
+          "note": null
+        },
+        "erba_cipollina_e_shichimi_togarashi_2_shichimi_togarashi": {
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schütte den Tofu und zerbröckle ihn grob; schneide Daikon, Karotte und Shiitake in Stücke ähnlicher Größe.",
+        "step_2": "Erhitzt Sesamöl in Kasserolle und rostet Tofu, bis einige Teile Farbe bekommen.",
+        "step_3": "Fügen Sie Daikon, Karotte und Shiitake hinzu und springen Sie für ca. 3 Minuten.",
+        "step_4": "Das Kombu-Dashi zugießen, leicht aufkochen lassen und zugedeckt etwa 8–10 Minuten garen, bis das Wurzelgemüse weich ist.",
+        "step_5": "Würze mit Sojasoße und Mirin und probiere die Brühe, bevor du noch mehr Salz hinzufügst.",
+        "step_6": "Die Udon-Nudeln im separaten Topf für die angegebene Zeit garen, gründlich abgießen und auf die Schüsseln verteilen.",
+        "step_7": "Gieße mit Tofu und Gemüse über die Suppe.",
+        "step_8": "Komplett mit Schnittlauch und togarashi Schichimi und serviert sehr heiß."
       }
     },
     "pt": {
-      "title": "Kenchin Udon",
-      "description": "Uma versão prática de Kenchin Udon para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer, Yuru Camp△. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kenchin udon — sopa budista de udon com tofu e raízes",
+      "description": "O Kenchin Udon é uma sopa de udon com tofu desmoronado e raízes como daikon e cenoura no caldo de kombu. Os vegetais são cozidos na base, enquanto os noodles são fervidos separadamente e unidos nas tigelas de serviço. Os udon são fervidos separadamente e cobertos com sopa com tofu e raízes, completados por cebola e shichimi.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer, Yuru Camp△. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "confezioni_di_udon_freschi_o_congelati": {
-          "name": "Confezioni di udon fresco o congelati",
+          "name": "Pacotes de Udon frescos ou congelados",
           "note": null
         },
         "tofu_fermo_sbriciolato_a_mano": {
-          "name": "Tofu fermo sbriciolato a mano",
+          "name": "a firma tofu desmoronou à mão",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Fatias de raízes de Daikon",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Cenoura a mezzaluna",
+          "name": "cenoura a crescente",
           "note": null
         },
         "funghi_shiitake_reidratati_e_affettati": {
-          "name": "Shiitake cogumelos reidratati e affettati",
+          "name": "Cogumelos Shiitake rehidratados e cortados",
           "note": null
         },
         "brodo_kombu_dashi": {
-          "name": "Caldo kombu dashi (vegetariano)",
+          "name": "Cofre Kombu Dashi (vegetário)",
           "note": null
         },
         "salsa_di_soia": {
@@ -403,23 +464,31 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         },
-        "erba_cipollina_e_shichimi_togarashi": {
-          "name": "Erba cipollina e shichimi togarashi",
+        "erba_cipollina_e_shichimi_togarashi_1_erba_cipollina": {
+          "name": "cebolinha",
+          "note": null
+        },
+        "erba_cipollina_e_shichimi_togarashi_2_shichimi_togarashi": {
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Esgote o tofu e desfaça- o grossamente; corte o daikon, a cenoura e o shiitake em pedaços de tamanho semelhante.",
+        "step_2": "Aqueça o óleo de sésamo em uma panela e marrom o tofu até que algumas partes tenham cor.",
+        "step_3": "Adicione daikon, cenoura e shiitake e salte por cerca de 3 minutos.",
+        "step_4": "Despeje o dashi kombu, leve à luz e cozinhe coberto por cerca de 8-10 minutos, até que as raízes estejam tenras.",
+        "step_5": "Sazonar com molho de soja e mirin e saborear o caldo antes de adicionar mais sal.",
+        "step_6": "Cozinhe o udon em um pote separado para o tempo necessário, drene bem e distribua- os nas tigelas.",
+        "step_7": "Verter sobre a sopa com tofu e legumes.",
+        "step_8": "Completo com cebola e shichimi togarashi e servir muito quente."
       }
     }
   }
