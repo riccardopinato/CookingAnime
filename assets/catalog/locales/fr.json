@@ -7683,7 +7683,7 @@
     },
     "recipe_000153": {
       "title": "Tori tsukune — boulettes de poulet grillées, sauce tare et jaune d’œuf",
-      "description": "Les Tori Tsukune sont des brochettes de poulet moulues avec un oignon et du gingembre, façonnées et grillées avant d'être glaciées avec de la sauce. La recette propose un jaune d'œuf pour tremper: ce mode de service nécessite un contrôle de sécurité alimentaire et un ingrédient approprié. Le glaçage enroule les boulettes de poulet cuites; le jaune d'oeuf éventuel nécessite une aptitude vérifiée à la consommation sans cuisson.",
+      "description": "Les tori tsukune sont des boulettes allongées de poulet haché, cébettes et gingembre, façonnées sur des brochettes, cuites à la poêle puis laquées avec une sauce tare à base de soja, mirin, saké et sucre. Faites cuire le poulet à au moins 74 °C à cœur. Si vous proposez un jaune d'œuf en sauce, utilisez uniquement un jaune pasteurisé adapté à la consommation sans cuisson, jamais un jaune cru non pasteurisé.",
       "animeContext": "Cette recette s'inspire librement de Food Wars!, Midnight Diner. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "macinato_di_pollo": {
@@ -7691,7 +7691,7 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "oignons hachés finement",
+          "name": "cébettes finement émincées",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
