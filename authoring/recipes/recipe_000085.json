@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000085",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -56,8 +56,8 @@
     },
     {
       "id": "sciroppo_di_zucchero_nero_giapponese",
-      "quantity": null,
-      "unit": null
+      "quantity": 3,
+      "unit": "tbsp"
     }
   ],
   "steps": [
@@ -71,50 +71,65 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 420
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Warabi Mochi",
-      "description": "A home-friendly Warabi Mochi that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer, Samurai Champloo. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Warabi Mochi — translucent sweets with kinako and kuromitsu",
+      "description": "Warabi Mochi is a sweet with a gelatinous consistency obtained by heating water, sugar and starch until they become translucent. After cooling it is cut into cubes and completed with toasted kinako and kuromitsu syrup. The hot mass is cooled in frozen water and divided into cubes, which receive kinako and kuromitsu only after being drained.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer, Samurai Champloo. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_di_warabimochi": {
-          "name": "Flour di warabimochi (o amido di tapioca/potatoes)",
+          "name": "Warabimochi flour (or tavolic starch/potatoes)",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "d_acqua": {
-          "name": "D'water",
+          "name": "water",
           "note": null
         },
         "farina_di_soia_tosta": {
-          "name": "Flour di soia tosta (kinako)",
+          "name": "Toasted soya flour (Kinako)",
           "note": null
         },
         "sciroppo_di_zucchero_nero_giapponese": {
-          "name": "Sciroppo di sugar black giapponese (kuromitsu)",
+          "name": "Japanese black sugar syrup (Kuromitsu)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "Put Warabimochi flour, sugar and water in a non-stick saucepan until the starch melts completely without lumps.",
+        "step_2": "Put the saucepan on medium-low heat and mix continuously with a silicone spatula.",
+        "step_3": "The mixture will pass from opaque white liquid to a transparent, glossy and very elastic gelled mass (about 5-7 minutes).",
+        "step_4": "Prepare a large bowl with water and ice cubes.",
+        "step_5": "Transfer the hot gelatinous mixture to a spoonful of ice water to make it firm and cool instantly.",
+        "step_6": "Break or cut the cold gelatinous mixture into translucent cubes with your hands directly into cold water.",
+        "step_7": "Drain the cubes of Warabi Mochi, place them on the saucers and dust thoroughly with Kinako flour and flows of sweet Kuromitsu syrup."
       }
     },
     "it": {
       "title": "Warabi Mochi (Mochi Trasparente con Kinako e Kuromitsu)",
-      "description": "Un Warabi Mochi (Mochi Trasparente con Kinako e Kuromitsu) casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "description": "Il Warabi Mochi è un dolce dalla consistenza gelatinosa ottenuto scaldando acqua, zucchero e amido fino a farli diventare traslucidi. Dopo il raffreddamento si taglia a cubetti e si completa con kinako tostato e sciroppo kuromitsu. La massa calda viene raffreddata nell'acqua ghiacciata e divisa in cubi, che ricevono kinako e kuromitsu solo dopo essere stati scolati.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer, Samurai Champloo. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "farina_di_warabimochi": {
@@ -126,7 +141,7 @@
           "note": null
         },
         "d_acqua": {
-          "name": "d'acqua",
+          "name": "acqua",
           "note": null
         },
         "farina_di_soia_tosta": {
@@ -139,85 +154,94 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, metti in un pentolino antiaderente amalgama a freddo la farina di Warabimochi, lo zucchero e l'acqua finché l'amido si scioglie completamente senza grumi.",
-        "step_2": "Prosegui così: pon il pentolino su fuoco medio-basso e amalgama continuamente con una spatola di silicone. Il composto passera da liquido bianco opaco a una massa gelificata trasparente, lucida e molto elastica (circa 5-7 minuti).",
-        "step_3": "Nella fase successiva, prepara una ciotola grande con acqua e cubetti di ghiaccio. Trasferisci il composto gelatinoso caldo a cucchiaiate nell'acqua ghiacciata per farlo rassodare e raffreddare istantaneamente. Spezza o taglia il composto gelatinoso freddo a cubotti traslucidi con le mani direttamente nell'acqua fredda.",
-        "step_4": "Per completare, scola i cubi di Warabi Mochi, sistemali sui piattini e spolvera abbondantemente con la farina Kinako e colate di sciroppo Kuromitsu dolce."
+        "step_1": "Metti in un pentolino antiaderente amalgama a freddo la farina di Warabimochi, lo zucchero e l'acqua finché l'amido si scioglie completamente senza grumi.",
+        "step_2": "Pon il pentolino su fuoco medio-basso e amalgama continuamente con una spatola di silicone.",
+        "step_3": "Il composto passera da liquido bianco opaco a una massa gelificata trasparente, lucida e molto elastica (circa 5-7 minuti).",
+        "step_4": "Prepara una ciotola grande con acqua e cubetti di ghiaccio.",
+        "step_5": "Trasferisci il composto gelatinoso caldo a cucchiaiate nell'acqua ghiacciata per farlo rassodare e raffreddare istantaneamente.",
+        "step_6": "Spezza o taglia il composto gelatinoso freddo a cubotti traslucidi con le mani direttamente nell'acqua fredda.",
+        "step_7": "Scola i cubi di Warabi Mochi, sistemali sui piattini e spolvera abbondantemente con la farina Kinako e colate di sciroppo Kuromitsu dolce."
       }
     },
     "es": {
-      "title": "Warabi Mochi",
-      "description": "Una versión práctica de Warabi Mochi para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Samurai Champloo. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Warabi mochi — dulces translúcidos con kinako y kuromitsu",
+      "description": "El Warabi Mochi es un postre de consistencia gelatinosa obtenido calentando agua, azúcar y almidón hasta que se convierten en translúcidos. Después de la refrigeración se corta en cubos y se completa con kinako tostado y jarabe kuromitsu. La masa caliente se enfría en el agua helada y se divide en cubos, que reciben kinako y kuromitsu sólo después de haber sido escurridos.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Samurai Champloo. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_di_warabimochi": {
-          "name": "Harina di warabimochi (o amido di tapioca/patatas)",
+          "name": "harina de Warabimochi (o almidón de tapioca/papate)",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "d_acqua": {
-          "name": "D'agua",
+          "name": "Agua",
           "note": null
         },
         "farina_di_soia_tosta": {
-          "name": "Harina di soia tosta (kinako)",
+          "name": "harina de soja dura (Kinako)",
           "note": null
         },
         "sciroppo_di_zucchero_nero_giapponese": {
-          "name": "Sciroppo di azúcar negro giapponese (kuromitsu)",
+          "name": "jarabe de azúcar negro japonés (Kuromitsu)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Pon en una olla antiadherente amalgama en frío la harina de Warabimochi, el azúcar y el agua hasta que el almidón se derrita completamente sin grumos.",
+        "step_2": "Pon la olla sobre fuego medio-bajo y amalgama continuamente con una espátula de silicona.",
+        "step_3": "El compuesto pasa de líquido blanco mate a una masa gelificada transparente, brillante y muy elástica (aproximadamente 5-7 minutos).",
+        "step_4": "Prepara un tazón grande con agua y cubitos de hielo.",
+        "step_5": "Transfiera el compuesto gelatinoso caliente a cucharadas al agua helada para que se enfríe y se enfríe instantáneamente.",
+        "step_6": "Rompe o corta el compuesto gelatinoso frío a cubos translúcidos con las manos directamente en el agua fría.",
+        "step_7": "Escurrir los cubos de Warabi Mochi, colocarlos en los platillos y espolvorear abundantemente con la harina de Kinako y la cola de jarabe de Kuromitsu dulce."
       }
     },
     "fr": {
-      "title": "Warabi Mochi",
-      "description": "Une version pratique de Warabi Mochi à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer, Samurai Champloo. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Warabi mochi — bouchées translucides au kinako et au kuromitsu",
+      "description": "Le Warabi Mochi est un dessert à la consistance gélatineuse obtenu en réchauffant l'eau, le sucre et l'amidon jusqu'à ce qu'ils deviennent translucides. Après le refroidissement, il se coupe en cubes et se complète avec du kinako grillé et du sirop kuromitsu. La masse chaude est refroidie dans l'eau glacée et divisée en cubes, qui reçoivent kinako et kuromitsu seulement après avoir été décolleés.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer, Samurai Champloo. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_di_warabimochi": {
-          "name": "Farine di warabimochi (o amido di tapioca/pommes de terre)",
+          "name": "farine de Warabimochi (ou amidon de tapioca/patate)",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "d_acqua": {
-          "name": "D'eau",
+          "name": "eau",
           "note": null
         },
         "farina_di_soia_tosta": {
-          "name": "Farine di soia tosta (kinako)",
+          "name": "farine de soja grillée (Kinako)",
           "note": null
         },
         "sciroppo_di_zucchero_nero_giapponese": {
-          "name": "Sciroppo di sucre noir giapponese (kuromitsu)",
+          "name": "sirop de sucre noir japonais (Kuromitsu)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Mettez la farine de Warabimochi, le sucre et l'eau dans une marmite antiadhésive à froid jusqu'à ce que l'amidon se dissout complètement sans grumeaux.",
+        "step_2": "Pon la casserole sur le feu moyen à bas et amalgame continuellement avec une spatule en silicone.",
+        "step_3": "Le mélange passera d'un liquide blanc opaque à une masse glacée transparente, brillante et très élastique (environ 5 à 7 minutes).",
+        "step_4": "Préparez un grand bol avec de l'eau et des glaçons.",
+        "step_5": "Transférez le composé gélatineux chaud à la cuillère dans l'eau glacée pour le faire refroidir et refroidir instantanément.",
+        "step_6": "Il casse ou coupe le composé gélatineux froid avec des cubes translucides avec les mains directement dans l'eau froide.",
+        "step_7": "Égoutte les cubes de warabi mochi, répartis-les sur les assiettes et saupoudre généreusement de kinako et de sirop de kuromitsu."
       }
     },
     "de": {
-      "title": "Warabi Mochi",
-      "description": "Eine alltagstaugliche Version von Warabi Mochi für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Samurai Champloo inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Warabi Mochi – durchscheinende Süßspeise mit Kinako und Kuromitsu",
+      "description": "Der Warabi Mochi ist ein süßes Gelee-Sortiment, das durch Erhitzen von Wasser, Zucker und Stärke gewonnen wird, bis sie durchsichtig werden. Nach dem Abkühlen schneidet er sich in Würfel und ergänzt sich mit kinako geröstet und kuromitsu Sirup. Die warme Masse wird im eisigen Wasser abgekühlt und in Würfel geteilt, die nur nach dem Eintropfen Kinako und Kuromitsu erhalten.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Samurai Champloo inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_di_warabimochi": {
-          "name": "Mehl di warabimochi (o amido di tapioca/Kartoffeln)",
+          "name": "Warabimochimehl (oder Tapiokastärke/Kartoffelmehl)",
           "note": null
         },
         "zucchero": {
@@ -225,56 +249,62 @@
           "note": null
         },
         "d_acqua": {
-          "name": "D'Wasser",
+          "name": "Wasser",
           "note": null
         },
         "farina_di_soia_tosta": {
-          "name": "Mehl di soia tosta (kinako)",
+          "name": "Toastsojamehl (Kinako)",
           "note": null
         },
         "sciroppo_di_zucchero_nero_giapponese": {
-          "name": "Sciroppo di Zucker schwarz giapponese (kuromitsu)",
+          "name": "Japanischer schwarzer Zuckersirup (Kuromitsu)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Legen Sie Warabimochi Mehl, Zucker und Wasser kalt in einen klebrigen Amalgamtopf, bis sich die Stärke vollständig ohne Klumpen auflöst.",
+        "step_2": "Legen Sie den Topf auf mittlerem bis niedrigem Feuer und Amalgam kontinuierlich mit einem Silikonspachtel.",
+        "step_3": "Die Verbindung wird von einer undurchsichtigen, weißen Flüssigkeit zu einer durchsichtigen, glänzenden und sehr elastischen Gelmasse (ca. 5-7 Minuten) geleitet.",
+        "step_4": "Bereite eine große Schüssel mit Wasser und Eiswürfeln vor.",
+        "step_5": "Legen Sie die heiße Geleeverbindung in Löffel in das Eiswasser, um es sofort zu kühlen und abzukühlen.",
+        "step_6": "Brechen oder schneiden Sie die kalte Geleeverbindung in durchsichtige Würfel mit den Händen direkt im kalten Wasser.",
+        "step_7": "Schütte die Würfel von Warabi Mochi, setz sie auf die Untertassen und staube sie reichlich mit dem Mehl Kinako und mit dem süßen Kuromitsu Sirup."
       }
     },
     "pt": {
-      "title": "Warabi Mochi",
-      "description": "Uma versão prática de Warabi Mochi para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer, Samurai Champloo. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Warabi mochi — doces translúcidos com kinako e kuromitsu",
+      "description": "Warabi Mochi é um doce com uma consistência gelatinosa obtida por aquecimento de água, açúcar e amido até que eles se tornem translúcidos. Após o resfriamento é cortado em cubos e completado com kinako torrado e xarope de kuromitsu. A massa quente é resfriada em água congelada e dividida em cubos, que recebem kinako e kuromitsu apenas após serem drenados.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer, Samurai Champloo. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_di_warabimochi": {
-          "name": "Farinha di warabimochi (o amido di tapioca/batatas)",
+          "name": "Farinha de Warabimochi (ou amido/ potatos tavolicos)",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "d_acqua": {
-          "name": "D'água",
+          "name": "água",
           "note": null
         },
         "farina_di_soia_tosta": {
-          "name": "Farinha di soia tosta (kinako)",
+          "name": "Farinha de soja torrada (Kinako)",
           "note": null
         },
         "sciroppo_di_zucchero_nero_giapponese": {
-          "name": "Sciroppo di açúcar preto giapponese (kuromitsu)",
+          "name": "Xarope de açúcar preto japonês (Kuromitsu)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Coloque farinha, açúcar e água de Warabimochi numa panela antiadherente até que o amido derreta completamente sem grumos.",
+        "step_2": "Coloque a panela no fogo médio- baixo e misture continuamente com uma espátula de silicone.",
+        "step_3": "A mistura passará do líquido branco opaco para uma massa gelada transparente, brilhante e muito elástica (cerca de 5-7 minutos).",
+        "step_4": "Prepare uma tigela grande com água e cubos de gelo.",
+        "step_5": "Transferir a mistura gelatinosa quente para uma colher cheia de água gelada para torná- la firme e esfriar instantaneamente.",
+        "step_6": "Quebre ou corte a mistura gelatinosa fria em cubos translúcidos com as mãos diretamente em água fria.",
+        "step_7": "Esgote os cubos de Warabi Mochi, coloque- os nos discos e poeira bem com farinha de Kinako e fluxos de xarope de Kuromitsu doce."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000158",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "K-On!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 25,
   "cookMinutes": 30,
   "servings": 6,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -86,53 +86,73 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 1800
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Matcha Chiffon Cake",
-      "description": "A Japanese-style Matcha Chiffon Cake designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by K-On!, Cardcaptor Sakura. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Matcha Chiffon Cake — tall and airy green tea cake",
+      "description": "Matcha Chiffon Cake is a high and soft cake obtained by incorporating white meringue to a base of egg yolks, flour and green tea. It cooks in a non-burred mould and cools upside down to limit its collapse. The cake cools upside down in the unburred mold, a passage that supports the soft structure before disforming it.",
+      "animeContext": "This recipe is thematically inspired by K-On!, Cardcaptor Sakura. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "uovo": {
-          "name": "Egg (egg whites e tuorli separati)",
+          "name": "egg (separate egg yolks and egg yolks)",
           "note": null
         },
         "farina_per_dolci": {
-          "name": "Cake flour",
+          "name": "flour for desserts",
           "note": null
         },
         "polvere_di_te_verde_matcha_di_qualita": {
-          "name": "Polvere di tè verde matcha di qualità",
+          "name": "Quality Matcha Green Tea Powder",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sugar",
+          "name": "semolate sugar",
           "note": null
         },
         "olio_di_semi_di_arachidi": {
-          "name": "Neutral oil di arachidi",
+          "name": "peanut seed oil",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm water",
+          "name": "lukewarm water",
           "note": null
         },
         "cremor_tartaro": {
-          "name": "Cremor tartaro",
+          "name": "Cremor tartar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "In a bowl, mount the egg yolks with 20 g sugar.",
+        "step_2": "Combine seed oil and warm water while stirring.",
+        "step_3": "Slice the flour together with Matcha tea and embed the egg yolks with a whisk.",
+        "step_4": "In another well-cleaned bowl, mount the egg whites with the cream tartaro and the remaining sugar added in 3 shots, until you get a well firm and shiny meringue.",
+        "step_5": "Incorporate one third of the meringue into the compound to the matcha to make it more fluid, then gently combine the remaining meringue with movements from the bottom up.",
+        "step_6": "Pour the dough into the non-burred chiffon cake mold and gently level the surface.",
+        "step_7": "Cook in a static oven at 160°C for 30 minutes.",
+        "step_8": "Bake and turn the mold immediately on a bottle or on the appropriate support; let cool completely before deforming."
       }
     },
     "it": {
       "title": "Matcha Chiffon Cake (Torta Soffice e Alta al Tè Verde Matcha)",
-      "description": "Un Matcha Chiffon Cake (Torta Soffice e Alta al Tè Verde Matcha) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "La Matcha Chiffon Cake è una torta alta e soffice ottenuta incorporando meringa di albumi a una base di tuorli, farina e tè verde. Si cuoce in uno stampo non imburrato e si raffredda capovolta per limitarne il collasso. La torta si raffredda capovolta nello stampo non imburrato, un passaggio che sostiene la struttura soffice prima di sformarla.",
       "animeContext": "Questa ricetta è ispirata tematicamente a K-On!, Cardcaptor Sakura. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "uovo": {
@@ -165,174 +185,194 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, riunisci in una ciotola montare i tuorli con 20g di zucchero. Unire l'olio di semi e l'acqua tiepida continuando a amalgamare.",
-        "step_2": "Prosegui così: setacciare la farina insieme al tè Matcha ed incorporare al composto di tuorli con una frusta.",
-        "step_3": "Nella fase successiva, in un'altra ciotola ben pulita, montare gli albumi con il cremor tartaro ed il restante zucchero aggiunto in 3 riprese, fino ad ottenere una meringa ben ferma e lucida. Incorporare 1/3 della meringa nel composto al Matcha amalgamando per stemperare, poi unire la restante meringa delicatamente dal basso verso l'alto.",
-        "step_4": "Per completare, aggiungire nello stampo da Chiffon cake non imburrato. Cuocere in forno statico a 160°C per 30 minuti. Sfornare e capovolgere immediatamente lo stampo su una bottiglia lasciando raffreddare completamente prima di sformare."
+        "step_1": "In una ciotola, monta i tuorli con 20 g di zucchero.",
+        "step_2": "Unisci l'olio di semi e l'acqua tiepida continuando a mescolare.",
+        "step_3": "Setaccia la farina insieme al tè Matcha e incorpora al composto di tuorli con una frusta.",
+        "step_4": "In un'altra ciotola ben pulita, monta gli albumi con il cremor tartaro e il restante zucchero aggiunto in 3 riprese, fino a ottenere una meringa ben ferma e lucida.",
+        "step_5": "Incorpora un terzo della meringa nel composto al matcha per renderlo più fluido, poi unisci delicatamente la meringa restante con movimenti dal basso verso l'alto.",
+        "step_6": "Versa l'impasto nello stampo da chiffon cake non imburrato e livella delicatamente la superficie.",
+        "step_7": "Cuoci in forno statico a 160°C per 30 minuti.",
+        "step_8": "Sforna e capovolgi immediatamente lo stampo su una bottiglia o sull'apposito supporto; lascia raffreddare completamente prima di sformare."
       }
     },
     "es": {
-      "title": "Matcha Chiffon Cake",
-      "description": "Una versión práctica de Matcha Chiffon Cake para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en K-On!, Cardcaptor Sakura. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Matcha chiffon cake — bizcocho alto y esponjoso de té verde",
+      "description": "La Matcha Chiffon Cake es un pastel alto y suave obtenido incorporando merengue de clara de huevo a una base de yemas, harina y té verde. Se cocina en un molde no enburrido y se enfría al revés para limitar su colapso. El pastel se enfría al revés en el molde no enburrido, un pasaje que sostiene la estructura suave antes de deformarla.",
+      "animeContext": "Esta receta está inspirada temáticamente en K-On!, Cardcaptor Sakura. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "uovo": {
-          "name": "Huevo (huevo whites e tuorli separati)",
+          "name": "huevo (albúminas y yemas de huevo separadas)",
           "note": null
         },
         "farina_per_dolci": {
-          "name": "Cake harina",
+          "name": "harina para pasteles",
           "note": null
         },
         "polvere_di_te_verde_matcha_di_qualita": {
-          "name": "Polvere di tè verde matcha di qualità",
+          "name": "polvo de té verde Matcha de calidad",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated azúcar",
+          "name": "azúcar semilado",
           "note": null
         },
         "olio_di_semi_di_arachidi": {
-          "name": "Neutral aceite di arachidi",
+          "name": "aceite de semilla de cacahuete",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm agua",
+          "name": "Agua tibia",
           "note": null
         },
         "cremor_tartaro": {
-          "name": "Cremor tartaro",
+          "name": "cremor tártaro",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En un tazón, monta las yemas con 20 g de azúcar.",
+        "step_2": "Mezcla el aceite de semilla y el agua tibia y sigue mezclando.",
+        "step_3": "Colocar la harina junto con el té Matcha e incorpora a la mezcla de yemas con unas varillas.",
+        "step_4": "En otro tazón bien limpio, monta las claras con el cremor tártaro y el resto del azúcar añadido en 3 tomas, hasta obtener una merengue bien firme y brillante.",
+        "step_5": "Inserta un tercio del merengue en el compuesto con el matcha para hacerlo más fluido, luego une suavemente el merengue restante con movimientos desde abajo hacia arriba.",
+        "step_6": "Vierta la masa en el molde de chiffon cake no enburrido y nivela suavemente la superficie.",
+        "step_7": "Cocinar en horno estático a 160°C durante 30 minutos.",
+        "step_8": "Hornear y revertir inmediatamente el molde sobre una botella o sobre el soporte adecuado; dejar enfriar completamente antes de desformar."
       }
     },
     "fr": {
-      "title": "Matcha Chiffon Cake",
-      "description": "Une version pratique de Matcha Chiffon Cake à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par K-On!, Cardcaptor Sakura. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Chiffon cake au matcha — gâteau haut et aérien au thé vert",
+      "description": "La Matcha Chiffon Cake est un gâteau haut et doux obtenu par l'incorporation de meringue d'albums à une base de jaunes d'œufs, de farine et de thé vert. Elle se cuit dans un moule non beurré et se refroidit à l'envers pour en limiter l'effondrement. Le gâteau se refroidit dans le moule non beurré, un passage qui soutient la structure douce avant de la déformer.",
+      "animeContext": "Cette recette s'inspire librement de K-On!, Cardcaptor Sakura. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "uovo": {
-          "name": "Œuf (œuf whites e tuorli separati)",
+          "name": "œuf (albumes et jaunes d'œufs séparés)",
           "note": null
         },
         "farina_per_dolci": {
-          "name": "Cake farine",
+          "name": "farine de dessert",
           "note": null
         },
         "polvere_di_te_verde_matcha_di_qualita": {
-          "name": "Polvere di tè verde matcha di qualità",
+          "name": "poudre de thé vert Matcha de qualité",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sucre",
+          "name": "sucre en poudre, en granulés ou sous d'autres formes solides, d'une teneur en poids de matières grasses provenant du lait et d'une teneur en poids de matières grasses égale ou supérieure à 40% mais n'excédant pas 10%",
           "note": null
         },
         "olio_di_semi_di_arachidi": {
-          "name": "Neutral huile di arachidi",
+          "name": "Huile de graines d'arachide",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm eau",
+          "name": "eau tiède",
           "note": null
         },
         "cremor_tartaro": {
-          "name": "Cremor tartaro",
+          "name": "cremor tartare",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans un bol, montez les jaunes d'œufs avec 20 g de sucre.",
+        "step_2": "Combinez l'huile de graines et l'eau tiède en continuant à mélanger.",
+        "step_3": "Fouillez la farine avec le thé Matcha et incorporez le composé de jaunes d'œufs avec un fouet.",
+        "step_4": "Dans un autre bol bien propre, montez les blancs avec le crémor tartare et le reste du sucre ajouté en 3 prises, jusqu'à obtenir un meringue bien ferme et brillant.",
+        "step_5": "Il intègre un tiers de la meringue dans le composé au matcha pour le rendre plus fluide, puis combine délicatement le reste de la meringue avec des mouvements de bas en haut.",
+        "step_6": "Versez la pâte dans le moule de chiffon cake non beurré et nivelez doucement la surface.",
+        "step_7": "Faites cuire au four statique à 160°C pendant 30 minutes.",
+        "step_8": "Défoncez et retournez immédiatement le moule sur une bouteille ou sur le support approprié; laissez refroidir complètement avant de déformer."
       }
     },
     "de": {
-      "title": "Matcha Chiffon Cake",
-      "description": "Eine alltagstaugliche Version von Matcha Chiffon Cake für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von K-On!, Cardcaptor Sakura inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Matcha-Chiffon-Cake – hoher, luftiger Grünteekuchen",
+      "description": "Der Matcha Chiffon Cake ist ein hoher und weicher Kuchen, der durch das Zusammenfügen von Eiweißen auf einer Basis von Eigelb, Mehl und grünem Tee gewonnen wird. Er backt sich in einer ungebürsteten Form und kühlt sich umgedreht ab, um den Zusammenbruch zu begrenzen. Der Kuchen kühlt sich umgedreht in der ungebürsteten Form ab, eine Passage, die die weiche Struktur unterstützt, bevor sie formt.",
+      "animeContext": "Dieses Rezept ist thematisch von K-On!, Cardcaptor Sakura inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "uovo": {
-          "name": "Ei (Ei whites e tuorli separati)",
+          "name": "Ei (getrennte Alben und Eigelb)",
           "note": null
         },
         "farina_per_dolci": {
-          "name": "Cake Mehl",
+          "name": "Süßigkeitenmehl",
           "note": null
         },
         "polvere_di_te_verde_matcha_di_qualita": {
-          "name": "Polvere di tè verde matcha di qualità",
+          "name": "Qualität grüner Teepulver Matcha",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated Zucker",
+          "name": "Semolatzucker",
           "note": null
         },
         "olio_di_semi_di_arachidi": {
-          "name": "Neutral Öl di arachidi",
+          "name": "Erdnusssamenöl",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm Wasser",
+          "name": "lauwarmes Wasser",
           "note": null
         },
         "cremor_tartaro": {
-          "name": "Cremor tartaro",
+          "name": "Tartar-Cremor",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer Schüssel, heben Sie die Eigelb mit 20 g Zucker.",
+        "step_2": "Vermischen Sie Samenöl und warmes Wasser, indem Sie das Mischen fortsetzen.",
+        "step_3": "Das Mehl zusammen mit dem Matcha-Pulver sieben und mit einem Schneebesen unter die Eigelbmasse rühren.",
+        "step_4": "In einer anderen gut sauberen Schüssel, montieren Sie die Alben mit dem Tartar-Cremor und dem restlichen Zucker in 3 Drehungen, bis Sie eine gute, glänzende Meringa erhalten.",
+        "step_5": "Fügen Sie ein Drittel der Meringa in die Matcha-Verbindung ein, um sie flüssiger zu machen, dann fügen Sie den restlichen Meringa vorsichtig mit Bewegungen von unten nach oben ein.",
+        "step_6": "Gießen Sie den Teig in die Chiffon-Cake-Form unzerbrechlich und glätten Sie sanft die Oberfläche.",
+        "step_7": "Kochen Sie im statischen Ofen bei 160 °C für 30 Minuten.",
+        "step_8": "Drehen Sie die Form sofort auf eine Flasche oder auf den Träger und lassen Sie sie vor der Verformung vollständig abkühlen."
       }
     },
     "pt": {
-      "title": "Matcha Chiffon Cake",
-      "description": "Uma versão prática de Matcha Chiffon Cake para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por K-On!, Cardcaptor Sakura. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Chiffon cake de matcha — bolo alto e fofo de chá verde",
+      "description": "O bolo de Chiffon do Matcha é um bolo alto e macio obtido por incorporação de meringue branco a uma base de gemas de ovos, farinha e chá verde. Cozinha em um molde não arborizado e resfria de cabeça para baixo para limitar o seu colapso. O bolo esfria de cabeça para baixo no molde sem ervas, uma passagem que suporta a estrutura suave antes de desformá- la.",
+      "animeContext": "Esta receita inspira-se tematicamente em K-On!, Cardcaptor Sakura. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "uovo": {
-          "name": "Ovo (ovo whites e tuorli separati)",
+          "name": "ovo (separar gemas de ovo e gemas de ovo)",
           "note": null
         },
         "farina_per_dolci": {
-          "name": "Cake farinha",
+          "name": "farinha para sobremesas",
           "note": null
         },
         "polvere_di_te_verde_matcha_di_qualita": {
-          "name": "Polvere di tè verde matcha di qualità",
+          "name": "Pó de chá verde Matcha de qualidade",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated açúcar",
+          "name": "açúcar semolado",
           "note": null
         },
         "olio_di_semi_di_arachidi": {
-          "name": "Neutral óleo di arachidi",
+          "name": "Óleo de sementes de amendoim",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm água",
+          "name": "Água morna",
           "note": null
         },
         "cremor_tartaro": {
-          "name": "Cremor tartaro",
+          "name": "Tartar de CremorName",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa tigela, monte as gemas de ovo com 20 g de açúcar.",
+        "step_2": "Combine óleo de sementes e água morna enquanto mexe.",
+        "step_3": "Corte a farinha junto com o chá Matcha e incorpore as gemas de ovo com um batido.",
+        "step_4": "Em outra tigela bem limpa, monte as claras de ovo com o tartaro creme e o açúcar restante adicionado em 3 doses, até que você obtenha uma meringue bem firme e brilhante.",
+        "step_5": "Incorpore um terço da meringue no composto à matcha para torná- la mais fluida, depois combine suavemente a meringue restante com movimentos de baixo para cima.",
+        "step_6": "Despeje a massa no molde do bolo de chiffon não embalado e nivele suavemente a superfície.",
+        "step_7": "Cozinhe em um forno estático a 160°C por 30 minutos.",
+        "step_8": "Retire do forno e vire imediatamente a forma sobre uma garrafa ou sobre o suporte apropriado. Deixe arrefecer completamente antes de desenformar."
       }
     }
   }

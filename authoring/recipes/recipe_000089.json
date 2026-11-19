@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000089",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 20,
   "servings": 6,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -62,50 +62,70 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 900
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 600
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Botamochi / Ohagi",
-      "description": "A home-friendly Botamochi / Ohagi that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer, Fruits Basket. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Botamochi / Ohagi — glutinous rice sweets with anko",
+      "description": "The Botamochi, also called Ohagi, combines glutinous rice and Japanese rice in hand-modeled bites. The anko red bean paste is distributed around or inside the rice, and the sweets serve at room temperature. The anko is flattened on film before wrapping the rice, so each botamochi keeps the rice filling in the middle.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer, Fruits Basket. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "riso_glutinoso_per_dolci": {
-          "name": "Rice glutinoso per dolci (mochigome)",
+          "name": "Gluteny rice for sweets (Mochigome)",
           "note": null
         },
         "riso_per_sushi_normale": {
-          "name": "Sushi rice normale (koshihikari)",
+          "name": "rice for normal sushi (Koshihikari)",
           "note": null
         },
         "marmellata_di_fagioli_rossi_anko": {
-          "name": "Marmellata di red beans anko (anko schiacciato/tsubuan)",
+          "name": "Anko red bean jam (Anko squashed/Tsubuan)",
           "note": null
         },
         "farina_kinako_o_semi_di_sesamo_neri_tostati": {
-          "name": "Flour kinako o sesame seeds neri tostati (opzionale per varianti)",
+          "name": "Kinako flour or toasted black sesame seeds (optional for variants)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "Wash the glutinous rice and the normal rice together until the water becomes clear.",
+        "step_2": "Cook in a rice cooker or a saucepan with 280 ml of water; if using a saucepan, simmer for 15 minutes from the boil.",
+        "step_3": "Leave to rest covered for 10 minutes.",
+        "step_4": "With a wooden pestle (Kine) or a spoon, it crushes the hot rice in the pot until the grains are partially discarded and the mixture becomes sticky and compact (without reducing it completely to mashed potatoes).",
+        "step_5": "Divide rice into 6 oval portions with moist hands.",
+        "step_6": "Take a portion of Anko red bean jam (about 40g), flatten it on the palm of your hand protected by transparent film.",
+        "step_7": "Place the rice oval in the middle of Anko's dough and wrap the Anko all around the rice by helping you with the film until it is completely covered.",
+        "step_8": "Serve at room temperature."
       }
     },
     "it": {
       "title": "Botamochi / Ohagi (Mochi di Riso Glutinoso con Anko)",
-      "description": "Un Botamochi / Ohagi (Mochi di Riso Glutinoso con Anko) casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "description": "Il Botamochi, chiamato anche Ohagi, combina riso glutinoso e riso giapponese in bocconi modellati a mano. La pasta dolce di fagioli rossi anko viene distribuita intorno o all’interno del riso, e i dolcetti si servono a temperatura ambiente. L'anko viene appiattito su pellicola prima di avvolgere il riso, così ogni botamochi mantiene il ripieno di riso al centro.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer, Fruits Basket. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "riso_glutinoso_per_dolci": {
@@ -126,126 +146,146 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, lava insieme il riso glutinoso e il riso normale finché l'acqua diventa limpida. Lascia cuocere nel lascia cuocereriso o in pentola con 280ml d'acqua per 15 minuti dal bollore. Lascia riposare coperto per 10 minuti.",
-        "step_2": "Prosegui così: con un pestello di legno (Kine) o un cucchiaio schiaccia il riso caldo nella pentola finché i chicchi sono parzialmente disfatti e il composto diventa appiccicoso e compatto (senza ridurlo completamente a purè).",
-        "step_3": "Nella fase successiva, dividi il riso in 6 porzioni ovali con le mani inumidite. Prendi una porzione di marmellata di fagioli rossi Anko (circa 40g), appiattiscila sul palmo della mano protetto da pellicola trasparente.",
-        "step_4": "Per completare, posiziona l'ovale di riso al centro della pasta di Anko e avvolgi l'Anko tutt'intorno al riso aiutandoti con la pellicola fino a ricoprirlo completamente. Porta in tavolare a temperatura ambiente."
+        "step_1": "Lava insieme il riso glutinoso e il riso normale finché l'acqua diventa limpida.",
+        "step_2": "Cuoci nel cuociriso o in pentola con 280 ml d'acqua per 15 minuti dal bollore.",
+        "step_3": "Lascia riposare coperto per 10 minuti.",
+        "step_4": "Con un pestello di legno (Kine) o un cucchiaio schiaccia il riso caldo nella pentola finché i chicchi sono parzialmente disfatti e il composto diventa appiccicoso e compatto (senza ridurlo completamente a purè).",
+        "step_5": "Dividi il riso in 6 porzioni ovali con le mani inumidite.",
+        "step_6": "Prendi una porzione di marmellata di fagioli rossi Anko (circa 40g), appiattiscila sul palmo della mano protetto da pellicola trasparente.",
+        "step_7": "Posiziona l'ovale di riso al centro della pasta di Anko e avvolgi l'Anko tutt'intorno al riso aiutandoti con la pellicola fino a ricoprirlo completamente.",
+        "step_8": "Servi a temperatura ambiente."
       }
     },
     "es": {
-      "title": "Botamochi / Ohagi",
-      "description": "Una versión práctica de Botamochi / Ohagi para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Fruits Basket. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Botamochi / ohagi — dulces de arroz glutinoso con anko",
+      "description": "El Botamochi, también llamado Ohagi, combina arroz glutinoso y arroz japonés en bocados moldeados a mano. La pasta dulce de frijoles rojos anko se distribuye alrededor o dentro del arroz, y los dulces se sirven a temperatura ambiente. El anko se aplana en película antes de envolver el arroz, por lo que cada botamochi mantiene el relleno de arroz en el centro.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Fruits Basket. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "riso_glutinoso_per_dolci": {
-          "name": "Arroz glutinoso per dolci (mochigome)",
+          "name": "arroz glutinoso para pasteles (Mochigome)",
           "note": null
         },
         "riso_per_sushi_normale": {
-          "name": "Sushi arroz normale (koshihikari)",
+          "name": "arroz para sushi normal (Koshihikari)",
           "note": null
         },
         "marmellata_di_fagioli_rossi_anko": {
-          "name": "Marmellata di rojo beans anko (anko schiacciato/tsubuan)",
+          "name": "mermelada de frijoles rojos Anko (Anko aplastado/Tsubuan)",
           "note": null
         },
         "farina_kinako_o_semi_di_sesamo_neri_tostati": {
-          "name": "Harina kinako o semillas de sésamo neri tostati (opzionale per varianti)",
+          "name": "harina Kinako o semillas de sésamo negra tostadas (opcional para variantes)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Lava juntos el arroz glutinoso y el arroz normal hasta que el agua se límpie.",
+        "step_2": "Cuece el arroz en una arrocera o en una olla con 280 ml de agua durante 15 minutos desde que empiece a hervir.",
+        "step_3": "Deja reposar durante 10 minutos.",
+        "step_4": "Con un palillo de madera (Kine) o una cucharada aplasta el arroz caliente en la olla hasta que los granos están parcialmente deshechos y el compuesto se vuelve pegajoso y compacto (sin reducirlo completamente a puré).",
+        "step_5": "Divide el arroz en 6 porciones ovaladas con las manos húmedas.",
+        "step_6": "Toma una porción de mermelada de alubias rojas Anko (cerca de 40g), aplanala en la palma de la mano protegida con película transparente.",
+        "step_7": "Pon el oval de arroz en el centro de la pasta de Anko y envuelve el Anko alrededor del arroz ayudándote con la película hasta cubrirlo completamente.",
+        "step_8": "Sirve a temperatura ambiente."
       }
     },
     "fr": {
-      "title": "Botamochi / Ohagi",
-      "description": "Une version pratique de Botamochi / Ohagi à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer, Fruits Basket. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Botamochi / ohagi — gâteaux de riz gluant à l’anko",
+      "description": "Le Botamochi, également appelé Ohagi, combine du riz à base de riz et du riz japonais en bouchées modelées à la main. La pâte douce de haricots rouges anko est distribuée autour ou à l'intérieur du riz, et les bonbons sont utilisés à température ambiante. L'anko est aplati sur le film avant d'envelopper le riz, de sorte que chaque botamochi maintient la farce de riz au centre.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer, Fruits Basket. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "riso_glutinoso_per_dolci": {
-          "name": "Riz glutinoso per dolci (mochigome)",
+          "name": "riz à base de riz (Mochigome) pour dessert",
           "note": null
         },
         "riso_per_sushi_normale": {
-          "name": "Sushi riz normale (koshihikari)",
+          "name": "Riz pour sushis normal (Koshihikari)",
           "note": null
         },
         "marmellata_di_fagioli_rossi_anko": {
-          "name": "Marmellata di rouge beans anko (anko schiacciato/tsubuan)",
+          "name": "confiture de haricots rouges Anko (Anko écrasé/Tsubuan)",
           "note": null
         },
         "farina_kinako_o_semi_di_sesamo_neri_tostati": {
-          "name": "Farine kinako o graines de sésame neri tostati (opzionale per varianti)",
+          "name": "farine Kinako ou graines de sésame noir grillées (en option pour les variantes)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Lave ensemble le riz à base d'glutinos et le riz normal jusqu'à ce que l'eau devienne claire.",
+        "step_2": "Fais cuire le riz au cuiseur à riz ou dans une casserole avec 280 ml d’eau pendant 15 minutes à partir de l’ébullition.",
+        "step_3": "Laissez reposer couvert pendant 10 minutes.",
+        "step_4": "Avec un pilon en bois (Kine) ou une cuillère à soupe écrase le riz chaud dans la marmite jusqu'à ce que les grains soient partiellement défaits et le composé devient collant et compact (sans le réduire complètement à la purée).",
+        "step_5": "Diviser le riz en 6 portions ovales avec les mains humides.",
+        "step_6": "Prenez une portion de confiture de haricots rouges Anko (environ 40g), aplatissez-la sur la paume de la main protégée par un film transparent.",
+        "step_7": "Placez l'ovale de riz au centre de la pâte d'Anko et enveloppez l'Anko tout autour du riz en vous aidant avec le film jusqu'à le couvrir complètement.",
+        "step_8": "Servez-vous à température ambiante."
       }
     },
     "de": {
-      "title": "Botamochi / Ohagi",
-      "description": "Eine alltagstaugliche Version von Botamochi / Ohagi für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Fruits Basket inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Botamochi / Ohagi – Klebreis-Süßspeise mit Anko",
+      "description": "Der Botamochi, auch Ohagi genannt, kombiniert glutinöser Reis und japanischer Reis in handgefertigten Bissen. Die süße Pasta aus ankoroten Bohnen wird um oder innerhalb des Reiss verteilt, und die Süßigkeiten werden bei Raumtemperatur verwendet. Der Anko wird auf dem Film abgeflacht, bevor der Reis gewickelt wird, so dass jeder Botamochi die Reisfüllung in der Mitte hält.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Fruits Basket inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "riso_glutinoso_per_dolci": {
-          "name": "Reis glutinoso per dolci (mochigome)",
+          "name": "Muskatnussreis (Mochigome)",
           "note": null
         },
         "riso_per_sushi_normale": {
-          "name": "Sushi Reis normale (koshihikari)",
+          "name": "Reis für normale Sushi (Koshihikari)",
           "note": null
         },
         "marmellata_di_fagioli_rossi_anko": {
-          "name": "Marmellata di rot beans anko (anko schiacciato/tsubuan)",
+          "name": "Rote Bohnenmarmelade Anko (Anko zerquetscht/Tsubuan)",
           "note": null
         },
         "farina_kinako_o_semi_di_sesamo_neri_tostati": {
-          "name": "Mehl kinako o Sesamsamen neri tostati (opzionale per varianti)",
+          "name": "Kinako- oder Sesamsamenmehl, geröstet (optional für Varianten)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Läsen Sie glutinösen und normalen Reis zusammen, bis das Wasser klar wird.",
+        "step_2": "Den Reis im Reiskocher oder in einem Topf mit 280 ml Wasser ab dem Aufkochen 15 Minuten garen.",
+        "step_3": "Lassen Sie 10 Minuten überdacht ruhen.",
+        "step_4": "Mit einer Holzplage (Kine) oder einem Löffel zerquetscht der heiße Reis im Topf, bis die Körner teilweise defekt sind und die Verbindung klebrig und kompakt wird (ohne sie vollständig auf Püree zu reduzieren).",
+        "step_5": "Teilen Sie den Reis in 6 ovale Portionen mit befeuchteten Händen.",
+        "step_6": "Nehmen Sie eine Portion Anko rote Bohnen Marmelade (ca. 40g), glätten Sie sie auf der Handfläche durch transparenten Film geschützt.",
+        "step_7": "Legen Sie das Oval von Reis in die Mitte der Pasta von Anko und wickeln Sie das Anko rund um den Reis, indem Sie sich mit dem Film bis zu seiner vollständigen Abdeckung helfen.",
+        "step_8": "Servieren Sie bei Raumtemperatur."
       }
     },
     "pt": {
-      "title": "Botamochi / Ohagi",
-      "description": "Uma versão prática de Botamochi / Ohagi para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer, Fruits Basket. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Botamochi / ohagi — doces de arroz glutinoso com anko",
+      "description": "O Botamochi, também chamado Ohagi, combina arroz glutinoso e arroz japonês em mordidas modeladas à mão. A pasta de feijão vermelho anko é distribuída ao redor ou dentro do arroz, e os doces servem à temperatura ambiente. O anko é aplanado no filme antes de embrulhar o arroz, então cada botamochi mantém o preenchimento do arroz no meio.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer, Fruits Basket. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "riso_glutinoso_per_dolci": {
-          "name": "Arroz glutinoso per dolci (mochigome)",
+          "name": "Arroz de glúten para doces (Mochigome)",
           "note": null
         },
         "riso_per_sushi_normale": {
-          "name": "Sushi arroz normale (koshihikari)",
+          "name": "arroz para sushi normal (Koshihikari)",
           "note": null
         },
         "marmellata_di_fagioli_rossi_anko": {
-          "name": "Marmellata di vermelho beans anko (anko schiacciato/tsubuan)",
+          "name": "Jam de feijão vermelho Anko (Anko esmagado/Tsubuan)",
           "note": null
         },
         "farina_kinako_o_semi_di_sesamo_neri_tostati": {
-          "name": "Farinha kinako o sementes de sésamo neri tostati (opzionale per varianti)",
+          "name": "Farinha de Kinako ou sementes de sésamo preto torradas (opcional para variantes)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Lave o arroz glutinoso e o arroz normal juntos até que a água fique clara.",
+        "step_2": "Coza o arroz numa panela elétrica de arroz ou numa panela com 280 ml de água durante 15 minutos a partir do início da fervura.",
+        "step_3": "Deixe para descansar coberto por 10 minutos.",
+        "step_4": "Com um pilho de madeira (Kine) ou uma colher, ele esmaga o arroz quente no pote até que os grãos sejam parcialmente descartados e a mistura se torne pegajosa e compacta (sem reduzi- lo completamente ao purê de batatas).",
+        "step_5": "Dividir arroz em 6 porções ovais com mãos úmidas.",
+        "step_6": "Tome uma porção da geleia de feijão vermelho Anko (cerca de 40g), aplane- a na palma da mão protegida por filme transparente.",
+        "step_7": "Coloque o arroz oval no meio da massa do Anko e enrole o Anko ao redor do arroz, ajudando- o com o filme até que esteja completamente coberto.",
+        "step_8": "Servir à temperatura ambiente."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000133",
-  "contentVersion": 1,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "Fast Track 12/12: original recipe reconciled to full procedure and localized risk-specific corrections for IT/EN/ES/FR/DE/PT; FDA/FSIS/FSA and EU species evidence recorded in tool/fast_track_12_repairs.py.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 25,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -65,8 +65,13 @@
       "unit": "tbsp"
     },
     {
-      "id": "zenzero_schiacciato_e_1_spicchio_d_aglio",
+      "id": "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato",
       "quantity": 1,
+      "unit": "piece"
+    },
+    {
+      "id": "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio",
+      "quantity": 1.0,
       "unit": "piece"
     },
     {
@@ -75,7 +80,12 @@
       "unit": "ml"
     },
     {
-      "id": "uovo_marinato",
+      "id": "uovo_marinato_1_uovo_marinato_ajitsuke_tamago",
+      "quantity": 1,
+      "unit": "piece"
+    },
+    {
+      "id": "uovo_marinato_2_cipollotto_per_servire",
       "quantity": null,
       "unit": null
     }
@@ -95,21 +105,33 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 1200
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Tori Chashu Ramen",
-      "description": "A practical bowl of Tori Chashu Ramen, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Ramen Daisuki Koizumi-san. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tori Chashu Ramen — ramen topped with marinated chicken",
+      "description": "The Tori Chashu Ramen uses rolled and cooked chicken thigh in a marinade of soy sauce and aromas. The sliced chicken is placed on noodles and broth prepared separately, without confusing the cooking of the meat with the short time required by the pasta. The marinated chicken is left to cool and sliced before mounting with hot broth, noodles and marinated egg.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Ramen Daisuki Koizumi-san. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "noodles_per_ramen": {
-          "name": "Noodles per ramen",
+          "name": "noodles for Ramen",
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Sovracosce di chicken disossate con pelle",
+          "name": "bone-in chicken thighs with skin",
           "note": null
         },
         "salsa_di_soia": {
@@ -117,7 +139,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "mirin": {
@@ -125,32 +147,43 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "Ginger schiacciato e 1 spicchio d'garlic",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "crushed ginger",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "garlic clove",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Chicken broth leggero",
+          "name": "Light chicken broth",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Egg marinato (ajitsuke tamago) e spring onion for serving",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "marinated egg (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "spring onion, for serving",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Roll the chicken thigh with the skin on the outside and tie it tightly with kitchen spaghetti.",
+        "step_2": "Put in a saucepan, brown the roll of chicken on all sides.",
+        "step_3": "Combine soy sauce, sake, mirin, sugar, ginger and garlic.",
+        "step_4": "Cover and cook over low heat for 15-20 minutes by turning the chicken from time to time until the sauce thickens and glazes the meat. Before slicing the rolled chicken, verify with a food thermometer that the centre has reached at least 74°C (165°F); cook longer if necessary. Tie with kitchen twine, not edible spaghetti.",
+        "step_5": "Let the chicken cool and slice it with gold discs.",
+        "step_6": "Heat the chicken broth and adjust it to taste with 2 tablespoons of chicken cooking glaze.",
+        "step_7": "Cook the noodles for ramen, drain them into the bowl, add the broth and garnish with the slices of Tori Chashu, marinated egg in half and spring onion."
       }
     },
     "it": {
       "title": "Tori Chashu Ramen (Ramen con Pollo Marinato)",
-      "description": "Una versione pratica di Tori Chashu Ramen (Ramen con Pollo Marinato), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Tori Chashu Ramen utilizza sovracoscia di pollo arrotolata e cotta in una marinatura di salsa di soia e aromi. Il pollo affettato viene disposto sopra noodles e brodo preparati separatamente, senza confondere la cottura della carne con il breve tempo richiesto dalla pasta. Il pollo marinato viene lasciato raffreddare e affettato prima del montaggio con brodo caldo, noodles e uovo marinato.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Ramen Daisuki Koizumi-san. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "noodles_per_ramen": {
@@ -166,7 +199,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "mirin": {
@@ -177,37 +210,48 @@
           "name": "zucchero",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "zenzero schiacciato e 1 spicchio d'aglio",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "zenzero schiacciato",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "spicchio d'aglio",
           "note": null
         },
         "brodo_di_pollo_leggero": {
           "name": "brodo di pollo leggero",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Uovo marinato (Ajitsuke Tamago) e cipollotto per servire",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "uovo marinato (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "cipollotto per servire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, arrotola la sovracoscia di pollo con la pelle all'esterno e legala strettamente con spaghetto da cucina. Metti in un pentolino, rosola il rotolo di pollo su tutti i lati. Unisci salsa di soia, sake, mirin, zucchero, zenzero e aglio.",
-        "step_2": "Prosegui così: copri e lascia cuocere a fuoco basso per 15-20 minuti girando il pollo di tanto in tanto finché la salsa si addensa e glassa la carne.",
-        "step_3": "Nella fase successiva, lascia raffreddare il pollo e affettalo a dischi d'oro.",
-        "step_4": "Per completare, porta a temperatura il brodo di pollo e regolalo di sapore con 2 cucchiai della glassa di cottura del pollo. Lascia cuocere i noodles per ramen, scolali nella ciotola, aggiungi il brodo e guarnisci con le fette di Tori Chashu, uovo marinato a metà e cipollotto."
+        "step_1": "Arrotola la sovracoscia di pollo con la pelle all'esterno e legala strettamente con spaghetto da cucina.",
+        "step_2": "Metti in un pentolino, rosola il rotolo di pollo su tutti i lati.",
+        "step_3": "Unisci salsa di soia, sake, mirin, zucchero, zenzero e aglio.",
+        "step_4": "Copri e lascia cuocere a fuoco basso per 15-20 minuti girando il pollo di tanto in tanto finché la salsa si addensa e glassa la carne. Prima di affettare il rotolo di pollo, verifica con un termometro che il centro abbia raggiunto almeno 74 °C; prolunga la cottura se necessario. Usa spago da cucina, non spaghetti alimentari.",
+        "step_5": "Lascia raffreddare il pollo e affettalo a dischi d'oro.",
+        "step_6": "Scalda il brodo di pollo e regolalo di sapore con 2 cucchiai della glassa di cottura del pollo.",
+        "step_7": "Cuoci i noodles per ramen, scolali nella ciotola, aggiungi il brodo e guarnisci con le fette di Tori Chashu, uovo marinato a metà e cipollotto."
       }
     },
     "es": {
-      "title": "Tori Chashu Ramen",
-      "description": "Una versión práctica de Tori Chashu Ramen para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Ramen Daisuki Koizumi-san. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tori chashu ramen — ramen con pollo marinado",
+      "description": "El Tori Chashu Ramen utiliza sobrecosca de pollo enrollada y cocida en un marinado de salsa de soja y aromas. El pollo cortado se coloca sobre fideos y caldo preparados por separado, sin confundir la cocción de la carne con el corto tiempo requerido por la pasta. El pollo marinado se deja enfriar y cortar antes del montaje con caldo caliente, fideos y huevo marinado.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Ramen Daisuki Koizumi-san. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "noodles_per_ramen": {
-          "name": "Noodles per ramen",
+          "name": "fiodles para Ramen",
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Sovracosce di pollo disossate con pelle",
+          "name": "Sobre muslos de pollo deshuesado con piel",
           "note": null
         },
         "salsa_di_soia": {
@@ -215,7 +259,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "mirin": {
@@ -223,48 +267,59 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "Jengibre schiacciato e 1 spicchio d'ajo",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "jengibre aplastado",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "Racimos de ajo",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Pollo caldo leggero",
+          "name": "Caldo de pollo ligero",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Huevo marinato (ajitsuke tamago) e spring cebolla para servir",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "huevo marinado (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "cebolleta para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Enrolla la capa superior de pollo con la piel exterior y átala estrechamente con hilo de cocina.",
+        "step_2": "Ponlo en una olla, roda el rollo de pollo por todos lados.",
+        "step_3": "Combina salsa de soja, sake, mirin, azúcar, jengibre y ajo.",
+        "step_4": "Cubre y deja que se cocine a fuego bajo durante 15-20 minutos girando el pollo de vez en cuando hasta que la salsa se espese y glasee la carne. Antes de cortar el pollo enrollado, comprueba con un termómetro que el centro alcance al menos 74 °C; prolonga la cocción si hace falta. Ata con hilo de cocina, no con espaguetis.",
+        "step_5": "Deja que el pollo se enfríe y corta con discos de oro.",
+        "step_6": "Calienta el caldo de pollo y ajusta el sabor con 2 cucharadas del glaseado de la cocina del pollo.",
+        "step_7": "Cocine los fideos para ramen, escólelos en el tazón, añada el caldo y guárnelos con las rebanadas de Tori Chashu, huevo marinado a la mitad y cebolleta."
       }
     },
     "fr": {
-      "title": "Tori Chashu Ramen",
-      "description": "Une version pratique de Tori Chashu Ramen à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Ramen Daisuki Koizumi-san. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tori chashu ramen — ramen au poulet mariné",
+      "description": "Le Tori Chashu Ramen utilise une surpoussière de poulet roulé et cuit dans une marinade de sauce soja et arômes. Le poulet coupé est placé sur des nouilles et bouillons préparés séparément, sans confondre la cuisson de la viande avec le peu de temps requis par les pâtes. Le poulet mariné est laissé refroidir et coupé avant le montage avec bouillon chaud, nouilles et œuf mariné.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Ramen Daisuki Koizumi-san. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "noodles_per_ramen": {
-          "name": "Noodles per ramen",
+          "name": "noodles pour Ramen",
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Sovracosce di poulet disossate con pelle",
+          "name": "Succursales de poulet désossées avec peau",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "saké",
           "note": null
         },
         "mirin": {
@@ -272,48 +327,59 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "Gingembre schiacciato e 1 spicchio d'ail",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "gingembre écrasé",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "gousse d'ail",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Poulet bouillon leggero",
+          "name": "bouillon de poulet léger",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Œuf marinato (ajitsuke tamago) e spring oignon pour servir",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "œuf mariné (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "cébette pour servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Enroule la surpoussière de poulet avec la peau à l'extérieur et attache-la étroitement avec du spaghetti de cuisine.",
+        "step_2": "Mets dans une casserole, roule le rouleau de poulet de tous les côtés.",
+        "step_3": "Joignez de la sauce soja, du saké, de la mirin, du sucre, du gingembre et de l'ail.",
+        "step_4": "Couvrez et laissez cuire à faible feu pendant 15-20 minutes en tournant le poulet de temps en temps jusqu'à ce que la sauce épaisse et glaçage de la viande. Avant de trancher le poulet roulé, vérifiez au thermomètre que le centre a atteint au moins 74 °C ; prolongez la cuisson si nécessaire. Ficelez avec de la ficelle de cuisine.",
+        "step_5": "Laissez le poulet refroidir et tranchez-le avec des disques d'or.",
+        "step_6": "Chauffez le bouillon de poulet et régulez-le avec 2 cuillères à soupe de glaçage de poulet.",
+        "step_7": "Faites cuire les nouilles pour ramen, écollez-les dans le bol, ajoutez le bouillon et garnissez avec les tranches de Tori Chashu, œuf mariné au milieu et cébettes."
       }
     },
     "de": {
-      "title": "Tori Chashu Ramen",
-      "description": "Eine alltagstaugliche Version von Tori Chashu Ramen für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Ramen Daisuki Koizumi-san inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tori Chashu Ramen – Ramen mit mariniertem Hähnchen",
+      "description": "Der Tori Chashu Ramen verwendet Hähnchenüberknöpfe, gerollt und in einer Marinade von Soja-Sauce und Aromen gekocht. Das aufgeschnittene Huhn wird über Nudeln und Brühe getrennt gelegt, ohne das Kochen des Fleisches mit der kurzen Zeit zu verwechseln, die die Pasta benötigt. Das marinierte Huhn wird vor der Montage mit heißer Brühe, Nudeln und mariniertem Ei gekühlt und aufgeschnitten.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Ramen Daisuki Koizumi-san inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "noodles_per_ramen": {
-          "name": "Noodles per ramen",
+          "name": "noodles für Ramen",
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Sovracosce di Hähnchen disossate con pelle",
+          "name": "Hähnchenoberkeule entbeint mit Haut",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "mirin": {
@@ -324,37 +390,48 @@
           "name": "Zucker",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "Ingwer schiacciato e 1 spicchio d'Knoblauch",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "Ingwer zerquetscht",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "Knoblauchzehen",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Hähnchen Brühe leggero",
+          "name": "Leichte Hühnerbrühe",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Ei marinato (ajitsuke tamago) e spring Zwiebel zum Servieren",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "Mariniertes Ei (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "Frühlingszwiebel zum Servieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Drehen Sie die Hähnchenoberkeule mit der Haut nach außen und binden Sie sie fest mit Küchengarn.",
+        "step_2": "Legen Sie die Hähnchenrolle auf allen Seiten in einen Topf.",
+        "step_3": "Kombinieren Sie Sojasoße, Sake, Mirin, Zucker, Ingwer und Knoblauch.",
+        "step_4": "Bedecken Sie und lassen Sie das Huhn 15 bis 20 Minuten lang mit niedrigem Feuer backen, bis sich die Soße verdichtet und das Fleisch glasiert. Vor dem Aufschneiden des Hähnchenrollbratens mit einem Thermometer mindestens 74 °C Kerntemperatur prüfen; nötigenfalls länger garen. Küchengarn statt Spaghetti verwenden.",
+        "step_5": "Lass das Huhn abkühlen und schneide es in Goldscheiben.",
+        "step_6": "Erhitzen Sie die Hühnerbrühe und regulieren Sie sie mit 2 Esslöffeln Hühnerkocherglasur.",
+        "step_7": "Kochen Sie die Ramen-Nudeln, streuen Sie sie in die Schüssel, fügen Sie die Brühe und garnieren Sie mit den Scheiben von Tori Chashu, mariniertes Ei in der Mitte und Frühlingszwiebeln."
       }
     },
     "pt": {
-      "title": "Tori Chashu Ramen",
-      "description": "Uma versão prática de Tori Chashu Ramen para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Ramen Daisuki Koizumi-san. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tori chashu ramen — ramen com frango marinado",
+      "description": "O Tori Chashu Ramen usa overbone de frango enrolado e cozido em uma marinada de molho de soja e aromas. O frango cortado é colocado em macarrão e caldo preparados separadamente, sem confundir o cozimento da carne com o curto tempo necessário pela massa. O frango marinado é deixado para esfriar e cortado antes de montar com caldo quente, macarrão e ovo marinado.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Ramen Daisuki Koizumi-san. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "noodles_per_ramen": {
-          "name": "Noodles per ramen",
+          "name": "macarrão para Ramen",
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Sovracosce di frango disossate con pelle",
+          "name": "coxas de frango com pele",
           "note": null
         },
         "salsa_di_soia": {
@@ -362,7 +439,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "mirin": {
@@ -370,27 +447,38 @@
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "Gengibre schiacciato e 1 spicchio d'alho",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "ginger esmagado",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "dente de alho",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Frango caldo leggero",
+          "name": "caldo de frango leve",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Ovo marinato (ajitsuke tamago) e spring cebola para servir",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "Ovo marinado (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "cebola de rama para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Enrole a sobrecoxa de frango com a pele virada para fora e ate-a firmemente com fio de cozinha.",
+        "step_2": "Coloque em uma panela, marrom o rolo de galinha em todos os lados.",
+        "step_3": "Combine molho de soja, sake, mirin, açúcar, gengibre e alho.",
+        "step_4": "Cubra e cozinhe a fogo lento durante 15-20 minutos girando o frango de vez em quando até que o molho espesse e esmalte a carne. Antes de fatiar o rolo de frango, confirme com um termómetro que o centro atingiu pelo menos 74 °C; prolongue a cozedura se necessário. Ate com fio de cozinha.",
+        "step_5": "Deixe o frango esfriar e fatiá- lo com discos de ouro.",
+        "step_6": "Aqueça o caldo de frango e ajuste- o ao sabor com 2 colheres de sopa de esmalte de cozimento de frango.",
+        "step_7": "Cozinhe os macarrão para ramen, esgote- os na tigela, adicione o caldo e guarneça com as fatias de Tori Chashu, ovo marinado ao meio e cebola de rama."
       }
     }
   }

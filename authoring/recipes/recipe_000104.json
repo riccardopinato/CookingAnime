@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000104",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Kiki - Consegne a domicilio",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 25,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -56,8 +56,8 @@
     },
     {
       "id": "farina_00",
-      "quantity": null,
-      "unit": null
+      "quantity": 50,
+      "unit": "g"
     },
     {
       "id": "uovo_sbattuto",
@@ -66,11 +66,16 @@
     },
     {
       "id": "panko_giapponese",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "id": "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_1_olio_di_semi_per_friggere",
       "quantity": null,
       "unit": null
     },
     {
-      "id": "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser",
+      "id": "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_2_salsa_tonkatsu_per_servire",
       "quantity": null,
       "unit": null
     }
@@ -78,7 +83,7 @@
   "steps": [
     {
       "id": "step_1",
-      "timerSeconds": null
+      "timerSeconds": 900
     },
     {
       "id": "step_2",
@@ -91,57 +96,81 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kabocha Korokke",
-      "description": "A crisp Kabocha Korokke with a dry, well-set coating and a juicy or creamy center, cooked in controlled oil and served before the crust softens.",
-      "animeContext": "This recipe is thematically inspired by Kiki - Consegne a domicilio, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kabocha Korokke — Japanese pumpkin croquettes",
+      "description": "The Kabocha Korokke are Japanese pumpkin nuggets steamed and crushed, enriched with minced meat and onion. After forming and breading they are fried until gilding and served with tonkatsu sauce. The pumpkin is molded in croquettes, flour, egg and panko, then fried until you get a golden crust.",
+      "animeContext": "This recipe is thematically inspired by Kiki - Consegne a domicilio, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "zucca_giapponese_kabocha": {
-          "name": "Pumpkin giapponese kabocha (o delica) pulita",
+          "name": "Japanese pumpkin Kabocha (or Delica) clean",
           "note": null
         },
         "macinato_di_maiale_o_manzo": {
-          "name": "Macinato di pork o beef",
+          "name": "Ground pork or beef",
           "note": null
         },
         "cipolla_tritata_finemente": {
-          "name": "Onion finely chopped",
+          "name": "finely chopped onion",
           "note": null
         },
         "burro": {
-          "name": "Butter",
+          "name": "butter",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose flour",
+          "name": "Italian 00 flour",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Egg sbattuto",
+          "name": "egg beaten",
           "note": null
         },
         "panko_giapponese": {
-          "name": "Panko giapponese",
+          "name": "Japanese panko",
           "note": null
         },
-        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser": {
-          "name": "Neutral oil for frying e tonkatsu sauce for serving",
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_1_olio_di_semi_per_friggere": {
+          "name": "seed oil for frying",
+          "note": null
+        },
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_2_salsa_tonkatsu_per_servire": {
+          "name": "Tonkatsu sauce for serving",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the filling or main ingredient, season it evenly and dry or chill it as needed so the coating can adhere without slipping.",
-        "step_2": "Coat or batter the pieces in the stated order, keeping the outer layer light and even rather than pressing it into a dense shell.",
-        "step_3": "Fry in small batches at controlled temperature until the exterior is deeply crisp and the center is fully cooked or heated through.",
-        "step_4": "Drain on a rack or absorbent paper, add the finishing sauce or garnish only at the end and serve promptly before the crust softens."
+        "step_1": "Cut the pumpkin into pieces and let it steam for 15 minutes until it becomes tender.",
+        "step_2": "Then crush it with a potato crusher holding the skin and eliminating excess moisture.",
+        "step_3": "Burn onion and minced meat in butter until well cooked and season with salt and pepper.",
+        "step_4": "Add the meat to the pumpkin puree, mix well and let cool the dough.",
+        "step_5": "Shape 6 oval and crushed croquettes.",
+        "step_6": "Pass each croquette into the flour, then into the beaten egg and finally into the panko pressing well.",
+        "step_7": "Fry in abundant hot oil at 170°C until full crispy gilding (about 3 minutes per side).",
+        "step_8": "Serve hot with tonkatsu sauce."
       }
     },
     "it": {
       "title": "Kabocha Korokke",
-      "description": "Un Kabocha Korokke croccante, con rivestimento asciutto e ben aderente e interno succoso o cremoso, fritto a temperatura controllata e servito appena pronto.",
+      "description": "Le Kabocha Korokke sono crocchette di zucca giapponese cotta al vapore e schiacciata, arricchita con carne macinata e cipolla. Dopo la formatura e l’impanatura vengono fritte fino a doratura e servite con salsa tonkatsu. La zucca viene modellata in crocchette, passata in farina, uovo e panko, quindi fritta fino a ottenere una crosta dorata.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Kiki - Consegne a domicilio, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "zucca_giapponese_kabocha": {
@@ -172,123 +201,147 @@
           "name": "panko giapponese",
           "note": null
         },
-        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser": {
-          "name": "Olio di semi per friggere e salsa tonkatsu per servire",
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_1_olio_di_semi_per_friggere": {
+          "name": "olio di semi per friggere",
+          "note": null
+        },
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_2_salsa_tonkatsu_per_servire": {
+          "name": "salsa tonkatsu per servire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, taglia la zucca a pezzi e lascia cuocerela al vapore per 15 minuti finché diventa tenera, poi schiacciala con uno schiacciapatate tenendo la buccia ed eliminando l'umidità in eccesso. Rosola la cipolla e la carne macinata nel burro finché ben cotte e insaporite con sale e pepe.",
-        "step_2": "Prosegui così: unisci la carne alla purea di zucca, amalgama bene e lascia raffreddare l'impasto.",
-        "step_3": "Nella fase successiva, forma 6 crocchette ovali e schiacciate. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_4": "Per completare, passa ciascuna crocchetta nella farina, poi nell'uovo sbattuto e infine nel panko premendo bene. Friggi in abbondante olio caldo a 170°C fino a completa doratura croccante (circa 3 minuti per lato). Porta in tavolare calde con salsa tonkatsu."
+        "step_1": "Taglia la zucca a pezzi e lascia cuocerela al vapore per 15 minuti finché diventa tenera.",
+        "step_2": "Poi schiacciala con uno schiacciapatate tenendo la buccia ed eliminando l'umidità in eccesso.",
+        "step_3": "Rosola la cipolla e la carne macinata nel burro finché ben cotte e insaporite con sale e pepe.",
+        "step_4": "Unisci la carne alla purea di zucca, amalgama bene e lascia raffreddare l'impasto.",
+        "step_5": "Forma 6 crocchette ovali e schiacciate.",
+        "step_6": "Passa ciascuna crocchetta nella farina, poi nell'uovo sbattuto e infine nel panko premendo bene.",
+        "step_7": "Friggi in abbondante olio caldo a 170°C fino a completa doratura croccante (circa 3 minuti per lato).",
+        "step_8": "Servi calde con salsa tonkatsu."
       }
     },
     "es": {
-      "title": "Kabocha Korokke",
-      "description": "Una versión práctica de Kabocha Korokke para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Kiki - Consegne a domicilio, Food Wars!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kabocha korokke — croquetas de calabaza japonesa",
+      "description": "Las Kabocha Korokke son croquetas de calabaza japonesa cocida al vapor y aplastada, enriquecida con carne picada y cebolla. Después del moldeo y empanado se fríen hasta el dorado y se sirven con salsa tonkatsu. La calabaza se moldea en croquetas, se pasa en harina, huevo y panko, luego se frita hasta obtener una corteza dorada.",
+      "animeContext": "Esta receta está inspirada temáticamente en Kiki - Consegne a domicilio, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "zucca_giapponese_kabocha": {
-          "name": "Calabaza giapponese kabocha (o delica) pulita",
+          "name": "Calabaza japonesa Kabocha (o Delica) limpia",
           "note": null
         },
         "macinato_di_maiale_o_manzo": {
-          "name": "Macinato di cerdo o ternera",
+          "name": "Triturado de cerdo o carne de vacuno",
           "note": null
         },
         "cipolla_tritata_finemente": {
-          "name": "Cebolla picado fino",
+          "name": "cebolla picada finamente",
           "note": null
         },
         "burro": {
-          "name": "Mantequilla",
+          "name": "mantequilla",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose harina",
+          "name": "harina 00",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Huevo sbattuto",
+          "name": "Huevo batido",
           "note": null
         },
         "panko_giapponese": {
-          "name": "Panko giapponese",
+          "name": "Panko japonés",
           "note": null
         },
-        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser": {
-          "name": "Neutral aceite para freír e tonkatsu salsa para servir",
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_1_olio_di_semi_per_friggere": {
+          "name": "Aceite de semilla para freír",
+          "note": null
+        },
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_2_salsa_tonkatsu_per_servire": {
+          "name": "salsa tonkatsu para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta la calabaza en pedazos y deja que se cocine al vapor durante 15 minutos hasta que se ponga tierna.",
+        "step_2": "Luego aplaste con un machacado sosteniendo la piel y eliminando la humedad en exceso.",
+        "step_3": "Rose la cebolla y la carne picada en la mantequilla hasta que esté bien cocinada y sazonada con sal y pimienta.",
+        "step_4": "Junta la carne con el puré de calabaza, mezcla bien y deja enfriar la masa.",
+        "step_5": "Forma 6 croquetas ovaladas y aplastadas.",
+        "step_6": "Pasa cada croqueta en la harina, luego en el huevo batido y finalmente en el panko apretando bien.",
+        "step_7": "Freír en abundante aceite caliente a 170°C hasta dorado crujiente completo (unos 3 minutos por lado).",
+        "step_8": "Servidores calientes con salsa tonkatsu."
       }
     },
     "fr": {
-      "title": "Kabocha Korokke",
-      "description": "Une version pratique de Kabocha Korokke à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Kiki - Consegne a domicilio, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kabocha korokke — croquettes de courge japonaise",
+      "description": "Les Kabocha Korokke sont des croquettes de citrouille japonaise cuite à la vapeur et écrasée, enrichie de viande hachée et d'oignon. Après le formage et la panage, elles sont frites jusqu'à dorure et servies avec de la sauce tonkatsu. La citrouille est façonnée en croquettes, passée dans la farine, l'œuf et le panko, puis frit jusqu'à obtenir une croûte dorée.",
+      "animeContext": "Cette recette s'inspire librement de Kiki - Consegne a domicilio, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "zucca_giapponese_kabocha": {
-          "name": "Courge giapponese kabocha (o delica) pulita",
+          "name": "citrouille japonaise Kabocha (ou Delica) propre",
           "note": null
         },
         "macinato_di_maiale_o_manzo": {
-          "name": "Macinato di porc o bœuf",
+          "name": "moulu de porc ou de bœuf",
           "note": null
         },
         "cipolla_tritata_finemente": {
-          "name": "Oignon finement haché",
+          "name": "oignon haché finement",
           "note": null
         },
         "burro": {
-          "name": "Beurre",
+          "name": "beurre",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose farine",
+          "name": "farine 00",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Œuf sbattuto",
+          "name": "Oeuf claqué",
           "note": null
         },
         "panko_giapponese": {
-          "name": "Panko giapponese",
+          "name": "panko japonais",
           "note": null
         },
-        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser": {
-          "name": "Neutral huile pour friture e tonkatsu sauce pour servir",
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_1_olio_di_semi_per_friggere": {
+          "name": "huile de graines à frire",
+          "note": null
+        },
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_2_salsa_tonkatsu_per_servire": {
+          "name": "sauce tonkatsu pour servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coupez la citrouille en morceaux et laissez-la cuire à la vapeur pendant 15 minutes jusqu'à ce qu'elle soit tendre.",
+        "step_2": "Puis écrasez-la avec un presse-papiers en tenant la peau et en éliminant l'humidité excédentaire.",
+        "step_3": "Rousse l'oignon et la viande hachée dans le beurre jusqu'à ce qu'elles soient bien cuites et saupoudrées de sel et de poivre.",
+        "step_4": "Joignez la viande à la purée de citrouille, mélangez bien et laissez refroidir la pâte.",
+        "step_5": "Forme 6 croquettes ovales et écrasées.",
+        "step_6": "Il passe chaque croquette dans la farine, puis dans l'œuf claqué et enfin dans le panko en appuyant bien.",
+        "step_7": "Fritez en huile chaude abondante à 170°C jusqu'à ce que la dorure croustillante complète (environ 3 minutes par côté).",
+        "step_8": "Sers chauds avec de la sauce tonkatsu."
       }
     },
     "de": {
-      "title": "Kabocha Korokke",
-      "description": "Eine alltagstaugliche Version von Kabocha Korokke für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Kiki - Consegne a domicilio, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kabocha Korokke – japanische Kürbiskroketten",
+      "description": "Die Kabocha Korokke sind gedämpfte, gequetschte japanische Kürbiskroketten, angereichert mit Hackfleisch und Zwiebeln. Nach dem Formieren und Verbinden werden sie bis zur Vergoldung gebraten und mit Tonkatsu-Sauce serviert. Der Kürbis wird in Crocchettes geformt, in Mehl, Ei und Panko übergeben, dann gebraten, bis eine goldene Kruste erhalten.",
+      "animeContext": "Dieses Rezept ist thematisch von Kiki - Consegne a domicilio, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "zucca_giapponese_kabocha": {
-          "name": "Kürbis giapponese kabocha (o delica) pulita",
+          "name": "Japanischer Kürbis Kabocha (oder Delica) sauber",
           "note": null
         },
         "macinato_di_maiale_o_manzo": {
-          "name": "Macinato di Schweinefleisch o Rindfleisch",
+          "name": "Schweine- oder Rindfleischmühle",
           "note": null
         },
         "cipolla_tritata_finemente": {
-          "name": "Zwiebel fein gehackt",
+          "name": "Zwiebel fein zerkleinert",
           "note": null
         },
         "burro": {
@@ -296,72 +349,88 @@
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose Mehl",
+          "name": "Mehl 00",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Ei sbattuto",
+          "name": "Eier, die geschlagen wurden",
           "note": null
         },
         "panko_giapponese": {
-          "name": "Panko giapponese",
+          "name": "Japanischer Panko",
           "note": null
         },
-        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser": {
-          "name": "Neutral Öl zum Frittieren e tonkatsu Sauce zum Servieren",
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_1_olio_di_semi_per_friggere": {
+          "name": "Samenöl zum Braten",
+          "note": null
+        },
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_2_salsa_tonkatsu_per_servire": {
+          "name": "Tonkatsu Soße zum Servieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schneide den Kürbis in Stücke und lass ihn 15 Minuten lang dampfen, bis er zart wird.",
+        "step_2": "Dann zerquetschen Sie sie mit einem Knüppel, indem Sie die Schale halten und die überschüssige Feuchtigkeit beseitigen.",
+        "step_3": "Die Zwiebeln und das Hackfleisch in der Butter rosten, bis sie gut gekocht und mit Salz und Pfeffer gewürzt sind.",
+        "step_4": "Verbinden Sie das Fleisch mit Kürbispüree, Amalgam gut und lassen Sie den Teig abkühlen.",
+        "step_5": "Form 6 ovale und gequetschte Kroketten.",
+        "step_6": "Gehen Sie jede Nudel ins Mehl, dann in das zerstoßene Ei und schließlich in den Panko, indem Sie gut drücken.",
+        "step_7": "Frittieren Sie in reichlich warmes Öl bei 170°C bis zur vollständigen knusprige Vergoldung (ca. 3 Minuten pro Seite).",
+        "step_8": "Heiße servieren mit tonkatsu Soße."
       }
     },
     "pt": {
-      "title": "Kabocha Korokke",
-      "description": "Uma versão prática de Kabocha Korokke para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Kiki - Consegne a domicilio, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kabocha korokke — croquetes de abóbora japonesa",
+      "description": "Os Kabocha Korokke são pepitas de abóbora japonesas vaporizadas e esmagadas, enriquecidas com carne picada e cebola. Após a formação e o pão, são fritas até doradas e servidas com molho tonkatsu. A abóbora é moldada em croquetas, farinha, ovo e panko, depois frita até obter uma crosta dourada.",
+      "animeContext": "Esta receita inspira-se tematicamente em Kiki - Consegne a domicilio, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "zucca_giapponese_kabocha": {
-          "name": "Abóbora giapponese kabocha (o delica) pulita",
+          "name": "Abóbora japonesa Kabocha (ou Delica) limpa",
           "note": null
         },
         "macinato_di_maiale_o_manzo": {
-          "name": "Macinato di porco o carne bovina",
+          "name": "Porco molhado ou carne de bovino",
           "note": null
         },
         "cipolla_tritata_finemente": {
-          "name": "Cebola picado fino",
+          "name": "Cebola finamente picada",
           "note": null
         },
         "burro": {
-          "name": "Manteiga",
+          "name": "manteiga",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose farinha",
+          "name": "farinha 00",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Ovo sbattuto",
+          "name": "ovo batido",
           "note": null
         },
         "panko_giapponese": {
-          "name": "Panko giapponese",
+          "name": "Panko japonês",
           "note": null
         },
-        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser": {
-          "name": "Neutral óleo para fritar e tonkatsu molho para servir",
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_1_olio_di_semi_per_friggere": {
+          "name": "óleo de semente para fritar",
+          "note": null
+        },
+        "olio_di_semi_per_friggere_e_salsa_tonkatsu_per_ser_2_salsa_tonkatsu_per_servire": {
+          "name": "Molho Tonkatsu para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte a abóbora em pedaços e deixe- a vaporizar por 15 minutos até que se torne tenra.",
+        "step_2": "Em seguida, esmague- o com um triturador de batata segurando a pele e eliminando o excesso de umidade.",
+        "step_3": "Queimar cebola e carne picada em manteiga até que esteja bem cozida e temperar com sal e pimenta.",
+        "step_4": "Adicione a carne ao purê de abóbora, misture bem e deixe esfriar a massa.",
+        "step_5": "Forma 6 croquetas ovais e esmagadas.",
+        "step_6": "Passe cada croqueta para a farinha, depois para o ovo batido e finalmente para o panko pressionando bem.",
+        "step_7": "Fritar em óleo quente abundante a 170°C até doramento crocante completo (cerca de 3 minutos por lado).",
+        "step_8": "Servir quente com molho tonkatsu."
       }
     }
   }

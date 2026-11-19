@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000092",
-  "contentVersion": 1,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Gintama",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 5,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -65,9 +65,14 @@
       "unit": "tsp"
     },
     {
-      "id": "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d",
+      "id": "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_1_pepe_nero_macinato_fresco",
       "quantity": null,
       "unit": null
+    },
+    {
+      "id": "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_2_cucchiaino_di_olio_di_sesam",
+      "quantity": 1,
+      "unit": "tsp"
     }
   ],
   "steps": [
@@ -85,29 +90,41 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 60
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Moyashi Itame",
-      "description": "A quick-cooked Moyashi Itame that relies on high heat, organized mise en place and short cooking times to keep vegetables lively and sauces concentrated.",
-      "animeContext": "This recipe is thematically inspired by Gintama, One-Punch Man. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Moyashi Itame — stir-fried bean sprouts",
+      "description": "In Moyashi Itame the soy sprouts are quickly jumped into the wok with bacon, carrot and onion. Cooking on a lively heat keeps the buds crispy; soy, pepper and sesame oil complete the seasoning. The shoots jumped briefly over high heat to keep biting, and sesame oil enters the finish over off heat.",
+      "animeContext": "This recipe is thematically inspired by Gintama, One-Punch Man. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "germogli_di_soia_freschi": {
-          "name": "Bean sprouts fresh",
+          "name": "fresh soy sprouts",
           "note": null
         },
         "pancetta_di_maiale_tagliata_a_striscioline": {
-          "name": "Pancetta di pork cut into striscioline",
+          "name": "Pork bacon cut into strips",
           "note": null
         },
         "carota_piccola_a_bastoncini_sottili": {
-          "name": "Carrot piccola a bastoncini sottili",
+          "name": "small carrot with thin sticks",
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Spring onion affettati",
+          "name": "sliced spring onions",
           "note": null
         },
         "salsa_di_soia": {
@@ -115,24 +132,31 @@
           "note": null
         },
         "brodo_granulare_dashi_o_pollo": {
-          "name": "Broth granulare dashi o chicken",
+          "name": "Dashi or chicken granular broth",
           "note": null
         },
-        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d": {
-          "name": "Black pepper macinato fresh e 1 cucchiaino di sesame oil",
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_1_pepe_nero_macinato_fresco": {
+          "name": "fresh ground black pepper",
+          "note": null
+        },
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_2_cucchiaino_di_olio_di_sesam": {
+          "name": "sesame oil",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and measure every ingredient before heating the pan, because the cooking phase is short and should not be interrupted for preparation.",
-        "step_2": "Use a hot pan or griddle and cook the firmer ingredients first, keeping them moving so they brown without steaming in their own moisture.",
-        "step_3": "Add the remaining ingredients and sauce in stages, cooking only until the sauce clings and the vegetables retain some bite.",
-        "step_4": "Finish with the fresh garnish and serve immediately, while the pan-seared surfaces and concentrated seasoning are still vivid."
+        "step_1": "Wash the soy sprouts in cold water, drain them very well and dry them: they must enter the pan almost dry to remain crunchy.",
+        "step_2": "Cut the pancetta, carrot and spring onion into thin pieces. Keep the soy sauce, granulated dashi, pepper and sesame oil beside the wok.",
+        "step_3": "Heat the wok over high heat and brown the bacon without other fats until it releases part of its fat and gets color.",
+        "step_4": "Add the carrot and stir-fry it for about 1 minute over high heat.",
+        "step_5": "Add the sprouts and spring onion and stir-fry vigorously for about 2 minutes. The sprouts should soften slightly but remain crisp.",
+        "step_6": "Season with soy sauce and dashi, mix for a few seconds and turn off before water is formed on the bottom.",
+        "step_7": "Complete with black pepper and sesame oil and serve immediately."
       }
     },
     "it": {
       "title": "Moyashi Itame",
-      "description": "Un Moyashi Itame dalla cottura rapida, basato su fiamma vivace, ingredienti già pronti e tempi brevi per mantenere verdure croccanti e salsa concentrata.",
+      "description": "Nel Moyashi Itame i germogli di soia vengono saltati rapidamente nel wok con pancetta, carota e cipollotto. La cottura a fuoco vivace mantiene i germogli croccanti; soia, pepe e olio di sesamo completano il condimento. I germogli sono saltati brevemente a fuoco alto per conservare mordente, e l'olio di sesamo entra nella finitura a fuoco spento.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Gintama, One-Punch Man. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "germogli_di_soia_freschi": {
@@ -148,7 +172,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "cipollotto affettati",
+          "name": "cipollotti affettati",
           "note": null
         },
         "salsa_di_soia": {
@@ -159,37 +183,44 @@
           "name": "brodo granulare dashi o pollo",
           "note": null
         },
-        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d": {
-          "name": "Pepe nero macinato fresco e 1 cucchiaino di olio di sesamo",
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_1_pepe_nero_macinato_fresco": {
+          "name": "pepe nero macinato fresco",
+          "note": null
+        },
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_2_cucchiaino_di_olio_di_sesam": {
+          "name": "olio di sesamo",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, lava e scola molto bene i germogli di soia per garantirne la croccantezza. Porta a temperatura una padella wok a fuoco vivo e rosola le striscioline di pancetta finché rilasciano il loro grasso e diventano dorate.",
-        "step_2": "Prosegui così: unisci la carota e saltala per 1 minuto. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_3": "Nella fase successiva, unisci i germogli di soia e i cipollotti, amalgamando a fuoco fortissimo per soli 2 minuti.",
-        "step_4": "Per completare, condisci con la salsa di soia, il dashi in polvere, una generosa spolverata di pepe nero e sfuma con l'olio di sesamo. Impiatta immediatamente per mantenere i germogli croccanti e succosi."
+        "step_1": "Lava i germogli di soia in acqua fredda, scolali molto bene e asciugali: devono entrare in padella quasi asciutti per restare croccanti.",
+        "step_2": "Taglia pancetta, carota e cipollotto in pezzi sottili e prepara salsa di soia, dashi granulare, pepe e olio di sesamo accanto al wok.",
+        "step_3": "Scalda il wok a fuoco alto e rosola la pancetta senza altri grassi finché rilascia parte del suo grasso e prende colore.",
+        "step_4": "Aggiungi la carota e saltala per circa 1 minuto, mantenendo il fuoco alto.",
+        "step_5": "Unisci germogli e cipollotto e salta energicamente per circa 2 minuti: i germogli devono ammorbidirsi appena ma conservare mordente.",
+        "step_6": "Condisci con salsa di soia e dashi, mescola per pochi secondi e spegni prima che si formi acqua sul fondo.",
+        "step_7": "Completa con pepe nero e olio di sesamo e servi immediatamente."
       }
     },
     "es": {
-      "title": "Moyashi Itame",
-      "description": "Una versión práctica de Moyashi Itame para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Gintama, One-Punch Man. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Moyashi itame — brotes de soja salteados",
+      "description": "En Moyashi Itame los brotes de soja se saltan rápidamente en el wok con tocino, zanahoria y cebolla. La cocción a fuego vivo mantiene los brotes crujientes; soja, pimienta y aceite de sésamo completan el condimento. Los brotes saltaron brevemente a fuego alto para conservar mordiente, y el aceite de sésamo entra en el acabado a fuego apagado.",
+      "animeContext": "Esta receta está inspirada temáticamente en Gintama, One-Punch Man. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "germogli_di_soia_freschi": {
-          "name": "Brotes de soja fresco",
+          "name": "brotes de soja frescos",
           "note": null
         },
         "pancetta_di_maiale_tagliata_a_striscioline": {
-          "name": "Pancetta di cerdo cut into striscioline",
+          "name": "Tocino de cerdo cortado en tiras",
           "note": null
         },
         "carota_piccola_a_bastoncini_sottili": {
-          "name": "Zanahoria piccola a bastoncini sottili",
+          "name": "zanahoria pequeña con palillos finos",
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Spring cebolla affettati",
+          "name": "cebolletas en rodajas",
           "note": null
         },
         "salsa_di_soia": {
@@ -197,122 +228,143 @@
           "note": null
         },
         "brodo_granulare_dashi_o_pollo": {
-          "name": "Caldo granulare dashi o pollo",
+          "name": "caldo granular dashi o pollo",
           "note": null
         },
-        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d": {
-          "name": "Negro pepper macinato fresco e 1 cucchiaino di sesame aceite",
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_1_pepe_nero_macinato_fresco": {
+          "name": "pimienta negra molida fresca",
+          "note": null
+        },
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_2_cucchiaino_di_olio_di_sesam": {
+          "name": "Aceite de sésamo",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Lava los brotes de soja en agua fría, escólelos muy bien y séquelos: tienen que entrar en la sartén casi secos para permanecer crujientes.",
+        "step_2": "Corta tocino, zanahoria y cebolleta en trozos delgados y prepara salsa de soja, dashi granular, pimienta y aceite de sésamo junto al wok.",
+        "step_3": "Calienta el wok a fuego alto y frota el tocino sin más grasa hasta que libera parte de su grasa y toma color.",
+        "step_4": "Añade la zanahoria y salta durante aproximadamente 1 minuto, manteniendo el fuego alto.",
+        "step_5": "Mezclar brotes y cebolleta y saltar enérgicamente durante unos 2 minutos: los brotes deben suavizarse apenas pero conservar mordiente.",
+        "step_6": "Sazona con salsa de soja y dashi, mezcla durante unos segundos y apaga antes de que se forme agua en el fondo.",
+        "step_7": "Completa con pimienta negra y aceite de sésamo y sirve inmediatamente."
       }
     },
     "fr": {
-      "title": "Moyashi Itame",
-      "description": "Une version pratique de Moyashi Itame à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Gintama, One-Punch Man. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Moyashi itame — pousses de soja sautées",
+      "description": "Dans le Moyashi Itame, les germes de soja sont rapidement sautés dans le wok avec du bacon, de la carotte et de l'oignon. La cuisson à feu vif maintient les bourgeons croustillants; le soja, le poivre et l'huile de sésame complètent l'assaisonnement. Les bourgeons ont sauté brièvement à feu élevé pour conserver mordant, et l'huile de sésame entre dans la finition à feu éteint.",
+      "animeContext": "Cette recette s'inspire librement de Gintama, One-Punch Man. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "germogli_di_soia_freschi": {
-          "name": "Germes de soja frais",
+          "name": "pousses de soja fraîches",
           "note": null
         },
         "pancetta_di_maiale_tagliata_a_striscioline": {
-          "name": "Pancetta di porc cut into striscioline",
+          "name": "poitrine de porc coupée en fines lanières",
           "note": null
         },
         "carota_piccola_a_bastoncini_sottili": {
-          "name": "Carotte piccola a bastoncini sottili",
+          "name": "Carotte petite à bâtonnets fins",
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Spring oignon affettati",
+          "name": "cébettes émincées",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "brodo_granulare_dashi_o_pollo": {
-          "name": "Bouillon granulare dashi o poulet",
+          "name": "bouillon granulaire dashi ou poulet",
           "note": null
         },
-        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d": {
-          "name": "Noir pepper macinato frais e 1 cucchiaino di sesame huile",
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_1_pepe_nero_macinato_fresco": {
+          "name": "poivre noir moulu frais",
+          "note": null
+        },
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_2_cucchiaino_di_olio_di_sesam": {
+          "name": "huile de sésame",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Il lave les germes de soja dans l'eau froide, les égouttez très bien et sèchez-les: ils doivent entrer dans une poêle presque sèche pour rester croustillants.",
+        "step_2": "Coupez la poitrine de porc, la carotte et la cébette en fines lamelles. Préparez la sauce soja, le dashi, le poivre et l'huile de sésame à côté du wok.",
+        "step_3": "Chauffez le wok à feu haut et roulez le bacon sans autre graisse jusqu'à ce qu'il libère une partie de sa graisse et prend de la couleur.",
+        "step_4": "Ajoutez la carotte et sautez-la pendant environ 1 minute, en maintenant le feu haut.",
+        "step_5": "Combinez des bourgeons et des cébettes et sautez vigoureusement pendant environ 2 minutes: les bourgeons doivent s'adoucir à peine mais conserver mordent.",
+        "step_6": "Assaisonnez avec de la sauce soja et des dashi, mélangez pendant quelques secondes et éteignez avant que l'eau ne se forme sur le fond.",
+        "step_7": "Complétez avec du poivre noir et de l'huile de sésame et servez-vous immédiatement."
       }
     },
     "de": {
-      "title": "Moyashi Itame",
-      "description": "Eine alltagstaugliche Version von Moyashi Itame für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Gintama, One-Punch Man inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Moyashi Itame – gebratene Sojasprossen",
+      "description": "Im Moyashi Itame werden die Sojasprossen schnell mit Speck, Karotte und Zwiebeln in den Wok geschleudert. Das lebendige Kochen hält die knusprige Sprossen; Soja, Pfeffer und Sesamöl ergänzen die Würze. Die Knospen sprangen kurz in den hohen Fokus, um beißend zu halten, und Sesamöl tritt in das Finish bei ausgeschaltetem Feuer ein.",
+      "animeContext": "Dieses Rezept ist thematisch von Gintama, One-Punch Man inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "germogli_di_soia_freschi": {
-          "name": "Sojasprossen frisch",
+          "name": "Sojasprossen, frisch",
           "note": null
         },
         "pancetta_di_maiale_tagliata_a_striscioline": {
-          "name": "Pancetta di Schweinefleisch cut into striscioline",
+          "name": "Schweinebauch in Streifen geschnitten",
           "note": null
         },
         "carota_piccola_a_bastoncini_sottili": {
-          "name": "Karotte piccola a bastoncini sottili",
+          "name": "Kleine Karotte mit dünnen Stöcken",
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Spring Zwiebel affettati",
+          "name": "Frühlingszwiebeln, in Ringe geschnitten",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "brodo_granulare_dashi_o_pollo": {
-          "name": "Brühe granulare dashi o Hähnchen",
+          "name": "Granatbrühe Dashi oder Huhn",
           "note": null
         },
-        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d": {
-          "name": "Schwarz pepper macinato frisch e 1 cucchiaino di sesame Öl",
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_1_pepe_nero_macinato_fresco": {
+          "name": "frisch gemahlener schwarzer Pfeffer",
+          "note": null
+        },
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_2_cucchiaino_di_olio_di_sesam": {
+          "name": "Sesamöl",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Wasche die Sojasprossen in kaltem Wasser, streue sie sehr gut und trockne sie ab: sie müssen in die Pfanne fast trocken gehen, um knusprig zu bleiben.",
+        "step_2": "Schneide Speck, Karotte und Frühlingszwiebel in dünne Stücke und backe Sojasoße, Dashi-Granulat, Pfeffer und Sesamöl neben dem Wok.",
+        "step_3": "Erhitzt den Wok mit hohem Fokus und rostet den Speck ohne andere Fette, bis er einen Teil seines Fetts freisetzt und Farbe annimmt.",
+        "step_4": "Fügen Sie die Karotte hinzu und springen Sie für ca. 1 Minute, halten Sie das Feuer hoch.",
+        "step_5": "Kombinieren Sie Knospen und Frühlingszwiebeln und springen Sie kräftig für ungefähr 2 Minuten: die Knospen müssen gerade erweichen, aber beißen.",
+        "step_6": "Würze mit Sojasoße und Dashi, mische für ein paar Sekunden und schalte aus, bevor Wasser auf dem Boden entsteht.",
+        "step_7": "Komplett mit schwarzem Pfeffer und Sesamöl und sofort servieren."
       }
     },
     "pt": {
-      "title": "Moyashi Itame",
-      "description": "Uma versão prática de Moyashi Itame para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Gintama, One-Punch Man. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Moyashi itame — rebentos de soja salteados",
+      "description": "Em Moyashi Itame os brotos de soja são rapidamente pulados para o wok com bacon, cenoura e cebola. Cozinhar com um calor vivo mantém os botões crocantes; soja, pimenta e óleo de sésamo completam o tempero. Os tiros saltaram brevemente sobre o fogo alto para continuar mordendo, e o óleo de sésamo entra no final sobre o calor.",
+      "animeContext": "Esta receita inspira-se tematicamente em Gintama, One-Punch Man. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "germogli_di_soia_freschi": {
-          "name": "Rebentos de soja fresco",
+          "name": "brotos frescos de soja",
           "note": null
         },
         "pancetta_di_maiale_tagliata_a_striscioline": {
-          "name": "Pancetta di porco cut into striscioline",
+          "name": "Bacon de porco cortado em tiras",
           "note": null
         },
         "carota_piccola_a_bastoncini_sottili": {
-          "name": "Cenoura piccola a bastoncini sottili",
+          "name": "cenoura pequena com paus finos",
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Spring cebola affettati",
+          "name": "cebolas de rama às rodelas",
           "note": null
         },
         "salsa_di_soia": {
@@ -320,19 +372,26 @@
           "note": null
         },
         "brodo_granulare_dashi_o_pollo": {
-          "name": "Caldo granulare dashi o frango",
+          "name": "Dashi ou caldo granular de frango",
           "note": null
         },
-        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d": {
-          "name": "Preto pepper macinato fresco e 1 cucchiaino di sesame óleo",
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_1_pepe_nero_macinato_fresco": {
+          "name": "pimenta preta moída fresca",
+          "note": null
+        },
+        "pepe_nero_macinato_fresco_e_1_cucchiaino_di_olio_d_2_cucchiaino_di_olio_di_sesam": {
+          "name": "óleo de sésamo",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Lave os brotos de soja em água fria, escorra-os muito bem e seque- os: eles devem entrar na panela quase seca para permanecer crocante.",
+        "step_2": "Corte o bacon, a cenoura e a cebola de rama em pedaços finos. Deixe o molho de soja, o dashi granulado, a pimenta e o óleo de sésamo ao lado do wok.",
+        "step_3": "Aqueça o wok a fogo alto e dobre o bacon sem outras gorduras até que ele liberte parte da sua gordura e obtenha cor.",
+        "step_4": "Adicione a cenoura e sal por cerca de 1 minuto, mantendo o fogo alto.",
+        "step_5": "Combinar botões e cebola de rama e saltar vigorosamente por cerca de 2 minutos: os botões devem suavizar apenas, mas continuar mordendo.",
+        "step_6": "Sazonar com molho de soja e dashi, misturar por alguns segundos e desligar antes que a água se forme no fundo.",
+        "step_7": "Completar com pimenta preta e óleo de sésamo e servir imediatamente."
       }
     }
   }

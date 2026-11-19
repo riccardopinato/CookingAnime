@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000121",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 25,
   "cookMinutes": 45,
   "servings": 2,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -60,8 +60,13 @@
       "unit": "ml"
     },
     {
-      "id": "farina_00_20g_di_amido_di_mais",
+      "id": "farina_00",
       "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "id": "amido_di_mais",
+      "quantity": 20,
       "unit": "g"
     }
   ],
@@ -81,49 +86,73 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 3600
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 900
     }
   ],
   "locales": {
     "en": {
-      "title": "Soufflé Cheesecake Giapponese",
-      "description": "A Japanese-style Soufflé Cheesecake Giapponese designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, K-On!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Japanese Soufflé Cheesecake — cotton-soft cheesecake",
+      "description": "The Japanese Cheesecake Soufflé combines spreadable cheese, egg yolks and egg whites mounted to obtain a high and light cake. Bain-bath cooking and gradual cooling in the oven help to preserve the soft structure. The bain-marie cooking keeps the center soft, while the gradual cooling in the open oven precedes the cutting.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, K-On!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "formaggio_spalmabile": {
-          "name": "Cream cheese",
+          "name": "spreadable cheese",
           "note": null
         },
         "uovo": {
-          "name": "Egg (egg whites e tuorli separati)",
+          "name": "egg (separate egg yolks and egg yolks)",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "burro": {
-          "name": "Butter",
+          "name": "butter",
           "note": null
         },
         "latte": {
-          "name": "Milk",
+          "name": "milk",
           "note": null
         },
-        "farina_00_20g_di_amido_di_mais": {
-          "name": "All-purpose flour + 20g di cornstarch",
+        "farina_00": {
+          "name": "Italian 00 flour",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "maize starch",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Dress the mold and prepare a larger baking tray for the water bath; preheat the oven to 150-160°C.",
+        "step_2": "Melt in a bainmaria cheese spreadable, butter and milk until the mixture is smooth, then let cool.",
+        "step_3": "Embed the egg yolks one at a time and add sifted flour and starch, stirring only until the lumps are removed.",
+        "step_4": "Mount the egg whites and add sugar in several shots until you get a shiny meringue with soft-medium peaks, not excessively rigid.",
+        "step_5": "Embed a third of the meringue at the base to lighten it, then join the rest with movements from bottom to top.",
+        "step_6": "Pour into the mold, remove the larger bubbles with small blows and place the mold in the hot water bath.",
+        "step_7": "Cook for about 60 minutes, adjusting the heat if the surface darkens too much; the center must be cooked but still elastic.",
+        "step_8": "Turn off the oven and let the cake stand with the open door open for 10-15 minutes, then deform and cool it completely before cutting."
       }
     },
     "it": {
       "title": "Soufflé Cheesecake Giapponese (Cotton Cheesecake)",
-      "description": "Un Soufflé Cheesecake Giapponese (Cotton Cheesecake) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "La Soufflé Cheesecake giapponese combina formaggio spalmabile, tuorli e albumi montati per ottenere una torta alta e leggera. La cottura a bagnomaria e il raffreddamento graduale in forno aiutano a conservare la struttura soffice. La cottura a bagnomaria mantiene soffice il centro, mentre il raffreddamento graduale nel forno socchiuso precede il taglio.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, K-On!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "formaggio_spalmabile": {
@@ -146,103 +175,127 @@
           "name": "latte",
           "note": null
         },
-        "farina_00_20g_di_amido_di_mais": {
-          "name": "farina 00 + 20g di amido di mais",
+        "farina_00": {
+          "name": "farina 00",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "amido di mais",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, fondi formaggio, burro e latte a bagnomaria; lascia intiepidire e unisci i tuorli e le farine setacciate.",
-        "step_2": "Prosegui così: monta gli albumi a neve ferma aggiungendo lo zucchero a pioggia.",
-        "step_3": "Nella fase successiva, incorpora delicatamente la meringa al composto principale.",
-        "step_4": "Per completare, lascia cuocere a bagnomaria in forno statico a 160°C per 60 minuti finché diventa soffice e dorata."
+        "step_1": "Rivesti lo stampo e prepara una teglia più grande per il bagnomaria; preriscalda il forno a 150-160°C.",
+        "step_2": "Sciogli a bagnomaria formaggio spalmabile, burro e latte finché il composto è liscio, poi lascia intiepidire.",
+        "step_3": "Incorpora i tuorli uno alla volta e aggiungi farina e amido setacciati, mescolando solo fino a eliminare i grumi.",
+        "step_4": "Monta gli albumi e aggiungi lo zucchero in più riprese fino a ottenere una meringa lucida con picchi morbidi-medi, non eccessivamente rigida.",
+        "step_5": "Incorpora un terzo della meringa alla base per alleggerirla, poi unisci il resto con movimenti dal basso verso l’alto.",
+        "step_6": "Versa nello stampo, elimina le bolle più grandi con piccoli colpi e sistema lo stampo nel bagnomaria caldo.",
+        "step_7": "Cuoci per circa 60 minuti, regolando il calore se la superficie scurisce troppo; il centro deve essere cotto ma ancora elastico.",
+        "step_8": "Spegni il forno e lascia riposare la torta con lo sportello socchiuso per 10-15 minuti, poi sformala e raffreddala completamente prima del taglio."
       }
     },
     "es": {
-      "title": "Soufflé Cheesecake Giapponese",
-      "description": "Una versión práctica de Soufflé Cheesecake Giapponese para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, K-On!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tarta de queso soufflé japonesa — ligera como el algodón",
+      "description": "El Sufflé Cheesecake japonés combina queso esparcido, yemas de huevo y claras de huevo para obtener un pastel alto y ligero. La cocción al baño maría y el enfriamiento gradual en el horno ayudan a conservar la estructura suave. La cocción en baño maria mantiene suave el centro, mientras que la refrigeración gradual en el horno subterráneo precede al corte.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, K-On!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "formaggio_spalmabile": {
-          "name": "Nata cheese",
+          "name": "Queso esparcido",
           "note": null
         },
         "uovo": {
-          "name": "Huevo (huevo whites e tuorli separati)",
+          "name": "huevo (albúminas y yemas de huevo separadas)",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "burro": {
-          "name": "Mantequilla",
+          "name": "mantequilla",
           "note": null
         },
         "latte": {
-          "name": "Leche",
+          "name": "leche",
           "note": null
         },
-        "farina_00_20g_di_amido_di_mais": {
-          "name": "All-purpose harina + 20g di maicena",
+        "farina_00": {
+          "name": "harina 00",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "almidón de maíz",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Ponga el molde y prepare una bandeja más grande para el baño María; precaliente el horno a 150-160 °C.",
+        "step_2": "Disuelve al baño maria queso esparcida, mantequilla y leche hasta que el compuesto esté liso, luego deja entibiar.",
+        "step_3": "Envuelve las yemas uno a la vez y añade harina y almidón tambaleados, mezclando sólo hasta eliminar los grumos.",
+        "step_4": "Monta las claras y añade el azúcar en varias ocasiones hasta obtener un merengue brillante con picos suaves-medios, no excesivamente rígidos.",
+        "step_5": "Inserta un tercio del merengue en la base para aliviarlo, luego une el resto con movimientos desde abajo hacia arriba.",
+        "step_6": "Vierta en el molde, elimina las burbujas más grandes con pequeños golpes y coloca el molde en el baño maría caliente.",
+        "step_7": "Cocine durante unos 60 minutos, ajustando el calor si la superficie oscurece demasiado; el centro debe ser cocinado pero todavía elástico.",
+        "step_8": "Apaga el horno y deja reposar el pastel con la puerta encerrada durante 10-15 minutos, luego desmoldea y enfría completamente antes del corte."
       }
     },
     "fr": {
-      "title": "Soufflé Cheesecake Giapponese",
-      "description": "Une version pratique de Soufflé Cheesecake Giapponese à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, K-On!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Cheesecake soufflé japonais — léger comme du coton",
+      "description": "La Soufflé Cheesecake japonaise allie fromage spacieuse, jaunes d'œufs et blancs d'œuf montés pour obtenir un gâteau haut et léger. La cuisson au bain-marie et le refroidissement progressif au four aident à conserver la structure douce. La cuisson au bain-marie maintient le centre doux, tandis que le refroidissement progressif dans le four enfermé précède la coupe.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, K-On!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "formaggio_spalmabile": {
-          "name": "Crème cheese",
+          "name": "fromage aplati",
           "note": null
         },
         "uovo": {
-          "name": "Œuf (œuf whites e tuorli separati)",
+          "name": "œuf (albumes et jaunes d'œufs séparés)",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "burro": {
-          "name": "Beurre",
+          "name": "beurre",
           "note": null
         },
         "latte": {
-          "name": "Lait",
+          "name": "lait",
           "note": null
         },
-        "farina_00_20g_di_amido_di_mais": {
-          "name": "All-purpose farine + 20g di fécule de maïs",
+        "farina_00": {
+          "name": "farine 00",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "amidon de maïs",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Habillez le moule et préparez une plus grande plaque pour le bain-marie; préchauffez le four à 150-160°C.",
+        "step_2": "Dissoudre au bain-marie fromage enduit, beurre et lait jusqu'à ce que le composé soit lisse, puis laisser tiède.",
+        "step_3": "Incorporez les jaunes un à la fois et ajoutez de la farine et de l'amidon tamisés, en mélangeant seulement jusqu'à ce que les grumeaux soient éliminés.",
+        "step_4": "Montez les blancs d'œuf et ajoutez le sucre en plusieurs reprises jusqu'à obtenir un meringue brillant avec des pics doux-moyens, pas trop rigide.",
+        "step_5": "Il intègre un tiers de la meringue à la base pour la soulager, puis fusionne le reste avec des mouvements de bas en haut.",
+        "step_6": "Verse dans le moule, élimine les bulles plus grandes avec de petits coups et place le moule dans le bain-marie chaud.",
+        "step_7": "Faites cuire pendant environ 60 minutes, en réglant la chaleur si la surface s'assombrit trop; le centre doit être cuit mais encore élastique.",
+        "step_8": "Éteignez le four et laissez reposer le gâteau avec la porte entrouverte pendant 10-15 minutes, puis déformez-le et refroidissez-le complètement avant la coupe."
       }
     },
     "de": {
-      "title": "Soufflé Cheesecake Giapponese",
-      "description": "Eine alltagstaugliche Version von Soufflé Cheesecake Giapponese für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, K-On! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Japanischer Soufflé-Käsekuchen – besonders luftig",
+      "description": "Die japanische Soufflé Cheesecake kombiniert Käse, Eigelb und Alben, die für einen hohen und leichten Kuchen montiert sind. Das Backen im Wasserbad und das Abkühlen im Ofen helfen, die weiche Struktur zu erhalten. Das Backen im Wasserbad hält das Zentrum weich, während das Abkühlen im Backofen dem Schneiden vorausgeht.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, K-On! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "formaggio_spalmabile": {
-          "name": "Sahne cheese",
+          "name": "Käse, aufgeschäumt",
           "note": null
         },
         "uovo": {
-          "name": "Ei (Ei whites e tuorli separati)",
+          "name": "Ei (getrennte Alben und Eigelb)",
           "note": null
         },
         "zucchero": {
@@ -257,53 +310,69 @@
           "name": "Milch",
           "note": null
         },
-        "farina_00_20g_di_amido_di_mais": {
-          "name": "All-purpose Mehl + 20g di Maisstärke",
+        "farina_00": {
+          "name": "Mehl 00",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "Maisstärke",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Ziehen Sie die Form an und bereiten Sie ein größeres Backblech für das Wasserbad vor; erwärmen Sie den Ofen auf 150-160 °C.",
+        "step_2": "Lösen Sie im Badezimmer Käse, Butter und Milch, bis die Verbindung glatt ist, dann lassen Sie es einschüchtern.",
+        "step_3": "Fügen Sie die Eigelb eins nach dem anderen ein und fügen Sie Mehl und Stärke, gesiebt, nur um die Klumpen zu entfernen.",
+        "step_4": "Legen Sie die Alben fest und fügen Sie den Zucker mehrmals hinzu, bis Sie einen glänzenden Mergel mit weichen, nicht übermäßig starren Spitzen erhalten.",
+        "step_5": "Fügen Sie ein Drittel der Meringa an der Basis ein, um sie zu erleichtern, und fügen Sie dann den Rest mit Bewegungen von unten nach oben zusammen.",
+        "step_6": "Gießen Sie in die Form, entfernen Sie die größeren Blasen mit kleinen Schlägen und stellen Sie die Form im heißen Wasserbad.",
+        "step_7": "Kochen Sie etwa 60 Minuten lang, wobei Sie die Wärme einstellen, wenn die Oberfläche zu dunkel wird; die Mitte muss gekocht, aber noch elastisch sein.",
+        "step_8": "Schalten Sie den Ofen aus und lassen Sie den Kuchen 10-15 Minuten lang mit der geöffneten Tür ruhen, dann formen Sie ihn und kühlen Sie ihn vollständig vor dem Schneiden ab."
       }
     },
     "pt": {
-      "title": "Soufflé Cheesecake Giapponese",
-      "description": "Uma versão prática de Soufflé Cheesecake Giapponese para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, K-On!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Cheesecake soufflé japonês — leve como algodão",
+      "description": "O Sufflé Japonês Cheesecake combina queijo esparsível, gemas de ovos e claras de ovos montadas para obter um bolo alto e leve. Cozimento de banho e arrefecimento gradual no forno ajudam a preservar a estrutura macia. O cozimento de bain- marie mantém o centro macio, enquanto o resfriamento gradual no forno aberto precede o corte.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, K-On!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "formaggio_spalmabile": {
-          "name": "Natas cheese",
+          "name": "queijo espalhable",
           "note": null
         },
         "uovo": {
-          "name": "Ovo (ovo whites e tuorli separati)",
+          "name": "ovo (separar gemas de ovo e gemas de ovo)",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "burro": {
-          "name": "Manteiga",
+          "name": "manteiga",
           "note": null
         },
         "latte": {
-          "name": "Leite",
+          "name": "leite",
           "note": null
         },
-        "farina_00_20g_di_amido_di_mais": {
-          "name": "All-purpose farinha + 20g di amido de milho",
+        "farina_00": {
+          "name": "farinha 00",
+          "note": null
+        },
+        "amido_di_mais": {
+          "name": "amido de milho",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Veste o molde e prepare uma bandeja de cozimento maior para o banho de água; pré- aqueça o forno para 150-160°C.",
+        "step_2": "Derreta num queijo de bainmaria, manteiga e leite até que a mistura seja suave, em seguida, deixe esfriar.",
+        "step_3": "Incorpore as gemas de ovo um de cada vez e adicione farinha e amido varredos, agitando apenas até que os nódulos sejam removidos.",
+        "step_4": "Montar as claras de ovo e adicionar açúcar em várias doses até que você obtenha uma meringue brilhante com picos suaves- médios, não excessivamente rígidos.",
+        "step_5": "Incorpore um terço da meringue na base para lixá- la, em seguida, junte- se ao resto com movimentos de baixo para cima.",
+        "step_6": "Verter no molde, remover as bolhas maiores com pequenos golpes e colocar o molde no banho de água quente.",
+        "step_7": "Cozinhe por cerca de 60 minutos, ajustando o calor se a superfície escurecer demais; o centro deve ser cozido mas ainda elástico.",
+        "step_8": "Desligue o forno e deixe o bolo ficar com a porta aberta por 10-15 minutos, em seguida, deformá- lo e esfriá- lo completamente antes de cortar."
       }
     }
   }

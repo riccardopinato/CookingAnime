@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000145",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Non Non Biyori",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 15,
   "servings": 12,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -81,49 +81,64 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 480
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Sata Andagi",
-      "description": "A crisp Sata Andagi with a dry, well-set coating and a juicy or creamy center, cooked in controlled oil and served before the crust softens.",
-      "animeContext": "This recipe is thematically inspired by Non Non Biyori, Azumanga Daioh. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Sata Andagi — traditional Okinawan sweet fritters",
+      "description": "The Sata Andagi are Okinawa pancakes prepared with a thick dough of flour, eggs and sugar. They are fried at moderate temperature to facilitate a uniform cooking and the typical surface open in small cracks. The balls are slowly fried and turned several times, until the cracks typical of sata vagi open on the surface.",
+      "animeContext": "This recipe is thematically inspired by Non Non Biyori, Azumanga Daioh. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose flour",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "yeast for desserts",
           "note": null
         },
         "zucchero_grezzo_di_canna": {
-          "name": "Sugar grezzo di canna (kokuto) o granulated sugar",
+          "name": "raw cane sugar (Kokuto) or granulated sugar",
           "note": null
         },
         "uovo": {
-          "name": "Egg",
+          "name": "egg",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral oil",
+          "name": "seed oil",
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Oil for frying",
+          "name": "frying oil",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the filling or main ingredient, season it evenly and dry or chill it as needed so the coating can adhere without slipping.",
-        "step_2": "Coat or batter the pieces in the stated order, keeping the outer layer light and even rather than pressing it into a dense shell.",
-        "step_3": "Fry in small batches at controlled temperature until the exterior is deeply crisp and the center is fully cooked or heated through.",
-        "step_4": "Drain on a rack or absorbent paper, add the finishing sauce or garnish only at the end and serve promptly before the crust softens."
+        "step_1": "Slice flour and yeast and keep them aside.",
+        "step_2": "Beat eggs, sugar and the oil in the dough until the sugar is almost dissolved.",
+        "step_3": "Embed dry ingredients with a spatula until you get a very thick and sticky dough; do not work it any more than you need.",
+        "step_4": "Plenty of oil at about 150-160°C: a moderate temperature allows pancakes to cook inside before darkening.",
+        "step_5": "Slightly grease your hands and form balls of the size of a walnut without compressing them too much.",
+        "step_6": "Fry a few pieces at a time for 6-8 minutes, turning them often, until the cracks appear and the surface is well golden.",
+        "step_7": "Drain on a grid or absorbent paper and let cool a few minutes before serving."
       }
     },
     "it": {
       "title": "Sata Andagi (Frittelle Dolci Tradizionali di Okinawa)",
-      "description": "Un Sata Andagi (Frittelle Dolci Tradizionali di Okinawa) croccante, con rivestimento asciutto e ben aderente e interno succoso o cremoso, fritto a temperatura controllata e servito appena pronto.",
+      "description": "Le Sata Andagi sono frittelle di Okinawa preparate con un impasto denso di farina, uova e zucchero. Vengono fritte a temperatura moderata per favorire una cottura uniforme e la tipica superficie aperta in piccole crepe. Le palline vengono fritte lentamente e girate più volte, finché sulla superficie si aprono le crepe tipiche delle sata andagi.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Non Non Biyori, Azumanga Daioh. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "farina_00": {
@@ -147,40 +162,43 @@
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Olio per friggere",
+          "name": "olio per friggere",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, lavora le uova con lo zucchero e l'olio fino a sciogliere i granelli.",
-        "step_2": "Prosegui così: setaccia la farina con il lievito e incorporala al composto di uova amalgamando con una spatola fino a ottenere un impasto denso e appiccicoso.",
-        "step_3": "Nella fase successiva, porta a temperatura abbondante olio di frittura a 150°C (temperatura medio-bassa per permettere la cottura interna). Con le mani unte d'olio, forma delle palline della dimensione di una noce e tuffale nell'olio caldo.",
-        "step_4": "Per completare, friggi girando spesso per 6-8 minuti finché le frittelle si aprono in superficie con le caratteristiche crepe dorate e scure. Scola su carta assorbente e porta in tavola tiepide."
+        "step_1": "Setaccia farina e lievito e tienili da parte.",
+        "step_2": "Sbatti uova, zucchero e l’olio previsto nell’impasto finché lo zucchero è quasi sciolto.",
+        "step_3": "Incorpora gli ingredienti secchi con una spatola fino a ottenere un impasto molto denso e appiccicoso; non lavorarlo più del necessario.",
+        "step_4": "Porta abbondante olio a circa 150-160°C: una temperatura moderata permette alle frittelle di cuocere all’interno prima di scurire.",
+        "step_5": "Ungi leggermente le mani e forma palline della dimensione di una noce senza comprimerle troppo.",
+        "step_6": "Friggi pochi pezzi alla volta per 6-8 minuti, girandoli spesso, finché compaiono le caratteristiche crepe e la superficie è ben dorata.",
+        "step_7": "Scola su griglia o carta assorbente e lascia intiepidire qualche minuto prima di servire."
       }
     },
     "es": {
-      "title": "Sata Andagi",
-      "description": "Una versión práctica de Sata Andagi para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Non Non Biyori, Azumanga Daioh. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Sata andagi — buñuelos dulces tradicionales de Okinawa",
+      "description": "Los Sata Andagi son panqueques de Okinawa preparados con una masa de harina, huevos y azúcar. Se fríen a temperatura moderada para favorecer una cocción uniforme y la típica superficie abierta en pequeñas grietas. Las bolas se fríen lentamente y se giran varias veces, hasta que se abren las grietas típicas de las sadas andaginas en la superficie.",
+      "animeContext": "Esta receta está inspirada temáticamente en Non Non Biyori, Azumanga Daioh. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose harina",
+          "name": "harina 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "levadura para pasteles",
           "note": null
         },
         "zucchero_grezzo_di_canna": {
-          "name": "Azúcar grezzo di canna (kokuto) o granulated azúcar",
+          "name": "azúcar en bruto de caña (Kokuto) o azúcar semilado",
           "note": null
         },
         "uovo": {
-          "name": "Huevo",
+          "name": "huevo",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral aceite",
+          "name": "Aceite de semilla",
           "note": null
         },
         "olio_per_friggere": {
@@ -189,64 +207,70 @@
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Saco de harina y levadura y mantenlos a un lado.",
+        "step_2": "Batir huevos, azúcar y aceite en la masa hasta que el azúcar esté casi disuelto.",
+        "step_3": "Incorpora los ingredientes secos con una espátula hasta obtener una masa muy densa y pegajosa; no la trabajes más de lo necesario.",
+        "step_4": "Trae abundante aceite a unos 150-160 °C: una temperatura moderada permite que los panqueques se cocinen en el interior antes de oscurecer.",
+        "step_5": "Unge ligeramente las manos y forma bolas del tamaño de una nuez sin comprimirlas demasiado.",
+        "step_6": "Freír unas pocas piezas a la vez durante 6-8 minutos, girarlos a menudo, hasta que aparezcan las características grietas y la superficie es bien dorada.",
+        "step_7": "Escurrir sobre la parrilla o el papel absorbente y dejar intimidar unos minutos antes de servir."
       }
     },
     "fr": {
-      "title": "Sata Andagi",
-      "description": "Une version pratique de Sata Andagi à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Non Non Biyori, Azumanga Daioh. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Sata andagi — beignets sucrés traditionnels d’Okinawa",
+      "description": "Les Sata Andagi sont des crêpes d'Okinawa préparées avec une pâte dense de farine, d'œufs et de sucre. Elles sont frites à température modérée pour favoriser une cuisson uniforme et la surface typique ouverte dans de petites fissures. Les boules sont frites lentement et tournées plusieurs fois, jusqu'à ce que les fissures typiques des sata andagis s'ouvrent sur la surface.",
+      "animeContext": "Cette recette s'inspire librement de Non Non Biyori, Azumanga Daioh. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose farine",
+          "name": "farine 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "levain pour desserts",
           "note": null
         },
         "zucchero_grezzo_di_canna": {
-          "name": "Sucre grezzo di canna (kokuto) o granulated sucre",
+          "name": "sucre brut de canne (Kokuto) ou sucre décortiqué",
           "note": null
         },
         "uovo": {
-          "name": "Œuf",
+          "name": "œuf",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral huile",
+          "name": "huile de graines",
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Huile pour friture",
+          "name": "huile à frire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Soie de farine et de levure et garde-les de côté.",
+        "step_2": "Battre des œufs, du sucre et de l'huile prévue dans la pâte jusqu'à ce que le sucre soit presque dissous.",
+        "step_3": "Il intègre les ingrédients secs avec une spatule jusqu'à obtenir une pâte très dense et collante; ne pas le travailler plus que nécessaire.",
+        "step_4": "Apporte beaucoup d'huile à environ 150-160°C: une température modérée permet aux crêpes de cuire à l'intérieur avant de sombrer.",
+        "step_5": "Pincez légèrement les mains et formez des boules de la taille d'une noix sans les compresser trop.",
+        "step_6": "Frottez quelques morceaux à la fois pendant 6-8 minutes, en les tournant souvent, jusqu'à ce que les caractéristiques de fissure apparaissent et la surface est bien dorée.",
+        "step_7": "Essayez sur grille ou papier absorbant et laissez tiède quelques minutes avant de servir."
       }
     },
     "de": {
-      "title": "Sata Andagi",
-      "description": "Eine alltagstaugliche Version von Sata Andagi für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Non Non Biyori, Azumanga Daioh inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Sata Andagi – traditionelle süße Krapfen aus Okinawa",
+      "description": "Die Sata Andagi sind Pfannkuchen aus Okinawa, zubereitet mit einem dicken Teig aus Mehl, Eiern und Zucker. Sie werden bei moderater Temperatur gebraten, um eine gleichmäßige Kochen und die typische offene Oberfläche in kleinen Risse zu fördern. Die Bälle werden langsam gebraten und mehrmals gedreht, bis auf der Oberfläche die typischen Risse der Sata Andagi geöffnet werden.",
+      "animeContext": "Dieses Rezept ist thematisch von Non Non Biyori, Azumanga Daioh inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose Mehl",
+          "name": "Mehl 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "Kuchenhefe",
           "note": null
         },
         "zucchero_grezzo_di_canna": {
-          "name": "Zucker grezzo di canna (kokuto) o granulated Zucker",
+          "name": "Rohrrohzucker (Kokuto) oder Sämischzucker",
           "note": null
         },
         "uovo": {
@@ -254,44 +278,47 @@
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral Öl",
+          "name": "Samenöl",
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Öl zum Frittieren",
+          "name": "Bratenöl",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Seide Mehl und Hefe und halten Sie sie beiseite.",
+        "step_2": "Schlagen Sie Eier, Zucker und Öl im Teig, bis der Zucker fast aufgelöst ist.",
+        "step_3": "Fügen Sie die trockenen Zutaten mit einem Spachtel, bis Sie einen sehr dichten und klebrigen Teig erhalten; nicht mehr als nötig zu verarbeiten.",
+        "step_4": "Es bringt reichlich Öl bei ca. 150-160°C: Eine gemäßigte Temperatur ermöglicht es den Pfannkuchen, im Inneren zu kochen, bevor sie dunkel werden.",
+        "step_5": "Fügen Sie leicht Ihre Hände und bilden Sie Kugeln der Größe einer Nuss, ohne sie zu komprimieren.",
+        "step_6": "Frittieren Sie ein paar Stücke auf einmal für 6-8 Minuten, drehen Sie sie oft, bis die Merkmale der Risse und die Oberfläche ist gut goldig.",
+        "step_7": "Schütten Sie auf Gitter oder absorbierendes Papier und lassen Sie ein paar Minuten vor dem Servieren eintauchen."
       }
     },
     "pt": {
-      "title": "Sata Andagi",
-      "description": "Uma versão prática de Sata Andagi para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Non Non Biyori, Azumanga Daioh. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Sata andagi — sonhos doces tradicionais de Okinawa",
+      "description": "Os Sata Andagi são panquecas Okinawa preparadas com uma massa espessa de farinha, ovos e açúcar. Eles são fritos a temperatura moderada para facilitar uma cozinha uniforme e a superfície típica aberta em pequenas fendas. As bolas são lentamente fritas e giradas várias vezes, até que as fissuras típicas do sata vagi se abram na superfície.",
+      "animeContext": "Esta receita inspira-se tematicamente em Non Non Biyori, Azumanga Daioh. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose farinha",
+          "name": "farinha 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "levedura para sobremesas",
           "note": null
         },
         "zucchero_grezzo_di_canna": {
-          "name": "Açúcar grezzo di canna (kokuto) o granulated açúcar",
+          "name": "açúcar bruto de cana (Kokuto) ou açúcar semolado",
           "note": null
         },
         "uovo": {
-          "name": "Ovo",
+          "name": "ovo",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral óleo",
+          "name": "óleo de sementes",
           "note": null
         },
         "olio_per_friggere": {
@@ -300,10 +327,13 @@
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte farinha e levedura e mantenha- os de lado.",
+        "step_2": "Bata os ovos, o açúcar e o óleo na massa até que o açúcar esteja quase dissolvido.",
+        "step_3": "Incorpore ingredientes secos com uma espátula até obter uma massa muito espessa e pegajosa; não funcione mais do que precisa.",
+        "step_4": "Muito óleo a cerca de 150-160°C: uma temperatura moderada permite que as panquecas cozinhem dentro antes de escurecer.",
+        "step_5": "Graxa levemente as mãos e forme bolas do tamanho de uma noz sem comprimi- las demais.",
+        "step_6": "Frite algumas peças de cada vez por 6-8 minutos, girando- as muitas vezes, até que as fissuras apareçam e a superfície esteja bem dourada.",
+        "step_7": "Esqueça uma grade ou papel absorvente e deixe esfriar alguns minutos antes de servir."
       }
     }
   }

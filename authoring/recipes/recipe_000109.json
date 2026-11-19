@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000109",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 5,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -57,7 +57,7 @@
     {
       "id": "pizzico_di_sale",
       "quantity": 1,
-      "unit": null
+      "unit": "pinch"
     }
   ],
   "steps": [
@@ -76,45 +76,60 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kurogoma Ice Cream",
-      "description": "A Japanese-style Kurogoma Ice Cream designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Gintama. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kurogoma Ice Cream — black sesame ice cream",
+      "description": "The Kurogoma Ice Cream is a black sesame ice cream obtained by incorporating toasted sesame paste with a base of milk, cream and sugar. The mixture is cooled and maintained; without ice cream maker it requires mixing during freezing to limit ice crystals. The black sesame base is lightened by incorporating cream; without ice cream maker it mixes during freezing to limit its crystals.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Gintama. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "pasta_di_sesamo_nero": {
-          "name": "Black sesame paste (neri goma)",
+          "name": "black sesame paste (Black Goma)",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy cream da montare",
+          "name": "fresh cream to be assembled",
           "note": null
         },
         "latte_intero": {
-          "name": "Milk intero",
+          "name": "whole milk",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di salt",
+          "name": "salt",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Mix milk, sugar and salt in a saucepan and heat them over medium heat until the sugar is completely dissolved, without boiling.",
+        "step_2": "Embed the black sesame paste with a whisk until a uniform base is obtained without lumps.",
+        "step_3": "It cools the mixture quickly, first at room temperature and then in the refrigerator until it is cold.",
+        "step_4": "Mount the cream up to a soft consistency, not excessively firm.",
+        "step_5": "It incorporates the cream at the base of sesame in two or three times with delicate movements, maintaining the airy compound.",
+        "step_6": "With ice cream maker, keep until the consistency expected by the manufacturer and transfer to freezer to stabilize.",
+        "step_7": "Without ice cream maker, freeze in a low container and mix vigorously every 30 minutes for about 2 hours, then let completely firm before serving."
       }
     },
     "it": {
       "title": "Kurogoma Ice Cream (Gelato al Sesamo Nero)",
-      "description": "Un Kurogoma Ice Cream (Gelato al Sesamo Nero) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Il Kurogoma Ice Cream è un gelato al sesamo nero ottenuto incorporando pasta di sesamo tostato a una base di latte, panna e zucchero. Il composto viene raffreddato e mantecato; senza gelatiera richiede mescolamenti durante il congelamento per limitare i cristalli di ghiaccio. La base al sesamo nero viene alleggerita incorporando la panna; senza gelatiera si mescola durante il congelamento per limitarne i cristalli.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Gintama. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "pasta_di_sesamo_nero": {
@@ -134,98 +149,107 @@
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "pizzico di sale",
+          "name": "sale",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, porta a temperatura il latte con lo zucchero e il sale finché non si scioglie tutto.",
-        "step_2": "Prosegui così: unisci la pasta di sesamo nero montando con una frusta fino ad amalgamare completamente.",
-        "step_3": "Nella fase successiva, monta la panna e incorporala delicatamente al composto di sesamo raffreddato.",
-        "step_4": "Per completare, aggiungi nella gelatiera o in freezer amalgamando ogni 30 minuti per le prime 2 ore."
+        "step_1": "Mescola latte, zucchero e sale in un pentolino e scaldali a fuoco medio finché lo zucchero è completamente sciolto, senza far bollire.",
+        "step_2": "Incorpora la pasta di sesamo nero con una frusta fino a ottenere una base uniforme e senza grumi.",
+        "step_3": "Raffredda rapidamente il composto, prima a temperatura ambiente e poi in frigorifero finché è ben freddo.",
+        "step_4": "Monta la panna fino a una consistenza morbida, non eccessivamente ferma.",
+        "step_5": "Incorpora la panna alla base di sesamo in due o tre volte con movimenti delicati, mantenendo il composto arioso.",
+        "step_6": "Con gelatiera, manteca fino alla consistenza prevista dal produttore e trasferisci in freezer per stabilizzare.",
+        "step_7": "Senza gelatiera, congela in un contenitore basso e mescola energicamente ogni 30 minuti per circa 2 ore, poi lascia rassodare completamente prima di servire."
       }
     },
     "es": {
-      "title": "Kurogoma Ice Cream",
-      "description": "Una versión práctica de Kurogoma Ice Cream para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Gintama. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Helado de sésamo negro kurogoma",
+      "description": "El Kurogoma Ice Cream es un helado de sésamo negro obtenido mediante la incorporación de pasta de sésamo tostada a una base de leche, nata y azúcar. El compuesto se enfría y se manta; sin heladera requiere mezcla durante la congelación para limitar los cristales de hielo. La base del sésamo negro se suaviza mediante la incorporación de la nata; sin la heladera se mezcla durante la congelación para limitar los cristales.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Gintama. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "pasta_di_sesamo_nero": {
-          "name": "Negro sesame paste (neri goma)",
+          "name": "pasta de sésamo negra (Neri Goma)",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy nata da montare",
+          "name": "crema fresca para montar",
           "note": null
         },
         "latte_intero": {
-          "name": "Leche intero",
+          "name": "leche entera",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di sal",
+          "name": "sal",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Mezcla la leche, el azúcar y sube a una olla y calientalos a fuego medio hasta que el azúcar esté completamente disuelto, sin hervir.",
+        "step_2": "Incorpora la pasta de sésamo negra con unas varillas hasta obtener una base uniforme y sin grumos.",
+        "step_3": "Enfría rápidamente el compuesto, primero a temperatura ambiente y luego en la nevera hasta que esté bien frío.",
+        "step_4": "Monta la crema hasta una textura suave, no demasiado firme.",
+        "step_5": "Inserta la crema en la base de sésamo en dos o tres veces con movimientos delicados, manteniendo el compuesto aireado.",
+        "step_6": "Con heladera, mantén hasta la consistencia prevista por el fabricante y transfiere al congelador para estabilizar.",
+        "step_7": "Sin heladera, se congela en un contenedor bajo y se mezcla vigorosamente cada 30 minutos durante aproximadamente 2 horas, luego deja reposar completamente antes de servir."
       }
     },
     "fr": {
-      "title": "Kurogoma Ice Cream",
-      "description": "Une version pratique de Kurogoma Ice Cream à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Gintama. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Glace au sésame noir kurogoma",
+      "description": "Le Kurogoma Ice Cream est une glace au sésame noir obtenue par l'incorporation de pâte de sésame grillée à une base de lait, de crème et de sucre. Le composé est refroidi et entretenu; sans glace, il faut mélanger pendant la congélation pour limiter les cristaux de glace. La base du sésame noir est adoucie par l'incorporation de la crème; sans crème glacée, elle se mélange pendant la congélation pour en limiter les cristaux.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "pasta_di_sesamo_nero": {
-          "name": "Noir sesame paste (neri goma)",
+          "name": "pâte de sésame noir (Neri Goma)",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy crème da montare",
+          "name": "crème fraîche à monter",
           "note": null
         },
         "latte_intero": {
-          "name": "Lait intero",
+          "name": "lait entier",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di sel",
+          "name": "sel",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Mélangez le lait, le sucre et le sel dans une casserole et chauffez-les à feu moyen jusqu'à ce que le sucre soit complètement dissous, sans faire bouillir.",
+        "step_2": "Il intègre la pâte de sésame noir avec un fouet jusqu'à obtenir une base uniforme et sans grumeaux.",
+        "step_3": "Refroidissez rapidement le composé, d'abord à température ambiante, puis au réfrigérateur jusqu'à ce qu'il soit bien froid.",
+        "step_4": "Montez la crème jusqu'à une texture douce, pas trop ferme.",
+        "step_5": "Il intègre la crème à la base de sésame en deux ou trois fois avec des mouvements délicats, tout en maintenant le composé aéré.",
+        "step_6": "Avec glace, manteca jusqu'à la consistance prévue par le fabricant et déménagez dans le congélateur pour stabiliser.",
+        "step_7": "Sans crème glacée, elle gèle dans un récipient bas et mélange vigoureusement toutes les 30 minutes pendant environ 2 heures, puis laisse refroidir complètement avant de servir."
       }
     },
     "de": {
-      "title": "Kurogoma Ice Cream",
-      "description": "Eine alltagstaugliche Version von Kurogoma Ice Cream für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Gintama inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kurogoma-Eis – Eiscreme mit schwarzem Sesam",
+      "description": "Kurogoma Ice Cream ist ein schwarzes Sesam-Eis, das durch Einbetten von gerösteten Sesampasten auf einer Basis von Milch, Sahne und Zucker hergestellt wird. Die Verbindung wird gekühlt und ummantelt; ohne Eismaschine erfordert Mischen während des Gefrierens, um die Eiskristalle zu begrenzen. Die Basis des schwarzen Sesams wird durch die Aufnahme der Sahne gemildert; ohne Eismaschine mischt sich während des Gefrierens, um die Kristalle zu begrenzen.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Gintama inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "pasta_di_sesamo_nero": {
-          "name": "Schwarz sesame paste (neri goma)",
+          "name": "Schwarzer Sesampaste (Schwarzer Goma)",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy Sahne da montare",
+          "name": "Frisch zu montierende Sahne",
           "note": null
         },
         "latte_intero": {
-          "name": "Milch intero",
+          "name": "Vollmilch",
           "note": null
         },
         "zucchero": {
@@ -233,48 +257,54 @@
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di Salz",
+          "name": "Salz",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Mischen Sie Milch, Zucker und Salz in einen Topf und erwärmen Sie sie bei mittlerer Hitze, bis der Zucker vollständig gelöst ist, ohne kochen zu lassen.",
+        "step_2": "Die schwarze Sesampaste mit einem Schneebesen gründlich einrühren, bis eine glatte, klümpchenfreie Mischung entsteht.",
+        "step_3": "Kühlen Sie die Verbindung schnell, zuerst bei Raumtemperatur und dann im Kühlschrank, bis es kalt ist.",
+        "step_4": "Sahne bis zu einer weichen, nicht zu stillen Textur.",
+        "step_5": "Fügen Sie die Sahne an der Sesambasis in zwei oder drei Mal mit sanften Bewegungen ein und halten Sie die luftige Verbindung.",
+        "step_6": "Mit Eisdiele, manteca bis zu der vom Hersteller erwarteten Konsistenz und ziehen Sie in den Gefrierschrank, um zu stabilisieren.",
+        "step_7": "Ohne Gefriertruhe, frieren Sie sie in einem niedrigen Behälter und mischen Sie alle 30 Minuten für etwa 2 Stunden kräftig, dann lassen Sie es vollständig kühlen, bevor Sie servieren."
       }
     },
     "pt": {
-      "title": "Kurogoma Ice Cream",
-      "description": "Uma versão prática de Kurogoma Ice Cream para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Gintama. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Gelado de sésamo preto kurogoma",
+      "description": "O sorvete de Kurogoma é um sorvete de sésamo preto obtido por incorporação de pasta de sésamo torrada com uma base de leite, creme e açúcar. A mistura é arrefecida e mantida; sem o fabricante de sorvete, é necessário misturar durante o congelamento para limitar os cristais de gelo. A base de sésamo preto é iluminada por incorporação de creme; sem gelado ele mistura durante o congelamento para limitar seus cristais.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Gintama. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "pasta_di_sesamo_nero": {
-          "name": "Preto sesame paste (neri goma)",
+          "name": "pasta de sésamo preto (Goma Preto)",
           "note": null
         },
         "panna_fresca_da_montare": {
-          "name": "Heavy natas da montare",
+          "name": "creme fresco a ser montado",
           "note": null
         },
         "latte_intero": {
-          "name": "Leite intero",
+          "name": "leite inteiro",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di sal",
+          "name": "sal",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Misture leite, açúcar e sal em uma panela e aqueça- os a fogo médio até que o açúcar seja completamente dissolvido, sem ebulição.",
+        "step_2": "Incorpore a pasta de sésamo preto com um batido até que uma base uniforme seja obtida sem grumos.",
+        "step_3": "Ele esfria a mistura rapidamente, primeiro à temperatura ambiente e depois na geladeira até que esteja frio.",
+        "step_4": "Monte o creme até uma consistência suave, não excessivamente firme.",
+        "step_5": "Ele incorpora o creme na base do sésamo em duas ou três vezes com movimentos delicados, mantendo o composto aéreo.",
+        "step_6": "Com o fabricante de sorvete, manter até a consistência esperada pelo fabricante e transferir para o congelador para estabilizar.",
+        "step_7": "Sem fabricante de sorvete, congelar em um recipiente baixo e misturar vigorosamente a cada 30 minutos por cerca de 2 horas, em seguida, deixar completamente firme antes de servir."
       }
     }
   }

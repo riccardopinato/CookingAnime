@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000079",
-  "contentVersion": 1,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Isekai Shokudo (Restaurant to Another World)",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 30,
   "cookMinutes": 20,
   "servings": 4,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -76,8 +76,8 @@
     },
     {
       "id": "farina_00_2",
-      "quantity": null,
-      "unit": null
+      "quantity": 50,
+      "unit": "g"
     },
     {
       "id": "uovo_sbattute",
@@ -102,7 +102,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 120
     },
     {
       "id": "step_3",
@@ -111,36 +111,60 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 3600
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_10",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kani Cream Korokke",
-      "description": "A crisp Kani Cream Korokke with a dry, well-set coating and a juicy or creamy center, cooked in controlled oil and served before the crust softens.",
-      "animeContext": "This recipe is thematically inspired by Isekai Shokudo (Restaurant to Another World), Spy x Family. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kani Cream Korokke — creamy crab croquettes",
+      "description": "The Kani Cream Korokke contains a creamy filling of crab, onion and béchamel in a crispy panic. The mixture is cooled before forming the croquettes; after frying they serve hot with tonkatsu sauce. The creamy heart of crab contrasts with golden breading: after frying the croquettes drain and serve with tonkatsu.",
+      "animeContext": "This recipe is thematically inspired by Isekai Shokudo (Restaurant to Another World), Spy x Family. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "polpa_di_granchio": {
-          "name": "Polpa di crab (o surimi finely chopped)",
+          "name": "Crab pulp (or finely chopped Surimi)",
           "note": null
         },
         "cipolla_tritata_finissimamente": {
-          "name": "Onion tritata finissimamente",
+          "name": "Onion chopped very finely",
           "note": null
         },
         "burro": {
-          "name": "Butter",
+          "name": "butter",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose flour",
+          "name": "Italian 00 flour",
           "note": null
         },
         "latte_intero_caldo": {
-          "name": "Milk intero caldo",
+          "name": "hot whole milk",
           "note": null
         },
         "sale": {
-          "name": "Salt",
+          "name": "salt",
           "note": null
         },
         "pepe_nero": {
@@ -148,15 +172,15 @@
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "nutmeg",
           "note": null
         },
         "farina_00_2": {
-          "name": "All-purpose flour",
+          "name": "Italian 00 flour",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "Egg sbattute",
+          "name": "eggs beaten",
           "note": null
         },
         "panko": {
@@ -164,20 +188,26 @@
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Oil for frying",
+          "name": "frying oil",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the filling or main ingredient, season it evenly and dry or chill it as needed so the coating can adhere without slipping.",
-        "step_2": "Coat or batter the pieces in the stated order, keeping the outer layer light and even rather than pressing it into a dense shell.",
-        "step_3": "Fry in small batches at controlled temperature until the exterior is deeply crisp and the center is fully cooked or heated through.",
-        "step_4": "Drain on a rack or absorbent paper, add the finishing sauce or garnish only at the end and serve promptly before the crust softens."
+        "step_1": "In a pan melt the butter and fry the onion over low heat without turning it golden.",
+        "step_2": "Add flour and cook for 2 minutes by mixing (roux).",
+        "step_3": "Add the hot milk gradually, whisking until you have a very thick, smooth béchamel sauce.",
+        "step_4": "Combine the crab pulp, salt, pepper and nutmeg.",
+        "step_5": "Add the mixture on a flat pan, cover with film and put in the fridge for at least 1 hour until it becomes solid and moldable.",
+        "step_6": "With slightly oiled hands, divide the cold mixture into 8 oval portions.",
+        "step_7": "Pass each croquette into the flour, then into the beaten egg and finally into the Panko making it stick well.",
+        "step_8": "Fry in plenty of hot oil at 180°C for 3 minutes until golden and crispy.",
+        "step_9": "Drain and agial on absorbent paper.",
+        "step_10": "Serve with Tonkatsu sauce."
       }
     },
     "it": {
       "title": "Kani Cream Korokke (Crocchette Cremose al Granchio)",
-      "description": "Un Kani Cream Korokke (Crocchette Cremose al Granchio) croccante, con rivestimento asciutto e ben aderente e interno succoso o cremoso, fritto a temperatura controllata e servito appena pronto.",
+      "description": "Le Kani Cream Korokke racchiudono un ripieno cremoso di granchio, cipolla e besciamella in una panatura croccante. Il composto viene raffreddato prima di formare le crocchette; dopo la frittura si servono calde con salsa tonkatsu. Il cuore cremoso di granchio contrasta con la panatura dorata: dopo la frittura le crocchette si scolano e si servono con tonkatsu.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Isekai Shokudo (Restaurant to Another World), Spy x Family. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "polpa_di_granchio": {
@@ -201,7 +231,7 @@
           "note": null
         },
         "sale": {
-          "name": "Sale",
+          "name": "sale",
           "note": null
         },
         "pepe_nero": {
@@ -213,11 +243,11 @@
           "note": null
         },
         "farina_00_2": {
-          "name": "Farina 00",
+          "name": "farina 00",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "uovo sbattute",
+          "name": "uova sbattute",
           "note": null
         },
         "panko": {
@@ -230,59 +260,65 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, in un tegame sciogli il burro e soffriggi la cipolla a fuoco basso senza farla dorare. Unisci la farina e lascia cuocere per 2 minuti amalgamando (roux). Aggiungi il latte caldo a filo amalgamando con la frusta finché si crea una crema besciamella molto densa e liscia.",
-        "step_2": "Prosegui così: unisci la polpa di granchio, regola di sale, pepe e noce moscata. Aggiungi il composto su una teglia piatta, copri a contatto con pellicola e metti in frigorifero per almeno 1 ora finché diventa solido e modellabile.",
-        "step_3": "Nella fase successiva, con le mani leggermente oliate, dividi il composto freddo in 8 porzioni ovali. Passa ciascuna crocchetta nella farina, poi nell'uovo sbattuto e infine nel Panko facendolo aderire bene.",
-        "step_4": "Per completare, friggi in abbondante olio caldo a 180°C per 3 minuti finché dorate e croccanti. Scolale ed adagiale su carta assorbente. Porta in tavolare con salsa Tonkatsu."
+        "step_1": "In un tegame sciogli il burro e soffriggi la cipolla a fuoco basso senza farla dorare.",
+        "step_2": "Unisci la farina e lascia cuocere per 2 minuti amalgamando (roux).",
+        "step_3": "Aggiungi il latte caldo a filo amalgamando con la frusta finché si crea una crema besciamella molto densa e liscia.",
+        "step_4": "Unisci la polpa di granchio, regola di sale, pepe e noce moscata.",
+        "step_5": "Aggiungi il composto su una teglia piatta, copri a contatto con pellicola e metti in frigorifero per almeno 1 ora finché diventa solido e modellabile.",
+        "step_6": "Con le mani leggermente oliate, dividi il composto freddo in 8 porzioni ovali.",
+        "step_7": "Passa ciascuna crocchetta nella farina, poi nell'uovo sbattuto e infine nel Panko facendolo aderire bene.",
+        "step_8": "Friggi in abbondante olio caldo a 180°C per 3 minuti finché dorate e croccanti.",
+        "step_9": "Scolale ed adagiale su carta assorbente.",
+        "step_10": "Servi con salsa Tonkatsu."
       }
     },
     "es": {
-      "title": "Kani Cream Korokke",
-      "description": "Una versión práctica de Kani Cream Korokke para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Isekai Shokudo (Restaurant to Another World), Spy x Family. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kani cream korokke — croquetas cremosas de cangrejo",
+      "description": "Las Kani Cream Korokke encierran un relleno cremoso de cangrejo, cebolla y bechamel en una masa crujiente. El compuesto se enfría antes de formar croquetas; después de freír se sirven calientes con salsa tonkatsu. El corazón cremoso de cangrejo contrasta con la pasta dorada: después de freír las croquetas se deslizan y se sirven con tonkatsu.",
+      "animeContext": "Esta receta está inspirada temáticamente en Isekai Shokudo (Restaurant to Another World), Spy x Family. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "polpa_di_granchio": {
-          "name": "Polpa di cangrejo (o surimi picado fino)",
+          "name": "pulpa de cangrejo (o surimi picado finamente)",
           "note": null
         },
         "cipolla_tritata_finissimamente": {
-          "name": "Cebolla tritata finissimamente",
+          "name": "Cebolleta picada finamente",
           "note": null
         },
         "burro": {
-          "name": "Mantequilla",
+          "name": "mantequilla",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose harina",
+          "name": "harina 00",
           "note": null
         },
         "latte_intero_caldo": {
-          "name": "Leche intero caldo",
+          "name": "leche entera caliente",
           "note": null
         },
         "sale": {
-          "name": "Sal",
+          "name": "sal",
           "note": null
         },
         "pepe_nero": {
-          "name": "Negro pepper",
+          "name": "pimienta negra",
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "nuez moscada",
           "note": null
         },
         "farina_00_2": {
-          "name": "All-purpose harina",
+          "name": "harina 00",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "Huevo sbattute",
+          "name": "Huevos batidos",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese pan rallado)",
+          "name": "Panko (pan rallado japonés)",
           "note": null
         },
         "olio_per_friggere": {
@@ -291,84 +327,96 @@
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una sartén, suelta la mantequilla y sufro la cebolla a fuego lento sin que la dore.",
+        "step_2": "Mezcla la harina y deja que se cocine durante 2 minutos mediante la mezcla (roux).",
+        "step_3": "Añade la leche caliente poco a poco, removiendo con unas varillas hasta obtener una bechamel espesa y lisa.",
+        "step_4": "Une la pulpa de cangrejo, ajusta de sal, pimienta y nuez moscada.",
+        "step_5": "Añadir el compuesto sobre una bandeja plana, tapar en contacto con película y colocarlo en la nevera durante al menos 1 hora hasta que se vuelva sólido y modelable.",
+        "step_6": "Con las manos ligeramente aceitadas, divide el compuesto frío en 8 porciones ovaladas.",
+        "step_7": "Pasa cada croqueta en la harina, luego en el huevo batido y finalmente en el Panko haciendo que se adhiera bien.",
+        "step_8": "Freír en abundante aceite caliente a 180°C durante 3 minutos hasta que dore y crujiente.",
+        "step_9": "Escolale y adagiale sobre papel absorbente.",
+        "step_10": "Sirve con salsa Tonkatsu."
       }
     },
     "fr": {
-      "title": "Kani Cream Korokke",
-      "description": "Une version pratique de Kani Cream Korokke à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Isekai Shokudo (Restaurant to Another World), Spy x Family. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kani cream korokke — croquettes fondantes au crabe",
+      "description": "Les Kani Cream Korokke contiennent une farce crémeuse de crabe, d'oignon et de béchamel dans une panure croustillante. Le composé est refroidi avant de former les croquettes; après la friture, ils servent chauds avec de la sauce tonkatsu. Le cœur crémeux du crabe contraste avec la panure dorée: après la friture, les croquettes s'avalent et se servent de tonkatsu.",
+      "animeContext": "Cette recette s'inspire librement de Isekai Shokudo (Restaurant to Another World), Spy x Family. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "polpa_di_granchio": {
-          "name": "Polpa di crabe (o surimi finement haché)",
+          "name": "pulpe de crabe (ou Surimi haché finement)",
           "note": null
         },
         "cipolla_tritata_finissimamente": {
-          "name": "Oignon tritata finissimamente",
+          "name": "oignon haché finement",
           "note": null
         },
         "burro": {
-          "name": "Beurre",
+          "name": "beurre",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose farine",
+          "name": "farine 00",
           "note": null
         },
         "latte_intero_caldo": {
-          "name": "Lait intero caldo",
+          "name": "lait entier chaud",
           "note": null
         },
         "sale": {
-          "name": "Sel",
+          "name": "sel",
           "note": null
         },
         "pepe_nero": {
-          "name": "Noir pepper",
+          "name": "poivre noir",
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "noyer muscade",
           "note": null
         },
         "farina_00_2": {
-          "name": "All-purpose farine",
+          "name": "farine 00",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "Œuf sbattute",
+          "name": "œufs battus",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese chapelure)",
+          "name": "Panko (chapelure japonais)",
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Huile pour friture",
+          "name": "huile à frire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une casserole, faites fondre le beurre et mangez l'oignon à feu doux sans le faire dorer.",
+        "step_2": "Combinez la farine et laissez cuire pendant 2 minutes en mélangeant (roux).",
+        "step_3": "Ajoutez le lait chaud au fil en mélangeant avec le fouet jusqu'à ce qu'on crée une crème besciamel très dense et lisse.",
+        "step_4": "Combinez la pulpe de crabe, règle de sel, poivre et noix de muscade.",
+        "step_5": "Ajoutez le composé sur une plaque plate, couvrez en contact avec le film et mettez au réfrigérateur pendant au moins 1 heure jusqu'à ce qu'il soit solide et modelé.",
+        "step_6": "Avec les mains légèrement huilées, divisez le composé froid en 8 portions ovales.",
+        "step_7": "Il passe chaque croquette dans la farine, puis dans l'œuf claqué, puis dans le Panko, le faisant bien adhérer.",
+        "step_8": "Fritez en huile chaude à 180°C pendant 3 minutes jusqu'à ce que vous soyez dorés et croquants.",
+        "step_9": "Scolaire et apaisant sur papier absorbant.",
+        "step_10": "Sers avec de la sauce Tonkatsu."
       }
     },
     "de": {
-      "title": "Kani Cream Korokke",
-      "description": "Eine alltagstaugliche Version von Kani Cream Korokke für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Isekai Shokudo (Restaurant to Another World), Spy x Family inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kani Cream Korokke – cremige Krabbenkroketten",
+      "description": "Die Kani Cream Korokke enthalten eine cremige Füllung von Krabben, Zwiebeln und Byschamel in einem knusprigem Panura. Die Mischung wird vor der Bildung der Crocchetts gekühlt; nach dem Braten werden sie warm mit Tonkatsu-Sauce serviert. Das cremige Herz von Krabben kontrastiert mit der goldenen Panade: Nach dem Braten werden die Crocchettes abgerissen und mit Tonkatsu serviert.",
+      "animeContext": "Dieses Rezept ist thematisch von Isekai Shokudo (Restaurant to Another World), Spy x Family inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "polpa_di_granchio": {
-          "name": "Polpa di Krabbe (o surimi fein gehackt)",
+          "name": "Krabbenfleisch (oder fein gehackte Surimi)",
           "note": null
         },
         "cipolla_tritata_finissimamente": {
-          "name": "Zwiebel tritata finissimamente",
+          "name": "Frühlingszwiebeln",
           "note": null
         },
         "burro": {
@@ -376,11 +424,11 @@
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose Mehl",
+          "name": "Mehl 00",
           "note": null
         },
         "latte_intero_caldo": {
-          "name": "Milch intero caldo",
+          "name": "Warme Vollmilch",
           "note": null
         },
         "sale": {
@@ -388,84 +436,90 @@
           "note": null
         },
         "pepe_nero": {
-          "name": "Schwarz pepper",
+          "name": "Pfeffer, schwarz",
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "Muskatnuss",
           "note": null
         },
         "farina_00_2": {
-          "name": "All-purpose Mehl",
+          "name": "Mehl 00",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "Ei sbattute",
+          "name": "Geworfene Eier",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese Semmelbrösel)",
+          "name": "Panko (Japanischer Pony)",
           "note": null
         },
         "olio_per_friggere": {
-          "name": "Öl zum Frittieren",
+          "name": "Bratenöl",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer Pfanne schmelze die Butter und lass die Zwiebel niederbrennen, ohne sie golden zu lassen.",
+        "step_2": "Mischen Sie das Mehl und lassen Sie es für 2 Minuten mischen (Roux).",
+        "step_3": "Die warme Milch unter ständigem Rühren mit dem Schneebesen langsam zugießen, bis eine sehr dicke, glatte Béchamelcreme entstanden ist.",
+        "step_4": "Kombinieren Sie das Krabbenfleisch mit Salz, Pfeffer und Muskatnuss.",
+        "step_5": "Fügen Sie die Verbindung auf eine flache Platte, bedecken Sie den Kontakt mit Filmen und legen Sie sie für mindestens 1 Stunde in den Kühlschrank, bis sie fest und modellierbar wird.",
+        "step_6": "Mit leicht geölten Händen, teilen Sie die kalte Verbindung in 8 ovale Portionen.",
+        "step_7": "Er fährt jede Nudel in Mehl, dann ins zerstoßene Ei und schließlich in den Panko, indem er sie festhält.",
+        "step_8": "Frittieren Sie in reichlich heißem Öl bei 180°C für 3 Minuten, bis Sie goldig und knusprig sind.",
+        "step_9": "Schläfig und auf absorbierendem Papier haftend.",
+        "step_10": "Servieren mit Tonkatsu-Sauce."
       }
     },
     "pt": {
-      "title": "Kani Cream Korokke",
-      "description": "Uma versão prática de Kani Cream Korokke para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Isekai Shokudo (Restaurant to Another World), Spy x Family. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kani cream korokke — croquetes cremosos de caranguejo",
+      "description": "O Kani Cream Korokke contém um recheio cremoso de caranguejo, cebola e béchamel num pânico crocante. A mistura é resfriada antes de formar as croquetas; depois de fritar servem quente com molho tonkatsu. O coração cremoso do caranguejo contrasta com o pão dourado: depois de fritar as croquetas drenar e servir com tonkatsu.",
+      "animeContext": "Esta receita inspira-se tematicamente em Isekai Shokudo (Restaurant to Another World), Spy x Family. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "polpa_di_granchio": {
-          "name": "Polpa di caranguejo (o surimi picado fino)",
+          "name": "Pulpa de crabe (ou Surimi picado finamente)",
           "note": null
         },
         "cipolla_tritata_finissimamente": {
-          "name": "Cebola tritata finissimamente",
+          "name": "Cebola picada muito finamente",
           "note": null
         },
         "burro": {
-          "name": "Manteiga",
+          "name": "manteiga",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose farinha",
+          "name": "farinha 00",
           "note": null
         },
         "latte_intero_caldo": {
-          "name": "Leite intero caldo",
+          "name": "leite integral quente",
           "note": null
         },
         "sale": {
-          "name": "Sal",
+          "name": "sal",
           "note": null
         },
         "pepe_nero": {
-          "name": "Preto pepper",
+          "name": "Pimenta preta",
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "noz moscada",
           "note": null
         },
         "farina_00_2": {
-          "name": "All-purpose farinha",
+          "name": "farinha 00",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "Ovo sbattute",
+          "name": "ovos batidos",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese pão ralado)",
+          "name": "Panko (Pães japonesas)",
           "note": null
         },
         "olio_per_friggere": {
@@ -474,10 +528,16 @@
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa panela derreta a manteiga e frita a cebola a fogo lento sem torná- la dourada.",
+        "step_2": "Adicione farinha e cozinhe por 2 minutos misturando (roux).",
+        "step_3": "Junte o leite quente aos poucos, mexendo com umas varas até obter um béchamel espesso e liso.",
+        "step_4": "Combine a polpa de caranguejo, sal, pimenta e noz- moscada.",
+        "step_5": "Adicione a mistura em uma panela plana, cubra com película e coloque no frigorífico durante pelo menos 1 hora até que se torne sólida e moldável.",
+        "step_6": "Com mãos ligeiramente oleadas, divida a mistura fria em 8 porções ovais.",
+        "step_7": "Passe cada croqueta para a farinha, em seguida, para o ovo batido e finalmente para o Panko fazendo- o colar bem.",
+        "step_8": "Fritar em muito óleo quente a 180°C durante 3 minutos até dourado e crocante.",
+        "step_9": "Esgote e age no papel absorvente.",
+        "step_10": "Servir com molho Tonkatsu."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000077",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -60,11 +60,6 @@
       "unit": "tbsp"
     },
     {
-      "id": "1",
-      "quantity": 1,
-      "unit": null
-    },
-    {
       "id": "zucchero",
       "quantity": 5,
       "unit": "tbsp"
@@ -82,7 +77,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 300
     },
     {
       "id": "step_3",
@@ -90,25 +85,37 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 480
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Unadon",
-      "description": "A satisfying Unadon centered on warm rice and carefully prepared toppings, with seasoning kept focused so each component remains recognizable.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Detective Conan. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Unadon — grilled kabayaki eel over rice",
+      "description": "Unadon combines grilled and glazed kabayaki eel with sweet-salad sauce with warm white rice. The condiment of soy, mirin, sake and sugar is squeezed separately and brushed on the eel before placing it on the bowl. The eel is placed on the rice already seasoned and finished with other sauce, then with a pinch of sansho.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Detective Conan. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "anguilla_grigliata": {
-          "name": "Eel grigliata (unagi kabayaki, reperibile surgelata nei negozi asiatici)",
+          "name": "grilled eel (Unagi Kabayaki, available frozen in Asian shops)",
           "note": null
         },
         "riso_per_sushi_cotto_al_vapore": {
-          "name": "Sushi rice cotto al vapore",
+          "name": "rice for steamed sushi",
           "note": null
         },
         "salsa_di_soia": {
@@ -120,34 +127,34 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "pepe_sansho": {
-          "name": "Pepper sansho (pepper giapponese) per guarnire",
+          "name": "Sansho pepper (Japanese pepper) to garnish",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice and keep it warm while you cook or season the toppings separately; dry wet ingredients well so the bowl does not become watery.",
-        "step_2": "Cook the principal topping with controlled heat and reduce any sauce until it coats the ingredients instead of pooling heavily in the bowl.",
-        "step_3": "Portion the rice, then arrange the toppings evenly so each serving contains the intended balance of protein, vegetables and seasoning.",
-        "step_4": "Add the final garnish and sauce just before serving, preserving crisp or raw elements until the last moment."
+        "step_1": "In a saucepan, add soy sauce, Mirin, Sake and sugar.",
+        "step_2": "Boil over low heat for 5 minutes until the sauce thickens and becomes syrupy and shiny, if the eel is frozen, completely thaw it in the refrigerator.",
+        "step_3": "Place the fillets on a baking sheet covered with baking paper.",
+        "step_4": "Brush them with the Tare sauce and heat them in a ventilated oven or under the grill at 200°C for 6-8 minutes until the surface simmers and becomes caramelized.",
+        "step_5": "Fill the bowls (Donburi) with hot white rice.",
+        "step_6": "Taste the rice with a spoonful of warm Unagi Tare sauce.",
+        "step_7": "Cut the eel fillets in half and lay gently over the rice.",
+        "step_8": "Brush with another veil of sauce and dust with a pinch of Sansho aromatic pepper."
       }
     },
     "it": {
       "title": "Unadon (Ciotola di Riso con Anguilla Kabayaki Grigliata)",
-      "description": "Un Unadon (Ciotola di Riso con Anguilla Kabayaki Grigliata) completo basato su riso caldo e guarnizioni preparate separatamente, con un condimento misurato che lascia riconoscibili tutti i componenti.",
+      "description": "L’Unadon abbina anguilla kabayaki grigliata e glassata con salsa dolce-salata a riso bianco caldo. Il condimento di soia, mirin, sake e zucchero viene ristretto a parte e spennellato sull’anguilla prima di disporla sulla ciotola. L'anguilla viene adagiata sul riso già condito e rifinita con altra salsa tare, poi con un pizzico di sansho.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Detective Conan. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "anguilla_grigliata": {
           "name": "anguilla grigliata (Unagi Kabayaki, reperibile surgelata nei negozi asiatici)",
           "note": null
@@ -165,7 +172,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
@@ -173,32 +180,32 @@
           "note": null
         },
         "pepe_sansho": {
-          "name": "Pepe Sansho (pepe giapponese) per guarnire",
+          "name": "pepe Sansho (pepe giapponese) per guarnire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, metti in un pentolino unisci salsa di soia, Mirin, Sake e zucchero. Fai sobbollire a fuoco basso per 5 minuti finché la salsa si addensa diventando sciropposa e lucida.",
-        "step_2": "Prosegui così: scongela l'anguilla. Adagia i filetti su una teglia rivestita di carta forno. Spennellali con la salsa Tare e porta a temperaturali in forno ventilato o sotto il grill a 200°C per 6-8 minuti finché la superficie sobbolle e diventa caramellata.",
-        "step_3": "Nella fase successiva, riempi le ciotole (Donburi) con il riso bianco caldo. Nappa il riso con un cucchiaio di salsa Unagi Tare calda.",
-        "step_4": "Per completare, taglia i filetti d'anguilla a metà e adagiali delicatamente sopra il riso. Spennella con un altro velo di salsa e spolvera con un pizzico di pepe Sansho aromatico."
+        "step_1": "In un pentolino, unisci salsa di soia, Mirin, Sake e zucchero.",
+        "step_2": "Fai sobbollire a fuoco basso per 5 minuti finché la salsa si addensa diventando sciropposa e lucida, Se l’anguilla è congelata, scongelala completamente in frigorifero.",
+        "step_3": "Adagia i filetti su una teglia rivestita di carta forno.",
+        "step_4": "Spennellali con la salsa Tare e scaldali in forno ventilato o sotto il grill a 200°C per 6-8 minuti finché la superficie sobbolle e diventa caramellata.",
+        "step_5": "Riempi le ciotole (Donburi) con il riso bianco caldo.",
+        "step_6": "Nappa il riso con un cucchiaio di salsa Unagi Tare calda.",
+        "step_7": "Taglia i filetti d'anguilla a metà e adagiali delicatamente sopra il riso.",
+        "step_8": "Spennella con un altro velo di salsa e spolvera con un pizzico di pepe Sansho aromatico."
       }
     },
     "es": {
-      "title": "Unadon",
-      "description": "Una versión práctica de Unadon para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Detective Conan. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Unadon — anguila kabayaki a la parrilla sobre arroz",
+      "description": "Unadon combina anguila kabayaki a la parrilla y glaseada con salsa dulce-ensalada de arroz blanco caliente. El condimento de soja, mirin, sake y azúcar se reduce a un lado y se desmenuza en la chuleta antes de colocarla en el tazón. La anguila se coloca sobre el arroz ya sazonado y acaba con otra salsa, luego con una pizca de sansho.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Detective Conan. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "anguilla_grigliata": {
-          "name": "Anguila grigliata (unagi kabayaki, reperibile surgelata nei negozi asiatici)",
+          "name": "Anguilla a la parrilla (Unagi Kabayaki, disponible congelada en las tiendas asiáticas)",
           "note": null
         },
         "riso_per_sushi_cotto_al_vapore": {
-          "name": "Sushi arroz cotto al vapore",
+          "name": "arroz para sushi cocido al vapor",
           "note": null
         },
         "salsa_di_soia": {
@@ -210,44 +217,44 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "pepe_sansho": {
-          "name": "Pepper sansho (pepper giapponese) per guarnire",
+          "name": "pimienta Sansho (pepe japonesa) para guarnecer",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una olla, combina salsa de soja, Mirin, Sake y azúcar.",
+        "step_2": "Hacer que el fuego baje durante 5 minutos hasta que la salsa se espese convirtiéndose en jarabea y brillante, Si la anguila está congelada, descárgala completamente en la nevera.",
+        "step_3": "Ajusta los filetes sobre una bandeja cubierta de papel de horno.",
+        "step_4": "Apriétalos con la salsa Tare y calientalos en el horno ventilado o debajo de la parrilla a 200°C durante 6-8 minutos hasta que la superficie suene y se convierte en caramelizada.",
+        "step_5": "Llena los cuencos (Donburi) con arroz blanco caliente.",
+        "step_6": "Nappa el arroz con una cucharada de salsa Unagi Tare caliente.",
+        "step_7": "Corta los filetes de anguila por la mitad y agáchalos suavemente sobre el arroz.",
+        "step_8": "Espinilla con otro velo de salsa y espolvorear con una pizca de pimienta Sansho aromática."
       }
     },
     "fr": {
-      "title": "Unadon",
-      "description": "Une version pratique de Unadon à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Detective Conan. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Unadon — anguille grillée kabayaki sur du riz",
+      "description": "L'Unadon allie l'anguille kabayaki grillée et glaciale avec la sauce sucrée-salée au riz blanc chaud. L'assaisonnement du soja, de la myrine, du saké et du sucre est réduit à part et plumé sur l'anguille avant de le placer sur le bol. L'anguille est adoucie sur le riz déjà assaisonné et finie avec une autre sauce tare, puis avec une pincée de sansho.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Detective Conan. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "anguilla_grigliata": {
-          "name": "Anguille grigliata (unagi kabayaki, reperibile surgelata nei negozi asiatici)",
+          "name": "anguille grillée (Unagi Kabayaki, disponible surgelée dans les magasins asiatiques)",
           "note": null
         },
         "riso_per_sushi_cotto_al_vapore": {
-          "name": "Sushi riz cotto al vapore",
+          "name": "riz pour sushis cuit à la vapeur",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
@@ -255,44 +262,44 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "saké",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "pepe_sansho": {
-          "name": "Pepper sansho (pepper giapponese) per guarnire",
+          "name": "poivre Sansho (poivre japonais) à garnir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une casserole, ajoutez de la sauce soja, Mirin, Sake et du sucre.",
+        "step_2": "Faites glisser au feu bas pendant 5 minutes jusqu'à ce que la sauce s'épaississe et devienne silencieuse et brillante, Si l'anguille est congelée, décongelez-la complètement au réfrigérateur.",
+        "step_3": "Adapte les filets sur une plaque recouverte de papier four.",
+        "step_4": "Pincez-les avec la sauce Tare et chauffez-les dans un four ventilé ou sous le gril à 200°C pendant 6-8 minutes jusqu'à ce que la surface s'envole et devienne caramélisée.",
+        "step_5": "Remplissez les bols (Donburi) avec du riz blanc chaud.",
+        "step_6": "Nappez le riz avec une cuillère à soupe de sauce Unagi Tare chaude.",
+        "step_7": "Coupez les filets d'anguille en deux et installez-les doucement au-dessus du riz.",
+        "step_8": "Éponge avec un autre voile de sauce et saupoudre avec une pincée de poivre Sansho aromatique."
       }
     },
     "de": {
-      "title": "Unadon",
-      "description": "Eine alltagstaugliche Version von Unadon für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Detective Conan inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Unadon – gegrillter Kabayaki-Aal auf Reis",
+      "description": "Der Kabayaki-Aal wird gegrillt und mit süßem Salat mit heißem Weißreis gegrillt. Die Soja-, Mirin-, Sake- und Zuckerpüree wird getrennt eingeengt und auf dem Aal gespeist, bevor sie auf die Schüssel gelegt wird. Der Aal wird auf den bereits gewürzten Reis gelegt und mit einer anderen Salsa tare, dann mit einer Prise Sansho, fertig gemacht.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Detective Conan inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "anguilla_grigliata": {
-          "name": "Aal grigliata (unagi kabayaki, reperibile surgelata nei negozi asiatici)",
+          "name": "Grillaal (Unagi Kabayaki, in asiatischen Geschäften gefroren)",
           "note": null
         },
         "riso_per_sushi_cotto_al_vapore": {
-          "name": "Sushi Reis cotto al vapore",
+          "name": "Reis für gedämpfte Sushi",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -300,7 +307,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
@@ -308,32 +315,32 @@
           "note": null
         },
         "pepe_sansho": {
-          "name": "Pepper sansho (pepper giapponese) per guarnire",
+          "name": "Pepe Sansho (Japanischer Pfeffer) zum Garnieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einem Topf, fügen Sie Soja-Sauce, Mirin, Sake und Zucker.",
+        "step_2": "Lassen Sie die Soße 5 Minuten lang mit niedrigem Feuer auftauen, bis die Soße sich verdichtet und saftig und glänzend wird, wenn der Aal gefroren ist, kühlen Sie sie vollständig im Kühlschrank auf.",
+        "step_3": "Passen Sie die Gewinde auf einem Backpapierblech an.",
+        "step_4": "Mit der Tare-Soße kämmen und im Ofen oder unter dem Grill bei 200 °C für 6-8 Minuten erwärmen, bis die Oberfläche weich und karamelliert wird.",
+        "step_5": "Füllen Sie die Schalen (Donburi) mit dem warmen weißen Reis.",
+        "step_6": "Nappa Reis mit einem Esslöffel Unagi Tare heißer Soße.",
+        "step_7": "Schneide die Aalfilets in die Mitte und lege sie vorsichtig über den Reis.",
+        "step_8": "Bestreichen Sie mit einem weiteren Schleier von Soße und Staub mit einem Hauch von Pfeffer Sansho Aroma."
       }
     },
     "pt": {
-      "title": "Unadon",
-      "description": "Uma versão prática de Unadon para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Detective Conan. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Unadon — enguia kabayaki grelhada sobre arroz",
+      "description": "Unadon combina enguia kabayaki grelhada e vitrificada com molho de salsa doce com arroz branco quente. O condimento de soja, mirin, sake e açúcar é espremido separadamente e escovado na enguia antes de colocá- lo na tigela. A enguia é colocada no arroz já temperado e terminado com outro molho, em seguida, com uma pitada de sansho.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Detective Conan. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "anguilla_grigliata": {
-          "name": "Enguia grigliata (unagi kabayaki, reperibile surgelata nei negozi asiatici)",
+          "name": "enguia grelhada (Unagi Kabayaki, disponível congelado em lojas asiáticas)",
           "note": null
         },
         "riso_per_sushi_cotto_al_vapore": {
-          "name": "Sushi arroz cotto al vapore",
+          "name": "arroz para sushi vaporizado",
           "note": null
         },
         "salsa_di_soia": {
@@ -345,23 +352,27 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "pepe_sansho": {
-          "name": "Pepper sansho (pepper giapponese) per guarnire",
+          "name": "Pimenta Sansho (pimenta japonesa) para decorar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Em uma panela, adicione molho de soja, Mirin, Sake e açúcar.",
+        "step_2": "Ferva a fogo lento durante 5 minutos até que o molho se espesse e se torne xaroposo e brilhante, se a enguia estiver congelada, descongelá- la completamente na geladeira.",
+        "step_3": "Coloque os filetes em uma folha de cozimento coberta com papel de cozimento.",
+        "step_4": "Escove- os com o molho Tare e aqueça- os em um forno ventilado ou sob a grelha a 200°C durante 6-8 minutos até que a superfície aqueça e se torne caramelizada.",
+        "step_5": "Preencha as tigelas (Donburi) com arroz branco quente.",
+        "step_6": "Prove o arroz com uma colher cheia de molho Tare Unagi quente.",
+        "step_7": "Cortar os filetes de enguia ao meio e deitar suavemente sobre o arroz.",
+        "step_8": "Escove com outro véu de molho e poeira com uma pitada de pimenta aromática Sansho."
       }
     }
   }

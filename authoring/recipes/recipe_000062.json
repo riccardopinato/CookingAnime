@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000062",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Yuru Camp△",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 20,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "cavolo_cinese",
       "quantity": 0.5,
-      "unit": null
+      "unit": "head"
     },
     {
       "id": "tofu_setoso_o_fermo",
@@ -50,8 +50,13 @@
       "unit": "piece"
     },
     {
-      "id": "funghi_enoki_e_4_funghi_shiitake",
+      "id": "funghi_enoki_e_4_funghi_shiitake_1_funghi_enoki",
       "quantity": 1,
+      "unit": "piece"
+    },
+    {
+      "id": "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake",
+      "quantity": 4.0,
       "unit": "piece"
     },
     {
@@ -101,28 +106,52 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 720
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kurogoma Nabe",
-      "description": "A comforting Kurogoma Nabe prepared with gentle simmering so the main ingredients become tender while the broth stays flavorful and balanced.",
-      "animeContext": "This recipe is thematically inspired by Yuru Camp△, Emiya-san Chi no Kyou no Gohan. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kurogoma Nabe — black sesame pork hotpot",
+      "description": "The Kurogoma Nabe combines slices of pork, Chinese cabbage, tofu and mushrooms in a single pot. The black miso and sesame sauce is mixed with dash and poured on the ingredients, then it is cooked covered as long as vegetables and meat are ready. Meat and vegetables cook in the same covered pot, to be served hot when the vegetables are tender but not unpacked.",
+      "animeContext": "This recipe is thematically inspired by Yuru Camp△, Emiya-san Chi no Kyou no Gohan. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "fette_sottili_di_pancia_di_maiale": {
-          "name": "Fette sottili di pancia di pork (o lonza)",
+          "name": "thin slices of pork belly (or linza)",
           "note": null
         },
         "cavolo_cinese": {
-          "name": "Napa cabbage (hakusai) cut into pezzi da 4 cm",
+          "name": "Chinese cabbage (Hakusai) cut into 4 cm pieces",
           "note": null
         },
         "tofu_setoso_o_fermo": {
-          "name": "Tofu setoso o fermo (cut into cubotti)",
+          "name": "silky or firm tofu (cut into cubes)",
           "note": null
         },
-        "funghi_enoki_e_4_funghi_shiitake": {
-          "name": "Mushrooms enoki e 4 shiitake mushrooms",
+        "funghi_enoki_e_4_funghi_shiitake_1_funghi_enoki": {
+          "name": "Enoki mushrooms",
+          "note": null
+        },
+        "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake": {
+          "name": "Shiitake mushrooms",
           "note": null
         },
         "brodo_dashi": {
@@ -130,7 +159,7 @@
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Black sesame paste (kuro neri goma)",
+          "name": "black sesame paste (Kuro Neri Goma)",
           "note": null
         },
         "salsa_di_soia": {
@@ -138,28 +167,33 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "miso": {
-          "name": "Miso",
+          "name": "miso",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and organize the main ingredients so pieces of similar density are comparable in size; prepare the seasoned broth separately before simmering.",
-        "step_2": "Build the broth over moderate heat and add the ingredients in order of cooking time, keeping the liquid at a gentle simmer rather than a hard boil.",
-        "step_3": "Continue cooking until proteins are safely cooked and vegetables are tender but intact, adjusting the seasoning only after the broth has reduced slightly.",
-        "step_4": "Finish with the final aromatics or garnish and serve hot, allowing a brief rest when useful so the ingredients absorb the seasoned broth."
+        "step_1": "Clean vegetables and mushrooms.",
+        "step_2": "Cut the Chinese cabbage into medium-sized pieces and the Shiitake mushrooms by making a cross incision on the chapel.",
+        "step_3": "In a bowl, melt the black sesame paste with miso, mirin and soy sauce, adding a ladle of hot dashi broth until you get a fluid and homogeneous mixture.",
+        "step_4": "In a pot, of terracotta (or large saucepan), it radiates the leaves of Chinese cabbage, tofu, Enoki mushrooms and Shiitakes.",
+        "step_5": "In the middle place the slices of pork belly rolled slightly.",
+        "step_6": "Add the remaining Dashi broth and black sesame mixture over the ingredients.",
+        "step_7": "Cover with the lid and bring to a boil over medium heat.",
+        "step_8": "Continue cooking for about 10-12 minutes until the meat is completely cooked and the vegetables are not tender but fragrant.",
+        "step_9": "Serve directly on the table keeping the pot warm!"
       }
     },
     "it": {
       "title": "Kurogoma Nabe (Stufato di Maiale al Sesamo Nero)",
-      "description": "Un Kurogoma Nabe (Stufato di Maiale al Sesamo Nero) confortante cotto a sobbollore dolce, così gli ingredienti diventano teneri senza disfarsi e il fondo resta concentrato ma equilibrato.",
+      "description": "Il Kurogoma Nabe combina fettine di maiale, cavolo cinese, tofu e funghi in un’unica pentola. La salsa di miso e sesamo nero viene stemperata con dashi e versata sugli ingredienti, poi si cuoce coperto finché verdure e carne sono pronte. Carne e verdure cuociono nella stessa pentola coperta, da servire calda quando le verdure sono tenere ma non disfatte.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Yuru Camp△, Emiya-san Chi no Kyou no Gohan. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "fette_sottili_di_pancia_di_maiale": {
@@ -174,8 +208,12 @@
           "name": "tofu setoso o fermo (tagliato a cubotti)",
           "note": null
         },
-        "funghi_enoki_e_4_funghi_shiitake": {
-          "name": "funghi Enoki e 4 funghi Shiitake",
+        "funghi_enoki_e_4_funghi_shiitake_1_funghi_enoki": {
+          "name": "funghi Enoki",
+          "note": null
+        },
+        "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake": {
+          "name": "funghi Shiitake",
           "note": null
         },
         "brodo_dashi": {
@@ -204,39 +242,48 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, pulisci le verdure e i funghi. Taglia il cavolo cinese a pezzi di media grandezza e i funghi Shiitake praticando un'incisione a croce sulla cappella.",
-        "step_2": "Prosegui così: riunisci in una ciotola, Stempera la pasta di sesamo nero con il miso, il mirin e la salsa di soia aggiungindo a filo un mestolo di brodo Dashi caldo finché non si crea un composto fluido omogeneo.",
-        "step_3": "Nella fase successiva, usa una pentola di terracotta (o casseruola capiente), sistema a raggiera le foglie di cavolo cinese, il tofu, i funghi Enoki e gli Shiitake. Al centro posiziona le fettine di pancia di maiale arrotolate leggermente. Aggiungi il restante brodo Dashi e la miscela al sesamo nero sopra gli ingredienti. Copri con il coperchio e porta a bollore a fuoco medio.",
-        "step_4": "Per completare, prosegui la cottura per circa 10-12 minuti finché la carne non è completamente cotta e le verdure non risultano tenere ma fragranti. Porta in tavola direttamente in tavola mantenendo la pentola calda!"
+        "step_1": "Pulisci le verdure e i funghi.",
+        "step_2": "Taglia il cavolo cinese a pezzi di media grandezza e i funghi Shiitake praticando un'incisione a croce sulla cappella.",
+        "step_3": "In una ciotola, stempera la pasta di sesamo nero con il miso, il mirin e la salsa di soia, aggiungendo a filo un mestolo di brodo dashi caldo finché ottieni un composto fluido e omogeneo.",
+        "step_4": "In una pentola, di terracotta (o casseruola capiente), sistema a raggiera le foglie di cavolo cinese, il tofu, i funghi Enoki e gli Shiitake.",
+        "step_5": "Al centro posiziona le fettine di pancia di maiale arrotolate leggermente.",
+        "step_6": "Aggiungi il restante brodo Dashi e la miscela al sesamo nero sopra gli ingredienti.",
+        "step_7": "Copri con il coperchio e porta a bollore a fuoco medio.",
+        "step_8": "Prosegui la cottura per circa 10-12 minuti finché la carne non è completamente cotta e le verdure non risultano tenere ma fragranti.",
+        "step_9": "Porta in tavola direttamente in tavola mantenendo la pentola calda!"
       }
     },
     "es": {
-      "title": "Kurogoma Nabe",
-      "description": "Una versión práctica de Kurogoma Nabe para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Yuru Camp△, Emiya-san Chi no Kyou no Gohan. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kurogoma nabe — estofado de cerdo con sésamo negro",
+      "description": "El Kurogoma Nabe combina rodajas de cerdo, col china, tofu y setas en una sola olla. La salsa de miso y sésamo negra se quita con dashi y se derrama sobre los ingredientes, luego se cocina hasta que los vegetales y la carne están listos. Carne y verduras cocinan en la misma olla cubierta, para servir caliente cuando las verduras son tiernas pero no deshacedas.",
+      "animeContext": "Esta receta está inspirada temáticamente en Yuru Camp△, Emiya-san Chi no Kyou no Gohan. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "fette_sottili_di_pancia_di_maiale": {
-          "name": "Fette sottili di pancia di cerdo (o lonza)",
+          "name": "Rebanadas delgadas de vientre de cerdo (o lonza)",
           "note": null
         },
         "cavolo_cinese": {
-          "name": "Napa col (hakusai) cut into pezzi da 4 cm",
+          "name": "Col china (Hakusai) cortada en trozos de 4 cm",
           "note": null
         },
         "tofu_setoso_o_fermo": {
-          "name": "Tofu setoso o fermo (cut into cubotti)",
+          "name": "tofu sedoso o firme (cortado en cubotes)",
           "note": null
         },
-        "funghi_enoki_e_4_funghi_shiitake": {
-          "name": "Setas enoki e 4 shiitake setas",
+        "funghi_enoki_e_4_funghi_shiitake_1_funghi_enoki": {
+          "name": "champiñones Enoki",
+          "note": null
+        },
+        "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake": {
+          "name": "Setas Shiitake",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Caldo Dashi",
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Negro sesame paste (kuro neri goma)",
+          "name": "pasta de sésamo negra (Kuro Neri Goma)",
           "note": null
         },
         "salsa_di_soia": {
@@ -244,109 +291,127 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "miso": {
-          "name": "Miso",
+          "name": "miso",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame aceite",
+          "name": "Aceite de sésamo",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Limpia las verduras y los hongos.",
+        "step_2": "Corta la col china en trozos de tamaño medio y los hongos Shiitake haciendo una incisión en cruz en la capilla.",
+        "step_3": "En un tazón, estemper la pasta de sésamo negra con el miso, el mirin y la salsa de soja, añadiendo a hilo un cucharón de caldo dashi caliente hasta obtener un compuesto fluido y homogéneo.",
+        "step_4": "En una olla, de terracota (o cacerola grande), sistema radiante las hojas de col china, el tofu, los hongos Enoki y los Shiitake.",
+        "step_5": "En el centro coloca las rodajas de vientre de cerdo enrolladas ligeramente.",
+        "step_6": "Añadir el restante caldo Dashi y la mezcla al sésamo negro sobre los ingredientes.",
+        "step_7": "Cubre con la tapa y lleva a marcar a fuego medio.",
+        "step_8": "Continúe cocinando durante unos 10-12 minutos hasta que la carne esté completamente cocinada y las verduras no sean tiernas, sino fragantes.",
+        "step_9": "¡Lleva a la mesa directamente a la mesa manteniendo la olla caliente!"
       }
     },
     "fr": {
-      "title": "Kurogoma Nabe",
-      "description": "Une version pratique de Kurogoma Nabe à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Yuru Camp△, Emiya-san Chi no Kyou no Gohan. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kurogoma nabe — pot-au-feu japonais de porc au sésame noir",
+      "description": "Le Kurogoma Nabe combine des tranches de porc, de chou chinois, de tofu et de champignons dans un seul pot. La sauce de miso et de sésame noir est arrachée avec des dashi et versée sur les ingrédients, puis cuit couvert jusqu'à ce que les légumes et la viande soient prêts. La viande et les légumes cuisinent dans la même casserole couverte, à servir chaude quand les légumes sont tendres mais pas défaites.",
+      "animeContext": "Cette recette s'inspire librement de Yuru Camp△, Emiya-san Chi no Kyou no Gohan. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "fette_sottili_di_pancia_di_maiale": {
-          "name": "Fette sottili di pancia di porc (o lonza)",
+          "name": "tranches minces de ventre de porc (ou lonza)",
           "note": null
         },
         "cavolo_cinese": {
-          "name": "Napa chou (hakusai) cut into pezzi da 4 cm",
+          "name": "Choux de Chine (Hakusai) coupés en morceaux de 4 cm",
           "note": null
         },
         "tofu_setoso_o_fermo": {
-          "name": "Tofu setoso o fermo (cut into cubotti)",
+          "name": "tofu soyeux ou ferme (découpé en cubes)",
           "note": null
         },
-        "funghi_enoki_e_4_funghi_shiitake": {
-          "name": "Champignons enoki e 4 shiitake champignons",
+        "funghi_enoki_e_4_funghi_shiitake_1_funghi_enoki": {
+          "name": "champignons Enoki",
+          "note": null
+        },
+        "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake": {
+          "name": "champignons Shiitake",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi bouillon",
+          "name": "Brode dashi",
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Noir sesame paste (kuro neri goma)",
+          "name": "pâte de sésame noir (Kuro Neri Goma)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "miso": {
-          "name": "Miso",
+          "name": "miso",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Nettoyez les légumes et les champignons.",
+        "step_2": "Couper le chou chinois en morceaux de taille moyenne et les champignons Shiitake en pratiquant une gravure croix sur la chapelle.",
+        "step_3": "Dans un bol, délaye la pâte de sésame noir avec le miso, le mirin et la sauce soja, en versant peu à peu une louche de dashi chaud jusqu’à obtenir un mélange fluide.",
+        "step_4": "Dans une casserole, en terre cuite (ou casserole de grande taille), il met en rayon les feuilles de chou chinois, le tofu, les champignons Enoki et les Shiitake.",
+        "step_5": "Au centre, placez les tranches de ventre de porc enroulées légèrement.",
+        "step_6": "Ajoutez le reste du bouillon dashi et le mélange au sésame noir au-dessus des ingrédients.",
+        "step_7": "Couvrez avec le couvercle et portez à ébullition à feu moyen.",
+        "step_8": "Continuez la cuisson pendant environ 10-12 minutes jusqu'à ce que la viande soit entièrement cuite et que les légumes ne soient pas tendres mais parfumés.",
+        "step_9": "Apportez à la table directement à la table en gardant la casserole chaude!"
       }
     },
     "de": {
-      "title": "Kurogoma Nabe",
-      "description": "Eine alltagstaugliche Version von Kurogoma Nabe für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Yuru Camp△, Emiya-san Chi no Kyou no Gohan inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kurogoma Nabe – japanischer Schweine-Eintopf mit schwarzem Sesam",
+      "description": "Der Kurogoma Nabe kombiniert Schweinescheiben, Chinakohl, Tofu und Pilze in einem Topf. Die schwarze Miso- und Sesamsoße wird mit Dashi ausgestopft und auf die Zutaten eingegossen, dann wird sie so lange gekocht, bis Gemüse und Fleisch fertig sind. Fleisch und Gemüse kochen im selben Topf, warm serviert, wenn das Gemüse halten, aber nicht ungeschehen ist.",
+      "animeContext": "Dieses Rezept ist thematisch von Yuru Camp△, Emiya-san Chi no Kyou no Gohan inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "fette_sottili_di_pancia_di_maiale": {
-          "name": "Fette sottili di pancia di Schweinefleisch (o lonza)",
+          "name": "dünne Scheiben von Schweinebauch (oder Lonza)",
           "note": null
         },
         "cavolo_cinese": {
-          "name": "Napa Kohl (hakusai) cut into pezzi da 4 cm",
+          "name": "Chinakohl (Hakusai), in Stücke von 4 cm geschnitten",
           "note": null
         },
         "tofu_setoso_o_fermo": {
-          "name": "Tofu setoso o fermo (cut into cubotti)",
+          "name": "Tofu seidig oder fest (gewürfelt)",
           "note": null
         },
-        "funghi_enoki_e_4_funghi_shiitake": {
-          "name": "Pilze enoki e 4 shiitake Pilze",
+        "funghi_enoki_e_4_funghi_shiitake_1_funghi_enoki": {
+          "name": "Pilze Enoki",
+          "note": null
+        },
+        "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake": {
+          "name": "Pilze Shiitake",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi Brühe",
+          "name": "Dashi-Brühe",
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Schwarz sesame paste (kuro neri goma)",
+          "name": "Schwarzer Sesampaste (Kuro Neri Goma)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -358,44 +423,53 @@
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Saubere Gemüse und Pilze.",
+        "step_2": "Schneide den Chinakohl in Stücke mittlerer Größe und die Shiitake-Pilz durch eine Kreuzgravur auf der Kapelle.",
+        "step_3": "In einer Schüssel wird die schwarze Sesampaste mit Miso, Mirin und Sojasoße serviert, indem man dem Faden eine Schale heißer Dashi-Brühe hinzufügt, bis man eine flüssige und homogene Verbindung erhält.",
+        "step_4": "In einem Topf, Terrakotta (oder große Kasserolle), System strahlt die Blätter der chinesischen Kohl, Tofu, Pilze Enoki und Shiitake.",
+        "step_5": "In der Mitte platziert die Schweinebauchscheiben leicht gerollt.",
+        "step_6": "Fügen Sie die restlichen Dashi-Brühe und die Mischung zu schwarzem Sesam über den Zutaten hinzu.",
+        "step_7": "Bedecken Sie mit dem Deckel und führen Sie zum Stempel bei mittlerer Hitze.",
+        "step_8": "Das Kochen dauert etwa 10-12 Minuten, bis das Fleisch vollständig gekocht ist und das Gemüse nicht zart, sondern duftend ist.",
+        "step_9": "Bringen Sie ihn direkt auf den Tisch und halten Sie den Topf warm!"
       }
     },
     "pt": {
-      "title": "Kurogoma Nabe",
-      "description": "Uma versão prática de Kurogoma Nabe para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Yuru Camp△, Emiya-san Chi no Kyou no Gohan. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kurogoma nabe — guisado de porco com sésamo preto",
+      "description": "O Kurogoma Nabe combina fatias de porco, repolho chinês, tofu e cogumelos em uma única panela. O molho miso e sésamo preto é misturado com traço e derramado nos ingredientes, então ele é cozido cozido enquanto os legumes e a carne estiverem prontos. Carne e legumes cozinham no mesmo pote coberto, a ser servido quente quando os legumes são macios, mas não desempacotados.",
+      "animeContext": "Esta receita inspira-se tematicamente em Yuru Camp△, Emiya-san Chi no Kyou no Gohan. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "fette_sottili_di_pancia_di_maiale": {
-          "name": "Fette sottili di pancia di porco (o lonza)",
+          "name": "fatias finas de barriga de porco (ou linza)",
           "note": null
         },
         "cavolo_cinese": {
-          "name": "Napa couve (hakusai) cut into pezzi da 4 cm",
+          "name": "Repolho chinês (Hakusai) cortado em pedaços de 4 cm",
           "note": null
         },
         "tofu_setoso_o_fermo": {
-          "name": "Tofu setoso o fermo (cut into cubotti)",
+          "name": "tofu sedoso ou firme (cortado em cubos)",
           "note": null
         },
-        "funghi_enoki_e_4_funghi_shiitake": {
-          "name": "Cogumelos enoki e 4 shiitake cogumelos",
+        "funghi_enoki_e_4_funghi_shiitake_1_funghi_enoki": {
+          "name": "Cogumelos Enoki",
+          "note": null
+        },
+        "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake": {
+          "name": "Cogumelos Shiitake",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Coberto de Dashi",
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Preto sesame paste (kuro neri goma)",
+          "name": "pasta de sésamo preto (Kuro Neri Goma)",
           "note": null
         },
         "salsa_di_soia": {
@@ -403,23 +477,28 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "miso": {
-          "name": "Miso",
+          "name": "miso",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Legumes e cogumelos limpos.",
+        "step_2": "Corte o repolho chinês em pedaços de tamanho médio e os cogumelos Shiitake fazendo uma incisão cruzada na capela.",
+        "step_3": "Numa tigela, dilua a pasta de sésamo preto com o miso, o mirin e o molho de soja, juntando aos poucos uma concha de dashi quente até obter uma mistura fluida e homogénea.",
+        "step_4": "Numa panela, de terracota (ou grande panela), irradia as folhas de repolho chinês, tofu, cogumelos Enoki e Shiitakes.",
+        "step_5": "No lugar do meio as fatias de barriga de porco rolaram ligeiramente.",
+        "step_6": "Adicione o restante caldo de Dashi e mistura de sésamo preto sobre os ingredientes.",
+        "step_7": "Cubra com a tampa e leve a ebulição a fogo médio.",
+        "step_8": "Continue cozindo por cerca de 10-12 minutos até que a carne esteja completamente cozida e os legumes não sejam macios, mas perfumados.",
+        "step_9": "Traga para a mesa diretamente na mesa mantendo o pote aquecido!"
       }
     }
   }

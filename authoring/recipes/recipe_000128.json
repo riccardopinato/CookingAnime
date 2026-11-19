@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000128",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 30,
   "servings": 4,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "mela_rossa_grande",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "cacao_amaro_in_polvere",
@@ -67,7 +67,7 @@
     {
       "id": "noce_di_roux_per_curry_giapponese",
       "quantity": 1,
-      "unit": null
+      "unit": "portion"
     },
     {
       "id": "brodo_di_carne",
@@ -76,8 +76,8 @@
     },
     {
       "id": "riso_bianco_cotto_al_vapore",
-      "quantity": null,
-      "unit": null
+      "quantity": 320,
+      "unit": "g"
     }
   ],
   "steps": [
@@ -96,61 +96,81 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 1200
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 300
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Curry Stufato con Cacao e Mela",
-      "description": "A comforting Curry Stufato con Cacao e Mela prepared with gentle simmering so the main ingredients become tender while the broth stays flavorful and balanced.",
-      "animeContext": "This recipe is thematically inspired by Food Wars! (Shokugeki no Soma), Persona 5. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Apple and Cocoa Japanese Curry Stew",
+      "description": "This Japanese curry slowly cooks meat, onion and grated apple in a sauce enriched with little bitter cocoa. The sweetness of the apple balances the spicy notes of the roux, and the dish is served with steamed white rice. The roux melts over heat off, while cocoa and apple contribute to the sauce that then simmers slowly next to the rice.",
+      "animeContext": "This recipe is thematically inspired by Food Wars! (Shokugeki no Soma), Persona 5. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "carne_di_manzo_o_maiale_a_cubetti": {
-          "name": "Carne di beef o pork a cubetti",
+          "name": "beef or pork in cubes",
           "note": null
         },
         "mela_rossa_grande": {
-          "name": "Mela red grande (grated)",
+          "name": "Big red apple (grater)",
           "note": null
         },
         "cacao_amaro_in_polvere": {
-          "name": "Cacao amaro in polvere (o 2 quadratini di cioccolato fondente 70%)",
+          "name": "Bitter cocoa powder (or 2 squares of dark chocolate 70%)",
           "note": null
         },
         "cipolla_dorate": {
-          "name": "Onion dorate (affettate sottili)",
+          "name": "golden onions (thin sliced)",
           "note": null
         },
         "carota": {
-          "name": "Carrot (a tocchetti)",
+          "name": "carrot (touch)",
           "note": null
         },
         "patata_medie": {
-          "name": "Potato medie (a cubetti)",
+          "name": "medium-sized potatoes in cubes",
           "note": null
         },
         "noce_di_roux_per_curry_giapponese": {
-          "name": "Noce di roux per curry giapponese (o polvere di curry + flour)",
+          "name": "roux nut for Japanese curry (or curry powder + flour)",
           "note": null
         },
         "brodo_di_carne": {
-          "name": "Broth di carne",
+          "name": "meat broth",
           "note": null
         },
         "riso_bianco_cotto_al_vapore": {
-          "name": "White rice cotto al vapore (for serving)",
-          "note": null
+          "name": "steamed white rice (to serve)",
+          "note": "about 160 g of cooked rice per serving"
         }
       },
       "steps": {
-        "step_1": "Cut and organize the main ingredients so pieces of similar density are comparable in size; prepare the seasoned broth separately before simmering.",
-        "step_2": "Build the broth over moderate heat and add the ingredients in order of cooking time, keeping the liquid at a gentle simmer rather than a hard boil.",
-        "step_3": "Continue cooking until proteins are safely cooked and vegetables are tender but intact, adjusting the seasoning only after the broth has reduced slightly.",
-        "step_4": "Finish with the final aromatics or garnish and serve hot, allowing a brief rest when useful so the ingredients absorb the seasoned broth."
+        "step_1": "In a large pot, brown the onions with a little oil until they become well golden and caramelized.",
+        "step_2": "Combine the meat with cubes and brown it on all sides.",
+        "step_3": "Insert the carrots and potatoes.",
+        "step_4": "Add the meat broth and the grated apple.",
+        "step_5": "Cover and simmer over medium-low heat for 20 minutes.",
+        "step_6": "Turn off the heat, join the roux for curry and amalgam until complete dissolution.",
+        "step_7": "Combine the bitter cocoa powder (or dark chocolate), mix well and cook over very slow heat for another 5 minutes until you get a thick, shiny and aromatic sauce.",
+        "step_8": "Bring to the hot table accompanied by white steamed rice."
       }
     },
     "it": {
       "title": "Curry Stufato con Cacao e Mela (Apple & Cocoa Curry)",
-      "description": "Un Curry Stufato con Cacao e Mela (Apple & Cocoa Curry) confortante cotto a sobbollore dolce, così gli ingredienti diventano teneri senza disfarsi e il fondo resta concentrato ma equilibrato.",
+      "description": "Questo curry giapponese cuoce lentamente carne, cipolla e mela grattugiata in una salsa arricchita con poco cacao amaro. La dolcezza della mela bilancia le note speziate del roux, e il piatto viene servito con riso bianco al vapore. Il roux si scioglie a fuoco spento, mentre cacao e mela contribuiscono alla salsa che poi sobbolle lentamente accanto al riso.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars! (Shokugeki no Soma), Persona 5. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "carne_di_manzo_o_maiale_a_cubetti": {
@@ -166,7 +186,7 @@
           "note": null
         },
         "cipolla_dorate": {
-          "name": "cipolla dorate (affettate sottili)",
+          "name": "cipolle dorate (affettate sottili)",
           "note": null
         },
         "carota": {
@@ -174,7 +194,7 @@
           "note": null
         },
         "patata_medie": {
-          "name": "patata medie (a cubetti)",
+          "name": "patate medie a cubetti",
           "note": null
         },
         "noce_di_roux_per_curry_giapponese": {
@@ -186,211 +206,231 @@
           "note": null
         },
         "riso_bianco_cotto_al_vapore": {
-          "name": "Riso bianco cotto al vapore (per servire)",
-          "note": null
+          "name": "riso bianco cotto al vapore (per servire)",
+          "note": "circa 160 g di riso cotto per porzione"
         }
       },
       "steps": {
-        "step_1": "Per iniziare, usa una pentola capiente, rosola le cipolle con un filo d'olio finché non diventano ben dorate e caramellate. Unisci la carne a cubetti e rosolala su tutti i lati. Inserisci le carote e le patate.",
-        "step_2": "Prosegui così: aggiungi il brodo di carne e la mela grattugiata. Copri e fai sobbollire a fuoco medio-basso per 20 minuti.",
-        "step_3": "Nella fase successiva, spegni il fuoco, unisci il roux per curry e amalgama fino a completo scioglimento.",
-        "step_4": "Per completare, unisci il cacao amaro in polvere (o il cioccolato fondente), amalgama bene e lascia cuocere a fuoco lentissimo per altri 5 minuti fino a ottenere una salsa densa, lucida e aromatica. Porta in tavola caldo accompagnato da riso bianco al vapore."
+        "step_1": "In una pentola, capiente, rosola le cipolle con un filo d'olio finché non diventano ben dorate e caramellate.",
+        "step_2": "Unisci la carne a cubetti e rosolala su tutti i lati.",
+        "step_3": "Inserisci le carote e le patate.",
+        "step_4": "Aggiungi il brodo di carne e la mela grattugiata.",
+        "step_5": "Copri e fai sobbollire a fuoco medio-basso per 20 minuti.",
+        "step_6": "Spegni il fuoco, unisci il roux per curry e amalgama fino a completo scioglimento.",
+        "step_7": "Unisci il cacao amaro in polvere (o il cioccolato fondente), amalgama bene e lascia cuocere a fuoco lentissimo per altri 5 minuti fino a ottenere una salsa densa, lucida e aromatica.",
+        "step_8": "Porta in tavola caldo accompagnato da riso bianco al vapore."
       }
     },
     "es": {
-      "title": "Curry Stufato con Cacao e Mela",
-      "description": "Una versión práctica de Curry Stufato con Cacao e Mela para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars! (Shokugeki no Soma), Persona 5. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Curry japonés guisado con manzana y cacao",
+      "description": "Este curry japonés hornea lentamente carne, cebolla y manzana rallado en una salsa enriquecida con poco cacao amargo. La dulzura de la manzana balancea las notas especiadas del roux, y el plato se sirve con arroz blanco al vapor. El roux se derrite a fuego apagado, mientras que el cacao y la manzana contribuyen a la salsa que luego sumerge lentamente junto al arroz.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars! (Shokugeki no Soma), Persona 5. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "carne_di_manzo_o_maiale_a_cubetti": {
-          "name": "Carne di ternera o cerdo a cubetti",
+          "name": "Carne de vacuno o de cerdo de cubito",
           "note": null
         },
         "mela_rossa_grande": {
-          "name": "Mela rojo grande (rallado)",
+          "name": "manzana roja grande (rallado)",
           "note": null
         },
         "cacao_amaro_in_polvere": {
-          "name": "Cacao amaro in polvere (o 2 quadratini di cioccolato fondente 70%)",
+          "name": "cacao amargo en polvo (o 2 cuadrados de chocolate fundido 70%)",
           "note": null
         },
         "cipolla_dorate": {
-          "name": "Cebolla dorate (affettate sottili)",
+          "name": "cebollas doradas (afiladas delgadas)",
           "note": null
         },
         "carota": {
-          "name": "Zanahoria (a tocchetti)",
+          "name": "zanahoria (de toque)",
           "note": null
         },
         "patata_medie": {
-          "name": "Patata medie (a cubetti)",
+          "name": "patatas medias de cubito",
           "note": null
         },
         "noce_di_roux_per_curry_giapponese": {
-          "name": "Noce di roux per curry giapponese (o polvere di curry + harina)",
+          "name": "nuez de roux para curry japonesa (o polvo de curry + harina)",
           "note": null
         },
         "brodo_di_carne": {
-          "name": "Caldo di carne",
+          "name": "caldo de carne",
           "note": null
         },
         "riso_bianco_cotto_al_vapore": {
-          "name": "Blanco arroz cotto al vapore (para servir)",
-          "note": null
+          "name": "arroz blanco cocido al vapor (para servir)",
+          "note": "Aproximadamente 160 g de arroz cocido por por porción"
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una olla, de gran capacidad, roza las cebollas con un hilo de aceite hasta que se vuelven bien doradas y caramelizadas.",
+        "step_2": "Une la carne con cubos y rodéala por todos lados.",
+        "step_3": "Introduzca las zanahorias y las patatas.",
+        "step_4": "Añade el caldo de carne y la manzana rallado.",
+        "step_5": "Cubre y arde a fuego medio bajo durante 20 minutos.",
+        "step_6": "Apaga el fuego, une el roux para curry y amalgama hasta su disolución completa.",
+        "step_7": "Mezcla el cacao amargo en polvo (o el chocolate negro), amalgama bien y deja cocer a fuego lento durante otros 5 minutos hasta obtener una salsa densa, brillante y aromática.",
+        "step_8": "Lleva a la mesa caliente acompañado de arroz blanco al vapor."
       }
     },
     "fr": {
-      "title": "Curry Stufato con Cacao e Mela",
-      "description": "Une version pratique de Curry Stufato con Cacao e Mela à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars! (Shokugeki no Soma), Persona 5. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Curry japonais mijoté à la pomme et au cacao",
+      "description": "Ce curry japonais cuisine lentement viande, oignon et pomme râpée dans une sauce enrichie avec peu de cacao amer. La douceur de la pomme équilibre les notes épicées du roux, et le plat est servi avec du riz blanc à la vapeur. Le roux se dissout à feu éteint, tandis que le cacao et la pomme contribuent à la sauce qui s'épaissit lentement à côté du riz.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars! (Shokugeki no Soma), Persona 5. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "carne_di_manzo_o_maiale_a_cubetti": {
-          "name": "Carne di bœuf o porc a cubetti",
+          "name": "Viande de bœuf ou de porc en cubes",
           "note": null
         },
         "mela_rossa_grande": {
-          "name": "Mela rouge grande (râpé)",
+          "name": "pomme rouge grande (grattée)",
           "note": null
         },
         "cacao_amaro_in_polvere": {
-          "name": "Cacao amaro in polvere (o 2 quadratini di cioccolato fondente 70%)",
+          "name": "cacao amer en poudre (ou 2 carrés de chocolat noir 70%)",
           "note": null
         },
         "cipolla_dorate": {
-          "name": "Oignon dorate (affettate sottili)",
+          "name": "oignons dorés (cacahuètes fines)",
           "note": null
         },
         "carota": {
-          "name": "Carotte (a tocchetti)",
+          "name": "Carotte (à l'exclusion des carottes)",
           "note": null
         },
         "patata_medie": {
-          "name": "Pomme de terre medie (a cubetti)",
+          "name": "pommes de terre moyennes en cubes",
           "note": null
         },
         "noce_di_roux_per_curry_giapponese": {
-          "name": "Noce di roux per curry giapponese (o polvere di curry + farine)",
+          "name": "noyer de roux pour curry japonais (ou poudre de curry + farine)",
           "note": null
         },
         "brodo_di_carne": {
-          "name": "Bouillon di carne",
+          "name": "bouillon de viande",
           "note": null
         },
         "riso_bianco_cotto_al_vapore": {
-          "name": "Blanc riz cotto al vapore (pour servir)",
-          "note": null
+          "name": "riz blanc cuit à la vapeur (pour servir)",
+          "note": "environ 160 g de riz cuit par portion"
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une casserole, grande, elle roule les oignons avec un fil d'huile jusqu'à ce qu'ils soient bien dorés et caramélisés.",
+        "step_2": "Joignez la viande à des cubes et roulez-la de tous les côtés.",
+        "step_3": "Entrez les carottes et les pommes de terre.",
+        "step_4": "Ajoutez le bouillon de viande et la pomme râpée.",
+        "step_5": "Couvrez et faites glisser à feu moyen pendant 20 minutes.",
+        "step_6": "Éteignez le feu, joignez le roux pour curry et amalgamez jusqu'à dissolution complète.",
+        "step_7": "Combinez le cacao amer en poudre (ou le chocolat fondu), amalgamez bien et laissez cuire très lentement pendant 5 minutes jusqu'à obtenir une sauce dense, brillante et aromatique.",
+        "step_8": "Porte à table chaude accompagnée de riz blanc à la vapeur."
       }
     },
     "de": {
-      "title": "Curry Stufato con Cacao e Mela",
-      "description": "Eine alltagstaugliche Version von Curry Stufato con Cacao e Mela für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars! (Shokugeki no Soma), Persona 5 inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Japanischer Curry-Eintopf mit Apfel und Kakao",
+      "description": "Dieses japanische Curry kocht langsam Fleisch, Zwiebel und Apfel gerieben in einer Sauce mit wenig bitteren Kakao angereichert. Die Süße des Apfels gleicht die würzigen Noten des Roux, und der Teller wird mit weißem Reis gedämpft serviert. Der Roux schmelzt bei abgebranntem Feuer, während Kakao und Apfel zu der Sauce beitragen, die dann langsam neben dem Reis schläft.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars! (Shokugeki no Soma), Persona 5 inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "carne_di_manzo_o_maiale_a_cubetti": {
-          "name": "Carne di Rindfleisch o Schweinefleisch a cubetti",
+          "name": "Fleisch von Rind oder Schwein in Würfeln",
           "note": null
         },
         "mela_rossa_grande": {
-          "name": "Mela rot grande (gerieben)",
+          "name": "Großer roter Apfel (Grübchen)",
           "note": null
         },
         "cacao_amaro_in_polvere": {
-          "name": "Cacao amaro in polvere (o 2 quadratini di cioccolato fondente 70%)",
+          "name": "Bitterer Kakaopulver (oder 2 Quadrate dunkler Schokolade 70%)",
           "note": null
         },
         "cipolla_dorate": {
-          "name": "Zwiebel dorate (affettate sottili)",
+          "name": "goldene Zwiebeln (dünne Zwiebeln)",
           "note": null
         },
         "carota": {
-          "name": "Karotte (a tocchetti)",
+          "name": "Karotte",
           "note": null
         },
         "patata_medie": {
-          "name": "Kartoffel medie (a cubetti)",
+          "name": "durchschnittliche Würfelkartoffeln",
           "note": null
         },
         "noce_di_roux_per_curry_giapponese": {
-          "name": "Noce di roux per curry giapponese (o polvere di curry + Mehl)",
+          "name": "Rouxnuss für japanisches Curry (oder Currypulver + Mehl)",
           "note": null
         },
         "brodo_di_carne": {
-          "name": "Brühe di carne",
+          "name": "Fleischbrühe",
           "note": null
         },
         "riso_bianco_cotto_al_vapore": {
-          "name": "Weiß Reis cotto al vapore (zum Servieren)",
-          "note": null
+          "name": "Weißer Reis, gedämpft (zum Servieren)",
+          "note": "ca. 160 g gekochten Reis je Portion"
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einem großen Topf braten die Zwiebeln mit einem Ölfaden, bis sie gut vergoldet und karamelliert werden.",
+        "step_2": "Verbinden Sie das Fleisch mit Würfeln und bröckeln Sie es auf allen Seiten.",
+        "step_3": "Geben Sie die Karotten und Kartoffeln ein.",
+        "step_4": "Fügen Sie Fleischbrühe und geriebenen Apfel hinzu.",
+        "step_5": "Bedecke und lass dich 20 Minuten lang bei mittlerer bis niedriger Hitze betäuben.",
+        "step_6": "Löschen Sie das Feuer, verbinden Sie das Roux für Curry und Amalgam, bis es vollständig aufgelöst ist.",
+        "step_7": "Kombinieren Sie bitteren Kakao in Pulver (oder dunkle Schokolade), Amalgam gut und lassen Sie es bei sehr langsamem Feuer für weitere 5 Minuten kochen, bis Sie eine dicke, glänzende und aromatische Soße erhalten.",
+        "step_8": "Bringt in den warmen Tisch, begleitet von weißem Reis im Dampf."
       }
     },
     "pt": {
-      "title": "Curry Stufato con Cacao e Mela",
-      "description": "Uma versão prática de Curry Stufato con Cacao e Mela para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars! (Shokugeki no Soma), Persona 5. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Caril japonês estufado com maçã e cacau",
+      "description": "Este curry japonês cozinha lentamente carne, cebola e maçã ralada num molho enriquecido com pouco cacau amargo. A doçura da maçã equilibra as notas picantes do roux, e o prato é servido com arroz branco vaporizado. O roux derrete sobre o calor, enquanto o cacau e a maçã contribuem para o molho que, em seguida, afoga lentamente ao lado do arroz.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars! (Shokugeki no Soma), Persona 5. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "carne_di_manzo_o_maiale_a_cubetti": {
-          "name": "Carne di carne bovina o porco a cubetti",
+          "name": "carne de bovino ou porco em cubos",
           "note": null
         },
         "mela_rossa_grande": {
-          "name": "Mela vermelho grande (ralado)",
+          "name": "Grande maçã vermelha (grateador)",
           "note": null
         },
         "cacao_amaro_in_polvere": {
-          "name": "Cacao amaro in polvere (o 2 quadratini di cioccolato fondente 70%)",
+          "name": "Pó de cacau amargo (ou 2 quadrados de chocolate escuro 70%)",
           "note": null
         },
         "cipolla_dorate": {
-          "name": "Cebola dorate (affettate sottili)",
+          "name": "cebolas douradas (pedaça fina)",
           "note": null
         },
         "carota": {
-          "name": "Cenoura (a tocchetti)",
+          "name": "cenoura (toque em contato)",
           "note": null
         },
         "patata_medie": {
-          "name": "Batata medie (a cubetti)",
+          "name": "batatas de tamanho médio em cubos",
           "note": null
         },
         "noce_di_roux_per_curry_giapponese": {
-          "name": "Noce di roux per curry giapponese (o polvere di curry + farinha)",
+          "name": "noz roux para curry japonês (ou pó de curry + farinha)",
           "note": null
         },
         "brodo_di_carne": {
-          "name": "Caldo di carne",
+          "name": "caldo de carne",
           "note": null
         },
         "riso_bianco_cotto_al_vapore": {
-          "name": "Branco arroz cotto al vapore (para servir)",
-          "note": null
+          "name": "arroz branco vaporizado (para servir)",
+          "note": "cerca de 160 g de arroz cozido por porção"
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa panela grande, dobre as cebolas com um pouco de óleo até que se tornem bem douradas e caramelizadas.",
+        "step_2": "Combinar a carne com cubos e marrom em todos os lados.",
+        "step_3": "Insira as cenouras e batatas.",
+        "step_4": "Adicione o caldo de carne e a maçã ralada.",
+        "step_5": "Cubra e cozinhe a fogo médio- baixo durante 20 minutos.",
+        "step_6": "Desligue o fogo, junte- se ao roux para curry e amalgama até a dissolução completa.",
+        "step_7": "Combine o pó de cacau amargo (ou chocolate escuro), misture bem e cozinhe a fogo lento por mais 5 minutos até obter um molho espesso, brilhante e aromático.",
+        "step_8": "Traga para a mesa quente acompanhada de arroz branco vaporizado."
       }
     }
   }

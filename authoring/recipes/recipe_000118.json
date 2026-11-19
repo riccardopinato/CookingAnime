@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000118",
-  "contentVersion": 1,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Jujutsu Kaisen",
   "animeReferences": [
@@ -21,41 +21,51 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 35,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
-      "id": "noodles_udon_spessi",
+      "id": "base_udon_spessi_1",
       "quantity": 2,
       "unit": "portion"
     },
     {
-      "id": "kakuni",
+      "id": "kakuni_kakuni_completo_2",
       "quantity": 4,
       "unit": "piece"
     },
     {
-      "id": "brodo_dashi_con_dashi",
+      "id": "brodo_dashi_3",
       "quantity": 800,
       "unit": "ml"
     },
     {
-      "id": "soia_e_mirin",
+      "id": "brodo_salsa_di_soia_4",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": "brodo_mirin_5",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": "finitura_cipollotto_affettato_6",
       "quantity": null,
       "unit": null
     },
     {
-      "id": "cipollotto_e_senape_giapponese_karashi",
+      "id": "finitura_karashi_7",
       "quantity": null,
       "unit": null
     }
@@ -76,205 +86,283 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kakuni Udon",
-      "description": "A practical bowl of Kakuni Udon, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Jujutsu Kaisen, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kakuni Udon — udon noodles with tender braised pork",
+      "description": "The Kakuni Udon combines noodles udon in dashi broth and already braised kakuni pork, brought back to temperature in its bottom. The slices of meat are distributed on the broth with onion and little karashi mustard, to be added as desired. The braised kakuni rests on the udon covered with broth, with a spoon of its bottom and karashi served separately.",
+      "animeContext": "This recipe is thematically inspired by Jujutsu Kaisen, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
-        "noodles_udon_spessi": {
-          "name": "Noodles udon spessi",
+        "base_udon_spessi_1": {
+          "name": "thick udon",
           "note": null
         },
-        "kakuni": {
-          "name": "Kakuni (pancia di pork stufata morbida)",
+        "kakuni_kakuni_completo_2": {
+          "name": "complete kakuni",
           "note": null
         },
-        "brodo_dashi_con_dashi": {
-          "name": "Dashi broth con dashi",
+        "brodo_dashi_3": {
+          "name": "dashi",
           "note": null
         },
-        "soia_e_mirin": {
-          "name": "Soia e mirin",
+        "brodo_salsa_di_soia_4": {
+          "name": "Soy sauce",
           "note": null
         },
-        "cipollotto_e_senape_giapponese_karashi": {
-          "name": "Spring onion e senape giapponese karashi",
+        "brodo_mirin_5": {
+          "name": "mirin",
+          "note": null
+        },
+        "finitura_cipollotto_affettato_6": {
+          "name": "sliced spring onion",
+          "note": null
+        },
+        "finitura_karashi_7": {
+          "name": "karashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Warm the kakuni gently in its bottom until the meat is soft and the fat is shiny again; do not boil it hard.",
+        "step_2": "Bring the dashi to a boil and season with soy sauce and mirin, tasting before adding more salt.",
+        "step_3": "In a separate pot cook the udon according to the package, then drain them very well.",
+        "step_4": "Rinse the udon quickly only if required by the type used, then transfer them to the preheated bowls.",
+        "step_5": "Pour the boiling broth on the udon and gently separate the threads with the chopsticks.",
+        "step_6": "Add two pieces of kakuni per serving and add a spoon of the bottom of the lard to intensify the flavor.",
+        "step_7": "Complete with spring onion and a small amount of karashi on the edge of the bowl and serve immediately."
       }
     },
     "it": {
       "title": "Kakuni Udon (Udon con Maiale Brasato Morbidissimo)",
-      "description": "Una versione pratica di Kakuni Udon (Udon con Maiale Brasato Morbidissimo), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Kakuni Udon combina noodles udon in brodo dashi e maiale kakuni già brasato, riportato a temperatura nel suo fondo. Le fette di carne vengono distribuite sul brodo con cipollotto e poca senape karashi, da aggiungere a piacere. Il kakuni brasato si posa sugli udon coperti di brodo, con un cucchiaio del suo fondo e karashi servito a parte.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Jujutsu Kaisen, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
-        "noodles_udon_spessi": {
-          "name": "noodles Udon spessi",
+        "base_udon_spessi_1": {
+          "name": "udon spessi",
           "note": null
         },
-        "kakuni": {
-          "name": "Kakuni (pancia di maiale stufata morbida)",
+        "kakuni_kakuni_completo_2": {
+          "name": "kakuni completo",
           "note": null
         },
-        "brodo_dashi_con_dashi": {
-          "name": "brodo dashi con dashi",
+        "brodo_dashi_3": {
+          "name": "dashi",
           "note": null
         },
-        "soia_e_mirin": {
-          "name": "soia e mirin",
+        "brodo_salsa_di_soia_4": {
+          "name": "salsa di soia",
           "note": null
         },
-        "cipollotto_e_senape_giapponese_karashi": {
-          "name": "Cipollotto e senape giapponese Karashi",
+        "brodo_mirin_5": {
+          "name": "mirin",
+          "note": null
+        },
+        "finitura_cipollotto_affettato_6": {
+          "name": "cipollotto affettato",
+          "note": null
+        },
+        "finitura_karashi_7": {
+          "name": "karashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, porta a temperatura il Kakuni nel suo brodo di cottura finché diventa tenerissimo.",
-        "step_2": "Prosegui così: lascia cuocere gli Udon in acqua bollente e scolali nelle ciotole.",
-        "step_3": "Nella fase successiva, aggiungi il brodo caldo sugli Udon. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_4": "Per completare, adagia i pezzi di Kakuni, guarnisci con cipollotto e un velo di senape Karashi sul bordo."
+        "step_1": "Scalda dolcemente il kakuni nel proprio fondo di brasatura finché la carne è morbida e il grasso torna lucido; non farlo bollire forte.",
+        "step_2": "Porta il dashi a sobbollore e condiscilo con salsa di soia e mirin, assaggiando prima di aggiungere altro sale.",
+        "step_3": "In una pentola separata cuoci gli udon secondo la confezione, quindi scolali molto bene.",
+        "step_4": "Risciacqua rapidamente gli udon solo se previsto dal tipo utilizzato, poi trasferiscili nelle ciotole preriscaldate.",
+        "step_5": "Versa il brodo bollente sugli udon e separa delicatamente i fili con le bacchette.",
+        "step_6": "Adagia due pezzi di kakuni per porzione e aggiungi un cucchiaio del fondo di brasatura per intensificare il sapore.",
+        "step_7": "Completa con cipollotto e una piccola quantità di karashi sul bordo della ciotola e servi subito."
       }
     },
     "es": {
-      "title": "Kakuni Udon",
-      "description": "Una versión práctica de Kakuni Udon para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Jujutsu Kaisen, Food Wars!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kakuni udon — fideos udon con cerdo braseado tierno",
+      "description": "El Kakuni Udon combina fideos udon en caldo dashi y cerdo kakuni ya asados, de vuelta a la temperatura en su fondo. Las rebanadas de carne se distribuyen sobre el caldo con cebolla y poca mostaza karashi, a añadir a gusto. El kakuni asado se coloca sobre los udon cubiertos de caldo, con una cuchara de su fondo y karashi servido aparte.",
+      "animeContext": "Esta receta está inspirada temáticamente en Jujutsu Kaisen, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
-        "noodles_udon_spessi": {
-          "name": "Noodles udon spessi",
+        "base_udon_spessi_1": {
+          "name": "udon grueso",
           "note": null
         },
-        "kakuni": {
-          "name": "Kakuni (pancia di cerdo stufata morbida)",
+        "kakuni_kakuni_completo_2": {
+          "name": "kakuni completo",
           "note": null
         },
-        "brodo_dashi_con_dashi": {
-          "name": "Dashi caldo con dashi",
+        "brodo_dashi_3": {
+          "name": "Dashi",
           "note": null
         },
-        "soia_e_mirin": {
-          "name": "Soia e mirin",
+        "brodo_salsa_di_soia_4": {
+          "name": "Salsa de soja",
           "note": null
         },
-        "cipollotto_e_senape_giapponese_karashi": {
-          "name": "Spring cebolla e senape giapponese karashi",
+        "brodo_mirin_5": {
+          "name": "mirin",
+          "note": null
+        },
+        "finitura_cipollotto_affettato_6": {
+          "name": "cebolleta en rodajas",
+          "note": null
+        },
+        "finitura_karashi_7": {
+          "name": "karashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Calienta suavemente el kakuni en el fondo de su brasado hasta que la carne es suave y la grasa vuelve brillante; no lo haga hervir fuerte.",
+        "step_2": "Lleva el dashi a la tormenta y consíguelo con salsa de soja y mirin, probando antes de añadir más sal.",
+        "step_3": "Cuece los udon en una olla aparte siguiendo las indicaciones del envase y escúrrelos muy bien.",
+        "step_4": "Enjuaga brevemente los udon solo si lo indica la variedad utilizada; después pásalos a cuencos precalentados.",
+        "step_5": "Vierte el caldo hirviendo sobre los udon y separa suavemente los fideos con los palillos.",
+        "step_6": "Ajusta dos piezas de kakuni por porción y añade una cucharada del fondo de soldadura para aumentar el sabor.",
+        "step_7": "Completa con cebolleta y una pequeña cantidad de karashi en el borde del tazón y sirve inmediatamente."
       }
     },
     "fr": {
-      "title": "Kakuni Udon",
-      "description": "Une version pratique de Kakuni Udon à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Jujutsu Kaisen, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kakuni udon — nouilles udon au porc braisé fondant",
+      "description": "Le Kakuni Udon combine des nouilles udon en bouillon dashi et porc kakuni déjà braisé, ramené à la température dans son fond. Les tranches de viande sont distribuées sur le bouillon avec l'oignon et peu de moutarde karashi, à ajouter à votre goût. Le kakuni brasé se pose sur les udons couverts de bouillon, avec une cuillère de son fond et karashi servi à part.",
+      "animeContext": "Cette recette s'inspire librement de Jujutsu Kaisen, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
-        "noodles_udon_spessi": {
-          "name": "Noodles udon spessi",
+        "base_udon_spessi_1": {
+          "name": "udon épais",
           "note": null
         },
-        "kakuni": {
-          "name": "Kakuni (pancia di porc stufata morbida)",
+        "kakuni_kakuni_completo_2": {
+          "name": "kakuni complet",
           "note": null
         },
-        "brodo_dashi_con_dashi": {
-          "name": "Dashi bouillon con dashi",
+        "brodo_dashi_3": {
+          "name": "dashi",
           "note": null
         },
-        "soia_e_mirin": {
-          "name": "Soia e mirin",
+        "brodo_salsa_di_soia_4": {
+          "name": "Sauce de soja",
           "note": null
         },
-        "cipollotto_e_senape_giapponese_karashi": {
-          "name": "Spring oignon e senape giapponese karashi",
+        "brodo_mirin_5": {
+          "name": "mirin",
+          "note": null
+        },
+        "finitura_cipollotto_affettato_6": {
+          "name": "cébette émincée",
+          "note": null
+        },
+        "finitura_karashi_7": {
+          "name": "karachi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Chauffez doucement le kakuni dans son propre fond de brassage jusqu'à ce que la viande soit douce et la graisse de retour brillant; ne le faites pas bouillir fort.",
+        "step_2": "Emmène le dashi à sonner et assaisonne-le avec de la sauce soja et de la mirin, en goûtant avant d'ajouter du sel.",
+        "step_3": "Dans une casserole séparée cuisinez les udon selon l'emballage, puis faites-les très bien.",
+        "step_4": "Rincez rapidement les udon uniquement s'ils sont prévus par le type utilisé, puis transférez-les dans les bols préchauffés.",
+        "step_5": "Versez le bouillon bouillant sur les udon et séparez délicatement les fils avec les baguettes.",
+        "step_6": "Adapte deux morceaux de kakuni par portion et ajoute une cuillère du fond de brassage pour intensifier la saveur.",
+        "step_7": "Complétez avec la cébette et une petite quantité de karashi sur le bord du bol et servez-vous immédiatement."
       }
     },
     "de": {
-      "title": "Kakuni Udon",
-      "description": "Eine alltagstaugliche Version von Kakuni Udon für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Jujutsu Kaisen, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kakuni Udon – Udon-Nudeln mit zart geschmortem Schweinefleisch",
+      "description": "Die Kakuni Udon kombiniert Nudeln udon in Dashi-Brühe und bereits gebratenes kakuni Schwein, bei der Temperatur in seinem Boden. Die Fleischscheiben werden auf der Brühe mit Zwiebeln und wenig Senf Karashi verteilt, nach Lust hinzuzufügen. Der brasato kakuni legt auf den Udonen mit der Brühe bedeckt, mit einem Löffel seines Bodens und karashi serviert auseinander.",
+      "animeContext": "Dieses Rezept ist thematisch von Jujutsu Kaisen, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
-        "noodles_udon_spessi": {
-          "name": "Noodles udon spessi",
+        "base_udon_spessi_1": {
+          "name": "dickes Udon",
           "note": null
         },
-        "kakuni": {
-          "name": "Kakuni (pancia di Schweinefleisch stufata morbida)",
+        "kakuni_kakuni_completo_2": {
+          "name": "vollständiges Kakuni",
           "note": null
         },
-        "brodo_dashi_con_dashi": {
-          "name": "Dashi Brühe con dashi",
+        "brodo_dashi_3": {
+          "name": "Dashi",
           "note": null
         },
-        "soia_e_mirin": {
-          "name": "Soia e mirin",
+        "brodo_salsa_di_soia_4": {
+          "name": "Sojasoße",
           "note": null
         },
-        "cipollotto_e_senape_giapponese_karashi": {
-          "name": "Spring Zwiebel e senape giapponese karashi",
+        "brodo_mirin_5": {
+          "name": "Mirin",
+          "note": null
+        },
+        "finitura_cipollotto_affettato_6": {
+          "name": "Frühlingszwiebel, in Ringe geschnitten",
+          "note": null
+        },
+        "finitura_karashi_7": {
+          "name": "Karashi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Erhitzt sanft das Kakuni in seinem Boden, bis das Fleisch weich ist und das Fett wieder glänzend wird; lass es nicht stark kochen.",
+        "step_2": "Bringen Sie das Dashi zum Knabbern und würzen Sie es mit Sojasoße und Mirin, bevor Sie noch mehr Salz zubereiten.",
+        "step_3": "Die Udon-Nudeln nach Packungsangabe in einem separaten Topf garen und anschließend gründlich abgießen.",
+        "step_4": "Die Udon-Nudeln nur dann kurz abspülen, wenn dies für die verwendete Sorte vorgesehen ist; anschließend in vorgewärmte Schüsseln geben.",
+        "step_5": "Die kochend heiße Brühe über die Udon-Nudeln gießen und die Nudelstränge behutsam mit Essstäbchen trennen.",
+        "step_6": "Pro Portion zwei Stücke Kakuni und fügen Sie einen Löffel aus dem Boden der Deuterium, um den Geschmack zu verstärken.",
+        "step_7": "Komplett mit Frühlingszwiebeln und eine kleine Menge Karashi am Rand der Schüssel und servieren Sie sofort."
       }
     },
     "pt": {
-      "title": "Kakuni Udon",
-      "description": "Uma versão prática de Kakuni Udon para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Jujutsu Kaisen, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kakuni udon — massa udon com porco estufado muito tenro",
+      "description": "O Kakuni Udon combina macarrão udon em caldo de dashi e porco de kakuni já brasado, trazido de volta à temperatura no seu fundo. As fatias de carne são distribuídas no caldo com cebola e mostarda karashi, para serem adicionadas como desejado. O kakuni brasado descansa no udon coberto com caldo, com uma colher do fundo e o karashi servido separadamente.",
+      "animeContext": "Esta receita inspira-se tematicamente em Jujutsu Kaisen, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
-        "noodles_udon_spessi": {
-          "name": "Noodles udon spessi",
+        "base_udon_spessi_1": {
+          "name": "udon espesso",
           "note": null
         },
-        "kakuni": {
-          "name": "Kakuni (pancia di porco stufata morbida)",
+        "kakuni_kakuni_completo_2": {
+          "name": "completa kakuni",
           "note": null
         },
-        "brodo_dashi_con_dashi": {
-          "name": "Dashi caldo con dashi",
+        "brodo_dashi_3": {
+          "name": "dashi",
           "note": null
         },
-        "soia_e_mirin": {
-          "name": "Soia e mirin",
+        "brodo_salsa_di_soia_4": {
+          "name": "Molho de soja",
           "note": null
         },
-        "cipollotto_e_senape_giapponese_karashi": {
-          "name": "Spring cebola e senape giapponese karashi",
+        "brodo_mirin_5": {
+          "name": "mirin",
+          "note": null
+        },
+        "finitura_cipollotto_affettato_6": {
+          "name": "cebola de rama às rodelas",
+          "note": null
+        },
+        "finitura_karashi_7": {
+          "name": "karashi@ info: whatsthis",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Aqueça suavemente o kakuni no fundo até que a carne esteja macia e a gordura brilhe novamente; não o ferva com força.",
+        "step_2": "Traga o dashi para uma ebulição e sazona com molho de soja e mirin, degustando antes de adicionar mais sal.",
+        "step_3": "Em um pote separado cozinhe o udon de acordo com o pacote, em seguida, escorra-os muito bem.",
+        "step_4": "Enxagua o udon rapidamente apenas se necessário pelo tipo usado, em seguida, transferi- lo para as tigelas pré- aquecidas.",
+        "step_5": "Despeje o caldo fervente no udon e separe suavemente os fios com os pauzinhos.",
+        "step_6": "Adicione dois pedaços de kakuni por porção e adicione uma colher do fundo do manteiga para intensificar o sabor.",
+        "step_7": "Completar com cebola de rama e uma pequena quantidade de karashi na borda da tigela e servir imediatamente."
       }
     }
   }

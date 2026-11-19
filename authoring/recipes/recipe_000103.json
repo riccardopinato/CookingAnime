@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000103",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "K-On!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 5,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -52,7 +52,7 @@
     {
       "id": "dango_o_shiratama_piccolini",
       "quantity": 4,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "panna_montata_zuccherata",
@@ -61,8 +61,8 @@
     },
     {
       "id": "corn_flakes_o_fiocchi_di_cereali_croccanti",
-      "quantity": null,
-      "unit": null
+      "quantity": 40,
+      "unit": "g"
     },
     {
       "id": "cialde_o_bastoncini_pocky_al_matcha_per_guarnire",
@@ -86,53 +86,68 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Matcha Parfait Stratificato",
-      "description": "A Japanese-style Matcha Parfait Stratificato designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by K-On!, Gintama. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Layered Matcha Parfait",
+      "description": "The Matcha Parfait layers matcha ice cream, sweet red-bean paste (anko), cubes of matcha jelly and other toppings in a tall glass. Prepare and chill the jelly and shiratama in advance; assemble the layers and add the finishing garnishes just before serving. Matcha jelly and shiratama should be prepared in advance; ice cream and waffle arrive just before serving.",
+      "animeContext": "This recipe is thematically inspired by K-On!, Gintama. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "gelato_al_te_verde_matcha": {
-          "name": "Gelato al tè verde matcha",
+          "name": "green tea ice cream matcha",
           "note": null
         },
         "anko": {
-          "name": "Anko (marmellata di red beans)",
+          "name": "anko (red bean jam)",
           "note": null
         },
         "gelatina_al_te_matcha_a_cubetti": {
-          "name": "Gelatina al tè matcha a cubetti",
+          "name": "tea jelly matcha in cubes",
           "note": null
         },
         "dango_o_shiratama_piccolini": {
-          "name": "Dango o shiratama piccolini",
+          "name": "Dango or shiratama small",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Cream montata zuccherata",
+          "name": "sugary whipped cream",
           "note": null
         },
         "corn_flakes_o_fiocchi_di_cereali_croccanti": {
-          "name": "Corn flakes o fiocchi di cereali croccanti",
+          "name": "Corn flakes or crispy cereal flakes",
           "note": null
         },
         "cialde_o_bastoncini_pocky_al_matcha_per_guarnire": {
-          "name": "Cialde o bastoncini pocky al matcha per guarnire",
+          "name": "waffles or pocky sticks to the matcha to garnish",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Prepare and cool in advance matcha and shiratama gelatin; mount the soft cream and keep the ice cream in the freezer until the last one.",
+        "step_2": "Cut the gelatin into regular cubes and divide l'anko into two portions, so the layers will be balanced in the two glasses.",
+        "step_3": "Put a thin layer of corn flakes on the bottom of the glasses, avoiding crushing them.",
+        "step_4": "Add gelatin to the matcha, anko and a first spoonful of whipped cream, leaving the layers visible.",
+        "step_5": "Repeat the layers if the height of the glass allows, without filling it completely.",
+        "step_6": "Add an ice cream ball to the matcha only at the time of service.",
+        "step_7": "Complete with shiratama, waffle or Pocky and a small tuft of cream; serve immediately so that the crispy part does not lose consistency."
       }
     },
     "it": {
       "title": "Matcha Parfait Stratificato",
-      "description": "Un Matcha Parfait Stratificato in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Il Matcha Parfait alterna gelato al tè verde, anko, gelatina al matcha e altre guarnizioni in un bicchiere alto. Gli elementi da raffreddare vengono preparati prima, mentre il montaggio a strati e la decorazione si eseguono subito prima del servizio. La gelatina al matcha e lo shiratama vanno preparati in anticipo; gelato e cialda arrivano solo poco prima di servire.",
       "animeContext": "Questa ricetta è ispirata tematicamente a K-On!, Gintama. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "gelato_al_te_verde_matcha": {
@@ -156,183 +171,198 @@
           "note": null
         },
         "corn_flakes_o_fiocchi_di_cereali_croccanti": {
-          "name": "Corn flakes o fiocchi di cereali croccanti",
+          "name": "corn flakes o fiocchi di cereali croccanti",
           "note": null
         },
         "cialde_o_bastoncini_pocky_al_matcha_per_guarnire": {
-          "name": "Cialde o bastoncini pocky al matcha per guarnire",
+          "name": "cialde o bastoncini pocky al matcha per guarnire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, prendi due bicchieri alti da dessert. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_2": "Prosegui così: metti sul fondo uno strato di corn flakes croccanti. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_3": "Nella fase successiva, unisci i cubetti di gelatina al matcha e una generosa cucchiaiata di anko. Fai uno strato di panna montata soffice.",
-        "step_4": "Per completare, adagia in cima la pallina di gelato al matcha, i pallini di shiratama dango e guarnisci con cialde e un ciuffo di panna montata. Porta in tavolare subito con un cucchiaino lungo."
+        "step_1": "Prepara e raffredda in anticipo gelatina al matcha e shiratama; monta la panna morbida e tieni il gelato in freezer fino all’ultimo.",
+        "step_2": "Taglia la gelatina in cubetti regolari e dividi l’anko in due porzioni, così gli strati saranno equilibrati nei due bicchieri.",
+        "step_3": "Metti sul fondo dei bicchieri uno strato sottile di corn flakes, evitando di schiacciarli.",
+        "step_4": "Aggiungi gelatina al matcha, anko e una prima cucchiaiata di panna montata, lasciando visibili gli strati.",
+        "step_5": "Ripeti gli strati se l’altezza del bicchiere lo permette, senza riempirlo completamente.",
+        "step_6": "Aggiungi una pallina di gelato al matcha solo al momento del servizio.",
+        "step_7": "Completa con shiratama, cialda o Pocky e un piccolo ciuffo di panna; servi immediatamente perché la parte croccante non perda consistenza."
       }
     },
     "es": {
-      "title": "Matcha Parfait Stratificato",
-      "description": "Una versión práctica de Matcha Parfait Stratificato para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en K-On!, Gintama. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Parfait de matcha por capas",
+      "description": "El Matcha Parfait alterna helado de té verde, anko, gelatina de Matcha y otras juntas en un vaso alto. Los elementos que se van a enfriar se preparan antes, mientras que el montaje en capas y la decoración se realizan inmediatamente antes del servicio. La gelatina de Matcha y el shiratama deben prepararse con antelación; helado y gofre llegan poco antes de servir.",
+      "animeContext": "Esta receta está inspirada temáticamente en K-On!, Gintama. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "gelato_al_te_verde_matcha": {
-          "name": "Gelato al tè verde matcha",
+          "name": "Helado de té verde matcha",
           "note": null
         },
         "anko": {
-          "name": "Anko (marmellata di rojo beans)",
+          "name": "anko (mermelada de frijoles rojos)",
           "note": null
         },
         "gelatina_al_te_matcha_a_cubetti": {
-          "name": "Gelatina al tè matcha a cubetti",
+          "name": "gelatina de té matcha de cubitos",
           "note": null
         },
         "dango_o_shiratama_piccolini": {
-          "name": "Dango o shiratama piccolini",
+          "name": "tango o shiratama pequeños",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Nata montata zuccherata",
+          "name": "crema montada azucarada",
           "note": null
         },
         "corn_flakes_o_fiocchi_di_cereali_croccanti": {
-          "name": "Corn flakes o fiocchi di cereali croccanti",
+          "name": "corn flakes o copos de cereales crujientes",
           "note": null
         },
         "cialde_o_bastoncini_pocky_al_matcha_per_guarnire": {
-          "name": "Cialde o bastoncini pocky al matcha per guarnire",
+          "name": "waffles o palillos puntky al matcha para guarnecer",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Prepara y enfría con antelación gelatina al Matcha y shiratama; monta la crema suave y mantén el helado en el congelador hasta el último momento.",
+        "step_2": "Corta la gelatina en dados regulares y divide el anko en dos porciones para equilibrar las capas de ambos vasos.",
+        "step_3": "Pon una capa fina de corn flakes en el fondo de los vasos, evitando aplastarlos.",
+        "step_4": "Añadir gelatina al matcha, anko y una primera cucharada de crema montada, dejando las capas visibles.",
+        "step_5": "Repita las capas si la altura del vaso lo permite, sin rellenarlo completamente.",
+        "step_6": "Añade una bola de helado al matcha sólo en el momento del servicio.",
+        "step_7": "Completa con shiratama, gofre o Pocky y un pequeño mechón de crema; sirve inmediatamente para que la parte crujiente no pierda consistencia."
       }
     },
     "fr": {
-      "title": "Matcha Parfait Stratificato",
-      "description": "Une version pratique de Matcha Parfait Stratificato à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par K-On!, Gintama. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Parfait au matcha en couches",
+      "description": "Le Matcha Parfait alterne glace au thé vert, anko, gélatine au matcha et d'autres garnitures dans un verre haut. Les éléments à refroidir sont préparés avant, tandis que le montage en couches et la décoration sont effectués juste avant le service. La gelée au matcha et le shiratama doivent être préparés à l'avance; la glace et la gaufre n'arrivent que peu avant de servir.",
+      "animeContext": "Cette recette s'inspire librement de K-On!, Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "gelato_al_te_verde_matcha": {
-          "name": "Gelato al tè verde matcha",
+          "name": "crème glacée au thé vert matcha",
           "note": null
         },
         "anko": {
-          "name": "Anko (marmellata di rouge beans)",
+          "name": "Anko (marmelade de haricots rouges)",
           "note": null
         },
         "gelatina_al_te_matcha_a_cubetti": {
-          "name": "Gelatina al tè matcha a cubetti",
+          "name": "gelée au thé matcha en cubes",
           "note": null
         },
         "dango_o_shiratama_piccolini": {
-          "name": "Dango o shiratama piccolini",
+          "name": "danse ou shiratama petits",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Crème montata zuccherata",
+          "name": "crème fouettée sucrée",
           "note": null
         },
         "corn_flakes_o_fiocchi_di_cereali_croccanti": {
-          "name": "Corn flakes o fiocchi di cereali croccanti",
+          "name": "corn flakes ou flocons de céréales croustillantes",
           "note": null
         },
         "cialde_o_bastoncini_pocky_al_matcha_per_guarnire": {
-          "name": "Cialde o bastoncini pocky al matcha per guarnire",
+          "name": "gaufrettes ou bâtonnets à peine au matcha pour garnir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Préparez et refroidissez à l'avance la gélatine au matcha et shiratama; montez la crème douce et gardez la glace dans le congélateur jusqu'au dernier.",
+        "step_2": "Coupez la gélatine en cubes réguliers et divisez l'anko en deux portions, de sorte que les couches seront équilibrées dans les deux verres.",
+        "step_3": "Mettez sur le fond des verres une fine couche de corn flakes, en évitant de les écraser.",
+        "step_4": "Ajouter de la gelée au matcha, anko et une première cuillère à soupe de crème fouettée, laissant les couches visibles.",
+        "step_5": "Répétez les couches si la hauteur du verre le permet, sans le remplir complètement.",
+        "step_6": "Ajoutez une boule de glace au matcha seulement au moment du service.",
+        "step_7": "Complétez avec shiratama, gaufre ou Pocky et une petite touffe de crème; servez-vous immédiatement pour que la partie croustillante ne perde pas de consistance."
       }
     },
     "de": {
-      "title": "Matcha Parfait Stratificato",
-      "description": "Eine alltagstaugliche Version von Matcha Parfait Stratificato für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von K-On!, Gintama inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Matcha-Parfait in Schichten",
+      "description": "Das Matcha-Parfait besteht aus Schichten von Matcha-Eis, süßer roter Bohnenpaste (Anko), Matcha-Geleewürfeln und weiteren Garnituren in einem hohen Glas. Gelee und Shiratama werden im Voraus zubereitet und gekühlt; erst kurz vor dem Servieren schichtet und dekoriert man das Dessert. Matcha-Gelee und Shiratama müssen im Voraus zubereitet werden; Eis und Waffeln kommen erst kurz vor dem Servieren.",
+      "animeContext": "Dieses Rezept ist thematisch von K-On!, Gintama inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "gelato_al_te_verde_matcha": {
-          "name": "Gelato al tè verde matcha",
+          "name": "Matcha-Grüntee-Eis",
           "note": null
         },
         "anko": {
-          "name": "Anko (marmellata di rot beans)",
+          "name": "Anko (rote Bohnenmarmelade)",
           "note": null
         },
         "gelatina_al_te_matcha_a_cubetti": {
-          "name": "Gelatina al tè matcha a cubetti",
+          "name": "Matcha-Tee Gelee mit Würfel",
           "note": null
         },
         "dango_o_shiratama_piccolini": {
-          "name": "Dango o shiratama piccolini",
+          "name": "Dango oder Shiratama klein",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Sahne montata zuccherata",
+          "name": "Zuckerhaltige Schlagsahne",
           "note": null
         },
         "corn_flakes_o_fiocchi_di_cereali_croccanti": {
-          "name": "Corn flakes o fiocchi di cereali croccanti",
+          "name": "Cornflakes oder knusprige Getreideflocken",
           "note": null
         },
         "cialde_o_bastoncini_pocky_al_matcha_per_guarnire": {
-          "name": "Cialde o bastoncini pocky al matcha per guarnire",
+          "name": "Quacky Waffeln oder Stöcke mit Matcha zum Garnieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Bereiten und kühlen Sie im Voraus Gelee zu Matcha und Shiratama; montieren Sie die weiche Sahne und halten Sie das Eis im Gefrierschrank bis zum letzten.",
+        "step_2": "Schneide die Gelee in die regelmäßigen Würfel und teile den L-Anko in zwei Portionen, so dass die Schichten in den beiden Gläsern ausgeglichen werden.",
+        "step_3": "Legen Sie eine dünne Schicht von Corn Flakes auf den Boden der Gläser, um zu vermeiden, sie zu zerquetschen.",
+        "step_4": "Fügen Sie Gelee zu Matcha, Anko und einen ersten Esslöffel Schlagsahne, so dass die Schichten sichtbar.",
+        "step_5": "Wiederholen Sie die Schichten, wenn die Höhe des Glases es erlaubt, ohne es vollständig zu füllen.",
+        "step_6": "Füge nur zum Zeitpunkt des Service einen Eisball dem Matcha hinzu.",
+        "step_7": "Komplett mit Shiratama, Waffeln oder Pocky und einem kleinen Sahneblumen; serviere sofort, damit der knusprige Teil keine Konsistenz verliert."
       }
     },
     "pt": {
-      "title": "Matcha Parfait Stratificato",
-      "description": "Uma versão prática de Matcha Parfait Stratificato para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por K-On!, Gintama. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Parfait de matcha em camadas",
+      "description": "Matcha Parfait alterna sorvete com chá verde, anko, geleia de matcha e outras juntas num copo alto. Os elementos para esfriar são preparados primeiro, enquanto a montagem em camadas e a decoração são realizadas imediatamente antes do serviço. A gelatina Matcha e o shiratama devem ser preparados com antecedência; sorvete e waffle chegam logo antes de servir.",
+      "animeContext": "Esta receita inspira-se tematicamente em K-On!, Gintama. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "gelato_al_te_verde_matcha": {
-          "name": "Gelato al tè verde matcha",
+          "name": "fósforo de sorvete de chá verdea",
           "note": null
         },
         "anko": {
-          "name": "Anko (marmellata di vermelho beans)",
+          "name": "anko (jambo de feijão vermelho)",
           "note": null
         },
         "gelatina_al_te_matcha_a_cubetti": {
-          "name": "Gelatina al tè matcha a cubetti",
+          "name": "matcha de gelatina de chá em cubos",
           "note": null
         },
         "dango_o_shiratama_piccolini": {
-          "name": "Dango o shiratama piccolini",
+          "name": "Dango ou shiratama pequeno",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Natas montata zuccherata",
+          "name": "creme batido açucarado",
           "note": null
         },
         "corn_flakes_o_fiocchi_di_cereali_croccanti": {
-          "name": "Corn flakes o fiocchi di cereali croccanti",
+          "name": "Flocos de milho ou flocos de cereais crocantes",
           "note": null
         },
         "cialde_o_bastoncini_pocky_al_matcha_per_guarnire": {
-          "name": "Cialde o bastoncini pocky al matcha per guarnire",
+          "name": "waffles ou pocky pega para o matcha para decorar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Prepare e esfrie com antecedência matcha e gelatina shiratama; monte o creme macio e mantenha o sorvete no congelador até o último.",
+        "step_2": "Corte a gelatina em cubos regulares e divida l'anko em duas porções, para que as camadas sejam equilibradas nos dois copos.",
+        "step_3": "Coloque uma fina camada de flocos de milho no fundo dos copos, evitando esmagá- los.",
+        "step_4": "Adicione gelatina ao matcha, anko e uma primeira colher de creme batido, deixando as camadas visíveis.",
+        "step_5": "Repita as camadas se a altura do vidro permitir, sem preenchê- lo completamente.",
+        "step_6": "Adicione uma bola de sorvete ao matcha apenas no momento do serviço.",
+        "step_7": "Completa com shiratama, waffle ou Pocky e um pequeno tufo de creme; sirva imediatamente para que a parte crocante não perca consistência."
       }
     }
   }

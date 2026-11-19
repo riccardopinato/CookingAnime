@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000120",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,36 +21,56 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
-      "id": "yakisoba_pronta_con_carne_e_verdure",
+      "id": "yakisoba_yakisoba_completa_1",
       "quantity": 1,
       "unit": "portion"
     },
     {
-      "id": "uovo_sbattute_con_1_cucchiaio_di_latte",
+      "id": "omelette_uova_2",
       "quantity": 2,
       "unit": "piece"
     },
     {
-      "id": "salsa_per_yakisoba",
-      "quantity": null,
-      "unit": null
+      "id": "omelette_latte_3",
+      "quantity": 1,
+      "unit": "tbsp"
     },
     {
-      "id": "maionese_kewpie_e_aonori",
+      "id": "omelette_olio_neutro_4",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": "finitura_salsa_yakisoba_5",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": "finitura_maionese_giapponese_6",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": "finitura_aonori_7",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": "finitura_beni_shoga_8",
       "quantity": null,
       "unit": null
     }
@@ -66,186 +86,322 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 120
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Yaki Soba Omelette",
-      "description": "A quick-cooked Yaki Soba Omelette that relies on high heat, organized mise en place and short cooking times to keep vegetables lively and sauces concentrated.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Ranma ½. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Omusoba — yakisoba wrapped in an omelet",
+      "description": "The Omusoba contains a portion of yakisoba with vegetables and meat under a thin omelette. The noodles are first skipped with their sauce; the omelet is cooked separately and settles on the pasta just before serving. The omelet wraps a portion of yakisoba and is turned with the closure underneath, before receiving sauces and honors.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Ranma ½. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
-        "yakisoba_pronta_con_carne_e_verdure": {
-          "name": "Yakisoba pronta con carne e verdure",
+        "yakisoba_yakisoba_completa_1": {
+          "name": "complete yakisoba",
           "note": null
         },
-        "uovo_sbattute_con_1_cucchiaio_di_latte": {
-          "name": "Egg sbattute con 1 cucchiaio di milk",
+        "omelette_uova_2": {
+          "name": "eggs",
           "note": null
         },
-        "salsa_per_yakisoba": {
-          "name": "Sauce per yakisoba",
+        "omelette_latte_3": {
+          "name": "milk",
           "note": null
         },
-        "maionese_kewpie_e_aonori": {
-          "name": "Maionese kewpie e aonori",
+        "omelette_olio_neutro_4": {
+          "name": "neutral oil",
+          "note": null
+        },
+        "finitura_salsa_yakisoba_5": {
+          "name": "yakisoba sauce",
+          "note": null
+        },
+        "finitura_maionese_giapponese_6": {
+          "name": "Japanese mayonnaise",
+          "note": null
+        },
+        "finitura_aonori_7": {
+          "name": "aonores",
+          "note": null
+        },
+        "finitura_beni_shoga_8": {
+          "name": "Shoga goods",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and measure every ingredient before heating the pan, because the cooking phase is short and should not be interrupted for preparation.",
-        "step_2": "Use a hot pan or griddle and cook the firmer ingredients first, keeping them moving so they brown without steaming in their own moisture.",
-        "step_3": "Add the remaining ingredients and sauce in stages, cooking only until the sauce clings and the vegetables retain some bite.",
-        "step_4": "Finish with the fresh garnish and serve immediately, while the pan-seared surfaces and concentrated seasoning are still vivid."
+        "step_1": "Slice cabbage and carrot, cut the pig into bites and separate the yakisoba noodles with your hands.",
+        "step_2": "Heat a large frying pan, brown the pork and add the carrot, cabbage and any sprouts. Stir-fry until the vegetables begin to soften.",
+        "step_3": "Add the noodles and a few tablespoons of water, cover for 1-2 minutes and then separate them completely.",
+        "step_4": "Season with yakisoba sauce and skip until the bottom is dry and the noodles are well coated; put aside the heat.",
+        "step_5": "Beat the eggs with milk and a pinch of salt, then cook in a clean frying pan a thin omelette still soft in the middle.",
+        "step_6": "Place a portion of yakisoba in the center of the omelet, fold the edges and reverse on the plate with the closing down.",
+        "step_7": "Complete with yakisoba sauce, Kewpie mayonnaise and aonori; add shoga or katsuobushi goods if expected.",
+        "step_8": "Serve immediately before the omelet dries."
       }
     },
     "it": {
       "title": "Yaki Soba Omelette (Omusoba)",
-      "description": "Un Yaki Soba Omelette (Omusoba) dalla cottura rapida, basato su fiamma vivace, ingredienti già pronti e tempi brevi per mantenere verdure croccanti e salsa concentrata.",
+      "description": "L’Omusoba racchiude una porzione di yakisoba con verdure e carne sotto una frittata sottile. I noodles vengono prima saltati con la loro salsa; l’omelette si cuoce a parte e si adagia sulla pasta appena prima del servizio. L'omelette avvolge una porzione di yakisoba e viene girata con la chiusura sotto, prima di ricevere salse e aonori.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Ranma ½. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
-        "yakisoba_pronta_con_carne_e_verdure": {
-          "name": "Yakisoba pronta con carne e verdure",
+        "yakisoba_yakisoba_completa_1": {
+          "name": "yakisoba completa",
           "note": null
         },
-        "uovo_sbattute_con_1_cucchiaio_di_latte": {
-          "name": "uovo sbattute con 1 cucchiaio di latte",
+        "omelette_uova_2": {
+          "name": "uova",
           "note": null
         },
-        "salsa_per_yakisoba": {
-          "name": "Salsa per Yakisoba",
+        "omelette_latte_3": {
+          "name": "latte",
           "note": null
         },
-        "maionese_kewpie_e_aonori": {
-          "name": "maionese Kewpie e Aonori",
+        "omelette_olio_neutro_4": {
+          "name": "olio neutro",
+          "note": null
+        },
+        "finitura_salsa_yakisoba_5": {
+          "name": "salsa yakisoba",
+          "note": null
+        },
+        "finitura_maionese_giapponese_6": {
+          "name": "maionese giapponese",
+          "note": null
+        },
+        "finitura_aonori_7": {
+          "name": "aonori",
+          "note": null
+        },
+        "finitura_beni_shoga_8": {
+          "name": "beni shoga",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, prepara la Yakisoba saltando noodles, maiale, cavolo e la salsa dedicata.",
-        "step_2": "Prosegui così: in un'altra padella crea una crepe d'uovo sottile e morbida.",
-        "step_3": "Nella fase successiva, metti la Yakisoba al centro dell'omelette e avvolgila piegando i bordi a fagotto.",
-        "step_4": "Per completare, decora con strisce di salsa Yakisoba, maionese e una spolverata di Aonori."
+        "step_1": "Affetta cavolo e carota, taglia il maiale in bocconi e separa i noodles yakisoba con le mani.",
+        "step_2": "Scalda una padella ampia, rosola il maiale e aggiungi carota, cavolo e gli eventuali germogli; salta finché le verdure iniziano ad ammorbidirsi.",
+        "step_3": "Aggiungi i noodles e qualche cucchiaio d’acqua, copri per 1-2 minuti e poi separali completamente.",
+        "step_4": "Condisci con salsa yakisoba e salta finché il fondo è asciutto e i noodles risultano ben rivestiti; metti da parte al caldo.",
+        "step_5": "Sbatti le uova con il latte e un pizzico di sale, poi cuoci in una padella pulita una frittatina sottile ancora morbida al centro.",
+        "step_6": "Metti una porzione di yakisoba al centro dell’omelette, ripiega i bordi e rovescia sul piatto con la chiusura verso il basso.",
+        "step_7": "Completa con salsa yakisoba, maionese Kewpie e aonori; aggiungi beni shoga o katsuobushi se previsti.",
+        "step_8": "Servi immediatamente, prima che l’omelette si asciughi."
       }
     },
     "es": {
-      "title": "Yaki Soba Omelette",
-      "description": "Una versión práctica de Yaki Soba Omelette para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Ranma ½. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Omusoba — yakisoba envuelto en tortilla",
+      "description": "El Omusoba contiene una porción de yaquisoba con verduras y carne bajo una tortilla fina. Los fideos se saltan primero con su salsa; la tortilla se cocina aparte y se acomoda sobre la pasta justo antes del servicio. La tortilla envuelve una porción de yakisoba y se gira con el cierre debajo, antes de recibir salsas y aonoros.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Ranma ½. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
-        "yakisoba_pronta_con_carne_e_verdure": {
-          "name": "Yakisoba pronta con carne e verdure",
+        "yakisoba_yakisoba_completa_1": {
+          "name": "yaquisoba completa",
           "note": null
         },
-        "uovo_sbattute_con_1_cucchiaio_di_latte": {
-          "name": "Huevo sbattute con 1 cucchiaio di leche",
+        "omelette_uova_2": {
+          "name": "Huevos",
           "note": null
         },
-        "salsa_per_yakisoba": {
-          "name": "Salsa per yakisoba",
+        "omelette_latte_3": {
+          "name": "leche",
           "note": null
         },
-        "maionese_kewpie_e_aonori": {
-          "name": "Maionese kewpie e aonori",
+        "omelette_olio_neutro_4": {
+          "name": "aceite neutro",
+          "note": null
+        },
+        "finitura_salsa_yakisoba_5": {
+          "name": "salsa yakisoba",
+          "note": null
+        },
+        "finitura_maionese_giapponese_6": {
+          "name": "mayonesa japonesa",
+          "note": null
+        },
+        "finitura_aonori_7": {
+          "name": "aonori",
+          "note": null
+        },
+        "finitura_beni_shoga_8": {
+          "name": "bienes shoga",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta la col y la zanahoria, corta el cerdo en bocados y separa los fideos yakisoba con las manos.",
+        "step_2": "Calienta una sartén grande, dora el cerdo y añade la zanahoria, la col y los brotes, si los utilizas. Saltea hasta que las verduras empiecen a ablandarse.",
+        "step_3": "Añadir fideos y algunas cucharadas de agua, cubrir durante 1-2 minutos y luego separarlos completamente.",
+        "step_4": "Sazona con salsa yakisoba y salta hasta que el fondo esté seco y los fideos estén bien revestidos; guarda el calor.",
+        "step_5": "Echa los huevos con leche y una pizca de sal, luego cocina en una sartén limpia una tortilla fina aún suave en el centro.",
+        "step_6": "Pon una porción de yaquisoba en el centro de la tortilla, dobla los bordes y vuelca sobre el plato con el cierre hacia abajo.",
+        "step_7": "Completa con salsa yakisoba, mayonesa Kewpie y aonori; añade bienes shoga o katsoubushi si estás previsto.",
+        "step_8": "Sirve inmediatamente antes de que se seque la tortilla."
       }
     },
     "fr": {
-      "title": "Yaki Soba Omelette",
-      "description": "Une version pratique de Yaki Soba Omelette à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Ranma ½. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Omusoba — yakisoba enveloppé dans une omelette",
+      "description": "L'Omusoba contient une portion de yakisoba avec des légumes et de la viande sous une frittata fine. Les nouilles sont d'abord sautées avec leur sauce; l'omelette se cuit à part et s'adapte sur les pâtes juste avant le service. L'omelette enveloppe une portion de yakisoba et est tournée avec la fermeture ci-dessous, avant de recevoir des sauces et des aons.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Ranma ½. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
-        "yakisoba_pronta_con_carne_e_verdure": {
-          "name": "Yakisoba pronta con carne e verdure",
+        "yakisoba_yakisoba_completa_1": {
+          "name": "yakisoba complet",
           "note": null
         },
-        "uovo_sbattute_con_1_cucchiaio_di_latte": {
-          "name": "Œuf sbattute con 1 cucchiaio di lait",
+        "omelette_uova_2": {
+          "name": "œufs",
           "note": null
         },
-        "salsa_per_yakisoba": {
-          "name": "Sauce per yakisoba",
+        "omelette_latte_3": {
+          "name": "lait",
           "note": null
         },
-        "maionese_kewpie_e_aonori": {
-          "name": "Maionese kewpie e aonori",
+        "omelette_olio_neutro_4": {
+          "name": "huile neutre",
+          "note": null
+        },
+        "finitura_salsa_yakisoba_5": {
+          "name": "sauce yakisoba",
+          "note": null
+        },
+        "finitura_maionese_giapponese_6": {
+          "name": "mayonnaise japonaise",
+          "note": null
+        },
+        "finitura_aonori_7": {
+          "name": "anorus",
+          "note": null
+        },
+        "finitura_beni_shoga_8": {
+          "name": "biens de shoga",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coiffe du chou et de la carotte, coupe le porc en morceaux et sépare les nouilles yakisoba avec les mains.",
+        "step_2": "Chauffez une grande poêle, roulez le porc et ajoutez de la carotte, du chou et d'éventuelles pousses; sautez jusqu'à ce que les légumes commencent à se ramollir.",
+        "step_3": "Ajoutez les nouilles et quelques cuillères à soupe d'eau, couvrez pendant 1 à 2 minutes puis séparez-les complètement.",
+        "step_4": "Assaisonnez avec de la sauce yakisoba et sautez jusqu'à ce que le fond soit sec et les nouilles sont bien recouvertes; écartez-vous de la chaleur.",
+        "step_5": "Battre les œufs avec du lait et une pincée de sel, puis cuire dans une poêle propre une omelette fine encore douce au centre.",
+        "step_6": "Placez une portion de yakisoba au centre de la karma, repliez les bords et renversez le plat avec la fermeture vers le bas.",
+        "step_7": "Complétez avec la sauce yakisoba, la mayonnaise Kewpie et les aonori; ajoutez des biens shoga ou katsuobushi si prévu.",
+        "step_8": "Servez-vous immédiatement avant que l'omelette ne sèche."
       }
     },
     "de": {
-      "title": "Yaki Soba Omelette",
-      "description": "Eine alltagstaugliche Version von Yaki Soba Omelette für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Ranma ½ inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Omusoba – Yakisoba in einem Omelett",
+      "description": "Die Nudeln werden zuerst mit ihrer Soße gesprungen; das Yakisoba wird getrennt gekocht und wird kurz vor dem Servieren auf die Nudeln gelegt. Das Omelette umwickelt eine Portion Yakisoba und wird mit dem unteren Verschluss gedreht, bevor es Saucen und Aonori erhält.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Ranma ½ inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
-        "yakisoba_pronta_con_carne_e_verdure": {
-          "name": "Yakisoba pronta con carne e verdure",
+        "yakisoba_yakisoba_completa_1": {
+          "name": "yakisoba vollständig",
           "note": null
         },
-        "uovo_sbattute_con_1_cucchiaio_di_latte": {
-          "name": "Ei sbattute con 1 cucchiaio di Milch",
+        "omelette_uova_2": {
+          "name": "Eier",
           "note": null
         },
-        "salsa_per_yakisoba": {
-          "name": "Sauce per yakisoba",
+        "omelette_latte_3": {
+          "name": "Milch",
           "note": null
         },
-        "maionese_kewpie_e_aonori": {
-          "name": "Maionese kewpie e aonori",
+        "omelette_olio_neutro_4": {
+          "name": "Neutrales Öl",
+          "note": null
+        },
+        "finitura_salsa_yakisoba_5": {
+          "name": "Yakisoba-Sauce",
+          "note": null
+        },
+        "finitura_maionese_giapponese_6": {
+          "name": "Japanische Mayonnaise",
+          "note": null
+        },
+        "finitura_aonori_7": {
+          "name": "Aonoren",
+          "note": null
+        },
+        "finitura_beni_shoga_8": {
+          "name": "Güter shoga",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Kohl und Karotte schnüren, schneiden Sie das Schwein in Bissen und trennen Sie die Yakisoba Nudeln mit den Händen.",
+        "step_2": "Erhitzen Sie eine große Pfanne, krönen Sie das Schwein und fügen Sie Karotte, Kohl und mögliche Sprossen; springt, bis das Gemüse beginnt zu erweichen.",
+        "step_3": "Fügen Sie die Nudeln und ein paar Löffel Wasser hinzu, decken Sie sie für 1-2 Minuten und trennen Sie sie dann vollständig.",
+        "step_4": "Mit Yakisoba-Sauce würzen und springen, bis der Boden trocken ist und die Nudeln gut beschichtet sind; legen Sie die Hitze beiseite.",
+        "step_5": "Werfen Sie die Eier mit Milch und einer Prise Salz, dann kochen Sie in einer sauberen Pfanne eine dünne, noch weiche Pfanne in der Mitte.",
+        "step_6": "Legen Sie eine Portion Yakisoba in der Mitte des Omeletts, falten Sie die Ränder und stürzen Sie auf den Teller mit dem Verschluss nach unten.",
+        "step_7": "Komplett mit Yakisoba-Sauce, Mayonnaise Kewpie und Aonori; fügen Sie shoga oder katsuobushi Waren, falls vorgesehen.",
+        "step_8": "Servieren Sie sofort, bevor das Omelette trocken wird."
       }
     },
     "pt": {
-      "title": "Yaki Soba Omelette",
-      "description": "Uma versão prática de Yaki Soba Omelette para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Ranma ½. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Omusoba — yakisoba envolvido numa omelete",
+      "description": "O Omusoba contém uma porção de yakisoba com legumes e carne sob uma omeleta fina. Os macarrão são primeiro pulados com o seu molho; a omeleta é cozida separadamente e se assenta na massa pouco antes de servir. A omeleta envolve uma porção de yakisoba e é virada com o fechamento por baixo, antes de receber molhos e honras.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Ranma ½. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
-        "yakisoba_pronta_con_carne_e_verdure": {
-          "name": "Yakisoba pronta con carne e verdure",
+        "yakisoba_yakisoba_completa_1": {
+          "name": "completar o yakisoba",
           "note": null
         },
-        "uovo_sbattute_con_1_cucchiaio_di_latte": {
-          "name": "Ovo sbattute con 1 cucchiaio di leite",
+        "omelette_uova_2": {
+          "name": "ovos",
           "note": null
         },
-        "salsa_per_yakisoba": {
-          "name": "Molho per yakisoba",
+        "omelette_latte_3": {
+          "name": "leite",
           "note": null
         },
-        "maionese_kewpie_e_aonori": {
-          "name": "Maionese kewpie e aonori",
+        "omelette_olio_neutro_4": {
+          "name": "óleo neutro",
+          "note": null
+        },
+        "finitura_salsa_yakisoba_5": {
+          "name": "molho de yakisoba",
+          "note": null
+        },
+        "finitura_maionese_giapponese_6": {
+          "name": "Maionesa japonesa",
+          "note": null
+        },
+        "finitura_aonori_7": {
+          "name": "anoros",
+          "note": null
+        },
+        "finitura_beni_shoga_8": {
+          "name": "Produtos Shoga",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte o repolho e a cenoura, corte o porco em mordidas e separe os macarrãos de yakisoba com as mãos.",
+        "step_2": "Aqueça uma panela grande, marrom o porco e adicione cenoura, repolho e quaisquer brotos; salte até que os vegetais comecem a suavizar.",
+        "step_3": "Adicione os macarrão e algumas colheres de água, cubra por 1-2 minutos e separe- os completamente.",
+        "step_4": "Sazonar com molho de yakisoba e pular até que o fundo esteja seco e os macarrão estejam bem revestidos; deixe de lado o calor.",
+        "step_5": "Bata os ovos com leite e uma pitada de sal, depois cozinhe numa frigideira limpa uma omeleta fina ainda macia no meio.",
+        "step_6": "Coloque uma porção de yakisoba no centro da omelete, dobre as bordas e inverta a placa com o fechamento.",
+        "step_7": "Completo com molho yakisoba, maionese Kewpie e aonori; adicione produtos shoga ou katsuobushi se esperado.",
+        "step_8": "Servir imediatamente antes da omeleta secar."
       }
     }
   }

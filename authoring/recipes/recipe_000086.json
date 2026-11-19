@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000086",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,28 +21,28 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
       "id": "tuorli_d_uovo",
       "quantity": 2,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "albumi_d_uovo_freschi_e_freddi",
       "quantity": 3,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "latte_intero",
@@ -71,11 +71,16 @@
     },
     {
       "id": "burro_per_la_padella",
-      "quantity": null,
-      "unit": null
+      "quantity": 1,
+      "unit": "tsp"
     },
     {
-      "id": "zucchero_a_velo_e_sciroppo_d_acero_per_servire",
+      "id": "zucchero_a_velo_e_sciroppo_d_acero_per_servire_1_zucchero_a_velo",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": "zucchero_a_velo_e_sciroppo_d_acero_per_servire_2_sciroppo_d_acero_per_servire",
       "quantity": null,
       "unit": null
     }
@@ -96,61 +101,105 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": 360
+    },
+    {
+      "id": "step_10",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_11",
+      "timerSeconds": 300
+    },
+    {
+      "id": "step_12",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Soufflé Pancake Giapponesi",
-      "description": "A Japanese-style Soufflé Pancake Giapponesi designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Japanese Soufflé Pancakes — tall and fluffy pancakes",
+      "description": "The Japanese Soufflé Pancakes owe their height to the gently incorporated mounted egg whites at the base of egg yolks, milk and flour. The batter is slowly cooked in a pan, often covered, and served immediately to maintain the volume. The covered cooking, with small additions of water, allows pancakes to grow in height without losing the soft consistency.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "tuorli_d_uovo": {
-          "name": "Tuorli d'egg",
+          "name": "Egg yolks",
           "note": null
         },
         "albumi_d_uovo_freschi_e_freddi": {
-          "name": "Egg whites d'egg fresh e freddi",
+          "name": "fresh and cold egg whites",
           "note": null
         },
         "latte_intero": {
-          "name": "Milk intero",
+          "name": "whole milk",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "Vanilla extract",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose flour",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "yeast for desserts",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sugar",
+          "name": "semolate sugar",
           "note": null
         },
         "burro_per_la_padella": {
-          "name": "Butter per la padella",
+          "name": "butter for the frying pan",
           "note": null
         },
-        "zucchero_a_velo_e_sciroppo_d_acero_per_servire": {
-          "name": "Sugar a velo e sciroppo d'acero for serving",
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_1_zucchero_a_velo": {
+          "name": "icing sugar",
+          "note": null
+        },
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_2_sciroppo_d_acero_per_servire": {
+          "name": "maple syrup for serving",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "In a bowl, work the egg yolks with milk and vanilla.",
+        "step_2": "Sift the flour and yeast and add them to the egg yolks mixing until a smooth batter is obtained.",
+        "step_3": "In a very clean bowl, mount the egg whites with the electric whips, adding sugar in three shots until you get a shiny and stable meringue, with firm but not dry peaks.",
+        "step_4": "Embed 1/3 of the meringue into the egg yolks batter with the spatula to soften it.",
+        "step_5": "Then add the rest of the meringue by gently amalgamating from the bottom upwards so that the mixture is not disassembled.",
+        "step_6": "Grease a non-stick pan with a little butter over very low heat.",
+        "step_7": "Create high batter hills.",
+        "step_8": "Add 1 teaspoon of water to the bottom of the pan and cover immediately with a high lid.",
+        "step_9": "Cook for 5-6 minutes on minimum heat.",
+        "step_10": "Add a second layer of batter over the pancakes, cover and cook another 2 minutes.",
+        "step_11": "Gently turn the pancakes, add another teaspoon of water, cover and cook for another 5 minutes.",
+        "step_12": "Serve immediately hot and soft sprinkled with icing sugar and maple syrup."
       }
     },
     "it": {
       "title": "Soufflé Pancake Giapponesi (Pancake Altissimi e Soffici)",
-      "description": "Un Soufflé Pancake Giapponesi (Pancake Altissimi e Soffici) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "I Soufflé Pancake giapponesi devono la loro altezza agli albumi montati incorporati delicatamente alla base di tuorli, latte e farina. La pastella viene cotta lentamente in padella, spesso coperta, e servita subito per mantenere il volume. La cottura coperta, con piccole aggiunte d'acqua, permette ai pancake di svilupparsi in altezza senza perdere la consistenza soffice.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Kaguya-sama: Love is War. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "tuorli_d_uovo": {
@@ -182,215 +231,275 @@
           "note": null
         },
         "burro_per_la_padella": {
-          "name": "Burro per la padella",
+          "name": "burro per la padella",
           "note": null
         },
-        "zucchero_a_velo_e_sciroppo_d_acero_per_servire": {
-          "name": "zucchero a velo e sciroppo d'acero per servire",
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_1_zucchero_a_velo": {
+          "name": "zucchero a velo",
+          "note": null
+        },
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_2_sciroppo_d_acero_per_servire": {
+          "name": "sciroppo d'acero per servire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, riunisci in una ciotola lavora i tuorli con il latte e la vaniglia. Setaccia la farina ed il lievito ed uniscili ai tuorli amalgamando fino ad ottenere una pastella liscia.",
-        "step_2": "Prosegui così: riunisci in una ciotola pulitissima monta gli albumi a neve con le fruste elettriche, aggiungendo lo zucchero in tre riprese finché ottieni una meringa lucida, sodissima e a neve ben ferma.",
-        "step_3": "Nella fase successiva, incorpora 1/3 della meringa nella pastella di tuorli con la spatola per ammorbidirla, poi aggiungi il resto della meringa amalgamando delicatamente dal basso verso l'alto per non smontare il composto. Ungi una padella antiaderente con poco burro a fuoco bassissimo. Crea delle collinette alte di pastella. Unisci 1 cucchiaino d'acqua al fondo della padella e copri immediatamente con un coperchio alto. Lascia cuocere per 5-6 minuti a fuoco minimo.",
-        "step_4": "Per completare, unisci un secondo strato di pastella sopra i pancake, copri e lascia cuocere altri 2 minuti. Gira delicatamente i pancake, unisci un altro cucchiaino d'acqua, copri e lascia cuocere per altri 5 minuti. Porta in tavolare subito caldi e soffici spolverati di zucchero a velo e sciroppo d'acero."
+        "step_1": "In una ciotola, lavora i tuorli con il latte e la vaniglia.",
+        "step_2": "Setaccia la farina e il lievito ed uniscili ai tuorli amalgamando fino a ottenere una pastella liscia.",
+        "step_3": "In una ciotola pulitissima, monta gli albumi con le fruste elettriche, aggiungendo lo zucchero in tre riprese fino a ottenere una meringa lucida e stabile, con picchi fermi ma non asciutti.",
+        "step_4": "Incorpora 1/3 della meringa nella pastella di tuorli con la spatola per ammorbidirla.",
+        "step_5": "Poi aggiungi il resto della meringa amalgamando delicatamente dal basso verso l'alto per non smontare il composto.",
+        "step_6": "Ungi una padella antiaderente con poco burro a fuoco bassissimo.",
+        "step_7": "Crea delle collinette alte di pastella.",
+        "step_8": "Unisci 1 cucchiaino d'acqua al fondo della padella e copri immediatamente con un coperchio alto.",
+        "step_9": "Cuoci per 5-6 minuti a fuoco minimo.",
+        "step_10": "Unisci un secondo strato di pastella sopra i pancake, copri e lascia cuocere altri 2 minuti.",
+        "step_11": "Gira delicatamente i pancake, unisci un altro cucchiaino d'acqua, copri e lascia cuocere per altri 5 minuti.",
+        "step_12": "Servi subito caldi e soffici spolverati di zucchero a velo e sciroppo d'acero."
       }
     },
     "es": {
-      "title": "Soufflé Pancake Giapponesi",
-      "description": "Una versión práctica de Soufflé Pancake Giapponesi para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Kaguya-sama: Love is War. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tortitas soufflé japonesas — altas y esponjosas",
+      "description": "Los Sufflé Panqueques japoneses deben su altura a las claras montadas incorporadas suavemente a la base de yemas, leche y harina. La masa se cocina lentamente en la sartén, a menudo cubierta, y se sirve inmediatamente para mantener el volumen. La cocción cubierta, con pequeñas adiciones de agua, permite a los panqueques crecer en altura sin perder la consistencia suave.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Kaguya-sama: Love is War. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "tuorli_d_uovo": {
-          "name": "Tuorli d'huevo",
+          "name": "Yemas de huevo",
           "note": null
         },
         "albumi_d_uovo_freschi_e_freddi": {
-          "name": "Huevo whites d'huevo fresco e freddi",
+          "name": "Albúminas de huevo frescas y frías",
           "note": null
         },
         "latte_intero": {
-          "name": "Leche intero",
+          "name": "leche entera",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "extracto de vainilla",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose harina",
+          "name": "harina 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "levadura para pasteles",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated azúcar",
+          "name": "azúcar semilado",
           "note": null
         },
         "burro_per_la_padella": {
-          "name": "Mantequilla per la padella",
+          "name": "mantequilla para la sartén",
           "note": null
         },
-        "zucchero_a_velo_e_sciroppo_d_acero_per_servire": {
-          "name": "Azúcar a velo e sciroppo d'acero para servir",
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_1_zucchero_a_velo": {
+          "name": "azúcar en polvo",
+          "note": null
+        },
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_2_sciroppo_d_acero_per_servire": {
+          "name": "jarabe de arce para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En un tazón, trabaja las yemas con leche y vainilla.",
+        "step_2": "Colocar la harina y la levadura y unirlos a las yemas mediante la mezcla hasta obtener una masa lisa.",
+        "step_3": "En un tazón muy limpio, monta las claras con unas varillass eléctricos, añadiendo el azúcar en tres tomas hasta obtener un merengue brillante y estable, con picos firmes pero sin secarse.",
+        "step_4": "Inserta 1/3 del merengue en la masa de yemas con la espátula para suavizarla.",
+        "step_5": "Añade el resto del merengue mezclando suavemente de abajo a arriba para no desmontar el compuesto.",
+        "step_6": "Unge una sartén antiadherente con poca mantequilla a fuego muy bajo.",
+        "step_7": "Crea colinas altas de pasta.",
+        "step_8": "Une 1 cucharadita de agua al fondo de la sartén y cubre inmediatamente con una tapa alta.",
+        "step_9": "Cocine durante 5-6 minutos a fuego mínimo.",
+        "step_10": "Une una segunda capa de masa sobre los panqueques, cubre y deja hornear otros 2 minutos.",
+        "step_11": "Gira suavemente los panqueques, une otra cucharadita de agua, cubre y deja cocer durante otros 5 minutos.",
+        "step_12": "Sirve calientes y suaves con azúcar y jarabe de arce."
       }
     },
     "fr": {
-      "title": "Soufflé Pancake Giapponesi",
-      "description": "Une version pratique de Soufflé Pancake Giapponesi à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Kaguya-sama: Love is War. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Pancakes soufflés japonais — hauts et moelleux",
+      "description": "Les Soufflé Pancakes japonais doivent leur hauteur aux blancs montés incorporés délicatement à la base des jaunes d'œufs, du lait et de la farine. La pâte est cuite lentement dans une poêle, souvent couverte, et servie immédiatement pour maintenir le volume. La cuisson couverte, avec de petits ajouts d'eau, permet aux pancakes de se développer en hauteur sans perdre la consistance douce.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Kaguya-sama: Love is War. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "tuorli_d_uovo": {
-          "name": "Tuorli d'œuf",
+          "name": "Jaunes d'œufs",
           "note": null
         },
         "albumi_d_uovo_freschi_e_freddi": {
-          "name": "Œuf whites d'œuf frais e freddi",
+          "name": "blancs d'oeuf frais et frais",
           "note": null
         },
         "latte_intero": {
-          "name": "Lait intero",
+          "name": "lait entier",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "extrait de vanille",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose farine",
+          "name": "farine 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "levain pour desserts",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sucre",
+          "name": "sucre en poudre, en granulés ou sous d'autres formes solides, d'une teneur en poids de matières grasses provenant du lait et d'une teneur en poids de matières grasses égale ou supérieure à 40% mais n'excédant pas 10%",
           "note": null
         },
         "burro_per_la_padella": {
-          "name": "Beurre per la padella",
+          "name": "beurre pour la poêle",
           "note": null
         },
-        "zucchero_a_velo_e_sciroppo_d_acero_per_servire": {
-          "name": "Sucre a velo e sciroppo d'acero pour servir",
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_1_zucchero_a_velo": {
+          "name": "sucre à voile",
+          "note": null
+        },
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_2_sciroppo_d_acero_per_servire": {
+          "name": "sirop d'érable pour servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans un bol, il travaille les jaunes d'œufs avec du lait et de la vanille.",
+        "step_2": "Fouillez la farine et la levure et joignez-les aux jaunes d'œufs en mélangeant jusqu'à obtenir une pâte lisse.",
+        "step_3": "Dans un bol très propre, montez les blancs avec les fouets électriques, en ajoutant le sucre en trois prises jusqu'à obtenir un meringue brillant et stable, avec des pics fermes mais non secs.",
+        "step_4": "Il intègre 1/3 de la meringue dans la pâte de jaune d'œuf avec la spatule pour la ramollir.",
+        "step_5": "Puis ajoutez le reste de la meringue en mélangeant doucement du bas vers le haut pour ne pas démonter le composé.",
+        "step_6": "Tu mets une poêle anti-adhérente avec peu de beurre à feu très bas.",
+        "step_7": "Créez des collines hautes en pâte.",
+        "step_8": "Joignez 1 cuillère à café d'eau au fond de la poêle et couvrez immédiatement avec un couvercle haut.",
+        "step_9": "Faites cuire pendant 5-6 minutes à feu minimum.",
+        "step_10": "Joignez une deuxième couche de pâte au-dessus des pancakes, couvrez et laissez cuire encore 2 minutes.",
+        "step_11": "Tournez doucement les pancakes, ajoutez une autre cuillère à café d'eau, couvrez et laissez cuire pendant encore 5 minutes.",
+        "step_12": "Servez-vous immédiatement chauds et doux saupoudrés de sucre à voile et de sirop d'érable."
       }
     },
     "de": {
-      "title": "Soufflé Pancake Giapponesi",
-      "description": "Eine alltagstaugliche Version von Soufflé Pancake Giapponesi für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Kaguya-sama: Love is War inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Japanische Soufflé-Pancakes – besonders hoch und luftig",
+      "description": "Die japanischen Soufflé Pancakes verdanken ihre Höhe den gut montierten Alben, die an der Basis von Eigelb, Milch und Mehl angebracht sind. Der Teig wird langsam in der Pfanne gekocht, oft bedeckt, und sofort serviert, um die Lautstärke zu halten. Das überdachte Kochen mit kleinen Wasserzutaten ermöglicht es den Pfannkuchen, sich in der Höhe zu entwickeln, ohne die weiche Konsistenz zu verlieren.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Kaguya-sama: Love is War inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "tuorli_d_uovo": {
-          "name": "Tuorli d'Ei",
+          "name": "Eigelb",
           "note": null
         },
         "albumi_d_uovo_freschi_e_freddi": {
-          "name": "Ei whites d'Ei frisch e freddi",
+          "name": "Frische und kalte Eier",
           "note": null
         },
         "latte_intero": {
-          "name": "Milch intero",
+          "name": "Vollmilch",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "Vanilleextrakt",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose Mehl",
+          "name": "Mehl 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "Kuchenhefe",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated Zucker",
+          "name": "Semolatzucker",
           "note": null
         },
         "burro_per_la_padella": {
-          "name": "Butter per la padella",
+          "name": "Pfannenbutter",
           "note": null
         },
-        "zucchero_a_velo_e_sciroppo_d_acero_per_servire": {
-          "name": "Zucker a velo e sciroppo d'acero zum Servieren",
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_1_zucchero_a_velo": {
+          "name": "Schleierzucker",
+          "note": null
+        },
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_2_sciroppo_d_acero_per_servire": {
+          "name": "Ahornsirup zum Servieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer Schüssel arbeitet die Eigelb mit Milch und Vanille.",
+        "step_2": "Seidenmehl und Hefe und mischen sie mit Eigelb, bis sie einen glatten Teig erhalten.",
+        "step_3": "In einer sehr sauberen Schüssel, montieren Sie die Alben mit den elektrischen Peitschen, fügen Sie den Zucker in drei Drehungen, bis Sie eine glänzende und stabile Meringa, mit festen, aber nicht trockenen Spitzen.",
+        "step_4": "Legen Sie 1/3 des Merings in den Teig, um es mit dem Spachtel zu erweichen.",
+        "step_5": "Dann fügen Sie den Rest des Merings hinzu, indem Sie sanft von unten nach oben mischen, um die Verbindung nicht zu zerlegen.",
+        "step_6": "Schnüren Sie eine Pfanne mit wenig Butter mit sehr geringem Feuer.",
+        "step_7": "Erstellen Sie Hügel hoch aus Pastell.",
+        "step_8": "Kombinieren Sie 1 Teelöffel Wasser am Boden der Pfanne und decken Sie sich sofort mit einem hohen Deckel ab.",
+        "step_9": "Kochen Sie für 5-6 Minuten bei minimalem Feuer.",
+        "step_10": "Verbinden Sie eine zweite Schicht Pastell über den Pfannkuchen, decken und backen Sie noch 2 Minuten.",
+        "step_11": "Drehen Sie vorsichtig die Pfannkuchen, fügen Sie einen anderen Teelöffel Wasser, decken und lassen Sie für weitere 5 Minuten kochen.",
+        "step_12": "Servieren Sie sofort warm und weich mit Schleierzucker und Ahornsirup."
       }
     },
     "pt": {
-      "title": "Soufflé Pancake Giapponesi",
-      "description": "Uma versão prática de Soufflé Pancake Giapponesi para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Kaguya-sama: Love is War. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Panquecas soufflé japonesas — altas e fofas",
+      "description": "As Panquecas Japonesas de Soufflé devem a sua altura às claras de ovo suavemente incorporadas na base de gemas de ovo, leite e farinha. A massa é lentamente cozida numa panela, muitas vezes coberta, e servida imediatamente para manter o volume. O cozimento coberto, com pequenas adições de água, permite que as panquecas cresçam em altura sem perder a consistência suave.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Kaguya-sama: Love is War. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "tuorli_d_uovo": {
-          "name": "Tuorli d'ovo",
+          "name": "Gemas de ovos",
           "note": null
         },
         "albumi_d_uovo_freschi_e_freddi": {
-          "name": "Ovo whites d'ovo fresco e freddi",
+          "name": "claras de ovos frescas e frias",
           "note": null
         },
         "latte_intero": {
-          "name": "Leite intero",
+          "name": "leite inteiro",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "Extrato de vanila",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose farinha",
+          "name": "farinha 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "levedura para sobremesas",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated açúcar",
+          "name": "açúcar semolado",
           "note": null
         },
         "burro_per_la_padella": {
-          "name": "Manteiga per la padella",
+          "name": "manteiga para a frigideira",
           "note": null
         },
-        "zucchero_a_velo_e_sciroppo_d_acero_per_servire": {
-          "name": "Açúcar a velo e sciroppo d'acero para servir",
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_1_zucchero_a_velo": {
+          "name": "açúcar gelado",
+          "note": null
+        },
+        "zucchero_a_velo_e_sciroppo_d_acero_per_servire_2_sciroppo_d_acero_per_servire": {
+          "name": "xarope de arce para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Em uma tigela, trabalhe as gemas de ovo com leite e baunilha.",
+        "step_2": "Tameie a farinha e a levedura e adicione- as às gemas de ovo misturando até que se obtenha uma massa suave.",
+        "step_3": "Numa tigela muito limpa, monte as claras de ovo com os batedeira elétrica, adicionando açúcar em três doses até obter uma meringue brilhante e estável, com picos firmes mas não secos.",
+        "step_4": "Incorpore 1/3 da meringue na massa das gemas de ovo com a espátula para amolecê- la.",
+        "step_5": "Em seguida, adicione o resto da meringue amalgamando suavemente do fundo para cima para que a mistura não seja desmontada.",
+        "step_6": "Graxa uma panela antiadherente com um pouco de manteiga a fogo muito baixo.",
+        "step_7": "Crie colinas altas de bateria.",
+        "step_8": "Adicione 1 colher de chá de água ao fundo da panela e cubra imediatamente com uma tampa alta.",
+        "step_9": "Cozinhe por 5-6 minutos com o calor mínimo.",
+        "step_10": "Adicione uma segunda camada de massa sobre as panquecas, cubra e cozinhe mais 2 minutos.",
+        "step_11": "Vire suavemente as panquecas, adicione outra colher de chá de água, cubra e cozinhe por mais 5 minutos.",
+        "step_12": "Servir imediatamente quente e suave com açúcar gelado e xarope de arce."
       }
     }
   }

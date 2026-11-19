@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000156",
-  "contentVersion": 1,
+  "contentVersion": 8,
   "status": "published",
   "inspirationTitle": "Ramen Daisuki Koizumi-san",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "Fast Track 12/12: original recipe reconciled to full procedure and localized risk-specific corrections for IT/EN/ES/FR/DE/PT; FDA/FSIS/FSA and EU species evidence recorded in tool/fast_track_12_repairs.py.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 20,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -70,7 +70,12 @@
       "unit": "g"
     },
     {
-      "id": "mais_dolce_e_cipollotto_fresco_per_guarnire",
+      "id": "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce",
+      "quantity": 60,
+      "unit": "g"
+    },
+    {
+      "id": "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire",
       "quantity": null,
       "unit": null
     }
@@ -82,7 +87,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 240
     },
     {
       "id": "step_3",
@@ -91,57 +96,81 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Asari Ramen",
-      "description": "A practical bowl of Asari Ramen, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Ramen Daisuki Koizumi-san, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Asari Ramen — clam and butter broth ramen",
+      "description": "Asari Ramen uses the filtered liquid of open clams with sake and garlic to flavor a light dashi broth. Noodles cook separately and are served immediately with clams, corn, onion and little butter. The filtered liquid of the clams flavors the dashi, while the butter melts in the bowl at the time of service.",
+      "animeContext": "This recipe is thematically inspired by Ramen Daisuki Koizumi-san, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "ramen_noodles": {
-          "name": "Ramen noodles",
+          "name": "ramen noodles",
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "Clams veraci spurgate",
+          "name": "purged clams",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Dashi broth leggero",
+          "name": "Light Dashi broth",
           "note": null
         },
         "sake_giapponese": {
-          "name": "Sake giapponese",
+          "name": "Japanese sake",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Soy sauce chiara",
+          "name": "light soy sauce",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'garlic tritato",
+          "name": "chopped garlic clove",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Butter di malga",
+          "name": "Malga butter",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Sweet corn e spring onion fresh per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "sweet corn",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "fresh spring onion for garnish",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Put the clams in a pot with the sake and the chopped garlic.",
+        "step_2": "Cover with lid and cook over a high heat for 3-4 minutes until the clams open. Use live, purged clams from a reliable supplier. Discard broken shells and clams that do not close when tapped before cooking, and discard any remaining closed after thorough cooking. Do not use liquid from discarded clams.",
+        "step_3": "Carefully filter the liquid released from clams and keep it aside together with open molluscs.",
+        "step_4": "Add the clam juice to the Dashi broth, add the light soy sauce and a pinch of salt.",
+        "step_5": "Heat well the clam broth without overly reducing it.",
+        "step_6": "Cook the noodles for ramen in plenty of boiling water for 2 minutes and drain.",
+        "step_7": "Distribute the noodles in the bowls and cover them with the hot broth to the clams.",
+        "step_8": "Arrange over the clams in the shell, the corn and the fresh spring onion; complete with a nut of butter, which melting will bind the seafood stock."
       }
     },
     "it": {
       "title": "Asari Ramen (Ramen al Brodo di Vongole e Burro)",
-      "description": "Una versione pratica di Asari Ramen (Ramen al Brodo di Vongole e Burro), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "L’Asari Ramen utilizza il liquido filtrato delle vongole aperte con sake e aglio per aromatizzare un brodo leggero di dashi. I noodles si cuociono a parte e vengono serviti subito con le vongole, il mais, cipollotto e poco burro. Il liquido filtrato delle vongole aromatizza il dashi, mentre il burro si scioglie nella ciotola al momento del servizio.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Ramen Daisuki Koizumi-san, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "ramen_noodles": {
@@ -165,203 +194,243 @@
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "d'aglio tritato",
+          "name": "spicchio d'aglio tritato",
           "note": null
         },
         "burro_di_malga": {
           "name": "burro di malga",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Mais dolce e cipollotto fresco per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "mais dolce",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "cipollotto fresco per guarnire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, usa una pentola unire le vongole con il sake e l'aglio tritato. Coprire con coperchio e cuocere a fuoco vivo per 3-4 minuti finché le vongole si aprono. Filtrare il succo ottenuto e tenuto da parte con le vongole.",
-        "step_2": "Prosegui così: unire il succo delle vongole al brodo Dashi, aggiungere la salsa di soia chiara ed un pizzico di sale. Porta a temperaturare bene.",
-        "step_3": "Nella fase successiva, cuocere i noodles per ramen in abbondante acqua bollente per 2 minuti e scolare. Disporre i noodles nelle ciotole, coprire con il brodo caldo alle vongole.",
-        "step_4": "Per completare, adagiare sopra le vongole nel guscio, una cucchiaiata di mais, cipollotto fresco ed una noce di burro che sciogliendosi legherà il brodo marinaro."
+        "step_1": "Metti le vongole in una pentola con il sake e l'aglio tritato.",
+        "step_2": "Copri con coperchio e cuoci a fuoco vivo per 3-4 minuti finché le vongole si aprono. Usa vongole vive e spurgate da fornitore affidabile. Elimina quelle con guscio rotto o che non si chiudono al tocco prima di cuocerle; scarta quelle rimaste chiuse dopo una cottura adeguata. Non usare il liquido di molluschi scartati.",
+        "step_3": "Filtra accuratamente il liquido rilasciato dalle vongole e tienilo da parte insieme ai molluschi aperti.",
+        "step_4": "Unisci il succo delle vongole al brodo Dashi, aggiungi la salsa di soia chiara e un pizzico di sale.",
+        "step_5": "Scalda bene il brodo alle vongole senza farlo ridurre eccessivamente.",
+        "step_6": "Cuoci i noodles per ramen in abbondante acqua bollente per 2 minuti e scola.",
+        "step_7": "Distribuisci i noodles nelle ciotole e coprili con il brodo caldo alle vongole.",
+        "step_8": "Adagia sopra le vongole nel guscio, il mais e il cipollotto fresco; completa con una noce di burro, che sciogliendosi legherà il brodo marinaro."
       }
     },
     "es": {
-      "title": "Asari Ramen",
-      "description": "Una versión práctica de Asari Ramen para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Ramen Daisuki Koizumi-san, Food Wars!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Asari ramen — ramen con caldo de almejas y mantequilla",
+      "description": "El Asari Ramen utiliza el líquido filtrado de las almejas abiertas con sake y ajo para aromatizar un caldo ligero de dashi. Los fideos se cocinan aparte y se sirven inmediatamente con almejas, maíz, cebolleta y poca mantequilla. El líquido filtrado de las almejas aromatiza el dashi, mientras que la mantequilla se derrite en el tazón en el momento del servicio.",
+      "animeContext": "Esta receta está inspirada temáticamente en Ramen Daisuki Koizumi-san, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "ramen_noodles": {
-          "name": "Ramen noodles",
+          "name": "ramen fideos",
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "Almejas veraci spurgate",
+          "name": "almejas veraces depuradas",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Dashi caldo leggero",
+          "name": "Caldo Dashi ligero",
           "note": null
         },
         "sake_giapponese": {
-          "name": "Sake giapponese",
+          "name": "Sake japonés",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Salsa de soja chiara",
+          "name": "Salsa de soja clara",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ajo tritato",
+          "name": "Racimos de ajo picados",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Mantequilla di malga",
+          "name": "manteca de malta",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Maíz dulce e spring cebolla fresco per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "maíz dulce",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "cebolleta fresca para decorar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Pon las almejas en una olla con sake y ajo picado.",
+        "step_2": "Cubre con tapa y cocina a fuego vivo durante 3-4 minutos hasta que las almejas se abran. Utiliza almejas vivas y depuradas de un proveedor fiable. Desecha las conchas rotas o que no se cierren al tocarlas y, tras cocinarlas bien, las que sigan cerradas. No uses líquido de almejas desechadas.",
+        "step_3": "Filtra cuidadosamente el líquido liberado de las almejas y mantenlo a un lado junto con los moluscos abiertos.",
+        "step_4": "Mezcla el jugo de almejas con el caldo Dashi, añade la salsa de soja clara y un poco de sal.",
+        "step_5": "Calienta bien el caldo en las almejas sin que se reduzca excesivamente.",
+        "step_6": "Cocine los fideos para ramen en abundante agua hirviendo durante 2 minutos y escurrir.",
+        "step_7": "Reparte los fideos en los cuencos y cúbrelos con caldo caliente en las almejas.",
+        "step_8": "Coloca sobre las almejas en la cáscara, el maíz y la cebolleta fresca; completa con una nuez de mantequilla, que se derrite atando el caldo marinero."
       }
     },
     "fr": {
-      "title": "Asari Ramen",
-      "description": "Une version pratique de Asari Ramen à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Ramen Daisuki Koizumi-san, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Asari ramen — ramen au bouillon de palourdes et au beurre",
+      "description": "L'Asari Ramen utilise le liquide filtré des palourdes ouvertes avec du saké et de l'ail pour aromatiser un bouillon léger de dashi. Les nouilles se cuitent à part et sont servies immédiatement avec des palourdes, du maïs, de l'oignon et peu de beurre. Le liquide filtré des palourdes aromatisant le dashi, tandis que le beurre se dissout dans le bol au moment du service.",
+      "animeContext": "Cette recette s'inspire librement de Ramen Daisuki Koizumi-san, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "ramen_noodles": {
-          "name": "Ramen noodles",
+          "name": "ramen noodles",
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "Palourdes veraci spurgate",
+          "name": "palourdes vraies épurées",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Dashi bouillon leggero",
+          "name": "bouillon dashi léger",
           "note": null
         },
         "sake_giapponese": {
-          "name": "Sake giapponese",
+          "name": "saké japonais",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Sauce soja chiara",
+          "name": "Sauce de soja claire",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ail tritato",
+          "name": "gousse d'ail haché",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Beurre di malga",
+          "name": "beurre",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Maïs doux e spring oignon frais per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "Maïs doux",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "cébette fraîche pour garnir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Mettez les palourdes dans une casserole avec du saké et de l'ail haché.",
+        "step_2": "Couvrez avec un couvercle et faites cuire à feu vif pendant 3-4 minutes jusqu'à ce que les palourdes s'ouvrent. Utilisez des palourdes vivantes et dégorgées d'un fournisseur fiable. Jetez celles dont la coquille est cassée ou ne se referme pas au toucher, puis celles qui restent fermées après cuisson complète. N'utilisez pas le jus des palourdes jetées.",
+        "step_3": "Filtrez soigneusement le liquide libéré des palourdes et gardez-le de côté avec les mollusques ouverts.",
+        "step_4": "Combinez le jus de palourdes avec le bouillon dashi, ajoutez la sauce de soja claire et une pincée de sel.",
+        "step_5": "Réchauffez bien le bouillon aux palourdes sans le réduire trop.",
+        "step_6": "Faites cuire les nouilles pour ramen dans beaucoup d'eau bouillante pendant 2 minutes et égouttez.",
+        "step_7": "Distribuez les nouilles dans les bols et couvrez-les avec le bouillon chaud aux palourdes.",
+        "step_8": "Adagia au-dessus des palourdes dans la coquille, le maïs et la cébette fraîche; elle complète avec une noix de beurre, qui se dissout en liant le bouillon marin."
       }
     },
     "de": {
-      "title": "Asari Ramen",
-      "description": "Eine alltagstaugliche Version von Asari Ramen für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Ramen Daisuki Koizumi-san, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Asari-Ramen – Ramen in Muschelbrühe mit Butter",
+      "description": "Die Asari Ramen verwendet die gefilterte Flüssigkeit der offenen Muscheln mit Sake und Knoblauch, um eine leichte Brühe von Dashi zu würzen. Die Nudeln backen sich getrennt und werden sofort mit Muscheln, Mais, Zwiebeln und wenig Butter serviert. Die gefilterte Flüssigkeit der Muscheln würzt das Dashi, während die Butter zum Zeitpunkt des Servierens in der Schüssel schmelzt.",
+      "animeContext": "Dieses Rezept ist thematisch von Ramen Daisuki Koizumi-san, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "ramen_noodles": {
-          "name": "Ramen noodles",
+          "name": "Ramennoodles",
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "Venusmuscheln veraci spurgate",
+          "name": "Echte, gereinigte Muscheln",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Dashi Brühe leggero",
+          "name": "Dashi-Brühe leicht",
           "note": null
         },
         "sake_giapponese": {
-          "name": "Sake giapponese",
+          "name": "Japanischer Sake",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Sojasauce chiara",
+          "name": "Sojasoße, hell",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'Knoblauch tritato",
+          "name": "Knoblauchzehe, gehackt",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Butter di malga",
+          "name": "Almbutter",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Zuckermais e spring Zwiebel frisch per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "Zuckermais",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "frische Frühlingszwiebel zum Garnieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Legen Sie die Muscheln in einen Topf mit Sake und gehacktem Knoblauch.",
+        "step_2": "Bedecken Sie mit Deckel und kochen Sie 3-4 Minuten lang mit lebendigem Feuer, bis sich die Muscheln öffnen. Lebende, gereinigte Venusmuscheln von einem zuverlässigen Anbieter verwenden. Beschädigte Muscheln oder solche, die sich bei Berührung nicht schließen, aussortieren; nach gründlichem Garen geschlossene Muscheln wegwerfen. Deren Flüssigkeit nicht verwenden.",
+        "step_3": "Filtern Sie die von den Muscheln freigesetzte Flüssigkeit sorgfältig und halten Sie sie zusammen mit den geöffneten Weichtieren beiseite.",
+        "step_4": "Kombinieren Sie den Saft der Muscheln mit der Dashi-Brühe, fügen Sie die helle Sojasoße und eine Prise Salz hinzu.",
+        "step_5": "Erhitzt die Brühe gut auf die Muscheln, ohne sie übermäßig zu reduzieren.",
+        "step_6": "Kochen Sie die Ramen-Nudeln in reichlich kochendem Wasser für 2 Minuten und spülen.",
+        "step_7": "Geben Sie die Nudeln in die Schüssel und decken Sie sie mit der heißen Suppe an die Muscheln.",
+        "step_8": "Adagia über den Muscheln in der Schale, Mais und Frühlingszwiebel frisch; komplett mit einer Nuss Butter, die die Meeresbrühe schmelzen wird."
       }
     },
     "pt": {
-      "title": "Asari Ramen",
-      "description": "Uma versão prática de Asari Ramen para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Ramen Daisuki Koizumi-san, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Asari ramen — ramen em caldo de amêijoas e manteiga",
+      "description": "Asari Ramen usa o líquido filtrado de moluscos abertos com saquê e alho para aromatizar um caldo de dashi leve. Os noodles cozinham separadamente e são servidos imediatamente com moluscos, milho, cebola e manteiga pequena. O líquido filtrado dos moluscos saboriza o dashi, enquanto a manteiga derrete na tigela no momento do serviço.",
+      "animeContext": "Esta receita inspira-se tematicamente em Ramen Daisuki Koizumi-san, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "ramen_noodles": {
-          "name": "Ramen noodles",
+          "name": "macarrão ramen",
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "Amêijoas veraci spurgate",
+          "name": "amêijoas depuradas",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Dashi caldo leggero",
+          "name": "Caldo de dashi leve",
           "note": null
         },
         "sake_giapponese": {
-          "name": "Sake giapponese",
+          "name": "Saquê japonês",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Molho de soja chiara",
+          "name": "molho de soja leve",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'alho tritato",
+          "name": "dente de alho picado",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Manteiga di malga",
+          "name": "Manteiga de Malga",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Milho doce e spring cebola fresco per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "milho doce",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "cebola de rama fresca para guarnecer",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Coloque os moluscos numa panela com o sake e o alho picado.",
+        "step_2": "Cubra com tampa e cozinhe a fogo alto por 3-4 minutos até que os moluscos se abram. Use amêijoas vivas e depuradas de fornecedor fiável. Deite fora as que têm conchas partidas ou não fecham ao toque e, depois de bem cozidas, as que permaneçam fechadas. Não aproveite o líquido das amêijoas rejeitadas.",
+        "step_3": "Filtrar cuidadosamente o líquido liberado dos moluscos e mantê- lo de lado junto com moluscos abertos.",
+        "step_4": "Adicione o caldo das amêijoas ao caldo Dashi, adicione o molho de soja leve e uma pitada de sal.",
+        "step_5": "Aqueça bem o caldo de amêijoas sem reduzi- lo excessivamente.",
+        "step_6": "Cozinhe os macarrão para ramen em água fervente abundante por 2 minutos e escorra.",
+        "step_7": "Distribua os macarrão nas tigelas e cubra- os com o caldo quente para os moluscos.",
+        "step_8": "Disponha por cima os moluscos na concha, o milho e a cebola de rama fresca; completa com uma noz de manteiga, que derreterá vai amarrar o caldo de marisco."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000057",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Gintama",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 4,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -41,8 +41,8 @@
     },
     {
       "id": "90ml_di_acqua_tiepida",
-      "quantity": 80,
-      "unit": null
+      "quantity": 85,
+      "unit": "ml"
     },
     {
       "id": "zucchero",
@@ -96,32 +96,56 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_10",
+      "timerSeconds": 60
     }
   ],
   "locales": {
     "en": {
-      "title": "Kurogoma Dango",
-      "description": "A home-friendly Kurogoma Dango that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Gintama, Samurai Champloo. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kurogoma Dango — toasted black sesame dumplings",
+      "description": "The Kurogoma Dango are balls of glutinous rice first boiled and cooled in water and ice, then stuck on skewers and slightly grilled. A hot sauce of black sesame paste, sugar, soy and mirin completes the surface. The light grilling of the skewers precedes the nappatura: the black sesame remains the protagonist of the glossy and fragrant finish.",
+      "animeContext": "This recipe is thematically inspired by Gintama, Samurai Champloo. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous rice flour (shiratamako o mochiko)",
+          "name": "Gluteny rice flour (Shiratamako or Mochiko)",
           "note": null
         },
         "90ml_di_acqua_tiepida": {
-          "name": "-90ml di lukewarm water",
-          "note": null
+          "name": "lukewarm water",
+          "note": "Add it gradually: the actual quantity depends on the absorption of rice flour."
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Black sesame paste (neri goma)",
+          "name": "black sesame paste (Black Goma)",
           "note": null
         },
         "zucchero_2": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "salsa_di_soia": {
@@ -129,28 +153,34 @@
           "note": null
         },
         "acqua": {
-          "name": "Water",
+          "name": "water",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "spiedini_di_bambu": {
-          "name": "Spiedini di bambù",
+          "name": "bamboo skewers",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "In a bowl, mix the gluten-free rice flour with sugar.",
+        "step_2": "Combine the water flush by kneading with your fingers until a soft bread with a consistency similar to the earlobe is formed.",
+        "step_3": "Divide the dough into 12 equal balls by rolling them between the palms of the hands.",
+        "step_4": "Dive the balls into a pot of boiling water.",
+        "step_5": "When they come up, let cook for another 2 minutes.",
+        "step_6": "Drain immediately and immerse them in a bowl of water and ice to block the cooking and make them elastic.",
+        "step_7": "In a saucepan, combine black sesame paste, sugar, soy sauce, mirin and water.",
+        "step_8": "Heat on a sweet heat mixing for 2 minutes until the sauce becomes dark, velvety and fragrant.",
+        "step_9": "Stick 3 balls of dango on each bamboo skewer.",
+        "step_10": "Slightly grill the skewers on a non-stick pan for 1 minute per side, then nappa generously with the hot black sesame sauce before serving."
       }
     },
     "it": {
       "title": "Kurogoma Dango (Dango al Sesamo Nero Tostato)",
-      "description": "Un Kurogoma Dango (Dango al Sesamo Nero Tostato) casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "description": "I Kurogoma Dango sono palline di riso glutinoso prima bollite e raffreddate in acqua e ghiaccio, poi infilzate su spiedini e leggermente grigliate. Una salsa calda di pasta di sesamo nero, zucchero, soia e mirin ne completa la superficie. La leggera grigliatura degli spiedini precede la nappatura: il sesamo nero resta così protagonista della finitura lucida e profumata.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Gintama, Samurai Champloo. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
@@ -158,8 +188,8 @@
           "note": null
         },
         "90ml_di_acqua_tiepida": {
-          "name": "-90ml di acqua tiepida",
-          "note": null
+          "name": "acqua tiepida",
+          "note": "Aggiungila gradualmente: la quantità effettiva dipende dall’assorbimento della farina di riso."
         },
         "zucchero": {
           "name": "zucchero",
@@ -186,40 +216,46 @@
           "note": null
         },
         "spiedini_di_bambu": {
-          "name": "Spiedini di bambù",
+          "name": "spiedini di bambù",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, riunisci in una ciotola amalgama la farina di riso glutinoso con lo zucchero. Unisci l'acqua a filo impastando con le dita finché si forma un panetto morbido dalla consistenza simile al lobo dell'orecchio.",
-        "step_2": "Prosegui così: dividi l'impasto in 12 palline uguali facendole rotolare tra i palmi delle mani.",
-        "step_3": "Nella fase successiva, tuffa le palline in una pentola di acqua bollente. Quando salgono a galla, lascia cuocere per altri 2 minuti. Scolale immediatamente e immergile in una ciotola di acqua e ghiaccio per bloccare la cottura e renderle elastiche. Metti in un pentolino unisci la pasta di sesamo nero, lo zucchero, la salsa di soia, il mirin e l'acqua. Porta a temperatura a fuoco dolce amalgamando per 2 minuti finché la salsa diventa scura, vellutata e profumata.",
-        "step_4": "Per completare, infilza 3 palline di dango su ciascun spiedino di bambù. Griglia leggermente gli spiedini su una padella antiaderente per 1 minuto per lato, quindi nappa generosamente con la salsa calda al sesamo nero prima di porta in tavolare."
+        "step_1": "In una ciotola, amalgama la farina di riso glutinoso con lo zucchero.",
+        "step_2": "Unisci l'acqua a filo impastando con le dita finché si forma un panetto morbido dalla consistenza simile al lobo dell'orecchio.",
+        "step_3": "Dividi l'impasto in 12 palline uguali facendole rotolare tra i palmi delle mani.",
+        "step_4": "Tuffa le palline in una pentola di acqua bollente.",
+        "step_5": "Quando salgono a galla, lascia cuocere per altri 2 minuti.",
+        "step_6": "Scolale immediatamente e immergile in una ciotola di acqua e ghiaccio per bloccare la cottura e renderle elastiche.",
+        "step_7": "In un pentolino, unisci la pasta di sesamo nero, lo zucchero, la salsa di soia, il mirin e l'acqua.",
+        "step_8": "Scalda a fuoco dolce amalgamando per 2 minuti finché la salsa diventa scura, vellutata e profumata.",
+        "step_9": "Infilza 3 palline di dango su ciascun spiedino di bambù.",
+        "step_10": "Griglia leggermente gli spiedini su una padella antiaderente per 1 minuto per lato, quindi nappa generosamente con la salsa calda al sesamo nero prima di servire."
       }
     },
     "es": {
-      "title": "Kurogoma Dango",
-      "description": "Una versión práctica de Kurogoma Dango para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Gintama, Samurai Champloo. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kurogoma dango — bolitas de arroz con sésamo negro tostado",
+      "description": "Los Kurogoma Dango son bolas de arroz glutinoso primero hervidas y enfriadas en agua y hielo, luego apuñaladas en pinchos y ligeramente a la parrilla. Una salsa caliente de pasta de sésamo negro, azúcar, soja y mirin completa su superficie. La ligera parrilla de los pinchos precede al bordado: el sésamo negro sigue siendo así protagonista del acabado brillante y perfumado.",
+      "animeContext": "Esta receta está inspirada temáticamente en Gintama, Samurai Champloo. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous arroz harina (shiratamako o mochiko)",
+          "name": "harina de arroz glutinoso (Shiratamako o Mochiko)",
           "note": null
         },
         "90ml_di_acqua_tiepida": {
-          "name": "-90ml di lukewarm agua",
-          "note": null
+          "name": "Agua tibia",
+          "note": "Añadirla gradualmente: la cantidad real depende de la absorción de la harina de arroz."
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Negro sesame paste (neri goma)",
+          "name": "pasta de sésamo negra (Neri Goma)",
           "note": null
         },
         "zucchero_2": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "salsa_di_soia": {
@@ -231,89 +267,101 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "spiedini_di_bambu": {
-          "name": "Spiedini di bambù",
+          "name": "Pinceles de bambú",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En un tazón, mezcla la harina de arroz glutinoso con azúcar.",
+        "step_2": "Junta el agua con el hilo y amasa con los dedos hasta que se forme un plato suave con una consistencia similar al lóbulo del oído.",
+        "step_3": "Divide la masa en 12 bolas iguales rodando entre las palmas de las manos.",
+        "step_4": "Sumerge las bolas en una olla de agua hirviendo.",
+        "step_5": "Cuando suban a la superficie, deja que se cocinen dos minutos más.",
+        "step_6": "Escolar inmediatamente y sumergirse en un tazón de agua y hielo para bloquear la cocción y hacerlas elásticas.",
+        "step_7": "En una olla, une la pasta de sésamo negra, el azúcar, la salsa de soja, el mirin y el agua.",
+        "step_8": "Caliente a fuego dulce mezclando durante 2 minutos hasta que la salsa se vuelve oscura, aterciopelada y perfumada.",
+        "step_9": "Apuñala 3 bolas de dango en cada broche de bambú.",
+        "step_10": "Rejilla ligeramente los pinchos en una sartén antiadherente durante 1 minuto por lado, luego napa generosamente con la salsa caliente al sésamo negro antes de servir."
       }
     },
     "fr": {
-      "title": "Kurogoma Dango",
-      "description": "Une version pratique de Kurogoma Dango à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Gintama, Samurai Champloo. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kurogoma dango — boulettes de riz au sésame noir grillé",
+      "description": "Les Kurogoma Dango sont des boules de riz d'abord bouillie et refroidie dans de l'eau et de la glace, puis enfilées sur des brochettes et légèrement grillées. Une sauce chaude de pâtes de sésame noir, sucre, soja et myrin en complète la surface. Le grill léger des brochettes précède le nappage: le sésame noir reste ainsi le protagoniste de la finition brillante et parfumée.",
+      "animeContext": "Cette recette s'inspire librement de Gintama, Samurai Champloo. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous riz farine (shiratamako o mochiko)",
+          "name": "farine de riz spiritueuse (Shiratamako ou Mochiko)",
           "note": null
         },
         "90ml_di_acqua_tiepida": {
-          "name": "-90ml di lukewarm eau",
-          "note": null
+          "name": "eau tiède",
+          "note": "Ajouter progressivement: la quantité réelle dépend de l'absorption de la farine de riz."
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Noir sesame paste (neri goma)",
+          "name": "pâte de sésame noir (Neri Goma)",
           "note": null
         },
         "zucchero_2": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "acqua": {
-          "name": "Eau",
+          "name": "eau",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "spiedini_di_bambu": {
-          "name": "Spiedini di bambù",
+          "name": "brochettes en bambou",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans un bol, il mélange la farine de riz à base de sucre.",
+        "step_2": "Combinez l'eau en fil en pétrissant avec vos doigts jusqu'à ce qu'un petit pain doux de la consistance semblable au lobe de l'oreille se forme.",
+        "step_3": "Diviser la pâte en 12 boules égales en les faisant rouler entre les paumes des mains.",
+        "step_4": "Plonge tes balles dans un pot d'eau bouillante.",
+        "step_5": "Quand ils montent à flot, laissez cuire encore deux minutes.",
+        "step_6": "Écolez immédiatement et plongez-le dans un bol d'eau et de glace pour bloquer la cuisson et les rendre élastiques.",
+        "step_7": "Dans une casserole, ajoutez les pâtes de sésame noir, le sucre, la sauce soja, la mirin et l'eau.",
+        "step_8": "Chauffage à feu doux en mélangeant pendant 2 minutes jusqu'à ce que la sauce soit sombre, veloutée et parfumée.",
+        "step_9": "Il glisse 3 balles de danse sur chaque brochette de bambou.",
+        "step_10": "Grille légèrement les brochettes sur une poêle anti-adhérente pendant 1 minute par côté, puis nappa généreusement avec la sauce chaude au sésame noir avant de servir."
       }
     },
     "de": {
-      "title": "Kurogoma Dango",
-      "description": "Eine alltagstaugliche Version von Kurogoma Dango für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Gintama, Samurai Champloo inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kurogoma Dango – Reisbällchen mit geröstetem schwarzem Sesam",
+      "description": "Die Kurogoma Dango sind glutinöser Reisbällchen, zunächst gekocht und in Wasser und Eis gekühlt, dann auf die Spieße gestochen und leicht gegrillt. Eine warme Soße aus schwarzem Sesam, Zucker, Soja und Mirin rundet die Oberfläche ab. Die leichte Grillung der Spieße geht der Nappatur voraus: das schwarze Sesam bleibt so ein Hauptdarsteller des glänzenden und duftenden Finish.",
+      "animeContext": "Dieses Rezept ist thematisch von Gintama, Samurai Champloo inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous Reis Mehl (shiratamako o mochiko)",
+          "name": "Reismehl, glutinös (Shiratamako oder Mochiko)",
           "note": null
         },
         "90ml_di_acqua_tiepida": {
-          "name": "-90ml di lukewarm Wasser",
-          "note": null
+          "name": "lauwarmes Wasser",
+          "note": "Nach und nach hinzufügen: Die tatsächliche Menge hängt von der Resorption von Reismehl ab."
         },
         "zucchero": {
           "name": "Zucker",
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Schwarz sesame paste (neri goma)",
+          "name": "Schwarzer Sesampaste (Schwarzer Goma)",
           "note": null
         },
         "zucchero_2": {
@@ -321,7 +369,7 @@
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "acqua": {
@@ -333,40 +381,46 @@
           "note": null
         },
         "spiedini_di_bambu": {
-          "name": "Spiedini di bambù",
+          "name": "Bambusspieße",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer Schüssel mischt er Reismehl mit Zucker.",
+        "step_2": "Verbinden Sie das drahtige Wasser mit den Fingern, bis sich ein weiches Brot bildet, das dem Ohrlappen ähnlich ist.",
+        "step_3": "Teilen Sie den Teig in 12 gleiche Kugeln, indem Sie ihn zwischen den Handflächen rollen.",
+        "step_4": "Tauche die Kugeln in einen Topf mit kochendem Wasser ein.",
+        "step_5": "Wenn sie ans Wasser steigen, lassen Sie sie für weitere 2 Minuten kochen.",
+        "step_6": "Schicken Sie sie sofort und tauchen Sie sie in eine Schüssel mit Wasser und Eis ein, um das Kochen zu blockieren und sie elastisch zu machen.",
+        "step_7": "In einem Topf, fügen Sie schwarze Sesampaste, Zucker, Sojasauce, Mirin und Wasser.",
+        "step_8": "Er heizt 2 Minuten lang mit süßem Feuer, bis die Soße dunkel, samtig und duftend wird.",
+        "step_9": "Stechen Sie 3 Dangobälle auf jeden Bambusspieß.",
+        "step_10": "Grillen Sie leicht die Spieße auf einer Pfanne, die 1 Minute lang auf der Seite taugt, dann mit der heißen schwarzen Sesamsoße großzügig, bevor Sie servieren."
       }
     },
     "pt": {
-      "title": "Kurogoma Dango",
-      "description": "Uma versão prática de Kurogoma Dango para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Gintama, Samurai Champloo. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kurogoma dango — bolinhos de arroz com sésamo preto tostado",
+      "description": "O Dango do Kurogoma são bolas de arroz glutino primeiro cozidas e resfriadas em água e gelo, depois presas em broches e ligeiramente grelhadas. Um molho picante de pasta de sésamo preto, açúcar, soja e mirin completa a superfície. A grelhada leve dos broches precede a nappatura: o sésamo preto continua a ser o protagonista do acabamento brilhante e perfumado.",
+      "animeContext": "Esta receita inspira-se tematicamente em Gintama, Samurai Champloo. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous arroz farinha (shiratamako o mochiko)",
+          "name": "Farinha de arroz de glúten (Shiratamako ou Mochiko)",
           "note": null
         },
         "90ml_di_acqua_tiepida": {
-          "name": "-90ml di lukewarm água",
-          "note": null
+          "name": "Água morna",
+          "note": "Adicione- o gradualmente: a quantidade real depende da absorção da farinha de arroz."
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "pasta_di_sesamo_nero": {
-          "name": "Preto sesame paste (neri goma)",
+          "name": "pasta de sésamo preto (Goma Preto)",
           "note": null
         },
         "zucchero_2": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "salsa_di_soia": {
@@ -374,23 +428,29 @@
           "note": null
         },
         "acqua": {
-          "name": "Água",
+          "name": "água",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "spiedini_di_bambu": {
-          "name": "Spiedini di bambù",
+          "name": "broches de bambu",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa tigela, misturar a farinha de arroz sem glúten com açúcar.",
+        "step_2": "Combine o fluxo de água amassando com os dedos até que se forme um pão macio com uma consistência semelhante ao lóbulo da orelha.",
+        "step_3": "Divida a massa em 12 bolas iguais rolando- as entre as palmas das mãos.",
+        "step_4": "Mergulhe as bolas em um pote de água fervente.",
+        "step_5": "Quando eles aparecerem, deixe cozinhar por mais 2 minutos.",
+        "step_6": "Esgourar imediatamente e mergulhá- los numa tigela de água e gelo para bloquear o cozimento e torná- los elásticos.",
+        "step_7": "Numa panela, combine pasta de sésamo preto, açúcar, molho de soja, mirin e água.",
+        "step_8": "Aqueça uma mistura de calor doce durante 2 minutos até que o molho se torne escuro, veludo e perfumado.",
+        "step_9": "Colocar 3 bolas de dango em cada broche de bambu.",
+        "step_10": "Grill levemente os broches numa panela antiadherente por 1 minuto por lado, em seguida, nappa generosamente com o molho de sésamo preto quente antes de servir."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000071",
-  "contentVersion": 1,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 25,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -126,32 +126,56 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_10",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Tantanmen",
-      "description": "A practical bowl of Tantanmen, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tantanmen — spicy sesame ramen with minced meat",
+      "description": "The Tantanmen combines noodles with sesame and miso broth and a garnish of spicy pork minced meat. The aromatic base is prepared in a pan; the hot broth and pasta meet in the bowl just before adding the meat. The sesame paste melts in the broth directly in the bowls, before adding noodles and spicy meat with bokchoy.",
+      "animeContext": "This recipe is thematically inspired by Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di pork",
+          "name": "Pork minced meat",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'garlic tritato",
+          "name": "chopped garlic clove",
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Ginger grated",
+          "name": "Grated ginger",
           "note": null
         },
         "pasta_di_miso": {
-          "name": "Miso paste (o doubanjiang piccante)",
+          "name": "Miso paste (or spicy Doubanjiang)",
           "note": null
         },
         "salsa_di_soia": {
@@ -159,11 +183,11 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "pasta_di_sesamo_nera_o_bianca": {
-          "name": "Pasta di sesame black o white (neri goma o tahina)",
+          "name": "black or white sesame paste (Black Goma or Tahina)",
           "note": null
         },
         "salsa_di_soia_2": {
@@ -171,40 +195,46 @@
           "note": null
         },
         "olio_piccante_al_peperoncino": {
-          "name": "Oil piccante al peperoncino (rayu)",
+          "name": "hot pepper oil (Rayu)",
           "note": null
         },
         "brodo_di_pollo_caldo": {
-          "name": "Chicken broth caldo",
+          "name": "hot chicken broth",
           "note": null
         },
         "latte_di_soia_non_zuccherato": {
-          "name": "Milk di soia non zuccherato",
+          "name": "unsweetened soya milk",
           "note": null
         },
         "tagliolini_per_ramen_freschi": {
-          "name": "Tagliolini per ramen fresh",
+          "name": "fresh ramen noodles",
           "note": null
         },
         "bok_choy": {
-          "name": "Bok choy (napa cabbage) sbollentato",
+          "name": "bok choy (Chinese cabbage) blanched",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring onion fresh tritato",
+          "name": "fresh spring onion, chopped",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "In a pan heats sesame oil, browns the chopped garlic and ginger.",
+        "step_2": "Combine the minced pork and let it cook over a live heat by stretching it with a wooden spoon.",
+        "step_3": "Combine spicy pasta, soy sauce and sugar.",
+        "step_4": "Cook until the meat becomes golden and crispy, set aside.",
+        "step_5": "In the two bowls from ramen, divide equally sesame paste, soy sauce and Rayu spicy oil.",
+        "step_6": "Mix well at the bottom of each bowl.",
+        "step_7": "Put in a saucepan, heat the chicken broth together with the soy milk without boiling it hard to prevent the milk from renneting.",
+        "step_8": "Add the hot broth in the bowls and mix well with the whisk to dissolve the sesame paste on the bottom.",
+        "step_9": "Bake ramen noodles in boiling water for 2 minutes, drain thoroughly and place them in the broth.",
+        "step_10": "Garnish in the center with a generous spoonful of spicy meat, the boiled bok choy leaves and a sprinkle of chopped fresh spring onion."
       }
     },
     "it": {
       "title": "Tantanmen (Ramen Piccante al Sesamo e Carne Macinata)",
-      "description": "Una versione pratica di Tantanmen (Ramen Piccante al Sesamo e Carne Macinata), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Tantanmen unisce noodles al brodo di sesamo e miso e una guarnizione di carne macinata di maiale piccante. La base aromatica viene preparata in padella; il brodo caldo e la pasta si incontrano nella ciotola appena prima di aggiungere la carne. La pasta di sesamo si scioglie nel brodo direttamente nelle ciotole, prima di aggiungere noodles e carne piccante con bok choy.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "carne_macinata_di_maiale": {
@@ -216,7 +246,7 @@
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "d'aglio tritato",
+          "name": "spicchio d'aglio tritato",
           "note": null
         },
         "zenzero_grattugiato": {
@@ -269,35 +299,41 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, in una padella porta a temperatura l'olio di sesamo, rosola l'aglio e lo zenzero tritati. Unisci la carne di maiale macinata e lascia cuocere a fuoco vivo sgranandola con un cucchiaio di legno. Unisci la pasta piccante, la salsa di soia e lo zucchero. Lascia cuocere finché la carne diventa dorata e croccante. Metti da parte.",
-        "step_2": "Prosegui così: nelle due ciotole da portata da ramen, dividi equamente la pasta di sesamo, la salsa di soia e l'olio piccante Rayu. Amalgama bene sul fondo di ciascuna ciotola.",
-        "step_3": "Nella fase successiva, metti in un pentolino, riporta a temperatura il brodo di pollo insieme al latte di soia senza farlo bollire forte per evitare che il latte cagli. Aggiungi il brodo caldo nelle ciotole e amalgama bene con la frusta per sciogliere la pasta di sesamo sul fondo.",
-        "step_4": "Per completare, lascia cuocere i noodles da ramen in acqua bollente per 2 minuti, scolali accuratamente e adagiali nel brodo. Guarnisci al centro con un generoso cucchiaio di carne piccante, le foglie di bok choy sbollentate e una spolverata di cipollotto fresco tritato."
+        "step_1": "In una padella scalda l'olio di sesamo, rosola l'aglio e lo zenzero tritati.",
+        "step_2": "Unisci la carne di maiale macinata e lascia cuocere a fuoco vivo sgranandola con un cucchiaio di legno.",
+        "step_3": "Unisci la pasta piccante, la salsa di soia e lo zucchero.",
+        "step_4": "Cuoci finché la carne diventa dorata e croccante, metti da parte.",
+        "step_5": "Nelle due ciotole da portata da ramen, dividi equamente la pasta di sesamo, la salsa di soia e l'olio piccante Rayu.",
+        "step_6": "Amalgama bene sul fondo di ciascuna ciotola.",
+        "step_7": "Metti in un pentolino, scalda il brodo di pollo insieme al latte di soia senza farlo bollire forte per evitare che il latte cagli.",
+        "step_8": "Aggiungi il brodo caldo nelle ciotole e amalgama bene con la frusta per sciogli la pasta di sesamo sul fondo.",
+        "step_9": "Cuoci i noodles da ramen in acqua bollente per 2 minuti, scolali accuratamente e adagiali nel brodo.",
+        "step_10": "Guarnisci al centro con un generoso cucchiaio di carne piccante, le foglie di bok choy sbollentate e una spolverata di cipollotto fresco tritato."
       }
     },
     "es": {
-      "title": "Tantanmen",
-      "description": "Una versión práctica de Tantanmen para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tantanmen — ramen picante de sésamo y carne picada",
+      "description": "El Tantanmen combina fideos con caldo de sésamo y miso y un sello de carne picada de cerdo picante. La base aromática se prepara en sartén; el caldo caliente y la pasta se encuentran en el tazón justo antes de añadir la carne. La pasta de sésamo se derrite en el caldo directamente en los cuencos, antes de añadir fideos y carne picante con bok choy.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di cerdo",
+          "name": "Carne picada de cerdo",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame aceite",
+          "name": "Aceite de sésamo",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ajo tritato",
+          "name": "Racimos de ajo picados",
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Jengibre rallado",
+          "name": "jengibre rallado",
           "note": null
         },
         "pasta_di_miso": {
-          "name": "Miso paste (o doubanjiang piccante)",
+          "name": "pasta de miso (o Doubanjiang picante)",
           "note": null
         },
         "salsa_di_soia": {
@@ -305,11 +341,11 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "pasta_di_sesamo_nera_o_bianca": {
-          "name": "Pasta di sesame negro o blanco (neri goma o tahina)",
+          "name": "pasta de sésamo negra o blanca (Neri Goma o Tahina)",
           "note": null
         },
         "salsa_di_soia_2": {
@@ -317,125 +353,137 @@
           "note": null
         },
         "olio_piccante_al_peperoncino": {
-          "name": "Aceite piccante al peperoncino (rayu)",
+          "name": "Aceite picante de pimiento (Rayu)",
           "note": null
         },
         "brodo_di_pollo_caldo": {
-          "name": "Pollo caldo caldo",
+          "name": "Caldo de pollo caliente",
           "note": null
         },
         "latte_di_soia_non_zuccherato": {
-          "name": "Leche di soia non zuccherato",
+          "name": "leche de soja sin adición de azúcar",
           "note": null
         },
         "tagliolini_per_ramen_freschi": {
-          "name": "Tagliolini per ramen fresco",
+          "name": "Tallarines para ramen frescos",
           "note": null
         },
         "bok_choy": {
-          "name": "Bok choy (napa col) sbollentato",
+          "name": "bok choy (maldito chino) desmenuzado",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring cebolla fresco tritato",
+          "name": "cebolleta fresca picada",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una sartén calienta el aceite de sésamo, rosa el ajo y el jengibre triturados.",
+        "step_2": "Une la carne de cerdo picada y deja que se cocine a fuego vivo con una cucharada de madera.",
+        "step_3": "Combina la pasta picante, la salsa de soja y el azúcar.",
+        "step_4": "Cocina mientras la carne se vuelva dorada y crujiente, guarda eso.",
+        "step_5": "En los dos cuencos de ramen, dividimos la pasta de sésamo, la salsa de soja y el aceite picante Rayu.",
+        "step_6": "Mezcla bien en el fondo de cada tazón.",
+        "step_7": "Ponlo en una olla, calienta el caldo de pollo junto con la leche de soja sin hervirlo fuerte para evitar que la leche se cague.",
+        "step_8": "Añade el caldo caliente en los cuencos y mezcla bien con las varillas para disolver la pasta de sésamo en el fondo.",
+        "step_9": "Cocine los fideos de ramen en agua hirviendo durante 2 minutos, escríbalos cuidadosamente y agilízalos en el caldo.",
+        "step_10": "Guárdate en el centro con una generosa cucharada de carne picante, las hojas de bok choy desmenuzadas y una pulverizada de cebolleta fresca picada."
       }
     },
     "fr": {
-      "title": "Tantanmen",
-      "description": "Une version pratique de Tantanmen à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tantanmen — ramen épicé au sésame et à la viande hachée",
+      "description": "Le Tantanmen allie des nouilles au bouillon de sésame et de miso et un joint de viande hachée de porc épicé. La base aromatique est préparée en poêle; le bouillon chaud et les pâtes se rencontrent dans le bol juste avant d'ajouter la viande. La pâte de sésame se dissout dans le bouillon directement dans les bols, avant d'ajouter des nouilles et de la viande épicée avec du bok choy.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di porc",
+          "name": "viande hachée de porc",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ail tritato",
+          "name": "gousse d'ail haché",
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Gingembre râpé",
+          "name": "gingembre râpé",
           "note": null
         },
         "pasta_di_miso": {
-          "name": "Miso paste (o doubanjiang piccante)",
+          "name": "pâte de miso (ou Doubanjiang piquante)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "pasta_di_sesamo_nera_o_bianca": {
-          "name": "Pasta di sesame noir o blanc (neri goma o tahina)",
+          "name": "pâte de sésame noire ou blanche (Neri Goma ou Tahina)",
           "note": null
         },
         "salsa_di_soia_2": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "olio_piccante_al_peperoncino": {
-          "name": "Huile piccante al peperoncino (rayu)",
+          "name": "huile piquante au piment (Rayu)",
           "note": null
         },
         "brodo_di_pollo_caldo": {
-          "name": "Poulet bouillon caldo",
+          "name": "bouillon de poulet chaud",
           "note": null
         },
         "latte_di_soia_non_zuccherato": {
-          "name": "Lait di soia non zuccherato",
+          "name": "lait de soja non sucré",
           "note": null
         },
         "tagliolini_per_ramen_freschi": {
-          "name": "Tagliolini per ramen frais",
+          "name": "Cutters pour ramen frais",
           "note": null
         },
         "bok_choy": {
-          "name": "Bok choy (napa chou) sbollentato",
+          "name": "Bok choy (chou chinois) décoloré",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring oignon frais tritato",
+          "name": "cébette fraîche hachée",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une poêle chauffe l'huile de sésame, rousse l'ail et le gingembre hachés.",
+        "step_2": "Combinez la viande de porc hachée et laissez cuire à feu vif en l'églantant avec une cuillère en bois.",
+        "step_3": "Mélangez les pâtes épicées, la sauce soja et le sucre.",
+        "step_4": "Tu cuisines jusqu'à ce que la viande soit dorée et croustillante, mets de côté.",
+        "step_5": "Dans les deux bols de ramen, on divise équitablement la pâte de sésame, la sauce soja et l'huile piquante Rayu.",
+        "step_6": "Amalgame bien au fond de chaque bol.",
+        "step_7": "Mettez dans une casserole, réchauffez le bouillon de poulet avec du lait de soja sans le faire bouillir fort pour éviter que le lait ne chie.",
+        "step_8": "Ajoutez le bouillon chaud dans les bols et amalgamez bien avec le fouet pour dissoudre la pâte de sésame au fond.",
+        "step_9": "Fais cuire les nouilles ramen 2 minutes dans l’eau bouillante, égoutte-les soigneusement et dépose-les dans le bouillon.",
+        "step_10": "Garnissez au centre avec une généreuse cuillère à soupe de viande épicée, les feuilles de bok choy molletées et une soupe d'cébettes fraîches hachés."
       }
     },
     "de": {
-      "title": "Tantanmen",
-      "description": "Eine alltagstaugliche Version von Tantanmen für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tantanmen – scharfe Sesam-Ramen mit Hackfleisch",
+      "description": "Die Tantanmen verbindet Nudeln mit Sesambrühe und Miso und eine Dichtung von würzigem Schweinefleisch gemahlen. Die aromatische Basis wird in Pfanne zubereitet; die heiße Brühe und Pasta treffen sich in der Schüssel kurz vor dem Hinzufügen des Fleisches. Sesampaste löst sich in der Brühe direkt in den Schüsseln auf, bevor sie Nudeln und würziges Fleisch mit Bok Choy hinzufügt.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di Schweinefleisch",
+          "name": "Hackfleisch/Faschiertes von Schweinen",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'Knoblauch tritato",
+          "name": "Knoblauchzehe, gehackt",
           "note": null
         },
         "zenzero_grattugiato": {
@@ -443,11 +491,11 @@
           "note": null
         },
         "pasta_di_miso": {
-          "name": "Miso paste (o doubanjiang piccante)",
+          "name": "Misopaste (oder Doubanjiang scharf)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "zucchero": {
@@ -455,60 +503,66 @@
           "note": null
         },
         "pasta_di_sesamo_nera_o_bianca": {
-          "name": "Pasta di sesame schwarz o weiß (neri goma o tahina)",
+          "name": "Schwarzer oder weißer Sesampaste (Schwarzer Goma oder Tahina)",
           "note": null
         },
         "salsa_di_soia_2": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "olio_piccante_al_peperoncino": {
-          "name": "Öl piccante al peperoncino (rayu)",
+          "name": "würziges Pfefferöl (Rayu)",
           "note": null
         },
         "brodo_di_pollo_caldo": {
-          "name": "Hähnchen Brühe caldo",
+          "name": "Heiße Hühnerbrühe",
           "note": null
         },
         "latte_di_soia_non_zuccherato": {
-          "name": "Milch di soia non zuccherato",
+          "name": "Sojamilch, nicht gezuckert",
           "note": null
         },
         "tagliolini_per_ramen_freschi": {
-          "name": "Tagliolini per ramen frisch",
+          "name": "frische Ramen-Nudeln",
           "note": null
         },
         "bok_choy": {
-          "name": "Bok choy (napa Kohl) sbollentato",
+          "name": "Bok choy (chinesischer Kohl) geschlitzt",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring Zwiebel frisch tritato",
+          "name": "frische Frühlingszwiebel, gehackt",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer Pfanne erwärmt das Sesamöl, rostet Knoblauch und gemahlenen Ingwer.",
+        "step_2": "Vermischen Sie das gemahlene Schweinefleisch und lassen Sie es mit einem Löffel aus Holz mit lebendigem Feuer kochen.",
+        "step_3": "Kombinieren Sie die würzige Pasta, Sojasoße und Zucker.",
+        "step_4": "Kochen Sie, bis das Fleisch goldig und knusprig wird, legen Sie es beiseite.",
+        "step_5": "Die Sesampaste, Sojasauce und das scharfe Rayu-Öl gleichmäßig auf zwei vorgewärmte Ramen-Schalen verteilen.",
+        "step_6": "Vermischen Sie sich gut am Boden jeder Schüssel.",
+        "step_7": "Legen Sie die Hühnerbrühe in einen Topf, erwärmen Sie die Hühnerbrühe zusammen mit Sojamilch, ohne es stark kochen zu lassen, um zu verhindern, dass die Milch fällt.",
+        "step_8": "Die heiße Brühe in die Schüsseln geben und die Sesampaste am Boden mit einem Schneebesen gründlich darin auflösen.",
+        "step_9": "Die Ramen-Nudeln 2 Minuten in kochendem Wasser garen, gründlich abgießen und in die Brühe geben.",
+        "step_10": "Grillen Sie in die Mitte mit einem großzügigen Esslöffel würziges Fleisch, Bok-choy-Blatt und einem frisch gehackten fein geschnittene Frühlingszwiebeln."
       }
     },
     "pt": {
-      "title": "Tantanmen",
-      "description": "Uma versão prática de Tantanmen para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tantanmen — ramen picante de sésamo e carne picada",
+      "description": "O Tantanmen combina macarrão com sésamo e caldo de miso e uma guarnição de carne picante picante de porco picada. A base aromática é preparada em uma panela; o caldo quente e a massa se encontram na tigela logo antes de adicionar a carne. A pasta de sésamo derrete no caldo diretamente nas tigelas, antes de adicionar macarrão e carne picante com bokchoy.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars! (Shokugeki no Soma), Ramen Daisuki Koizumi-san. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "carne_macinata_di_maiale": {
-          "name": "Ground meat di porco",
+          "name": "Carne picada de porco",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'alho tritato",
+          "name": "dente de alho picado",
           "note": null
         },
         "zenzero_grattugiato": {
@@ -516,7 +570,7 @@
           "note": null
         },
         "pasta_di_miso": {
-          "name": "Miso paste (o doubanjiang piccante)",
+          "name": "Pasta Miso (ou Doubanjiang picante)",
           "note": null
         },
         "salsa_di_soia": {
@@ -524,11 +578,11 @@
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "pasta_di_sesamo_nera_o_bianca": {
-          "name": "Pasta di sesame preto o branco (neri goma o tahina)",
+          "name": "pasta de sésamo preto ou branco (Goma preto ou Tahina)",
           "note": null
         },
         "salsa_di_soia_2": {
@@ -536,35 +590,41 @@
           "note": null
         },
         "olio_piccante_al_peperoncino": {
-          "name": "Óleo piccante al peperoncino (rayu)",
+          "name": "óleo de pimenta quente (Rayu)",
           "note": null
         },
         "brodo_di_pollo_caldo": {
-          "name": "Frango caldo caldo",
+          "name": "caldo de frango quente",
           "note": null
         },
         "latte_di_soia_non_zuccherato": {
-          "name": "Leite di soia non zuccherato",
+          "name": "leite de soja não adoçado",
           "note": null
         },
         "tagliolini_per_ramen_freschi": {
-          "name": "Tagliolini per ramen fresco",
+          "name": "macarrão ramen fresco",
           "note": null
         },
         "bok_choy": {
-          "name": "Bok choy (napa couve) sbollentato",
+          "name": "Bok choy ( repolho chinês) blanqueado",
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Spring cebola fresco tritato",
+          "name": "cebola de rama fresca picada",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Em uma panela aquece o óleo de sésamo, marrom o alho picado e o gengibre.",
+        "step_2": "Combine o porco picado e deixe- o cozinhar em um calor vivo alongando- o com uma colher de madeira.",
+        "step_3": "Combine massa picante, molho de soja e açúcar.",
+        "step_4": "Cozinhe até que a carne se torne dourada e crocante, reservada.",
+        "step_5": "Nas duas tigelas de ramen, divida igualmente pasta de sésamo, molho de soja e óleo picante Rayu.",
+        "step_6": "Misture bem no fundo de cada tigela.",
+        "step_7": "Colocar numa panela, aquecer o caldo de frango junto com o leite de soja sem fervê- lo difícilmente para evitar que o leite se enrole.",
+        "step_8": "Adicione o caldo quente nas tigelas e misture bem com o batido para dissolver a pasta de sésamo no fundo.",
+        "step_9": "Coze macarrão ramen em água fervente por 2 minutos, escorra bem e coloque- os no caldo.",
+        "step_10": "Decorar no centro com uma colher generosa de carne picante, as folhas bok choy cozidas e um copo de cebola de rama fresca picada."
       }
     }
   }

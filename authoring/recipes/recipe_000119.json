@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000119",
-  "contentVersion": 1,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 20,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -41,18 +41,23 @@
     },
     {
       "id": "daikon",
-      "quantity": null,
-      "unit": null
+      "quantity": 100,
+      "unit": "g"
     },
     {
       "id": "carota",
-      "quantity": null,
-      "unit": null
+      "quantity": 80,
+      "unit": "g"
     },
     {
-      "id": "gobo_e_funghi_shiitake_a_pezzetti",
-      "quantity": null,
-      "unit": null
+      "id": "gobo_e_funghi_shiitake_a_pezzetti_1_gobo",
+      "quantity": 80,
+      "unit": "g"
+    },
+    {
+      "id": "gobo_e_funghi_shiitake_a_pezzetti_2_funghi_shiitake_a_pezzetti",
+      "quantity": 4,
+      "unit": "piece"
     },
     {
       "id": "olio_di_sesamo",
@@ -65,8 +70,13 @@
       "unit": "ml"
     },
     {
-      "id": "salsa_di_soia_e_1_di_sake",
+      "id": "salsa_di_soia_e_1_di_sake_1_salsa_di_soia",
       "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": "salsa_di_soia_e_1_di_sake_2_di_sake",
+      "quantity": 1,
       "unit": "tbsp"
     }
   ],
@@ -81,21 +91,33 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 240
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 900
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kenchinjiru",
-      "description": "A comforting Kenchinjiru prepared with gentle simmering so the main ingredients become tender while the broth stays flavorful and balanced.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer, Emiya-san Chi no Kyou no Gohan. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kenchinjiru — Buddhist-style vegetable, tofu and root soup",
+      "description": "Kenchinjiru is a vegetable soup of Japanese roots, mushrooms and crumbled tofu. The ingredients are first flavored in a saucepan and then boiled in the broth, which is completed with soy sauce and sake. The kombu dashi accompanies roots and tofu without katsuobushi, to keep vegetarian this version of the soup.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer, Emiya-san Chi no Kyou no Gohan. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "tofu_fermo_sbriciolato": {
-          "name": "Tofu fermo sbriciolato",
+          "name": "tofu firm crumbled",
           "note": null
         },
         "daikon": {
@@ -103,40 +125,51 @@
           "note": null
         },
         "carota": {
-          "name": "Carrot",
+          "name": "carrot",
           "note": null
         },
-        "gobo_e_funghi_shiitake_a_pezzetti": {
-          "name": "Gobo e shiitake mushrooms a pezzetti",
+        "gobo_e_funghi_shiitake_a_pezzetti_1_gobo": {
+          "name": "gobo",
+          "note": null
+        },
+        "gobo_e_funghi_shiitake_a_pezzetti_2_funghi_shiitake_a_pezzetti": {
+          "name": "Shiitake mushrooms in small pieces",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         },
         "kombu_dashi": {
-          "name": "Kombu dashi (broth di alga)",
+          "name": "kombu Dashi (alga broth)",
           "note": null
         },
-        "salsa_di_soia_e_1_di_sake": {
-          "name": "Soy sauce e 1 di sake",
+        "salsa_di_soia_e_1_di_sake_1_salsa_di_soia": {
+          "name": "Soy sauce",
+          "note": null
+        },
+        "salsa_di_soia_e_1_di_sake_2_di_sake": {
+          "name": "sake",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and organize the main ingredients so pieces of similar density are comparable in size; prepare the seasoned broth separately before simmering.",
-        "step_2": "Build the broth over moderate heat and add the ingredients in order of cooking time, keeping the liquid at a gentle simmer rather than a hard boil.",
-        "step_3": "Continue cooking until proteins are safely cooked and vegetables are tender but intact, adjusting the seasoning only after the broth has reduced slightly.",
-        "step_4": "Finish with the final aromatics or garnish and serve hot, allowing a brief rest when useful so the ingredients absorb the seasoned broth."
+        "step_1": "Drain the tofu and crumble it coarsely; cut daikon, carrot, gobo and shiitake into small and uniform pieces.",
+        "step_2": "If you use fresh gobo, briefly put it in the water after cutting and then drain it well.",
+        "step_3": "Heat sesame oil in casserole and brown before the roots and mushrooms for 3-4 minutes.",
+        "step_4": "Add the tofu and mix gently to cover it with oil without reducing it to cream.",
+        "step_5": "Pour the kombu dashi, bring to light boil and remove the foam that emerges.",
+        "step_6": "Bake over low heat for about 15 minutes, until the roots are tender but not undone.",
+        "step_7": "Season with sake and soy sauce, taste and serve hot; avoid katsuobushi if you want to keep the preparation strictly vegetarian."
       }
     },
     "it": {
       "title": "Kenchinjiru (Zuppa Buddista Vegetariana con Tofu e Radici)",
-      "description": "Un Kenchinjiru (Zuppa Buddista Vegetariana con Tofu e Radici) confortante cotto a sobbollore dolce, così gli ingredienti diventano teneri senza disfarsi e il fondo resta concentrato ma equilibrato.",
+      "description": "Il Kenchinjiru è una zuppa vegetale di radici giapponesi, funghi e tofu sbriciolato. Gli ingredienti vengono prima insaporiti in casseruola e poi fatti sobbollire nel brodo, che si completa con salsa di soia e sake. Il kombu dashi accompagna radici e tofu senza katsuobushi, per mantenere vegetariana questa versione della zuppa.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer, Emiya-san Chi no Kyou no Gohan. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "tofu_fermo_sbriciolato": {
-          "name": "Tofu fermo sbriciolato",
+          "name": "tofu fermo sbriciolato",
           "note": null
         },
         "daikon": {
@@ -147,8 +180,12 @@
           "name": "carota",
           "note": null
         },
-        "gobo_e_funghi_shiitake_a_pezzetti": {
-          "name": "Gobo e funghi Shiitake a pezzetti",
+        "gobo_e_funghi_shiitake_a_pezzetti_1_gobo": {
+          "name": "gobo",
+          "note": null
+        },
+        "gobo_e_funghi_shiitake_a_pezzetti_2_funghi_shiitake_a_pezzetti": {
+          "name": "funghi Shiitake a pezzetti",
           "note": null
         },
         "olio_di_sesamo": {
@@ -156,28 +193,35 @@
           "note": null
         },
         "kombu_dashi": {
-          "name": "Kombu Dashi (brodo di alga)",
+          "name": "kombu Dashi (brodo di alga)",
           "note": null
         },
-        "salsa_di_soia_e_1_di_sake": {
-          "name": "salsa di soia e 1 di sake",
+        "salsa_di_soia_e_1_di_sake_1_salsa_di_soia": {
+          "name": "salsa di soia",
+          "note": null
+        },
+        "salsa_di_soia_e_1_di_sake_2_di_sake": {
+          "name": "sake",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, porta a temperatura l'olio di sesamo e rosola le radici, i funghi e il tofu sbriciolato a mano.",
-        "step_2": "Prosegui così: unisci il Kombu Dashi e porta a bollore, schiumando la superficie.",
-        "step_3": "Nella fase successiva, lascia cuocere a fuoco lento per 15 minuti finché le radici sono tenere.",
-        "step_4": "Per completare, insaporisci con soia e sake prima di porta in tavolare calda."
+        "step_1": "Scola il tofu e sbriciolalo grossolanamente; taglia daikon, carota, gobo e shiitake in pezzi piccoli e uniformi.",
+        "step_2": "Se usi gobo fresco, mettilo brevemente in acqua dopo il taglio e poi scolalo bene.",
+        "step_3": "Scalda l’olio di sesamo in casseruola e rosola prima le radici e i funghi per 3-4 minuti.",
+        "step_4": "Aggiungi il tofu e mescola delicatamente per rivestirlo d’olio senza ridurlo in crema.",
+        "step_5": "Versa il kombu dashi, porta a leggero bollore e rimuovi la schiuma che affiora.",
+        "step_6": "Cuoci a fuoco basso per circa 15 minuti, finché le radici sono tenere ma non disfatte.",
+        "step_7": "Condisci con sake e salsa di soia, assaggia e servi caldo; evita il katsuobushi se vuoi mantenere la preparazione strettamente vegetariana."
       }
     },
     "es": {
-      "title": "Kenchinjiru",
-      "description": "Una versión práctica de Kenchinjiru para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Emiya-san Chi no Kyou no Gohan. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kenchinjiru — sopa vegetariana budista de tofu y raíces",
+      "description": "El Kenchinjiru es una sopa vegetal de raíces japonesas, champiñones y tofu desmenuzado. Los ingredientes se sazonan primero en cazuela y luego se calientan en el caldo, que se completa con salsa de soja y sake. El kombu dashi acompaña raíces y tofu sin katsuobushi, para mantener vegetariana esta versión de la sopa.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Emiya-san Chi no Kyou no Gohan. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "tofu_fermo_sbriciolato": {
-          "name": "Tofu fermo sbriciolato",
+          "name": "tofu quieto desmenuzado",
           "note": null
         },
         "daikon": {
@@ -185,40 +229,51 @@
           "note": null
         },
         "carota": {
-          "name": "Zanahoria",
+          "name": "zanahoria",
           "note": null
         },
-        "gobo_e_funghi_shiitake_a_pezzetti": {
-          "name": "Gobo e shiitake setas a pezzetti",
+        "gobo_e_funghi_shiitake_a_pezzetti_1_gobo": {
+          "name": "gobo",
+          "note": null
+        },
+        "gobo_e_funghi_shiitake_a_pezzetti_2_funghi_shiitake_a_pezzetti": {
+          "name": "Setas Shiitake de trocitos",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame aceite",
+          "name": "Aceite de sésamo",
           "note": null
         },
         "kombu_dashi": {
-          "name": "Kombu dashi (caldo di alga)",
+          "name": "kombu Dashi (cola de alga)",
           "note": null
         },
-        "salsa_di_soia_e_1_di_sake": {
-          "name": "Salsa de soja e 1 di sake",
+        "salsa_di_soia_e_1_di_sake_1_salsa_di_soia": {
+          "name": "Salsa de soja",
+          "note": null
+        },
+        "salsa_di_soia_e_1_di_sake_2_di_sake": {
+          "name": "sake",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Escurrir el tofu y desmenuzarlo gruesamente; cortar daikon, zanahoria, gobo y shiitake en piezas pequeñas y uniformes.",
+        "step_2": "Si usas gobo fresco, ponlo brevemente en el agua después del corte y luego cúbrelo bien.",
+        "step_3": "Calienta el aceite de sésamo en cazuela y rosola primero las raíces y los hongos durante 3-4 minutos.",
+        "step_4": "Añadir el tofu y mezclar suavemente para vestirlo de aceite sin convertirlo en crema.",
+        "step_5": "Vierte el kombu dashi, lleva a un hervor suave y quita la espuma que aflora.",
+        "step_6": "Cocine a fuego lento durante unos 15 minutos, hasta que las raíces sean tiernas pero no deshagadas.",
+        "step_7": "Consigue sake y salsa de soja, prueba y sirve caliente; evita el katsoubushi si quieres mantener la preparación estrictamente vegetariana."
       }
     },
     "fr": {
-      "title": "Kenchinjiru",
-      "description": "Une version pratique de Kenchinjiru à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer, Emiya-san Chi no Kyou no Gohan. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kenchinjiru — soupe bouddhique végétarienne au tofu et aux légumes-racines",
+      "description": "Le Kenchinjiru est une soupe végétale de racines japonaises, de champignons et de tofus déchiqueté. Les ingrédients sont d'abord savourés dans la casserole et ensuite fait bouillir dans le bouillon, qui se complète avec de la sauce de soja et du saké. Le kombu dashi accompagne racines et tofu sans katsuobushi, pour maintenir végétarienne cette version de la soupe.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer, Emiya-san Chi no Kyou no Gohan. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "tofu_fermo_sbriciolato": {
-          "name": "Tofu fermo sbriciolato",
+          "name": "tofu à l'arrêt ébrouillé",
           "note": null
         },
         "daikon": {
@@ -226,40 +281,51 @@
           "note": null
         },
         "carota": {
-          "name": "Carotte",
+          "name": "carotte",
           "note": null
         },
-        "gobo_e_funghi_shiitake_a_pezzetti": {
-          "name": "Gobo e shiitake champignons a pezzetti",
+        "gobo_e_funghi_shiitake_a_pezzetti_1_gobo": {
+          "name": "gobo",
+          "note": null
+        },
+        "gobo_e_funghi_shiitake_a_pezzetti_2_funghi_shiitake_a_pezzetti": {
+          "name": "champignons Shiitake en morceaux",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         },
         "kombu_dashi": {
-          "name": "Kombu dashi (bouillon di alga)",
+          "name": "kombu dashi (boue d'algue)",
           "note": null
         },
-        "salsa_di_soia_e_1_di_sake": {
-          "name": "Sauce soja e 1 di sake",
+        "salsa_di_soia_e_1_di_sake_1_salsa_di_soia": {
+          "name": "Sauce de soja",
+          "note": null
+        },
+        "salsa_di_soia_e_1_di_sake_2_di_sake": {
+          "name": "saké",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Découpe le tofu et écrase-le grossièrement; coupe daikon, carotte, gobo et shiitake en petits morceaux et uniformes.",
+        "step_2": "Si vous utilisez du gobo frais, mettez-le brièvement dans l'eau après la coupe et puis égouttez-le bien.",
+        "step_3": "Chauffez l'huile de sésame en casserole et roulez d'abord les racines et les champignons pendant 3-4 minutes.",
+        "step_4": "Ajouter le tofu et mélanger doucement pour le revêtir d'huile sans le réduire en crème.",
+        "step_5": "Versez le kombu dashi, apportez à la légère bulle et retirez la mousse qui affleure.",
+        "step_6": "Faites cuire à faible feu pendant environ 15 minutes, jusqu'à ce que les racines soient tenues mais pas défaites.",
+        "step_7": "Assaisonnez avec du saké et de la sauce soja, goûtez et servez chaud; évitez le katsuobushi si vous voulez maintenir la préparation strictement végétarienne."
       }
     },
     "de": {
-      "title": "Kenchinjiru",
-      "description": "Eine alltagstaugliche Version von Kenchinjiru für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Emiya-san Chi no Kyou no Gohan inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kenchinjiru – buddhistische Gemüsesuppe mit Tofu und Wurzelgemüse",
+      "description": "Kenchinjiru ist eine pflanzliche Suppe aus japanischen Wurzeln, Pilzen und Tofus zerbröckelt. Die Zutaten werden zuerst in einer Kasserolle gewürzt und dann in der Brühe getrunken, die mit Sojasoße und Sake ergänzt wird. Die kombu Dashi begleitet Wurzeln und Tofu ohne Katsuobushi, um diese vegetarische Version der Suppe zu erhalten.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Emiya-san Chi no Kyou no Gohan inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "tofu_fermo_sbriciolato": {
-          "name": "Tofu fermo sbriciolato",
+          "name": "Tofu stille zerbröcchiolat",
           "note": null
         },
         "daikon": {
@@ -270,37 +336,48 @@
           "name": "Karotte",
           "note": null
         },
-        "gobo_e_funghi_shiitake_a_pezzetti": {
-          "name": "Gobo e shiitake Pilze a pezzetti",
+        "gobo_e_funghi_shiitake_a_pezzetti_1_gobo": {
+          "name": "gobo",
+          "note": null
+        },
+        "gobo_e_funghi_shiitake_a_pezzetti_2_funghi_shiitake_a_pezzetti": {
+          "name": "Shiitake-Pilz in Stücke",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         },
         "kombu_dashi": {
-          "name": "Kombu dashi (Brühe di alga)",
+          "name": "kombu Dashi (Algabrühe)",
           "note": null
         },
-        "salsa_di_soia_e_1_di_sake": {
-          "name": "Sojasauce e 1 di sake",
+        "salsa_di_soia_e_1_di_sake_1_salsa_di_soia": {
+          "name": "Sojasoße",
+          "note": null
+        },
+        "salsa_di_soia_e_1_di_sake_2_di_sake": {
+          "name": "sake",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schütte den Tofu und zerbrich ihn grob; schneide Daikon, Karotte, Gobo und Shiitake in kleine Stücke und Uniformen.",
+        "step_2": "Wenn Sie frische Gobos verwenden, legen Sie sie kurz nach dem Schneiden ins Wasser und spülen Sie sie dann gut ab.",
+        "step_3": "Erhitzt Sesamöl in Kasserolle und Rosola zuerst die Wurzeln und Pilze für 3-4 Minuten.",
+        "step_4": "Fügen Sie Tofu hinzu und mischen Sie vorsichtig, um es mit Öl zu kleiden, ohne es in Creme zu reduzieren.",
+        "step_5": "Das Kombu-Dashi zugießen, leicht aufkochen lassen und den entstehenden Schaum abschöpfen.",
+        "step_6": "Kochen Sie mit niedrigem Fokus für ca. 15 Minuten, bis die Wurzeln halten, aber nicht brechen.",
+        "step_7": "Mit Sake und Sojasoße würzen, probieren und warm servieren; vermeiden Sie den Katsuobushi, wenn Sie die Zubereitung streng vegetarische halten möchten."
       }
     },
     "pt": {
-      "title": "Kenchinjiru",
-      "description": "Uma versão prática de Kenchinjiru para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer, Emiya-san Chi no Kyou no Gohan. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kenchinjiru — sopa vegetariana budista com tofu e raízes",
+      "description": "Kenchinjiru é uma sopa de vegetais de raízes japonesas, cogumelos e tofu desmoronado. Os ingredientes são primeiro aromatizados em uma panela e depois fervidos no caldo, que é completado com molho de soja e saquê. O kombu dashi acompanha raízes e tofu sem katsuobushi, para manter vegetariana esta versão da sopa.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer, Emiya-san Chi no Kyou no Gohan. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "tofu_fermo_sbriciolato": {
-          "name": "Tofu fermo sbriciolato",
+          "name": "a firma tofu desmoronou",
           "note": null
         },
         "daikon": {
@@ -308,31 +385,42 @@
           "note": null
         },
         "carota": {
-          "name": "Cenoura",
+          "name": "cenoura",
           "note": null
         },
-        "gobo_e_funghi_shiitake_a_pezzetti": {
-          "name": "Gobo e shiitake cogumelos a pezzetti",
+        "gobo_e_funghi_shiitake_a_pezzetti_1_gobo": {
+          "name": "gobo",
+          "note": null
+        },
+        "gobo_e_funghi_shiitake_a_pezzetti_2_funghi_shiitake_a_pezzetti": {
+          "name": "Cogumelos Shiitake em pedaços pequenos",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         },
         "kombu_dashi": {
-          "name": "Kombu dashi (caldo di alga)",
+          "name": "kombu Dashi (cofre de algas)",
           "note": null
         },
-        "salsa_di_soia_e_1_di_sake": {
-          "name": "Molho de soja e 1 di sake",
+        "salsa_di_soia_e_1_di_sake_1_salsa_di_soia": {
+          "name": "Molho de soja",
+          "note": null
+        },
+        "salsa_di_soia_e_1_di_sake_2_di_sake": {
+          "name": "sake",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Esgote o tofu e desfaça- o grossamente; corte o daikon, a cenoura, o gobo e o shiitake em pedaços pequenos e uniformes.",
+        "step_2": "Se você usar gobo fresco, coloque- o brevemente na água após o corte e, em seguida, escorra-o bem.",
+        "step_3": "Aqueça o óleo de sésamo em casserola e marrom antes das raízes e cogumelos por 3-4 minutos.",
+        "step_4": "Adicione o tofu e misture suavemente para cobri- lo com óleo sem reduzi- lo ao creme.",
+        "step_5": "Verter o kombu dashi, trazer à luz ferver e remover a espuma que emerge.",
+        "step_6": "Cozinhe a fogo baixo por cerca de 15 minutos, até que as raízes estejam tenras, mas não desfeitos.",
+        "step_7": "Tempere com saquê e molho de soja, prove e sirva quente. Evite o katsuobushi se quiser manter o prato estritamente vegetariano."
       }
     }
   }

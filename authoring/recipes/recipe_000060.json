@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000060",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Si alza il vento (Studio Ghibli)",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 35,
   "servings": 6,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 720
     },
     {
       "id": "step_3",
@@ -80,54 +80,74 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 60
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 2400
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Castella Cake",
-      "description": "A Japanese-style Castella Cake designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Si alza il vento (Studio Ghibli), Gintama. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Castella — fluffy Japanese sponge cake",
+      "description": "The Castella is a high and soft dessert that gets volume by assembling eggs and sugar for a long time. It incorporates honey and flour sifted without disassembling the mixture, then cooks in the rectangular mold and lets rest wrapped to stabilize the crumb. The rest wrapped after cooking helps to retain moisture; the final veiling of honey completes the golden surface.",
+      "animeContext": "This recipe is thematically inspired by Si alza il vento (Studio Ghibli), Gintama. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
-          "name": "Egg grandi a temperatura ambiente",
+          "name": "Large eggs at room temperature",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sugar",
+          "name": "semolate sugar",
           "note": null
         },
         "farina_per_pane_o_farina_00_setacciata": {
-          "name": "Flour per pane o all-purpose flour setacciata",
+          "name": "flour for bread or Italian 00 flour sieved",
           "note": null
         },
         "miele_di_acacia": {
-          "name": "Honey di acacia",
+          "name": "acacia honey",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm water",
+          "name": "lukewarm water",
           "note": null
         },
         "mirin_o_estratto_di_vaniglia": {
-          "name": "Mirin o estratto di vaniglia",
+          "name": "Mirin or vanilla extract",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "In a cup melt the honey in warm water with the mirin.",
+        "step_2": "In a large bowl, mount the eggs with sugar using electric whips for at least 10-12 minutes.",
+        "step_3": "As long as the compound becomes clear, foamy and triple in volume.",
+        "step_4": "Add the honey mixture in the eggs mounted flush and mix at a low speed for 1 minute.",
+        "step_5": "Slice the flour on the mixture in three shots, gently incorporating it from the bottom upwards with a spatula to not disassemble the dough.",
+        "step_6": "Add the dough in a rectangular mold lined with baking paper.",
+        "step_7": "Cook in the oven at 160°C in a static oven preheated for 35-40 minutes until the surface is golden and a toothpick comes out dry, freshly baked.",
+        "step_8": "Brush the surface with a veil of honey, wrap the cake in the transparent film and let it rest in the fridge for a few hours: this passage will make the Castle incredibly humid, soft and fragrant."
       }
     },
     "it": {
       "title": "Castella Cake (Pan di Spagna Sofficissimo Giapponese)",
-      "description": "Un Castella Cake (Pan di Spagna Sofficissimo Giapponese) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Il Castella è un dolce alto e soffice che ottiene volume montando a lungo uova e zucchero. Si incorporano miele e farina setacciata senza smontare il composto, poi si cuoce nello stampo rettangolare e si lascia riposare avvolto per stabilizzare la mollica. Il riposo avvolto dopo la cottura aiuta a trattenere l'umidità; la velatura finale di miele completa la superficie dorata.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Si alza il vento (Studio Ghibli), Gintama. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
-          "name": "uovo grandi a temperatura ambiente",
+          "name": "uova grandi a temperatura ambiente",
           "note": null
         },
         "zucchero_semolato": {
@@ -152,158 +172,178 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, in una tazzina sciogli il miele nell'acqua tiepida insieme al mirin.",
-        "step_2": "Prosegui così: riunisci in una ciotola capiente monti le uova con lo zucchero con le fruste elettriche per almeno 10-12 minuti, finché il composto diventa chiaro, spumoso e triplica di volume.",
-        "step_3": "Nella fase successiva, aggiungi a filo la miscela di miele nelle uova montate continuando a amalgamare a bassa velocità per 1 minuto. Setaccia la farina sul composto in tre riprese, incorporandola delicatamente dal basso verso l'alto con una spatola per non smontare l'impasto.",
-        "step_4": "Per completare, aggiungi l'impasto in uno stampo rettangolare foderato di carta forno. Cuoci in forno a 160°C in forno statico preriporta a temperaturato per 35-40 minuti finché la superficie è dorata e uno stecchino ne esce asciutto. Appena sfornata, spennella la superficie con un velo di miele, avvolgi la torta nella pellicola trasparente e lasciala riposare in frigo per qualche ora: questo passaggio renderà la Castella incredibilmente umida, soffice e profumata."
+        "step_1": "In una tazzina sciogli il miele nell'acqua tiepida insieme al mirin.",
+        "step_2": "In una ciotola capiente, monta le uova con lo zucchero usando le fruste elettriche per almeno 10-12 minuti.",
+        "step_3": "Finché il composto diventa chiaro, spumoso e triplica di volume.",
+        "step_4": "Aggiungi a filo la miscela di miele nelle uova montate continuando a mescolare a bassa velocità per 1 minuto.",
+        "step_5": "Setaccia la farina sul composto in tre riprese, incorporandola delicatamente dal basso verso l'alto con una spatola per non smontare l'impasto.",
+        "step_6": "Aggiungi l'impasto in uno stampo rettangolare foderato di carta forno.",
+        "step_7": "Cuoci in forno a 160°C in forno statico preriscaldato per 35-40 minuti finché la superficie è dorata e uno stecchino ne esce asciutto, appena sfornata.",
+        "step_8": "Spennella la superficie con un velo di miele, avvolgi la torta nella pellicola trasparente e lasciala riposare in frigo per qualche ora: questo passaggio renderà la Castella incredibilmente umida, soffice e profumata."
       }
     },
     "es": {
-      "title": "Castella Cake",
-      "description": "Una versión práctica de Castella Cake para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Si alza il vento (Studio Ghibli), Gintama. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Castella — bizcocho japonés muy esponjoso",
+      "description": "El castillo es un dulce alto y suave que obtiene volumen montando durante mucho tiempo huevos y azúcar. Se incorporan miel y harina tambaleada sin desmontar el compuesto, luego se cocina en el molde rectangular y se deja descansar envuelto para estabilizar la blando. El descanso envuelto después de la cocción ayuda a retener la humedad; el velado final de miel completa la superficie dorada.",
+      "animeContext": "Esta receta está inspirada temáticamente en Si alza il vento (Studio Ghibli), Gintama. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
-          "name": "Huevo grandi a temperatura ambiente",
+          "name": "huevos grandes a temperatura ambiente",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated azúcar",
+          "name": "azúcar semilado",
           "note": null
         },
         "farina_per_pane_o_farina_00_setacciata": {
-          "name": "Harina per pane o all-purpose harina setacciata",
+          "name": "harina para pan o harina 00 tamizado",
           "note": null
         },
         "miele_di_acacia": {
-          "name": "Honey di acacia",
+          "name": "miel de acacia",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm agua",
+          "name": "Agua tibia",
           "note": null
         },
         "mirin_o_estratto_di_vaniglia": {
-          "name": "Mirin o estratto di vaniglia",
+          "name": "mirin o extracto de vainilla",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una taza, derrite la miel en agua tibia junto con el mirin.",
+        "step_2": "En un cuenco grande, monta huevos con azúcar usando batidora eléctrica durante al menos 10-12 minutos.",
+        "step_3": "Hasta que el compuesto se vuelve claro, espumoso y triple de volumen.",
+        "step_4": "Añadir la mezcla de miel al hilo en los huevos montados y mezclarla a baja velocidad durante 1 minuto.",
+        "step_5": "Colocar la harina sobre la mezcla en tres tomas, incorporandola suavemente desde abajo hacia arriba con una espátula para no desmontar la masa.",
+        "step_6": "Añadir la masa en un molde rectangular forrado en papel horno.",
+        "step_7": "Cocine en horno a 160°C en horno estático precalentado durante 35-40 minutos hasta que la superficie esté dorada y un palillo salga seco, recién horneado.",
+        "step_8": "Aprieta la superficie con un velo de miel, envuelve el pastel en la película transparente y déjala reposar en el refrigerador por unas horas: este paso hará que la Castella sea increíblemente húmeda, suave y perfumada."
       }
     },
     "fr": {
-      "title": "Castella Cake",
-      "description": "Une version pratique de Castella Cake à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Si alza il vento (Studio Ghibli), Gintama. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Castella — génoise japonaise moelleuse",
+      "description": "Le Castella est un dessert haut et doux qui obtient du volume en montant longtemps des œufs et du sucre. Il s'intègre miel et farine tamisée sans démonter le composé, puis il se cuite dans le moule rectangulaire et se laisse reposer enveloppé pour stabiliser la molle. Le repos enveloppé après la cuisson aide à retenir l'humidité; la voile finale de miel complète la surface dorée.",
+      "animeContext": "Cette recette s'inspire librement de Si alza il vento (Studio Ghibli), Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
-          "name": "Œuf grandi a temperatura ambiente",
+          "name": "de grands œufs à température ambiante",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sucre",
+          "name": "sucre en poudre, en granulés ou sous d'autres formes solides, d'une teneur en poids de matières grasses provenant du lait et d'une teneur en poids de matières grasses égale ou supérieure à 40% mais n'excédant pas 10%",
           "note": null
         },
         "farina_per_pane_o_farina_00_setacciata": {
-          "name": "Farine per pane o all-purpose farine setacciata",
+          "name": "farine pour pain ou farine 00 tamisée",
           "note": null
         },
         "miele_di_acacia": {
-          "name": "Honey di acacia",
+          "name": "miel d'acacia",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm eau",
+          "name": "eau tiède",
           "note": null
         },
         "mirin_o_estratto_di_vaniglia": {
-          "name": "Mirin o estratto di vaniglia",
+          "name": "mirin ou extrait de vanille",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une tasse, faites fondre le miel dans l'eau tiède avec le mirin.",
+        "step_2": "Dans un grand bol, il monte les œufs avec du sucre en utilisant des fouets électriques pendant au moins 10-12 minutes.",
+        "step_3": "Jusqu'à ce que le composé devienne clair, spumeux et triple de volume.",
+        "step_4": "Ajouter au fil le mélange de miel dans les œufs montés en continuant à mélanger à basse vitesse pendant 1 minute.",
+        "step_5": "Fouille la farine sur le composé en trois reprises, l'incorporant doucement de bas en haut avec une spatule pour ne pas démonter la pâte.",
+        "step_6": "Ajouter la pâte dans un moule rectangulaire doublé de papier four.",
+        "step_7": "Faites cuire au four à 160°C au four statique préchauffé pendant 35-40 minutes jusqu'à ce que la surface soit dorée et qu'une tige en sorte sèche, fraîchement fourrée.",
+        "step_8": "Renversez la surface avec un voile de miel, enveloppez le gâteau dans le film transparent et laissez-la reposer dans le réfrigérateur pendant quelques heures: ce passage rendra la Castella incroyablement humide, douce et parfumée."
       }
     },
     "de": {
-      "title": "Castella Cake",
-      "description": "Eine alltagstaugliche Version von Castella Cake für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Si alza il vento (Studio Ghibli), Gintama inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Castella – luftiger japanischer Biskuitkuchen",
+      "description": "Das Castella ist ein süßes und weiches Dessert, das durch langes Anbringen von Eiern und Zucker Volumen erhält. Es enthält Honig und Mehl gesiebt, ohne die Verbindung zu zerlegen, dann kocht es in der rechteckigen Form und lässt sich ausruhen gewickelt, um die Weichheit zu stabilisieren. Die nach dem Kochen eingewickelte Ruhe hilft, die Feuchtigkeit zu halten; das letzte Honigschleier ergänzt die goldene Oberfläche.",
+      "animeContext": "Dieses Rezept ist thematisch von Si alza il vento (Studio Ghibli), Gintama inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
-          "name": "Ei grandi a temperatura ambiente",
+          "name": "Große Eier bei Raumtemperatur",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated Zucker",
+          "name": "Semolatzucker",
           "note": null
         },
         "farina_per_pane_o_farina_00_setacciata": {
-          "name": "Mehl per pane o all-purpose Mehl setacciata",
+          "name": "Mehl für Brot oder Mehl 00 gesiebt",
           "note": null
         },
         "miele_di_acacia": {
-          "name": "Honey di acacia",
+          "name": "Akazienhonig",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm Wasser",
+          "name": "lauwarmes Wasser",
           "note": null
         },
         "mirin_o_estratto_di_vaniglia": {
-          "name": "Mirin o estratto di vaniglia",
+          "name": "Mirin oder Vanilleextrakt",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer Tasse schmelze den Honig zusammen mit dem Mirin im warmen Wasser.",
+        "step_2": "In einer großen Schüssel, die Eier mit Zucker mit den elektrischen Peitschen für mindestens 10-12 Minuten.",
+        "step_3": "Solange die Verbindung klar, spumig und verdreifacht Volumen wird.",
+        "step_4": "Fügen Sie die Honigmischung in die montierten Eier, indem Sie mit niedriger Geschwindigkeit für 1 Minute mischen.",
+        "step_5": "Das Mehl auf der Mischung in drei Drehungen sieben, indem es vorsichtig von unten nach oben mit einem Spachtel gefüllt wird, um den Teig nicht zu zerlegen.",
+        "step_6": "Fügen Sie den Teig in einer rechteckigen Form mit Backpapier.",
+        "step_7": "Kochen Sie im Backofen bei 160°C im vorgeheizten statischen Ofen 35-40 Minuten lang, bis die Oberfläche goldgelb ist und ein Stuck aus dem Ofen herauskommt, frisch gebacken.",
+        "step_8": "Hängen Sie die Oberfläche mit einem Schleier Honig, wickeln Sie den Kuchen in den transparenten Film und lassen Sie ihn für ein paar Stunden im Kühlschrank ruhen: Dieser Durchgang macht die Burg unglaublich feucht, weich und duftend."
       }
     },
     "pt": {
-      "title": "Castella Cake",
-      "description": "Uma versão prática de Castella Cake para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Si alza il vento (Studio Ghibli), Gintama. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Castella — pão de ló japonês muito fofo",
+      "description": "O Castella é uma sobremesa alta e suave que recebe volume montando ovos e açúcar por muito tempo. Incorpora mel e farinha varreda sem desmontar a mistura, então cozinha no molde retangular e deixa descansar embrulhado para estabilizar a migalha. O resto embrulhado após o cozimento ajuda a manter a umidade; o véu final do mel completa a superfície dourada.",
+      "animeContext": "Esta receita inspira-se tematicamente em Si alza il vento (Studio Ghibli), Gintama. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
-          "name": "Ovo grandi a temperatura ambiente",
+          "name": "Ovos grandes à temperatura ambiente",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated açúcar",
+          "name": "açúcar semolado",
           "note": null
         },
         "farina_per_pane_o_farina_00_setacciata": {
-          "name": "Farinha per pane o all-purpose farinha setacciata",
+          "name": "farinha para pão ou farinha 00 sieved",
           "note": null
         },
         "miele_di_acacia": {
-          "name": "Honey di acacia",
+          "name": "mel de acacia",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm água",
+          "name": "Água morna",
           "note": null
         },
         "mirin_o_estratto_di_vaniglia": {
-          "name": "Mirin o estratto di vaniglia",
+          "name": "Extrato de mirin ou baunilha",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa xícara, derrete o mel em água morna com o mirin.",
+        "step_2": "Em uma tigela grande, monte os ovos com açúcar usando batedeira elétrica por pelo menos 10-12 minutos.",
+        "step_3": "Contanto que o composto se torne claro, espumoso e triplo em volume.",
+        "step_4": "Adicione a mistura de mel nos ovos montados flush e misture a uma velocidade baixa por 1 minuto.",
+        "step_5": "Corte a farinha na mistura em três doses, incorporando- a suavemente do fundo para cima com uma espátula para não desmontar a massa.",
+        "step_6": "Adicione a massa num molde retangular forrado com papel para assar.",
+        "step_7": "Cozinhe no forno a 160°C num forno estático pré- aquecido por 35- 40 minutos até que a superfície esteja dourada e um palito saia seco, recém- assado.",
+        "step_8": "Escove a superfície com um véu de mel, enrole o bolo no filme transparente e deixe- o descansar na geladeira por algumas horas: esta passagem tornará o Castelo incrivelmente úmido, macio e perfumado."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000107",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 5,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -71,41 +71,56 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Ogura Toast",
-      "description": "A Japanese-style Ogura Toast designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Dagashi Kashi. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Ogura Toast — thick toast with sweet red bean paste",
+      "description": "The Ogura Toast is a thick slice of toasted shokupan, coated with butter and covered with sweet ogura-an red bean paste. It is served immediately after the cut, when the bread is still warm and contrasts with the filling. The toast remains crispy under the ogura an; any cream should be added cold only when the toast is warmed.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Dagashi Kashi. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "spesse_di_pane_per_toast_giapponese_shokupan": {
-          "name": "Spesse di pane per toast giapponese shokupan",
+          "name": "thick bread for Japanese toast Shokupan",
           "note": null
         },
         "burro_di_ottima_qualita_a_temperatura_ambiente": {
-          "name": "Butter di ottima qualità a temperatura ambiente",
+          "name": "excellent quality butter at room temperature",
           "note": null
         },
         "confettura_di_fagioli_rossi_ogura_an": {
-          "name": "Confettura di red beans ogura an (anko con chicchi interi)",
+          "name": "Ogura An red bean jam (anko with whole beans)",
           "note": null
         },
         "panna_montata_fresca": {
-          "name": "Cream montata fresh (opzionale)",
+          "name": "fresh whipped cream (optional)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Cut two slices of shokupan thick about 2\"3 cm and bring l\"ogura an to room temperature or just heat it, without letting it dry.",
+        "step_2": "If the anko is very compact, soften it with a teaspoon of hot water and stir until it is creamy but not liquid.",
+        "step_3": "Toast the bread on both sides until the surface is well golden and crispy while the center remains soft.",
+        "step_4": "Sprinkle the butter on the still hot bread immediately, insisting also on the edges so that it is absorbed by the crumb.",
+        "step_5": "Distribute l'ogura an in a generous and uniform layer, without crushing the bread.",
+        "step_6": "If you use whipped cream, add it cold only after letting the toast cool for a minute, so it doesn't melt.",
+        "step_7": "Diagonally cut and serve immediately, keeping the contrast between crispy crust, soft bread, butter and anko."
       }
     },
     "it": {
       "title": "Ogura Toast",
-      "description": "Un Ogura Toast in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "L’Ogura Toast è una fetta spessa di shokupan tostato, spalmata di burro e ricoperta di pasta dolce di fagioli rossi ogura-an. Viene servito subito dopo il taglio, quando il pane è ancora caldo e contrasta con il ripieno. Il pane tostato resta croccante sotto l'ogura an; l'eventuale panna va aggiunta fredda solo quando il toast è intiepidito.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Dagashi Kashi. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "spesse_di_pane_per_toast_giapponese_shokupan": {
@@ -121,131 +136,146 @@
           "note": null
         },
         "panna_montata_fresca": {
-          "name": "Panna montata fresca (opzionale)",
+          "name": "panna montata fresca (opzionale)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, tosta le fette di pane Shokupan al forno o nel tostapane finché la superficie risulta dorata e croccante all'esterno, mantenendo il cuore soffice.",
-        "step_2": "Prosegui così: spalma un generoso strato di burro morbido sul pane ancora bollente, facendolo penetrare nella mollica.",
-        "step_3": "Nella fase successiva, distribuisci sopra una ricca cucchiaiata di Ogura An caldo o a temperatura ambiente.",
-        "step_4": "Per completare, completa se desideri con un fiocco di panna montata fresca e porta in tavola subito per colazione o merenda."
+        "step_1": "Taglia due fette di shokupan spesse circa 2–3 cm e porta l’ogura an a temperatura ambiente o scaldalo appena, senza farlo asciugare.",
+        "step_2": "Se l’anko è molto compatto, ammorbidiscilo con un cucchiaino d’acqua calda e mescola finché torna cremoso ma non liquido.",
+        "step_3": "Tosta il pane su entrambi i lati finché la superficie è ben dorata e croccante mentre il centro resta soffice.",
+        "step_4": "Spalma subito il burro sul pane ancora caldo, insistendo anche sui bordi in modo che venga assorbito dalla mollica.",
+        "step_5": "Distribuisci l’ogura an in uno strato generoso e uniforme, senza schiacciare il pane.",
+        "step_6": "Se usi panna montata, aggiungila fredda solo dopo aver lasciato intiepidire il toast per un minuto, così non si scioglie.",
+        "step_7": "Taglia diagonalmente e servi immediatamente, mantenendo il contrasto tra crosta croccante, pane soffice, burro e anko."
       }
     },
     "es": {
-      "title": "Ogura Toast",
-      "description": "Una versión práctica de Ogura Toast para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Dagashi Kashi. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Ogura toast — tostada gruesa con pasta dulce de judías rojas",
+      "description": "La tostada Ogura es una rebanada gruesa de shokupan tostado, untada con mantequilla y cubierta de pasta dulce de frijoles rojos ogura-an. Se sirve inmediatamente después del corte, cuando el pan sigue caliente y contrasta con el relleno. El pan tostado permanece crujiente bajo el ogura an; la eventual nata se añadirá fría sólo cuando la tostada esté tibia.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Dagashi Kashi. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "spesse_di_pane_per_toast_giapponese_shokupan": {
-          "name": "Spesse di pane per toast giapponese shokupan",
+          "name": "Panes gruesos para tostadas japonesas Shokupan",
           "note": null
         },
         "burro_di_ottima_qualita_a_temperatura_ambiente": {
-          "name": "Mantequilla di ottima qualità a temperatura ambiente",
+          "name": "mantequilla de excelente calidad a temperatura ambiente",
           "note": null
         },
         "confettura_di_fagioli_rossi_ogura_an": {
-          "name": "Confettura di rojo beans ogura an (anko con chicchi interi)",
+          "name": "confitura de frijoles rojos Ogura An (anko con granos enteros)",
           "note": null
         },
         "panna_montata_fresca": {
-          "name": "Nata montata fresco (opzionale)",
+          "name": "crema batida fresca (opcional)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta dos rebanadas de shokupan de unos 2–3 cm de grosor. Deja que el ogura-an alcance la temperatura ambiente o caliéntalo ligeramente sin que se reseque.",
+        "step_2": "Si el anko está muy firme, ablándalo con una cucharadita de agua caliente y remueve hasta que quede cremoso, pero no líquido.",
+        "step_3": "Toca el pan a ambos lados hasta que la superficie esté bien dorada y crujiente mientras el centro permanece suave.",
+        "step_4": "Pon la mantequilla sobre el pan caliente, insistiendo también en los bordes para que sea absorbida por la miga.",
+        "step_5": "Distribuya la grasa an en una capa generosa y uniforme, sin aplastar el pan.",
+        "step_6": "Si usas nata montada, añádela fría sólo después de dejar tibia la tostada durante un minuto, para que no se derrita.",
+        "step_7": "Corta diagonalmente y sirve inmediatamente, manteniendo el contraste entre corteza crujiente, pan blando, mantequilla y anko."
       }
     },
     "fr": {
-      "title": "Ogura Toast",
-      "description": "Une version pratique de Ogura Toast à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Dagashi Kashi. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Ogura toast — pain grillé épais à la pâte de haricots rouges sucrée",
+      "description": "L'Ogura Toast est une tranche épaisse de shokupan grillé, enduite de beurre et recouverte de pâte douce de haricots rouges ogura-an. Il est servi immédiatement après la coupe, quand le pain est encore chaud et contraste avec la farce. Le pain grillé reste croustillant sous l'ogura an; la crème éventuelle ne doit être ajoutée froide que lorsque le toast est tiède.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Dagashi Kashi. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "spesse_di_pane_per_toast_giapponese_shokupan": {
-          "name": "Spesse di pane per toast giapponese shokupan",
+          "name": "épaisses de pain pour toast japonais Shokupan",
           "note": null
         },
         "burro_di_ottima_qualita_a_temperatura_ambiente": {
-          "name": "Beurre di ottima qualità a temperatura ambiente",
+          "name": "beurre d'excellente qualité à température ambiante",
           "note": null
         },
         "confettura_di_fagioli_rossi_ogura_an": {
-          "name": "Confettura di rouge beans ogura an (anko con chicchi interi)",
+          "name": "confiture de haricots rouges Ogura An (anko avec grains entiers)",
           "note": null
         },
         "panna_montata_fresca": {
-          "name": "Crème montata frais (opzionale)",
+          "name": "crème fouettée fraîche (en option)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coupez deux tranches de shokupan d’environ 2 à 3 cm d’épaisseur. Laissez l’ogura-an revenir à température ambiante ou réchauffez-le doucement sans le dessécher.",
+        "step_2": "Si l'anko est très compact, adoucit-le avec une cuillère à café d'eau chaude et mélange jusqu'à ce qu'il revienne crémeux mais pas liquide.",
+        "step_3": "Frottez le pain des deux côtés jusqu'à ce que la surface soit bien dorée et croustillante pendant que le centre reste doux.",
+        "step_4": "Épanchez immédiatement le beurre sur le pain encore chaud, en insistant également sur les bords afin qu'il soit absorbé par la mouette.",
+        "step_5": "Distribuez l'ogura an dans une couche généreuse et uniforme, sans écraser le pain.",
+        "step_6": "Si vous utilisez de la crème fouettée, ajoutez-la froide seulement après avoir laissé tièder le toast pendant une minute, de sorte qu'elle ne se dissipe pas.",
+        "step_7": "Coupez en diagonale et servez immédiatement, en maintenant le contraste entre la croûte croustillante, le pain doux, le beurre et l'anko."
       }
     },
     "de": {
-      "title": "Ogura Toast",
-      "description": "Eine alltagstaugliche Version von Ogura Toast für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Dagashi Kashi inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Ogura Toast – dickes Toastbrot mit süßer roter Bohnenpaste",
+      "description": "Die Ogura Toast ist ein dickes Stück Shokupan-Toast, mit Butter bestreut und mit roten Bohnen-Ogura-an-Süßstoff bedeckt. Es wird unmittelbar nach dem Schneiden serviert, wenn das Brot noch warm ist und mit der Füllung kontrastiert. Das Toastbrot bleibt unter der Ogura an knusprig; die Sahne sollte nur kalt hinzugefügt werden, wenn der Toast eingeengt ist.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Dagashi Kashi inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "spesse_di_pane_per_toast_giapponese_shokupan": {
-          "name": "Spesse di pane per toast giapponese shokupan",
+          "name": "Dicke Brot für japanische Toast Shokupan",
           "note": null
         },
         "burro_di_ottima_qualita_a_temperatura_ambiente": {
-          "name": "Butter di ottima qualità a temperatura ambiente",
+          "name": "Butter ausgezeichneter Qualität bei Raumtemperatur",
           "note": null
         },
         "confettura_di_fagioli_rossi_ogura_an": {
-          "name": "Confettura di rot beans ogura an (anko con chicchi interi)",
+          "name": "Ogura An Rote Bohnen-Konfitüre (Anko mit ganzen Körnern)",
           "note": null
         },
         "panna_montata_fresca": {
-          "name": "Sahne montata frisch (opzionale)",
+          "name": "Frischer Schlagsahne (optional)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Zwei etwa 2–3 cm dicke Scheiben Shokupan abschneiden. Das Ogura-An auf Zimmertemperatur bringen oder kurz und behutsam erwärmen, ohne es auszutrocknen.",
+        "step_2": "Wenn der Anko sehr kompakt ist, weich ihn mit einem Teelöffel warmem Wasser und mischt, bis er cremig, aber nicht flüssig ist.",
+        "step_3": "Toast das Brot auf beiden Seiten, bis die Oberfläche gut goldig und knusprig ist, während die Mitte weich bleibt.",
+        "step_4": "Ziehen Sie die Butter sofort auf das noch warme Brot, wobei Sie auch an den Rändern darauf bestehen, dass es von der Weichei absorbiert wird.",
+        "step_5": "Verteilen Sie das an in einer großzügigen und gleichmäßigen Schicht, ohne das Brot zu zerdrücken.",
+        "step_6": "Wenn Sie Schlagsahne verwenden, fügen Sie es erst kalt hinzu, nachdem Sie den Toast eine Minute lang eingetaucht haben, so dass es nicht schmelzen kann.",
+        "step_7": "Diagonal schneiden und sofort servieren, wobei der Kontrast zwischen knusprige Kruste, weichem Brot, Butter und Anko erhalten bleibt."
       }
     },
     "pt": {
-      "title": "Ogura Toast",
-      "description": "Uma versão prática de Ogura Toast para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Dagashi Kashi. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Ogura toast — torrada espessa com pasta doce de feijão-vermelho",
+      "description": "O Toast Ogura é uma fatia espessa de shokupan torrado, revestida com manteiga e coberta com pasta de feijão vermelho ogura- um doce. É servido imediatamente após o corte, quando o pão ainda está quente e contrasta com o recheio. O brinde permanece crocante sob o ogura an; qualquer creme deve ser adicionado frio apenas quando o brinde é aquecido.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Dagashi Kashi. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "spesse_di_pane_per_toast_giapponese_shokupan": {
-          "name": "Spesse di pane per toast giapponese shokupan",
+          "name": "pão grosso para torrada japonesa Shokupan",
           "note": null
         },
         "burro_di_ottima_qualita_a_temperatura_ambiente": {
-          "name": "Manteiga di ottima qualità a temperatura ambiente",
+          "name": "manteiga de excelente qualidade à temperatura ambiente",
           "note": null
         },
         "confettura_di_fagioli_rossi_ogura_an": {
-          "name": "Confettura di vermelho beans ogura an (anko con chicchi interi)",
+          "name": "Ogura Uma geleia de feijão vermelho (anko com feijão inteiro)",
           "note": null
         },
         "panna_montata_fresca": {
-          "name": "Natas montata fresco (opzionale)",
+          "name": "creme batido fresco (opcional)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte duas fatias de shokupan grossa cerca de 2\"3 cm e traga l\"ogura a temperatura ambiente ou apenas aqueça- a, sem deixá- la secar.",
+        "step_2": "Se o anko for muito compacto, suavize- o com uma colher de chá de água quente e agite até que esteja cremoso, mas não líquido.",
+        "step_3": "Toste o pão em ambos os lados até que a superfície esteja bem dourada e crocante enquanto o centro permanece macio.",
+        "step_4": "Escovar a manteiga no pão quente imediatamente, insistindo também nas bordas para que seja absorvida pela migalha.",
+        "step_5": "Distribuir l' ogura em uma camada generosa e uniforme, sem esmagar o pão.",
+        "step_6": "Se você usar creme batido, adicione- o frio apenas depois de deixar o brinde esfriar por um minuto, para que ele não derreta.",
+        "step_7": "Corte e sirva de forma diagonal imediatamente, mantendo o contraste entre crosta crocante, pão macio, manteiga e anko."
       }
     }
   }

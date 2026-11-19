@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000153",
-  "contentVersion": 1,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "Fast Track 12/12: original recipe reconciled to full procedure and localized risk-specific corrections for IT/EN/ES/FR/DE/PT; FDA/FSIS/FSA and EU species evidence recorded in tool/fast_track_12_repairs.py.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "cm_di_zenzero_grattugiato",
       "quantity": 1,
-      "unit": null
+      "unit": "cm"
     },
     {
       "id": "amido_di_mais",
@@ -60,7 +60,12 @@
       "unit": "piece"
     },
     {
-      "id": "sale_e_pepe_q_b",
+      "id": "sale_e_pepe_q_b_1_sale",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "id": "sale_e_pepe_q_b_2_pepe_q_b",
       "quantity": null,
       "unit": null
     },
@@ -83,11 +88,6 @@
       "id": "zucchero",
       "quantity": 1,
       "unit": "tbsp"
-    },
-    {
-      "id": "spiedini_di_legno_bagnati_nell_acqua",
-      "quantity": 4,
-      "unit": null
     }
   ],
   "steps": [
@@ -105,37 +105,49 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 240
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Tori Tsukune",
-      "description": "A savory Tori Tsukune cooked with controlled direct heat, aiming for good browning outside while keeping the center tender and the finishing sauce glossy.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Midnight Diner. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tori Tsukune — grilled chicken meatballs with tare and egg yolk",
+      "description": "Tori tsukune are skewered ground-chicken meatballs seasoned with spring onions and ginger, pan-grilled and glazed with tare made from soy sauce, mirin, sake and sugar. Cook the chicken to at least 74°C (165°F) at the centre. If serving an egg-yolk dip, use only pasteurized yolk suitable for consumption without cooking; never serve raw unpasteurized yolk.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Midnight Diner. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "macinato_di_pollo": {
-          "name": "Macinato di chicken",
+          "name": "ground chicken",
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Spring onion tritati finemente",
+          "name": "finely chopped spring onions",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "Cm di ginger grated",
+          "name": "Grated ginger",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Cornstarch (katakuriko)",
+          "name": "maize starch (Katakuriko)",
           "note": null
         },
         "uovo": {
-          "name": "Egg (egg white nell'impasto, egg yolk for serving)",
+          "name": "pasteurized egg (white in the mixture, pasteurized yolk for dipping)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Salt e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "salt",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pepper",
           "note": null
         },
         "salsa_di_soia": {
@@ -143,32 +155,30 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
-          "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "Spiedini di legno bagnati nell'water",
+          "name": "sugar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the meat, fish or other main ingredient and mix any glaze or seasoning before heating the pan or grill.",
-        "step_2": "Cook over controlled direct heat until the first side browns well, then turn only as needed so the center stays juicy and the surface develops color.",
-        "step_3": "Add the sauce or glaze near the end and reduce it briefly, coating the food without letting sugar or miso scorch on the hot surface.",
-        "step_4": "Rest briefly when appropriate, slice cleanly and serve with the prepared rice, vegetables or garnish while still hot."
+        "step_1": "Mix the ground chicken with finely chopped spring onions, grated ginger, cornstarch, egg white, salt and pepper until sticky and uniform.",
+        "step_2": "Divide into four elongated portions and shape each firmly around a wooden skewer.",
+        "step_3": "Simmer the soy sauce, mirin, sake and sugar in a small pan until the tare glaze becomes syrupy.",
+        "step_4": "Pan-grill the chicken skewers with a little oil over medium heat for approximately 3–4 minutes per side, checking doneness rather than relying on time alone.",
+        "step_5": "Brush the skewers with tare during the final minutes, turning frequently to coat them evenly.",
+        "step_6": "Serve the glazed skewers with a separate bowl of pasteurized egg yolk suitable for uncooked consumption as a dipping sauce. Cook the chicken meatballs to at least 74°C (165°F) at the centre, measured with a food thermometer. For dipping use only pasteurized egg yolk suitable for eating without cooking; never use unpasteurized raw yolk."
       }
     },
     "it": {
       "title": "Tori Tsukune (Polpette di Pollo alla Piastra con Salsa Tare e Tuorlo)",
-      "description": "Un Tori Tsukune (Polpette di Pollo alla Piastra con Salsa Tare e Tuorlo) saporito cotto con calore diretto controllato, cercando una buona doratura esterna senza asciugare il centro e completando con una salsa lucida.",
+      "description": "I tori tsukune sono polpette allungate di pollo macinato con cipollotto e zenzero, modellate sugli spiedini e cotte in padella, poi glassate con salsa tare a base di soia, mirin, sake e zucchero. Cuoci il pollo fino ad almeno 74 °C al cuore. Per intingere, servi a parte solo tuorlo pastorizzato idoneo al consumo senza cottura, mai tuorlo crudo non pastorizzato.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Midnight Diner. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "macinato_di_pollo": {
@@ -176,11 +186,11 @@
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "cipollotto tritati finemente",
+          "name": "cipollotti tritati finemente",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "cm di zenzero grattugiato",
+          "name": "zenzero grattugiato",
           "note": null
         },
         "amido_di_mais": {
@@ -188,11 +198,15 @@
           "note": null
         },
         "uovo": {
-          "name": "uovo (albume nell'impasto, tuorlo per servire)",
+          "name": "uovo pastorizzato (albume nell'impasto, tuorlo pastorizzato per servire)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sale e pepe q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sale",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pepe",
           "note": null
         },
         "salsa_di_soia": {
@@ -210,46 +224,48 @@
         "zucchero": {
           "name": "zucchero",
           "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "spiedini di legno bagnati nell'acqua",
-          "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, riunisci in una ciotola lavorare il macinato di pollo con cipollotto, zenzero, amido di mais, l'albume d'uovo, sale e pepe finché il composto risulta omogeneo e vischioso.",
-        "step_2": "Prosegui così: dividere l'impasto in 4 porzioni allungate ed modellarle attorno agli spiedini di legno dandogli una forma ovale cilindrica.",
-        "step_3": "Nella fase successiva, metti in un pentolino ridurre i componenti della salsa Tare fino a consistenza sciropposa. Grigliare gli spiedini su una padella con un filo d'olio a fuoco medio per 3-4 minuti per lato. Spennellare generosamente con la salsa Tare negli ultimi minuti rigirandoli spesso.",
-        "step_4": "Per completare, porta in tavolare gli spiedini lucidi e glassati accompagnati da un tuorlo d'uovo fresco in una ciotolina in cui intingere le polpette."
+        "step_1": "In una ciotola, lavora il macinato di pollo con cipollotto, zenzero, amido di mais, l'albume d'uovo, sale e pepe finché il composto risulta omogeneo e vischioso.",
+        "step_2": "Dividi l'impasto in 4 porzioni allungate e modellale attorno agli spiedini di legno dandogli una forma ovale cilindrica.",
+        "step_3": "In un pentolino, riduci i componenti della salsa Tare fino a consistenza sciropposa.",
+        "step_4": "Griglia gli spiedini su una padella con un filo d'olio a fuoco medio per 3-4 minuti per lato.",
+        "step_5": "Spennella generosamente con la salsa Tare negli ultimi minuti rigirandoli spesso.",
+        "step_6": "Servi gli spiedini glassati con il tuorlo pastorizzato idoneo al consumo senza cottura, per intingerli. Cuoci le polpette di pollo fino ad almeno 74 °C al cuore, misurati con un termometro. Per la salsa da intingere usa esclusivamente tuorlo pastorizzato idoneo al consumo senza cottura; non usare un tuorlo fresco crudo non pastorizzato."
       }
     },
     "es": {
-      "title": "Tori Tsukune",
-      "description": "Una versión práctica de Tori Tsukune para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Midnight Diner. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tori tsukune — albóndigas de pollo a la plancha con salsa tare y yema",
+      "description": "Los tori tsukune son albóndigas alargadas de pollo picado con cebolleta y jengibre, moldeadas en brochetas, cocinadas a la plancha y glaseadas con salsa tare de soja, mirin, sake y azúcar. Cocina el pollo hasta alcanzar al menos 74 °C en el centro. Si sirves una yema para mojar, utiliza únicamente yema pasteurizada apta para consumo sin cocción; nunca yema cruda sin pasteurizar.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Midnight Diner. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "macinato_di_pollo": {
-          "name": "Macinato di pollo",
+          "name": "pollo picado",
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Spring cebolla tritati finemente",
+          "name": "Cebolletas picadas finamente",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "Cm di jengibre rallado",
+          "name": "jengibre rallado",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Maicena (katakuriko)",
+          "name": "almidón de maíz (Katakuriko)",
           "note": null
         },
         "uovo": {
-          "name": "Huevo (huevo blanco nell'impasto, huevo yolk para servir)",
+          "name": "huevo pasteurizado (clara en la mezcla y yema para mojar)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sal e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pimienta",
           "note": null
         },
         "salsa_di_soia": {
@@ -257,117 +273,121 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
-          "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "Spiedini di legno bagnati nell'agua",
+          "name": "azúcar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Mezcla el pollo picado con la cebolleta, el jengibre, la maicena, la clara de huevo, sal y pimienta hasta obtener una masa homogénea y pegajosa.",
+        "step_2": "Divide la mezcla en cuatro porciones alargadas y moldea cada una alrededor de una brocheta de madera.",
+        "step_3": "Reduce la salsa de soja, el mirin, el sake y el azúcar en un cazo hasta obtener una salsa tare de textura siruposa.",
+        "step_4": "Cocina las brochetas con un poco de aceite a fuego medio durante unos 3–4 minutos por lado; comprueba la cocción y no dependas únicamente del tiempo.",
+        "step_5": "Pincela con la salsa tare durante los últimos minutos y gira las brochetas para glasearlas uniformemente.",
+        "step_6": "Sirve las brochetas glaseadas con una yema pasteurizada apta para consumo sin cocción en un cuenco aparte para mojar. Cocina las albóndigas de pollo hasta al menos 74 °C en el centro, comprobados con termómetro. Para mojar utiliza solo yema pasteurizada apta para consumo sin cocción; no uses yema cruda sin pasteurizar."
       }
     },
     "fr": {
-      "title": "Tori Tsukune",
-      "description": "Une version pratique de Tori Tsukune à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Midnight Diner. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tori tsukune — boulettes de poulet grillées, sauce tare et jaune d’œuf",
+      "description": "Les tori tsukune sont des boulettes allongées de poulet haché, cébettes et gingembre, façonnées sur des brochettes, cuites à la poêle puis laquées avec une sauce tare à base de soja, mirin, saké et sucre. Faites cuire le poulet à au moins 74 °C à cœur. Si vous proposez un jaune d'œuf en sauce, utilisez uniquement un jaune pasteurisé adapté à la consommation sans cuisson, jamais un jaune cru non pasteurisé.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Midnight Diner. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "macinato_di_pollo": {
-          "name": "Macinato di poulet",
+          "name": "poulet haché",
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Spring oignon tritati finemente",
+          "name": "cébettes finement émincées",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "Cm di gingembre râpé",
+          "name": "gingembre râpé",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Fécule de maïs (katakuriko)",
+          "name": "amidon de maïs (Katakuriko)",
           "note": null
         },
         "uovo": {
-          "name": "Œuf (œuf blanc nell'impasto, œuf yolk pour servir)",
+          "name": "œuf pasteurisé (blanc dans la préparation, jaune pasteurisé pour tremper)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sel e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sel",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "poivre",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "saké",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
-          "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "Spiedini di legno bagnati nell'eau",
+          "name": "sucre",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Mélangez le poulet haché avec les cébettes, le gingembre, la fécule de maïs, le blanc d'œuf, le sel et le poivre jusqu'à obtenir une préparation homogène et collante.",
+        "step_2": "Divisez le mélange en quatre portions allongées et façonnez chacune autour d'une brochette en bois.",
+        "step_3": "Faites réduire la sauce soja, le mirin, le saké et le sucre dans une petite casserole jusqu'à obtenir une sauce tare sirupeuse.",
+        "step_4": "Faites griller les brochettes dans une poêle légèrement huilée à feu moyen pendant environ 3 à 4 minutes par face ; vérifiez la cuisson au lieu de vous fier au seul temps.",
+        "step_5": "Badigeonnez les brochettes de tare en fin de cuisson, en les retournant souvent pour les glacer uniformément.",
+        "step_6": "Servez les brochettes laquées avec un jaune d'œuf pasteurisé adapté à la consommation sans cuisson, dans un bol séparé. Faites cuire les boulettes de poulet à au moins 74 °C à cœur, mesurés au thermomètre. Pour tremper les brochettes, utilisez uniquement du jaune d'œuf pasteurisé adapté à la consommation sans cuisson, jamais un jaune cru non pasteurisé."
       }
     },
     "de": {
-      "title": "Tori Tsukune",
-      "description": "Eine alltagstaugliche Version von Tori Tsukune für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Midnight Diner inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tori Tsukune – gegrillte Hähnchenbällchen mit Tare und Eigelb",
+      "description": "Tori Tsukune sind längliche Spieße aus Hähnchenhackfleisch mit Frühlingszwiebeln und Ingwer, die in der Pfanne gegart und mit Tare aus Sojasauce, Mirin, Sake und Zucker glasiert werden. Das Hähnchenfleisch muss im Kern mindestens 74 °C erreichen. Als Dip nur pasteurisiertes, ausdrücklich zum Verzehr ohne Erhitzen geeignetes Eigelb verwenden; niemals rohes, unpasteurisiertes Eigelb servieren.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Midnight Diner inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "macinato_di_pollo": {
-          "name": "Macinato di Hähnchen",
+          "name": "Hähnchenhackfleisch",
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Spring Zwiebel tritati finemente",
+          "name": "Frühlingszwiebeln, fein gehackt",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "Cm di Ingwer gerieben",
+          "name": "Ingwer gerieben",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Maisstärke (katakuriko)",
+          "name": "Maisstärke (Katakuriko)",
           "note": null
         },
         "uovo": {
-          "name": "Ei (Ei weiß nell'impasto, Ei yolk zum Servieren)",
+          "name": "pasteurisiertes Ei (Eiweiß in der Masse, pasteurisiertes Eigelb zum Dippen)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Salz e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "Salz",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "Pfeffer",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -375,52 +395,54 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
           "name": "Zucker",
           "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "Spiedini di legno bagnati nell'Wasser",
-          "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Hähnchenhackfleisch mit fein geschnittenen Frühlingszwiebeln, Ingwer, Maisstärke, Eiweiß, Salz und Pfeffer zu einer gleichmäßigen, klebrigen Masse vermengen.",
+        "step_2": "Die Masse in vier längliche Portionen teilen und jeweils fest um einen Holzspieß formen.",
+        "step_3": "Sojasauce, Mirin, Sake und Zucker in einem kleinen Topf zu einer sirupartigen Tare-Glasur einkochen.",
+        "step_4": "Die Spieße in einer leicht geölten Pfanne bei mittlerer Hitze etwa 3–4 Minuten pro Seite braten; den Gargrad kontrollieren statt nur auf die Zeit zu achten.",
+        "step_5": "In den letzten Minuten mehrfach mit Tare bestreichen und dabei häufig wenden, damit die Glasur gleichmäßig haftet.",
+        "step_6": "Die glasierten Spieße mit pasteurisiertem, zum Rohverzehr geeignetem Eigelb in einer separaten Schale als Dip servieren. Hähnchenbällchen mit einem Thermometer auf mindestens 74 °C Kerntemperatur garen. Zum Dippen nur pasteurisiertes, für den Rohverzehr geeignetes Eigelb verwenden, niemals rohes unpasteurisiertes Eigelb."
       }
     },
     "pt": {
-      "title": "Tori Tsukune",
-      "description": "Uma versão prática de Tori Tsukune para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Midnight Diner. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tori tsukune — almôndegas de frango grelhadas com molho tare e gema",
+      "description": "Os tori tsukune são almôndegas alongadas de frango picado com cebola de rama e gengibre, moldadas em espetos, cozinhadas na frigideira e glaceadas com molho tare de soja, mirin, saqué e açúcar. Cozinhe o frango até atingir pelo menos 74 °C no centro. Para acompanhar como molho, use apenas gema pasteurizada adequada ao consumo sem cozedura, nunca gema crua não pasteurizada.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Midnight Diner. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "macinato_di_pollo": {
-          "name": "Macinato di frango",
+          "name": "frango picado",
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Spring cebola tritati finemente",
+          "name": "cebolas de rama picadas finamente",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "Cm di gengibre ralado",
+          "name": "Gengibre ralado",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Amido de milho (katakuriko)",
+          "name": "amido de milho (Katakuriko)",
           "note": null
         },
         "uovo": {
-          "name": "Ovo (ovo branco nell'impasto, ovo yolk para servir)",
+          "name": "ovo pasteurizado (clara na mistura, gema pasteurizada para molhar)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sal e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pimenta",
           "note": null
         },
         "salsa_di_soia": {
@@ -428,27 +450,25 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
-          "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "Spiedini di legno bagnati nell'água",
+          "name": "açúcar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Misture o frango picado com cebolinho, gengibre ralado, amido de milho, clara de ovo, sal e pimenta até obter uma massa homogénea e pegajosa.",
+        "step_2": "Divida a mistura em quatro porções alongadas e molde cada uma em volta de um espeto de madeira.",
+        "step_3": "Reduza o molho de soja, o mirin, o saqué e o açúcar num tacho até obter um molho tare xaroposo.",
+        "step_4": "Grelhe os espetos numa frigideira com um pouco de óleo em lume médio durante cerca de 3–4 minutos de cada lado; confirme a cozedura sem confiar apenas no tempo.",
+        "step_5": "Pincele os espetos com molho tare nos últimos minutos, virando-os com frequência para os glacear.",
+        "step_6": "Sirva os espetos glaceados com uma gema pasteurizada adequada ao consumo sem cozedura, numa tigela à parte para molhar. Cozinhe as almôndegas de frango até pelo menos 74 °C no centro, medidos com um termómetro. Para molhar, use apenas gema pasteurizada adequada ao consumo sem cozedura, nunca gema crua não pasteurizada."
       }
     }
   }

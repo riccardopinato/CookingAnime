@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000151",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Dragon Ball",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 30,
   "cookMinutes": 20,
   "servings": 4,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "pizzico_di_sale",
       "quantity": 1,
-      "unit": null
+      "unit": "pinch"
     },
     {
       "id": "maiale_chashu",
@@ -71,16 +71,21 @@
     },
     {
       "id": "salsa_della_brasatura_del_chashu_ridotta",
-      "quantity": null,
-      "unit": null
+      "quantity": 4,
+      "unit": "tbsp"
     },
     {
       "id": "cetriolo_a_fettine_sottili",
+      "quantity": 0.5,
+      "unit": "piece"
+    },
+    {
+      "id": "cipollotto_e_maionese_giapponese_1_cipollotto",
       "quantity": null,
       "unit": null
     },
     {
-      "id": "cipollotto_e_maionese_giapponese",
+      "id": "cipollotto_e_maionese_giapponese_2_maionese_giapponese",
       "quantity": null,
       "unit": null
     }
@@ -96,70 +101,99 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 600
     },
     {
       "id": "step_4",
+      "timerSeconds": 3600
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Chashu Bun",
-      "description": "A soft Japanese-style Chashu Bun with a tender dough or bread base and a clearly defined filling, shaped carefully so the structure remains neat after cooking.",
-      "animeContext": "This recipe is thematically inspired by Dragon Ball, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Chashu Bun — steamed buns stuffed with braised pork",
+      "description": "The Chashu Bun are soft sandwiches of leavened dough, shaped like a shell and steamed. After cooking they are opened and stuffed with glazed chashu pork slices, cucumber and onion. Steam sandwiches rest before cooking, then are opened and filled with frosted chashu, cucumber and onion.",
+      "animeContext": "This recipe is thematically inspired by Dragon Ball, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_tipo_00": {
-          "name": "Flour tipo 00",
+          "name": "flour type 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "dry beer yeast",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm water",
+          "name": "lukewarm water",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral oil",
+          "name": "seed oil",
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di salt",
+          "name": "salt",
           "note": null
         },
         "maiale_chashu": {
-          "name": "Pork chashu (pancia di pork brasata) ripassato in padella",
+          "name": "Chashu pig (braised pork belly) passed into a pan",
           "note": null
         },
         "salsa_della_brasatura_del_chashu_ridotta": {
-          "name": "Sauce della brasatura del chashu ridotta",
+          "name": "reduced Chashu malting sauce",
           "note": null
         },
         "cetriolo_a_fettine_sottili": {
-          "name": "Cetriolo a fettine sottili",
+          "name": "thin slice cucumber",
           "note": null
         },
-        "cipollotto_e_maionese_giapponese": {
-          "name": "Spring onion e maionese giapponese",
+        "cipollotto_e_maionese_giapponese_1_cipollotto": {
+          "name": "spring onion",
+          "note": null
+        },
+        "cipollotto_e_maionese_giapponese_2_maionese_giapponese": {
+          "name": "Japanese mayonnaise",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Mix and knead the dough until smooth and elastic, then let it rest or rise until visibly expanded rather than judging the proof only by time.",
-        "step_2": "Divide the dough evenly and shape each piece with the center thick enough to hold the filling without tearing during cooking.",
-        "step_3": "Add the filling, seal carefully and complete the second proof or short rest before baking, steaming or frying as specified for the bread.",
-        "step_4": "Cook until the exterior is evenly colored and the center is done, then cool or serve warm according to the style of the finished bread."
+        "step_1": "Melt the yeast and sugar in warm water.",
+        "step_2": "In a bowl, add flour, salt, oil and liquid.",
+        "step_3": "Knead for about 10 minutes until you get a smooth and elastic pan.",
+        "step_4": "Let rise for 1 hour until doubling.",
+        "step_5": "Roll out the dough at about 1 cm thick and make 4 oval discs.",
+        "step_6": "Brush the surface with little oil and fold each disc in half, shaped like a shell, inserting a piece of paper oven inside to prevent it from being sold.",
+        "step_7": "Leave the sandwiches to rest for 15 minutes, then cook in the steam basket for about 12 minutes on medium heat.",
+        "step_8": "Gently open the hot sandwiches, remove the inside baking paper.",
+        "step_9": "Make with Chashu slices well frosted with its sauce, slices of fresh cucumber, spring onion and a thread of mayonnaise."
       }
     },
     "it": {
       "title": "Chashu Bun (Panino al Vapore Farcito con Maiale Brasato)",
-      "description": "Un Chashu Bun (Panino al Vapore Farcito con Maiale Brasato) soffice in stile giapponese, con impasto o pane tenero e ripieno ben definito, formato con cura per mantenere una struttura ordinata dopo la cottura.",
+      "description": "I Chashu Bun sono panini soffici di impasto lievitato, modellati a conchiglia e cotti al vapore. Dopo la cottura vengono aperti e farciti con fettine di maiale chashu glassato, cetriolo e cipollotto. I panini a vapore riposano prima della cottura, poi vengono aperti e riempiti con chashu glassato, cetriolo e cipollotto.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Dragon Ball, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "farina_tipo_00": {
@@ -183,7 +217,7 @@
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "pizzico di sale",
+          "name": "sale",
           "note": null
         },
         "maiale_chashu": {
@@ -191,142 +225,169 @@
           "note": null
         },
         "salsa_della_brasatura_del_chashu_ridotta": {
-          "name": "Salsa della brasatura del Chashu ridotta",
+          "name": "salsa della brasatura del Chashu ridotta",
           "note": null
         },
         "cetriolo_a_fettine_sottili": {
-          "name": "Cetriolo a fettine sottili",
+          "name": "cetriolo a fettine sottili",
           "note": null
         },
-        "cipollotto_e_maionese_giapponese": {
-          "name": "Cipollotto e maionese giapponese",
+        "cipollotto_e_maionese_giapponese_1_cipollotto": {
+          "name": "cipollotto",
+          "note": null
+        },
+        "cipollotto_e_maionese_giapponese_2_maionese_giapponese": {
+          "name": "maionese giapponese",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, sciogliere lievito e zucchero nell'acqua tiepida. Riunisci in una ciotola unire farina, sale, olio ed il liquido. Impastare per 10 minuti fino ad ottenere un panetto liscio. Far lievitare coperto per 1 ora fino al raddoppio.",
-        "step_2": "Prosegui così: stendere l'impasto a spessore di 1 cm e ricavare 4 dischi ovali. Spennellare la superficie con poco olio e piegarli a metà su se stessi a forma di conchiglia inserendo un pezzetto di carta forno all'interno.",
-        "step_3": "Nella fase successiva, far riposare i panini 15 minuti, poi cuocerli nel cestello al vapore per 12 minuti a fuoco medio.",
-        "step_4": "Per completare, aprire delicatamente i panini caldi, eliminare la carta forno interna. Farcire con fettine di Chashu ben glassate con la sua salsa, fettine di cetriolo fresco, cipollotto e un filo di maionese."
+        "step_1": "Sciogli il lievito e lo zucchero nell'acqua tiepida.",
+        "step_2": "In una ciotola, unisci farina, sale, olio e il liquido.",
+        "step_3": "Impasta per circa 10 minuti, finché ottieni un panetto liscio ed elastico.",
+        "step_4": "Lascia lievitare coperto per 1 ora fino al raddoppio.",
+        "step_5": "Stendi l'impasto a circa 1 cm di spessore e ricava 4 dischi ovali.",
+        "step_6": "Spennella la superficie con poco olio e piega ogni disco a metà, a forma di conchiglia, inserendo un pezzetto di carta forno all'interno per evitare che si saldi.",
+        "step_7": "Lascia riposare i panini per 15 minuti, poi cuocili nel cestello a vapore per circa 12 minuti a fuoco medio.",
+        "step_8": "Apri delicatamente i panini caldi, elimina la carta forno interna.",
+        "step_9": "Farcisci con fettine di Chashu ben glassate con la sua salsa, fettine di cetriolo fresco, cipollotto e un filo di maionese."
       }
     },
     "es": {
-      "title": "Chashu Bun",
-      "description": "Una versión práctica de Chashu Bun para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Dragon Ball, Food Wars!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Chashu bun — panecillos al vapor rellenos de cerdo braseado",
+      "description": "Los Chashu Bun son sándwiches suaves de masa leudada, moldeados con concha y cocidos al vapor. Después de la cocción se abren y rellenan con rodajas de cerdo chashu glaseado, pepino y cebolla. Los sándwiches de vapor descansan antes de la cocción, luego se abren y llenan con chashu glaseado, pepino y cebolla.",
+      "animeContext": "Esta receta está inspirada temáticamente en Dragon Ball, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_tipo_00": {
-          "name": "Harina tipo 00",
+          "name": "harina tipo 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "levadura de cerveza seca",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm agua",
+          "name": "Agua tibia",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral aceite",
+          "name": "Aceite de semilla",
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di sal",
+          "name": "sal",
           "note": null
         },
         "maiale_chashu": {
-          "name": "Cerdo chashu (pancia di cerdo brasata) ripassato in padella",
+          "name": "cerdo Chashu (panza de cerdo asada) repasada en sartén",
           "note": null
         },
         "salsa_della_brasatura_del_chashu_ridotta": {
-          "name": "Salsa della brasatura del chashu ridotta",
+          "name": "salsa de la brasa del Chashu reducida",
           "note": null
         },
         "cetriolo_a_fettine_sottili": {
-          "name": "Cetriolo a fettine sottili",
+          "name": "pepino de rodajas finas",
           "note": null
         },
-        "cipollotto_e_maionese_giapponese": {
-          "name": "Spring cebolla e maionese giapponese",
+        "cipollotto_e_maionese_giapponese_1_cipollotto": {
+          "name": "cebolleta",
+          "note": null
+        },
+        "cipollotto_e_maionese_giapponese_2_maionese_giapponese": {
+          "name": "mayonesa japonesa",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Disuelve la levadura y el azúcar en agua tibia.",
+        "step_2": "En un tazón, une harina, sal, aceite y líquido.",
+        "step_3": "Amasar durante unos 10 minutos, hasta que consigas un plato liso y elástico.",
+        "step_4": "Deja que la levadura se cubra durante 1 hora hasta que se duplique.",
+        "step_5": "Extiende la masa a aproximadamente 1 cm de espesor y obtiene 4 discos ovalados.",
+        "step_6": "Aprieta la superficie con poco aceite y dobla cada disco por la mitad, en forma de concha, insertando un trozo de papel horno en el interior para evitar que se quede.",
+        "step_7": "Deja reposar los sándwiches durante 15 minutos, luego cocínalos en la cesta de vapor durante unos 12 minutos a fuego medio.",
+        "step_8": "Abre suavemente los sándwiches calientes, elimina el papel del horno interior.",
+        "step_9": "Haz con rodajas de Chashu bien glaseadas con su salsa, rodajas de pepino fresco, cebolleta y un hilo de mayonesa."
       }
     },
     "fr": {
-      "title": "Chashu Bun",
-      "description": "Une version pratique de Chashu Bun à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Dragon Ball, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Chashu bun — brioches vapeur farcies de porc braisé",
+      "description": "Les Chashu Bun sont des sandwichs moelleux de pâte levain, façonnés en coquille et cuits à la vapeur. Après la cuisson, ils sont ouverts et farcis avec des tranches de porc chashu glacé, concombre et oignon. Les sandwiches à vapeur se reposent avant la cuisson, puis sont ouverts et remplis de chashu glacé, concombre et oignon.",
+      "animeContext": "Cette recette s'inspire librement de Dragon Ball, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_tipo_00": {
-          "name": "Farine tipo 00",
+          "name": "farine type 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "levure de bière sèche",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm eau",
+          "name": "eau tiède",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral huile",
+          "name": "huile de graines",
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di sel",
+          "name": "sel",
           "note": null
         },
         "maiale_chashu": {
-          "name": "Porc chashu (pancia di porc brasata) ripassato in padella",
+          "name": "Cochon Chashu (panxon de porc brasé) remis en poêle",
           "note": null
         },
         "salsa_della_brasatura_del_chashu_ridotta": {
-          "name": "Sauce della brasatura del chashu ridotta",
+          "name": "Sauce de brassage du Chashu réduite",
           "note": null
         },
         "cetriolo_a_fettine_sottili": {
-          "name": "Cetriolo a fettine sottili",
+          "name": "concombre à tranches minces",
           "note": null
         },
-        "cipollotto_e_maionese_giapponese": {
-          "name": "Spring oignon e maionese giapponese",
+        "cipollotto_e_maionese_giapponese_1_cipollotto": {
+          "name": "cébette",
+          "note": null
+        },
+        "cipollotto_e_maionese_giapponese_2_maionese_giapponese": {
+          "name": "mayonnaise japonaise",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dissoudre la levure et le sucre dans l'eau tiède.",
+        "step_2": "Dans un bol, ajoutez de la farine, du sel, de l'huile et du liquide.",
+        "step_3": "Pétrissez pendant environ 10 minutes jusqu'à ce que vous obteniez un petit pain lisse et élastique.",
+        "step_4": "Laissez lever couvert pendant 1 heure jusqu'au doublement.",
+        "step_5": "Allongez la pâte à environ 1 cm d'épaisseur et tirez 4 disques ovales.",
+        "step_6": "Spennelle la surface avec peu d'huile et plie chaque disque en moitié, en forme de coquille, en insérant un morceau de papier four à l'intérieur pour éviter qu'il ne se solde.",
+        "step_7": "Laissez reposer les sandwichs pendant 15 minutes, puis faites cuire dans le panier à vapeur pendant environ 12 minutes à feu moyen.",
+        "step_8": "Ouvrez doucement les sandwichs chauds, éliminez le papier four intérieur.",
+        "step_9": "Faites avec des tranches de Chashu bien glaciées avec sa sauce, des tranches de concombre frais, des cébettes et un fil de mayonnaise."
       }
     },
     "de": {
-      "title": "Chashu Bun",
-      "description": "Eine alltagstaugliche Version von Chashu Bun für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Dragon Ball, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Chashu Bun – gedämpfte Brötchen mit geschmortem Schweinefleisch",
+      "description": "Die Chashu Buns sind flauschige Brötchen aus Sauerteig, geformt mit Muscheln und gedämpft gekocht. Nach dem Kochen werden sie geöffnet und mit geglastem Schweineschmalz, Gurke und Zwiebel gefüllt. Die Dampfbrötchen ruhen vor dem Kochen, dann werden sie geöffnet und mit glasiertem Chashu, Gurke und Zwiebel gefüllt.",
+      "animeContext": "Dieses Rezept ist thematisch von Dragon Ball, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_tipo_00": {
-          "name": "Mehl tipo 00",
+          "name": "Mehl Typ 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "Trockenbierhefe",
           "note": null
         },
         "zucchero": {
@@ -334,92 +395,110 @@
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm Wasser",
+          "name": "lauwarmes Wasser",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral Öl",
+          "name": "Samenöl",
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di Salz",
+          "name": "Salz",
           "note": null
         },
         "maiale_chashu": {
-          "name": "Schweinefleisch chashu (pancia di Schweinefleisch brasata) ripassato in padella",
+          "name": "Chashu-Schweine (Schweinespeck) in der Pfanne",
           "note": null
         },
         "salsa_della_brasatura_del_chashu_ridotta": {
-          "name": "Sauce della brasatura del chashu ridotta",
+          "name": "Reduzierte Chashu-Sauce",
           "note": null
         },
         "cetriolo_a_fettine_sottili": {
-          "name": "Cetriolo a fettine sottili",
+          "name": "Gurke mit dünnen Scheiben",
           "note": null
         },
-        "cipollotto_e_maionese_giapponese": {
-          "name": "Spring Zwiebel e maionese giapponese",
+        "cipollotto_e_maionese_giapponese_1_cipollotto": {
+          "name": "Frühlingszwiebel",
+          "note": null
+        },
+        "cipollotto_e_maionese_giapponese_2_maionese_giapponese": {
+          "name": "Japanische Mayonnaise",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Lösen Sie Hefe und Zucker im warmen Wasser.",
+        "step_2": "In einer Schüssel, fügen Sie Mehl, Salz, Öl und Flüssigkeit.",
+        "step_3": "Füge etwa 10 Minuten lang ein, bis du ein glattes, elastisches Päckchen bekommst.",
+        "step_4": "Lassen Sie für 1 Stunde bis zur Verdopplung bedeckt.",
+        "step_5": "Legen Sie den Teig auf ca. 1 cm dick und erhält 4 ovale Scheiben.",
+        "step_6": "Spenden Sie die Oberfläche mit wenig Öl und falten Sie jede Scheibe in der Mitte, in Form einer Schale, indem Sie ein Stück Backpapier innen, um zu verhindern, dass es fest.",
+        "step_7": "Lassen Sie die Sandwiches für 15 Minuten ruhen, dann kochen Sie sie im Dampfkorb für etwa 12 Minuten bei mittlerer Hitze.",
+        "step_8": "Öffne die warmen Sandwiches sanft, lösche das Backpapier.",
+        "step_9": "Machen Sie mit gut geglasten Chashu-Fetzen mit seiner Soße, frischen Gurke-Fetzen, Frühlingszwiebeln und einem Mayonnaisefaden."
       }
     },
     "pt": {
-      "title": "Chashu Bun",
-      "description": "Uma versão prática de Chashu Bun para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Dragon Ball, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Chashu bun — pãezinhos a vapor recheados com porco estufado",
+      "description": "O Chashu Bun é um sanduíche macio de massa leveda, em forma de casca e vaporizado. Após o cozimento, são abertos e recheados com fatias de porco chashu vitrificadas, pepino e cebola. Os sanduíches de vapor descansam antes de cozinhar, em seguida, são abertos e preenchidos com chashu, pepino e cebola.",
+      "animeContext": "Esta receita inspira-se tematicamente em Dragon Ball, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_tipo_00": {
-          "name": "Farinha tipo 00",
+          "name": "tipo farinha 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "fermento de cerveja seca",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "acqua_tiepida": {
-          "name": "Lukewarm água",
+          "name": "Água morna",
           "note": null
         },
         "olio_di_semi": {
-          "name": "Neutral óleo",
+          "name": "óleo de sementes",
           "note": null
         },
         "pizzico_di_sale": {
-          "name": "Pizzico di sal",
+          "name": "sal",
           "note": null
         },
         "maiale_chashu": {
-          "name": "Porco chashu (pancia di porco brasata) ripassato in padella",
+          "name": "Chashu porco (barriga de porco esmagada) passou para uma panela",
           "note": null
         },
         "salsa_della_brasatura_del_chashu_ridotta": {
-          "name": "Molho della brasatura del chashu ridotta",
+          "name": "molho de malte Chashu reduzido",
           "note": null
         },
         "cetriolo_a_fettine_sottili": {
-          "name": "Cetriolo a fettine sottili",
+          "name": "pepino de fatia fina",
           "note": null
         },
-        "cipollotto_e_maionese_giapponese": {
-          "name": "Spring cebola e maionese giapponese",
+        "cipollotto_e_maionese_giapponese_1_cipollotto": {
+          "name": "cebola de rama",
+          "note": null
+        },
+        "cipollotto_e_maionese_giapponese_2_maionese_giapponese": {
+          "name": "Maionesa japonesa",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Derreta a levedura e o açúcar em água morna.",
+        "step_2": "Em uma tigela, adicione farinha, sal, óleo e líquido.",
+        "step_3": "Amarrar por cerca de 10 minutos até obter uma panela suave e elástica.",
+        "step_4": "Deixe subir por 1 hora até duplicar.",
+        "step_5": "Role a massa com cerca de 1 cm de espessura e faça 4 discos ovais.",
+        "step_6": "Escove a superfície com pouco óleo e dobre cada disco ao meio, em forma de shell, inserindo um pedaço de forno de papel dentro para evitar que ele seja vendido.",
+        "step_7": "Deixe os sanduíches descansar por 15 minutos, e depois cozinhe na cesta de vapor por cerca de 12 minutos a fogo médio.",
+        "step_8": "Abra suavemente os sanduíches quentes, remova o papel de cozimento interno.",
+        "step_9": "Faça com fatias de Chashu bem geladas com seu molho, fatias de pepino fresco, cebola de rama e um fio de maionese."
       }
     }
   }

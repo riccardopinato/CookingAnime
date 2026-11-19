@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000063",
-  "contentVersion": 1,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Dragon Ball",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -60,7 +60,12 @@
       "unit": "tsp"
     },
     {
-      "id": "sale_e_pepe_q_b",
+      "id": "sale_e_pepe_q_b_1_sale",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "id": "sale_e_pepe_q_b_2_pepe_q_b",
       "quantity": null,
       "unit": null
     },
@@ -111,40 +116,60 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 60
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Tenshinhan",
-      "description": "A soft, delicate Tenshinhan in which the eggs are cooked only as far as needed, preserving a tender texture and a clean balance with the accompanying sauce or rice.",
-      "animeContext": "This recipe is thematically inspired by Dragon Ball, Food Wars! - Shokugeki no Soma. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tenshinhan — crab omelet over rice with sweet-and-sour sauce",
+      "description": "Tenshinhan combines a soft omelet with crab or surimi with a bowl of hot white rice. An ankake sauce of broth, soy and condiments, thickened with starch, is poured on the omelette only at the end of cooking. The omelet must remain soft on the surface: the hot ankake sauce is poured only after placing it on the rice.",
+      "animeContext": "This recipe is thematically inspired by Dragon Ball, Food Wars! - Shokugeki no Soma. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "riso_bianco_giapponese_cotto_a_vapore": {
-          "name": "White rice giapponese cotto a vapore (gohan)",
+          "name": "White rice Japanese steamed (Gohan)",
           "note": null
         },
         "uovo_grandi_fresche": {
-          "name": "Egg grandi fresh",
+          "name": "fresh large eggs",
           "note": null
         },
         "polpa_di_granchio_o_surimi_sfilacciato": {
-          "name": "Polpa di crab o surimi sfilacciato",
+          "name": "Crab pulp or frayed Surimi",
           "note": null
         },
         "cipollotto_freschi_affettati_finemente": {
-          "name": "Spring onion fresh affettati finemente",
+          "name": "fresh spring onions, finely sliced",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Salt e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "salt",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pepper",
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Chicken broth",
+          "name": "chicken broth",
           "note": null
         },
         "salsa_di_soia": {
@@ -152,7 +177,7 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "aceto_di_riso": {
@@ -160,24 +185,28 @@
           "note": null
         },
         "salsa_d_ostrica": {
-          "name": "Sauce d'ostrica",
+          "name": "oyster sauce",
           "note": null
         },
         "amido_di_mais_sciolto_in_2_cucchiai_d_acqua": {
-          "name": "Cornstarch sciolto in 2 cucchiai d'water",
+          "name": "corn starch dissolved in 2 tablespoons of water",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the egg mixture and accompanying sauce or rice before heating the pan, mixing gently so the eggs do not become excessively foamy.",
-        "step_2": "Cook over moderate heat and move or roll the eggs only until they are softly set, keeping the center tender rather than dry.",
-        "step_3": "Transfer or shape the egg component while still flexible and combine it with the prepared rice, filling or sauce without overcooking it.",
-        "step_4": "Finish with the remaining sauce and garnish, then serve immediately because residual heat continues to firm the eggs."
+        "step_1": "In a saucepan, add chicken broth, soy sauce, sugar, rice vinegar and oyster sauce.",
+        "step_2": "Bring to light boiling over medium heat, then add the melted cornstarch and mix continuously until you get a shiny sauce, thickened and velvety, keep warm.",
+        "step_3": "In a bowl, gently beat the four eggs with a pinch of salt and pepper, the sesame oil, shredded crabmeat and half the finely sliced spring onions.",
+        "step_4": "Warm up a large amount of oil in a non-stick pan over a lively heat.",
+        "step_5": "Add half of the egg mixture for each portion.",
+        "step_6": "Continue cooking for 1 minute by moving the pan so that the base is represented but the top remains incredibly creamy and soft.",
+        "step_7": "Place the golden omelet over a mountain of hot rice placed in the middle of a bottom dish.",
+        "step_8": "Coat the omelette generously with the hot sweet-and-sour ankake sauce and garnish with the remaining spring onions."
       }
     },
     "it": {
       "title": "Tenshinhan (Omelette di Granchio su Riso con Salsa Agrodolce)",
-      "description": "Un Tenshinhan (Omelette di Granchio su Riso con Salsa Agrodolce) morbido e delicato, in cui l’uovo viene cotto solo quanto basta per restare tenero e integrarsi con salsa, riso o guarnizioni senza asciugarsi.",
+      "description": "Il Tenshinhan accosta un’omelette morbida con granchio o surimi a una ciotola di riso bianco caldo. Una salsa ankake di brodo, soia e condimenti, addensata con amido, viene versata sulla frittata soltanto al termine della cottura. L'omelette deve rimanere morbida sulla superficie: la salsa ankake calda viene versata soltanto dopo averla appoggiata sul riso.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Dragon Ball, Food Wars! - Shokugeki no Soma. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "riso_bianco_giapponese_cotto_a_vapore": {
@@ -185,7 +214,7 @@
           "note": null
         },
         "uovo_grandi_fresche": {
-          "name": "uovo grandi fresche",
+          "name": "uova grandi fresche",
           "note": null
         },
         "polpa_di_granchio_o_surimi_sfilacciato": {
@@ -193,15 +222,19 @@
           "note": null
         },
         "cipollotto_freschi_affettati_finemente": {
-          "name": "cipollotto freschi affettati finemente",
+          "name": "cipollotti freschi affettati finemente",
           "note": null
         },
         "olio_di_sesamo": {
           "name": "olio di sesamo",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "sale e pepe q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sale",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pepe",
           "note": null
         },
         "brodo_di_pollo": {
@@ -230,43 +263,51 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, metti in un pentolino unisci il brodo di pollo, la salsa di soia, lo zucchero, l'aceto di riso e la salsa d'ostrica. Porta a leggera ebollizione a fuoco medio, poi aggiungi a filo l'amido di mais sciolto amalgamando continuamente fino a ottenere una salsa lucida, addensata e vellutata. Mantieni al caldo.",
-        "step_2": "Prosegui così: riunisci in una ciotola lavora leggermente le 4 uova con un pizzico di sale, pepe, l'olio di sesamo, la polpa di granchio sfilacciata e metà dei cipollotti.",
-        "step_3": "Nella fase successiva, porta a temperatura un filo d'olio abbondante in una padella antiaderente a fuoco vivo. Aggiungi metà della miscela di uova per ciascuna porzione. Prosegui la cottura per 1 minuto muovendo la padella in modo che la base si rapprenda ma la parte superiore rimanga incredibilmente cremosa e morbida. Poggia l'omelette dorata sopra una montagna di riso caldo disposta al centro di un piatto fondo.",
-        "step_4": "Per completare, nappa abbondantemente l'omelette con la salsa agrodolce Ankake ben calda e guarnisci con i cipollotti rimanenti."
+        "step_1": "In un pentolino, unisci il brodo di pollo, la salsa di soia, lo zucchero, l'aceto di riso e la salsa d'ostrica.",
+        "step_2": "Porta a leggera ebollizione a fuoco medio, poi aggiungi a filo l'amido di mais sciolto amalgamando continuamente fino a ottenere una salsa lucida, addensata e vellutata, mantieni al caldo.",
+        "step_3": "In una ciotola, lavora leggermente le 4 uova con un pizzico di sale, pepe, l'olio di sesamo, la polpa di granchio sfilacciata e metà dei cipollotti.",
+        "step_4": "Scalda un filo d'olio abbondante in una padella antiaderente a fuoco vivo.",
+        "step_5": "Aggiungi metà della miscela di uova per ciascuna porzione.",
+        "step_6": "Prosegui la cottura per 1 minuto muovendo la padella in modo che la base si rapprenda ma la parte superiore rimanga incredibilmente cremosa e morbida.",
+        "step_7": "Poggia l'omelette dorata sopra una montagna di riso caldo disposta al centro di un piatto fondo.",
+        "step_8": "Nappa abbondantemente l'omelette con la salsa agrodolce Ankake ben calda e guarnisci con i cipollotti rimanenti."
       }
     },
     "es": {
-      "title": "Tenshinhan",
-      "description": "Una versión práctica de Tenshinhan para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Dragon Ball, Food Wars! - Shokugeki no Soma. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tenshinhan — tortilla de cangrejo sobre arroz con salsa agridulce",
+      "description": "El Tenshinhan se acerca a una tortilla suave con cangrejo o surimi a un tazón de arroz blanco caliente. Una salsa ankake de caldo, soja y condimentos, espesada con almidón, se vierte en la tortilla sólo al final de la cocción. La tortilla debe permanecer suave en la superficie: la salsa ankake caliente sólo se derrama después de haberla apoyado en el arroz.",
+      "animeContext": "Esta receta está inspirada temáticamente en Dragon Ball, Food Wars! - Shokugeki no Soma. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "riso_bianco_giapponese_cotto_a_vapore": {
-          "name": "Blanco arroz giapponese cotto a vapore (gohan)",
+          "name": "arroz blanco Japonés cocido a vapor (Gohan)",
           "note": null
         },
         "uovo_grandi_fresche": {
-          "name": "Huevo grandi fresco",
+          "name": "Huevos grandes frescos",
           "note": null
         },
         "polpa_di_granchio_o_surimi_sfilacciato": {
-          "name": "Polpa di cangrejo o surimi sfilacciato",
+          "name": "Carne de cangrejo o de surimi desfilada",
           "note": null
         },
         "cipollotto_freschi_affettati_finemente": {
-          "name": "Spring cebolla fresco affettati finemente",
+          "name": "cebolletas frescas, finamente cortadas",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame aceite",
+          "name": "Aceite de sésamo",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sal e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pimienta",
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Pollo caldo",
+          "name": "caldo de pollo",
           "note": null
         },
         "salsa_di_soia": {
@@ -274,125 +315,141 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "aceto_di_riso": {
-          "name": "Vinagre de arroz",
+          "name": "vinagre de arroz",
           "note": null
         },
         "salsa_d_ostrica": {
-          "name": "Salsa d'ostrica",
+          "name": "Salsa de ostra",
           "note": null
         },
         "amido_di_mais_sciolto_in_2_cucchiai_d_acqua": {
-          "name": "Maicena sciolto in 2 cucchiai d'agua",
+          "name": "almidón de maíz disuelto en 2 cucharadas de agua",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una olla, une el caldo de pollo, la salsa de soja, el azúcar, el vinagre de arroz y la salsa de ostra.",
+        "step_2": "Trae a ligera ebullición a fuego medio, luego añade a hilo el almidón de maíz disuelto amalgamando continuamente hasta obtener una salsa brillante, espesada y aterciopelada, mantén el calor.",
+        "step_3": "En un cuenco, bate ligeramente los cuatro huevos con una pizca de sal y pimienta, el aceite de sésamo, la carne de cangrejo desmenuzada y la mitad de las cebolletas cortadas finas.",
+        "step_4": "Calienta un hilo de aceite abundante en una sartén antiadherente a fuego vivo.",
+        "step_5": "Añadir la mitad de la mezcla de huevos por cada porción.",
+        "step_6": "Sigue cocinando durante 1 minuto moviendo la sartén para que la base cuaje pero la parte superior se mantenga increíblemente cremosa y suave.",
+        "step_7": "Pone la tortilla dorada sobre una montaña de arroz caliente colocada en el centro de un plato de fondo.",
+        "step_8": "Cubre generosamente la tortilla con la salsa ankake agridulce bien caliente y termina con las cebolletas restantes."
       }
     },
     "fr": {
-      "title": "Tenshinhan",
-      "description": "Une version pratique de Tenshinhan à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Dragon Ball, Food Wars! - Shokugeki no Soma. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tenshinhan — omelette au crabe sur riz, sauce aigre-douce",
+      "description": "Le Tenshinhan propose une sauce doux avec du crabe ou du surimi à un bol de riz blanc chaud. Une sauce d'ankake de bouillon, de soja et de condiments, épaissie avec de l'amidon, n'est versée sur la frittata qu'à la fin de la cuisson. L'omelette doit rester douce à la surface: la sauce ankake chaude n'est versée qu'après l'avoir posée sur le riz.",
+      "animeContext": "Cette recette s'inspire librement de Dragon Ball, Food Wars! - Shokugeki no Soma. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "riso_bianco_giapponese_cotto_a_vapore": {
-          "name": "Blanc riz giapponese cotto a vapore (gohan)",
+          "name": "riz blanc japonais cuit à la vapeur (Gohan)",
           "note": null
         },
         "uovo_grandi_fresche": {
-          "name": "Œuf grandi frais",
+          "name": "œufs grands frais",
           "note": null
         },
         "polpa_di_granchio_o_surimi_sfilacciato": {
-          "name": "Polpa di crabe o surimi sfilacciato",
+          "name": "pulpe de crabe ou de surimi effilé",
           "note": null
         },
         "cipollotto_freschi_affettati_finemente": {
-          "name": "Spring oignon frais affettati finemente",
+          "name": "cébettes fraîches finement émincées",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sel e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sel",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "poivre",
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Poulet bouillon",
+          "name": "bouillon de poulet",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "aceto_di_riso": {
-          "name": "Vinaigre de riz",
+          "name": "vinaigre de riz",
           "note": null
         },
         "salsa_d_ostrica": {
-          "name": "Sauce d'ostrica",
+          "name": "Sauce d'huître",
           "note": null
         },
         "amido_di_mais_sciolto_in_2_cucchiai_d_acqua": {
-          "name": "Fécule de maïs sciolto in 2 cucchiai d'eau",
+          "name": "amidon de maïs dissous dans 2 cuillères à soupe d'eau",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une casserole, ajoutez le bouillon de poulet, la sauce de soja, le sucre, le vinaigre de riz et la sauce d'huître.",
+        "step_2": "Il porte à léger ébullition à feu moyen, puis ajoute l'amidon de maïs dissous en mélangeant continuellement jusqu'à obtenir une sauce brillante, épaissie et veloutée, maintenez au chaud.",
+        "step_3": "Dans un bol, battez légèrement les quatre œufs avec une pincée de sel et de poivre, l'huile de sésame, la chair de crabe effilochée et la moitié des cébettes finement émincées.",
+        "step_4": "Chauffez un fil d'huile abondant dans une poêle anti-adhérente à feu vif.",
+        "step_5": "Ajouter la moitié du mélange d'œufs pour chaque portion.",
+        "step_6": "Continuez la cuisson pendant 1 minute en déplaçant la poêle afin que la base se représente mais la partie supérieure reste incroyablement crémeuse et douce.",
+        "step_7": "Posez l'omelette dorée au-dessus d'une montagne de riz chaud au centre d'un plat de fond.",
+        "step_8": "Nappez généreusement l'omelette de sauce ankake aigre-douce bien chaude et parsemez du reste des cébettes."
       }
     },
     "de": {
-      "title": "Tenshinhan",
-      "description": "Eine alltagstaugliche Version von Tenshinhan für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Dragon Ball, Food Wars! - Shokugeki no Soma inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tenshinhan – Krabbenomelett auf Reis mit süßsaurer Sauce",
+      "description": "Der Tenshinhan bringt ein weiches, mit Krabben oder Surimi verstopfte Sauce mit einer Schüssel aus heißem weißem Reis. Eine Ankake-Sauce aus Brühe, Soja und Gewürzen, die mit Stärke verdichtet ist, wird erst nach dem Kochen auf die Frittata ausgegossen. Das Omelette muss auf der Oberfläche weich bleiben: Die heiße Ankake-Sauce wird erst nach dem Aufsetzen auf den Reis ausgegossen.",
+      "animeContext": "Dieses Rezept ist thematisch von Dragon Ball, Food Wars! - Shokugeki no Soma inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "riso_bianco_giapponese_cotto_a_vapore": {
-          "name": "Weiß Reis giapponese cotto a vapore (gohan)",
+          "name": "Japanischer Reis, gedämpft (Gohan)",
           "note": null
         },
         "uovo_grandi_fresche": {
-          "name": "Ei grandi frisch",
+          "name": "Frische Großeier",
           "note": null
         },
         "polpa_di_granchio_o_surimi_sfilacciato": {
-          "name": "Polpa di Krabbe o surimi sfilacciato",
+          "name": "Krabbenfleisch oder Surimi",
           "note": null
         },
         "cipollotto_freschi_affettati_finemente": {
-          "name": "Spring Zwiebel frisch affettati finemente",
+          "name": "frische Frühlingszwiebeln, fein geschnitten",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Salz e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "Salz",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "Pfeffer",
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Hähnchen Brühe",
+          "name": "Hühnerbrühe",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "zucchero": {
@@ -404,52 +461,60 @@
           "note": null
         },
         "salsa_d_ostrica": {
-          "name": "Sauce d'ostrica",
+          "name": "Austernsoße",
           "note": null
         },
         "amido_di_mais_sciolto_in_2_cucchiai_d_acqua": {
-          "name": "Maisstärke sciolto in 2 cucchiai d'Wasser",
+          "name": "Maisstärke gelöst in 2 Esslöffel Wasser",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einem Topf mischen Sie Hühnerbrühe, Sojasoße, Zucker, Reisessig und Austersoße.",
+        "step_2": "Bringt bei mittlerer Hitze leicht kochen, dann fügen Sie die geschmolzene Maisstärke durch ständiges Mischen hinzu, bis eine glänzende, verdichtete und samtige Soße erhalten ist, und halten Sie warm.",
+        "step_3": "In einer Schüssel die vier Eier leicht mit etwas Salz und Pfeffer, Sesamöl, zerpflücktem Krabbenfleisch und der Hälfte der fein geschnittenen Frühlingszwiebeln verquirlen.",
+        "step_4": "Erhitzen Sie einen reichlichen Ölfaden in einer Pfanne, die bei lebendigem Feuer brennt.",
+        "step_5": "Fügen Sie die Hälfte der Eiermischung für jede Portion hinzu.",
+        "step_6": "Fahren Sie mit dem Kochen für 1 Minute, indem Sie die Pfanne bewegen, so dass die Basis repräsentiert, aber die Oberseite bleibt unglaublich cremig und weich.",
+        "step_7": "Legen Sie das goldene Omelette über einen Berg warmen Reis in der Mitte eines Bodentellers.",
+        "step_8": "Das Omelett großzügig mit der heißen süß-sauren Ankake-Sauce überziehen und mit den restlichen Frühlingszwiebeln garnieren."
       }
     },
     "pt": {
-      "title": "Tenshinhan",
-      "description": "Uma versão prática de Tenshinhan para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Dragon Ball, Food Wars! - Shokugeki no Soma. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tenshinhan — omelete de caranguejo sobre arroz com molho agridoce",
+      "description": "Tenshinhan combina uma omeleta macia com caranguejo ou surimi com uma tigela de arroz branco quente. Um molho ancake de caldo, soja e condimentos, espessado com amido, é derramado na omeleta apenas no final do cozimento. A omeleta deve permanecer suave na superfície: o molho de ancake quente só é derramado após colocá- lo no arroz.",
+      "animeContext": "Esta receita inspira-se tematicamente em Dragon Ball, Food Wars! - Shokugeki no Soma. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "riso_bianco_giapponese_cotto_a_vapore": {
-          "name": "Branco arroz giapponese cotto a vapore (gohan)",
+          "name": "Arroz branco japonês vaporizado (Gohan)",
           "note": null
         },
         "uovo_grandi_fresche": {
-          "name": "Ovo grandi fresco",
+          "name": "ovos grandes frescos",
           "note": null
         },
         "polpa_di_granchio_o_surimi_sfilacciato": {
-          "name": "Polpa di caranguejo o surimi sfilacciato",
+          "name": "Pulpa de crabe ou Surimi desgastado",
           "note": null
         },
         "cipollotto_freschi_affettati_finemente": {
-          "name": "Spring cebola fresco affettati finemente",
+          "name": "cebolas de rama frescas, finamente cortadas",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sal e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pimenta",
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Frango caldo",
+          "name": "caldo de frango",
           "note": null
         },
         "salsa_di_soia": {
@@ -457,7 +522,7 @@
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "aceto_di_riso": {
@@ -465,19 +530,23 @@
           "note": null
         },
         "salsa_d_ostrica": {
-          "name": "Molho d'ostrica",
+          "name": "molho de ostras",
           "note": null
         },
         "amido_di_mais_sciolto_in_2_cucchiai_d_acqua": {
-          "name": "Amido de milho sciolto in 2 cucchiai d'água",
+          "name": "amido de milho dissolvido em 2 colheres de água",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Em uma panela, adicione caldo de frango, molho de soja, açúcar, vinagre de arroz e molho de ostras.",
+        "step_2": "Traga à luz fervendo a fogo médio, em seguida, adicione o amido de milho derretido e misture continuamente até obter um molho brilhante, espessado e veludo, mantenha- se aquecido.",
+        "step_3": "Numa tigela, bate ligeiramente os quatro ovos com uma pitada de sal e pimenta, o óleo de sésamo, a carne de caranguejo desfiada e metade das cebolas de rama finamente cortadas.",
+        "step_4": "Aqueça uma grande quantidade de óleo numa panela antiaderente sobre um calor vivo.",
+        "step_5": "Adicione metade da mistura de ovos para cada porção.",
+        "step_6": "Continue cozindo por 1 minuto movendo a panela para que a base seja representada, mas o topo permanece incrivelmente cremoso e macio.",
+        "step_7": "Coloque a omeleta dourada sobre uma montanha de arroz quente colocado no meio de um prato inferior.",
+        "step_8": "Cobre generosamente a omelete com o molho ankake agridoce bem quente e guarnece com as restantes cebolas de rama."
       }
     }
   }

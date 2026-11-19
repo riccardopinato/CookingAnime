@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000083",
-  "contentVersion": 1,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Ramen Daisuki Koizumi-san",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 25,
   "cookMinutes": 45,
   "servings": 2,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "fettine_di_carne_chashu_di_maiale",
       "quantity": 4,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "uovo_ajitsuke_tamago",
@@ -86,8 +86,8 @@
     },
     {
       "id": "germogli_di_bambu",
-      "quantity": null,
-      "unit": null
+      "quantity": 50,
+      "unit": "g"
     },
     {
       "id": "cipollotto",
@@ -106,37 +106,49 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 360
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Tsukemen",
-      "description": "A practical bowl of Tsukemen, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Ramen Daisuki Koizumi-san, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tsukemen — dipping ramen with concentrated broth",
+      "description": "Tsukemen is a Japanese dipping-noodle dish: thick noodles are cooked, rinsed and served cold beside a concentrated pork-and-chicken broth seasoned with soy sauce, mirin, rice vinegar, chilli oil and katsuobushi. Pork chashu, marinated egg and nori accompany the noodles. Dip each portion into the very hot broth just before eating rather than soaking all the noodles at once.",
+      "animeContext": "This recipe is thematically inspired by Ramen Daisuki Koizumi-san, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "spessi_noodles_per_tsukemen_o_ramen": {
-          "name": "Spessi noodles per tsukemen o ramen",
+          "name": "thick noodles for Tsukemen or Ramen",
           "note": null
         },
         "fettine_di_carne_chashu_di_maiale": {
-          "name": "Fettine di carne chashu di pork",
+          "name": "pork chashu slices",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Egg ajitsuke tamago (eggs marinate)",
+          "name": "marinated eggs (ajitsuke tamago)",
           "note": null
         },
         "brodo_di_maiale_pollo_concentrato": {
-          "name": "Broth di pork/chicken concentrato",
+          "name": "concentrated pork-and-chicken broth",
           "note": null
         },
         "polvere_di_pesce": {
-          "name": "Polvere di pesce (katsuobushi povere)",
+          "name": "katsuobushi powder (dried bonito fish)",
           "note": null
         },
         "salsa_di_soia": {
@@ -152,7 +164,7 @@
           "note": null
         },
         "olio_piccante": {
-          "name": "Oil piccante",
+          "name": "spicy oil",
           "note": null
         },
         "nori": {
@@ -160,24 +172,27 @@
           "note": null
         },
         "germogli_di_bambu": {
-          "name": "Bamboo shoots (menma)",
+          "name": "bamboo shoots (menma)",
           "note": null
         },
         "cipollotto": {
-          "name": "Spring onion",
+          "name": "spring onion",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Simmer the pork-and-chicken broth in a small saucepan until it reduces and becomes rich and concentrated.",
+        "step_2": "Stir in the soy sauce, mirin, rice vinegar, chilli oil and katsuobushi powder to create an umami-rich dipping broth.",
+        "step_3": "Cook the thick noodles in plenty of boiling water for the time on the packet (usually 5–6 minutes).",
+        "step_4": "Drain the noodles at once, rinse them under very cold running water (with ice if available) to remove surface starch, gently separate the strands and drain thoroughly until firm and springy.",
+        "step_5": "Arrange the cold noodles on a plate or bamboo tray. Top with pork chashu slices, a halved marinated egg and a sheet of nori.",
+        "step_6": "Pour the very hot concentrated broth into a separate small bowl.",
+        "step_7": "Pick up a small portion of cold noodles with chopsticks, briefly dip it into the hot broth and eat immediately."
       }
     },
     "it": {
       "title": "Tsukemen (Ramen con Brodo Concentrato da Intingolo)",
-      "description": "Una versione pratica di Tsukemen (Ramen con Brodo Concentrato da Intingolo), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "I tsukemen sono noodles spessi cotti, sciacquati e serviti freddi, separati da un brodo concentrato di maiale e pollo insaporito con salsa di soia, mirin, aceto di riso, olio piccante e katsuobushi. Chashu di maiale, uovo marinato e nori completano il piatto. Ogni boccone di noodles va intinto nel brodo ben caldo solo al momento di mangiarlo, senza immergere tutta la porzione in anticipo.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Ramen Daisuki Koizumi-san, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "spessi_noodles_per_tsukemen_o_ramen": {
@@ -189,7 +204,7 @@
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "uovo Ajitsuke Tamago (uova marinate)",
+          "name": "uova marinate Ajitsuke Tamago",
           "note": null
         },
         "brodo_di_maiale_pollo_concentrato": {
@@ -197,7 +212,7 @@
           "note": null
         },
         "polvere_di_pesce": {
-          "name": "polvere di pesce (Katsuobushi povere)",
+          "name": "polvere di katsuobushi (bonito essiccato)",
           "note": null
         },
         "salsa_di_soia": {
@@ -230,35 +245,38 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, metti in un pentolino riduci il brodo di maiale e pollo lasciandolo sobbollire finché diventa molto denso e saporito. Unisci la salsa di soia, il Mirin, l'aceto di riso, l'olio piccante e la polvere di pesce Katsuobushi per dare una spinta umami intensa.",
-        "step_2": "Prosegui così: lascia cuocere i noodles spessi in abbondante acqua bollente per il tempo indicato sulla confezione (di solito 5-6 minuti).",
-        "step_3": "Nella fase successiva, scola i noodles e sciacquali immediatamente sotto acqua corrente fredda e ghiaccio lavorandoli con le mani per rimuovere l'amido superficiale e renderli estremamente elastici e sodi. Scolali benissimo. Sistema i noodles freddi su un piatto o cestino di bambù con sopra il Chashu, l'uovo marinato a metà e il foglio di Nori. Aggiungi il brodo bollente e concentrato in una ciotolina separata.",
-        "step_4": "Per completare, prendi una ciocca di noodles freddi con le bacchette, intingila nel brodo bollente concentrato e gustala subito."
+        "step_1": "In un pentolino, riduci il brodo di maiale e pollo lasciandolo sobbollire finché diventa molto denso e saporito.",
+        "step_2": "Unisci la salsa di soia, il Mirin, l'aceto di riso, l'olio piccante e la polvere di pesce Katsuobushi per dare una spinta umami intensa.",
+        "step_3": "Cuoci i noodles spessi in abbondante acqua bollente per il tempo indicato sulla confezione (di solito 5-6 minuti).",
+        "step_4": "Scola i noodles e sciacquali immediatamente sotto acqua corrente fredda e ghiaccio lavorandoli con le mani per rimuovere l'amido superficiale e renderli estremamente elastici e sodi, scolali benissimo.",
+        "step_5": "Sistema i noodles freddi su un piatto o cestino di bambù con sopra il Chashu, l'uovo marinato a metà e il foglio di Nori.",
+        "step_6": "Aggiungi il brodo bollente e concentrato in una ciotolina separata.",
+        "step_7": "Prendi una ciocca di noodles freddi con le bacchette, intingila nel brodo bollente concentrato e gustala subito."
       }
     },
     "es": {
-      "title": "Tsukemen",
-      "description": "Una versión práctica de Tsukemen para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Ramen Daisuki Koizumi-san, Food Wars!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tsukemen — ramen para mojar en caldo concentrado",
+      "description": "El tsukemen es un plato japonés de fideos gruesos cocidos, enjuagados y servidos fríos junto a un caldo concentrado de cerdo y pollo con salsa de soja, mirin, vinagre de arroz, aceite picante y katsuobushi. Se acompaña de chashu de cerdo, huevo marinado y nori. Sumerge cada porción de fideos en el caldo muy caliente justo antes de comerla, sin dejar todos los fideos en remojo.",
+      "animeContext": "Esta receta está inspirada temáticamente en Ramen Daisuki Koizumi-san, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "spessi_noodles_per_tsukemen_o_ramen": {
-          "name": "Spessi noodles per tsukemen o ramen",
+          "name": "fideos gruesos para Tsukemen o Ramen",
           "note": null
         },
         "fettine_di_carne_chashu_di_maiale": {
-          "name": "Fettine di carne chashu di cerdo",
+          "name": "rodajas de carne Chashu de cerdo",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Huevo ajitsuke tamago (huevos marinate)",
+          "name": "huevos marinados Ajitsuke Tamago",
           "note": null
         },
         "brodo_di_maiale_pollo_concentrato": {
-          "name": "Caldo di cerdo/pollo concentrato",
+          "name": "caldo concentrado de cerdo y pollo",
           "note": null
         },
         "polvere_di_pesce": {
-          "name": "Polvere di pesce (katsuobushi povere)",
+          "name": "katsuobushi en polvo (bonito seco molido)",
           "note": null
         },
         "salsa_di_soia": {
@@ -270,11 +288,11 @@
           "note": null
         },
         "aceto_di_riso": {
-          "name": "Vinagre de arroz",
+          "name": "vinagre de arroz",
           "note": null
         },
         "olio_piccante": {
-          "name": "Aceite piccante",
+          "name": "aceite picante",
           "note": null
         },
         "nori": {
@@ -282,48 +300,51 @@
           "note": null
         },
         "germogli_di_bambu": {
-          "name": "Brotes de bambú (menma)",
+          "name": "Brotes de bambú (Menma)",
           "note": null
         },
         "cipollotto": {
-          "name": "Spring cebolla",
+          "name": "cebolleta",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Pon el caldo de cerdo y pollo a fuego suave en un cazo y deja que reduzca hasta quedar muy concentrado y sabroso.",
+        "step_2": "Incorpora la salsa de soja, el mirin, el vinagre de arroz, el aceite picante y el katsuobushi en polvo para conseguir un caldo de inmersión rico en umami.",
+        "step_3": "Cuece los fideos gruesos en abundante agua hirviendo durante el tiempo indicado en el envase (normalmente 5–6 minutos).",
+        "step_4": "Escurre enseguida los fideos, enjuágalos bajo agua corriente muy fría (con hielo si es posible) para retirar el almidón superficial, sepáralos suavemente y vuelve a escurrirlos bien hasta que queden firmes y elásticos.",
+        "step_5": "Coloca los fideos fríos en un plato o bandeja de bambú y acompáñalos con lonchas de chashu de cerdo, medio huevo marinado y una lámina de nori.",
+        "step_6": "Sirve el caldo concentrado muy caliente en un cuenco pequeño separado.",
+        "step_7": "Toma una pequeña porción de fideos fríos con los palillos, sumérgela brevemente en el caldo caliente y cómela inmediatamente."
       }
     },
     "fr": {
-      "title": "Tsukemen",
-      "description": "Une version pratique de Tsukemen à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Ramen Daisuki Koizumi-san, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tsukemen — ramen à tremper dans un bouillon concentré",
+      "description": "Les tsukemen sont des nouilles japonaises épaisses, cuites, rincées et servies froides à côté d'un bouillon concentré de porc et de poulet assaisonné de sauce soja, mirin, vinaigre de riz, huile pimentée et katsuobushi. Du chashu de porc, un œuf mariné et du nori accompagnent les nouilles. Trempez chaque bouchée dans le bouillon bien chaud juste avant de la déguster, sans immerger toutes les nouilles d'un coup.",
+      "animeContext": "Cette recette s'inspire librement de Ramen Daisuki Koizumi-san, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "spessi_noodles_per_tsukemen_o_ramen": {
-          "name": "Spessi noodles per tsukemen o ramen",
+          "name": "nouilles épaisses pour tsukemen ou ramen",
           "note": null
         },
         "fettine_di_carne_chashu_di_maiale": {
-          "name": "Fettine di carne chashu di porc",
+          "name": "tranches de chashu de porc",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Œuf ajitsuke tamago (œufs marinate)",
+          "name": "oeufs marinés Ajitsuke Tamago",
           "note": null
         },
         "brodo_di_maiale_pollo_concentrato": {
-          "name": "Bouillon di porc/poulet concentrato",
+          "name": "bouillon de porc/poulet concentré",
           "note": null
         },
         "polvere_di_pesce": {
-          "name": "Polvere di pesce (katsuobushi povere)",
+          "name": "katsuobushi en poudre (bonite séchée moulue)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
@@ -331,11 +352,11 @@
           "note": null
         },
         "aceto_di_riso": {
-          "name": "Vinaigre de riz",
+          "name": "vinaigre de riz",
           "note": null
         },
         "olio_piccante": {
-          "name": "Huile piccante",
+          "name": "huile épicée",
           "note": null
         },
         "nori": {
@@ -343,48 +364,51 @@
           "note": null
         },
         "germogli_di_bambu": {
-          "name": "Pousses de bambou (menma)",
+          "name": "pousses de bambou (Menma)",
           "note": null
         },
         "cipollotto": {
-          "name": "Spring oignon",
+          "name": "cébette",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Faites doucement réduire le bouillon de porc et de poulet dans une petite casserole jusqu'à ce qu'il devienne dense et savoureux.",
+        "step_2": "Ajoutez la sauce soja, le mirin, le vinaigre de riz, l'huile pimentée et le katsuobushi en poudre pour obtenir un bouillon de trempage riche en umami.",
+        "step_3": "Faites cuire les nouilles épaisses dans une grande quantité d'eau bouillante selon le temps indiqué sur l'emballage (habituellement 5 à 6 minutes).",
+        "step_4": "Égouttez aussitôt les nouilles, rincez-les sous l'eau courante très froide (avec des glaçons si possible) pour éliminer l'amidon en surface, séparez délicatement les brins puis égouttez-les soigneusement pour qu'elles restent fermes et souples.",
+        "step_5": "Disposez les nouilles froides sur une assiette ou un plateau en bambou avec des tranches de chashu de porc, un œuf mariné coupé en deux et une feuille de nori.",
+        "step_6": "Versez le bouillon concentré très chaud dans un petit bol séparé.",
+        "step_7": "Prenez une petite portion de nouilles froides avec des baguettes, trempez-la brièvement dans le bouillon chaud et dégustez aussitôt."
       }
     },
     "de": {
-      "title": "Tsukemen",
-      "description": "Eine alltagstaugliche Version von Tsukemen für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Ramen Daisuki Koizumi-san, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tsukemen – Ramen-Nudeln zum Dippen in kräftiger Brühe",
+      "description": "Tsukemen sind dicke japanische Nudeln, die gekocht, kalt abgespült und getrennt von einer konzentrierten Schweine- und Hühnerbrühe mit Sojasauce, Mirin, Reisessig, Chiliöl und Katsuobushi serviert werden. Schweine-Chashu, ein mariniertes Ei und Nori ergänzen die Nudeln. Tauche jede Portion erst unmittelbar vor dem Essen in die sehr heiße Brühe, statt alle Nudeln auf einmal einzuweichen.",
+      "animeContext": "Dieses Rezept ist thematisch von Ramen Daisuki Koizumi-san, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "spessi_noodles_per_tsukemen_o_ramen": {
-          "name": "Spessi noodles per tsukemen o ramen",
+          "name": "dicke Nudeln für Tsukemen oder Ramen",
           "note": null
         },
         "fettine_di_carne_chashu_di_maiale": {
-          "name": "Fettine di carne chashu di Schweinefleisch",
+          "name": "Schweine-Chashu in Scheiben",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Ei ajitsuke tamago (Eier marinate)",
+          "name": "Marinierte Eier Ajitsuke Tamago",
           "note": null
         },
         "brodo_di_maiale_pollo_concentrato": {
-          "name": "Brühe di Schweinefleisch/Hähnchen concentrato",
+          "name": "konzentrierte Schweine- und Hühnerbrühe",
           "note": null
         },
         "polvere_di_pesce": {
-          "name": "Polvere di pesce (katsuobushi povere)",
+          "name": "Katsuobushi-Pulver (getrockneter Bonito, gemahlen)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -396,52 +420,55 @@
           "note": null
         },
         "olio_piccante": {
-          "name": "Öl piccante",
+          "name": "würziges Öl",
           "note": null
         },
         "nori": {
-          "name": "Nori",
+          "name": "Nori-Algenblätter",
           "note": null
         },
         "germogli_di_bambu": {
-          "name": "Bambussprossen (menma)",
+          "name": "Bambussprossen (Menma)",
           "note": null
         },
         "cipollotto": {
-          "name": "Spring Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Die Schweine- und Hühnerbrühe in einem kleinen Topf bei schwacher Hitze einkochen lassen, bis sie kräftig und konzentriert ist.",
+        "step_2": "Sojasauce, Mirin, Reisessig, Chiliöl und Katsuobushi-Pulver einrühren, sodass eine umamireiche Brühe zum Eintauchen entsteht.",
+        "step_3": "Die dicken Nudeln in reichlich kochendem Wasser nach Packungsangabe garen (gewöhnlich 5–6 Minuten).",
+        "step_4": "Die Nudeln sofort abgießen und unter sehr kaltem fließendem Wasser, möglichst mit Eis, abspülen, um überschüssige Stärke zu entfernen. Die Stränge behutsam lösen und gründlich abtropfen lassen, damit sie bissfest und elastisch bleiben.",
+        "step_5": "Die kalten Nudeln auf einem Teller oder Bambustablett anrichten. Mit Schweine-Chashu, einem halbierten marinierten Ei und Nori servieren.",
+        "step_6": "Die sehr heiße konzentrierte Brühe in eine separate kleine Schüssel füllen.",
+        "step_7": "Mit Stäbchen eine kleine Portion kalter Nudeln aufnehmen, kurz in die heiße Brühe tauchen und sofort essen."
       }
     },
     "pt": {
-      "title": "Tsukemen",
-      "description": "Uma versão prática de Tsukemen para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Ramen Daisuki Koizumi-san, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tsukemen — ramen para mergulhar em caldo concentrado",
+      "description": "Tsukemen é um prato japonês de massa espessa cozida, passada por água fria e servida fria, separada de um caldo concentrado de porco e frango temperado com molho de soja, mirin, vinagre de arroz, óleo picante e katsuobushi. Chashu de porco, ovo marinado e nori acompanham a massa. Mergulha cada porção no caldo bem quente apenas antes de a comer, sem colocar toda a massa de molho de uma vez.",
+      "animeContext": "Esta receita inspira-se tematicamente em Ramen Daisuki Koizumi-san, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "spessi_noodles_per_tsukemen_o_ramen": {
-          "name": "Spessi noodles per tsukemen o ramen",
+          "name": "massa espessa para tsukemen ou ramen",
           "note": null
         },
         "fettine_di_carne_chashu_di_maiale": {
-          "name": "Fettine di carne chashu di porco",
+          "name": "Fatias de carne de porco Chashu",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
-          "name": "Ovo ajitsuke tamago (ovos marinate)",
+          "name": "ovos marinados Ajitsuke Tamago",
           "note": null
         },
         "brodo_di_maiale_pollo_concentrato": {
-          "name": "Caldo di porco/frango concentrato",
+          "name": "caldo concentrado de porco e frango",
           "note": null
         },
         "polvere_di_pesce": {
-          "name": "Polvere di pesce (katsuobushi povere)",
+          "name": "katsuobushi em pó (bonito seco moído)",
           "note": null
         },
         "salsa_di_soia": {
@@ -457,7 +484,7 @@
           "note": null
         },
         "olio_piccante": {
-          "name": "Óleo piccante",
+          "name": "óleo picante",
           "note": null
         },
         "nori": {
@@ -465,19 +492,22 @@
           "note": null
         },
         "germogli_di_bambu": {
-          "name": "Rebentos de bambu (menma)",
+          "name": "brotos de bambu (Menma)",
           "note": null
         },
         "cipollotto": {
-          "name": "Spring cebola",
+          "name": "cebola de rama",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Deixa o caldo de porco e frango reduzir lentamente num tacho pequeno até ficar concentrado e saboroso.",
+        "step_2": "Junta o molho de soja, o mirin, o vinagre de arroz, o óleo picante e o katsuobushi em pó para obter um caldo rico em umami, adequado para mergulhar a massa.",
+        "step_3": "Coze a massa espessa em bastante água a ferver durante o tempo indicado na embalagem (normalmente 5–6 minutos).",
+        "step_4": "Escorre de imediato a massa, passa-a por água corrente muito fria (com gelo, se possível) para retirar o amido da superfície, separa os fios com cuidado e escorre muito bem até ficarem firmes e elásticos.",
+        "step_5": "Dispõe a massa fria num prato ou tabuleiro de bambu com fatias de chashu de porco, meio ovo marinado e uma folha de nori.",
+        "step_6": "Serve o caldo concentrado muito quente numa tigela pequena separada.",
+        "step_7": "Apanha uma pequena porção de massa fria com os pauzinhos, mergulha-a brevemente no caldo quente e come de imediato."
       }
     }
   }

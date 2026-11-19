@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000132",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Chainsaw Man",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "cotolette_di_maiale_fritte",
       "quantity": 2,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "salsa_curry_denso",
@@ -76,45 +76,60 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Katsu Curry Sando",
-      "description": "A crisp Katsu Curry Sando with a dry, well-set coating and a juicy or creamy center, cooked in controlled oil and served before the crust softens.",
-      "animeContext": "This recipe is thematically inspired by Chainsaw Man, Spy x Family. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Katsu Curry Sando — breaded cutlet sandwich with curry sauce",
+      "description": "The Katsu Curry Sando combines soft shokupan bread with a crunchy tonkatsu and thick curry sauce. The sandwich is hot-assembled with well-drained filling and cut before moisture softens the breading. A short pressure compacts the sandwich without crushing the tonkatsu, which must keep the crispy bread between the slices of bread.",
+      "animeContext": "This recipe is thematically inspired by Chainsaw Man, Spy x Family. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "spesse_di_pane_da_tramezzino_giapponese": {
-          "name": "Spesse di pane da tramezzino giapponese (shokupan)",
+          "name": "thick Japanese sandwich bread (Shokupan)",
           "note": null
         },
         "cotolette_di_maiale_fritte": {
-          "name": "Cotolette di pork fritte (tonkatsu) croccanti",
+          "name": "Crisp-fried pork cutlets (Tonkatsu)",
           "note": null
         },
         "salsa_curry_denso": {
-          "name": "Sauce curry denso (o tonkatsu sauce mescolata con poco curry)",
+          "name": "thick curry sauce (or Tonkatsu sauce mixed with little curry)",
           "note": null
         },
         "cavolo_cappuccio_affettato_sottilissimo": {
-          "name": "Cabbage sliced sottilissimo",
+          "name": "very thin sliced cabbage",
           "note": null
         },
         "burro_per_spalmare": {
-          "name": "Butter per spalmare",
+          "name": "spread butter",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the filling or main ingredient, season it evenly and dry or chill it as needed so the coating can adhere without slipping.",
-        "step_2": "Coat or batter the pieces in the stated order, keeping the outer layer light and even rather than pressing it into a dense shell.",
-        "step_3": "Fry in small batches at controlled temperature until the exterior is deeply crisp and the center is fully cooked or heated through.",
-        "step_4": "Drain on a rack or absorbent paper, add the finishing sauce or garnish only at the end and serve promptly before the crust softens."
+        "step_1": "Keep ready the freshly fried or well heated tonkatsu cutlets, still crispy, and prepare the finely sliced cabbage.",
+        "step_2": "Spread a thin veil of butter on the inside of the shokupan slices to create a barrier against moisture.",
+        "step_3": "Season the cutlet with a thick curry sauce, avoiding excessive soaking of the breading.",
+        "step_4": "Distribute the cabbage on the first slice of bread and place over the hot tonkatsu.",
+        "step_5": "Close the sandwich, wrap it slightly with baking paper and press with a moderate weight for about 2 minutes.",
+        "step_6": "Cut the crusts if you want a more traditional shape and cut the sandwich with a very sharp knife.",
+        "step_7": "Serve immediately, when the bread is soft and the tonkatsu still preserves crunchiness."
       }
     },
     "it": {
       "title": "Katsu Curry Sando (Sandwich con Cotoletta e Salsa Curry)",
-      "description": "Un Katsu Curry Sando (Sandwich con Cotoletta e Salsa Curry) croccante, con rivestimento asciutto e ben aderente e interno succoso o cremoso, fritto a temperatura controllata e servito appena pronto.",
+      "description": "Il Katsu Curry Sando abbina pane shokupan morbido a una cotoletta tonkatsu croccante e a salsa curry densa. Il sandwich viene assemblato a caldo con ripieno ben scolato e tagliato prima che l’umidità ammorbidisca la panatura. Una breve pressione compatta il sandwich senza schiacciare il tonkatsu, che deve mantenere la panatura croccante tra le fette di pane.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Chainsaw Man, Spy x Family. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "spesse_di_pane_da_tramezzino_giapponese": {
@@ -134,147 +149,162 @@
           "note": null
         },
         "burro_per_spalmare": {
-          "name": "Burro per spalmare",
+          "name": "burro per spalmare",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, imburra leggermente un lato di ciascuna fetta di pane Shokupan.",
-        "step_2": "Prosegui così: adagia una generosa manciata di cavolo cappuccio affettato finemente sulla prima fetta.",
-        "step_3": "Nella fase successiva, intingi la cotoletta Tonkatsu calda nella salsa al curry densa e adagiala sopra il cavolo. Chiudi il sandwich con la seconda fetta di pane, premi delicatamente e lascia riposare sotto un peso leggero per 2 minuti.",
-        "step_4": "Per completare, taglia i bordi della crosta (facoltativo) e dividi il tramezzino a metà in senso diagonale o rettangolare."
+        "step_1": "Tieni pronte le cotolette tonkatsu appena fritte o ben riscaldate, ancora croccanti, e prepara il cavolo affettato finissimo.",
+        "step_2": "Spalma un velo sottile di burro sul lato interno delle fette di shokupan per creare una barriera contro l’umidità.",
+        "step_3": "Condisci la cotoletta con una salsa curry densa, evitando di bagnare eccessivamente la panatura.",
+        "step_4": "Distribuisci il cavolo sulla prima fetta di pane e appoggia sopra il tonkatsu caldo.",
+        "step_5": "Chiudi il sandwich, avvolgilo leggermente con carta forno e premi con un peso moderato per circa 2 minuti.",
+        "step_6": "Rifila le croste se desideri una forma più tradizionale e taglia il sandwich con un coltello molto affilato.",
+        "step_7": "Servi subito, quando il pane è soffice e il tonkatsu conserva ancora croccantezza."
       }
     },
     "es": {
-      "title": "Katsu Curry Sando",
-      "description": "Una versión práctica de Katsu Curry Sando para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Chainsaw Man, Spy x Family. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Katsu curry sando — sándwich de filete empanado con salsa de curry",
+      "description": "El Katsu Curry Sando combina pan shokupan suave con una chuleta tonkatsu crujiente y salsa curry densa. El sándwich se ensambla en caliente con relleno bien escurrido y cortado antes de que la humedad ablande la pasta. Una breve presión compacta el sándwich sin aplastar el tonkatsu, que debe mantener la pasta crujiente entre las rebanadas de pan.",
+      "animeContext": "Esta receta está inspirada temáticamente en Chainsaw Man, Spy x Family. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "spesse_di_pane_da_tramezzino_giapponese": {
-          "name": "Spesse di pane da tramezzino giapponese (shokupan)",
+          "name": "Panes gruesos de sándwich japonés (Shokupan)",
           "note": null
         },
         "cotolette_di_maiale_fritte": {
-          "name": "Cotolette di cerdo fritte (tonkatsu) croccanti",
+          "name": "chuletas de cerdo fritas (Tonkatsu) crujientes",
           "note": null
         },
         "salsa_curry_denso": {
-          "name": "Salsa curry denso (o tonkatsu salsa mescolata con poco curry)",
+          "name": "salsa curry denso (o salsa Tonkatsu mezclada con poco curry)",
           "note": null
         },
         "cavolo_cappuccio_affettato_sottilissimo": {
-          "name": "Col en rodajas sottilissimo",
+          "name": "col capucha cortada delgada",
           "note": null
         },
         "burro_per_spalmare": {
-          "name": "Mantequilla per spalmare",
+          "name": "mantequilla para untar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Prepara las chuletas de tonkatsu tan pronto como estén fritas o bien calentadas, aún crujientes, y prepara la col cortada muy fina.",
+        "step_2": "Esparce un velo delgado de mantequilla en el interior de las rebanadas de shokupan para crear una barrera contra la humedad.",
+        "step_3": "Sazona la chuleta con una salsa curry densa, evitando mojar excesivamente la pasta.",
+        "step_4": "Distribuye la col sobre la primera rebanada de pan y apoya sobre el tonkatsu caliente.",
+        "step_5": "Cierra el sándwich, envuélvelo ligeramente con papel de horno y presiona con un peso moderado durante unos 2 minutos.",
+        "step_6": "Corta las cortezas si quieres una forma más tradicional y corta el sándwich con un cuchillo muy afilado.",
+        "step_7": "Sirve inmediatamente, cuando el pan es suave y el tonkatsu todavía conserva crujienteza."
       }
     },
     "fr": {
-      "title": "Katsu Curry Sando",
-      "description": "Une version pratique de Katsu Curry Sando à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Chainsaw Man, Spy x Family. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Katsu curry sando — sandwich à l’escalope panée et sauce curry",
+      "description": "Le Katsu Curry Sando allie pain shokupan doux à une côtelette tonkatsu croustillante et à une sauce curry dense. Le sandwich est assemblé à chaud avec une farce bien égouttée et coupé avant que l'humidité ne ramollisse la panure. Une courte pression compacte le sandwich sans écraser le tonkatsu, qui doit maintenir la panure croustillante entre les tranches de pain.",
+      "animeContext": "Cette recette s'inspire librement de Chainsaw Man, Spy x Family. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "spesse_di_pane_da_tramezzino_giapponese": {
-          "name": "Spesse di pane da tramezzino giapponese (shokupan)",
+          "name": "épaisses du pain du sandwich japonais (Shokupan)",
           "note": null
         },
         "cotolette_di_maiale_fritte": {
-          "name": "Cotolette di porc fritte (tonkatsu) croccanti",
+          "name": "Couilles de porc frites (Tonkatsu) croustillantes",
           "note": null
         },
         "salsa_curry_denso": {
-          "name": "Sauce curry denso (o tonkatsu sauce mescolata con poco curry)",
+          "name": "sauce curry dense (ou sauce Tonkatsu mélangée avec peu curry)",
           "note": null
         },
         "cavolo_cappuccio_affettato_sottilissimo": {
-          "name": "Chou tranché sottilissimo",
+          "name": "Chou coupé très fin",
           "note": null
         },
         "burro_per_spalmare": {
-          "name": "Beurre per spalmare",
+          "name": "beurre à tartiner",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Préparez les côtelettes tonkatsu fraîchement frites ou bien bien chauffées, toujours croustillantes, et préparez le chou très fin.",
+        "step_2": "Spalme un voile mince de beurre sur le côté intérieur des tranches de shokupan pour créer une barrière contre l'humidité.",
+        "step_3": "Assaisonnez la côtelette avec une sauce curry dense, en évitant de mouiller excessivement la panure.",
+        "step_4": "Distribuez le chou sur la première tranche de pain et posez sur le tonkatsu chaud.",
+        "step_5": "Fermez le sandwich, enroulez-le légèrement avec du papier four et appuyez sur un poids modéré pendant environ 2 minutes.",
+        "step_6": "Refilez les croûtes si vous voulez une forme plus traditionnelle et coupez le sandwich avec un couteau très pointu.",
+        "step_7": "Servez-vous immédiatement, quand le pain est doux et le tonkatsu conserve encore croustillant."
       }
     },
     "de": {
-      "title": "Katsu Curry Sando",
-      "description": "Eine alltagstaugliche Version von Katsu Curry Sando für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Chainsaw Man, Spy x Family inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Katsu Curry Sando – Sandwich mit paniertem Schnitzel und Currysauce",
+      "description": "Das Katsu Curry Sando kombiniert weiches Shokupanbrot mit einer knusprig tonkatsu Schüssel und einer dicken Currysoße. Das Sandwich wird warm mit gut geschüttetem Füllgut montiert und geschnitten, bevor die Feuchtigkeit die Panade erweicht. Ein kurzer kompakter Druck das Sandwich, ohne das Tonkatsu zu zerquetschen, das die knusprige Panade zwischen den Scheiben des Brotes halten muss.",
+      "animeContext": "Dieses Rezept ist thematisch von Chainsaw Man, Spy x Family inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "spesse_di_pane_da_tramezzino_giapponese": {
-          "name": "Spesse di pane da tramezzino giapponese (shokupan)",
+          "name": "Dicke von japanischem Brot (Shokupan)",
           "note": null
         },
         "cotolette_di_maiale_fritte": {
-          "name": "Cotolette di Schweinefleisch fritte (tonkatsu) croccanti",
+          "name": "Knusprige Schweinekoteletts (Tonkatsu)",
           "note": null
         },
         "salsa_curry_denso": {
-          "name": "Sauce curry denso (o tonkatsu Sauce mescolata con poco curry)",
+          "name": "Curry-Sauce (oder Tonkatsu-Sauce gemischt mit wenig Curry)",
           "note": null
         },
         "cavolo_cappuccio_affettato_sottilissimo": {
-          "name": "Kohl in Scheiben sottilissimo",
+          "name": "Grünkohl, dünn geschnitten",
           "note": null
         },
         "burro_per_spalmare": {
-          "name": "Butter per spalmare",
+          "name": "Butter für Brotaufstriche",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Halten Sie die frisch gebratenen oder gut erhitzten Tonkatsu-Schelatchen bereit, knusprig, und bereiten Sie den sehr fein geschnittenen Kohl vor.",
+        "step_2": "Spreize einen dünnen Schleier Butter auf der Innenseite der Shokupanscheiben, um eine Barriere gegen Feuchtigkeit zu schaffen.",
+        "step_3": "Würze die Schüssel mit einer dicken Curry-Sauce, um zu vermeiden, dass die Panade übermäßig nass.",
+        "step_4": "Verteilen Sie den Kohl auf das erste Stück Brot und legen Sie über das heiße Tonkatsu.",
+        "step_5": "Schließen Sie das Sandwich, wickeln Sie es leicht mit Backpapier und drücken Sie mit einem gemäßigten Gewicht für ca. 2 Minuten.",
+        "step_6": "Schneide die Krusten, wenn du eine traditionellere Form willst, und schneide das Sandwich mit einem sehr scharfen Messer ab.",
+        "step_7": "Servieren Sie sofort, wenn das Brot weich ist und das Tonkatsu immer noch knusprig ist."
       }
     },
     "pt": {
-      "title": "Katsu Curry Sando",
-      "description": "Uma versão prática de Katsu Curry Sando para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Chainsaw Man, Spy x Family. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Katsu curry sando — sanduíche de panado com molho de caril",
+      "description": "O Katsu Curry Sando combina pão shokupan suave com um tonkatsu crocante e molho de curry espesso. O sanduíche é montado a quente com preenchimento bem drenado e cortado antes de a humidade amolecer o pão. Uma pressão curta compacta o sanduíche sem esmagar o tonkatsu, que deve manter o pão crocante entre as fatias de pão.",
+      "animeContext": "Esta receita inspira-se tematicamente em Chainsaw Man, Spy x Family. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "spesse_di_pane_da_tramezzino_giapponese": {
-          "name": "Spesse di pane da tramezzino giapponese (shokupan)",
+          "name": "pão de sanduíche japonês grosso (Shokupan)",
           "note": null
         },
         "cotolette_di_maiale_fritte": {
-          "name": "Cotolette di porco fritte (tonkatsu) croccanti",
+          "name": "Cortetas fritas de porco (Tonkatsu)",
           "note": null
         },
         "salsa_curry_denso": {
-          "name": "Molho curry denso (o tonkatsu molho mescolata con poco curry)",
+          "name": "molho de curry espesso (ou molho Tonkatsu misturado com pouco curry)",
           "note": null
         },
         "cavolo_cappuccio_affettato_sottilissimo": {
-          "name": "Couve fatiado sottilissimo",
+          "name": "muito fina fatia de repolho",
           "note": null
         },
         "burro_per_spalmare": {
-          "name": "Manteiga per spalmare",
+          "name": "espalhar manteiga",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Mantenha- se prontos os cortetes de tonkatsu fritos ou bem aquecidos, ainda crocantes, e prepare o repolho cortado finamente.",
+        "step_2": "Espalhe um fino véu de manteiga no interior das fatias de shokupan para criar uma barreira contra a umidade.",
+        "step_3": "Sazonar a talha com um molho de curry espesso, evitando o encharque excessivo do pão.",
+        "step_4": "Distribua o repolho na primeira fatia de pão e coloque sobre o tonkatsu quente.",
+        "step_5": "Feche o sanduíche, enrole- o ligeiramente com papel para assar e pressione com um peso moderado por cerca de 2 minutos.",
+        "step_6": "Corte as crostas se você quiser uma forma mais tradicional e corte o sanduíche com uma faca muito afiada.",
+        "step_7": "Servir imediatamente, quando o pão estiver macio e o tonkatsu ainda preservar a crocância."
       }
     }
   }
