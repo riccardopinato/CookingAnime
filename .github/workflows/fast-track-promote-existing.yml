@@ -3,9 +3,10 @@ name: Fast Track source-locked existing recipes
 on:
   push:
     branches:
-      - feat/fast-track-reviewed-four-20261119
+      - feat/fast-track-close-12-and-audit-162-20261119
     paths:
       - 'tool/fast_track_promote_existing.py'
+      - 'tool/fast_track_12_repairs.py'
       - '.github/workflows/fast-track-promote-existing.yml'
 
 permissions:
@@ -22,12 +23,12 @@ jobs:
       - name: Checkout fixed feature branch
         uses: actions/checkout@v4
         with:
-          ref: feat/fast-track-reviewed-four-20261119
+          ref: feat/fast-track-close-12-and-audit-162-20261119
           persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Reconcile 112, mark 16 specific HOLD, materialize 4 additional
+      - name: Reconcile full 112 and materialize final 12 corrected recipes
         run: |
           python3 tool/fast_track_promote_existing.py --check > /tmp/fast-track-plan.json
           python3 tool/fast_track_promote_existing.py --apply > /tmp/fast-track-applied.json
@@ -42,5 +43,5 @@ jobs:
           git add authoring/recipes assets/catalog docs/f3l_editorial/FAST_TRACK_PROMOTION_2026-11-19.json
           if ! git diff --cached --quiet; then
             git commit -m "content(recipes): integrate additional source-locked six-locale detailed methods"
-            git push origin HEAD:refs/heads/feat/fast-track-reviewed-four-20261119
+            git push origin HEAD:refs/heads/feat/fast-track-close-12-and-audit-162-20261119
           fi
