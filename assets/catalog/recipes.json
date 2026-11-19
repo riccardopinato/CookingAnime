@@ -12418,7 +12418,7 @@
     },
     {
       "id": "recipe_000124",
-      "contentVersion": 1,
+      "contentVersion": 3,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -12443,7 +12443,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "polpa_di_ricci_di_mare",
@@ -12456,9 +12456,14 @@
           "unit": "portion"
         },
         {
-          "id": "wasabi_fresco_e_salsa_di_soia_pregiata",
+          "id": "wasabi_fresco_e_salsa_di_soia_pregiata_1_wasabi_fresco",
           "quantity": null,
           "unit": null
+        },
+        {
+          "id": "wasabi_fresco_e_salsa_di_soia_pregiata_2_salsa_di_soia_pregiata",
+          "quantity": 2,
+          "unit": "tbsp"
         },
         {
           "id": "strisce_di_alga_nori",
@@ -12481,6 +12486,18 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -13347,7 +13364,7 @@
     },
     {
       "id": "recipe_000134",
-      "contentVersion": 1,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "La collina dei papaveri",
       "animeReferences": [
@@ -13372,7 +13389,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "riso_giapponese_caldo_cotto_al_vapore",
@@ -13387,7 +13404,7 @@
         {
           "id": "tuorlo_d_uovo_fresco",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "salsa_di_soia",
@@ -13400,7 +13417,12 @@
           "unit": null
         },
         {
-          "id": "cipollotto_e_alga_nori_a_striscioline",
+          "id": "cipollotto_e_alga_nori_a_striscioline_1_cipollotto",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "id": "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline",
           "quantity": null,
           "unit": null
         }
@@ -13420,6 +13442,18 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]
@@ -14488,7 +14522,7 @@
     },
     {
       "id": "recipe_000146",
-      "contentVersion": 1,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -14513,7 +14547,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "filetto_di_tonno_rosso_per_sushi",
@@ -14578,7 +14612,7 @@
         },
         {
           "id": "step_2",
-          "timerSeconds": null
+          "timerSeconds": 720
         },
         {
           "id": "step_3",
@@ -14586,6 +14620,38 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
+          "timerSeconds": 120
+        },
+        {
+          "id": "step_8",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_9",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_10",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_11",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_12",
           "timerSeconds": null
         }
       ]
@@ -16175,7 +16241,7 @@
     },
     {
       "id": "recipe_000162",
-      "contentVersion": 1,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -16200,7 +16266,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
         {
           "id": "succo_di_yuzu_fresco_o_100_puro_imbottigliato",
@@ -16220,12 +16286,12 @@
         {
           "id": "albume_d_uovo",
           "quantity": 1,
-          "unit": null
+          "unit": "piece"
         },
         {
           "id": "scorza_grattugiata_di_1_limone_biologico",
-          "quantity": null,
-          "unit": null
+          "quantity": 1,
+          "unit": "piece"
         }
       ],
       "steps": [
@@ -16243,6 +16309,18 @@
         },
         {
           "id": "step_4",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_5",
+          "timerSeconds": 3600
+        },
+        {
+          "id": "step_6",
+          "timerSeconds": null
+        },
+        {
+          "id": "step_7",
           "timerSeconds": null
         }
       ]

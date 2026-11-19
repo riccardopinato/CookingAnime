@@ -6218,32 +6218,39 @@
       }
     },
     "recipe_000124": {
-      "title": "Uni Don",
-      "description": "Eine alltagstaugliche Version von Uni Don für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Golden Kamuy inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Uni Don – Reisschale mit frischem Seeigel",
+      "description": "Uni Don besteht aus Seeigelrogen auf leicht abgekühltem japanischem Sushi-Reis. Nur ausdrücklich zum Rohverzehr geeigneten Uni verwenden und bis zum Anrichten kühlen; weder Probieren noch Geruch sind ein Sicherheitsnachweis. Den lauwarmen, nicht heißen Reis mit Noristreifen auf Schalen verteilen, den Uni behutsam in einer Lage daraufsetzen und Wasabi sowie Sojasauce getrennt servieren.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Golden Kamuy inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "polpa_di_ricci_di_mare": {
-          "name": "Polpa di ricci di mare (uni) freschissima",
+          "name": "Seeigelfleisch (Uni), frisch",
           "note": null
         },
         "riso_sushi_tiepido": {
-          "name": "Reis sushi tiepido",
+          "name": "Sushi-Reis lauwarm",
           "note": null
         },
-        "wasabi_fresco_e_salsa_di_soia_pregiata": {
-          "name": "Wasabi frisch e Sojasauce pregiata",
+        "wasabi_fresco_e_salsa_di_soia_pregiata_1_wasabi_fresco": {
+          "name": "Wasabi, frisch",
+          "note": null
+        },
+        "wasabi_fresco_e_salsa_di_soia_pregiata_2_salsa_di_soia_pregiata": {
+          "name": "Soße aus hochwertigem Soja",
           "note": null
         },
         "strisce_di_alga_nori": {
-          "name": "Strisce di nori",
+          "name": "Streifen aus Alge nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Verwenden Sie eine sehr frisch und gekühlt bis zur Montage; entfernen Sie vorsichtig jede überschüssige Flüssigkeit, ohne die Gonaden zu zerdrücken.",
+        "step_2": "Bereiten Sie den japanischen Reis vor, würzen Sie ihn, wenn Sie Sushi-Reis verwenden, und lassen Sie ihn bedeckt einschüchtern: es muss lauwarm, nicht heiß sein.",
+        "step_3": "Prüfen Sie, ob der Uni ausdrücklich für den Rohverzehr geeignet ist und gemäß den Vorgaben des Lieferanten gelagert wurde. Probieren Sie ihn nicht zur Sicherheitsprüfung: Geruch und Geschmack reichen dafür nicht aus.",
+        "step_4": "Geben Sie den Reis in die Schüssel, ohne ihn zu komprimieren und fügen Sie dünne Streifen von Nori hinzu.",
+        "step_5": "Legen Sie die Zungen in einer einzigen Schicht zusammen, um sie so wenig wie möglich zu behandeln, um sie intakt zu halten.",
+        "step_6": "Fügen Sie eine kleine Menge von Wasabi auf der Seite, nicht direkt auf den gesamten Igel.",
+        "step_7": "Servieren Sie die Soja-Sauce separat oder schütten Sie nur sehr wenig mit Draht, wenn Sie essen, so bleibt der zarte Geschmack der Sauce Hauptdarsteller."
       }
     },
     "recipe_000125": {
@@ -6642,40 +6649,47 @@
       }
     },
     "recipe_000134": {
-      "title": "Shirasu Don",
-      "description": "Eine alltagstaugliche Version von Shirasu Don für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von La collina dei papaveri, Midnight Diner inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Shirasu Don – Reisschale mit kleinen Weißfischen und Ei",
+      "description": "Shirasu Don kombiniert warmen japanischen Reis mit bereits gegarten Shirasu, also kleinen Weißfischen, und einem Eigelb aus pasteurisiertem Ei, das für diesen Verzehr geeignet ist. Die Zutaten erst unmittelbar vor dem Servieren in der Schale anrichten und wenig Sojasauce darübergeben. Der bereits gekochte Shirasu wird auf dem Reis mit pasteurisiertem Eigelb, der ohne Kochen konsumiert werden kann, unter Zugabe von Soja nur in den Dienst gestellt.",
+      "animeContext": "Dieses Rezept ist thematisch von La collina dei papaveri, Midnight Diner inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "riso_giapponese_caldo_cotto_al_vapore": {
-          "name": "Reis giapponese caldo cotto al vapore",
+          "name": "Japanischer Reis heiß gedämpft",
           "note": null
         },
         "shirasu": {
-          "name": "Shirasu (bianchetti bolliti o al vapore)",
+          "name": "Shirasu (gekochte oder Dampfblanken)",
           "note": null
         },
         "tuorlo_d_uovo_fresco": {
-          "name": "Ei yolk d'Ei frisch",
+          "name": "pasteurisiertes Eigelb, das ohne Garen verzehrt werden darf",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "zenzero_grattugiato": {
           "name": "Ingwer gerieben",
           "note": null
         },
-        "cipollotto_e_alga_nori_a_striscioline": {
-          "name": "Spring Zwiebel e nori a striscioline",
+        "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
+          "name": "Zwiebel",
+          "note": null
+        },
+        "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
+          "name": "Alga nori a striscioline",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Bereiten Sie den japanischen Reis vor und servieren Sie ihn warm, dann lassen Sie ihn eine Minute in der Schüssel ruhen, um den intensiveren Dampf zu zerstreuen.",
+        "step_2": "Lassen Sie die Shirasu gut abtropfen und überprüfen Sie, ob es keine überschüssige Flüssigkeit gibt; wenn sie sehr salzig sind, probieren Sie sie, bevor Sie noch mehr Sojasauce hinzufügen.",
+        "step_3": "Die Garnituren vorbereiten: Ingwer reiben, Frühlingszwiebel fein schneiden und Nori in Streifen schneiden.",
+        "step_4": "Die gegarten Shirasu-Kleinfische gleichmäßig auf dem Reis verteilen, ohne sie zu zerdrücken.",
+        "step_5": "In der Mitte eine kleine Mulde formen und vorsichtig pasteurisiertes, zum Rohverzehr geeignetes Eigelb hineinlegen. Kein unpasteurisiertes rohes Eigelb verwenden.",
+        "step_6": "Fügen Sie Ingwer, Zwiebel und Nori in kleinen Mengen getrennt, so kann jeder Bissen nach Belieben eingestellt werden.",
+        "step_7": "Gießen Sie die Soja-Sauce nur kurz vor dem Essen ein und mischen Sie den Eigelb teilweise mit Reis und Shirasu, wobei verschiedene Bestände in der Schüssel zu halten sind."
       }
     },
     "recipe_000135": {
@@ -7159,16 +7173,16 @@
       }
     },
     "recipe_000146": {
-      "title": "Maguro Don",
-      "description": "Eine alltagstaugliche Version von Maguro Don für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Midnight Diner: Tokyo Stories inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Maguro Don – Reisschale mit frischem Thunfisch und Wasabi",
+      "description": "Maguro Don ist eine Reisschale mit Scheiben von Rotem Thunfisch, der ausdrücklich für den Rohverzehr geeignet sein muss. Der Thunfisch wird gemäß den Lieferantenvorgaben gekühlt, der Sushi-Reis gewürzt und abgekühlt. Eine kurze Marinade verleiht Geschmack, ersetzt aber keine Maßnahmen zur Lebensmittelsicherheit. Thunfischfilets müssen ausdrücklich für den rohen Verzehr geeignet und gemäß den Angaben des Lieferanten gekühlt gehalten sein.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Midnight Diner: Tokyo Stories inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "filetto_di_tonno_rosso_per_sushi": {
-          "name": "Filetto di Thunfisch rot per sushi (qualità sashimi)",
+          "name": "Blauflossenthunfisch, ausdrücklich für den Rohverzehr geeignet und gemäß Lieferantenangaben gekühlt",
           "note": null
         },
         "riso_per_sushi": {
-          "name": "Sushi Reis (Reis japonica)",
+          "name": "Sushi-Reis (Riso Japonica)",
           "note": null
         },
         "aceto_di_riso": {
@@ -7184,7 +7198,7 @@
           "note": null
         },
         "salsa_di_soia_shoyu": {
-          "name": "Sojasauce shoyu",
+          "name": "Sojasoße Shoyu",
           "note": null
         },
         "mirin": {
@@ -7192,27 +7206,35 @@
           "note": null
         },
         "wasabi_fresco_in_pasta": {
-          "name": "Wasabi frisch in pasta",
+          "name": "Wasabi frisch in Nudeln",
           "note": null
         },
         "alga_nori_tagliato_a_striscioline_sottili": {
-          "name": "Nori cut into striscioline sottili",
+          "name": "Alga nori in dünne Streifen geschnitten",
           "note": null
         },
         "porro_fresco_o_erba_cipollina_tritata": {
-          "name": "Porro frisch o erba cipollina tritata",
+          "name": "Frischer Lauch oder gehackter Schnittlauch",
           "note": null
         },
         "semi_di_sesamo_tostato": {
-          "name": "Sesamsamen tostato",
+          "name": "Sesamsamen, geröstet",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Den Sushi-Reis gründlich unter fließendem kaltem Wasser abspülen, bis das Wasser klar ist.",
+        "step_2": "Kochen Sie den Reis mit niedrigem Feuer für 12 Minuten mit Deckel.",
+        "step_3": "In einen Topf geben, Zucker und Salz in Reisessig schmelzen und leicht erhitzen.",
+        "step_4": "Kombinieren Sie die Essigmischung mit heißem Reis, indem Sie sie vorsichtig mit einem Holzspachtel ausschütten und eintauchen lassen.",
+        "step_5": "Nur ausdrücklich für den Rohverzehr geeigneten, sachgerecht gekühlten Thunfisch verwenden. Mit sauberem Messer und Schneidebrett in 7–8 mm dicke Scheiben schneiden; die Klinge dabei um 45 Grad neigen.",
+        "step_6": "In einer Schüssel mischt man Sojasoße mit Mirin.",
+        "step_7": "Den Thunfisch 1–2 Minuten in der Soja-Mirin-Mischung marinieren und bis zum Servieren gekühlt halten. Durch Marinieren wird ungeeigneter roher Fisch nicht sicher.",
+        "step_8": "Legen Sie den Sushi-Reis in die Donburi-Schüssel.",
+        "step_9": "Bestreuen Sie die Oberfläche mit der Nori-Alge in Streifen.",
+        "step_10": "Thunfischscheiben fächerförmig über dem Reis anordnen.",
+        "step_11": "Mit einem kleinen Klecks Wasabi, gehackten Frühlingszwiebeln und geröstetem Sesam garnieren.",
+        "step_12": "Servieren Sie sofort mit extra Sojasoße."
       }
     },
     "recipe_000147": {
@@ -7986,12 +8008,12 @@
       }
     },
     "recipe_000162": {
-      "title": "Yuzu Sorbet",
-      "description": "Eine alltagstaugliche Version von Yuzu Sorbet für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Kaguya-sama: Love is War inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Yuzu-Sorbet – erfrischendes Sorbet aus japanischer Zitrusfrucht",
+      "description": "Yuzu-Sorbet wird aus Zuckersirup und Yuzu-Saft hergestellt und vor dem Gefrieren abgekühlt. Für eine lockere Textur sieht das Rezept pasteurisiertes Eiweiß vor; unpasteurisiertes rohes Eiweiß darf nicht als Ersatz verwendet werden. Das Rezept verwendet pasteurisiertes Eiweiß, das während des Gefrierens untergerührt wird; weiteres Durchmischen bricht die Eiskristalle auf.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Kaguya-sama: Love is War inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
-          "name": "Succo di yuzu frisch o 100% puro imbottigliato",
+          "name": "Yuzu-Saft frisch oder 100% rein in Flaschen",
           "note": null
         },
         "acqua": {
@@ -8003,19 +8025,22 @@
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Ei weiß d'Ei",
+          "name": "pasteurisiertes Eiweiß, für den Verzehr ohne Garen geeignet",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza gerieben di 1 Zitrone biologico",
+          "name": "geriebene Schale von 1 Bio-Zitrone",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einem Topf erwärmt er das Wasser mit Zucker und Zitronenschale, bis der Zucker vollständig gelöst ist.",
+        "step_2": "Lassen Sie den Sirup auf Raumtemperatur abkühlen.",
+        "step_3": "Fügen Sie Yuzu-Saft in den kalten Sirup ein und mischen Sie sorgfältig.",
+        "step_4": "Fügen Sie die Verbindung in einen niedrigen Behälter aus Stahl hinzu und legen Sie sie in den Gefrierschrank.",
+        "step_5": "Nach 1 Stunde, sobald der Sorbetansatz am Rand fest wird, ausschließlich pasteurisiertes Eiweiß steif schlagen und vorsichtig unterheben. Kein rohes, unpasteurisiertes Eiweiß verwenden.",
+        "step_6": "Legen Sie 3 Stunden lang mit einer Gabel alle 45 Minuten kräftig in den Gefrierschrank, um die Eiskristalle zu brechen.",
+        "step_7": "Servieren Sie in eisigen Bechern mit Minzefolie oder Zitrusscheiben."
       }
     }
   }

@@ -6218,32 +6218,39 @@
       }
     },
     "recipe_000124": {
-      "title": "Uni Don",
-      "description": "A satisfying Uni Don centered on warm rice and carefully prepared toppings, with seasoning kept focused so each component remains recognizable.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Golden Kamuy. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Uni Don — fresh sea urchin over rice",
+      "description": "Uni Don presents sea urchin roe over gently cooled Japanese sushi rice. Use only uni expressly suitable for raw consumption and keep it refrigerated until assembly; do not rely on tasting or smell to establish safety. Divide the warm—not hot—rice between bowls with strips of nori, arrange the uni delicately in a single layer, and serve with wasabi and soy sauce on the side.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Golden Kamuy. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "polpa_di_ricci_di_mare": {
-          "name": "Polpa di ricci di mare (uni) freschissima",
+          "name": "fresh sea urchin pulp (Uni)",
           "note": null
         },
         "riso_sushi_tiepido": {
-          "name": "Rice sushi tiepido",
+          "name": "Sushi lukewarm rice",
           "note": null
         },
-        "wasabi_fresco_e_salsa_di_soia_pregiata": {
-          "name": "Wasabi fresh e soy sauce pregiata",
+        "wasabi_fresco_e_salsa_di_soia_pregiata_1_wasabi_fresco": {
+          "name": "fresh wasabi",
+          "note": null
+        },
+        "wasabi_fresco_e_salsa_di_soia_pregiata_2_salsa_di_soia_pregiata": {
+          "name": "high-quality soy sauce",
           "note": null
         },
         "strisce_di_alga_nori": {
-          "name": "Strisce di nori",
+          "name": "stripes of alga nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the rice and keep it warm while you cook or season the toppings separately; dry wet ingredients well so the bowl does not become watery.",
-        "step_2": "Cook the principal topping with controlled heat and reduce any sauce until it coats the ingredients instead of pooling heavily in the bowl.",
-        "step_3": "Portion the rice, then arrange the toppings evenly so each serving contains the intended balance of protein, vegetables and seasoning.",
-        "step_4": "Add the final garnish and sauce just before serving, preserving crisp or raw elements until the last moment."
+        "step_1": "Use very fresh and keep it refrigerated until assembly; gently remove any excess liquid without crushing the gonads.",
+        "step_2": "Prepare the Japanese rice, season it as indicated if you use sushi rice and let it warm up covered: it must be warm, not boiling.",
+        "step_3": "Check that the uni is expressly suitable for raw consumption and has been stored according to the supplier's instructions. Do not taste it to assess safety: neither smell nor flavour is sufficient evidence.",
+        "step_4": "Distribute rice into bowls without compressing it and add thin strips of nori.",
+        "step_5": "Arrange the languages of one in one layer, handling them as little as possible to keep them intact.",
+        "step_6": "Add a small amount of wasabi to the side, not directly on the whole hedgehog.",
+        "step_7": "Serve the soy sauce separately or pour very little by thread only at the time of eating, so the delicate flavor of the uni remains the protagonist."
       }
     },
     "recipe_000125": {
@@ -6642,20 +6649,20 @@
       }
     },
     "recipe_000134": {
-      "title": "Shirasu Don",
-      "description": "A satisfying Shirasu Don centered on warm rice and carefully prepared toppings, with seasoning kept focused so each component remains recognizable.",
-      "animeContext": "This recipe is thematically inspired by La collina dei papaveri, Midnight Diner. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Shirasu Don — rice bowl with tiny whitebait and egg",
+      "description": "Shirasu Don combines warm Japanese rice with previously cooked shirasu (tiny whitebait fish) and a yolk from a pasteurized egg suitable for the intended use. Assemble the ingredients immediately before serving and add soy sauce sparingly. The already cooked shirasu is placed on the rice with pasteurized yolk suitable for consumption without cooking, adding soy only to the service.",
+      "animeContext": "This recipe is thematically inspired by La collina dei papaveri, Midnight Diner. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "riso_giapponese_caldo_cotto_al_vapore": {
-          "name": "Rice giapponese caldo cotto al vapore",
+          "name": "Hot steamed Japanese rice",
           "note": null
         },
         "shirasu": {
-          "name": "Shirasu (bianchetti bolliti o al vapore)",
+          "name": "Shirasu (boiled or steamed)",
           "note": null
         },
         "tuorlo_d_uovo_fresco": {
-          "name": "Egg yolk d'egg fresh",
+          "name": "pasteurized egg yolk suitable for eating uncooked",
           "note": null
         },
         "salsa_di_soia": {
@@ -6663,19 +6670,26 @@
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Ginger grated",
+          "name": "Grated ginger",
           "note": null
         },
-        "cipollotto_e_alga_nori_a_striscioline": {
-          "name": "Spring onion e nori a striscioline",
+        "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
+          "name": "spring onion",
+          "note": null
+        },
+        "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
+          "name": "Alga nori with stripes",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the rice and keep it warm while you cook or season the toppings separately; dry wet ingredients well so the bowl does not become watery.",
-        "step_2": "Cook the principal topping with controlled heat and reduce any sauce until it coats the ingredients instead of pooling heavily in the bowl.",
-        "step_3": "Portion the rice, then arrange the toppings evenly so each serving contains the intended balance of protein, vegetables and seasoning.",
-        "step_4": "Add the final garnish and sauce just before serving, preserving crisp or raw elements until the last moment."
+        "step_1": "Prepare the Japanese rice and serve it hot, then let it rest a minute in the bowl to disperse the most intense steam.",
+        "step_2": "Drain the shirasu well and check that there is no excess liquid; if they are very salty, taste them before adding more soy sauce.",
+        "step_3": "Prepare the garnishes before assembling: grate the ginger, finely slice the spring onion and cut the nori into strips.",
+        "step_4": "Spread the cooked shirasu whitebait evenly over the rice without pressing them down.",
+        "step_5": "Make a shallow well in the middle and gently add a pasteurized egg yolk suitable for eating without cooking. Do not use an unpasteurized raw yolk.",
+        "step_6": "Add ginger, onion and nori in small separate quantities, so each bite can be adjusted as desired.",
+        "step_7": "Pour the soy sauce flushed just before eating and partially mix the yolk with rice and shirasu, keeping different textures in the bowl."
       }
     },
     "recipe_000135": {
@@ -7159,16 +7173,16 @@
       }
     },
     "recipe_000146": {
-      "title": "Maguro Don",
-      "description": "A satisfying Maguro Don centered on warm rice and carefully prepared toppings, with seasoning kept focused so each component remains recognizable.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Midnight Diner: Tokyo Stories. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Maguro Don — fresh tuna and wasabi over rice",
+      "description": "The Maguro Don has slices of bluefin tuna specifically suitable for raw consumption on sushi rice seasoned and warmed. The tuna is kept refrigerated according to the supplier's instructions; a short marinade flavors the fish but does not constitute a safe treatment. Tuna slices must be specifically suitable for raw consumption and kept chilled according to the supplier's instructions.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Midnight Diner: Tokyo Stories. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "filetto_di_tonno_rosso_per_sushi": {
-          "name": "Filetto di tuna red per sushi (qualità sashimi)",
+          "name": "bluefin tuna specifically suitable for raw consumption, stored as directed by the supplier",
           "note": null
         },
         "riso_per_sushi": {
-          "name": "Sushi rice (rice japonica)",
+          "name": "Rice for sushi (Japonic rice)",
           "note": null
         },
         "aceto_di_riso": {
@@ -7176,43 +7190,51 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "sale": {
-          "name": "Salt",
+          "name": "salt",
           "note": null
         },
         "salsa_di_soia_shoyu": {
-          "name": "Soy sauce shoyu",
+          "name": "Soy sauce Shoyu",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "wasabi_fresco_in_pasta": {
-          "name": "Wasabi fresh in pasta",
+          "name": "fresh wasabi in pasta",
           "note": null
         },
         "alga_nori_tagliato_a_striscioline_sottili": {
-          "name": "Nori cut into striscioline sottili",
+          "name": "Alga nori cut into thin strips",
           "note": null
         },
         "porro_fresco_o_erba_cipollina_tritata": {
-          "name": "Porro fresh o erba cipollina tritata",
+          "name": "fresh leek or chopped chives",
           "note": null
         },
         "semi_di_sesamo_tostato": {
-          "name": "Sesame seeds tostato",
+          "name": "toasted sesame seeds",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the rice and keep it warm while you cook or season the toppings separately; dry wet ingredients well so the bowl does not become watery.",
-        "step_2": "Cook the principal topping with controlled heat and reduce any sauce until it coats the ingredients instead of pooling heavily in the bowl.",
-        "step_3": "Portion the rice, then arrange the toppings evenly so each serving contains the intended balance of protein, vegetables and seasoning.",
-        "step_4": "Add the final garnish and sauce just before serving, preserving crisp or raw elements until the last moment."
+        "step_1": "Rinse the sushi rice thoroughly under running cold water until the water is clear.",
+        "step_2": "Cook the rice over low heat with lid for 12 minutes.",
+        "step_3": "Put in a saucepan, dissolve sugar and salt in rice vinegar by heating slightly.",
+        "step_4": "Combine the vinegar mixture with warm rice by gently rubbing it with a wooden spatula and let it cool.",
+        "step_5": "Use tuna specifically suitable for raw consumption and keep it refrigerated according to the supplier's instructions. With a clean knife and board, slice the tuna 7–8 mm thick, holding the blade at a 45-degree angle.",
+        "step_6": "In a bowl, mix the soy sauce with the mirin.",
+        "step_7": "Marinate the tuna for 1–2 minutes in the soy-and-mirin mixture and keep it refrigerated until serving. Marinating does not make fish that is unsuitable for raw consumption safe.",
+        "step_8": "Divide the warm, seasoned sushi rice among donburi bowls.",
+        "step_9": "Sprinkle the surface with the alga Nori in strips.",
+        "step_10": "Arrange the tuna slices in a radial pattern to cover the rice.",
+        "step_11": "Finish with a small curl of wasabi, chopped spring onion and toasted sesame seeds.",
+        "step_12": "Serve immediately with extra soy sauce."
       }
     },
     "recipe_000147": {
@@ -7986,36 +8008,39 @@
       }
     },
     "recipe_000162": {
-      "title": "Yuzu Sorbet",
-      "description": "A Japanese-style Yuzu Sorbet designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Yuzu Sorbet — refreshing Japanese citrus sorbet",
+      "description": "The yuzu sorbet is prepared from a syrup of water, sugar and juice of the citrus juice, left to cool before freezing. The recipe includes the use of pasteurized egg whites to lighten the consistency: do not replace it with raw unpasteurized egg whites. The recipe uses pasteurized egg white, incorporated as the sorbet begins to freeze; further stirring breaks up the ice crystals.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
-          "name": "Succo di yuzu fresh o 100% puro imbottigliato",
+          "name": "fresh or 100% pure Yuzu juice bottled",
           "note": null
         },
         "acqua": {
-          "name": "Water",
+          "name": "water",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Egg white d'egg",
+          "name": "pasteurized egg white suitable for consumption without cooking",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza grated di 1 lemon biologico",
+          "name": "grated peel of 1 organic lemon",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "In a saucepan, heat the water with sugar and lemon peel until the sugar is completely dissolved.",
+        "step_2": "Let the syrup cool at room temperature.",
+        "step_3": "Embed Yuzu's juice into cold syrup and mix thoroughly.",
+        "step_4": "Add the mixture in a low steel container and put in a freezer.",
+        "step_5": "After 1 hour, when the sorbet begins to set around the edges, whip only pasteurized egg white to stiff peaks and fold it into the sorbet with a whisk. Do not use raw, unpasteurized egg white.",
+        "step_6": "Put in the freezer for another 3 hours, mixing vigorously with a fork every 45 minutes to break the ice crystals.",
+        "step_7": "Serve in iced cups decorated with mint leaves or citrus slices."
       }
     }
   }

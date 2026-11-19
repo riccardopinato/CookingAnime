@@ -6219,7 +6219,7 @@
     },
     "recipe_000124": {
       "title": "Uni Don (Ciotola di Riso con Ricci di Mare Freschi)",
-      "description": "Un Uni Don (Ciotola di Riso con Ricci di Mare Freschi) completo basato su riso caldo e guarnizioni preparate separatamente, con un condimento misurato che lascia riconoscibili tutti i componenti.",
+      "description": "L’Uni Don mette al centro il sapore delicato dei ricci di mare serviti sopra riso giapponese tiepido. La polpa di uni viene maneggiata il meno possibile e mantenuta refrigerata fino al momento dell’assemblaggio, mentre il riso viene lasciato intiepidire. Nelle ciotole si distribuiscono prima riso e nori, poi si adagiano delicatamente le lingue di uni in un solo strato.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Golden Kamuy. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "polpa_di_ricci_di_mare": {
@@ -6230,20 +6230,27 @@
           "name": "riso Sushi tiepido",
           "note": null
         },
-        "wasabi_fresco_e_salsa_di_soia_pregiata": {
-          "name": "Wasabi fresco e salsa di soia pregiata",
+        "wasabi_fresco_e_salsa_di_soia_pregiata_1_wasabi_fresco": {
+          "name": "wasabi fresco",
+          "note": null
+        },
+        "wasabi_fresco_e_salsa_di_soia_pregiata_2_salsa_di_soia_pregiata": {
+          "name": "salsa di soia pregiata",
           "note": null
         },
         "strisce_di_alga_nori": {
-          "name": "Strisce di alga nori",
+          "name": "strisce di alga nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, stendi il riso per sushi nelle ciotole e adagia le striscioline di alga nori.",
-        "step_2": "Prosegui così: sistema delicatamente le lingue di riccio di mare sopra il riso.",
-        "step_3": "Nella fase successiva, porta in tavolale accompagnate da una noce di wasabi fresco e poca salsa di soia aggiungita a filo.",
-        "step_4": "Per completare, aggiungi le guarnizioni previste e porta in tavola alla temperatura più adatta al piatto."
+        "step_1": "Usa uni molto fresco e mantienilo refrigerato fino all’assemblaggio; elimina con delicatezza l’eventuale liquido in eccesso senza schiacciare le gonadi.",
+        "step_2": "Prepara il riso giapponese, condiscilo come indicato se usi riso sushi e lascialo intiepidire coperto: deve essere tiepido, non bollente.",
+        "step_3": "Verifica che l'uni sia espressamente idoneo al consumo crudo e sia stato conservato secondo le indicazioni del fornitore. Non assaggiarlo per valutarne la sicurezza: odore e sapore non sono criteri sufficienti.",
+        "step_4": "Distribuisci il riso nelle ciotole senza comprimerlo e aggiungi sottili strisce di nori.",
+        "step_5": "Disponi le lingue di uni in un unico strato, maneggiandole il meno possibile per mantenerle integre.",
+        "step_6": "Aggiungi una piccola quantità di wasabi a lato, non direttamente su tutto il riccio.",
+        "step_7": "Servi la salsa di soia separatamente o versane pochissima a filo solo al momento di mangiare, così il sapore delicato dell’uni rimane protagonista."
       }
     },
     "recipe_000125": {
@@ -6643,7 +6650,7 @@
     },
     "recipe_000134": {
       "title": "Shirasu Don (Ciotola di Riso con Bianchetti e Uovo)",
-      "description": "Un Shirasu Don (Ciotola di Riso con Bianchetti e Uovo) completo basato su riso caldo e guarnizioni preparate separatamente, con un condimento misurato che lascia riconoscibili tutti i componenti.",
+      "description": "Lo Shirasu Don unisce riso giapponese caldo, bianchetti già cotti e un tuorlo ottenuto da uovo pastorizzato idoneo al consumo previsto. Gli ingredienti si dispongono sulla ciotola poco prima del servizio, con salsa di soia aggiunta a filo. Lo shirasu già cotto si dispone sul riso con tuorlo pastorizzato idoneo al consumo senza cottura, aggiungendo soia solo al servizio.",
       "animeContext": "Questa ricetta è ispirata tematicamente a La collina dei papaveri, Midnight Diner. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "riso_giapponese_caldo_cotto_al_vapore": {
@@ -6651,11 +6658,11 @@
           "note": null
         },
         "shirasu": {
-          "name": "Shirasu (bianchetti bolliti o al vapore)",
+          "name": "shirasu (bianchetti bolliti o al vapore)",
           "note": null
         },
         "tuorlo_d_uovo_fresco": {
-          "name": "tuorlo d'uovo fresco",
+          "name": "tuorlo da uovo pastorizzato, idoneo al consumo senza cottura",
           "note": null
         },
         "salsa_di_soia": {
@@ -6663,19 +6670,26 @@
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Zenzero grattugiato",
+          "name": "zenzero grattugiato",
           "note": null
         },
-        "cipollotto_e_alga_nori_a_striscioline": {
-          "name": "cipollotto e alga nori a striscioline",
+        "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
+          "name": "cipollotto",
+          "note": null
+        },
+        "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
+          "name": "alga nori a striscioline",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, sistema il riso ben caldo all'interno di una ciotola (Donburi).",
-        "step_2": "Prosegui così: ricopri interamente la superficie del riso con gli Shirasu.",
-        "step_3": "Nella fase successiva, pratica una piccola nicchia al centro e adagia delicatamente il tuorlo d'uovo crudo. Guarnisci con zenzero grattugiato fresca, cipollotto affettato e striscioline di nori.",
-        "step_4": "Per completare, aggiungi la salsa di soia a filo prima di amalgamare e gustare."
+        "step_1": "Prepara il riso giapponese e servilo ben caldo, poi lascialo riposare un minuto nella ciotola per disperdere il vapore più intenso.",
+        "step_2": "Scola bene gli shirasu e controlla che non ci sia liquido in eccesso; se sono molto salati, assaggiali prima di aggiungere altra salsa di soia.",
+        "step_3": "Prepara le guarnizioni prima dell’assemblaggio: grattugia lo zenzero, affetta finemente il cipollotto e taglia il nori a striscioline.",
+        "step_4": "Distribuisci i bianchetti in modo uniforme sopra il riso senza comprimerli.",
+        "step_5": "Crea un incavo al centro e adagia delicatamente il tuorlo da uovo pastorizzato idoneo al consumo senza cottura; evita di usare un tuorlo crudo non pastorizzato.",
+        "step_6": "Aggiungi zenzero, cipollotto e nori in piccole quantità separate, così ogni boccone può essere regolato a piacere.",
+        "step_7": "Versa la salsa di soia a filo solo subito prima di mangiare e mescola parzialmente il tuorlo con riso e shirasu, mantenendo consistenze diverse nella ciotola."
       }
     },
     "recipe_000135": {
@@ -7160,11 +7174,11 @@
     },
     "recipe_000146": {
       "title": "Maguro Don (Ciotola di Riso con Tonno Rosso Fresco e Wasabi)",
-      "description": "Un Maguro Don (Ciotola di Riso con Tonno Rosso Fresco e Wasabi) completo basato su riso caldo e guarnizioni preparate separatamente, con un condimento misurato che lascia riconoscibili tutti i componenti.",
+      "description": "Il Maguro Don dispone fettine di tonno rosso espressamente idoneo al consumo crudo sopra riso sushi condito e intiepidito. Il tonno viene mantenuto refrigerato secondo le indicazioni del fornitore; una breve marinatura aromatizza il pesce ma non costituisce un trattamento di sicurezza. Le fettine di tonno devono essere espressamente idonee al consumo crudo e mantenute refrigerate secondo le indicazioni del fornitore.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Midnight Diner: Tokyo Stories. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "filetto_di_tonno_rosso_per_sushi": {
-          "name": "filetto di tonno rosso per sushi (qualità sashimi)",
+          "name": "filetto di tonno rosso espressamente idoneo al consumo crudo, conservato secondo le indicazioni del fornitore",
           "note": null
         },
         "riso_per_sushi": {
@@ -7196,23 +7210,31 @@
           "note": null
         },
         "alga_nori_tagliato_a_striscioline_sottili": {
-          "name": "alga Nori tagliato a striscioline sottili",
+          "name": "alga nori tagliata a striscioline sottili",
           "note": null
         },
         "porro_fresco_o_erba_cipollina_tritata": {
-          "name": "Porro fresco o erba cipollina tritata",
+          "name": "porro fresco o erba cipollina tritata",
           "note": null
         },
         "semi_di_sesamo_tostato": {
-          "name": "Semi di sesamo tostato",
+          "name": "semi di sesamo tostato",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, sciacquare accuratamente il riso per sushi sotto acqua fredda corrente finché l'acqua non risulta limpida. Cuocere il riso a fuoco basso con coperchio per 12 minuti. Metti in un pentolino, sciogliere zucchero e sale nell'aceto di riso riporta a temperaturando leggermente. Unire la miscela d'aceto al riso caldo sgranandolo delicatamente con una spatola di legno e far intiepidire.",
-        "step_2": "Prosegui così: con un coltello ben affilato per sashimi, tagliare il filetto di tonno rosso a fette spesse circa 7-8 mm, inclinando la lama a 45 gradi per ottenere fettine regolari.",
-        "step_3": "Nella fase successiva, riunisci in una ciotola, amalgamare la salsa di soia con il mirin. Passare velocemente le fette di tonno nella marinatura per 1-2 minuti. Disporre il riso sushi intiepidito nelle ciotole da Donburi. Cospargere la superficie con l'alga Nori a striscioline. Disporre le fettine di tonno a raggiera coprendo interamente il riso.",
-        "step_4": "Per completare, decorare al centro con un ricciolo di wasabi, erba cipollina tritata e semi di sesamo tostato. Porta in tavolare subito accompagnato con salsa di soia extra."
+        "step_1": "Sciacqua accuratamente il riso per sushi sotto acqua fredda corrente finché l'acqua non risulta limpida.",
+        "step_2": "Cuoci il riso a fuoco basso con coperchio per 12 minuti.",
+        "step_3": "Metti in un pentolino, sciogli zucchero e sale nell'aceto di riso scaldando leggermente.",
+        "step_4": "Unisci la miscela d'aceto al riso caldo sgranandolo delicatamente con una spatola di legno e far intiepidire.",
+        "step_5": "Usa soltanto tonno espressamente idoneo al consumo crudo e mantenuto refrigerato secondo le indicazioni del fornitore. Con coltello e piano puliti, taglialo in fette di 7-8 mm inclinando la lama a 45 gradi.",
+        "step_6": "In una ciotola, mescola la salsa di soia con il mirin.",
+        "step_7": "Insaporisci il tonno nella miscela di soia e mirin per 1-2 minuti e tienilo refrigerato fino al servizio. La marinatura non rende sicuro un pesce inadatto al consumo crudo.",
+        "step_8": "Disponi il riso sushi intiepidito nelle ciotole da Donburi.",
+        "step_9": "Cospargi la superficie con l'alga Nori a striscioline.",
+        "step_10": "Disponi le fettine di tonno a raggiera coprendo interamente il riso.",
+        "step_11": "Decora al centro con un ricciolo di wasabi, erba cipollina tritata e semi di sesamo tostato.",
+        "step_12": "Servi subito accompagnato con salsa di soia extra."
       }
     },
     "recipe_000147": {
@@ -7987,7 +8009,7 @@
     },
     "recipe_000162": {
       "title": "Yuzu Sorbet (Sorbetto Rinfrescante all'Agrume Yuzu)",
-      "description": "Un Yuzu Sorbet (Sorbetto Rinfrescante all'Agrume Yuzu) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Il sorbetto allo yuzu si prepara da uno sciroppo di acqua, zucchero e succo dell’agrume, lasciato raffreddare prima del congelamento. La ricetta prevede l’impiego di albume pastorizzato per alleggerire la consistenza: non sostituirlo con albume crudo non pastorizzato. L'albume previsto è pastorizzato e si incorpora durante il congelamento; le successive mescolate rompono i cristalli del sorbetto allo yuzu.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Kaguya-sama: Love is War. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
@@ -8003,19 +8025,22 @@
           "note": null
         },
         "albume_d_uovo": {
-          "name": "albume d'uovo",
+          "name": "albume d'uovo pastorizzato, idoneo al consumo senza cottura",
           "note": null
         },
         "scorza_grattugiata_di_1_limone_biologico": {
-          "name": "Scorza grattugiata di 1 limone biologico",
+          "name": "scorza grattugiata di 1 limone biologico",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Per iniziare, metti in un pentolino porta a temperaturare l'acqua con lo zucchero e la scorza di limone finché lo zucchero è completamente sciolto. Far raffreddare lo sciroppo a temperatura ambiente.",
-        "step_2": "Prosegui così: incorporare il succo di Yuzu allo sciroppo freddo e amalgamare accuratamente.",
-        "step_3": "Nella fase successiva, aggiungire il composto in un contenitore basso in acciaio e riporre in freezer. Dopo 1 ora, quando inizia a rassodarsi ai bordi, montare a neve l'albume d'uovo ed incorporarlo al sorbetto con una frusta per renderlo spumoso. Riporre in freezer per altre 3 ore, amalgamando vigorosamente con una forchetta ogni 45 minuti per rompere i cristalli di ghiaccio.",
-        "step_4": "Per completare, porta in tavolare in coppette ghiacciate decorando con foglioline di menta o fettine di agrume."
+        "step_1": "In un pentolino, scalda l'acqua con lo zucchero e la scorza di limone finché lo zucchero è completamente sciolto.",
+        "step_2": "Lascia raffreddare lo sciroppo a temperatura ambiente.",
+        "step_3": "Incorpora il succo di Yuzu allo sciroppo freddo e mescola accuratamente.",
+        "step_4": "Aggiungi il composto in un contenitore basso in acciaio e riponi in freezer.",
+        "step_5": "Dopo 1 ora, quando il sorbetto inizia a rassodarsi ai bordi, monta a neve solo l'albume pastorizzato e incorporalo con una frusta per rendere il composto spumoso. Non usare albume crudo non pastorizzato.",
+        "step_6": "Riponi in freezer per altre 3 ore, amalgamando vigorosamente con una forchetta ogni 45 minuti per rompere i cristalli di ghiaccio.",
+        "step_7": "Servi in coppette ghiacciate decorando con foglioline di menta o fettine di agrume."
       }
     }
   }
