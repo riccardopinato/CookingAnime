@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000075",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Persona 5",
   "animeReferences": [
@@ -157,7 +157,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "fresh sliced onion",
+          "name": "fresh spring onion, sliced",
           "note": null
         }
       },
@@ -170,7 +170,7 @@
         "step_6": "Turn off the heat, add the crumbled curry-roux cubes and stir with a whisk until they dissolve into a thick, smooth broth.",
         "step_7": "Cook the Udon in boiling water for 2 minutes, drain and divide them into two large bowls.",
         "step_8": "Add the thick broth to the boiling curry above the Udon.",
-        "step_9": "Add the crunchy Tonkatsu schnitzel on the surface and garnish with plenty of fresh onion."
+        "step_9": "Add the crunchy Tonkatsu schnitzel on the surface and garnish with plenty of fresh spring onion."
       }
     },
     "it": {
@@ -265,7 +265,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "cipollotto fresco cortado",
+          "name": "cebolleta fresca en rodajas",
           "note": null
         }
       },
@@ -278,7 +278,7 @@
         "step_6": "Apaga el fuego, añade los dados de roux de curry desmenuzados y remueve con unas varillas hasta que se disuelvan y el caldo quede espeso y homogéneo.",
         "step_7": "Cocine los udon en agua hirviendo durante 2 minutos, escúlelos y dívilos en dos cuencos grandes.",
         "step_8": "Añade el caldo denso al curry caliente sobre los udon.",
-        "step_9": "Ajusta la chuleta Tonkatsu crujiente sobre la superficie y adorna con abundante cebolla fresca."
+        "step_9": "Ajusta la chuleta Tonkatsu crujiente sobre la superficie y adorna con abundante cebolleta fresca."
       }
     },
     "fr": {
@@ -319,7 +319,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         }
       },
@@ -332,7 +332,7 @@
         "step_6": "Éteignez le feu, combinez les cubes de curry roux et amalgamez bien avec le fouet jusqu'à ce qu'ils se dissolvent complètement en créant un bouillon velouté et dense.",
         "step_7": "Cuisez les Udon dans de l'eau bouillante pendant 2 minutes, écoliez et divisez-les en deux bols de grande taille.",
         "step_8": "Ajoutez le bouillon épais au curry chaud au-dessus des Udon.",
-        "step_9": "Adagia la côtelette Tonkatsu croustillante sur la surface et garnis avec un gros oignon frais."
+        "step_9": "Adagia la côtelette Tonkatsu croustillante sur la surface et garnis avec un gros cébette fraîche."
       }
     },
     "de": {
@@ -373,7 +373,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         }
       },
@@ -386,7 +386,7 @@
         "step_6": "Den Herd ausschalten, die zerbröselten Curry-Roux-Würfel zugeben und mit dem Schneebesen rühren, bis sie sich vollständig aufgelöst haben und eine dicke, samtige Brühe entstanden ist.",
         "step_7": "Die Udon-Nudeln 2 Minuten in kochendem Wasser garen, abgießen und auf zwei große Schüsseln verteilen.",
         "step_8": "Die heiße, dickflüssige Currybrühe über die Udon-Nudeln gießen.",
-        "step_9": "Adoptieren Sie die knusprige Tonkatsu-Schokolade auf der Oberfläche und garnistieren Sie mit reichlich frischen Zwiebeln."
+        "step_9": "Adoptieren Sie die knusprige Tonkatsu-Schokolade auf der Oberfläche und garnistieren Sie mit reichlich frischen Frühlingszwiebeln."
       }
     },
     "pt": {
@@ -427,7 +427,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "cebola fresca cortada",
+          "name": "cebola de rama fresca às rodelas",
           "note": null
         }
       },
@@ -440,7 +440,7 @@
         "step_6": "Desligue o lume, junte os cubos de roux de caril esfarelados e mexa com umas varas até se dissolverem por completo, formando um caldo cremoso e espesso.",
         "step_7": "Cozinhe o Udon em água fervente por 2 minutos, escorra e divida- os em duas tigelas grandes.",
         "step_8": "Adicione o caldo grosso ao curry fervente acima do Udon.",
-        "step_9": "Adicione o schnitzel crocante Tonkatsu na superfície e guarneça com muita cebola fresca."
+        "step_9": "Adicione o schnitzel crocante Tonkatsu na superfície e guarneça com muita cebola de rama fresca."
       }
     }
   }

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "canonicalLocale": "it",
+  "targetLocales": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "scope": {
+    "minRecipeNumber": 55,
+    "maxRecipeNumber": 162,
+    "artworkPolicy": "exclude recipes with any imageAssetId",
+    "reason": "recipe source ingredient identity: cipollotto is not generic onion or chives"
+  },
+  "terminology": {
+    "cipollotto fresco affettato": {
+      "en": "fresh spring onion, sliced",
+      "es": "cebolleta fresca en rodajas",
+      "fr": "cébette fraîche émincée",
+      "de": "frische Frühlingszwiebel, in Ringe geschnitten",
+      "pt": "cebola de rama fresca às rodelas"
+    },
+    "cipollotti freschi affettati finemente": {
+      "en": "fresh spring onions, finely sliced",
+      "es": "cebolletas frescas, finamente cortadas",
+      "fr": "cébettes fraîches finement émincées",
+      "de": "frische Frühlingszwiebeln, fein geschnitten",
+      "pt": "cebolas de rama frescas, finamente cortadas"
+    },
+    "cipollotti affettati": {
+      "en": "sliced spring onions",
+      "es": "cebolletas en rodajas",
+      "fr": "cébettes émincées",
+      "de": "Frühlingszwiebeln, in Ringe geschnitten",
+      "pt": "cebolas de rama às rodelas"
+    },
+    "cipollotto fresco tritato": {
+      "en": "fresh spring onion, chopped",
+      "es": "cebolleta fresca picada",
+      "fr": "cébette fraîche hachée",
+      "de": "frische Frühlingszwiebel, gehackt",
+      "pt": "cebola de rama fresca picada"
+    },
+    "cipollotto (solo parte verde)": {
+      "en": "spring onion (green part only)",
+      "es": "cebolleta (solo la parte verde)",
+      "fr": "cébette (partie verte seulement)",
+      "de": "Frühlingszwiebel (nur der grüne Teil)",
+      "pt": "cebola de rama (apenas a parte verde)"
+    },
+    "cipollotto tritato": {
+      "en": "chopped spring onion",
+      "es": "cebolleta picada",
+      "fr": "cébette hachée",
+      "de": "gehackte Frühlingszwiebel",
+      "pt": "cebola de rama picada"
+    },
+    "cipollotti": {
+      "en": "spring onions",
+      "es": "cebolletas",
+      "fr": "cébettes",
+      "de": "Frühlingszwiebeln",
+      "pt": "cebolas de rama"
+    },
+    "cipollotto": {
+      "en": "spring onion",
+      "es": "cebolleta",
+      "fr": "cébette",
+      "de": "Frühlingszwiebel",
+      "pt": "cebola de rama"
+    },
+    "cipollotto tritato per guarnire": {
+      "en": "chopped spring onion for garnish",
+      "es": "cebolleta picada para decorar",
+      "fr": "cébette hachée pour garnir",
+      "de": "gehackte Frühlingszwiebel zum Garnieren",
+      "pt": "cebola de rama picada para guarnecer"
+    },
+    "cipollotto affettato": {
+      "en": "sliced spring onion",
+      "es": "cebolleta en rodajas",
+      "fr": "cébette émincée",
+      "de": "Frühlingszwiebel, in Ringe geschnitten",
+      "pt": "cebola de rama às rodelas"
+    },
+    "cipollotto fresco affettato finemente": {
+      "en": "fresh spring onion, finely sliced",
+      "es": "cebolleta fresca, finamente cortada",
+      "fr": "cébette fraîche finement émincée",
+      "de": "frische Frühlingszwiebel, fein geschnitten",
+      "pt": "cebola de rama fresca, finamente cortada"
+    },
+    "cipollotto fresco per guarnire": {
+      "en": "fresh spring onion for garnish",
+      "es": "cebolleta fresca para decorar",
+      "fr": "cébette fraîche pour garnir",
+      "de": "frische Frühlingszwiebel zum Garnieren",
+      "pt": "cebola de rama fresca para guarnecer"
+    },
+    "cipollotto per servire": {
+      "en": "spring onion, for serving",
+      "es": "cebolleta para servir",
+      "fr": "cébette pour servir",
+      "de": "Frühlingszwiebel zum Servieren",
+      "pt": "cebola de rama para servir"
+    },
+    "cipollotto tagliato a rondelle": {
+      "en": "spring onion, sliced into rings",
+      "es": "cebolleta cortada en rodajas",
+      "fr": "cébette coupée en rondelles",
+      "de": "Frühlingszwiebel, in Ringe geschnitten",
+      "pt": "cebola de rama cortada às rodelas"
+    },
+    "cipollotto fresco": {
+      "en": "fresh spring onion",
+      "es": "cebolleta fresca",
+      "fr": "cébette fraîche",
+      "de": "frische Frühlingszwiebel",
+      "pt": "cebola de rama fresca"
+    },
+    "cipollotti freschi tritati finemente": {
+      "en": "fresh spring onions, finely chopped",
+      "es": "cebolletas frescas, finamente picadas",
+      "fr": "cébettes fraîches finement hachées",
+      "de": "frische Frühlingszwiebeln, fein gehackt",
+      "pt": "cebolas de rama frescas, finamente picadas"
+    }
+  }
+}

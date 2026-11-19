@@ -4402,7 +4402,7 @@
     },
     "recipe_000083": {
       "title": "Tsukemen (Ramen con Brodo Concentrato da Intingolo)",
-      "description": "Nel Tsukemen i noodles vengono scolati e serviti separati da un brodo concentrato di carne, dashi e condimenti. Ogni boccone di pasta viene intinto nella salsa calda; chashu e uovo marinato completano il servizio senza perdere la consistenza dei noodles. Il brodo concentrato è servito bollente in una ciotola separata, mentre i noodles restano freddi fino al momento dell'intingolo.",
+      "description": "I tsukemen sono noodles spessi cotti, sciacquati e serviti freddi, separati da un brodo concentrato di maiale e pollo insaporito con salsa di soia, mirin, aceto di riso, olio piccante e katsuobushi. Chashu di maiale, uovo marinato e nori completano il piatto. Ogni boccone di noodles va intinto nel brodo ben caldo solo al momento di mangiarlo, senza immergere tutta la porzione in anticipo.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Ramen Daisuki Koizumi-san, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredientTexts": {
         "spessi_noodles_per_tsukemen_o_ramen": {
@@ -4422,7 +4422,7 @@
           "note": null
         },
         "polvere_di_pesce": {
-          "name": "polvere di pesce (Katsuobushi povere)",
+          "name": "polvere di katsuobushi (bonito essiccato)",
           "note": null
         },
         "salsa_di_soia": {

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000118",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Jujutsu Kaisen",
   "animeReferences": [
@@ -127,7 +127,7 @@
           "note": null
         },
         "finitura_cipollotto_affettato_6": {
-          "name": "sliced onion",
+          "name": "sliced spring onion",
           "note": null
         },
         "finitura_karashi_7": {
@@ -142,7 +142,7 @@
         "step_4": "Rinse the udon quickly only if required by the type used, then transfer them to the preheated bowls.",
         "step_5": "Pour the boiling broth on the udon and gently separate the threads with the chopsticks.",
         "step_6": "Add two pieces of kakuni per serving and add a spoon of the bottom of the lard to intensify the flavor.",
-        "step_7": "Complete with onion and a small amount of karashi on the edge of the bowl and serve immediately."
+        "step_7": "Complete with spring onion and a small amount of karashi on the edge of the bowl and serve immediately."
       }
     },
     "it": {
@@ -215,7 +215,7 @@
           "note": null
         },
         "finitura_cipollotto_affettato_6": {
-          "name": "cipollotto cortado",
+          "name": "cebolleta en rodajas",
           "note": null
         },
         "finitura_karashi_7": {
@@ -230,7 +230,7 @@
         "step_4": "Enjuaga brevemente los udon solo si lo indica la variedad utilizada; después pásalos a cuencos precalentados.",
         "step_5": "Vierte el caldo hirviendo sobre los udon y separa suavemente los fideos con los palillos.",
         "step_6": "Ajusta dos piezas de kakuni por porción y añade una cucharada del fondo de soldadura para aumentar el sabor.",
-        "step_7": "Completa con cebolla y una pequeña cantidad de karashi en el borde del tazón y sirve inmediatamente."
+        "step_7": "Completa con cebolleta y una pequeña cantidad de karashi en el borde del tazón y sirve inmediatamente."
       }
     },
     "fr": {
@@ -259,7 +259,7 @@
           "note": null
         },
         "finitura_cipollotto_affettato_6": {
-          "name": "oignon coupé",
+          "name": "cébette émincée",
           "note": null
         },
         "finitura_karashi_7": {
@@ -274,7 +274,7 @@
         "step_4": "Rincez rapidement les udon uniquement s'ils sont prévus par le type utilisé, puis transférez-les dans les bols préchauffés.",
         "step_5": "Versez le bouillon bouillant sur les udon et séparez délicatement les fils avec les baguettes.",
         "step_6": "Adapte deux morceaux de kakuni par portion et ajoute une cuillère du fond de brassage pour intensifier la saveur.",
-        "step_7": "Complétez avec l'oignon et une petite quantité de karashi sur le bord du bol et servez-vous immédiatement."
+        "step_7": "Complétez avec la cébette et une petite quantité de karashi sur le bord du bol et servez-vous immédiatement."
       }
     },
     "de": {
@@ -303,7 +303,7 @@
           "note": null
         },
         "finitura_cipollotto_affettato_6": {
-          "name": "Schnittlauch",
+          "name": "Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "finitura_karashi_7": {
@@ -318,7 +318,7 @@
         "step_4": "Die Udon-Nudeln nur dann kurz abspülen, wenn dies für die verwendete Sorte vorgesehen ist; anschließend in vorgewärmte Schüsseln geben.",
         "step_5": "Die kochend heiße Brühe über die Udon-Nudeln gießen und die Nudelstränge behutsam mit Essstäbchen trennen.",
         "step_6": "Pro Portion zwei Stücke Kakuni und fügen Sie einen Löffel aus dem Boden der Deuterium, um den Geschmack zu verstärken.",
-        "step_7": "Komplett mit Zwiebeln und eine kleine Menge Karashi am Rand der Schüssel und servieren Sie sofort."
+        "step_7": "Komplett mit Frühlingszwiebeln und eine kleine Menge Karashi am Rand der Schüssel und servieren Sie sofort."
       }
     },
     "pt": {
@@ -347,7 +347,7 @@
           "note": null
         },
         "finitura_cipollotto_affettato_6": {
-          "name": "Cebola cortada",
+          "name": "cebola de rama às rodelas",
           "note": null
         },
         "finitura_karashi_7": {
@@ -362,7 +362,7 @@
         "step_4": "Enxagua o udon rapidamente apenas se necessário pelo tipo usado, em seguida, transferi- lo para as tigelas pré- aquecidas.",
         "step_5": "Despeje o caldo fervente no udon e separe suavemente os fios com os pauzinhos.",
         "step_6": "Adicione dois pedaços de kakuni por porção e adicione uma colher do fundo do manteiga para intensificar o sabor.",
-        "step_7": "Completar com cebola e uma pequena quantidade de karashi na borda da tigela e servir imediatamente."
+        "step_7": "Completar com cebola de rama e uma pequena quantidade de karashi na borda da tigela e servir imediatamente."
       }
     }
   }

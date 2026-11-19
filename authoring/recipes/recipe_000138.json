@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000138",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "My Hero Academia",
   "animeReferences": [
@@ -144,7 +144,7 @@
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Onion cut into washers",
+          "name": "spring onion, sliced into rings",
           "note": null
         }
       },
@@ -156,7 +156,7 @@
         "step_5": "Cover and cook over medium to low heat for about 10 minutes until the roots become tender.",
         "step_6": "Add the tofu and heat it for 2-3 minutes without stirring vigorously.",
         "step_7": "Turn off the heat, melt the miso in a ladle of broth and incorporate it to the soup without bringing it back to the boil.",
-        "step_8": "Complete with onion and serve very hot."
+        "step_8": "Complete with spring onion and serve very hot."
       }
     },
     "it": {
@@ -242,7 +242,7 @@
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Cipollotto cortado con pipetas",
+          "name": "cebolleta cortada en rodajas",
           "note": null
         }
       },
@@ -254,7 +254,7 @@
         "step_5": "Cubre y cocina a fuego medio-bajo durante unos 10 minutos, hasta que las raíces se aferren.",
         "step_6": "Añadir el tofu y calentarlo durante 2-3 minutos sin mezclar enérgicamente.",
         "step_7": "Apaga el fuego, suelta el miso en un cucharón de caldo e incorpóralo a la sopa sin volverla a marcar.",
-        "step_8": "Completa con cebolla y sirves muy caliente."
+        "step_8": "Completa con cebolleta y sirves muy caliente."
       }
     },
     "fr": {
@@ -291,7 +291,7 @@
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "oignon coupé en rondelles",
+          "name": "cébette coupée en rondelles",
           "note": null
         }
       },
@@ -303,7 +303,7 @@
         "step_5": "Couvrez et faites cuire à feu moyen-bas pendant environ 10 minutes, jusqu'à ce que les racines deviennent tendres.",
         "step_6": "Ajoutez le tofu et réchauffez-le pendant 2-3 minutes sans mélanger vigoureusement.",
         "step_7": "Éteignez le feu, détachez le miso dans une louche de bouillon et ajoutez-le à la soupe sans la faire bouillir.",
-        "step_8": "Complétez avec l'oignon et servez très chaud."
+        "step_8": "Complétez avec la cébette et servez très chaud."
       }
     },
     "de": {
@@ -340,7 +340,7 @@
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Zwiebeln, in Unterlegscheiben geschnitten",
+          "name": "Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         }
       },
@@ -352,7 +352,7 @@
         "step_5": "Bedecken Sie und kochen Sie mit mittlerem bis niedrigem Fokus für etwa 10 Minuten, bis die Wurzeln erhalten werden.",
         "step_6": "Fügen Sie Tofu hinzu und erwärmen Sie es für 2-3 Minuten, ohne stark zu mischen.",
         "step_7": "Den Herd ausschalten, das Miso in einer Kelle Brühe auflösen und in die Suppe rühren, ohne sie erneut aufzukochen.",
-        "step_8": "Komplett mit Zwiebeln und serviert sehr heiß."
+        "step_8": "Komplett mit Frühlingszwiebeln und serviert sehr heiß."
       }
     },
     "pt": {
@@ -389,7 +389,7 @@
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Cebola cortada em lavadoras",
+          "name": "cebola de rama cortada às rodelas",
           "note": null
         }
       },
@@ -401,7 +401,7 @@
         "step_5": "Cubra e cozinhe em fogo médio a baixo por cerca de 10 minutos até que as raízes se tornem tenras.",
         "step_6": "Adicione o tofu e aqueça- o por 2-3 minutos sem mexer vigorosamente.",
         "step_7": "Desligue o fogo, derreta o miso em um cofre de caldo e incorpore- o à sopa sem trazê- lo de volta ao ebullição.",
-        "step_8": "Completar com cebola e servir muito quente."
+        "step_8": "Completar com cebola de rama e servir muito quente."
       }
     }
   }

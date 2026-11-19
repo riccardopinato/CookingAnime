@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000114",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Non Non Biyori",
   "animeReferences": [
@@ -127,12 +127,12 @@
         }
       },
       "steps": {
-        "step_1": "Prepare the mentsuyu in advance and cool it well in the refrigerator; grate the ginger and slice the onion just before the service.",
+        "step_1": "Prepare the mentsuyu in advance and cool it well in the refrigerator; grate the ginger and slice the spring onion just before the service.",
         "step_2": "Bring to a boil abundant unsalted water and immerse the somen, separating them immediately with the chopsticks.",
         "step_3": "Cook them for about 90 seconds or according to the package: they must remain elastic and not disassemble.",
         "step_4": "Drains and washes under very cold running water, gently rubbing them with your hands to remove surface starch.",
         "step_5": "Transfer them to water and ice just to keep them cool, without leaving them immersed too long.",
-        "step_6": "Serve small portions at a time and dip them in the cold mentsuyu with ginger, onion and sesame.",
+        "step_6": "Serve small portions at a time and dip them in the cold mentsuyu with ginger, spring onion and sesame.",
         "step_7": "If you want to simulate the nagashi service, scroll the somen in very cold clean water and collect them immediately with chopsticks."
       }
     },
@@ -194,7 +194,7 @@
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_1_cipollotto": {
-          "name": "cipollotto",
+          "name": "cebolleta",
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_2_semi_di_sesamo": {
@@ -207,12 +207,12 @@
         }
       },
       "steps": {
-        "step_1": "Prepara el mentsuyu con antelación y enfríalo bien en la nevera; rallado el jengibre y corta el cebollo poco antes del servicio.",
+        "step_1": "Prepara el mentsuyu con antelación y enfríalo bien en la nevera; rallado el jengibre y corta el cebolleta poco antes del servicio.",
         "step_2": "Lleva a ebullición abundante agua no salada y sumerge los somen, separandolos inmediatamente con los palillos.",
         "step_3": "Cocínelos durante unos 90 segundos o según el envase: deben mantenerse elásticos y no desgastarse.",
         "step_4": "Escolares y lavabo bajo agua corriente muy fría, frotándolos suavemente con las manos para eliminar el almidón superficial.",
         "step_5": "Transfiérelos al agua y al hielo sólo para mantenerlos fríos, sin dejarlos inmersos demasiado tiempo.",
-        "step_6": "Sirve pequeñas porciones a la vez y humedecido en el mentsuyu frío con jengibre, cebolla y sésamo.",
+        "step_6": "Sirve pequeñas porciones a la vez y humedecido en el mentsuyu frío con jengibre, cebolleta y sésamo.",
         "step_7": "Si quieres simular el servicio nagashi, desliza los somens en agua muy fría limpia y recógelos inmediatamente con los palillos."
       }
     },
@@ -234,7 +234,7 @@
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_1_cipollotto": {
-          "name": "ciboulette",
+          "name": "cébette",
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_2_semi_di_sesamo": {
@@ -247,12 +247,12 @@
         }
       },
       "steps": {
-        "step_1": "Préparez le mentsuyu à l'avance et refroidissez-le bien au réfrigérateur; râpez le gingembre et coupez l'oignons juste avant le service.",
+        "step_1": "Préparez le mentsuyu à l'avance et refroidissez-le bien au réfrigérateur; râpez le gingembre et coupez l'cébettes juste avant le service.",
         "step_2": "Il porte à ébullition abondante de l'eau non salée et plonge les somens, en les séparant immédiatement avec les baguettes.",
         "step_3": "Faites cuire pendant environ 90 secondes ou selon l'emballage: ils doivent rester élastiques et ne pas se décomposer.",
         "step_4": "Écoliers et laves sous l'eau courante très froide, frottant doucement avec les mains pour éliminer l'amidon superficiel.",
         "step_5": "Transférez-les dans l'eau et la glace pour les garder froids, sans les laisser trop longtemps immergés.",
-        "step_6": "Servez de petites portions à la fois et trempez dans le mentsuyu froid avec le gingembre, l'oignon et le sésame.",
+        "step_6": "Servez de petites portions à la fois et trempez dans le mentsuyu froid avec le gingembre, la cébette et le sésame.",
         "step_7": "Si vous voulez simuler le service nagashi, faites glisser les somens dans de l'eau froide propre et ramassez-les immédiatement avec des baguettes."
       }
     },
@@ -274,7 +274,7 @@
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_1_cipollotto": {
-          "name": "Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_2_semi_di_sesamo": {
@@ -287,12 +287,12 @@
         }
       },
       "steps": {
-        "step_1": "Bereiten Sie das Mensuyu im Voraus vor und kühlen Sie es im Kühlschrank gut ab; reiben Sie den Ingwer und schneiden Sie die Zwiebel kurz vor dem Service.",
+        "step_1": "Bereiten Sie das Mensuyu im Voraus vor und kühlen Sie es im Kühlschrank gut ab; reiben Sie den Ingwer und schneiden Sie die Frühlingszwiebel kurz vor dem Service.",
         "step_2": "Bringen Sie reichlich ungesalzenes Wasser zum Kochen und tauchen Sie die Somen ein und trennen Sie sie sofort mit den Stäben.",
         "step_3": "Kochen Sie sie für ca. 90 Sekunden oder je nach Verpackung: Sie müssen elastisch bleiben und dürfen sich nicht verdrehen.",
         "step_4": "Schäle und wasche sie unter kaltem fließendem Wasser, indem du sie sanft mit den Händen reibst, um die Oberflächenstärke zu beseitigen.",
         "step_5": "Bringen Sie sie in Wasser und Eis, nur um sie kalt zu halten, ohne sie zu lange untertauchen zu lassen.",
-        "step_6": "Servieren Sie kleine Portionen zu einer Zeit und intimil in kaltem Mensuyu mit Ingwer, Zwiebeln und Sesam.",
+        "step_6": "Servieren Sie kleine Portionen zu einer Zeit und intimil in kaltem Mensuyu mit Ingwer, Frühlingszwiebeln und Sesam.",
         "step_7": "Wenn Sie den Nagashi-Service simulieren wollen, lassen Sie die Somen in sauberem kaltem Wasser fließen und sammeln Sie sie sofort mit den Stäben."
       }
     },
@@ -314,7 +314,7 @@
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_1_cipollotto": {
-          "name": "cebolinho",
+          "name": "cebola de rama",
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_2_semi_di_sesamo": {
@@ -327,12 +327,12 @@
         }
       },
       "steps": {
-        "step_1": "Prepare o mentosuyu com antecedência e esfrie bem na geladeira; reserve o gengibre e corte a cebola logo antes do serviço.",
+        "step_1": "Prepare o mentosuyu com antecedência e esfrie bem na geladeira; reserve o gengibre e corte a cebola de rama logo antes do serviço.",
         "step_2": "Traga para uma ebulição abundante água não salgada e mergulhe o somen, separando- os imediatamente com os pauzinhos.",
         "step_3": "Cozinhe- os por cerca de 90 segundos ou de acordo com o pacote: eles devem permanecer elásticos e não desmontáveis.",
         "step_4": "Esgota e lava sob água corrente muito fria, esfregando- as suavemente com as mãos para remover o amido de superfície.",
         "step_5": "Transfira- os para água e gelo apenas para mantê- los frescos, sem deixá- los imersos por muito tempo.",
-        "step_6": "Servir pequenas porções de cada vez e mergulhá- las no frio mentosuyu com gengibre, cebola e sésamo.",
+        "step_6": "Servir pequenas porções de cada vez e mergulhá- las no frio mentosuyu com gengibre, cebola de rama e sésamo.",
         "step_7": "Se você quiser simular o serviço de nagashi, role o somen em água limpa muito fria e recolha- os imediatamente com pauzinhos."
       }
     }

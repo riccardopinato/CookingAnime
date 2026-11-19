@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000123",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Barakamon",
   "animeReferences": [
@@ -133,7 +133,7 @@
         "step_4": "Combine the rice and simmer another 4-5 minutes, stirring just enough to not break the beans.",
         "step_5": "Beat the egg without making it completely homogeneous and flush it over the surface.",
         "step_6": "Turn off the heat, cover for about 1 minute and let the egg finish cooking with the residual heat.",
-        "step_7": "Complete with onion and serve immediately, when the rice is soft but not yet fucked."
+        "step_7": "Complete with spring onion and serve immediately, when the rice is soft but not yet fucked."
       }
     },
     "it": {
@@ -202,7 +202,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
-          "name": "cipollotto",
+          "name": "cebolleta",
           "note": null
         }
       },
@@ -213,7 +213,7 @@
         "step_4": "Une el arroz y haz que se emborrachen otros 4-5 minutos, mezclando sólo lo suficiente para no romper los granos.",
         "step_5": "Golpea el huevo sin que sea completamente homogéneo y vierte el huevo en la superficie.",
         "step_6": "Apaga el fuego, cubre durante aproximadamente 1 minuto y deja que el huevo termine la cocción con el calor residual.",
-        "step_7": "Completa con cebolla y sirves inmediatamente, cuando el arroz es suave pero aún no se desvanece."
+        "step_7": "Completa con cebolleta y sirves inmediatamente, cuando el arroz es suave pero aún no se desvanece."
       }
     },
     "fr": {
@@ -242,7 +242,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
-          "name": "ciboulette",
+          "name": "cébette",
           "note": null
         }
       },
@@ -253,7 +253,7 @@
         "step_4": "Combinez le riz et faites bouillir encore 4-5 minutes, en mélangeant juste assez pour ne pas casser les grains.",
         "step_5": "Cochez l'œuf sans le rendre complètement homogène et versez-le à la surface.",
         "step_6": "Éteignez le feu, couvrez pendant environ 1 minute et laissez l'œuf terminer la cuisson avec la chaleur résiduelle.",
-        "step_7": "Complétez avec l'oignon et servez-vous immédiatement, lorsque le riz est doux mais pas encore cassé."
+        "step_7": "Complétez avec la cébette et servez-vous immédiatement, lorsque le riz est doux mais pas encore cassé."
       }
     },
     "de": {
@@ -282,7 +282,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
-          "name": "Zwiebel",
+          "name": "Frühlingszwiebel",
           "note": null
         }
       },
@@ -293,7 +293,7 @@
         "step_4": "Verbinden Sie den Reis und lassen Sie weitere 4-5 Minuten knacken, indem Sie nur so viel rühren, wie Sie brauchen, um die Körner nicht zu brechen.",
         "step_5": "Werfen Sie das Ei, ohne es vollständig homogen zu machen, und gießen Sie es mit Draht auf die Oberfläche.",
         "step_6": "Schalte das Feuer aus, bedecke etwa 1 Minute und lass mich das Kochen mit der Restwärme beenden.",
-        "step_7": "Komplett mit Zwiebeln und servieren Sie sofort, wenn der Reis weich, aber noch nicht lose ist."
+        "step_7": "Komplett mit Frühlingszwiebeln und servieren Sie sofort, wenn der Reis weich, aber noch nicht lose ist."
       }
     },
     "pt": {
@@ -322,7 +322,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
-          "name": "cebolinho",
+          "name": "cebola de rama",
           "note": null
         }
       },
@@ -333,7 +333,7 @@
         "step_4": "Combine o arroz e cozinhe mais 4-5 minutos, agitando o suficiente para não quebrar os feijões.",
         "step_5": "Bata o ovo sem torná- lo completamente homogêneo e jogue- o sobre a superfície.",
         "step_6": "Desligue o fogo, cobre por cerca de 1 minuto e deixe o ovo terminar de cozinhar com o calor residual.",
-        "step_7": "Complete com cebola e sirva imediatamente, quando o arroz estiver macio, mas ainda não fodido."
+        "step_7": "Complete com cebola de rama e sirva imediatamente, quando o arroz estiver macio, mas ainda não fodido."
       }
     }
   }

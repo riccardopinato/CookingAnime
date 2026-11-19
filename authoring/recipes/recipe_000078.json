@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000078",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -173,7 +173,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "chopped onion",
+          "name": "chopped spring onion",
           "note": null
         },
         "ketchup": {
@@ -315,7 +315,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "cipollotto picado",
+          "name": "cebolleta picada",
           "note": null
         },
         "ketchup": {
@@ -352,7 +352,7 @@
         "step_6": "En el mismo wok une un hilo de aceite, sofree bajo fuego el ajo, el jengibre y la pasta picante Doubanjiang hasta que liberen sus aromas.",
         "step_7": "Añade ketchup, caldo de pollo, salsa de soja y azúcar.",
         "step_8": "Lleva a embotellar, luego une el almidón disuelto en una cucharada de agua para hacer espesar la salsa.",
-        "step_9": "Pon las gambas en la sartén junto con la cebolla picada, salta durante 1 minuto para envolverlas completamente en la salsa brillante y picante.",
+        "step_9": "Pon las gambas en la sartén junto con la cebolleta picada, salta durante 1 minuto para envolverlas completamente en la salsa brillante y picante.",
         "step_10": "Sirve de inmediato con arroz blanco."
       }
     },
@@ -386,7 +386,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "ciboulet haché",
+          "name": "cébette hachée",
           "note": null
         },
         "ketchup": {
@@ -423,7 +423,7 @@
         "step_6": "Dans le même wok, unissez un fil d'huile, faites cuire à bas feu l'ail, le gingembre et la pâte piquante Doubanjiang jusqu'à ce qu'ils libèrent leurs arômes.",
         "step_7": "Ajoutez le ketchup, le bouillon de poulet, la sauce soja et le sucre.",
         "step_8": "Emmène à la bulle, puis ajoute l'amidon dissous dans une cuillère à soupe d'eau pour faire épaissir la sauce.",
-        "step_9": "Remettez les crevettes dans la poêle avec l'oignon haché, sautez pendant 1 minute pour les enrouler complètement dans la sauce brillante et épicée.",
+        "step_9": "Remettez les crevettes dans la poêle avec la cébette haché, sautez pendant 1 minute pour les enrouler complètement dans la sauce brillante et épicée.",
         "step_10": "Servez-vous avec du riz blanc tout de suite."
       }
     },
@@ -457,7 +457,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "gehackte Zwiebel",
+          "name": "gehackte Frühlingszwiebel",
           "note": null
         },
         "ketchup": {
@@ -494,7 +494,7 @@
         "step_6": "In demselben Wok mischst du einen Ölfaden, brennst Knoblauch, Ingwer und würzige Doubanjiang-Paste nieder, bis sie ihre Aromen freisetzen.",
         "step_7": "Fügen Sie Ketchup, Hühnerbrühe, Sojasoße und Zucker hinzu.",
         "step_8": "Bringt sie zum Blenden, dann mischen Sie die gelöste Stärke in einen Löffel Wasser, um die Soße zu verdichten.",
-        "step_9": "Legen Sie die Garnelen in die Pfanne zusammen mit der gehackten Zwiebel, springt für 1 Minute, um sie vollständig in die glänzende und würzige Soße einwickeln.",
+        "step_9": "Legen Sie die Garnelen in die Pfanne zusammen mit der gehackten Frühlingszwiebel, springt für 1 Minute, um sie vollständig in die glänzende und würzige Soße einwickeln.",
         "step_10": "Servieren Sie sofort mit weißem Reis."
       }
     },
@@ -528,7 +528,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "cebola picada",
+          "name": "cebola de rama picada",
           "note": null
         },
         "ketchup": {
@@ -565,7 +565,7 @@
         "step_6": "No mesmo wok adicione um pouco de azeite, frite alho, gengibre e massa picante Doubanjiang a fogo lento até que libertem seus aromas.",
         "step_7": "Adicione ketchup, caldo de frango, molho de soja e açúcar.",
         "step_8": "Traga a ebulição, em seguida, adicione o amido dissolvido em uma colher de água para espessar o molho.",
-        "step_9": "Volte a colocar os camarões na frigideira com a cebolinha picada e salteie durante 1 minuto para os envolver completamente no molho brilhante e picante.",
+        "step_9": "Volte a colocar os camarões na frigideira com a cebola de rama picada e salteie durante 1 minuto para os envolver completamente no molho brilhante e picante.",
         "step_10": "Servir imediatamente com arroz branco."
       }
     }

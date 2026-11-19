@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000131",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "March Comes in Like a Lion",
   "animeReferences": [
@@ -131,16 +131,16 @@
           "note": null
         },
         "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
-          "name": "fresh onion to garnish",
+          "name": "fresh spring onion for garnish",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the mentsuyu and let it cool completely in the refrigerator; cucumber slice, onion and nori and keep the tenkasu dry until serving.",
+        "step_1": "Prepare the mentsuyu and let it cool completely in the refrigerator; cucumber slice, spring onion and nori and keep the tenkasu dry until serving.",
         "step_2": "Cook the udon in plenty of boiling water as long as they are elastic but still consistent.",
         "step_3": "Drain and cool immediately under very cold running water, then pass them in water and ice to stop completely cooking.",
         "step_4": "Drain the udon with care and shake them well: the residual water would dilute the mentsuyu.",
-        "step_5": "Distribute them in the bowls and add cucumber, egg, onion and nori.",
+        "step_5": "Distribute them in the bowls and add cucumber, egg, spring onion and nori.",
         "step_6": "Add tenkasu only at the last moment, so it remains crispy.",
         "step_7": "Pour the cold mentsuyu immediately before serving and mix at the table."
       }
@@ -219,16 +219,16 @@
           "note": null
         },
         "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
-          "name": "Cepollotto fresco para guarnición",
+          "name": "cebolleta fresca para decorar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara el mentsuyu y deja que se enfríe completamente en la nevera; pepino, cebolla y nori y mantén el tenkasu seco hasta el servicio.",
+        "step_1": "Prepara el mentsuyu y deja que se enfríe completamente en la nevera; pepino, cebolleta y nori y mantén el tenkasu seco hasta el servicio.",
         "step_2": "Cuece los udon en abundante agua hirviendo hasta que queden elásticos, pero aún firmes.",
         "step_3": "Escurrir y enfriar inmediatamente bajo agua corriente muy fría, luego pasarlos en agua y hielo para detener completamente la cocción.",
         "step_4": "Escurrir los udon con cuidado y sacudir bien: el agua residual diluiría el mentsuyu.",
-        "step_5": "Dispárale en los cuencos y añade pepino, huevo, cebolla y nori.",
+        "step_5": "Dispárale en los cuencos y añade pepino, huevo, cebolleta y nori.",
         "step_6": "Añade el tenkasu sólo en el último momento, para que siga siendo crujiente.",
         "step_7": "Vierta el mentsuyu frío inmediatamente antes de servir y mezclar en la mesa."
       }
@@ -263,12 +263,12 @@
           "note": null
         },
         "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
-          "name": "oignon frais pour garnir",
+          "name": "cébette fraîche pour garnir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez le mentsuyu et laissez-le refroidir complètement au réfrigérateur; tranche concombre, oignon et nori et gardez le tenkasu sec jusqu'au service.",
+        "step_1": "Préparez le mentsuyu et laissez-le refroidir complètement au réfrigérateur; tranche concombre, cébette et nori et gardez le tenkasu sec jusqu'au service.",
         "step_2": "Fais cuire les nouilles udon dans une grande quantité d’eau bouillante jusqu’à ce qu’elles soient souples, mais encore fermes.",
         "step_3": "Écolez-les et refroidissez-les immédiatement sous l'eau courante très froide, puis passez-les dans l'eau et la glace pour arrêter complètement la cuisson.",
         "step_4": "Égoutte soigneusement les nouilles udon et secoue-les : l’eau résiduelle diluerait le mentsuyu.",
@@ -307,16 +307,16 @@
           "note": null
         },
         "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
-          "name": "Frühlingszwiebeln",
+          "name": "frische Frühlingszwiebel zum Garnieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereiten Sie den Mensuyu vor und lassen Sie ihn im Kühlschrank vollständig abkühlen; Gurken, Zwiebeln und Nori und halten Sie den Tenkasu trocken bis zum Service.",
+        "step_1": "Bereiten Sie den Mensuyu vor und lassen Sie ihn im Kühlschrank vollständig abkühlen; Gurken, Frühlingszwiebeln und Nori und halten Sie den Tenkasu trocken bis zum Service.",
         "step_2": "Die Udon-Nudeln in reichlich kochendem Wasser garen, bis sie elastisch, aber noch bissfest sind.",
         "step_3": "Schicken Sie sie und kühlen Sie sie sofort unter kaltem fließendem Wasser ab, dann gehen sie in Wasser und Eis, um das Kochen vollständig zu stoppen.",
         "step_4": "Schütten Sie die Udon mit Sorgfalt und schütteln Sie gut: Restwasser würde das Mensuyu verdünnen.",
-        "step_5": "Geben Sie sie in die Schüssel und fügen Sie Gurken, Ei, Zwiebel und Nori.",
+        "step_5": "Geben Sie sie in die Schüssel und fügen Sie Gurken, Ei, Frühlingszwiebel und Nori.",
         "step_6": "Fügen Sie Tenkasu nur zum letzten Moment hinzu, so bleibt es knusprig.",
         "step_7": "Gießen Sie das kalte Mensuyu unmittelbar vor dem Servieren ein und mischen Sie zum Tisch."
       }
@@ -351,16 +351,16 @@
           "note": null
         },
         "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
-          "name": "cebola fresca para decorar",
+          "name": "cebola de rama fresca para guarnecer",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare o mentosuyu e deixe esfriar completamente na geladeira; fatia de pepino, cebola e nori e mantenha o tenkasu seco até servir.",
+        "step_1": "Prepare o mentosuyu e deixe esfriar completamente na geladeira; fatia de pepino, cebola de rama e nori e mantenha o tenkasu seco até servir.",
         "step_2": "Cozinhe o udon em muita água fervente desde que sejam elásticos, mas ainda consistentes.",
         "step_3": "Esqueça e esfrie imediatamente sob água corrente muito fria, em seguida, passe- os em água e gelo para parar completamente de cozinhar.",
         "step_4": "Esgote o udon com cuidado e sacudi- os bem: a água residual diluiria o mentosuyu.",
-        "step_5": "Distribua- os nas tigelas e adicione pepino, ovo, cebola e nori.",
+        "step_5": "Distribua- os nas tigelas e adicione pepino, ovo, cebola de rama e nori.",
         "step_6": "Adicione tenkasu apenas no último momento, para que permaneça crocante.",
         "step_7": "Despeje o frissuyu imediatamente antes de servir e misture na mesa."
       }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000082",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Yuru Camp△",
   "animeReferences": [
@@ -151,7 +151,7 @@
           "note": null
         },
         "cipollotti": {
-          "name": "onions",
+          "name": "spring onions",
           "note": null
         },
         "funghi_shiitake": {
@@ -175,7 +175,7 @@
         "step_1": "In a pot, Nabe (or large pot) put the water, the Kombu algae and the pieces of chicken with the bone.",
         "step_2": "Brings to slow boiling over medium heat constantly eliminating the foam on the surface with a skimmer to obtain a clear and rich broth.",
         "step_3": "After 20 minutes remove the Kombu algae, add the Sake and let the chicken cook for another 15 minutes until the meat becomes tender and the white opalescent broth.",
-        "step_4": "Combine the Chinese cabbage cut into pieces, the Shiitake mushrooms inscribed to a star, the onions and the cube tofu.",
+        "step_4": "Combine the Chinese cabbage cut into pieces, the Shiitake mushrooms inscribed to a star, the spring onions and the cube tofu.",
         "step_5": "Cook for 8-10 minutes until the vegetables are tender.",
         "step_6": "Put the pot in the middle of the table.",
         "step_7": "Each diner picks up pieces of chicken and vegetables by dipping them in the fresh Ponzu sauce."
@@ -271,7 +271,7 @@
           "note": null
         },
         "cipollotti": {
-          "name": "Cebolletas",
+          "name": "cebolletas",
           "note": null
         },
         "funghi_shiitake": {
@@ -331,7 +331,7 @@
           "note": null
         },
         "cipollotti": {
-          "name": "ciboulettes",
+          "name": "cébettes",
           "note": null
         },
         "funghi_shiitake": {
@@ -355,7 +355,7 @@
         "step_1": "Dans une casserole, Nabe (ou grand pot) mets l'eau, l'algue Kombu et les morceaux de poulet avec l'os.",
         "step_2": "Il conduit à ébullition lente à feu moyen en éliminant constamment la mousse à la surface avec une mousse pour obtenir un bouillon limpide et riche.",
         "step_3": "Après 20 minutes, retirez l'algue Kombu, ajoutez le Sake et laissez cuire le poulet pendant 15 minutes jusqu'à ce que la viande devienne tendre et le bouillon blanc opalescent.",
-        "step_4": "Joignez le chou chinois coupé en morceaux, les champignons Shiitake gravés en étoile, les oignons et le tofu en cubes.",
+        "step_4": "Joignez le chou chinois coupé en morceaux, les champignons Shiitake gravés en étoile, les cébettes et le tofu en cubes.",
         "step_5": "Faites cuire pendant 8-10 minutes jusqu'à ce que les légumes soient tendres.",
         "step_6": "Mets la casserole au milieu de la table.",
         "step_7": "Chaque commensale prélève des morceaux de poulet et de légumes dans la sauce Ponzu fraîche."
@@ -415,7 +415,7 @@
         "step_1": "In einen Topf, Nabe (oder großen Topf) legen Sie Wasser, die Kombu-Alge und die Hähnchenstücke mit dem Knochen.",
         "step_2": "Es führt zum langsamen Siede bis zum mittleren Feuer, indem der Schaum ständig mit einem Schaumstoff entfernt wird, um eine klare und reiche Brühe zu erhalten.",
         "step_3": "Nach 20 Minuten entfernen Sie die Kombu Alge, fügen Sie den Sake hinzu und backen das Huhn noch 15 Minuten, bis das Fleisch zart und die weiße Brühe opaleszent wird.",
-        "step_4": "Verbinden Sie den in Stücke geschnittenen Chinakohl, die mit Stern gravierten Shiitake-Pilz, die Zwiebeln und den Kubiktofu.",
+        "step_4": "Verbinden Sie den in Stücke geschnittenen Chinakohl, die mit Stern gravierten Shiitake-Pilz, die Frühlingszwiebeln und den Kubiktofu.",
         "step_5": "Kochen Sie für 8-10 Minuten, bis das Gemüse hält.",
         "step_6": "Leg den Topf in die Mitte des Tisches.",
         "step_7": "Jedes Mitglied nimmt Stücke von Huhn und Gemüse in die frische Ponzu-Soße eintauchend."
@@ -451,7 +451,7 @@
           "note": null
         },
         "cipollotti": {
-          "name": "cebolas",
+          "name": "cebolas de rama",
           "note": null
         },
         "funghi_shiitake": {
@@ -475,7 +475,7 @@
         "step_1": "Em um pote, Nabe (ou pote grande) coloca a água, as algas do Kombu e os pedaços de frango com o osso.",
         "step_2": "Lenta a ebulição a fogo médio eliminando constantemente a espuma na superfície com um esquimador para obter um caldo claro e rico.",
         "step_3": "Depois de 20 minutos remover as algas do Kombu, adicione o Sake e deixe o frango cozinhar por mais 15 minutos até que a carne se torne tenra e o caldo opalescente branco.",
-        "step_4": "Combine o repolho chinês cortado em pedaços, os cogumelos Shiitake inscritos em uma estrela, as cebolas e o tofu cubo.",
+        "step_4": "Combine o repolho chinês cortado em pedaços, os cogumelos Shiitake inscritos em uma estrela, as cebolas de rama e o tofu cubo.",
         "step_5": "Cozinhe por 8-10 minutos até que os legumes estejam macios.",
         "step_6": "Coloque o pote no meio da mesa.",
         "step_7": "Cada restaurante pega pedaços de frango e legumes mergulhando- os no molho Ponzu fresco."

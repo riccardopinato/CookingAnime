@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000149",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -137,7 +137,7 @@
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "Fresh onions, finely chopped",
+          "name": "fresh spring onions, finely chopped",
           "note": null
         },
         "d_aglio_tritato": {
@@ -164,13 +164,13 @@
       "steps": {
         "step_1": "Stretch the cold rice well with your hands to separate the grains. Use cooked rice cooled rapidly in a shallow layer, ideally within one hour, then refrigerated and used within 24 hours. Do not leave rice at room temperature; reheat only once until steaming hot throughout.",
         "step_2": "Heat a wok on a lively fire with sesame oil.",
-        "step_3": "Suffer garlic and half the onion.",
+        "step_3": "Gently sauté the garlic and half of the chopped spring onions.",
         "step_4": "Add beaten eggs and mix quickly to create soft scrambles.",
         "step_5": "Immediately add the rice into the wok and sauté it over a strong heat for 3-4 minutes, constantly stretching with the spatula.",
         "step_6": "Add the dried crab pulp and mix gently to mix without overly staggering the pulp.",
         "step_7": "Add the soy sauce along the browned edge of the wok to make it caramelize before incorporating it to rice.",
         "step_8": "Salt rule and abundant white pepper.",
-        "step_9": "Combine the rest of the fresh onion and serve well warm."
+        "step_9": "Stir in the remaining fresh spring onions and serve piping hot."
       }
     },
     "it": {
@@ -245,7 +245,7 @@
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "Cebolletas frescas picadas finamente",
+          "name": "cebolletas frescas, finamente picadas",
           "note": null
         },
         "d_aglio_tritato": {
@@ -272,13 +272,13 @@
       "steps": {
         "step_1": "Desgrana bien el arroz frío con las manos para separar los granos. Utiliza arroz cocido enfriado rápidamente en una capa fina, idealmente en una hora, refrigerado y consumido en 24 horas. No lo dejes a temperatura ambiente y recaliéntalo una sola vez hasta que esté muy caliente por completo.",
         "step_2": "Calienta un wok a fuego vivo con aceite de sésamo.",
-        "step_3": "Sufres ajo y la mitad de la cebolla.",
+        "step_3": "Sofríe suavemente el ajo y la mitad de las cebolletas picadas.",
         "step_4": "Añade los huevos batidos y revuelve rápidamente para crear revueltos suaves.",
         "step_5": "Añade el arroz al wok inmediatamente y salta a fuego fuerte durante 3-4 minutos, desgranando constantemente con la espátula.",
         "step_6": "Añade la pulpa de cangrejo desfibrada y mezcla suavemente para mezclar sin exhalar excesivamente la pulpa.",
         "step_7": "Añade la salsa de soja a lo largo del borde enrollado del wok para hacerla caramelizar antes de incorporarla al arroz.",
         "step_8": "Ajusta de sal y abundante pimienta blanca.",
-        "step_9": "Une el resto de la cebolla fresca y sirves bien caliente."
+        "step_9": "Incorpora las cebolletas frescas restantes y sirve bien caliente."
       }
     },
     "fr": {
@@ -299,7 +299,7 @@
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "oignons frais hachés finement",
+          "name": "cébettes fraîches finement hachées",
           "note": null
         },
         "d_aglio_tritato": {
@@ -326,13 +326,13 @@
       "steps": {
         "step_1": "Égrenez bien le riz froid avec vos mains pour séparer les grains. Utilisez du riz cuit refroidi rapidement en couche fine, idéalement en une heure, puis réfrigéré et consommé sous 24 heures. Ne le laissez pas à température ambiante et ne le réchauffez qu'une fois, jusqu'à ce qu'il soit brûlant à cœur.",
         "step_2": "Réchauffez un wok à feu vif avec de l'huile de sésame.",
-        "step_3": "Tu souffres de l'ail et de la moitié de l'oignon.",
+        "step_3": "Faites revenir doucement l'ail et la moitié des cébettes hachées.",
         "step_4": "Ajoutez les œufs battus et mélangez rapidement pour créer brouillés doux.",
         "step_5": "Ajoutez immédiatement le riz dans le wok et sautez-le très fort pendant 3-4 minutes, en égrenant constamment avec la spatule.",
         "step_6": "Ajoutez la pulpe de crabe défibrée et mélangez doucement pour amalgamer la pulpe sans la détruire excessivement.",
         "step_7": "Ajoutez la sauce soja le long du bord perché du wok pour la faire caraméliser avant de l'incorporer au riz.",
         "step_8": "Règle de sel et abondant poivre blanc.",
-        "step_9": "Joignez le reste de l'oignon frais et servez bien chaud."
+        "step_9": "Ajoutez le reste des cébettes fraîches et servez bien chaud."
       }
     },
     "de": {
@@ -353,7 +353,7 @@
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "Frühlingszwiebeln, frisch fein gemahlen",
+          "name": "frische Frühlingszwiebeln, fein gehackt",
           "note": null
         },
         "d_aglio_tritato": {
@@ -380,13 +380,13 @@
       "steps": {
         "step_1": "Den kalten Reis mit den Händen gut mischen, um die Körner zu trennen. Gekochten Reis in einer flachen Schicht schnell, idealerweise innerhalb einer Stunde, abkühlen, dann kühlen und binnen 24 Stunden verwenden. Nicht bei Raumtemperatur stehen lassen; nur einmal vollständig dampfend heiß aufwärmen.",
         "step_2": "Erhitzt einen Wok mit Sesamöl.",
-        "step_3": "Du quälst Knoblauch und die Hälfte der Zwiebel.",
+        "step_3": "Knoblauch und die Hälfte der gehackten Frühlingszwiebeln sanft anbraten.",
         "step_4": "Fügen Sie die gestoßenen Eier hinzu und mischen Sie schnell, um weich Rühren zu erstellen.",
         "step_5": "Fügen Sie den Reis sofort in den Wok und springen Sie ihn für 3-4 Minuten in starkem Feuer, kontinuierlich mit dem Spachtel.",
         "step_6": "Fügen Sie das Krabbenfleisch hinzu und mischen Sie vorsichtig, um das Fruchtfleisch zu vermischen, ohne das Fruchtfleisch übermäßig zu zerkleinern.",
         "step_7": "Fügen Sie die Sojasoße entlang der heiß gebrannten Wok-Ränder hinzu, um sie zu karamellieren, bevor Sie sie in Reis einbauen.",
         "step_8": "Salzregel und reichlich weißer Pfeffer.",
-        "step_9": "Kombinieren Sie den Rest der frischen Zwiebel und servieren Sie warm."
+        "step_9": "Die restlichen frischen Frühlingszwiebeln unterheben und sehr heiß servieren."
       }
     },
     "pt": {
@@ -407,7 +407,7 @@
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "Cebolas frescas, picadas finamente",
+          "name": "cebolas de rama frescas, finamente picadas",
           "note": null
         },
         "d_aglio_tritato": {
@@ -434,13 +434,13 @@
       "steps": {
         "step_1": "Estire bem o arroz frio com as mãos para separar os grãos. Use arroz cozido arrefecido rapidamente numa camada fina, idealmente numa hora, depois refrigerado e consumido em 24 horas. Não o deixe à temperatura ambiente; reaqueça apenas uma vez até ficar bem quente em toda a porção.",
         "step_2": "Aqueça um wok em um fogo animado com óleo de sésamo.",
-        "step_3": "Sofre alho e metade da cebola.",
+        "step_3": "Refoga suavemente o alho e metade das cebolas de rama picadas.",
         "step_4": "Adicione ovos batidos e misture rapidamente para criar escamas suaves.",
         "step_5": "Adicione imediatamente o arroz no wok e salteá- lo com um calor forte por 3-4 minutos, constantemente esticando com a espátula.",
         "step_6": "Adicione a polpa de caranguejo seca e misture suavemente para misturar sem atormentar demais a polpa.",
         "step_7": "Adicione o molho de soja ao longo da borda do wok para fazê- lo caramelizar antes de incorporá- lo ao arroz.",
         "step_8": "Regra do sal e abundante pimenta branca.",
-        "step_9": "Combine o resto da cebola fresca e sirva bem quente."
+        "step_9": "Junta as restantes cebolas de rama frescas e serve bem quente."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000090",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Naruto",
   "animeReferences": [
@@ -163,7 +163,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "fresh sliced onion",
+          "name": "fresh spring onion, sliced",
           "note": null
         },
         "alga_nori": {
@@ -174,11 +174,11 @@
       "steps": {
         "step_1": "Prepare the altar: in a saucepan heats soy sauce, mirin, ginger and garlic for 3 minutes over low heat, then filter.",
         "step_2": "Heat the chicken broth or dashi until lightly boil and keep it ready without making it reduce excessively.",
-        "step_3": "Prepare the topping before the noodles: slice the chashu, cut in half the jitama, chop the onion and portion narutomaki and nori.",
+        "step_3": "Prepare the topping before the noodles: slice the chashu, cut in half the jitama, chop the spring onion and portion narutomaki and nori.",
         "step_4": "Pour the tarare on the bottom of two preheated ramen bowls and add the boiling broth, stirring to evenly distribute the seasoning.",
         "step_5": "Cook the fresh noodles in plenty of boiling water for about 2 minutes or for the time indicated by the manufacturer; drain them carefully without rinsing them.",
         "step_6": "Transfer the noodles into the broth immediately and separate them with the chopsticks so that they do not remain packed.",
-        "step_7": "Complete with chashu, half ajitama, narutomaki, onion and nori; serve immediately while noodles and broth are still very hot."
+        "step_7": "Complete with chashu, half ajitama, narutomaki, spring onion and nori; serve immediately while noodles and broth are still very hot."
       }
     },
     "it": {
@@ -283,7 +283,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "cipollotto fresco cortado",
+          "name": "cebolleta fresca en rodajas",
           "note": null
         },
         "alga_nori": {
@@ -294,7 +294,7 @@
       "steps": {
         "step_1": "Prepara el tatar: en una olla calienta salsa de soja, mirin, jengibre y ajo durante 3 minutos a fuego bajo, luego filtra.",
         "step_2": "Calienta el caldo de pollo o dashi hasta que se marque ligeramente y mantenlo listo sin que se reduzca excesivamente.",
-        "step_3": "Prepara los toppings antes de los fideos: corta el chashu, corta a la mitad de la litiajitama, tritura la cebolla y porciona narutomaki y nori.",
+        "step_3": "Prepara los toppings antes de los fideos: corta el chashu, corta a la mitad de la litiajitama, tritura la cebolleta y porciona narutomaki y nori.",
         "step_4": "Derrama el tarro sobre el fondo de dos cuencos de ramen precalentados y añade el caldo caliente, mezclando para distribuir uniformemente el condimento.",
         "step_5": "Cocine los fideos frescos en abundante agua hirviendo durante unos 2 minutos o por el tiempo indicado por el fabricante; escúrrelos con cuidado sin enjuagarlos.",
         "step_6": "Transfiera los fideos al caldo y sepárense con los palillos para que no se queden apilados.",
@@ -343,7 +343,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         },
         "alga_nori": {
@@ -354,11 +354,11 @@
       "steps": {
         "step_1": "Prépare le tare : chauffe doucement la sauce soja, le mirin, le gingembre et l’ail dans une petite casserole pendant 3 minutes, puis filtre.",
         "step_2": "Réchauffez le bouillon de poulet ou de dashi jusqu'à ce qu'il soit léger et tenez-le prêt sans le faire trop réduire.",
-        "step_3": "Préparez les toppings avant les nouilles: coupez le chashu, coupez en moitié l'ajitama, hachez l'oignons et portionnez narutomaki et nori.",
+        "step_3": "Préparez les toppings avant les nouilles: coupez le chashu, coupez en moitié l'ajitama, hachez l'cébettes et portionnez narutomaki et nori.",
         "step_4": "Verse le tare au fond de deux bols à ramen préchauffés, ajoute le bouillon brûlant et mélange pour répartir l’assaisonnement.",
         "step_5": "Faites cuire les nouilles fraîches dans beaucoup d'eau bouillante pendant environ 2 minutes ou pendant le temps indiqué par le fabricant; faites-les cuire avec soin sans les rincer.",
         "step_6": "Transférez immédiatement les nouilles dans le bouillon et séparez-les avec les baguettes pour qu'elles ne restent pas entassées.",
-        "step_7": "Complétez avec chashu, demi ajitama, narutomaki, oignon et nori; servez immédiatement pendant que les nouilles et les bouillons sont encore très chauds."
+        "step_7": "Complétez avec chashu, demi ajitama, narutomaki, cébette et nori; servez immédiatement pendant que les nouilles et les bouillons sont encore très chauds."
       }
     },
     "de": {
@@ -403,7 +403,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "alga_nori": {
@@ -414,11 +414,11 @@
       "steps": {
         "step_1": "Bereiten Sie den Sarg vor: In einem Topf erwärmt Soja-Sauce, Mirin, Ingwer und Knoblauch für 3 Minuten bei niedrigem Feuer, dann filtern.",
         "step_2": "Die Hühner- oder Dashi-Brühe bis zum leichten Köcheln erhitzen und warm halten, ohne sie zu stark einreduzieren zu lassen.",
-        "step_3": "Bereiten Sie die Toppings vor den Nudeln vor: hacken Sie das Chashu, schneiden Sie in die Hälfte l snajaitama, schneiden Sie die Zwiebel und portionieren narutomaki und nori.",
+        "step_3": "Bereiten Sie die Toppings vor den Nudeln vor: hacken Sie das Chashu, schneiden Sie in die Hälfte l snajaitama, schneiden Sie die Frühlingszwiebel und portionieren narutomaki und nori.",
         "step_4": "Das Tare auf dem Boden von zwei vorgewärmten Ramen-Schalen verteilen. Die kochend heiße Brühe zugeben und verrühren, damit sich die Würze gleichmäßig verteilt.",
         "step_5": "Kochen Sie frische Nudeln in reichlich kochendem Wasser für ca. 2 Minuten oder für die vom Hersteller angegebene Zeit; spülen Sie sie sorgfältig, ohne sie zu spülen.",
         "step_6": "Bring die Nudeln sofort in die Brühe und trenne sie mit den Stäben, damit sie sich nicht verstauen.",
-        "step_7": "Komplett mit Chashu, Halb Ajitama, Narutomaki, Zwiebeln und Nori; Servieren sofort, während Nudeln und Brühe sind immer noch sehr heiß."
+        "step_7": "Komplett mit Chashu, Halb Ajitama, Narutomaki, Frühlingszwiebeln und Nori; Servieren sofort, während Nudeln und Brühe sind immer noch sehr heiß."
       }
     },
     "pt": {
@@ -463,7 +463,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "cebola fresca cortada",
+          "name": "cebola de rama fresca às rodelas",
           "note": null
         },
         "alga_nori": {
@@ -474,11 +474,11 @@
       "steps": {
         "step_1": "Prepare o altar: em uma panela aquece molho de soja, mirin, gengibre e alho por 3 minutos a fogo lento, em seguida, filtrar.",
         "step_2": "Aqueça o caldo de frango ou o dashi até que ferva levemente e mantenha- o pronto sem fazê- lo reduzir excessivamente.",
-        "step_3": "Prepare a cobertura antes dos macarrão: corte o chashu, corte em metade do jitama, corte a cebola e a porção narutomaki e nori.",
+        "step_3": "Prepare a cobertura antes dos macarrão: corte o chashu, corte em metade do jitama, corte a cebola de rama e a porção narutomaki e nori.",
         "step_4": "Despeje o tarare no fundo de duas tigelas de ramen pré- aquecidas e adicione o caldo fervente, agitando- se para distribuir uniformemente o tempero.",
         "step_5": "Cozinhe os macarrão frescos em muita água fervente por cerca de 2 minutos ou pelo tempo indicado pelo fabricante; escorra-os com cuidado sem enxagua- os.",
         "step_6": "Transferir os macarrão para o caldo imediatamente e separá- los com os pauzinhos para que não permaneçam embalados.",
-        "step_7": "Completo com chashu, meio ajitama, narutomaki, cebola e nori; sirva imediatamente enquanto macarrão e caldo ainda estão muito quentes."
+        "step_7": "Completo com chashu, meio ajitama, narutomaki, cebola de rama e nori; sirva imediatamente enquanto macarrão e caldo ainda estão muito quentes."
       }
     }
   }

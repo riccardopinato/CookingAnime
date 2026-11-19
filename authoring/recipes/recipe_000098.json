@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000098",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Cooking Papa",
   "animeReferences": [
@@ -136,7 +136,7 @@
           "note": null
         },
         "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu_2_cipollotto_tritato_per_guar": {
-          "name": "chopped onion to garnish",
+          "name": "chopped spring onion for garnish",
           "note": null
         }
       },
@@ -146,7 +146,7 @@
         "step_3": "Remove excess fat from the pan with cooking paper.",
         "step_4": "Mix the ingredients of the sauce teriyaki and add it to the pan with chicken.",
         "step_5": "Boil the sauce until it becomes shiny and frosted, constantly napping the chicken.",
-        "step_6": "Cut the chicken into strips, place it on the hot rice, add the caramel sauce on top and complete with sesame and onion."
+        "step_6": "Cut the chicken into strips, place it on the hot rice, add the caramel sauce on top and complete with sesame and spring onion."
       }
     },
     "it": {
@@ -230,7 +230,7 @@
           "note": null
         },
         "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu_2_cipollotto_tritato_per_guar": {
-          "name": "Cepollotto picado para guarnecer",
+          "name": "cebolleta picada para decorar",
           "note": null
         }
       },
@@ -277,7 +277,7 @@
           "note": null
         },
         "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu_2_cipollotto_tritato_per_guar": {
-          "name": "oignon haché pour garnir",
+          "name": "cébette hachée pour garnir",
           "note": null
         }
       },
@@ -287,7 +287,7 @@
         "step_3": "Retirer l'excès de graisse de la poêle avec du papier de cuisine.",
         "step_4": "Mélangez les ingrédients de la sauce teriyaki et ajoutez-la dans la poêle au poulet.",
         "step_5": "Faites bouillir la sauce jusqu'à ce qu'elle devienne brillante et glacée, en nappant continuellement le poulet.",
-        "step_6": "Coupez le poulet en rayures, ajoutez-le sur le riz chaud, ajoutez la sauce caramélisée et complètez avec le sésame et l'oignon."
+        "step_6": "Coupez le poulet en rayures, ajoutez-le sur le riz chaud, ajoutez la sauce caramélisée et complètez avec le sésame et la cébette."
       }
     },
     "de": {
@@ -324,7 +324,7 @@
           "note": null
         },
         "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu_2_cipollotto_tritato_per_guar": {
-          "name": "gehackte Zwiebel zum Garnieren",
+          "name": "gehackte Frühlingszwiebel zum Garnieren",
           "note": null
         }
       },
@@ -334,7 +334,7 @@
         "step_3": "Entfernen Sie überschüssiges Fett aus der Pfanne mit Küchenpapier.",
         "step_4": "Mischen Sie die Zutaten der Teriyaki-Sauce und fügen Sie sie in die Pfanne mit dem Huhn.",
         "step_5": "Machen Sie die Soße, bis sie glänzend und glasiert wird und das Huhn ständig nackt wird.",
-        "step_6": "Schneide das Huhn in Streifen, lege es auf den heißen Reis, füge die karamellierte Soße hinzu und fülle sie mit Sesam und Zwiebel."
+        "step_6": "Schneide das Huhn in Streifen, lege es auf den heißen Reis, füge die karamellierte Soße hinzu und fülle sie mit Sesam und Frühlingszwiebel."
       }
     },
     "pt": {
@@ -371,7 +371,7 @@
           "note": null
         },
         "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu_2_cipollotto_tritato_per_guar": {
-          "name": "cebola picada para decorar",
+          "name": "cebola de rama picada para guarnecer",
           "note": null
         }
       },
@@ -381,7 +381,7 @@
         "step_3": "Remova o excesso de gordura da panela com papel de cozinha.",
         "step_4": "Misture os ingredientes do molho teriyaki e adicione- o à panela com frango.",
         "step_5": "Ferva o molho até que se torne brilhante e gelado, dormindo constantemente com o frango.",
-        "step_6": "Cortar o frango em tiras, colocá- lo no arroz quente, adicionar o molho de caramelo em cima e completar com sésamo e cebola."
+        "step_6": "Cortar o frango em tiras, colocá- lo no arroz quente, adicionar o molho de caramelo em cima e completar com sésamo e cebola de rama."
       }
     }
   }

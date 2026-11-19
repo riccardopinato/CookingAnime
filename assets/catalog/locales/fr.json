@@ -2820,7 +2820,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         },
         "uovo_fresche": {
@@ -2840,7 +2840,7 @@
         "step_5": "Faites mijoter le poulet à feu moyen ; 5 à 7 minutes sont indicatives. Vérifiez au thermomètre que la température à cœur atteint au moins 74 °C et prolongez la cuisson si nécessaire.",
         "step_6": "Combinez les nouilles udon directement dans le bouillon bouillant ragoût et laissez cuire encore 4-5 minutes pour absorber les saveurs du miso.",
         "step_7": "Utilisez des œufs pasteurisés si vous voulez un jaune crémeux. Cassez-en un au centre de chaque portion, coupez le feu et couvrez environ 2 minutes jusqu'à ce que le blanc soit pris. Sinon, faites cuire complètement le blanc et le jaune.",
-        "step_8": "Garnissez avec l'oignon frais et apportez à la table très chaud directement à partir de la casserole."
+        "step_8": "Parsemez de cébette fraîche émincée et servez bien chaud, directement dans la casserole."
       }
     },
     "recipe_000056": {
@@ -3151,7 +3151,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         },
         "alga_nori": {
@@ -3169,7 +3169,7 @@
         "step_7": "Faites cuire dans de l'eau bouillante les nouilles fraîches dans de l'eau bouillante non salée en suivant les instructions de l'emballage (environ 2-3 minutes), puis égouttez-les soigneusement.",
         "step_8": "Sur la base de chaque grand bol, ajoutez le bouillon bouillant avec le miso et la viande.",
         "step_9": "Rassemblez les nouilles en les faisant s'adapter au milieu.",
-        "step_10": "Il range sur un côté les bourgeons de soja, le maïs doux, demi-œuf mariné, une noix de beurre de magicien frais au centre (typique de la tradition de Sapporo), une époussetée d'oignons et une feuille d'algue Nori enfilé sur le bord du bol.",
+        "step_10": "Disposez les pousses de soja et le maïs doux sur un côté, puis un demi-œuf mariné et une noix de beurre frais de montagne au centre, dans le style de Sapporo. Ajoutez de la cébette finement émincée et glissez une feuille de nori sur le bord du bol.",
         "step_11": "Amenez à table immédiatement bien chaud!"
       }
     },
@@ -3253,7 +3253,7 @@
           "note": null
         },
         "cipollotto_freschi_affettati_finemente": {
-          "name": "oignons frais finement coupés",
+          "name": "cébettes fraîches finement émincées",
           "note": null
         },
         "olio_di_sesamo": {
@@ -3296,12 +3296,12 @@
       "stepTexts": {
         "step_1": "Dans une casserole, ajoutez le bouillon de poulet, la sauce de soja, le sucre, le vinaigre de riz et la sauce d'huître.",
         "step_2": "Il porte à léger ébullition à feu moyen, puis ajoute l'amidon de maïs dissous en mélangeant continuellement jusqu'à obtenir une sauce brillante, épaissie et veloutée, maintenez au chaud.",
-        "step_3": "Dans un bol, il travaille légèrement les 4 œufs avec une pincée de sel, poivre, huile de sésame, la pulpe de crabe défilée et la moitié des oignons.",
+        "step_3": "Dans un bol, battez légèrement les quatre œufs avec une pincée de sel et de poivre, l'huile de sésame, la chair de crabe effilochée et la moitié des cébettes finement émincées.",
         "step_4": "Chauffez un fil d'huile abondant dans une poêle anti-adhérente à feu vif.",
         "step_5": "Ajouter la moitié du mélange d'œufs pour chaque portion.",
         "step_6": "Continuez la cuisson pendant 1 minute en déplaçant la poêle afin que la base se représente mais la partie supérieure reste incroyablement crémeuse et douce.",
         "step_7": "Posez l'omelette dorée au-dessus d'une montagne de riz chaud au centre d'un plat de fond.",
-        "step_8": "Napez abondamment l'omelette avec la sauce Agrodolce Ankake bien chaude et garnissez avec les oignons restants."
+        "step_8": "Nappez généreusement l'omelette de sauce ankake aigre-douce bien chaude et parsemez du reste des cébettes."
       }
     },
     "recipe_000064": {
@@ -3456,7 +3456,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "oignons coupés",
+          "name": "cébettes émincées",
           "note": null
         },
         "pasta_di_miso": {
@@ -3493,7 +3493,7 @@
         "step_6": "Ajoutez le bouillon de poulet et faites bouillir.",
         "step_7": "Combinez les aubergines dorées dans la poêle, amalgamez doucement pour absorber les saveurs pendant 2 minutes.",
         "step_8": "Puis ajoutez l'amidon de maïs dissous au fil jusqu'à obtenir une sauce dense et enveloppante.",
-        "step_9": "Pulvériser avec de l'oignon frais et mettre sur la table un bol de riz chaud."
+        "step_9": "Pulvériser avec de la cébette fraîche et mettre sur la table un bol de riz chaud."
       }
     },
     "recipe_000067": {
@@ -3758,7 +3758,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Ciboulette frais haché",
+          "name": "cébette fraîche hachée",
           "note": null
         }
       },
@@ -3772,7 +3772,7 @@
         "step_7": "Mettez dans une casserole, réchauffez le bouillon de poulet avec du lait de soja sans le faire bouillir fort pour éviter que le lait ne chie.",
         "step_8": "Ajoutez le bouillon chaud dans les bols et amalgamez bien avec le fouet pour dissoudre la pâte de sésame au fond.",
         "step_9": "Fais cuire les nouilles ramen 2 minutes dans l’eau bouillante, égoutte-les soigneusement et dépose-les dans le bouillon.",
-        "step_10": "Garnissez au centre avec une généreuse cuillère à soupe de viande épicée, les feuilles de bok choy molletées et une soupe d'oignons frais hachés."
+        "step_10": "Garnissez au centre avec une généreuse cuillère à soupe de viande épicée, les feuilles de bok choy molletées et une soupe d'cébettes fraîches hachés."
       }
     },
     "recipe_000072": {
@@ -3860,7 +3860,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "oignon (uniquement vert)",
+          "name": "cébette (partie verte seulement)",
           "note": null
         },
         "sake": {
@@ -3990,7 +3990,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         }
       },
@@ -4003,7 +4003,7 @@
         "step_6": "Éteignez le feu, combinez les cubes de curry roux et amalgamez bien avec le fouet jusqu'à ce qu'ils se dissolvent complètement en créant un bouillon velouté et dense.",
         "step_7": "Cuisez les Udon dans de l'eau bouillante pendant 2 minutes, écoliez et divisez-les en deux bols de grande taille.",
         "step_8": "Ajoutez le bouillon épais au curry chaud au-dessus des Udon.",
-        "step_9": "Adagia la côtelette Tonkatsu croustillante sur la surface et garnis avec un gros oignon frais."
+        "step_9": "Adagia la côtelette Tonkatsu croustillante sur la surface et garnis avec un gros cébette fraîche."
       }
     },
     "recipe_000076": {
@@ -4048,7 +4048,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "ciboulet haché",
+          "name": "cébette hachée",
           "note": null
         },
         "katsuobushi": {
@@ -4143,7 +4143,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "ciboulet haché",
+          "name": "cébette hachée",
           "note": null
         },
         "ketchup": {
@@ -4180,7 +4180,7 @@
         "step_6": "Dans le même wok, unissez un fil d'huile, faites cuire à bas feu l'ail, le gingembre et la pâte piquante Doubanjiang jusqu'à ce qu'ils libèrent leurs arômes.",
         "step_7": "Ajoutez le ketchup, le bouillon de poulet, la sauce soja et le sucre.",
         "step_8": "Emmène à la bulle, puis ajoute l'amidon dissous dans une cuillère à soupe d'eau pour faire épaissir la sauce.",
-        "step_9": "Remettez les crevettes dans la poêle avec l'oignon haché, sautez pendant 1 minute pour les enrouler complètement dans la sauce brillante et épicée.",
+        "step_9": "Remettez les crevettes dans la poêle avec la cébette haché, sautez pendant 1 minute pour les enrouler complètement dans la sauce brillante et épicée.",
         "step_10": "Servez-vous avec du riz blanc tout de suite."
       }
     },
@@ -4370,7 +4370,7 @@
           "note": null
         },
         "cipollotti": {
-          "name": "ciboulettes",
+          "name": "cébettes",
           "note": null
         },
         "funghi_shiitake": {
@@ -4394,7 +4394,7 @@
         "step_1": "Dans une casserole, Nabe (ou grand pot) mets l'eau, l'algue Kombu et les morceaux de poulet avec l'os.",
         "step_2": "Il conduit à ébullition lente à feu moyen en éliminant constamment la mousse à la surface avec une mousse pour obtenir un bouillon limpide et riche.",
         "step_3": "Après 20 minutes, retirez l'algue Kombu, ajoutez le Sake et laissez cuire le poulet pendant 15 minutes jusqu'à ce que la viande devienne tendre et le bouillon blanc opalescent.",
-        "step_4": "Joignez le chou chinois coupé en morceaux, les champignons Shiitake gravés en étoile, les oignons et le tofu en cubes.",
+        "step_4": "Joignez le chou chinois coupé en morceaux, les champignons Shiitake gravés en étoile, les cébettes et le tofu en cubes.",
         "step_5": "Faites cuire pendant 8-10 minutes jusqu'à ce que les légumes soient tendres.",
         "step_6": "Mets la casserole au milieu de la table.",
         "step_7": "Chaque commensale prélève des morceaux de poulet et de légumes dans la sauce Ponzu fraîche."
@@ -4402,15 +4402,15 @@
     },
     "recipe_000083": {
       "title": "Tsukemen — ramen à tremper dans un bouillon concentré",
-      "description": "Dans le Tsukemen, les nouilles sont écorchées et servies séparément par un bouillon concentré de viande, des dashis et des condiments. Chaque morceau de pâtes est incarné dans la sauce chaude; chashu et œuf mariné complètent le service sans perdre la consistance des nouilles. Le bouillon concentré est servi chaud dans un bol séparé, tandis que les nouilles restent froides jusqu'au moment de l'intingolo.",
+      "description": "Les tsukemen sont des nouilles japonaises épaisses, cuites, rincées et servies froides à côté d'un bouillon concentré de porc et de poulet assaisonné de sauce soja, mirin, vinaigre de riz, huile pimentée et katsuobushi. Du chashu de porc, un œuf mariné et du nori accompagnent les nouilles. Trempez chaque bouchée dans le bouillon bien chaud juste avant de la déguster, sans immerger toutes les nouilles d'un coup.",
       "animeContext": "Cette recette s'inspire librement de Ramen Daisuki Koizumi-san, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "spessi_noodles_per_tsukemen_o_ramen": {
-          "name": "épais noodles pour Tsukemen ou Ramen",
+          "name": "nouilles épaisses pour tsukemen ou ramen",
           "note": null
         },
         "fettine_di_carne_chashu_di_maiale": {
-          "name": "morceaux de viande Chashu de porc",
+          "name": "tranches de chashu de porc",
           "note": null
         },
         "uovo_ajitsuke_tamago": {
@@ -4422,7 +4422,7 @@
           "note": null
         },
         "polvere_di_pesce": {
-          "name": "poudre de poisson (Katsuobushi pauvres)",
+          "name": "katsuobushi en poudre (bonite séchée moulue)",
           "note": null
         },
         "salsa_di_soia": {
@@ -4450,18 +4450,18 @@
           "note": null
         },
         "cipollotto": {
-          "name": "ciboulette",
+          "name": "cébette",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Dans une casserole, réduire le bouillon de porc et de poulet en le laissant bouillir jusqu'à ce qu'il devienne très dense et savoureux.",
-        "step_2": "Combinez la sauce soja, le Mirin, le vinaigre de riz, l'huile piquante et la poudre de poisson Katsuobushi pour donner un coup de pouce humami intense.",
-        "step_3": "Faites cuire les nouilles épaisses dans beaucoup d'eau bouillante pendant le temps indiqué sur l'emballage (habituellement 5-6 minutes).",
-        "step_4": "Égoutte les nouilles et rince-les immédiatement sous un filet d’eau très froide, avec des glaçons, en les frottant doucement pour éliminer l’amidon de surface.",
-        "step_5": "Installe les nouilles froides sur un plat ou corbeille en bambou avec au-dessus du Chashu, l'œuf mariné au milieu et la feuille de Nori.",
-        "step_6": "Ajoutez le bouillon bouillant et concentré dans un bol séparé.",
-        "step_7": "Prenez une mèche de nouilles froides avec des baguettes, trempez-la dans le bouillon chaud concentré et goutez-la tout de suite."
+        "step_1": "Faites doucement réduire le bouillon de porc et de poulet dans une petite casserole jusqu'à ce qu'il devienne dense et savoureux.",
+        "step_2": "Ajoutez la sauce soja, le mirin, le vinaigre de riz, l'huile pimentée et le katsuobushi en poudre pour obtenir un bouillon de trempage riche en umami.",
+        "step_3": "Faites cuire les nouilles épaisses dans une grande quantité d'eau bouillante selon le temps indiqué sur l'emballage (habituellement 5 à 6 minutes).",
+        "step_4": "Égouttez aussitôt les nouilles, rincez-les sous l'eau courante très froide (avec des glaçons si possible) pour éliminer l'amidon en surface, séparez délicatement les brins puis égouttez-les soigneusement pour qu'elles restent fermes et souples.",
+        "step_5": "Disposez les nouilles froides sur une assiette ou un plateau en bambou avec des tranches de chashu de porc, un œuf mariné coupé en deux et une feuille de nori.",
+        "step_6": "Versez le bouillon concentré très chaud dans un petit bol séparé.",
+        "step_7": "Prenez une petite portion de nouilles froides avec des baguettes, trempez-la brièvement dans le bouillon chaud et dégustez aussitôt."
       }
     },
     "recipe_000084": {
@@ -4797,7 +4797,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         },
         "alga_nori": {
@@ -4808,11 +4808,11 @@
       "stepTexts": {
         "step_1": "Prépare le tare : chauffe doucement la sauce soja, le mirin, le gingembre et l’ail dans une petite casserole pendant 3 minutes, puis filtre.",
         "step_2": "Réchauffez le bouillon de poulet ou de dashi jusqu'à ce qu'il soit léger et tenez-le prêt sans le faire trop réduire.",
-        "step_3": "Préparez les toppings avant les nouilles: coupez le chashu, coupez en moitié l'ajitama, hachez l'oignons et portionnez narutomaki et nori.",
+        "step_3": "Préparez les toppings avant les nouilles: coupez le chashu, coupez en moitié l'ajitama, hachez l'cébettes et portionnez narutomaki et nori.",
         "step_4": "Verse le tare au fond de deux bols à ramen préchauffés, ajoute le bouillon brûlant et mélange pour répartir l’assaisonnement.",
         "step_5": "Faites cuire les nouilles fraîches dans beaucoup d'eau bouillante pendant environ 2 minutes ou pendant le temps indiqué par le fabricant; faites-les cuire avec soin sans les rincer.",
         "step_6": "Transférez immédiatement les nouilles dans le bouillon et séparez-les avec les baguettes pour qu'elles ne restent pas entassées.",
-        "step_7": "Complétez avec chashu, demi ajitama, narutomaki, oignon et nori; servez immédiatement pendant que les nouilles et les bouillons sont encore très chauds."
+        "step_7": "Complétez avec chashu, demi ajitama, narutomaki, cébette et nori; servez immédiatement pendant que les nouilles et les bouillons sont encore très chauds."
       }
     },
     "recipe_000091": {
@@ -4885,7 +4885,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "oignons coupés",
+          "name": "cébettes émincées",
           "note": null
         },
         "salsa_di_soia": {
@@ -4910,7 +4910,7 @@
         "step_2": "Coupez la poitrine de porc, la carotte et la cébette en fines lamelles. Préparez la sauce soja, le dashi, le poivre et l'huile de sésame à côté du wok.",
         "step_3": "Chauffez le wok à feu haut et roulez le bacon sans autre graisse jusqu'à ce qu'il libère une partie de sa graisse et prend de la couleur.",
         "step_4": "Ajoutez la carotte et sautez-la pendant environ 1 minute, en maintenant le feu haut.",
-        "step_5": "Combinez des bourgeons et des oignons et sautez vigoureusement pendant environ 2 minutes: les bourgeons doivent s'adoucir à peine mais conserver mordent.",
+        "step_5": "Combinez des bourgeons et des cébettes et sautez vigoureusement pendant environ 2 minutes: les bourgeons doivent s'adoucir à peine mais conserver mordent.",
         "step_6": "Assaisonnez avec de la sauce soja et des dashi, mélangez pendant quelques secondes et éteignez avant que l'eau ne se forme sur le fond.",
         "step_7": "Complétez avec du poivre noir et de l'huile de sésame et servez-vous immédiatement."
       }
@@ -5213,7 +5213,7 @@
           "note": null
         },
         "semi_di_sesamo_tostate_e_cipollotto_tritato_per_gu_2_cipollotto_tritato_per_guar": {
-          "name": "oignon haché pour garnir",
+          "name": "cébette hachée pour garnir",
           "note": null
         }
       },
@@ -5223,7 +5223,7 @@
         "step_3": "Retirer l'excès de graisse de la poêle avec du papier de cuisine.",
         "step_4": "Mélangez les ingrédients de la sauce teriyaki et ajoutez-la dans la poêle au poulet.",
         "step_5": "Faites bouillir la sauce jusqu'à ce qu'elle devienne brillante et glacée, en nappant continuellement le poulet.",
-        "step_6": "Coupez le poulet en rayures, ajoutez-le sur le riz chaud, ajoutez la sauce caramélisée et complètez avec le sésame et l'oignon."
+        "step_6": "Coupez le poulet en rayures, ajoutez-le sur le riz chaud, ajoutez la sauce caramélisée et complètez avec le sésame et la cébette."
       }
     },
     "recipe_000099": {
@@ -5292,7 +5292,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Ciboulette frais haché",
+          "name": "cébette fraîche hachée",
           "note": null
         }
       },
@@ -5614,7 +5614,7 @@
           "note": null
         },
         "topping_cipollotto_affettato_10": {
-          "name": "oignon coupé",
+          "name": "cébette émincée",
           "note": null
         },
         "topping_alga_nori_11": {
@@ -5631,10 +5631,10 @@
         "step_2": "Débolitez les os 10 minutes, écoliez-les et rincez-les soigneusement; nettoyez également la casserole avant de commencer le bouillon proprement dit.",
         "step_3": "Couvrez les os avec de l'eau fraîche, ajoutez de l'ail et du gingembre et éblouissez vigoureusement; moussez les caillots foncés au début.",
         "step_4": "Gardez une bulle ferme pendant au moins 5-6 heures, en bloquant avec de l'eau bouillante quand elle est nécessaire: graisse et collagène doivent s'émulsionr jusqu'à rendre le bouillon opaque et corsé.",
-        "step_5": "Filtre le bouillon, remets-le sur le feu et ajuste sa concentration. Prépare séparément le tare, le chashu, les œufs, les pousses, la cébette et le nori.",
+        "step_5": "Filtrez le bouillon, remettez-le à chauffer et ajustez sa concentration. Préparez séparément le tare, le chashu, les œufs, les pousses, la cébette émincée, le nori et le mayu (huile à l'ail noir).",
         "step_6": "Porte une casserole d’eau séparée à ébullition et fais cuire les nouilles fraîches pendant le temps indiqué, généralement 1 à 2 minutes. Égoutte-les soigneusement.",
         "step_7": "Dépose le tare au fond des bols préchauffés, verse le bouillon tonkotsu brûlant et mélange.",
-        "step_8": "Ajoute les nouilles, puis complète aussitôt avec le chashu, une demi-portion d’ajitama, des pousses, de la cébette, du nori et quelques gouttes de mayu."
+        "step_8": "Ajoutez les nouilles et garnissez aussitôt de chashu, d'un demi-œuf mariné ajitama, de pousses, de cébette, de nori et de quelques gouttes de mayu."
       }
     },
     "recipe_000109": {
@@ -5783,7 +5783,7 @@
           "note": null
         },
         "finitura_cipollotto_fresco_affettato_5": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         },
         "finitura_maionese_giapponese_kewpie_6": {
@@ -5797,7 +5797,7 @@
         "step_3": "Distribuez le riz très chaud dans les bols et assaisonnez-le avec une partie de la sauce de brassage.",
         "step_4": "Disposez le chashu sur le riz sans le taper, de sorte que chaque bouchée reçoive de la viande et de la sauce.",
         "step_5": "Coupez l'ajitama en deux et ajoutez-le au bol.",
-        "step_6": "Complétez avec l'oignon coupé et, le cas échéant, une petite quantité de mayonnaise Kewpie.",
+        "step_6": "Complétez avec la cébette coupé et, le cas échéant, une petite quantité de mayonnaise Kewpie.",
         "step_7": "Servez-vous immédiatement avant que la graisse du chashu ne refroidisse et ne se représente."
       }
     },
@@ -5863,7 +5863,7 @@
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_1_cipollotto": {
-          "name": "ciboulette",
+          "name": "cébette",
           "note": null
         },
         "cipollotto_e_semi_di_sesamo_2_semi_di_sesamo": {
@@ -5876,12 +5876,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Préparez le mentsuyu à l'avance et refroidissez-le bien au réfrigérateur; râpez le gingembre et coupez l'oignons juste avant le service.",
+        "step_1": "Préparez le mentsuyu à l'avance et refroidissez-le bien au réfrigérateur; râpez le gingembre et coupez l'cébettes juste avant le service.",
         "step_2": "Il porte à ébullition abondante de l'eau non salée et plonge les somens, en les séparant immédiatement avec les baguettes.",
         "step_3": "Faites cuire pendant environ 90 secondes ou selon l'emballage: ils doivent rester élastiques et ne pas se décomposer.",
         "step_4": "Écoliers et laves sous l'eau courante très froide, frottant doucement avec les mains pour éliminer l'amidon superficiel.",
         "step_5": "Transférez-les dans l'eau et la glace pour les garder froids, sans les laisser trop longtemps immergés.",
-        "step_6": "Servez de petites portions à la fois et trempez dans le mentsuyu froid avec le gingembre, l'oignon et le sésame.",
+        "step_6": "Servez de petites portions à la fois et trempez dans le mentsuyu froid avec le gingembre, la cébette et le sésame.",
         "step_7": "Si vous voulez simuler le service nagashi, faites glisser les somens dans de l'eau froide propre et ramassez-les immédiatement avec des baguettes."
       }
     },
@@ -6084,7 +6084,7 @@
           "note": null
         },
         "finitura_cipollotto_affettato_6": {
-          "name": "oignon coupé",
+          "name": "cébette émincée",
           "note": null
         },
         "finitura_karashi_7": {
@@ -6099,7 +6099,7 @@
         "step_4": "Rincez rapidement les udon uniquement s'ils sont prévus par le type utilisé, puis transférez-les dans les bols préchauffés.",
         "step_5": "Versez le bouillon bouillant sur les udon et séparez délicatement les fils avec les baguettes.",
         "step_6": "Adapte deux morceaux de kakuni par portion et ajoute une cuillère du fond de brassage pour intensifier la saveur.",
-        "step_7": "Complétez avec l'oignon et une petite quantité de karashi sur le bord du bol et servez-vous immédiatement."
+        "step_7": "Complétez avec la cébette et une petite quantité de karashi sur le bord du bol et servez-vous immédiatement."
       }
     },
     "recipe_000119": {
@@ -6302,7 +6302,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
-          "name": "ciboulette",
+          "name": "cébette",
           "note": null
         }
       },
@@ -6313,7 +6313,7 @@
         "step_4": "Combinez le riz et faites bouillir encore 4-5 minutes, en mélangeant juste assez pour ne pas casser les grains.",
         "step_5": "Cochez l'œuf sans le rendre complètement homogène et versez-le à la surface.",
         "step_6": "Éteignez le feu, couvrez pendant environ 1 minute et laissez l'œuf terminer la cuisson avec la chaleur résiduelle.",
-        "step_7": "Complétez avec l'oignon et servez-vous immédiatement, lorsque le riz est doux mais pas encore cassé."
+        "step_7": "Complétez avec la cébette et servez-vous immédiatement, lorsque le riz est doux mais pas encore cassé."
       }
     },
     "recipe_000124": {
@@ -6603,7 +6603,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Ciboulette frais coupé finement",
+          "name": "cébette fraîche finement émincée",
           "note": null
         }
       },
@@ -6648,12 +6648,12 @@
           "note": null
         },
         "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
-          "name": "oignon frais pour garnir",
+          "name": "cébette fraîche pour garnir",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez le mentsuyu et laissez-le refroidir complètement au réfrigérateur; tranche concombre, oignon et nori et gardez le tenkasu sec jusqu'au service.",
+        "step_1": "Préparez le mentsuyu et laissez-le refroidir complètement au réfrigérateur; tranche concombre, cébette et nori et gardez le tenkasu sec jusqu'au service.",
         "step_2": "Fais cuire les nouilles udon dans une grande quantité d’eau bouillante jusqu’à ce qu’elles soient souples, mais encore fermes.",
         "step_3": "Écolez-les et refroidissez-les immédiatement sous l'eau courante très froide, puis passez-les dans l'eau et la glace pour arrêter complètement la cuisson.",
         "step_4": "Égoutte soigneusement les nouilles udon et secoue-les : l’eau résiduelle diluerait le mentsuyu.",
@@ -6744,7 +6744,7 @@
           "note": null
         },
         "uovo_marinato_2_cipollotto_per_servire": {
-          "name": "ciboulette pour servir",
+          "name": "cébette pour servir",
           "note": null
         }
       },
@@ -6755,7 +6755,7 @@
         "step_4": "Couvrez et laissez cuire à faible feu pendant 15-20 minutes en tournant le poulet de temps en temps jusqu'à ce que la sauce épaisse et glaçage de la viande. Avant de trancher le poulet roulé, vérifiez au thermomètre que le centre a atteint au moins 74 °C ; prolongez la cuisson si nécessaire. Ficelez avec de la ficelle de cuisine.",
         "step_5": "Laissez le poulet refroidir et tranchez-le avec des disques d'or.",
         "step_6": "Chauffez le bouillon de poulet et régulez-le avec 2 cuillères à soupe de glaçage de poulet.",
-        "step_7": "Faites cuire les nouilles pour ramen, écollez-les dans le bol, ajoutez le bouillon et garnissez avec les tranches de Tori Chashu, œuf mariné au milieu et oignons."
+        "step_7": "Faites cuire les nouilles pour ramen, écollez-les dans le bol, ajoutez le bouillon et garnissez avec les tranches de Tori Chashu, œuf mariné au milieu et cébettes."
       }
     },
     "recipe_000134": {
@@ -6784,7 +6784,7 @@
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_1_cipollotto": {
-          "name": "ciboulette",
+          "name": "cébette",
           "note": null
         },
         "cipollotto_e_alga_nori_a_striscioline_2_alga_nori_a_striscioline": {
@@ -6798,7 +6798,7 @@
         "step_3": "Préparez les garnitures : râpez le gingembre, émincez la cébette et coupez le nori en lanières.",
         "step_4": "Répartissez les petits poissons shirasu cuits sur le riz sans les écraser.",
         "step_5": "Faites un petit creux au centre et déposez délicatement un jaune d'œuf pasteurisé adapté à la consommation sans cuisson. N'utilisez pas de jaune cru non pasteurisé.",
-        "step_6": "Ajouter du gingembre, de l'oignon et du nori en petites quantités séparées, de sorte que chaque bouchée peut être réglée à volonté.",
+        "step_6": "Ajouter du gingembre, de la cébette et du nori en petites quantités séparées, de sorte que chaque bouchée peut être réglée à volonté.",
         "step_7": "Versez la sauce de soja à fil juste avant de manger et mélangez partiellement le jaune avec du riz et du shirasu, en maintenant différentes textures dans le bol."
       }
     },
@@ -6968,7 +6968,7 @@
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "oignon coupé en rondelles",
+          "name": "cébette coupée en rondelles",
           "note": null
         }
       },
@@ -6980,7 +6980,7 @@
         "step_5": "Couvrez et faites cuire à feu moyen-bas pendant environ 10 minutes, jusqu'à ce que les racines deviennent tendres.",
         "step_6": "Ajoutez le tofu et réchauffez-le pendant 2-3 minutes sans mélanger vigoureusement.",
         "step_7": "Éteignez le feu, détachez le miso dans une louche de bouillon et ajoutez-le à la soupe sans la faire bouillir.",
-        "step_8": "Complétez avec l'oignon et servez très chaud."
+        "step_8": "Complétez avec la cébette et servez très chaud."
       }
     },
     "recipe_000139": {
@@ -7401,7 +7401,7 @@
           "note": null
         },
         "germogli_di_soia_e_cipollotto_fresco_2_cipollotto_fresco": {
-          "name": "oignon frais",
+          "name": "cébette fraîche",
           "note": null
         }
       },
@@ -7413,7 +7413,7 @@
         "step_5": "Chauffez le reste du bouillon de poulet et joignez la base au sésame noir, en mélangeant vigoureusement avec un fouet pour distribuer le sésame de manière uniforme.",
         "step_6": "Faites cuire les nouilles pour ramen dans de l'eau bouillante non salée pendant 2 minutes, puis égouttez soigneusement.",
         "step_7": "Ajoutez le bouillon noir et parfumé dans les bols, adagie les nouilles au centre.",
-        "step_8": "Disposez au-dessus de la viande de porc roulée, les œufs marinés divisés en deux, pousses de soja et abondant oignon."
+        "step_8": "Disposez au-dessus de la viande de porc roulée, les œufs marinés divisés en deux, pousses de soja et abondant cébette."
       }
     },
     "recipe_000148": {
@@ -7484,7 +7484,7 @@
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "oignons frais hachés finement",
+          "name": "cébettes fraîches finement hachées",
           "note": null
         },
         "d_aglio_tritato": {
@@ -7511,13 +7511,13 @@
       "stepTexts": {
         "step_1": "Égrenez bien le riz froid avec vos mains pour séparer les grains. Utilisez du riz cuit refroidi rapidement en couche fine, idéalement en une heure, puis réfrigéré et consommé sous 24 heures. Ne le laissez pas à température ambiante et ne le réchauffez qu'une fois, jusqu'à ce qu'il soit brûlant à cœur.",
         "step_2": "Réchauffez un wok à feu vif avec de l'huile de sésame.",
-        "step_3": "Tu souffres de l'ail et de la moitié de l'oignon.",
+        "step_3": "Faites revenir doucement l'ail et la moitié des cébettes hachées.",
         "step_4": "Ajoutez les œufs battus et mélangez rapidement pour créer brouillés doux.",
         "step_5": "Ajoutez immédiatement le riz dans le wok et sautez-le très fort pendant 3-4 minutes, en égrenant constamment avec la spatule.",
         "step_6": "Ajoutez la pulpe de crabe défibrée et mélangez doucement pour amalgamer la pulpe sans la détruire excessivement.",
         "step_7": "Ajoutez la sauce soja le long du bord perché du wok pour la faire caraméliser avant de l'incorporer au riz.",
         "step_8": "Règle de sel et abondant poivre blanc.",
-        "step_9": "Joignez le reste de l'oignon frais et servez bien chaud."
+        "step_9": "Ajoutez le reste des cébettes fraîches et servez bien chaud."
       }
     },
     "recipe_000150": {
@@ -7617,7 +7617,7 @@
           "note": null
         },
         "cipollotto_e_maionese_giapponese_1_cipollotto": {
-          "name": "ciboulette",
+          "name": "cébette",
           "note": null
         },
         "cipollotto_e_maionese_giapponese_2_maionese_giapponese": {
@@ -7634,7 +7634,7 @@
         "step_6": "Spennelle la surface avec peu d'huile et plie chaque disque en moitié, en forme de coquille, en insérant un morceau de papier four à l'intérieur pour éviter qu'il ne se solde.",
         "step_7": "Laissez reposer les sandwichs pendant 15 minutes, puis faites cuire dans le panier à vapeur pendant environ 12 minutes à feu moyen.",
         "step_8": "Ouvrez doucement les sandwichs chauds, éliminez le papier four intérieur.",
-        "step_9": "Faites avec des tranches de Chashu bien glaciées avec sa sauce, des tranches de concombre frais, des oignons et un fil de mayonnaise."
+        "step_9": "Faites avec des tranches de Chashu bien glaciées avec sa sauce, des tranches de concombre frais, des cébettes et un fil de mayonnaise."
       }
     },
     "recipe_000152": {
@@ -7887,7 +7887,7 @@
           "note": null
         },
         "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
-          "name": "oignon frais pour garnir",
+          "name": "cébette fraîche pour garnir",
           "note": null
         }
       },
@@ -7899,7 +7899,7 @@
         "step_5": "Réchauffez bien le bouillon aux palourdes sans le réduire trop.",
         "step_6": "Faites cuire les nouilles pour ramen dans beaucoup d'eau bouillante pendant 2 minutes et égouttez.",
         "step_7": "Distribuez les nouilles dans les bols et couvrez-les avec le bouillon chaud aux palourdes.",
-        "step_8": "Adagia au-dessus des palourdes dans la coquille, le maïs et l'oignon frais; elle complète avec une noix de beurre, qui se dissout en liant le bouillon marin."
+        "step_8": "Adagia au-dessus des palourdes dans la coquille, le maïs et la cébette fraîche; elle complète avec une noix de beurre, qui se dissout en liant le bouillon marin."
       }
     },
     "recipe_000157": {
