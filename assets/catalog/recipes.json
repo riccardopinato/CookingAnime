@@ -4773,7 +4773,7 @@
     },
     {
       "id": "recipe_000052",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Black Butler (Kuroshitsuji)",
       "animeReferences": [
@@ -4798,7 +4798,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "farina_00",
@@ -4908,7 +4908,7 @@
     },
     {
       "id": "recipe_000053",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
       "animeReferences": [
@@ -4933,7 +4933,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "gamberone_freschi_sgusciati",
@@ -5742,7 +5742,7 @@
     },
     {
       "id": "recipe_000060",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Si alza il vento (Studio Ghibli)",
       "animeReferences": [
@@ -5767,7 +5767,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "uovo_grandi_a_temperatura_ambiente",
@@ -6726,7 +6726,7 @@
     },
     {
       "id": "recipe_000068",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Doraemon",
       "animeReferences": [
@@ -6751,7 +6751,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "uovo_grandi",
@@ -8040,7 +8040,7 @@
     },
     {
       "id": "recipe_000079",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Isekai Shokudo (Restaurant to Another World)",
       "animeReferences": [
@@ -8065,7 +8065,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "polpa_di_granchio",
@@ -8617,7 +8617,7 @@
     },
     {
       "id": "recipe_000084",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -8642,7 +8642,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "petto_o_sovracoscia_di_pollo_senza_pelle",
@@ -8837,7 +8837,7 @@
     },
     {
       "id": "recipe_000086",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -8862,7 +8862,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "tuorli_d_uovo",
@@ -10672,7 +10672,7 @@
     },
     {
       "id": "recipe_000104",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Kiki - Consegne a domicilio",
       "animeReferences": [
@@ -10697,7 +10697,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "zucca_giapponese_kabocha",
@@ -12349,7 +12349,7 @@
     },
     {
       "id": "recipe_000121",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -12374,7 +12374,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "formaggio_spalmabile",
@@ -12782,7 +12782,7 @@
     },
     {
       "id": "recipe_000126",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -12807,7 +12807,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "carne_di_maiale",
@@ -13181,7 +13181,7 @@
     },
     {
       "id": "recipe_000130",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -13206,7 +13206,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "tagliolini_udon_freschi_o_congelati",
@@ -14155,7 +14155,7 @@
     },
     {
       "id": "recipe_000140",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "K-On!",
       "animeReferences": [
@@ -14180,7 +14180,7 @@
       "difficulty": "hard",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "farina_00",
@@ -14651,7 +14651,7 @@
     },
     {
       "id": "recipe_000145",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Non Non Biyori",
       "animeReferences": [
@@ -14676,7 +14676,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "farina_00",
@@ -15902,7 +15902,7 @@
     },
     {
       "id": "recipe_000156",
-      "contentVersion": 5,
+      "contentVersion": 6,
       "status": "published",
       "inspirationTitle": "Ramen Daisuki Koizumi-san",
       "animeReferences": [
@@ -15927,7 +15927,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "ramen_noodles",
@@ -16421,7 +16421,7 @@
     },
     {
       "id": "recipe_000161",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Nana",
       "animeReferences": [
@@ -16446,7 +16446,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "farina_00",

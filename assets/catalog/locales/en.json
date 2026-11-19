@@ -2594,7 +2594,7 @@
       "animeContext": "This recipe is thematically inspired by Black Butler (Kuroshitsuji), My Hero Academia. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_di_birra_secco": {
@@ -2668,7 +2668,7 @@
           "note": null
         },
         "farina_per_tempura": {
-          "name": "tempura flour (or flour 00 sieved)",
+          "name": "tempura flour (or Italian 00 flour sieved)",
           "note": null
         },
         "tuorlo_d_uovo": {
@@ -3062,7 +3062,7 @@
           "note": null
         },
         "farina_per_pane_o_farina_00_setacciata": {
-          "name": "flour for bread or flour 00 sieved",
+          "name": "flour for bread or Italian 00 flour sieved",
           "note": null
         },
         "miele_di_acacia": {
@@ -3560,7 +3560,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_per_dolci": {
@@ -4202,7 +4202,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "latte_intero_caldo": {
@@ -4222,7 +4222,7 @@
           "note": null
         },
         "farina_00_2": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "uovo_sbattute": {
@@ -4474,7 +4474,7 @@
           "note": null
         },
         "farina_00_e_1_uovo_sbattuto_per_impanare_1_farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "farina_00_e_1_uovo_sbattuto_per_impanare_2_uovo_sbattuto_per_impanare": {
@@ -4592,7 +4592,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_per_dolci": {
@@ -5452,7 +5452,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "uovo_sbattuto": {
@@ -6229,7 +6229,7 @@
           "note": null
         },
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "amido_di_mais": {
@@ -6403,7 +6403,7 @@
           "note": null
         },
         "farina_per_pastella": {
-          "name": "flour 00 for batter",
+          "name": "Italian 00 flour for batter",
           "note": null
         },
         "acqua_fredda_per_pastella": {
@@ -6583,7 +6583,7 @@
           "note": null
         },
         "farina_per_tempura": {
-          "name": "tempura flour (or flour 00 + iced water)",
+          "name": "tempura flour (or Italian 00 flour + iced water)",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
@@ -7024,7 +7024,7 @@
       "animeContext": "This recipe is thematically inspired by K-On!, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "polvere_di_matcha": {
@@ -7248,7 +7248,7 @@
       "animeContext": "This recipe is thematically inspired by Non Non Biyori, Azumanga Daioh. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "lievito_per_dolci": {
@@ -8093,7 +8093,7 @@
       "animeContext": "This recipe is thematically inspired by Nana, K-On!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "farina_00": {
-          "name": "flour 00",
+          "name": "Italian 00 flour",
           "note": null
         },
         "uovo": {
