@@ -12,23 +12,11 @@ import json
 from pathlib import Path
 
 from f3l_translation_gate import digest, inspect
+from fast_track_12_repairs import repair, IDS
 
 ROOT = Path(__file__).resolve().parents[1]
 LOCALES = ("en", "es", "fr", "de", "pt")
-HOLD = {
-    51: "Salt amount 1.5 tbsp in 500 ml broth requires correction before publishing updated method",
-    56: "Raw seafood sourcing and cold-chain handling",
-    59: "Shellfish handling and cooking guidance",
-    80: "Japanese sanma species/common-name ambiguity",
-    96: "Shellfish handling and cooking guidance",
-    110: "Offal cleaning, doneness and handling",
-    117: "Poultry/egg preparation safety",
-    133: "Poultry/egg preparation safety",
-    149: "Cooked-rice rapid cooling and reheating safeguards",
-    150: "Poultry/duck doneness and handling",
-    153: "Raw dipping yolk suitability",
-    156: "Clam handling and cooking guidance",
-}
+HOLD = {}
 
 
 def read(path: Path) -> dict:
@@ -168,7 +156,7 @@ def main() -> int:
     targets = [
         f"recipe_{n:06d}" for n in range(51, 163) if n not in HOLD
     ]
-    if len(targets) != 100 or len(source_by_id) != 112:
+    if len(targets) != 112 or len(source_by_id) != 112:
         raise SystemExit("Unexpected target count or source identity")
     translations = {
         l: {r["id"]: r for r in packs[l]["recipes"]}
@@ -187,7 +175,7 @@ def main() -> int:
             # Already imported: safe to re-run without increasing versions.
             continue
         locales = {l: translations[l][rid] for l in LOCALES}
-        new = reconstruct(old, src, locales)
+        new = repair(reconstruct(old, src, locales))
         if len(new["steps"]) != len(src["steps"]):
             raise SystemExit(f"{rid}: lost method steps")
         if args.apply:
@@ -199,10 +187,13 @@ def main() -> int:
         )
     report = {
         "scope": {"from": "recipe_000051", "to": "recipe_000162", "existing": 112},
-        "phase": "FAST_TRACK_CANDIDATE_NOT_LANGUAGE_OR_SAFETY_CERTIFIED",
+        "phase": "FAST_TRACK_FULL_112_WITH_SOURCE_BOUND_SAFETY_REPAIRS",
         "promotedRecipeIds": targets,
         "eligibleCount": len(targets),
         "newChangesThisExecution": len(changed),
+        "remainingOriginalHoldsCorrected": sorted(changed),
+        "localeCount": 6,
+        "evidenceUrls": __import__("fast_track_12_repairs").REFERENCES,
         "italianDetailedStepsInChangedRecords": source_steps,
         "allLocaleMethodStepsInChangedRecords": locale_methods,
         "hold": {
@@ -214,10 +205,11 @@ def main() -> int:
             {"from": "recipe_000151", "to": "recipe_000162", "size": 12},
         ],
         "caution": (
-            "Source-locked multilingual staging improves methods but does not "
-            "prove complete contextual translation accuracy. The HOLD group "
-            "keeps concrete food-safety and factual risks out of this update. "
-            "Run compiler, QA, tests and exact-head CI before any merge."
+            "Source-locked multilingual staging provides detailed methods and "
+            "12 risk-specific localized safety repairs. No additional recipes. "
+            "Full 162-recipe semantic audit is separate; automatic checks do "
+            "not prove contextual translation correctness. "
+            "Run compiler, QA, tests and exact-head CI before merge."
         ),
     }
     if args.apply:

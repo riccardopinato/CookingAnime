@@ -2527,60 +2527,65 @@
       }
     },
     "recipe_000051": {
-      "title": "Shio Ramen",
-      "description": "Une version pratique de Shio Ramen à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Emiya-san Chi no Kyou no Gohan, Naruto. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Shio ramen — ramen au sel, chashu et menma",
+      "description": "Le Shio Ramen valorise un bouillon clair de poulet et de dashi sans goût avec saké, sel et huile de sésame. Les nouilles sont lissées séparément et placées dans le bouillon chaud avec chashu, œuf mariné, menma, oignon et nori: la rapidité de l'assemblage conserve la consistance de la pâte.",
+      "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Naruto. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "tagliolini_per_ramen_freschi": {
-          "name": "Tagliolini per ramen frais",
+          "name": "nouilles fraîches pour ramen",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Poulet bouillon leggero",
+          "name": "bouillon léger de poulet",
           "note": null
         },
         "dashi_in_polvere": {
-          "name": "Dashi in polvere",
+          "name": "dashi en poudre",
           "note": null
         },
         "sale_marino_fine": {
-          "name": "Sea sel fine (o alga kelp salata)",
-          "note": null
+          "name": "sel marin fin (ou kombu salé)",
+          "note": "Commencez par ½ cuillère à café ; rectifiez après dégustation"
         },
         "sake_da_cucina": {
-          "name": "Sake da cucina",
+          "name": "saké de cuisine",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         },
         "maiale_chashu": {
-          "name": "Porc chashu",
+          "name": "porc chashu",
           "note": null
         },
         "uovo_marinate": {
-          "name": "Œuf marinate (ajitsuke tamago)",
+          "name": "œufs marinés (ajitsuke tamago)",
           "note": null
         },
         "germogli_di_bambu": {
-          "name": "Pousses de bambou (menma)",
+          "name": "pousses de bambou assaisonnées (menma)",
           "note": null
         },
         "erba_cipollina_fresca_tritata": {
-          "name": "Erba cipollina frais tritata",
+          "name": "ciboulette fraîche ciselée",
           "note": null
         },
         "alga_nori": {
-          "name": "Nori",
+          "name": "algue nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une petite casserole, réchauffez le bouillon de poulet avec le dashi en poudre, le saké de cuisine et le sel, en remuant jusqu’à dissolution. Commencez avec seulement une demi-cuillère à café de sel fin. Goûtez le bouillon avant de servir et rectifiez par petites touches : dashi et garnitures sont déjà salés.",
+        "step_2": "Ajoutez l’huile de sésame et gardez le bouillon bien chaud à feu très doux, sans le porter à ébullition.",
+        "step_3": "Portez une grande quantité d’eau non salée à ébullition dans une marmite.",
+        "step_4": "Faites cuire les nouilles fraîches pour ramen pendant environ 2 minutes : elles doivent rester fermes sous la dent.",
+        "step_5": "Égouttez-les soigneusement en secouant la passoire pour éliminer l’excédent d’eau.",
+        "step_6": "Répartissez le bouillon très chaud dans deux bols à ramen.",
+        "step_7": "Déposez délicatement les nouilles au centre de chaque bol, en formant un joli monticule.",
+        "step_8": "Disposez sur le côté les tranches de chashu, l’œuf mariné coupé en deux, les menma et une généreuse pincée de ciboulette.",
+        "step_9": "Glissez une feuille de nori sur le bord de chaque bol et servez aussitôt, bien chaud."
       }
     },
     "recipe_000052": {
@@ -2839,52 +2844,63 @@
       }
     },
     "recipe_000056": {
-      "title": "Chirashizushi",
-      "description": "Une version pratique de Chirashizushi à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Fruits Basket, Kimi ni Todoke. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Chirashizushi — riz à sushi de fête garni de poisson et de légumes",
+      "description": "Le Chirashizushi présente sur du riz à sushi assaisonné et tiédi un assortiment de fines lanières d'omelette, de poisson, de crevettes, de concombre et d'œufs de saumon. Le plat demande surtout un assemblage délicat. Tout produit de la mer destiné à être servi cru doit être explicitement adapté à cet usage et conservé dans des conditions appropriées.",
+      "animeContext": "Cette recette s'inspire librement de Fruits Basket, Kimi ni Todoke. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "riso_per_sushi_cotto_e_condito_con_aceto_di_riso": {
-          "name": "Sushi riz cotto e condito con vinaigre de riz",
+          "name": "riz pour sushis cuit et assaisonné avec vinaigre de riz",
           "note": null
         },
-        "zucchero_e_sale": {
-          "name": "Sucre e sel (sumeshi)",
+        "zucchero_e_sale_1_zucchero": {
+          "name": "sucre",
+          "note": null
+        },
+        "zucchero_e_sale_2_sale_sumeshi": {
+          "name": "sel (Sumeshi)",
           "note": null
         },
         "salmone_fresco_per_sashimi_a_cubetti": {
-          "name": "Saumon frais per sashimi a cubetti",
+          "name": "saumon frais pour sashimi à cubes",
           "note": null
         },
         "tonno_fresco_a_cubetti": {
-          "name": "Thon frais a cubetti",
+          "name": "thon frais en cubes",
           "note": null
         },
         "gamberi_cotti_sgusciati": {
-          "name": "Crevettes cotti sgusciati",
+          "name": "crevettes cuites décortiquées",
           "note": null
         },
         "uovo": {
-          "name": "Œuf (per fare la frittatina sottile kinshi tamago)",
+          "name": "oeuf (pour faire la frittatine fine kinhi tamago)",
           "note": null
         },
         "cetriolo_giapponese_a_fettine_sottili": {
-          "name": "Cetriolo giapponese a fettine sottili",
+          "name": "concombre japonais à tranches minces",
           "note": null
         },
         "uova_di_salmone": {
-          "name": "Œufs di saumon (ikura) per guarnire",
+          "name": "oeufs de saumon (Ikura) à garnir",
           "note": null
         },
-        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori": {
-          "name": "Graines de sésame tostati e striscioline di nori",
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_1_semi_di_sesamo_tostati": {
+          "name": "Graines de sésame grillées",
+          "note": null
+        },
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_2_striscioline_di_alga_nori": {
+          "name": "fines lanières de nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Allongez le riz pour sushi assaisonné et assaisonné dans un grand bol en bois ou en céramique.",
+        "step_2": "Travaillez les œufs avec une pincée de sel et de sucre.",
+        "step_3": "Faites cuire une frittatine très fine dans une poêle, laissez-la refroidir et coupez-la en fines brindilles comme des nouilles.",
+        "step_4": "Rouvrez entièrement la surface du riz avec les fines lanièress d' frittata kinihi tamago.",
+        "step_5": "Système artistiquement rayonnaire ou mosaïque les cubes de saumon, de thon, les crevettes et les tranches de concombre. Utilisez du saumon et du thon expressément adaptés à la consommation crue, en suivant les consignes du fournisseur sur la congélation et le maintien au froid. Assemblez juste avant de servir : l'aspect frais ne garantit pas l'innocuité.",
+        "step_6": "Dépose quelques cuillerées d’œufs de saumon ikura au centre, puis parsème de graines de sésame grillées et de fines lanières de nori.",
+        "step_7": "Porte à table fraîche accompagnée de sauce soja et wasabi."
       }
     },
     "recipe_000057": {
@@ -2987,44 +3003,49 @@
       }
     },
     "recipe_000059": {
-      "title": "Asari no Sakamushi",
-      "description": "Une version pratique de Asari no Sakamushi à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars! (Shokugeki no Soma), Midnight Diner (Shinya Shokudo). Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Asari no sakamushi — palourdes vapeur au saké et au gingembre",
+      "description": "L'Asari no Sakamushi consiste à cuire brièvement à couvert des palourdes déjà dégorgées avec du saké, de l'ail et du gingembre. Après avoir doucement parfumé le beurre, ajoutez les palourdes et augmentez le feu jusqu'à ce qu'elles s'ouvrent; jetez celles qui restent fermées. Hors du feu, complétez le jus avec le reste du beurre et un peu de sauce soja, puis servez avec de la ciboulette fraîche.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars! (Shokugeki no Soma), Midnight Diner (Shinya Shokudo). Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "vongole_fresche": {
-          "name": "Palourdes frais (fatte spurgare in eau salata)",
+          "name": "palourdes fraîches préalablement dégorgées",
           "note": null
         },
         "sake_da_cucina_giapponese": {
-          "name": "Sake da cucina giapponese",
+          "name": "saké de cuisine japonaise",
           "note": null
         },
         "d_aglio_affettato_finemente": {
-          "name": "D'ail tranché finemente",
+          "name": "gousse d'ail coupée finement",
           "note": null
         },
         "zenzero_fresco_grattugiato": {
-          "name": "Gingembre frais râpé",
+          "name": "gingembre frais râpé",
           "note": null
         },
         "burro": {
-          "name": "Beurre",
+          "name": "beurre",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "erba_cipollina_fresca_tritata_per_guarnire": {
-          "name": "Erba cipollina frais tritata per guarnire",
+          "name": "Ciboulette fraîche hachée pour garnir",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Lave soigneusement les palourdes déjà épurées sous l'eau courante froide.",
+        "step_2": "Dans une grande casserole avec couvercle, détachez la moitié du beurre et ajoutez l'ail coupé et le gingembre râpé.",
+        "step_3": "Dormir à feu doux pendant 1 minute.",
+        "step_4": "Rassemblez les palourdes dans la casserole et ajoutez immédiatement le saké japonais.",
+        "step_5": "Couvrez immédiatement avec le couvercle et relevez la flamme au feu vif.",
+        "step_6": "Faites cuire pendant 3-4 minutes en secouant de temps en temps la casserole jusqu'à ce que toutes les palourdes s'ouvrent complètement (jetez celles qui restent fermées). Utilisez des palourdes vivantes provenant d'un fournisseur fiable. Jetez celles dont la coquille est cassée ou qui ne se referment pas au toucher avant cuisson, puis celles qui restent fermées après une cuisson complète.",
+        "step_7": "Éteins le feu, ajoute le reste du beurre et un fil de sauce soja.",
+        "step_8": "Amalgame délicatement pour créer un bouillon savoureux et brillant.",
+        "step_9": "Il pulvérise avec beaucoup d'herbe ciboulette fraîche et apporte à la table très chaude avec son bouillon."
       }
     },
     "recipe_000060": {
@@ -4231,20 +4252,16 @@
       }
     },
     "recipe_000080": {
-      "title": "Sanma no Shioyaki",
-      "description": "Une version pratique de Sanma no Shioyaki à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Emiya-san Chi no Kyou no Gohan, Yuru Camp△. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Sanma no Shioyaki — balaou du Pacifique grillé au daikon",
+      "description": "Le Sanma no Shioyaki est un poisson entier salé et grillé jusqu'à ce que la peau devienne dorée. Il est accompagné de daikon râpé et assaisonnements essentiels pour laisser en évidence la saveur du poisson; la dénomination italienne de l'espèce nécessite une vérification taxinomique. Le daikon râpé, la sauce de soja et le citron accompagnent le poisson entier, dont la peau est rendue dorée sur la grille.",
+      "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Yuru Camp△. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "Pesce sanma (luccio di mare/costardella) interi frais",
+          "name": "balaou du Pacifique (Cololabis saira) entier, nettoyé et vidé",
           "note": null
         },
         "sale_marino_grosso": {
-          "name": "Sea sel grosso",
+          "name": "sel marin gros",
           "note": null
         },
         "daikon_grattugiato": {
@@ -4252,19 +4269,23 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Fettine di citron o sudachi",
+          "name": "Coquilles de citron ou de Sudachi",
           "note": null
         },
         "salsa_di_soia_per_servire": {
-          "name": "Sauce soja pour servir",
+          "name": "Sauce de soja pour servir",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Rincer les poissons Sanma en les laissant entiers (la tradition japonaise prévoit la cuisson avec les entrailles pour un goût agréablement amer). Le sanma est le balaou du Pacifique (Cololabis saira), pas un brochet. Pour une préparation domestique, prenez du poisson nettoyé et vidé ou faites-le préparer par le poissonnier ; vérifiez la cuisson dans la partie la plus épaisse.",
+        "step_2": "Inciter la peau avec 3 découpes diagonales de chaque côté.",
+        "step_3": "Il pulvérise généreusement de gros sel et laisse reposer 10 minutes.",
+        "step_4": "Sèche l'humidité libérée par le sel avec du papier absorbant.",
+        "step_5": "Faites cuire les poissons sur une grille brûlante ou sur la plaque du four à 220°C pendant environ 6 à 7 minutes par côté.",
+        "step_6": "Aussi longtemps que la peau devient dorée, croustillante et que de légères brûlures se forment.",
+        "step_7": "Installez les poissons entiers sur des plats rectangulaires allongés.",
+        "step_8": "Sers avec une généreuse portion de daikon frais râpé, légèrement arrosé de sauce soja, et un quartier de citron."
       }
     },
     "recipe_000081": {
@@ -5059,44 +5080,59 @@
       }
     },
     "recipe_000096": {
-      "title": "Asari Clam Chowder",
-      "description": "Une version pratique de Asari Clam Chowder à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Emiya-san Chi no Kyou no Gohan, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Clam chowder aux asari — soupe crémeuse de palourdes",
+      "description": "L'Asari Clam Chowder est une soupe crémeuse avec des palourdes ouvertes à la vapeur, des pommes de terre et des oignons. Le liquide des palourdes est filtré et récupéré pour savourer la base; les mollusques entrent seulement à la fin, sans en prolonger inutilement la cuisson. Le liquide filtré des palourdes entre dans la base crémeuse avec du lait et de la crème; les mollusques ouverts s'ajoutent à la fin.",
+      "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "vongole_asari": {
-          "name": "Palourdes asari (o veraci) frais e spurgate",
+          "name": "palourdes asaires (ou véraces) fraîches et épurées",
           "note": null
         },
         "patata_media_a_cubetti_piccoli": {
-          "name": "Pomme de terre media a cubetti piccoli",
+          "name": "patate moyenne à petits cubes",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "Oignon e 1 carotte a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "oignon",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "Carotte à cubes",
           "note": null
         },
         "pancetta_a_dadini": {
-          "name": "Pancetta a dadini",
+          "name": "Poitrine à doigts",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "Beurre e 1.5 cucchiai di farine",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "beurre",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "Lait intero e 100 ml di crème da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "farine",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "lait entier",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "crème de cuisine",
           "note": null
         },
         "sake_o_vino_bianco": {
-          "name": "Sake o vino blanc",
+          "name": "Saké ou vin blanc",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Ouvrez les palourdes dans une poêle avec du saké et un couvercle à feu vif. Avant cuisson, jetez les palourdes cassées ou qui ne se referment pas au toucher ; après cuisson, jetez celles qui restent fermées. Réfrigérez le jus filtré s'il n'est pas utilisé immédiatement.",
+        "step_2": "Sépare les palourdes du bouillon filtré et garde tout de côté.",
+        "step_3": "Dans une casserole, détachez le beurre et roulez le bacon avec l'oignon, la carotte et la pomme de terre pendant 5 minutes.",
+        "step_4": "Pulvériser avec de la farine et amalgame bien pendant 1 minute pour griller.",
+        "step_5": "Ajoutez progressivement le liquide des palourdes filtrées, le lait et la crème en continuant à mélanger jusqu'à ce qu'une consistance veloutée soit atteinte.",
+        "step_6": "Faites cuire pendant 12 minutes jusqu'à ce que les pommes de terre soient tendres.",
+        "step_7": "Combinez les palourdes ouvertes en dernier, règle de poivre noir et apportez au restaurant accompagné de croûtons de pain."
       }
     },
     "recipe_000097": {
@@ -5638,40 +5674,47 @@
       }
     },
     "recipe_000110": {
-      "title": "Motsunabe",
-      "description": "Une version pratique de Motsunabe à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Golden Kamuy. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Motsunabe — fondue japonaise aux abats et poireaux de Fukuoka",
+      "description": "Le motsunabe fait mijoter des tripes ou d'autres abats soigneusement nettoyés avec du chou, des poireaux chinois et des arômes dans un bouillon savoureux. La préparation des abats nécessite une attention particulière avant la cuisson; les légumes s'ajoutent à temps pour rester reconnaissables. Le nira s'ajoute dans les dernières minutes de cuisson des abats, qui nécessitent un nettoyage soigné avant d'entrer dans le bouillon.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Golden Kamuy. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "trippa_o_frattaglie_di_manzo_maiale_pulite": {
-          "name": "Trippa o frattaglie di bœuf/porc pulite",
+          "name": "Trippes ou abats de bœuf/porc nettoyés",
           "note": null
         },
         "cespo_di_cavolo_cappuccio_sfogliato": {
-          "name": "Cespo di chou sfogliato",
+          "name": "cespo de chou capucin",
           "note": null
         },
         "erba_cipollina_porri_cinesi": {
-          "name": "Erba cipollina / porri cinesi (nira)",
+          "name": "Ciboulette / poireaux chinois (Nira)",
           "note": null
         },
-        "brodo_dashi_con_aglio_e_peperoncino": {
-          "name": "Dashi bouillon con ail e peperoncino",
+        "brodo_dashi_con_aglio_e_peperoncino_1_brodo_dashi_con_aglio": {
+          "name": "bouillon dashi avec de l'ail",
+          "note": null
+        },
+        "brodo_dashi_con_aglio_e_peperoncino_2_peperoncino": {
+          "name": "piment",
           "note": null
         },
         "miso_chiaro_o_salsa_di_soia": {
-          "name": "Miso chiaro o sauce soja",
+          "name": "miso clair ou sauce soja",
           "note": null
         },
         "tofu_tagliato_a_cubetti": {
-          "name": "Tofu cut into cubetti",
+          "name": "tofu coupé en cubes",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Nettoyez soigneusement les abats; frottez-les avec du sel et peu de farine, rincez-les plusieurs fois et coupez-les en morceaux réguliers. Utilisez uniquement des tripes ou abats vendus déjà nettoyés et précuits, conformément aux consignes du fabricant. Les 10 à 15 minutes servent au réchauffage final et ne suffisent PAS pour cuire des abats crus.",
+        "step_2": "Débollental pendant environ 1 minute, écolière et rincée: cette phase élimine les impuretés et une partie de l'odeur sans trop dissoudre la graisse.",
+        "step_3": "Prépare le bouillon avec le dashi, l’ail, le piment et le miso ou la sauce soja. Assaisonne-le suffisamment, car le chou et le tofu en atténueront le goût.",
+        "step_4": "Placez le chou sur le fond du nabe, ajoutez du tofu et des abats et versez le bouillon jusqu'à couvrir partiellement les ingrédients.",
+        "step_5": "Apportez à l'éponge et faites cuire les abats pendant environ 10-15 minutes, jusqu'à ce qu'ils deviennent gonflés et tenir.",
+        "step_6": "Ajouter le nira coupé en bâtonnets dans les dernières minutes, sans trop mélanger.",
+        "step_7": "Goûtez le bouillon, règlez le miso ou le soja et servez le nabe bouillant directement à partir de la casserole."
       }
     },
     "recipe_000111": {
@@ -5931,32 +5974,88 @@
       }
     },
     "recipe_000117": {
-      "title": "Tori no Karaage Namban Don",
-      "description": "Une version pratique de Tori no Karaage Namban Don à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, My Hero Academia. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tori no karaage namban don — bol de riz au poulet frit namban",
+      "description": "Le Tori no Karaage Namban Don sert sur riz chaud des bouchées de poulet mariné, recouvert d'amidon et de frit. La sauce namban et les condiments finaux ajoutent une note aigre-douce sans renoncer à la croustillance du poulet. Le karaage chaud absorbe pendant quelques secondes la sauce namban, puis rencontre le riz et la tartare froide dans le même bol.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, My Hero Academia. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "Sovracosce di poulet a bocconcini fritti (karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "Succursales de poulet désossées, sans peau, à boulettes",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Sauce namban (3 cucchiai soia, 2 vinaigre de riz, 1 sucre)",
+        "pollo_salsa_di_soia_2": {
+          "name": "Sauce de soja",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Sauce tartara giapponese (œuf sodo tritato, maionese, cetriolini, oignon)",
+        "pollo_sake_da_cucina_3": {
+          "name": "saké de cuisine",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Riz caldo e chou a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "gingembre frais râpé",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "ail râpé",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "fécule de pommes de terre ou amidon de maïs",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "huile de graines à frire",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "Sauce de soja",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "vinaigre de riz",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "sucre",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "œuf dur",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "mayonnaise japonaise",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "oignon finement haché et rincé",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "Cornichons, cornichons, cornichons, cornichons hachés",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "riz japonais cuit",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "Chou capuche julienne",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coupe les hauts de cuisse de poulet en morceaux réguliers et assaisonne-les avec la sauce soja, le saké, le gingembre et l’ail. Laisse mariner au moins 20 minutes.",
+        "step_2": "Porte doucement à frémissement la sauce soja, le vinaigre de riz, le mirin et le sucre pour préparer la sauce nanban, puis laisse tiédir.",
+        "step_3": "Préparez la tartare en mélangeant œuf dur haché, oignon et cornichon bien écolés, mayonnaise japonaise, peu de vinaigre, sel et poivre; gardez-la au réfrigérateur.",
+        "step_4": "Essuyez le poulet de la marinade, passez-le dans l'amidon de pommes de terre ou de maïs et secouez l'excès.",
+        "step_5": "Fritez à 170-175°C en petits lots jusqu'à ce que les bouchées soient dorées et que le poulet soit complètement cuit; aspirez sur le grill. Vérifiez les morceaux de poulet avec un thermomètre alimentaire : ils doivent atteindre au moins 74 °C à cœur. La couleur dorée et le temps de friture ne suffisent pas à garantir la cuisson.",
+        "step_6": "Plongez le karaage encore chaud dans la sauce namban pendant quelques secondes, puis absorbez l'assaisonnement sans perdre complètement le croquant.",
+        "step_7": "Distribuez du riz chaud et du chou julienne dans les bols, ajoutez le poulet namban et complètez avec la sauce tartare froide.",
+        "step_8": "Servez immédiatement, en maintenant le contraste entre riz chaud, poulet croustillant et tartare fraîche."
       }
     },
     "recipe_000118": {
@@ -6600,24 +6699,24 @@
       }
     },
     "recipe_000133": {
-      "title": "Tori Chashu Ramen",
-      "description": "Une version pratique de Tori Chashu Ramen à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Ramen Daisuki Koizumi-san. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tori chashu ramen — ramen au poulet mariné",
+      "description": "Le Tori Chashu Ramen utilise une surpoussière de poulet roulé et cuit dans une marinade de sauce soja et arômes. Le poulet coupé est placé sur des nouilles et bouillons préparés séparément, sans confondre la cuisson de la viande avec le peu de temps requis par les pâtes. Le poulet mariné est laissé refroidir et coupé avant le montage avec bouillon chaud, nouilles et œuf mariné.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Ramen Daisuki Koizumi-san. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "noodles_per_ramen": {
-          "name": "Noodles per ramen",
+          "name": "noodles pour Ramen",
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Sovracosce di poulet disossate con pelle",
+          "name": "Succursales de poulet désossées avec peau",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "saké",
           "note": null
         },
         "mirin": {
@@ -6625,27 +6724,38 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "Gingembre schiacciato e 1 spicchio d'ail",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "gingembre écrasé",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "gousse d'ail",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Poulet bouillon leggero",
+          "name": "bouillon de poulet léger",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Œuf marinato (ajitsuke tamago) e spring oignon pour servir",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "œuf mariné (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "ciboulette pour servir",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Enroule la surpoussière de poulet avec la peau à l'extérieur et attache-la étroitement avec du spaghetti de cuisine.",
+        "step_2": "Mets dans une casserole, roule le rouleau de poulet de tous les côtés.",
+        "step_3": "Joignez de la sauce soja, du saké, de la mirin, du sucre, du gingembre et de l'ail.",
+        "step_4": "Couvrez et laissez cuire à faible feu pendant 15-20 minutes en tournant le poulet de temps en temps jusqu'à ce que la sauce épaisse et glaçage de la viande. Avant de trancher le poulet roulé, vérifiez au thermomètre que le centre a atteint au moins 74 °C ; prolongez la cuisson si nécessaire. Ficelez avec de la ficelle de cuisine.",
+        "step_5": "Laissez le poulet refroidir et tranchez-le avec des disques d'or.",
+        "step_6": "Chauffez le bouillon de poulet et régulez-le avec 2 cuillères à soupe de glaçage de poulet.",
+        "step_7": "Faites cuire les nouilles pour ramen, écollez-les dans le bol, ajoutez le bouillon et garnissez avec les tranches de Tori Chashu, œuf mariné au milieu et oignons."
       }
     },
     "recipe_000134": {
@@ -7357,97 +7467,112 @@
       }
     },
     "recipe_000149": {
-      "title": "Kani Chahan",
-      "description": "Une version pratique de Kani Chahan à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Cooking Master Boy. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kani chahan — riz sauté au crabe et aux poireaux",
+      "description": "Le Kani Chahan est du riz japonais déjà cuit et bien refroidi, sauté rapidement dans le wok avec des œufs, de l'oignon et du crabe. La sauce de soja est versée sur le bord chaud de la poêle pour parfumer le riz sans le rendre humide. Le soja est versé sur le bord chaud du wok avant d'être incorporé au riz; l'oignon frais complète le service.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Cooking Master Boy. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "riso_cotto_del_giorno_prima": {
-          "name": "Riz cotto del giorno prima (freddo di frigorifero)",
+          "name": "riz cuit la veille (froid du réfrigérateur)",
           "note": null
         },
         "polpa_di_granchio_fresca_o_in_scatola_scolata": {
-          "name": "Polpa di crabe frais o in scatola scolata",
+          "name": "pulpe de crabe fraîche ou dans une boîte déchiquetée",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "Œuf sbattute",
+          "name": "œufs battus",
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "Spring oignon frais tritati finemente",
+          "name": "oignons frais hachés finement",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ail tritato",
+          "name": "gousse d'ail haché",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
-        "sale_e_pepe_bianco_macinato_fresco_q_b": {
-          "name": "Sel e pepper blanc macinato frais q.b",
+        "sale_e_pepe_bianco_macinato_fresco_q_b_1_sale": {
+          "name": "sel",
+          "note": null
+        },
+        "sale_e_pepe_bianco_macinato_fresco_q_b_2_pepe_bianco_macinato_fresco_q_b": {
+          "name": "poivre blanc moulu frais",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Égrenez bien le riz froid avec vos mains pour séparer les grains. Utilisez du riz cuit refroidi rapidement en couche fine, idéalement en une heure, puis réfrigéré et consommé sous 24 heures. Ne le laissez pas à température ambiante et ne le réchauffez qu'une fois, jusqu'à ce qu'il soit brûlant à cœur.",
+        "step_2": "Réchauffez un wok à feu vif avec de l'huile de sésame.",
+        "step_3": "Tu souffres de l'ail et de la moitié de l'oignon.",
+        "step_4": "Ajoutez les œufs battus et mélangez rapidement pour créer brouillés doux.",
+        "step_5": "Ajoutez immédiatement le riz dans le wok et sautez-le très fort pendant 3-4 minutes, en égrenant constamment avec la spatule.",
+        "step_6": "Ajoutez la pulpe de crabe défibrée et mélangez doucement pour amalgamer la pulpe sans la détruire excessivement.",
+        "step_7": "Ajoutez la sauce soja le long du bord perché du wok pour la faire caraméliser avant de l'incorporer au riz.",
+        "step_8": "Règle de sel et abondant poivre blanc.",
+        "step_9": "Joignez le reste de l'oignon frais et servez bien chaud."
       }
     },
     "recipe_000150": {
-      "title": "Kamo Namban Soba",
-      "description": "Une version pratique de Kamo Namban Soba à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer, Emiya-san Chi no Kyou no Gohan. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kamo namban soba — nouilles soba chaudes au canard et aux poireaux grillés",
+      "description": "Le Kamo Namban Soba combine des nouilles de sarrasin, de la poitrine de canard roulé du côté de la peau et des poireaux grillés. Les tranches de canard terminent la cuisson dans le bouillon de dashi, de soja et de mirin, qui est versé sur le soba juste avant le service. Les sobas sont rincés pour éliminer l'amidon et chauffés avant de rencontrer le bouillon avec du canard et des poireaux grillés.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer, Emiya-san Chi no Kyou no Gohan. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "tagliolini_soba_di_grano_saraceno": {
-          "name": "Tagliolini soba di grano saraceno",
+          "name": "Sarrasin Soba de sarrasin",
           "note": null
         },
         "petto_d_anatra_con_pelle": {
-          "name": "Petto d'anatra con pelle",
+          "name": "poitrine de canard avec peau",
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Porri lunghi giapponesi (naganegi) cut into tocchetti di 4 cm",
+          "name": "poireaux longs japonais (Naganegi) coupés en morceaux de 4 cm",
           "note": null
         },
         "brodo_dashi_concentrato": {
-          "name": "Dashi bouillon concentrato",
+          "name": "bouillon dashi concentré",
           "note": null
         },
         "salsa_di_soia_scura": {
-          "name": "Sauce soja scura",
+          "name": "Sauce de soja foncée",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di yuzu o citron râpé",
+          "name": "zeste de Yuzu ou citron râpé",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi",
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Tu as la peau de la peau du magret en croisillons sans la viande.",
+        "step_2": "Faites cuire dans une poêle anti-adhérente froide du côté de la peau à feu moyen-bas pendant 8-10 minutes en ramassant la graisse fondue.",
+        "step_3": "Tourne la poitrine de canard et fais-le cuire pendant 2 minutes.",
+        "step_4": "Laissez reposer la viande quelques minutes, puis coupez-la en tranches fines.",
+        "step_5": "Dans la même poêle, en utilisant une partie de la graisse du canard, il grille les touchets de poireau jusqu'à ce qu'ils soient bien dorés et légèrement caramélisés.",
+        "step_6": "Dans une casserole, ajoutez des dashi, de la sauce soja, de la mirin et du sucre.",
+        "step_7": "Apportez le bouillon à ébullition, ajoutez les poireaux grillés et les tranches de canard et laissez bouillir pendant 2 minutes. Pour une préparation domestique prudente, vérifiez avec un thermomètre que le magret de canard atteint au moins 74 °C à cœur avant de servir. Les durées sont indicatives ; le bref passage dans le bouillon ne remplace pas ce contrôle.",
+        "step_8": "Faites cuire les nouilles soba dans l'eau bouillante pendant environ 4 minutes; écolières, rincez-les sous l'eau froide pour éliminer l'amidon superficiel et réchauffez-les brièvement dans l'eau chaude avant le service.",
+        "step_9": "Distribuez le soba dans les bols et couvrez-le avec le bouillon chaud, les tranches de canard et les poireaux.",
+        "step_10": "Complétez avec de l'écorce de yuzu râpée et servez-vous tout de suite."
       }
     },
     "recipe_000151": {
@@ -7557,60 +7682,62 @@
       }
     },
     "recipe_000153": {
-      "title": "Tori Tsukune",
-      "description": "Une version pratique de Tori Tsukune à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Midnight Diner. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tori tsukune — boulettes de poulet grillées, sauce tare et jaune d’œuf",
+      "description": "Les Tori Tsukune sont des brochettes de poulet moulues avec un oignon et du gingembre, façonnées et grillées avant d'être glaciées avec de la sauce. La recette propose un jaune d'œuf pour tremper: ce mode de service nécessite un contrôle de sécurité alimentaire et un ingrédient approprié. Le glaçage enroule les boulettes de poulet cuites; le jaune d'oeuf éventuel nécessite une aptitude vérifiée à la consommation sans cuisson.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Midnight Diner. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "macinato_di_pollo": {
-          "name": "Macinato di poulet",
+          "name": "poulet haché",
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Spring oignon tritati finemente",
+          "name": "oignons hachés finement",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "Cm di gingembre râpé",
+          "name": "gingembre râpé",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Fécule de maïs (katakuriko)",
+          "name": "amidon de maïs (Katakuriko)",
           "note": null
         },
         "uovo": {
-          "name": "Œuf (œuf blanc nell'impasto, œuf yolk pour servir)",
+          "name": "œuf pasteurisé (blanc dans la préparation, jaune pasteurisé pour tremper)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sel e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sel",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "poivre",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "saké",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
-          "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "Spiedini di legno bagnati nell'eau",
+          "name": "sucre",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans un bol, il travaille le moulin de poulet avec l'oignon, le gingembre, l'amidon de maïs, l'albume d'œuf, le sel et le poivre jusqu'à ce que le composé soit homogène et visqueux.",
+        "step_2": "Diviser la pâte en 4 portions allongées et façonnées autour des brochettes en bois en lui donnant une forme ovale cylindrique.",
+        "step_3": "Dans une casserole, réduisez les composants de la sauce Tare jusqu'à ce que la consistance sirupeuse.",
+        "step_4": "Grille les brochettes sur une poêle avec un fil d'huile à feu moyen pendant 3-4 minutes par côté.",
+        "step_5": "Éponge généreusement avec la sauce Tare dans les dernières minutes en les tournant souvent.",
+        "step_6": "Servez les brochettes brillantes et glacées accompagnées d'un jaune d'oeuf frais dans un bol où tremper les boulettes de viande. Faites cuire les boulettes de poulet à au moins 74 °C à cœur, mesurés au thermomètre. Pour tremper les brochettes, utilisez uniquement du jaune d'œuf pasteurisé adapté à la consommation sans cuisson, jamais un jaune cru non pasteurisé."
       }
     },
     "recipe_000154": {
@@ -7723,48 +7850,56 @@
       }
     },
     "recipe_000156": {
-      "title": "Asari Ramen",
-      "description": "Une version pratique de Asari Ramen à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Ramen Daisuki Koizumi-san, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Asari ramen — ramen au bouillon de palourdes et au beurre",
+      "description": "L'Asari Ramen utilise le liquide filtré des palourdes ouvertes avec du saké et de l'ail pour aromatiser un bouillon léger de dashi. Les nouilles se cuitent à part et sont servies immédiatement avec des palourdes, du maïs, de l'oignon et peu de beurre. Le liquide filtré des palourdes aromatisant le dashi, tandis que le beurre se dissout dans le bol au moment du service.",
+      "animeContext": "Cette recette s'inspire librement de Ramen Daisuki Koizumi-san, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "ramen_noodles": {
-          "name": "Ramen noodles",
+          "name": "ramen noodles",
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "Palourdes veraci spurgate",
+          "name": "palourdes vraies épurées",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Dashi bouillon leggero",
+          "name": "bouillon dashi léger",
           "note": null
         },
         "sake_giapponese": {
-          "name": "Sake giapponese",
+          "name": "saké japonais",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Sauce soja chiara",
+          "name": "Sauce de soja claire",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ail tritato",
+          "name": "gousse d'ail haché",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Beurre di malga",
+          "name": "beurre",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Maïs doux e spring oignon frais per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "Maïs doux",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "oignon frais pour garnir",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Mettez les palourdes dans une casserole avec du saké et de l'ail haché.",
+        "step_2": "Couvrez avec un couvercle et faites cuire à feu vif pendant 3-4 minutes jusqu'à ce que les palourdes s'ouvrent. Utilisez des palourdes vivantes et dégorgées d'un fournisseur fiable. Jetez celles dont la coquille est cassée ou ne se referme pas au toucher, puis celles qui restent fermées après cuisson complète. N'utilisez pas le jus des palourdes jetées.",
+        "step_3": "Filtrez soigneusement le liquide libéré des palourdes et gardez-le de côté avec les mollusques ouverts.",
+        "step_4": "Combinez le jus de palourdes avec le bouillon dashi, ajoutez la sauce de soja claire et une pincée de sel.",
+        "step_5": "Réchauffez bien le bouillon aux palourdes sans le réduire trop.",
+        "step_6": "Faites cuire les nouilles pour ramen dans beaucoup d'eau bouillante pendant 2 minutes et égouttez.",
+        "step_7": "Distribuez les nouilles dans les bols et couvrez-les avec le bouillon chaud aux palourdes.",
+        "step_8": "Adagia au-dessus des palourdes dans la coquille, le maïs et l'oignon frais; elle complète avec une noix de beurre, qui se dissout en liant le bouillon marin."
       }
     },
     "recipe_000157": {

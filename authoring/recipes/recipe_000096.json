@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000096",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "Fast Track 12/12: original recipe reconciled to full procedure and localized risk-specific corrections for IT/EN/ES/FR/DE/PT; FDA/FSIS/FSA and EU species evidence recorded in tool/fast_track_12_repairs.py.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 25,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -45,8 +45,13 @@
       "unit": "piece"
     },
     {
-      "id": "cipolla_e_1_carota_a_cubetti",
+      "id": "cipolla_e_1_carota_a_cubetti_1_cipolla",
       "quantity": 0.5,
+      "unit": "piece"
+    },
+    {
+      "id": "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti",
+      "quantity": 1.0,
       "unit": "piece"
     },
     {
@@ -55,13 +60,23 @@
       "unit": "g"
     },
     {
-      "id": "burro_e_1_5_cucchiai_di_farina",
+      "id": "burro_e_1_5_cucchiai_di_farina_1_burro",
       "quantity": 20,
       "unit": "g"
     },
     {
-      "id": "latte_intero_e_100_ml_di_panna_da_cucina",
+      "id": "burro_e_1_5_cucchiai_di_farina_2_farina",
+      "quantity": 1.5,
+      "unit": "tbsp"
+    },
+    {
+      "id": "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero",
       "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "id": "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina",
+      "quantity": 100.0,
       "unit": "ml"
     },
     {
@@ -81,58 +96,85 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 300
     },
     {
       "id": "step_4",
+      "timerSeconds": 60
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 720
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Asari Clam Chowder",
-      "description": "A comforting Asari Clam Chowder prepared with gentle simmering so the main ingredients become tender while the broth stays flavorful and balanced.",
-      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Asari Clam Chowder — creamy clam soup",
+      "description": "The Asari Clam Chowder is a creamy soup with clams open to steam, potatoes and onion. The clam liquid is filtered and recovered to season the base; the molluscs enter only at the end, without unnecessarily prolonging the cooking. The filtered liquid of clams enters the creamy base with milk and cream; the open molluscs are added at the end.",
+      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "vongole_asari": {
-          "name": "Clams asari (o veraci) fresh e spurgate",
+          "name": "fresh asary clams (or veracious clams) and purged clams",
           "note": null
         },
         "patata_media_a_cubetti_piccoli": {
-          "name": "Potato media a cubetti piccoli",
+          "name": "medium potato in small cubes",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "Onion e 1 carrot a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "onion",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "Carrot in cubes",
           "note": null
         },
         "pancetta_a_dadini": {
-          "name": "Pancetta a dadini",
+          "name": "Dice bacon",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "Butter e 1.5 cucchiai di flour",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "butter",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "Milk intero e 100 ml di cream da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "flour",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "whole milk",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "cream from the kitchen",
           "note": null
         },
         "sake_o_vino_bianco": {
-          "name": "Sake o vino white",
+          "name": "sake or white wine",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and organize the main ingredients so pieces of similar density are comparable in size; prepare the seasoned broth separately before simmering.",
-        "step_2": "Build the broth over moderate heat and add the ingredients in order of cooking time, keeping the liquid at a gentle simmer rather than a hard boil.",
-        "step_3": "Continue cooking until proteins are safely cooked and vegetables are tender but intact, adjusting the seasoning only after the broth has reduced slightly.",
-        "step_4": "Finish with the final aromatics or garnish and serve hot, allowing a brief rest when useful so the ingredients absorb the seasoned broth."
+        "step_1": "Open the clams in a pan with sake and a lid on fire. Before cooking, discard clams with broken shells and live clams that do not close when tapped; after cooking discard any that remain closed. Refrigerate the strained liquid if not using it immediately.",
+        "step_2": "Separate the clams from the filtered broth and keep everything aside.",
+        "step_3": "In a pot, melt the butter and brown the bacon with onion, carrot and potato for 5 minutes.",
+        "step_4": "Dust with flour and mix well for 1 minute to toast.",
+        "step_5": "Gradually add the liquid of the filtered clams, the milk and the cream and continue to mix until you reach a velvety consistency.",
+        "step_6": "Cook for 12 minutes until the potatoes are tender.",
+        "step_7": "Combine the clams open last, black pepper rule and bring to the diner accompanied by bread croutons."
       }
     },
     "it": {
       "title": "Asari Clam Chowder",
-      "description": "Un Asari Clam Chowder confortante cotto a sobbollore dolce, così gli ingredienti diventano teneri senza disfarsi e il fondo resta concentrato ma equilibrato.",
+      "description": "L’Asari Clam Chowder è una zuppa cremosa con vongole aperte al vapore, patate e cipolla. Il liquido delle vongole viene filtrato e recuperato per insaporire la base; i molluschi entrano solo alla fine, senza prolungarne inutilmente la cottura. Il liquido filtrato delle vongole entra nella base cremosa con latte e panna; i molluschi aperti si aggiungono alla fine.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "vongole_asari": {
@@ -143,20 +185,32 @@
           "name": "patata media a cubetti piccoli",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "cipolla e 1 carota a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "cipolla",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "carota a cubetti",
           "note": null
         },
         "pancetta_a_dadini": {
           "name": "pancetta a dadini",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "burro e 1.5 cucchiai di farina",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "burro",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "latte intero e 100 ml di panna da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "farina",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "latte intero",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "panna da cucina",
           "note": null
         },
         "sake_o_vino_bianco": {
@@ -165,39 +219,54 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, apri le vongole in una padella con il sake e un coperchio a fuoco vivo. Separa le vongole dal brodo filtrato e tieni tutto da parte. Usa una pentola sciogli il burro e rosola la pancetta con cipolla, carota e patata per 5 minuti.",
-        "step_2": "Prosegui così: spolvera con la farina e amalgama bene per 1 minuto per tostare.",
-        "step_3": "Nella fase successiva, aggiungi gradualmente il liquido delle vongole filtrato, il latte e la panna continuando a amalgamare fino a raggiungere una consistenza vellutata.",
-        "step_4": "Per completare, lascia cuocere per 12 minuti finché le patate sono tenere. Unisci le vongole aperte in ultimo, regola di pepe nero e porta in tavola calda accompagnata da crostini di pane."
+        "step_1": "Apri le vongole in una padella con il sake e un coperchio a fuoco vivo. Prima della cottura elimina le vongole rotte e quelle vive che non si chiudono al tocco; dopo la cottura scarta tutte quelle rimaste chiuse. Conserva refrigerato il liquido filtrato se non lo usi subito.",
+        "step_2": "Separa le vongole dal brodo filtrato e tieni tutto da parte.",
+        "step_3": "In una pentola, sciogli il burro e rosola la pancetta con cipolla, carota e patata per 5 minuti.",
+        "step_4": "Spolvera con la farina e amalgama bene per 1 minuto per tostare.",
+        "step_5": "Aggiungi gradualmente il liquido delle vongole filtrato, il latte e la panna continuando a mescolare fino a raggiungere una consistenza vellutata.",
+        "step_6": "Cuoci per 12 minuti finché le patate sono tenere.",
+        "step_7": "Unisci le vongole aperte in ultimo, regola di pepe nero e porta in tavola calda accompagnata da crostini di pane."
       }
     },
     "es": {
-      "title": "Asari Clam Chowder",
-      "description": "Una versión práctica de Asari Clam Chowder para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Food Wars!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Asari clam chowder — sopa cremosa de almejas",
+      "description": "El Asari Clam Chowder es una sopa cremosa con almejas abiertas al vapor, patatas y cebolla. El líquido de las almejas se filtra y se recupera para sazonar la base; los moluscos sólo entran al final, sin prolongar innecesariamente su cocción. El líquido filtrado de las almejas entra en la base cremosa con leche y nata; los moluscos abiertos se añaden al final.",
+      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "vongole_asari": {
-          "name": "Almejas asari (o veraci) fresco e spurgate",
+          "name": "Almejas asari (o veraces) frescas y purgadas",
           "note": null
         },
         "patata_media_a_cubetti_piccoli": {
-          "name": "Patata media a cubetti piccoli",
+          "name": "patata media de cubitos pequeños",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "Cebolla e 1 zanahoria a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "cebolla",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "zanahoria de cubitos",
           "note": null
         },
         "pancetta_a_dadini": {
-          "name": "Pancetta a dadini",
+          "name": "Tocino con dadini",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "Mantequilla e 1.5 cucchiai di harina",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "mantequilla",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "Leche intero e 100 ml di nata da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "harina",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "leche entera",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "crema de cocina",
           "note": null
         },
         "sake_o_vino_bianco": {
@@ -206,133 +275,181 @@
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Abre las almejas en una sartén con sake y una tapa a fuego vivo. Antes de cocerlas, desecha las almejas con conchas rotas o que no se cierren al tocarlas; después, desecha las que sigan cerradas. Refrigera el líquido colado si no lo usas enseguida.",
+        "step_2": "Separa las almejas del caldo filtrado y guarda todo.",
+        "step_3": "En una olla, derrite la mantequilla y frota el tocino con cebolla, zanahoria y patata durante 5 minutos.",
+        "step_4": "Espolvorear con harina y mezclar bien durante 1 minuto para tostar.",
+        "step_5": "Añade gradualmente el líquido de las almejas filtradas, la leche y la nata, y sigue mezclando hasta alcanzar una consistencia aterciopelada.",
+        "step_6": "Cocine durante 12 minutos hasta que las patatas estén tiernas.",
+        "step_7": "Añade las almejas abiertas al final, ajusta la pimienta negra y sirve caliente con picatostes."
       }
     },
     "fr": {
-      "title": "Asari Clam Chowder",
-      "description": "Une version pratique de Asari Clam Chowder à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Emiya-san Chi no Kyou no Gohan, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Clam chowder aux asari — soupe crémeuse de palourdes",
+      "description": "L'Asari Clam Chowder est une soupe crémeuse avec des palourdes ouvertes à la vapeur, des pommes de terre et des oignons. Le liquide des palourdes est filtré et récupéré pour savourer la base; les mollusques entrent seulement à la fin, sans en prolonger inutilement la cuisson. Le liquide filtré des palourdes entre dans la base crémeuse avec du lait et de la crème; les mollusques ouverts s'ajoutent à la fin.",
+      "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "vongole_asari": {
-          "name": "Palourdes asari (o veraci) frais e spurgate",
+          "name": "palourdes asaires (ou véraces) fraîches et épurées",
           "note": null
         },
         "patata_media_a_cubetti_piccoli": {
-          "name": "Pomme de terre media a cubetti piccoli",
+          "name": "patate moyenne à petits cubes",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "Oignon e 1 carotte a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "oignon",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "Carotte à cubes",
           "note": null
         },
         "pancetta_a_dadini": {
-          "name": "Pancetta a dadini",
+          "name": "Poitrine à doigts",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "Beurre e 1.5 cucchiai di farine",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "beurre",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "Lait intero e 100 ml di crème da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "farine",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "lait entier",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "crème de cuisine",
           "note": null
         },
         "sake_o_vino_bianco": {
-          "name": "Sake o vino blanc",
+          "name": "Saké ou vin blanc",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Ouvrez les palourdes dans une poêle avec du saké et un couvercle à feu vif. Avant cuisson, jetez les palourdes cassées ou qui ne se referment pas au toucher ; après cuisson, jetez celles qui restent fermées. Réfrigérez le jus filtré s'il n'est pas utilisé immédiatement.",
+        "step_2": "Sépare les palourdes du bouillon filtré et garde tout de côté.",
+        "step_3": "Dans une casserole, détachez le beurre et roulez le bacon avec l'oignon, la carotte et la pomme de terre pendant 5 minutes.",
+        "step_4": "Pulvériser avec de la farine et amalgame bien pendant 1 minute pour griller.",
+        "step_5": "Ajoutez progressivement le liquide des palourdes filtrées, le lait et la crème en continuant à mélanger jusqu'à ce qu'une consistance veloutée soit atteinte.",
+        "step_6": "Faites cuire pendant 12 minutes jusqu'à ce que les pommes de terre soient tendres.",
+        "step_7": "Combinez les palourdes ouvertes en dernier, règle de poivre noir et apportez au restaurant accompagné de croûtons de pain."
       }
     },
     "de": {
-      "title": "Asari Clam Chowder",
-      "description": "Eine alltagstaugliche Version von Asari Clam Chowder für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Asari-Clam-Chowder – cremige Muschelsuppe",
+      "description": "Das Asari Clam Chowder ist eine cremige Suppe mit gedämpften Muscheln, Kartoffeln und Zwiebeln. Die Flüssigkeit der Muscheln wird gefiltert und wiedergewonnen, um die Basis zu würzen; die Weichtiere kommen erst am Ende, ohne unnötig zu lang zu kochen. Die gefilterte Flüssigkeit der Muscheln tritt mit Milch und Sahne in die cremige Basis ein; die geöffneten Weichtiere werden schließlich hinzugefügt.",
+      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "vongole_asari": {
-          "name": "Venusmuscheln asari (o veraci) frisch e spurgate",
+          "name": "Asäre (oder echte) Muscheln, frisch und gereinigt",
           "note": null
         },
         "patata_media_a_cubetti_piccoli": {
-          "name": "Kartoffel media a cubetti piccoli",
+          "name": "Durchschnittliche Kartoffel mit kleinen Würfeln",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "Zwiebel e 1 Karotte a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "Zwiebel",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "Würfelmöhre",
           "note": null
         },
         "pancetta_a_dadini": {
-          "name": "Pancetta a dadini",
+          "name": "Mutternbauch",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "Butter e 1.5 cucchiai di Mehl",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "Butter",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "Milch intero e 100 ml di Sahne da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "Mehl",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "Vollmilch",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "Kochsahne",
           "note": null
         },
         "sake_o_vino_bianco": {
-          "name": "Sake o vino weiß",
+          "name": "Sake oder Weißwein",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Öffne die Muscheln in einer Pfanne mit Sake und einem lebendigen Feuerdeckel. Vor dem Garen beschädigte Muscheln und solche aussortieren, die sich bei Berührung nicht schließen. Nach dem Garen geschlossen gebliebene Muscheln wegwerfen. Abgesiebten Sud sofort verwenden oder kühlen.",
+        "step_2": "Trennen Sie die Muscheln von der gefilterten Brühe und halten Sie alles beiseite.",
+        "step_3": "In einem Topf spülen Sie die Butter und rösten den Speck mit Zwiebeln, Karotten und Kartoffeln für 5 Minuten.",
+        "step_4": "Pulver mit Mehl und Amalgam gut für 1 Minute zum Rösten.",
+        "step_5": "Fügen Sie die Flüssigkeit der gefilterten Muscheln, die Milch und die Sahne nach und nach hinzu und mischen Sie weiter, bis eine samtige Konsistenz erreicht ist.",
+        "step_6": "Kochen Sie für 12 Minuten, bis die Kartoffeln halten.",
+        "step_7": "Kombinieren Sie die zuletzt geöffneten Muscheln, schwarzer Pfefferregel und bringen Sie sie ins Diner, begleitet von Brotkrusten."
       }
     },
     "pt": {
-      "title": "Asari Clam Chowder",
-      "description": "Uma versão prática de Asari Clam Chowder para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Emiya-san Chi no Kyou no Gohan, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Clam chowder de asari — sopa cremosa de amêijoas",
+      "description": "O Asari Clam Chowder é uma sopa cremosa com moluscos abertos ao vapor, batatas e cebola. O líquido do molusco é filtrado e recuperado para aquecer a base; os moluscos entram apenas no final, sem prolongar desnecessariamente o cozimento. O líquido filtrado de moluscos entra na base cremosa com leite e creme; os moluscos abertos são adicionados no final.",
+      "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "vongole_asari": {
-          "name": "Amêijoas asari (o veraci) fresco e spurgate",
+          "name": "moluscos asários frescos (ou moluscos verdadeiros) e moluscos purgados",
           "note": null
         },
         "patata_media_a_cubetti_piccoli": {
-          "name": "Batata media a cubetti piccoli",
+          "name": "batata média em cubos pequenos",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "Cebola e 1 cenoura a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "cebola",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "Cenoura em cubos",
           "note": null
         },
         "pancetta_a_dadini": {
-          "name": "Pancetta a dadini",
+          "name": "Bacon em pedaços",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "Manteiga e 1.5 cucchiai di farinha",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "manteiga",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "Leite intero e 100 ml di natas da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "farinha",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "leite inteiro",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "creme da cozinha",
           "note": null
         },
         "sake_o_vino_bianco": {
-          "name": "Sake o vino branco",
+          "name": "sake ou vinho branco",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Abra os moluscos em uma panela com sake e uma tampa de fogo. Antes da cozedura, deite fora amêijoas com conchas partidas ou que não fechem ao toque; depois, rejeite as que permaneçam fechadas. Refrigere o caldo coado se não o utilizar logo.",
+        "step_2": "Separe os moluscos do caldo filtrado e mantenha tudo de lado.",
+        "step_3": "Numa panela, derreta a manteiga e dobre o bacon com cebola, cenoura e batata por 5 minutos.",
+        "step_4": "Poeira com farinha e misture bem por 1 minuto para torrar.",
+        "step_5": "Adicione gradualmente o líquido dos moluscos filtrados, o leite e o creme e continue a misturar até atingir uma consistência veluda.",
+        "step_6": "Cozinhe por 12 minutos até as batatas estarem tenras.",
+        "step_7": "Combinar os moluscos abertos por último, regra de pimenta preta e trazer para o restaurante acompanhado de croutons de pão."
       }
     }
   }

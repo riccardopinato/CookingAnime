@@ -2527,60 +2527,65 @@
       }
     },
     "recipe_000051": {
-      "title": "Shio Ramen",
-      "description": "A practical bowl of Shio Ramen, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Naruto. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Shio Ramen — salt-seasoned ramen with chashu and menma",
+      "description": "The Shio Ramen enhances a light chicken and dashi broth flavored with sake, salt and sesame oil. The tagliolini are boiled separately and placed in the hot broth with chashu, marinated egg, menma, onion and nori: the speed of the assembly preserves the consistency of the pasta.",
+      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Naruto. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "tagliolini_per_ramen_freschi": {
-          "name": "Tagliolini per ramen fresh",
+          "name": "fresh ramen noodles",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Chicken broth leggero",
+          "name": "light chicken broth",
           "note": null
         },
         "dashi_in_polvere": {
-          "name": "Dashi in polvere",
+          "name": "dashi powder",
           "note": null
         },
         "sale_marino_fine": {
-          "name": "Sea salt fine (o alga kelp salata)",
-          "note": null
+          "name": "fine sea salt (or salted kelp)",
+          "note": "Start with ½ tsp; adjust only after tasting the broth"
         },
         "sake_da_cucina": {
-          "name": "Sake da cucina",
+          "name": "cooking sake",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         },
         "maiale_chashu": {
-          "name": "Pork chashu",
+          "name": "chashu pork",
           "note": null
         },
         "uovo_marinate": {
-          "name": "Egg marinate (ajitsuke tamago)",
+          "name": "marinated eggs (ajitsuke tamago)",
           "note": null
         },
         "germogli_di_bambu": {
-          "name": "Bamboo shoots (menma)",
+          "name": "seasoned bamboo shoots (menma)",
           "note": null
         },
         "erba_cipollina_fresca_tritata": {
-          "name": "Erba cipollina fresh tritata",
+          "name": "finely chopped fresh chives",
           "note": null
         },
         "alga_nori": {
-          "name": "Nori",
+          "name": "nori seaweed",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "In a small saucepan, warm the chicken broth with the dashi powder, cooking sake and salt, stirring until dissolved. Start with only half a teaspoon of fine salt. Taste the broth before serving and adjust sparingly; dashi, chashu and seasonings already contain salt.",
+        "step_2": "Stir in the sesame oil and keep the broth hot over very low heat without letting it boil.",
+        "step_3": "Bring a large pot of unsalted water to a rolling boil.",
+        "step_4": "Cook the fresh ramen noodles for about 2 minutes, keeping them firm to the bite.",
+        "step_5": "Drain the noodles thoroughly, shaking the strainer to remove excess water.",
+        "step_6": "Pour the hot broth into two ramen bowls.",
+        "step_7": "Gently place the noodles in the center of each bowl, folding the strands into an even mound.",
+        "step_8": "Arrange the chashu slices, halved marinated egg, menma and a generous sprinkling of chives alongside the noodles.",
+        "step_9": "Tuck a sheet of nori against the rim of each bowl and serve immediately while hot."
       }
     },
     "recipe_000052": {
@@ -2839,52 +2844,63 @@
       }
     },
     "recipe_000056": {
-      "title": "Chirashizushi",
-      "description": "A satisfying Chirashizushi centered on warm rice and carefully prepared toppings, with seasoning kept focused so each component remains recognizable.",
-      "animeContext": "This recipe is thematically inspired by Fruits Basket, Kimi ni Todoke. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Chirashizushi — festive sushi rice topped with fish and vegetables",
+      "description": "The Chirashizushi has on the sushi rice seasoned and warmed a mosaic of omelette strips, fish, shrimp, cucumber and salmon eggs. The preparation is above all a delicate assembly; the sea ingredients intended to be served raw require a specific verification of fitness and conservation.",
+      "animeContext": "This recipe is thematically inspired by Fruits Basket, Kimi ni Todoke. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "riso_per_sushi_cotto_e_condito_con_aceto_di_riso": {
-          "name": "Sushi rice cotto e condito con rice vinegar",
+          "name": "rice for cooked sushi and seasoned with rice vinegar",
           "note": null
         },
-        "zucchero_e_sale": {
-          "name": "Sugar e salt (sumeshi)",
+        "zucchero_e_sale_1_zucchero": {
+          "name": "sugar",
+          "note": null
+        },
+        "zucchero_e_sale_2_sale_sumeshi": {
+          "name": "salt (Sumeshi)",
           "note": null
         },
         "salmone_fresco_per_sashimi_a_cubetti": {
-          "name": "Salmon fresh per sashimi a cubetti",
+          "name": "salmon suitable for sashimi, diced",
           "note": null
         },
         "tonno_fresco_a_cubetti": {
-          "name": "Tuna fresh a cubetti",
+          "name": "Fresh tuna in cubes",
           "note": null
         },
         "gamberi_cotti_sgusciati": {
-          "name": "Shrimp cotti sgusciati",
+          "name": "peeled cooked shrimp",
           "note": null
         },
         "uovo": {
-          "name": "Egg (per fare la frittatina sottile kinshi tamago)",
+          "name": "egg (to make the thin cottage kinhi tamago)",
           "note": null
         },
         "cetriolo_giapponese_a_fettine_sottili": {
-          "name": "Cetriolo giapponese a fettine sottili",
+          "name": "Japanese cucumber with thin slices",
           "note": null
         },
         "uova_di_salmone": {
-          "name": "Eggs di salmon (ikura) per guarnire",
+          "name": "salmon eggs (Ikura) for garnish",
           "note": null
         },
-        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori": {
-          "name": "Sesame seeds tostati e striscioline di nori",
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_1_semi_di_sesamo_tostati": {
+          "name": "toasted sesame seeds",
+          "note": null
+        },
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_2_striscioline_di_alga_nori": {
+          "name": "Alga nori stripes",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the rice and keep it warm while you cook or season the toppings separately; dry wet ingredients well so the bowl does not become watery.",
-        "step_2": "Cook the principal topping with controlled heat and reduce any sauce until it coats the ingredients instead of pooling heavily in the bowl.",
-        "step_3": "Portion the rice, then arrange the toppings evenly so each serving contains the intended balance of protein, vegetables and seasoning.",
-        "step_4": "Add the final garnish and sauce just before serving, preserving crisp or raw elements until the last moment."
+        "step_1": "Spread the rice for sushi seasoned and warmed inside a large bowl in wood or ceramics.",
+        "step_2": "Work the eggs with a pinch of salt and sugar.",
+        "step_3": "Cook a very thin frittatina in a pan, let it cool and cut into thin strips like tagliolini.",
+        "step_4": "Cover the rice surface entirely with kinhi tamag omelette strips.",
+        "step_5": "Artistically system to ray or mosaic the cubes of salmon, tuna, shrimp and cucumber slices. Use salmon and tuna expressly supplied as suitable for raw consumption, following the supplier's freezing and refrigeration guidance. Keep chilled and assemble just before serving; a fresh appearance does not establish safety.",
+        "step_6": "Combine a few tablespoons of Ikura salmon eggs in the middle, dust with toasted sesame seeds and alga nori strips.",
+        "step_7": "Bring to the table fresh accompanied by soy sauce and wasabi."
       }
     },
     "recipe_000057": {
@@ -2987,28 +3003,28 @@
       }
     },
     "recipe_000059": {
-      "title": "Asari no Sakamushi",
-      "description": "A practical home-cooking version of Asari no Sakamushi, preserving the dish’s characteristic ingredients, texture and cooking method with a clear repeatable sequence.",
-      "animeContext": "This recipe is thematically inspired by Food Wars! (Shokugeki no Soma), Midnight Diner (Shinya Shokudo). The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Asari no Sakamushi — sake-steamed clams with ginger",
+      "description": "Asari no Sakamushi steams purged clams briefly with sake, garlic and ginger in a covered pan. The clams open over high heat after the butter has been gently infused with the aromatics; discard any that remain closed. Finish the cooking juices off the heat with the remaining butter and a little soy sauce, then serve with fresh chives.",
+      "animeContext": "This recipe is thematically inspired by Food Wars! (Shokugeki no Soma), Midnight Diner (Shinya Shokudo). These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "vongole_fresche": {
-          "name": "Clams fresh (fatte spurgare in water salata)",
+          "name": "fresh clams, already purged",
           "note": null
         },
         "sake_da_cucina_giapponese": {
-          "name": "Sake da cucina giapponese",
+          "name": "Japanese cooking sake",
           "note": null
         },
         "d_aglio_affettato_finemente": {
-          "name": "D'garlic sliced finemente",
+          "name": "finely sliced garlic clove",
           "note": null
         },
         "zenzero_fresco_grattugiato": {
-          "name": "Ginger fresh grated",
+          "name": "Grated fresh ginger",
           "note": null
         },
         "burro": {
-          "name": "Butter",
+          "name": "butter",
           "note": null
         },
         "salsa_di_soia": {
@@ -3016,15 +3032,20 @@
           "note": null
         },
         "erba_cipollina_fresca_tritata_per_guarnire": {
-          "name": "Erba cipollina fresh tritata per guarnire",
+          "name": "fresh chives chopped to garnish",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare and measure all ingredients before applying heat, keeping garnishes and finishing sauces separate until the final stage.",
-        "step_2": "Cook the main component with controlled heat, following the intended technique and watching texture and doneness rather than relying only on time.",
-        "step_3": "Add the remaining seasoning or liquid and continue only until the flavors combine and the characteristic texture of the dish is reached.",
-        "step_4": "Assemble neatly, add the final garnish and serve at the recommended temperature while the contrasting textures are still clear."
+        "step_1": "Wash the clams thoroughly, already flushed under cold running water.",
+        "step_2": "In a large pan with lid, dissolve half of the butter and add the sliced garlic and grated ginger.",
+        "step_3": "Brown on a soft heat for 1 minute.",
+        "step_4": "Add the clams in the pan and add the Japanese sake immediately.",
+        "step_5": "Cover immediately with the lid and raise the flame on a live fire.",
+        "step_6": "Cook for 3-4 minutes by shaking the pan every now and then until all clams open completely (discard those that remain closed). Use live clams from a reliable supplier. Discard broken shells and clams that do not close when tapped before cooking; discard any clams that remain closed after thorough cooking.",
+        "step_7": "Turn off the fire, add the remaining butter and a thread of soy sauce.",
+        "step_8": "Mix gently to create a tasty and shiny broth.",
+        "step_9": "Dust with plenty of fresh chives and bring to the table hot with its broth."
       }
     },
     "recipe_000060": {
@@ -4231,40 +4252,40 @@
       }
     },
     "recipe_000080": {
-      "title": "Sanma no Shioyaki",
-      "description": "A savory Sanma no Shioyaki cooked with controlled direct heat, aiming for good browning outside while keeping the center tender and the finishing sauce glossy.",
-      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Yuru Camp△. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Sanma no Shioyaki — grilled Pacific saury with daikon",
+      "description": "The Sanma no Shioyaki is a whole fish salted and grilled until the skin becomes golden. It is accompanied with grated daikons and essential condiments to leave in evidence the flavor of the fish; the Italian name of the species requires a taxonomic verification. The grated daikon, the soy sauce and the lemon accompany the whole fish, whose skin is made golden on the grill.",
+      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Yuru Camp△. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "Pesce sanma (luccio di mare/costardella) interi fresh",
+          "name": "whole Pacific saury (Cololabis saira), cleaned and gutted",
           "note": null
         },
         "sale_marino_grosso": {
-          "name": "Sea salt grosso",
+          "name": "Large sea salt",
           "note": null
         },
         "daikon_grattugiato": {
-          "name": "Daikon grated",
+          "name": "Grated Daikon",
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Fettine di lemon o sudachi",
+          "name": "lemon slices or Sudachi",
           "note": null
         },
         "salsa_di_soia_per_servire": {
-          "name": "Soy sauce for serving",
+          "name": "Soy sauce to serve",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the meat, fish or other main ingredient and mix any glaze or seasoning before heating the pan or grill.",
-        "step_2": "Cook over controlled direct heat until the first side browns well, then turn only as needed so the center stays juicy and the surface develops color.",
-        "step_3": "Add the sauce or glaze near the end and reduce it briefly, coating the food without letting sugar or miso scorch on the hot surface.",
-        "step_4": "Rest briefly when appropriate, slice cleanly and serve with the prepared rice, vegetables or garnish while still hot."
+        "step_1": "Rinse the Sanma fish leaving them whole (the Japanese tradition includes cooking with the entrails for a pleasantly bitter taste). Sanma is Pacific saury (Cololabis saira), not pike. For home cooking buy cleaned and gutted fish or have the fishmonger prepare it; cook the fish thoroughly and check the thickest part.",
+        "step_2": "Insert the skin with 3 diagonal cuts on each side.",
+        "step_3": "Sprinkle generously with coarse salt and let 10 minutes rest.",
+        "step_4": "Drys the moisture released by the salt with absorbent paper.",
+        "step_5": "Cook the fish on a hot grill or on the oven plate at 220°C for about 6-7 minutes per side.",
+        "step_6": "As long as the skin becomes golden, crispy and light burns form.",
+        "step_7": "Place whole fish on elongated rectangular plates.",
+        "step_8": "Come with a fresh, grated mountain of Daikon, lightly sprinkled with a drop of soy sauce and a clove of lemon."
       }
     },
     "recipe_000081": {
@@ -5059,44 +5080,59 @@
       }
     },
     "recipe_000096": {
-      "title": "Asari Clam Chowder",
-      "description": "A comforting Asari Clam Chowder prepared with gentle simmering so the main ingredients become tender while the broth stays flavorful and balanced.",
-      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Asari Clam Chowder — creamy clam soup",
+      "description": "The Asari Clam Chowder is a creamy soup with clams open to steam, potatoes and onion. The clam liquid is filtered and recovered to season the base; the molluscs enter only at the end, without unnecessarily prolonging the cooking. The filtered liquid of clams enters the creamy base with milk and cream; the open molluscs are added at the end.",
+      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "vongole_asari": {
-          "name": "Clams asari (o veraci) fresh e spurgate",
+          "name": "fresh asary clams (or veracious clams) and purged clams",
           "note": null
         },
         "patata_media_a_cubetti_piccoli": {
-          "name": "Potato media a cubetti piccoli",
+          "name": "medium potato in small cubes",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "Onion e 1 carrot a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "onion",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "Carrot in cubes",
           "note": null
         },
         "pancetta_a_dadini": {
-          "name": "Pancetta a dadini",
+          "name": "Dice bacon",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "Butter e 1.5 cucchiai di flour",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "butter",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "Milk intero e 100 ml di cream da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "flour",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "whole milk",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "cream from the kitchen",
           "note": null
         },
         "sake_o_vino_bianco": {
-          "name": "Sake o vino white",
+          "name": "sake or white wine",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Cut and organize the main ingredients so pieces of similar density are comparable in size; prepare the seasoned broth separately before simmering.",
-        "step_2": "Build the broth over moderate heat and add the ingredients in order of cooking time, keeping the liquid at a gentle simmer rather than a hard boil.",
-        "step_3": "Continue cooking until proteins are safely cooked and vegetables are tender but intact, adjusting the seasoning only after the broth has reduced slightly.",
-        "step_4": "Finish with the final aromatics or garnish and serve hot, allowing a brief rest when useful so the ingredients absorb the seasoned broth."
+        "step_1": "Open the clams in a pan with sake and a lid on fire. Before cooking, discard clams with broken shells and live clams that do not close when tapped; after cooking discard any that remain closed. Refrigerate the strained liquid if not using it immediately.",
+        "step_2": "Separate the clams from the filtered broth and keep everything aside.",
+        "step_3": "In a pot, melt the butter and brown the bacon with onion, carrot and potato for 5 minutes.",
+        "step_4": "Dust with flour and mix well for 1 minute to toast.",
+        "step_5": "Gradually add the liquid of the filtered clams, the milk and the cream and continue to mix until you reach a velvety consistency.",
+        "step_6": "Cook for 12 minutes until the potatoes are tender.",
+        "step_7": "Combine the clams open last, black pepper rule and bring to the diner accompanied by bread croutons."
       }
     },
     "recipe_000097": {
@@ -5638,40 +5674,47 @@
       }
     },
     "recipe_000110": {
-      "title": "Motsunabe",
-      "description": "A comforting Motsunabe prepared with gentle simmering so the main ingredients become tender while the broth stays flavorful and balanced.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Golden Kamuy. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Motsunabe — Fukuoka-style offal and leek hotpot",
+      "description": "The Motsunabe cooks tripe or other clean offals together with cabbage, Chinese leeks and aromas in a tasty broth. The preparation of the offal requires special attention before cooking; the vegetables are added in time to remain recognizable. The nira is added in the last minutes of cooking the offal, which require careful cleaning before entering the broth.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Golden Kamuy. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "trippa_o_frattaglie_di_manzo_maiale_pulite": {
-          "name": "Trippa o frattaglie di beef/pork pulite",
+          "name": "Trippe or offal of clean beef/pig",
           "note": null
         },
         "cespo_di_cavolo_cappuccio_sfogliato": {
-          "name": "Cespo di cabbage sfogliato",
+          "name": "Cabbage cap, peeled",
           "note": null
         },
         "erba_cipollina_porri_cinesi": {
-          "name": "Erba cipollina / porri cinesi (nira)",
+          "name": "Chives/Chinese leeks (Nira)",
           "note": null
         },
-        "brodo_dashi_con_aglio_e_peperoncino": {
-          "name": "Dashi broth con garlic e peperoncino",
+        "brodo_dashi_con_aglio_e_peperoncino_1_brodo_dashi_con_aglio": {
+          "name": "Dashi broth with garlic",
+          "note": null
+        },
+        "brodo_dashi_con_aglio_e_peperoncino_2_peperoncino": {
+          "name": "chilli",
           "note": null
         },
         "miso_chiaro_o_salsa_di_soia": {
-          "name": "Miso chiaro o soy sauce",
+          "name": "Light miso or soy sauce",
           "note": null
         },
         "tofu_tagliato_a_cubetti": {
-          "name": "Tofu cut into cubetti",
+          "name": "tofu cut into cubes",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Cut and organize the main ingredients so pieces of similar density are comparable in size; prepare the seasoned broth separately before simmering.",
-        "step_2": "Build the broth over moderate heat and add the ingredients in order of cooking time, keeping the liquid at a gentle simmer rather than a hard boil.",
-        "step_3": "Continue cooking until proteins are safely cooked and vegetables are tender but intact, adjusting the seasoning only after the broth has reduced slightly.",
-        "step_4": "Finish with the final aromatics or garnish and serve hot, allowing a brief rest when useful so the ingredients absorb the seasoned broth."
+        "step_1": "Clean the offal thoroughly; rub them with salt and little flour, rinse them several times and cut them into regular bites. Use only tripe/offal sold already cleaned and precooked, following the producer's directions. The 10–15 minutes are for final heating, NOT sufficient to cook raw offal safely; raw offal requires its own complete cooking beforehand.",
+        "step_2": "Boil it for about 1 minute, drain and rinse: this phase eliminates impurities and part of the smell without melting the fat too much.",
+        "step_3": "Prepare the broth with dashi, garlic, chilli and miso or soy sauce. Season it well, as the cabbage and tofu will dilute the flavour.",
+        "step_4": "Place the cabbage on the bottom of the nabe, add tofu and offal and pour the broth until you partially cover the ingredients.",
+        "step_5": "Bring to the boil and cook the offal for about 10-15 minutes, until they become swollen and tender.",
+        "step_6": "Add the nira cut into sticks in the last few minutes, without mixing too much.",
+        "step_7": "Taste the broth, adjust the miso or soy and serve the boiling nabe directly from the pot."
       }
     },
     "recipe_000111": {
@@ -5931,32 +5974,88 @@
       }
     },
     "recipe_000117": {
-      "title": "Tori no Karaage Namban Don",
-      "description": "A satisfying Tori no Karaage Namban Don centered on warm rice and carefully prepared toppings, with seasoning kept focused so each component remains recognizable.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, My Hero Academia. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tori no Karaage Namban Don — fried chicken rice bowl",
+      "description": "The Tori no Karaage Namban Don serves on hot rice marinated chicken bites, coated with starch and fried. The namban sauce and the final condiments add a sweet and sour note without sacrificing the crispness of the chicken. The warm karaage absorbs for a few seconds the Namban sauce, then meets the rice and the cold tartar in the same bowl.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, My Hero Academia. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "Sovracosce di chicken a bocconcini fritti (karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "Deboned chicken over thighs, without skin, with small mouthpieces",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Sauce namban (3 cucchiai soia, 2 rice vinegar, 1 sugar)",
+        "pollo_salsa_di_soia_2": {
+          "name": "Soy sauce",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Sauce tartara giapponese (egg sodo tritato, maionese, cetriolini, onion)",
+        "pollo_sake_da_cucina_3": {
+          "name": "Cooking sake",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Rice caldo e cabbage a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "Grated fresh ginger",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "grated garlic",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "potato starch or maize starch",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "seed oil for frying",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "Soy sauce",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "Rice vinegar",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "sugar",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "hard-boiled egg",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "Japanese mayonnaise",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "finely chopped and rinsed onion",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "Gherkin chopped pickle",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "Cooked Japanese Rice",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "cabbage hood julienne",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the rice and keep it warm while you cook or season the toppings separately; dry wet ingredients well so the bowl does not become watery.",
-        "step_2": "Cook the principal topping with controlled heat and reduce any sauce until it coats the ingredients instead of pooling heavily in the bowl.",
-        "step_3": "Portion the rice, then arrange the toppings evenly so each serving contains the intended balance of protein, vegetables and seasoning.",
-        "step_4": "Add the final garnish and sauce just before serving, preserving crisp or raw elements until the last moment."
+        "step_1": "Cut the chicken thighs into regular bites and dress them with soy sauce, sake, ginger and garlic; let marinate at least 20 minutes.",
+        "step_2": "Prepare the Namban sauce bringing to light boiling soy sauce, rice vinegar, mirin and sugar, then let it warm.",
+        "step_3": "Prepare the tartar by mixing chopped boiled egg, onion and pickle well drained, japanese mayonnaise, little vinegar, salt and pepper; keep it in the refrigerator.",
+        "step_4": "Drain the chicken from marinade, pass it into potato or maize starch and shake the excess.",
+        "step_5": "Fry at 170-175°C in small lots until the bites are golden and the chicken is completely cooked; drain on grill. Check the chicken pieces with a food thermometer: the centre must reach at least 74°C (165°F). A golden crust or frying time alone does not guarantee doneness.",
+        "step_6": "Immerse the karaage still warm in the namban sauce for a few seconds, so it absorbs the seasoning without completely losing the crispness.",
+        "step_7": "Distribute hot rice and cabbage to julienne in the bowls, add the chicken namban and complete with the cold tartar sauce.",
+        "step_8": "Serve immediately, keeping the contrast between hot rice, crispy chicken and fresh tartar."
       }
     },
     "recipe_000118": {
@@ -6600,16 +6699,16 @@
       }
     },
     "recipe_000133": {
-      "title": "Tori Chashu Ramen",
-      "description": "A practical bowl of Tori Chashu Ramen, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Ramen Daisuki Koizumi-san. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tori Chashu Ramen — ramen topped with marinated chicken",
+      "description": "The Tori Chashu Ramen uses rolled and cooked chicken overbone in a marinade of soy sauce and aromas. The sliced chicken is placed on noodles and broth prepared separately, without confusing the cooking of the meat with the short time required by the pasta. The marinated chicken is left to cool and sliced before mounting with hot broth, noodles and marinated egg.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Ramen Daisuki Koizumi-san. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "noodles_per_ramen": {
-          "name": "Noodles per ramen",
+          "name": "noodles for Ramen",
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Sovracosce di chicken disossate con pelle",
+          "name": "bone-in chicken thighs with skin",
           "note": null
         },
         "salsa_di_soia": {
@@ -6617,7 +6716,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "mirin": {
@@ -6625,27 +6724,38 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "Ginger schiacciato e 1 spicchio d'garlic",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "crushed ginger",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "garlic clove",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Chicken broth leggero",
+          "name": "Light chicken broth",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Egg marinato (ajitsuke tamago) e spring onion for serving",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "marinated egg (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "onion to serve",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Roll the chicken thigh with the skin on the outside and tie it tightly with kitchen spaghetti.",
+        "step_2": "Put in a saucepan, brown the roll of chicken on all sides.",
+        "step_3": "Combine soy sauce, sake, mirin, sugar, ginger and garlic.",
+        "step_4": "Cover and cook over low heat for 15-20 minutes by turning the chicken from time to time until the sauce thickens and glazes the meat. Before slicing the rolled chicken, verify with a food thermometer that the centre has reached at least 74°C (165°F); cook longer if necessary. Tie with kitchen twine, not edible spaghetti.",
+        "step_5": "Let the chicken cool and slice it with gold discs.",
+        "step_6": "Heat the chicken broth and adjust it to taste with 2 tablespoons of chicken cooking glaze.",
+        "step_7": "Cook the noodles for ramen, drain them into the bowl, add the broth and garnish with the slices of Tori Chashu, marinated egg in half and onion."
       }
     },
     "recipe_000134": {
@@ -7357,97 +7467,112 @@
       }
     },
     "recipe_000149": {
-      "title": "Kani Chahan",
-      "description": "A satisfying Kani Chahan centered on warm rice and carefully prepared toppings, with seasoning kept focused so each component remains recognizable.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Cooking Master Boy. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kani Chahan — crab and leek fried rice",
+      "description": "The Kani Chahan is Japanese rice already cooked and well cooled, jumped quickly into the wok with eggs, onion and crab. The soy sauce is poured on the hot edge of the pan to perfume the rice without making it damp. Soy is poured on the warm edge of the wok before being incorporated into the rice; the fresh onion completes the service.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Cooking Master Boy. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "riso_cotto_del_giorno_prima": {
-          "name": "Rice cotto del giorno prima (freddo di frigorifero)",
+          "name": "rice cooked the day before (cold refrigerator)",
           "note": null
         },
         "polpa_di_granchio_fresca_o_in_scatola_scolata": {
-          "name": "Polpa di crab fresh o in scatola scolata",
+          "name": "fresh or canned crab pulp",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "Egg sbattute",
+          "name": "eggs beaten",
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "Spring onion fresh tritati finemente",
+          "name": "Fresh onions, finely chopped",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'garlic tritato",
+          "name": "chopped garlic clove",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         },
         "salsa_di_soia": {
           "name": "Soy sauce",
           "note": null
         },
-        "sale_e_pepe_bianco_macinato_fresco_q_b": {
-          "name": "Salt e pepper white macinato fresh q.b",
+        "sale_e_pepe_bianco_macinato_fresco_q_b_1_sale": {
+          "name": "salt",
+          "note": null
+        },
+        "sale_e_pepe_bianco_macinato_fresco_q_b_2_pepe_bianco_macinato_fresco_q_b": {
+          "name": "fresh ground white pepper",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the rice and keep it warm while you cook or season the toppings separately; dry wet ingredients well so the bowl does not become watery.",
-        "step_2": "Cook the principal topping with controlled heat and reduce any sauce until it coats the ingredients instead of pooling heavily in the bowl.",
-        "step_3": "Portion the rice, then arrange the toppings evenly so each serving contains the intended balance of protein, vegetables and seasoning.",
-        "step_4": "Add the final garnish and sauce just before serving, preserving crisp or raw elements until the last moment."
+        "step_1": "Stretch the cold rice well with your hands to separate the grains. Use cooked rice cooled rapidly in a shallow layer, ideally within one hour, then refrigerated and used within 24 hours. Do not leave rice at room temperature; reheat only once until steaming hot throughout.",
+        "step_2": "Heat a wok on a lively fire with sesame oil.",
+        "step_3": "Suffer garlic and half the onion.",
+        "step_4": "Add beaten eggs and mix quickly to create soft scrambles.",
+        "step_5": "Immediately add the rice into the wok and sauté it over a strong heat for 3-4 minutes, constantly stretching with the spatula.",
+        "step_6": "Add the dried crab pulp and mix gently to mix without overly staggering the pulp.",
+        "step_7": "Add the soy sauce along the browned edge of the wok to make it caramelize before incorporating it to rice.",
+        "step_8": "Salt rule and abundant white pepper.",
+        "step_9": "Combine the rest of the fresh onion and serve well warm."
       }
     },
     "recipe_000150": {
-      "title": "Kamo Namban Soba",
-      "description": "A practical bowl of Kamo Namban Soba, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer, Emiya-san Chi no Kyou no Gohan. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kamo Namban Soba — hot soba noodles with duck and toasted leeks",
+      "description": "The Kamo Namban Soba combines buckwheat noodles, browned duck breast from the side of the skin and toasted leeks. The duck slices finish cooking in the stock of dashi, soy and mirin, which is poured on the soba just before the service. Soba are rinsed to remove starch and heated before meeting the broth with duck and toasted leeks.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer, Emiya-san Chi no Kyou no Gohan. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "tagliolini_soba_di_grano_saraceno": {
-          "name": "Tagliolini soba di grano saraceno",
+          "name": "buckwheat soba tagliolini",
           "note": null
         },
         "petto_d_anatra_con_pelle": {
-          "name": "Petto d'anatra con pelle",
+          "name": "duck breast with skin",
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Porri lunghi giapponesi (naganegi) cut into tocchetti di 4 cm",
+          "name": "Japanese long leeks (Naganegi) cut into 4 cm touches",
           "note": null
         },
         "brodo_dashi_concentrato": {
-          "name": "Dashi broth concentrato",
+          "name": "concentrated Dashi broth",
           "note": null
         },
         "salsa_di_soia_scura": {
-          "name": "Soy sauce scura",
+          "name": "Dark soy sauce",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di yuzu o lemon grated",
+          "name": "Yuzu peel or grated lemon",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi",
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Slice the skin of the duck breast in a crosshatch pattern without reaching the meat.",
+        "step_2": "Cook in a cold non-stick pan from the side of the skin over medium to low heat for 8-10 minutes by collecting the melted fat.",
+        "step_3": "Turn the duck breast and cook for another 2 minutes.",
+        "step_4": "Let the meat rest for a few minutes, then cut into thin slices.",
+        "step_5": "In the same pan, using part of the duck's fat, it toasts leek touches until they are well golden and slightly caramelized.",
+        "step_6": "In a pot, add dashi, soy sauce, mirin and sugar.",
+        "step_7": "Bring the broth to a boil, add the toasted leeks and slices of duck and let simmer for 2 minutes. For a conservative home preparation, use a food thermometer to check that duck breast reaches at least 74°C (165°F) at the centre before serving; timings are indicative. Brief simmering in broth does not replace this check.",
+        "step_8": "Cook the noodles soba in boiling water for about 4 minutes; drain them, rinse them under cold water to remove the surface starch and heat them briefly in hot water before serving.",
+        "step_9": "Distribute the soba in the bowls and cover it with hot broth, duck slices and leeks.",
+        "step_10": "Complete with grated yuzu zest and serve immediately."
       }
     },
     "recipe_000151": {
@@ -7557,32 +7682,36 @@
       }
     },
     "recipe_000153": {
-      "title": "Tori Tsukune",
-      "description": "A savory Tori Tsukune cooked with controlled direct heat, aiming for good browning outside while keeping the center tender and the finishing sauce glossy.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Midnight Diner. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tori Tsukune — grilled chicken meatballs with tare and egg yolk",
+      "description": "The Tori Tsukune are ground chicken skewers with onion and ginger, molded and grilled before being glazed with sauce. The recipe proposes a yolk for dip: this mode of service requires a special food safety check and a suitable ingredient. The tore glaze wraps the cooked chicken meatballs; the eventual yolk from dip requires verified fitness for consumption without cooking.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Midnight Diner. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "macinato_di_pollo": {
-          "name": "Macinato di chicken",
+          "name": "ground chicken",
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Spring onion tritati finemente",
+          "name": "finely chopped onions",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "Cm di ginger grated",
+          "name": "Grated ginger",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Cornstarch (katakuriko)",
+          "name": "maize starch (Katakuriko)",
           "note": null
         },
         "uovo": {
-          "name": "Egg (egg white nell'impasto, egg yolk for serving)",
+          "name": "pasteurized egg (white in the mixture, pasteurized yolk for dipping)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Salt e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "salt",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pepper",
           "note": null
         },
         "salsa_di_soia": {
@@ -7590,27 +7719,25 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
-          "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "Spiedini di legno bagnati nell'water",
+          "name": "sugar",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the meat, fish or other main ingredient and mix any glaze or seasoning before heating the pan or grill.",
-        "step_2": "Cook over controlled direct heat until the first side browns well, then turn only as needed so the center stays juicy and the surface develops color.",
-        "step_3": "Add the sauce or glaze near the end and reduce it briefly, coating the food without letting sugar or miso scorch on the hot surface.",
-        "step_4": "Rest briefly when appropriate, slice cleanly and serve with the prepared rice, vegetables or garnish while still hot."
+        "step_1": "In a bowl, work the chicken ground with onion, ginger, corn starch, egg white, salt and pepper until the mixture is homogeneous and sticky.",
+        "step_2": "Divide the dough into 4 elongated portions and model it around the wooden skewers giving it an oval cylindrical shape.",
+        "step_3": "In a saucepan, reduce the components of the Tare sauce to syrupy consistency.",
+        "step_4": "Grill the skewers on a pan with a medium heat oil for 3-4 minutes per side.",
+        "step_5": "Bountifully brushed with Tare sauce in the last few minutes, turning them often.",
+        "step_6": "Serve the shiny, frosted skewers accompanied by a fresh egg yolk in a bowl where you can dip the meatballs. Cook the chicken meatballs to at least 74°C (165°F) at the centre, measured with a food thermometer. For dipping use only pasteurized egg yolk suitable for eating without cooking; never use unpasteurized raw yolk."
       }
     },
     "recipe_000154": {
@@ -7723,48 +7850,56 @@
       }
     },
     "recipe_000156": {
-      "title": "Asari Ramen",
-      "description": "A practical bowl of Asari Ramen, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Ramen Daisuki Koizumi-san, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Asari Ramen — clam and butter broth ramen",
+      "description": "Asari Ramen uses the filtered liquid of open clams with sake and garlic to flavor a light dashi broth. Noodles cook separately and are served immediately with clams, corn, onion and little butter. The filtered liquid of the clams flavors the dashi, while the butter melts in the bowl at the time of service.",
+      "animeContext": "This recipe is thematically inspired by Ramen Daisuki Koizumi-san, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "ramen_noodles": {
-          "name": "Ramen noodles",
+          "name": "ramen noodles",
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "Clams veraci spurgate",
+          "name": "purged clams",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Dashi broth leggero",
+          "name": "Light Dashi broth",
           "note": null
         },
         "sake_giapponese": {
-          "name": "Sake giapponese",
+          "name": "Japanese sake",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Soy sauce chiara",
+          "name": "light soy sauce",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'garlic tritato",
+          "name": "chopped garlic clove",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Butter di malga",
+          "name": "Malga butter",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Sweet corn e spring onion fresh per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "sweet corn",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "fresh onion to garnish",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Put the clams in a pot with the sake and the chopped garlic.",
+        "step_2": "Cover with lid and cook over a high heat for 3-4 minutes until the clams open. Use live, purged clams from a reliable supplier. Discard broken shells and clams that do not close when tapped before cooking, and discard any remaining closed after thorough cooking. Do not use liquid from discarded clams.",
+        "step_3": "Carefully filter the liquid released from clams and keep it aside together with open molluscs.",
+        "step_4": "Add the clam juice to the Dashi broth, add the light soy sauce and a pinch of salt.",
+        "step_5": "Heat well the clam broth without overly reducing it.",
+        "step_6": "Cook the noodles for ramen in plenty of boiling water for 2 minutes and drain.",
+        "step_7": "Distribute the noodles in the bowls and cover them with the hot broth to the clams.",
+        "step_8": "Adage over the clams in the shell, the corn and the fresh onion; complete with a nut of butter, which melting will bind the seafood stock."
       }
     },
     "recipe_000157": {

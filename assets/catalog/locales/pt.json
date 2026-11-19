@@ -2527,60 +2527,65 @@
       }
     },
     "recipe_000051": {
-      "title": "Shio Ramen",
-      "description": "Uma versão prática de Shio Ramen para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Emiya-san Chi no Kyou no Gohan, Naruto. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Shio ramen — ramen de sal com chashu e menma",
+      "description": "O Shio Ramen realça um caldo leve de frango e dashi aromatizado com sake, sal e óleo de sésamo. Os tagliolini são fervidos separadamente e colocados no caldo quente com chashu, ovo marinado, menma, cebola e nori: a velocidade da montagem preserva a consistência da massa.",
+      "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Naruto. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "tagliolini_per_ramen_freschi": {
-          "name": "Tagliolini per ramen fresco",
+          "name": "massa fresca para ramen",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Frango caldo leggero",
+          "name": "caldo leve de frango",
           "note": null
         },
         "dashi_in_polvere": {
-          "name": "Dashi in polvere",
+          "name": "dashi em pó",
           "note": null
         },
         "sale_marino_fine": {
-          "name": "Sea sal fine (o alga kelp salata)",
-          "note": null
+          "name": "sal marinho fino (ou alga kombu salgada)",
+          "note": "Comece com ½ colher de chá; ajuste depois de provar"
         },
         "sake_da_cucina": {
-          "name": "Sake da cucina",
+          "name": "saqué para cozinhar",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         },
         "maiale_chashu": {
-          "name": "Porco chashu",
+          "name": "porco chashu",
           "note": null
         },
         "uovo_marinate": {
-          "name": "Ovo marinate (ajitsuke tamago)",
+          "name": "ovos marinados (ajitsuke tamago)",
           "note": null
         },
         "germogli_di_bambu": {
-          "name": "Rebentos de bambu (menma)",
+          "name": "rebentos de bambu temperados (menma)",
           "note": null
         },
         "erba_cipollina_fresca_tritata": {
-          "name": "Erba cipollina fresco tritata",
+          "name": "cebolinho fresco picado",
           "note": null
         },
         "alga_nori": {
-          "name": "Nori",
+          "name": "alga nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Num tacho pequeno, aqueça o caldo de frango com o dashi em pó, o saqué de cozinha e o sal, mexendo até dissolver. Comece com apenas meia colher de chá de sal fino. Prove o caldo antes de servir e ajuste aos poucos: o dashi, o chashu e os temperos já contêm sal.",
+        "step_2": "Junte o óleo de sésamo e mantenha o caldo quente em lume muito brando, sem o deixar ferver.",
+        "step_3": "Leve ao lume uma panela grande com bastante água sem sal até levantar fervura.",
+        "step_4": "Coza a massa fresca de ramen durante cerca de 2 minutos, de modo a ficar firme ao trincar.",
+        "step_5": "Escorra bem a massa e sacuda o passador para retirar o excesso de água.",
+        "step_6": "Distribua o caldo quente por duas tigelas de ramen.",
+        "step_7": "Coloque delicadamente a massa no centro de cada tigela, formando um monte uniforme.",
+        "step_8": "Disponha ao lado as fatias de chashu, o ovo marinado cortado ao meio, o menma e uma porção generosa de cebolinho.",
+        "step_9": "Encaixe uma folha de nori na borda de cada tigela e sirva imediatamente, bem quente."
       }
     },
     "recipe_000052": {
@@ -2839,52 +2844,63 @@
       }
     },
     "recipe_000056": {
-      "title": "Chirashizushi",
-      "description": "Uma versão prática de Chirashizushi para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Fruits Basket, Kimi ni Todoke. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Chirashizushi — arroz de sushi festivo com peixe e legumes",
+      "description": "O Chirashizushi tem no arroz sushi temperado e aquecido um mosaico de tiras de omelete, peixe, camarão, pepino e ovos de salmão. A preparação é acima de tudo uma montagem delicada; os ingredientes do mar destinados a ser servidos em bruto requerem uma verificação específica da aptidão e conservação.",
+      "animeContext": "Esta receita inspira-se tematicamente em Fruits Basket, Kimi ni Todoke. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "riso_per_sushi_cotto_e_condito_con_aceto_di_riso": {
-          "name": "Sushi arroz cotto e condito con vinagre de arroz",
+          "name": "arroz para sushi cozido e temperado com vinagre de arroz",
           "note": null
         },
-        "zucchero_e_sale": {
-          "name": "Açúcar e sal (sumeshi)",
+        "zucchero_e_sale_1_zucchero": {
+          "name": "açúcar",
+          "note": null
+        },
+        "zucchero_e_sale_2_sale_sumeshi": {
+          "name": "sal (Sumeshi)",
           "note": null
         },
         "salmone_fresco_per_sashimi_a_cubetti": {
-          "name": "Salmão fresco per sashimi a cubetti",
+          "name": "salmão fresco para sashimi em cubos",
           "note": null
         },
         "tonno_fresco_a_cubetti": {
-          "name": "Atum fresco a cubetti",
+          "name": "Atum fresco em cubos",
           "note": null
         },
         "gamberi_cotti_sgusciati": {
-          "name": "Camarões cotti sgusciati",
+          "name": "camarão cozido e descascado",
           "note": null
         },
         "uovo": {
-          "name": "Ovo (per fare la frittatina sottile kinshi tamago)",
+          "name": "ovo (para fazer o kinhi tamago fino da cabana)",
           "note": null
         },
         "cetriolo_giapponese_a_fettine_sottili": {
-          "name": "Cetriolo giapponese a fettine sottili",
+          "name": "Pepino japonês com fatias finas",
           "note": null
         },
         "uova_di_salmone": {
-          "name": "Ovos di salmão (ikura) per guarnire",
+          "name": "ovos de salmão (Ikura) para guarnição",
           "note": null
         },
-        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori": {
-          "name": "Sementes de sésamo tostati e striscioline di nori",
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_1_semi_di_sesamo_tostati": {
+          "name": "sementes de sésamo tostadas",
+          "note": null
+        },
+        "semi_di_sesamo_tostati_e_striscioline_di_alga_nori_2_striscioline_di_alga_nori": {
+          "name": "Linhas de alga nori",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Espalhe o arroz para o sushi temperado e aquecido dentro de uma tigela grande em madeira ou cerâmica.",
+        "step_2": "Trabalhe os ovos com uma pitada de sal e açúcar.",
+        "step_3": "Cozinhe uma frittatina muito fina em uma panela, deixe- a esfriar e cortar em tiras finas como tagliolini.",
+        "step_4": "Cubra a superfície do arroz inteiramente com tiras de torta de kinhi tamag.",
+        "step_5": "Sistema artístico de raio ou mosaico dos cubos de salmão, atum, camarão e pepino fatias. Utilize salmão e atum expressamente adequados ao consumo cru, seguindo as instruções do fornecedor sobre congelação e refrigeração. Mantenha-os frios até servir: o aspeto fresco não garante segurança.",
+        "step_6": "Combine algumas colheres de sopa de ovos de salmão Ikura no meio, poeira com sementes de sésamo torradas e tiras de alga nori.",
+        "step_7": "Traga para a mesa fresco acompanhado de molho de soja e wasabi."
       }
     },
     "recipe_000057": {
@@ -2987,20 +3003,20 @@
       }
     },
     "recipe_000059": {
-      "title": "Asari no Sakamushi",
-      "description": "Uma versão prática de Asari no Sakamushi para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars! (Shokugeki no Soma), Midnight Diner (Shinya Shokudo). A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Asari no sakamushi — amêijoas ao vapor com saqué e gengibre",
+      "description": "No Asari no Sakamushi, as amêijoas já depuradas são cozinhadas brevemente numa frigideira tapada com saqué, alho e gengibre. Depois de aromatizar suavemente a manteiga, juntam-se as amêijoas e aumenta-se o lume até abrirem; rejeitam-se as que permanecerem fechadas. Fora do lume, acrescenta-se a restante manteiga e um pouco de molho de soja, servindo com cebolinho fresco.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars! (Shokugeki no Soma), Midnight Diner (Shinya Shokudo). São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "vongole_fresche": {
-          "name": "Amêijoas fresco (fatte spurgare in água salata)",
+          "name": "Moluscos frescos (aspersos em água salgada)",
           "note": null
         },
         "sake_da_cucina_giapponese": {
-          "name": "Sake da cucina giapponese",
+          "name": "Sake japonês para cozinhar",
           "note": null
         },
         "d_aglio_affettato_finemente": {
-          "name": "D'alho fatiado finemente",
+          "name": "dente de alho finamente cortado",
           "note": null
         },
         "zenzero_fresco_grattugiato": {
@@ -3008,7 +3024,7 @@
           "note": null
         },
         "burro": {
-          "name": "Manteiga",
+          "name": "manteiga",
           "note": null
         },
         "salsa_di_soia": {
@@ -3016,15 +3032,20 @@
           "note": null
         },
         "erba_cipollina_fresca_tritata_per_guarnire": {
-          "name": "Erba cipollina fresco tritata per guarnire",
+          "name": "cebolinha fresca picada para decorar",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Lave bem os moluscos, já lavados sob água corrente fria.",
+        "step_2": "Em uma panela grande com tampa, dissolva metade da manteiga e adicione o alho cortado e o gengibre ralado.",
+        "step_3": "Marrom em um calor suave por 1 minuto.",
+        "step_4": "Adicione os moluscos na panela e adicione o sake japonês imediatamente.",
+        "step_5": "Cobrir imediatamente com a tampa e levantar a chama em um fogo vivo.",
+        "step_6": "Cozinhe por 3-4 minutos sacudindo a panela de vez em quando até que todos os moluscos se abram completamente (deite fora as que permanecerem fechadas). Utilize amêijoas vivas de fornecedor fiável. Rejeite conchas partidas e amêijoas que não fechem ao toque antes da cozedura; deite fora as que permaneçam fechadas após uma cozedura adequada.",
+        "step_7": "Desligue o fogo, adicione a manteiga restante e um fio de molho de soja.",
+        "step_8": "Misture suavemente para criar um caldo saboroso e brilhante.",
+        "step_9": "Poeira com muita cebola fresca e traga para a mesa quente com o seu caldo."
       }
     },
     "recipe_000060": {
@@ -4231,20 +4252,16 @@
       }
     },
     "recipe_000080": {
-      "title": "Sanma no Shioyaki",
-      "description": "Uma versão prática de Sanma no Shioyaki para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Emiya-san Chi no Kyou no Gohan, Yuru Camp△. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Sanma no Shioyaki — agulhão-do-Japão grelhado com daikon",
+      "description": "O Sanma no Shioyaki é um peixe inteiro salgado e grelhado até que a pele se torne dourada. É acompanhado de daikons ralados e condimentos essenciais para deixar em evidência o sabor do peixe; o nome italiano da espécie requer uma verificação taxonômica. O daikon ralado, o molho de soja e o limão acompanham o peixe inteiro, cuja pele é feita dourada na grelha.",
+      "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Yuru Camp△. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "pesce_sanma": {
-          "name": "Pesce sanma (luccio di mare/costardella) interi fresco",
+          "name": "agulhão-do-Japão (Cololabis saira) inteiro, limpo e eviscerado",
           "note": null
         },
         "sale_marino_grosso": {
-          "name": "Sea sal grosso",
+          "name": "Grande sal do mar",
           "note": null
         },
         "daikon_grattugiato": {
@@ -4252,7 +4269,7 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Fettine di limão o sudachi",
+          "name": "fatias de limão ou Sudachi",
           "note": null
         },
         "salsa_di_soia_per_servire": {
@@ -4261,10 +4278,14 @@
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Enxague os peixes Sanma deixando- os inteiros (a tradição japonesa inclui cozinhar com as entranhas para um gosto agradávelmente amargo). O sanma é agulhão-do-Japão (Cololabis saira), não lúcio. Para preparar em casa, utilize peixe limpo e eviscerado ou peça ao peixeiro que o prepare; verifique a cozedura na parte mais espessa.",
+        "step_2": "Insira a pele com 3 cortes diagonais em cada lado.",
+        "step_3": "Espolvore generosamente com sal grosso e deixe descansar 10 minutos.",
+        "step_4": "Seca a umidade liberada pelo sal com papel absorvente.",
+        "step_5": "Cozinhe o peixe numa grelha quente ou na placa do forno a 220°C por cerca de 6-7 minutos por lado.",
+        "step_6": "Desde que a pele se torne dourada, crocante e leve queimaduras formam.",
+        "step_7": "Coloque peixe inteiro em placas retangulares alongadas.",
+        "step_8": "Venha com uma montanha fresca e ralada de Daikon, levemente espalhada com uma gota de molho de soja e um dedo de limão."
       }
     },
     "recipe_000081": {
@@ -5059,44 +5080,59 @@
       }
     },
     "recipe_000096": {
-      "title": "Asari Clam Chowder",
-      "description": "Uma versão prática de Asari Clam Chowder para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Emiya-san Chi no Kyou no Gohan, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Clam chowder de asari — sopa cremosa de amêijoas",
+      "description": "O Asari Clam Chowder é uma sopa cremosa com moluscos abertos ao vapor, batatas e cebola. O líquido do molusco é filtrado e recuperado para aquecer a base; os moluscos entram apenas no final, sem prolongar desnecessariamente o cozimento. O líquido filtrado de moluscos entra na base cremosa com leite e creme; os moluscos abertos são adicionados no final.",
+      "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "vongole_asari": {
-          "name": "Amêijoas asari (o veraci) fresco e spurgate",
+          "name": "moluscos asários frescos (ou moluscos verdadeiros) e moluscos purgados",
           "note": null
         },
         "patata_media_a_cubetti_piccoli": {
-          "name": "Batata media a cubetti piccoli",
+          "name": "batata média em cubos pequenos",
           "note": null
         },
-        "cipolla_e_1_carota_a_cubetti": {
-          "name": "Cebola e 1 cenoura a cubetti",
+        "cipolla_e_1_carota_a_cubetti_1_cipolla": {
+          "name": "cebola",
+          "note": null
+        },
+        "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti": {
+          "name": "Cenoura em cubos",
           "note": null
         },
         "pancetta_a_dadini": {
-          "name": "Pancetta a dadini",
+          "name": "Bacon em pedaços",
           "note": null
         },
-        "burro_e_1_5_cucchiai_di_farina": {
-          "name": "Manteiga e 1.5 cucchiai di farinha",
+        "burro_e_1_5_cucchiai_di_farina_1_burro": {
+          "name": "manteiga",
           "note": null
         },
-        "latte_intero_e_100_ml_di_panna_da_cucina": {
-          "name": "Leite intero e 100 ml di natas da cucina",
+        "burro_e_1_5_cucchiai_di_farina_2_farina": {
+          "name": "farinha",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_1_latte_intero": {
+          "name": "leite inteiro",
+          "note": null
+        },
+        "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina": {
+          "name": "creme da cozinha",
           "note": null
         },
         "sake_o_vino_bianco": {
-          "name": "Sake o vino branco",
+          "name": "sake ou vinho branco",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Abra os moluscos em uma panela com sake e uma tampa de fogo. Antes da cozedura, deite fora amêijoas com conchas partidas ou que não fechem ao toque; depois, rejeite as que permaneçam fechadas. Refrigere o caldo coado se não o utilizar logo.",
+        "step_2": "Separe os moluscos do caldo filtrado e mantenha tudo de lado.",
+        "step_3": "Numa panela, derreta a manteiga e dobre o bacon com cebola, cenoura e batata por 5 minutos.",
+        "step_4": "Poeira com farinha e misture bem por 1 minuto para torrar.",
+        "step_5": "Adicione gradualmente o líquido dos moluscos filtrados, o leite e o creme e continue a misturar até atingir uma consistência veluda.",
+        "step_6": "Cozinhe por 12 minutos até as batatas estarem tenras.",
+        "step_7": "Combinar os moluscos abertos por último, regra de pimenta preta e trazer para o restaurante acompanhado de croutons de pão."
       }
     },
     "recipe_000097": {
@@ -5638,40 +5674,47 @@
       }
     },
     "recipe_000110": {
-      "title": "Motsunabe",
-      "description": "Uma versão prática de Motsunabe para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Golden Kamuy. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Motsunabe — guisado de miudezas e alho-francês de Fukuoka",
+      "description": "O Motsunabe cozinha tripe ou outras miudezas limpas juntamente com repolho, puerros chineses e aromas num caldo saboroso. A preparação das miudezas requer especial atenção antes de cozinhar; os legumes são adicionados a tempo para permanecer reconhecíveis. O nira é adicionado nos últimos minutos de cozimento das miudezas, que requerem limpeza cuidadosa antes de entrar no caldo.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Golden Kamuy. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "trippa_o_frattaglie_di_manzo_maiale_pulite": {
-          "name": "Trippa o frattaglie di carne bovina/porco pulite",
+          "name": "Trippe ou miudeza de carne limpa/porco",
           "note": null
         },
         "cespo_di_cavolo_cappuccio_sfogliato": {
-          "name": "Cespo di couve sfogliato",
+          "name": "Tampão de cabedal, descascado",
           "note": null
         },
         "erba_cipollina_porri_cinesi": {
-          "name": "Erba cipollina / porri cinesi (nira)",
+          "name": "Crianças/Porros chineses (Nira)",
           "note": null
         },
-        "brodo_dashi_con_aglio_e_peperoncino": {
-          "name": "Dashi caldo con alho e peperoncino",
+        "brodo_dashi_con_aglio_e_peperoncino_1_brodo_dashi_con_aglio": {
+          "name": "Brodo de Dashi com alho",
+          "note": null
+        },
+        "brodo_dashi_con_aglio_e_peperoncino_2_peperoncino": {
+          "name": "chili",
           "note": null
         },
         "miso_chiaro_o_salsa_di_soia": {
-          "name": "Miso chiaro o molho de soja",
+          "name": "Miso leve ou molho de soja",
           "note": null
         },
         "tofu_tagliato_a_cubetti": {
-          "name": "Tofu cut into cubetti",
+          "name": "tofu cortado em cubos",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Limpe bem as miudezas; esfregue- as com sal e farinha, enxague- as várias vezes e corte- as em mordidas regulares. Utilize apenas tripas ou miudezas já limpas e pré-cozidas, seguindo as indicações do produtor. Os 10–15 minutos são para aquecer no final, NÃO chegam para cozinhar miudezas cruas; estas exigem cozedura completa prévia.",
+        "step_2": "Ferva por cerca de 1 minuto, drene e enxagua: esta fase elimina impurezas e parte do cheiro sem derreter a gordura demais.",
+        "step_3": "Prepare o caldo com dashi, alho, malagueta e miso ou molho de soja. Tempere bem, pois a couve e o tofu vão suavizar o sabor.",
+        "step_4": "Coloque o repolho no fundo do nabe, adicione tofu e miudezas e derrame o caldo até que você cubra parcialmente os ingredientes.",
+        "step_5": "Traga à ebulição e cozinhe as miudezas por cerca de 10-15 minutos, até que fiquem inchadas e tenras.",
+        "step_6": "Adicione o nira cortado em paus nos últimos minutos, sem misturar demais.",
+        "step_7": "Prove o caldo, ajuste o miso ou a soja e sirva o nabe fervente diretamente do pote."
       }
     },
     "recipe_000111": {
@@ -5931,32 +5974,88 @@
       }
     },
     "recipe_000117": {
-      "title": "Tori no Karaage Namban Don",
-      "description": "Uma versão prática de Tori no Karaage Namban Don para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, My Hero Academia. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tori no karaage namban don — tigela de arroz com frango frito namban",
+      "description": "O Tori no Karaage Namban Don serve em picadas de frango marinado com arroz quente, revestido com amido e frito. O molho de namban e os condimentos finais adicionam uma nota doce e azeda sem sacrificar a frescura do frango. O karaage quente absorve por alguns segundos o molho Namban, então encontra o arroz e o tártaro frio na mesma tigela.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, My Hero Academia. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
-        "sovracosce_di_pollo_a_bocconcini_fritti": {
-          "name": "Sovracosce di frango a bocconcini fritti (karaage)",
+        "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1": {
+          "name": "Frango despejado sobre as coxas, sem pele, com pequenos bocais",
           "note": null
         },
-        "salsa_namban": {
-          "name": "Molho namban (3 cucchiai soia, 2 vinagre de arroz, 1 açúcar)",
+        "pollo_salsa_di_soia_2": {
+          "name": "Molho de soja",
           "note": null
         },
-        "salsa_tartara_giapponese": {
-          "name": "Molho tartara giapponese (ovo sodo tritato, maionese, cetriolini, cebola)",
+        "pollo_sake_da_cucina_3": {
+          "name": "Cozinhar saquê",
           "note": null
         },
-        "riso_caldo_e_cavolo_cappuccio_a_tacco": {
-          "name": "Arroz caldo e couve a tacco",
+        "pollo_zenzero_fresco_grattugiato_4": {
+          "name": "Gengibre fresco ralado",
+          "note": null
+        },
+        "pollo_aglio_grattugiato_5": {
+          "name": "alho ralado",
+          "note": null
+        },
+        "pollo_fecola_di_patate_o_amido_di_mais_6": {
+          "name": "amido de batata ou amido de milho",
+          "note": null
+        },
+        "pollo_olio_di_semi_per_friggere_7": {
+          "name": "óleo de semente para fritar",
+          "note": null
+        },
+        "salsa_namban_salsa_di_soia_8": {
+          "name": "Molho de soja",
+          "note": null
+        },
+        "salsa_namban_aceto_di_riso_9": {
+          "name": "Vinagre de arroz",
+          "note": null
+        },
+        "salsa_namban_mirin_10": {
+          "name": "mirin",
+          "note": null
+        },
+        "salsa_namban_zucchero_11": {
+          "name": "açúcar",
+          "note": null
+        },
+        "tartara_uovo_sodo_12": {
+          "name": "ovo duro cozido",
+          "note": null
+        },
+        "tartara_maionese_giapponese_13": {
+          "name": "Maionesa japonesa",
+          "note": null
+        },
+        "tartara_cipolla_finemente_tritata_e_sciacquata_14": {
+          "name": "Cebola finamente picada e enxaguada",
+          "note": null
+        },
+        "tartara_cetriolino_sottaceto_tritato_15": {
+          "name": "Pickle picado do Gherkin",
+          "note": null
+        },
+        "ciotola_riso_giapponese_cotto_16": {
+          "name": "Arroz Japonês Cozido",
+          "note": null
+        },
+        "ciotola_cavolo_cappuccio_a_julienne_17": {
+          "name": "capuz de repolho julienne",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte as sobrecoxas de frango em pedaços regulares e tempere com molho de soja, saquê, gengibre e alho. Deixe marinar durante pelo menos 20 minutos.",
+        "step_2": "Prepare o molho Namban trazendo para o molho de soja fervente leve, vinagre de arroz, mirin e açúcar, em seguida, deixe- o aquecer.",
+        "step_3": "Prepare o tártaro misturando ovo cozido picado, cebola e picles bem drenado, maionese japonesa, pouco vinagre, sal e pimenta; mantenha- o na geladeira.",
+        "step_4": "Esgote o frango da marinada, passe- o para o amido de batata ou milho e agite o excesso.",
+        "step_5": "Fritar a 170-175°C em pequenos lotes até que as mordidas estejam douradas e o frango esteja completamente cozido; drenar na grelha. Verifique os pedaços de frango com um termómetro alimentar: o centro deve atingir pelo menos 74 °C. A cor dourada e o tempo de fritura, por si só, não garantem a cozedura.",
+        "step_6": "Mergulhe o karaage ainda quente no molho de namban por alguns segundos, assim ele absorve o tempero sem perder completamente a frescura.",
+        "step_7": "Distribua arroz quente e repolho para julienne nas tigelas, adicione o namban de frango e complete com o molho tártaro frio.",
+        "step_8": "Servir imediatamente, mantendo o contraste entre arroz quente, frango crocante e tártaro fresco."
       }
     },
     "recipe_000118": {
@@ -6600,16 +6699,16 @@
       }
     },
     "recipe_000133": {
-      "title": "Tori Chashu Ramen",
-      "description": "Uma versão prática de Tori Chashu Ramen para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Ramen Daisuki Koizumi-san. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tori chashu ramen — ramen com frango marinado",
+      "description": "O Tori Chashu Ramen usa overbone de frango enrolado e cozido em uma marinada de molho de soja e aromas. O frango cortado é colocado em macarrão e caldo preparados separadamente, sem confundir o cozimento da carne com o curto tempo necessário pela massa. O frango marinado é deixado para esfriar e cortado antes de montar com caldo quente, macarrão e ovo marinado.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Ramen Daisuki Koizumi-san. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "noodles_per_ramen": {
-          "name": "Noodles per ramen",
+          "name": "macarrão para Ramen",
           "note": null
         },
         "sovracosce_di_pollo_disossate_con_pelle": {
-          "name": "Sovracosce di frango disossate con pelle",
+          "name": "coxas de frango com pele",
           "note": null
         },
         "salsa_di_soia": {
@@ -6617,7 +6716,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "mirin": {
@@ -6625,27 +6724,38 @@
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
-        "zenzero_schiacciato_e_1_spicchio_d_aglio": {
-          "name": "Gengibre schiacciato e 1 spicchio d'alho",
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_1_zenzero_schiacciato": {
+          "name": "ginger esmagado",
+          "note": null
+        },
+        "zenzero_schiacciato_e_1_spicchio_d_aglio_2_spicchio_spicchio_spicchio_d_aglio": {
+          "name": "dente de alho",
           "note": null
         },
         "brodo_di_pollo_leggero": {
-          "name": "Frango caldo leggero",
+          "name": "caldo de frango leve",
           "note": null
         },
-        "uovo_marinato": {
-          "name": "Ovo marinato (ajitsuke tamago) e spring cebola para servir",
+        "uovo_marinato_1_uovo_marinato_ajitsuke_tamago": {
+          "name": "Ovo marinado (Ajitsuke Tamago)",
+          "note": null
+        },
+        "uovo_marinato_2_cipollotto_per_servire": {
+          "name": "cebola para servir",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Enrole a sobrecoxa de frango com a pele virada para fora e ate-a firmemente com fio de cozinha.",
+        "step_2": "Coloque em uma panela, marrom o rolo de galinha em todos os lados.",
+        "step_3": "Combine molho de soja, sake, mirin, açúcar, gengibre e alho.",
+        "step_4": "Cubra e cozinhe a fogo lento durante 15-20 minutos girando o frango de vez em quando até que o molho espesse e esmalte a carne. Antes de fatiar o rolo de frango, confirme com um termómetro que o centro atingiu pelo menos 74 °C; prolongue a cozedura se necessário. Ate com fio de cozinha.",
+        "step_5": "Deixe o frango esfriar e fatiá- lo com discos de ouro.",
+        "step_6": "Aqueça o caldo de frango e ajuste- o ao sabor com 2 colheres de sopa de esmalte de cozimento de frango.",
+        "step_7": "Cozinhe os macarrão para ramen, esgote- os na tigela, adicione o caldo e guarneça com as fatias de Tori Chashu, ovo marinado ao meio e cebola."
       }
     },
     "recipe_000134": {
@@ -7357,97 +7467,112 @@
       }
     },
     "recipe_000149": {
-      "title": "Kani Chahan",
-      "description": "Uma versão prática de Kani Chahan para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Cooking Master Boy. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kani chahan — arroz salteado com caranguejo e alho-francês",
+      "description": "O Kani Chahan é arroz japonês já cozido e bem refrigerado, pulou rapidamente para o wok com ovos, cebola e caranguejo. O molho de soja é derramado na borda quente da panela para perfumar o arroz sem deixá- lo úmido. A soja é derramada na borda quente do wok antes de ser incorporada no arroz; a cebola fresca completa o serviço.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Cooking Master Boy. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "riso_cotto_del_giorno_prima": {
-          "name": "Arroz cotto del giorno prima (freddo di frigorifero)",
+          "name": "arroz cozido no dia anterior (refrigerador frio)",
           "note": null
         },
         "polpa_di_granchio_fresca_o_in_scatola_scolata": {
-          "name": "Polpa di caranguejo fresco o in scatola scolata",
+          "name": "polpa de caranguejo fresca ou enlatada",
           "note": null
         },
         "uovo_sbattute": {
-          "name": "Ovo sbattute",
+          "name": "ovos batidos",
           "note": null
         },
         "cipollotto_freschi_tritati_finemente": {
-          "name": "Spring cebola fresco tritati finemente",
+          "name": "Cebolas frescas, picadas finamente",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'alho tritato",
+          "name": "dente de alho picado",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         },
         "salsa_di_soia": {
           "name": "Molho de soja",
           "note": null
         },
-        "sale_e_pepe_bianco_macinato_fresco_q_b": {
-          "name": "Sal e pepper branco macinato fresco q.b",
+        "sale_e_pepe_bianco_macinato_fresco_q_b_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_bianco_macinato_fresco_q_b_2_pepe_bianco_macinato_fresco_q_b": {
+          "name": "pimenta branca moída fresca",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Estire bem o arroz frio com as mãos para separar os grãos. Use arroz cozido arrefecido rapidamente numa camada fina, idealmente numa hora, depois refrigerado e consumido em 24 horas. Não o deixe à temperatura ambiente; reaqueça apenas uma vez até ficar bem quente em toda a porção.",
+        "step_2": "Aqueça um wok em um fogo animado com óleo de sésamo.",
+        "step_3": "Sofre alho e metade da cebola.",
+        "step_4": "Adicione ovos batidos e misture rapidamente para criar escamas suaves.",
+        "step_5": "Adicione imediatamente o arroz no wok e salteá- lo com um calor forte por 3-4 minutos, constantemente esticando com a espátula.",
+        "step_6": "Adicione a polpa de caranguejo seca e misture suavemente para misturar sem atormentar demais a polpa.",
+        "step_7": "Adicione o molho de soja ao longo da borda do wok para fazê- lo caramelizar antes de incorporá- lo ao arroz.",
+        "step_8": "Regra do sal e abundante pimenta branca.",
+        "step_9": "Combine o resto da cebola fresca e sirva bem quente."
       }
     },
     "recipe_000150": {
-      "title": "Kamo Namban Soba",
-      "description": "Uma versão prática de Kamo Namban Soba para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer, Emiya-san Chi no Kyou no Gohan. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kamo namban soba — soba quente com pato e alho-francês tostado",
+      "description": "O Kamo Namban Soba combina macarrão de sarraço, peito de pato do lado da pele e puerros torrados. As fatias de pato terminam de cozinhar no estoque de dashi, soja e mirin, que é derramado no soba pouco antes do serviço. Soba é enxaguado para remover o amido e aquecido antes de encontrar o caldo com pato e puerros torrados.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer, Emiya-san Chi no Kyou no Gohan. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "tagliolini_soba_di_grano_saraceno": {
-          "name": "Tagliolini soba di grano saraceno",
+          "name": "sarrazno soba tagliolini",
           "note": null
         },
         "petto_d_anatra_con_pelle": {
-          "name": "Petto d'anatra con pelle",
+          "name": "peito de pato com pele",
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Porri lunghi giapponesi (naganegi) cut into tocchetti di 4 cm",
+          "name": "Porros longos japoneses (Naganegi) cortados em toques de 4 cm",
           "note": null
         },
         "brodo_dashi_concentrato": {
-          "name": "Dashi caldo concentrato",
+          "name": "caldo de Dashi concentrado",
           "note": null
         },
         "salsa_di_soia_scura": {
-          "name": "Molho de soja scura",
+          "name": "Molho de soja escuro",
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "scorza_di_yuzu_o_limone_grattugiata": {
-          "name": "Scorza di yuzu o limão ralado",
+          "name": "Descasca de Yuzu ou limão ralado",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi",
+          "name": "Shichimi Togarashi",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte a pele do peito de pato em padrão cruzado sem atingir a carne.",
+        "step_2": "Cozinhe em uma panela antiadherente fria do lado da pele em fogo médio a baixo durante 8-10 minutos, recolhendo a gordura derretida.",
+        "step_3": "Vire o peito de pato e cozinhe por mais 2 minutos.",
+        "step_4": "Deixe a carne descansar por alguns minutos, em seguida, cortar em fatias finas.",
+        "step_5": "Na mesma panela, usando parte da gordura do pato, ele brinde pedaços de alho-francês até que estejam bem dourados e ligeiramente caramelizados.",
+        "step_6": "Em um pote, adicione dashi, molho de soja, mirin e açúcar.",
+        "step_7": "Traga o caldo a ferver, adicione os puerros torrados e fatias de pato e deixe- o cozir por 2 minutos. Para uma preparação doméstica prudente, confirme com um termómetro que o peito de pato atinge pelo menos 74 °C no centro antes de servir. Os tempos são indicativos; a passagem breve pelo caldo não substitui a medição.",
+        "step_8": "Cozinhe os fios de massa soba em água fervente por cerca de 4 minutos; drene- os, lave- os sob água fria para remover o amido de superfície e aqueça- os brevemente em água quente antes de servir.",
+        "step_9": "Distribua o soba nas tigelas e cubra- o com caldo quente, fatias de pato e puerros.",
+        "step_10": "Completar com o zest yuzu ralado e servir imediatamente."
       }
     },
     "recipe_000151": {
@@ -7557,32 +7682,36 @@
       }
     },
     "recipe_000153": {
-      "title": "Tori Tsukune",
-      "description": "Uma versão prática de Tori Tsukune para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Midnight Diner. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tori tsukune — almôndegas de frango grelhadas com molho tare e gema",
+      "description": "Os Tori Tsukune são broches de frango moldados com cebola e gengibre, moldados e grelhados antes de serem vitrificados com molho. A receita propõe uma gema para mergulhar: este modo de serviço requer uma verificação especial de segurança alimentar e um ingrediente adequado. O esmalte rasgado envolve as almôndegas de carne de frango cozidas; a gema eventual do mergulho requer aptidão verificada para o consumo sem cozimento.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Midnight Diner. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "macinato_di_pollo": {
-          "name": "Macinato di frango",
+          "name": "frango picado",
           "note": null
         },
         "cipollotto_tritati_finemente": {
-          "name": "Spring cebola tritati finemente",
+          "name": "Cebolas finamente picadas",
           "note": null
         },
         "cm_di_zenzero_grattugiato": {
-          "name": "Cm di gengibre ralado",
+          "name": "Gengibre ralado",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Amido de milho (katakuriko)",
+          "name": "amido de milho (Katakuriko)",
           "note": null
         },
         "uovo": {
-          "name": "Ovo (ovo branco nell'impasto, ovo yolk para servir)",
+          "name": "ovo pasteurizado (clara na mistura, gema pasteurizada para molhar)",
           "note": null
         },
-        "sale_e_pepe_q_b": {
-          "name": "Sal e pepper q.b",
+        "sale_e_pepe_q_b_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_q_b_2_pepe_q_b": {
+          "name": "pimenta",
           "note": null
         },
         "salsa_di_soia": {
@@ -7590,27 +7719,25 @@
           "note": null
         },
         "mirin": {
-          "name": "Mirin",
+          "name": "mirin",
           "note": null
         },
         "sake": {
-          "name": "Sake",
+          "name": "sake",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
-          "note": null
-        },
-        "spiedini_di_legno_bagnati_nell_acqua": {
-          "name": "Spiedini di legno bagnati nell'água",
+          "name": "açúcar",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Em uma tigela, trabalhar o frango molhado com cebola, gengibre, amido de milho, clara de ovo, sal e pimenta até que a mistura seja homogênea e pegajosa.",
+        "step_2": "Dividir a massa em 4 porções alongadas e modelá- la em torno dos broches de madeira, dando- lhe uma forma cilíndrica oval.",
+        "step_3": "Em uma panela, reduza os componentes do molho Tare para consistência xarope.",
+        "step_4": "Grelhe os broches numa panela com um óleo de calor médio por 3-4 minutos por lado.",
+        "step_5": "Escovados abundantemente com molho Tare nos últimos minutos, girando- os frequentemente.",
+        "step_6": "Servir os broches brilhantes e gelados acompanhados por uma gema de ovo fresca numa tigela onde você pode mergulhar as almôndegas. Cozinhe as almôndegas de frango até pelo menos 74 °C no centro, medidos com um termómetro. Para molhar, use apenas gema pasteurizada adequada ao consumo sem cozedura, nunca gema crua não pasteurizada."
       }
     },
     "recipe_000154": {
@@ -7723,48 +7850,56 @@
       }
     },
     "recipe_000156": {
-      "title": "Asari Ramen",
-      "description": "Uma versão prática de Asari Ramen para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Ramen Daisuki Koizumi-san, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Asari ramen — ramen em caldo de amêijoas e manteiga",
+      "description": "Asari Ramen usa o líquido filtrado de moluscos abertos com saquê e alho para aromatizar um caldo de dashi leve. Os noodles cozinham separadamente e são servidos imediatamente com moluscos, milho, cebola e manteiga pequena. O líquido filtrado dos moluscos saboriza o dashi, enquanto a manteiga derrete na tigela no momento do serviço.",
+      "animeContext": "Esta receita inspira-se tematicamente em Ramen Daisuki Koizumi-san, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "ramen_noodles": {
-          "name": "Ramen noodles",
+          "name": "macarrão ramen",
           "note": null
         },
         "vongole_veraci_spurgate": {
-          "name": "Amêijoas veraci spurgate",
+          "name": "moscas, verdadeiras, torcidas",
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Dashi caldo leggero",
+          "name": "Brodo de Dashi leve",
           "note": null
         },
         "sake_giapponese": {
-          "name": "Sake giapponese",
+          "name": "Saquê japonês",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Molho de soja chiara",
+          "name": "molho de soja leve",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'alho tritato",
+          "name": "dente de alho picado",
           "note": null
         },
         "burro_di_malga": {
-          "name": "Manteiga di malga",
+          "name": "Manteiga de Malga",
           "note": null
         },
-        "mais_dolce_e_cipollotto_fresco_per_guarnire": {
-          "name": "Milho doce e spring cebola fresco per guarnire",
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_1_mais_dolce": {
+          "name": "milho doce",
+          "note": null
+        },
+        "mais_dolce_e_cipollotto_fresco_per_guarnire_2_cipollotto_fresco_per_guarnire": {
+          "name": "cebola fresca para decorar",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Coloque os moluscos numa panela com o sake e o alho picado.",
+        "step_2": "Cubra com tampa e cozinhe a fogo alto por 3-4 minutos até que os moluscos se abram. Use amêijoas vivas e depuradas de fornecedor fiável. Deite fora as que têm conchas partidas ou não fecham ao toque e, depois de bem cozidas, as que permaneçam fechadas. Não aproveite o líquido das amêijoas rejeitadas.",
+        "step_3": "Filtrar cuidadosamente o líquido liberado dos moluscos e mantê- lo de lado junto com moluscos abertos.",
+        "step_4": "Adicione o caldo das amêijoas ao caldo Dashi, adicione o molho de soja leve e uma pitada de sal.",
+        "step_5": "Aqueça bem o caldo de mosquito sem reduzi- lo excessivamente.",
+        "step_6": "Cozinhe os macarrão para ramen em água fervente abundante por 2 minutos e drene.",
+        "step_7": "Distribua os macarrão nas tigelas e cubra- os com o caldo quente para os moluscos.",
+        "step_8": "Adiante sobre os moluscos na concha, o milho e a cebola fresca; completa com uma noz de manteiga, que derreterá vai amarrar o estoque de frutos do mar."
       }
     },
     "recipe_000157": {
