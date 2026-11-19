@@ -22,8 +22,10 @@ BOILERPLATE = {
     "pt": ("prepare todos os componentes da receita antes de", "cozinhe o elemento principal"),
 }
 # Narrow lexical witnesses of Italian text embedded in non-Italian translations.
+# 'marinate' is a valid EN culinary verb and falsely flagged recipes 117/146;
+# retain only genuinely diagnostic locale-specific tokens.
 ITALIAN_LEAK = re.compile(
-    r"\b(?:tiepido|ammorbidito|tritata|marinate|giapponese denso|in polvere|"
+    r"\b(?:tiepido|ammorbidito|tritata|giapponese denso|in polvere|"
     r"erba cipollina|sale marino fine|alga kelp salata)\b", re.IGNORECASE
 )
 
