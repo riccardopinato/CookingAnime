@@ -1,0 +1,45 @@
+name: Fast Track audit 162 x 6 and witnessed translation repairs
+
+on:
+  push:
+    branches:
+      - feat/fast-track-editorial-audit-162-20261119
+    paths:
+      - 'tool/fast_track_catalog_audit.py'
+      - '.github/workflows/fast-track-audit-162.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fast-track-audit-162
+  cancel-in-progress: false
+
+jobs:
+  audit-apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout audited branch
+        uses: actions/checkout@v4
+        with:
+          ref: feat/fast-track-editorial-audit-162-20261119
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Audit full 162 recipe x six locale matrix and repair evidenced errors
+        run: |
+          python3 tool/fast_track_catalog_audit.py --apply
+          python3 tool/compile_recipe_catalog.py
+          python3 tool/compile_recipe_catalog.py --check
+          python3 tool/validate_recipe_catalog.py
+          python3 -m unittest discover -s tool/tests -p 'test_f3l_translation_gate.py'
+      - name: Commit only corrected recipes, runtime packs, and audit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add authoring/recipes assets/catalog docs/f3l_editorial/FAST_TRACK_162_CATALOG_AUDIT.json
+          if ! git diff --cached --quiet; then
+            git commit -m "content(recipes): repair witnessed locale errors; audit 162 records in six languages"
+            git push origin HEAD:refs/heads/feat/fast-track-editorial-audit-162-20261119
+          fi
