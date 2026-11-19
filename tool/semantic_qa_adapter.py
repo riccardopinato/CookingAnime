@@ -27,7 +27,7 @@ def text_fields(content: dict) -> dict:
         "description": content.get("description") or "",
         "animeContext": content.get("animeContext") or "",
         "ingredients": {
-            k: v.get("name") or ""
+            k: {"name": v.get("name") or "", "note": v.get("note") or ""}
             for k, v in sorted(content.get("ingredients", {}).items())
         },
         "steps": dict(sorted(content.get("steps", {}).items())),
