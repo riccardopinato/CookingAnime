@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000060",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Si alza il vento (Studio Ghibli)",
   "animeReferences": [
@@ -102,7 +102,7 @@
   "locales": {
     "en": {
       "title": "Castella — fluffy Japanese sponge cake",
-      "description": "The Castella is a high and soft dessert that gets volume by assembling eggs and sugar for a long time. It incorporates honey and flour sifted without disassembling the mixture, then cooks in the rectangular mold and lets rest wrapped to stabilize the crumb. The rest wrapped after cooking helps to retain moisture; the final veiling of honey completes the golden surface.",
+      "description": "Castella is a tall, soft Japanese sponge cake made by whipping eggs and sugar until voluminous. Fold in honey and sifted flour without deflating the batter, bake in a rectangular pan, then let the wrapped cake rest so the crumb retains moisture. A thin brush of honey finishes the golden surface.",
       "animeContext": "This recipe is thematically inspired by Si alza il vento (Studio Ghibli), Gintama. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -132,13 +132,13 @@
       },
       "steps": {
         "step_1": "In a cup melt the honey in warm water with the mirin.",
-        "step_2": "In a large bowl, mount the eggs with sugar using electric whips for at least 10-12 minutes.",
-        "step_3": "As long as the compound becomes clear, foamy and triple in volume.",
+        "step_2": "In a large bowl, beat the eggs and sugar with an electric mixer for at least 10–12 minutes.",
+        "step_3": "Continue until the mixture is pale, foamy and roughly triples in volume.",
         "step_4": "Add the honey mixture in the eggs mounted flush and mix at a low speed for 1 minute.",
-        "step_5": "Slice the flour on the mixture in three shots, gently incorporating it from the bottom upwards with a spatula to not disassemble the dough.",
+        "step_5": "Sift the flour into the mixture in three additions, folding gently from the bottom up with a spatula so the batter does not deflate.",
         "step_6": "Add the dough in a rectangular mold lined with baking paper.",
         "step_7": "Cook in the oven at 160°C in a static oven preheated for 35-40 minutes until the surface is golden and a toothpick comes out dry, freshly baked.",
-        "step_8": "Brush the surface with a veil of honey, wrap the cake in the transparent film and let it rest in the fridge for a few hours: this passage will make the Castle incredibly humid, soft and fragrant."
+        "step_8": "Brush the surface with a thin layer of honey, wrap the cake in food-safe cling film and refrigerate for a few hours. Resting helps the Castella retain its moist, tender crumb."
       }
     },
     "it": {
@@ -184,7 +184,7 @@
     },
     "es": {
       "title": "Castella — bizcocho japonés muy esponjoso",
-      "description": "El castillo es un dulce alto y suave que obtiene volumen montando durante mucho tiempo huevos y azúcar. Se incorporan miel y harina tambaleada sin desmontar el compuesto, luego se cocina en el molde rectangular y se deja descansar envuelto para estabilizar la blando. El descanso envuelto después de la cocción ayuda a retener la humedad; el velado final de miel completa la superficie dorada.",
+      "description": "El Castella es un bizcocho japonés alto y esponjoso que obtiene su volumen al batir huevos y azúcar durante varios minutos. Incorpora miel y harina tamizada con suavidad, hornea en un molde rectangular y deja reposar el bizcocho envuelto para conservar la humedad. Una capa fina de miel completa la superficie dorada.",
       "animeContext": "Esta receta está inspirada temáticamente en Si alza il vento (Studio Ghibli), Gintama. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -214,18 +214,18 @@
       },
       "steps": {
         "step_1": "En una taza, derrite la miel en agua tibia junto con el mirin.",
-        "step_2": "En un cuenco grande, monta huevos con azúcar usando batidora eléctrica durante al menos 10-12 minutos.",
-        "step_3": "Hasta que el compuesto se vuelve claro, espumoso y triple de volumen.",
+        "step_2": "En un cuenco grande, bate los huevos con el azúcar usando una batidora eléctrica durante al menos 10–12 minutos.",
+        "step_3": "Continúa hasta que la mezcla esté pálida, espumosa y haya triplicado aproximadamente su volumen.",
         "step_4": "Añadir la mezcla de miel al hilo en los huevos montados y mezclarla a baja velocidad durante 1 minuto.",
-        "step_5": "Colocar la harina sobre la mezcla en tres tomas, incorporandola suavemente desde abajo hacia arriba con una espátula para no desmontar la masa.",
+        "step_5": "Tamiza la harina sobre la mezcla en tres tandas e incorpórala con una espátula mediante movimientos suaves de abajo arriba, sin perder el aire.",
         "step_6": "Añadir la masa en un molde rectangular forrado en papel horno.",
         "step_7": "Cocine en horno a 160°C en horno estático precalentado durante 35-40 minutos hasta que la superficie esté dorada y un palillo salga seco, recién horneado.",
-        "step_8": "Aprieta la superficie con un velo de miel, envuelve el pastel en la película transparente y déjala reposar en el refrigerador por unas horas: este paso hará que la Castella sea increíblemente húmeda, suave y perfumada."
+        "step_8": "Pincela la superficie con una capa fina de miel, envuelve el bizcocho en film alimentario y déjalo reposar unas horas en la nevera para conservar una miga húmeda y tierna."
       }
     },
     "fr": {
       "title": "Castella — génoise japonaise moelleuse",
-      "description": "Le Castella est un dessert haut et doux qui obtient du volume en montant longtemps des œufs et du sucre. Il s'intègre miel et farine tamisée sans démonter le composé, puis il se cuite dans le moule rectangulaire et se laisse reposer enveloppé pour stabiliser la molle. Le repos enveloppé après la cuisson aide à retenir l'humidité; la voile finale de miel complète la surface dorée.",
+      "description": "Le Castella est un biscuit japonais haut et moelleux qui doit son volume à des œufs longuement fouettés avec du sucre. Incorporez le miel et la farine tamisée sans faire retomber la pâte, puis cuisez dans un moule rectangulaire. Le repos du gâteau enveloppé préserve l'humidité de sa mie; une fine couche de miel dore sa surface.",
       "animeContext": "Cette recette s'inspire librement de Si alza il vento (Studio Ghibli), Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -255,18 +255,18 @@
       },
       "steps": {
         "step_1": "Dans une tasse, faites fondre le miel dans l'eau tiède avec le mirin.",
-        "step_2": "Dans un grand bol, il monte les œufs avec du sucre en utilisant des fouets électriques pendant au moins 10-12 minutes.",
-        "step_3": "Jusqu'à ce que le composé devienne clair, spumeux et triple de volume.",
+        "step_2": "Dans un grand saladier, fouettez les œufs et le sucre au batteur électrique pendant au moins 10 à 12 minutes.",
+        "step_3": "Continuez jusqu'à ce que le mélange devienne pâle, mousseux et triple approximativement de volume.",
         "step_4": "Ajouter au fil le mélange de miel dans les œufs montés en continuant à mélanger à basse vitesse pendant 1 minute.",
-        "step_5": "Fouille la farine sur le composé en trois reprises, l'incorporant doucement de bas en haut avec une spatule pour ne pas démonter la pâte.",
+        "step_5": "Tamisez la farine en trois fois, puis incorporez-la délicatement à la spatule de bas en haut pour ne pas faire retomber la préparation.",
         "step_6": "Ajouter la pâte dans un moule rectangulaire doublé de papier four.",
         "step_7": "Faites cuire au four à 160°C au four statique préchauffé pendant 35-40 minutes jusqu'à ce que la surface soit dorée et qu'une tige en sorte sèche, fraîchement fourrée.",
-        "step_8": "Renversez la surface avec un voile de miel, enveloppez le gâteau dans le film transparent et laissez-la reposer dans le réfrigérateur pendant quelques heures: ce passage rendra la Castella incroyablement humide, douce et parfumée."
+        "step_8": "Badigeonnez la surface d'une fine couche de miel, enveloppez le gâteau de film alimentaire et laissez-le reposer quelques heures au réfrigérateur afin de préserver une mie moelleuse et humide."
       }
     },
     "de": {
       "title": "Castella – luftiger japanischer Biskuitkuchen",
-      "description": "Das Castella ist ein süßes und weiches Dessert, das durch langes Anbringen von Eiern und Zucker Volumen erhält. Es enthält Honig und Mehl gesiebt, ohne die Verbindung zu zerlegen, dann kocht es in der rechteckigen Form und lässt sich ausruhen gewickelt, um die Weichheit zu stabilisieren. Die nach dem Kochen eingewickelte Ruhe hilft, die Feuchtigkeit zu halten; das letzte Honigschleier ergänzt die goldene Oberfläche.",
+      "description": "Castella ist ein hoher, lockerer japanischer Biskuitkuchen. Das Volumen entsteht durch langes Aufschlagen von Eiern und Zucker. Honig und gesiebtes Mehl werden vorsichtig untergehoben, ohne den Teig zusammenfallen zu lassen. Nach dem Backen in der rechteckigen Form hält die eingewickelte Ruhezeit die Krume saftig; ein dünner Honiganstrich vollendet die goldene Oberfläche.",
       "animeContext": "Dieses Rezept ist thematisch von Si alza il vento (Studio Ghibli), Gintama inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -296,18 +296,18 @@
       },
       "steps": {
         "step_1": "In einer Tasse schmelze den Honig zusammen mit dem Mirin im warmen Wasser.",
-        "step_2": "In einer großen Schüssel, die Eier mit Zucker mit den elektrischen Peitschen für mindestens 10-12 Minuten.",
-        "step_3": "Solange die Verbindung klar, spumig und verdreifacht Volumen wird.",
+        "step_2": "Eier und Zucker in einer großen Schüssel mit dem Handmixer mindestens 10–12 Minuten schaumig schlagen.",
+        "step_3": "Weiter aufschlagen, bis die Masse hell und luftig ist und etwa das dreifache Volumen erreicht hat.",
         "step_4": "Fügen Sie die Honigmischung in die montierten Eier, indem Sie mit niedriger Geschwindigkeit für 1 Minute mischen.",
-        "step_5": "Das Mehl auf der Mischung in drei Drehungen sieben, indem es vorsichtig von unten nach oben mit einem Spachtel gefüllt wird, um den Teig nicht zu zerlegen.",
+        "step_5": "Das Mehl in drei Portionen über die Masse sieben und mit einem Teigschaber behutsam von unten nach oben unterheben, damit möglichst viel Luft erhalten bleibt.",
         "step_6": "Fügen Sie den Teig in einer rechteckigen Form mit Backpapier.",
         "step_7": "Kochen Sie im Backofen bei 160°C im vorgeheizten statischen Ofen 35-40 Minuten lang, bis die Oberfläche goldgelb ist und ein Stuck aus dem Ofen herauskommt, frisch gebacken.",
-        "step_8": "Hängen Sie die Oberfläche mit einem Schleier Honig, wickeln Sie den Kuchen in den transparenten Film und lassen Sie ihn für ein paar Stunden im Kühlschrank ruhen: Dieser Durchgang macht die Burg unglaublich feucht, weich und duftend."
+        "step_8": "Die Oberfläche dünn mit Honig bestreichen, den Kuchen in lebensmittelechte Frischhaltefolie wickeln und einige Stunden im Kühlschrank ruhen lassen, damit die Castella-Krume saftig und weich bleibt."
       }
     },
     "pt": {
       "title": "Castella — pão de ló japonês muito fofo",
-      "description": "O Castella é uma sobremesa alta e suave que recebe volume montando ovos e açúcar por muito tempo. Incorpora mel e farinha varreda sem desmontar a mistura, então cozinha no molde retangular e deixa descansar embrulhado para estabilizar a migalha. O resto embrulhado após o cozimento ajuda a manter a umidade; o véu final do mel completa a superfície dourada.",
+      "description": "O Castella é um bolo japonês alto e fofo cujo volume resulta de bater os ovos com açúcar durante vários minutos. Incorpora mel e farinha peneirada com cuidado para não perder o ar, coze numa forma retangular e deixa repousar o bolo embrulhado para manter a humidade. Uma camada fina de mel completa a superfície dourada.",
       "animeContext": "Esta receita inspira-se tematicamente em Si alza il vento (Studio Ghibli), Gintama. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -337,13 +337,13 @@
       },
       "steps": {
         "step_1": "Numa xícara, derrete o mel em água morna com o mirin.",
-        "step_2": "Em uma tigela grande, monte os ovos com açúcar usando batedeira elétrica por pelo menos 10-12 minutos.",
-        "step_3": "Contanto que o composto se torne claro, espumoso e triplo em volume.",
+        "step_2": "Numa tigela grande, bate os ovos com o açúcar usando uma batedeira elétrica durante pelo menos 10–12 minutos.",
+        "step_3": "Continua até a mistura ficar clara, espumosa e atingir aproximadamente o triplo do volume.",
         "step_4": "Adicione a mistura de mel nos ovos montados flush e misture a uma velocidade baixa por 1 minuto.",
-        "step_5": "Corte a farinha na mistura em três doses, incorporando- a suavemente do fundo para cima com uma espátula para não desmontar a massa.",
+        "step_5": "Peneira a farinha sobre a mistura em três adições, envolvendo-a delicadamente com uma espátula de baixo para cima para não perder o ar.",
         "step_6": "Adicione a massa num molde retangular forrado com papel para assar.",
         "step_7": "Cozinhe no forno a 160°C num forno estático pré- aquecido por 35- 40 minutos até que a superfície esteja dourada e um palito saia seco, recém- assado.",
-        "step_8": "Escove a superfície com um véu de mel, enrole o bolo no filme transparente e deixe- o descansar na geladeira por algumas horas: esta passagem tornará o Castelo incrivelmente úmido, macio e perfumado."
+        "step_8": "Pincela a superfície com uma camada fina de mel, embrulha o bolo em película alimentar e deixa repousar algumas horas no frigorífico para manter a massa húmida e macia."
       }
     }
   }
