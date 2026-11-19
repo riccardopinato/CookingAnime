@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000061",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars! - Shokugeki no Soma",
   "animeReferences": [
@@ -224,7 +224,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "fresh sliced onion",
+          "name": "fresh spring onion, sliced",
           "note": null
         },
         "alga_nori": {
@@ -242,7 +242,7 @@
         "step_7": "Cook the fresh noodles in boiling water in plenty of boiling water, not salted, following the instructions of the package (about 2-3 minutes), then drain them thoroughly.",
         "step_8": "On the basis of each large bowl add the boiling broth with miso and meat.",
         "step_9": "Combine the drained noodles by making them stick in the center.",
-        "step_10": "Place on one side the soy sprouts, the sweet corn, half a marinated egg, a nut of fresh malga butter in the center (typical of the tradition of Sapporo), a sprinkled onion and a sheet of Nori algae stuck on the edge of the bowl.",
+        "step_10": "Place on one side the soy sprouts, the sweet corn, half a marinated egg, a nut of fresh malga butter in the center (typical of the tradition of Sapporo), a sprinkled spring onion and a sheet of Nori algae stuck on the edge of the bowl.",
         "step_11": "Serve immediately hot!"
       }
     },
@@ -392,7 +392,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "cipollotto fresco cortado",
+          "name": "cebolleta fresca en rodajas",
           "note": null
         },
         "alga_nori": {
@@ -410,7 +410,7 @@
         "step_7": "Cocine en agua hirviendo los fideos frescos en abundante agua hirviendo no salada siguiendo las instrucciones del envase (unos 2-3 minutos), luego escúrrelos cuidadosamente.",
         "step_8": "Sobre la base de cada tazón, añade el caldo caliente con el miso y la carne.",
         "step_9": "Añade los fideos escurridos y colócalos en el centro.",
-        "step_10": "Pone los brotes de soja, el maíz dulce, medio huevo marinado, una nuez de mantequilla de malta fresca en el centro (típica de la tradición de Sapporo), un polvo de cebolla y una hoja de alga Nori en el borde del tazón.",
+        "step_10": "Pone los brotes de soja, el maíz dulce, medio huevo marinado, una nuez de mantequilla de malta fresca en el centro (típica de la tradición de Sapporo), un polvo de cebolleta y una hoja de alga Nori en el borde del tazón.",
         "step_11": "¡Lleva a la mesa inmediatamente caliente!"
       }
     },
@@ -476,7 +476,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         },
         "alga_nori": {
@@ -494,7 +494,7 @@
         "step_7": "Faites cuire dans de l'eau bouillante les nouilles fraîches dans de l'eau bouillante non salée en suivant les instructions de l'emballage (environ 2-3 minutes), puis égouttez-les soigneusement.",
         "step_8": "Sur la base de chaque grand bol, ajoutez le bouillon bouillant avec le miso et la viande.",
         "step_9": "Rassemblez les nouilles en les faisant s'adapter au milieu.",
-        "step_10": "Il range sur un côté les bourgeons de soja, le maïs doux, demi-œuf mariné, une noix de beurre de magicien frais au centre (typique de la tradition de Sapporo), une époussetée d'oignons et une feuille d'algue Nori enfilé sur le bord du bol.",
+        "step_10": "Il range sur un côté les bourgeons de soja, le maïs doux, demi-œuf mariné, une noix de beurre de magicien frais au centre (typique de la tradition de Sapporo), une époussetée d'cébettes et une feuille d'algue Nori enfilé sur le bord du bol.",
         "step_11": "Amenez à table immédiatement bien chaud!"
       }
     },
@@ -560,7 +560,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "alga_nori": {
@@ -578,7 +578,7 @@
         "step_7": "Kochen Sie in kochendem Wasser die frischen Nudeln in reichlich heißem, ungesalzenem Wasser nach den Anweisungen der Packung (ca. 2-3 Minuten), dann spülen Sie sie gründlich.",
         "step_8": "Basierend auf jeder großen Schüssel fügen Sie die kochende Brühe mit Miso und Fleisch.",
         "step_9": "Kombinieren Sie die Noodles, indem Sie sie in der Mitte zaubern.",
-        "step_10": "Planen Sie auf einer Seite die Sojasprossen, den süßen Mais, ein halbes, mariniertes Ei, eine Nuss aus frischer Almbutter in der Mitte (typisch für die Tradition von Sapporo), einen Zwiebelstaub und ein Blatt Nori-Alge am Rand der Schüssel.",
+        "step_10": "Planen Sie auf einer Seite die Sojasprossen, den süßen Mais, ein halbes, mariniertes Ei, eine Nuss aus frischer Almbutter in der Mitte (typisch für die Tradition von Sapporo), einen fein geschnittene Frühlingszwiebeln und ein Blatt Nori-Alge am Rand der Schüssel.",
         "step_11": "Bringt sofort heiß auf den Tisch!"
       }
     },
@@ -644,7 +644,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "cebola fresca cortada",
+          "name": "cebola de rama fresca às rodelas",
           "note": null
         },
         "alga_nori": {
@@ -662,7 +662,7 @@
         "step_7": "Cozinhe os macarrão frescos em água fervente em muita água fervente, não salgada, seguindo as instruções do pacote (cerca de 2-3 minutos), em seguida, escorra-os bem.",
         "step_8": "Com base em cada tigela grande, adicione o caldo fervente com miso e carne.",
         "step_9": "Combine os macarrão drenados fazendo com que fiquem no centro.",
-        "step_10": "Coloque de um lado os brotos de soja, o milho doce, meio ovo marinado, uma noz de manteiga de malga fresca no centro (típico da tradição de Sapporo), uma cebola aspersa e uma folha de algas Nori presas na borda da tigela.",
+        "step_10": "Coloque de um lado os brotos de soja, o milho doce, meio ovo marinado, uma noz de manteiga de malga fresca no centro (típico da tradição de Sapporo), uma cebola de rama aspersa e uma folha de algas Nori presas na borda da tigela.",
         "step_11": "Traga para a mesa imediatamente quente!"
       }
     }

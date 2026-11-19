@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000071",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -215,7 +215,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "fresh chopped onion",
+          "name": "fresh spring onion, chopped",
           "note": null
         }
       },
@@ -229,7 +229,7 @@
         "step_7": "Put in a saucepan, heat the chicken broth together with the soy milk without boiling it hard to prevent the milk from renneting.",
         "step_8": "Add the hot broth in the bowls and mix well with the whisk to dissolve the sesame paste on the bottom.",
         "step_9": "Bake ramen noodles in boiling water for 2 minutes, drain thoroughly and place them in the broth.",
-        "step_10": "Garnish in the center with a generous spoonful of spicy meat, the boiled bok choy leaves and a sprinkle of chopped fresh onion."
+        "step_10": "Garnish in the center with a generous spoonful of spicy meat, the boiled bok choy leaves and a sprinkle of chopped fresh spring onion."
       }
     },
     "it": {
@@ -373,7 +373,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "cipollotto fresco picado",
+          "name": "cebolleta fresca picada",
           "note": null
         }
       },
@@ -387,7 +387,7 @@
         "step_7": "Ponlo en una olla, calienta el caldo de pollo junto con la leche de soja sin hervirlo fuerte para evitar que la leche se cague.",
         "step_8": "Añade el caldo caliente en los cuencos y mezcla bien con las varillas para disolver la pasta de sésamo en el fondo.",
         "step_9": "Cocine los fideos de ramen en agua hirviendo durante 2 minutos, escríbalos cuidadosamente y agilízalos en el caldo.",
-        "step_10": "Guárdate en el centro con una generosa cucharada de carne picante, las hojas de bok choy desmenuzadas y una pulverizada de cebolla fresca picada."
+        "step_10": "Guárdate en el centro con una generosa cucharada de carne picante, las hojas de bok choy desmenuzadas y una pulverizada de cebolleta fresca picada."
       }
     },
     "fr": {
@@ -452,7 +452,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Ciboulette frais haché",
+          "name": "cébette fraîche hachée",
           "note": null
         }
       },
@@ -466,7 +466,7 @@
         "step_7": "Mettez dans une casserole, réchauffez le bouillon de poulet avec du lait de soja sans le faire bouillir fort pour éviter que le lait ne chie.",
         "step_8": "Ajoutez le bouillon chaud dans les bols et amalgamez bien avec le fouet pour dissoudre la pâte de sésame au fond.",
         "step_9": "Fais cuire les nouilles ramen 2 minutes dans l’eau bouillante, égoutte-les soigneusement et dépose-les dans le bouillon.",
-        "step_10": "Garnissez au centre avec une généreuse cuillère à soupe de viande épicée, les feuilles de bok choy molletées et une soupe d'oignons frais hachés."
+        "step_10": "Garnissez au centre avec une généreuse cuillère à soupe de viande épicée, les feuilles de bok choy molletées et une soupe d'cébettes fraîches hachés."
       }
     },
     "de": {
@@ -531,7 +531,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "Frühlingszwiebeln, frisch gehackt",
+          "name": "frische Frühlingszwiebel, gehackt",
           "note": null
         }
       },
@@ -545,7 +545,7 @@
         "step_7": "Legen Sie die Hühnerbrühe in einen Topf, erwärmen Sie die Hühnerbrühe zusammen mit Sojamilch, ohne es stark kochen zu lassen, um zu verhindern, dass die Milch fällt.",
         "step_8": "Die heiße Brühe in die Schüsseln geben und die Sesampaste am Boden mit einem Schneebesen gründlich darin auflösen.",
         "step_9": "Die Ramen-Nudeln 2 Minuten in kochendem Wasser garen, gründlich abgießen und in die Brühe geben.",
-        "step_10": "Grillen Sie in die Mitte mit einem großzügigen Esslöffel würziges Fleisch, Bok-choy-Blatt und einem frisch gehackten Zwiebelstaub."
+        "step_10": "Grillen Sie in die Mitte mit einem großzügigen Esslöffel würziges Fleisch, Bok-choy-Blatt und einem frisch gehackten fein geschnittene Frühlingszwiebeln."
       }
     },
     "pt": {
@@ -610,7 +610,7 @@
           "note": null
         },
         "cipollotto_fresco_tritato": {
-          "name": "cebola fresca picada",
+          "name": "cebola de rama fresca picada",
           "note": null
         }
       },
@@ -624,7 +624,7 @@
         "step_7": "Colocar numa panela, aquecer o caldo de frango junto com o leite de soja sem fervê- lo difícilmente para evitar que o leite se enrole.",
         "step_8": "Adicione o caldo quente nas tigelas e misture bem com o batido para dissolver a pasta de sésamo no fundo.",
         "step_9": "Coze macarrão ramen em água fervente por 2 minutos, escorra bem e coloque- os no caldo.",
-        "step_10": "Decorar no centro com uma colher generosa de carne picante, as folhas bok choy cozidas e um copo de cebola fresca picada."
+        "step_10": "Decorar no centro com uma colher generosa de carne picante, as folhas bok choy cozidas e um copo de cebola de rama fresca picada."
       }
     }
   }

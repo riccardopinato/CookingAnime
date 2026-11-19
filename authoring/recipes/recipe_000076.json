@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000076",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer (Kimetsu no Yaiba)",
   "animeReferences": [
@@ -171,7 +171,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "chopped onion",
+          "name": "chopped spring onion",
           "note": null
         },
         "katsuobushi": {
@@ -188,7 +188,7 @@
         "step_6": "Fry in hot oil at 180°C for 3-4 minutes until the outer crust becomes white and crispy.",
         "step_7": "Place hot fried tofu cubes in individual bowls.",
         "step_8": "Gently add the hot broth around the tofu (without covering it entirely to avoid softening the crust).",
-        "step_9": "Garnish the top of each cube with a grated Daikon bow, a pinch of ginger, onion and Katsuobushi flakes."
+        "step_9": "Garnish the top of each cube with a grated Daikon bow, a pinch of ginger, spring onion and Katsuobushi flakes."
       }
     },
     "it": {
@@ -295,7 +295,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "cipollotto picado",
+          "name": "cebolleta picada",
           "note": null
         },
         "katsuobushi": {
@@ -357,7 +357,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "ciboulet haché",
+          "name": "cébette hachée",
           "note": null
         },
         "katsuobushi": {
@@ -419,7 +419,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "gehackte Zwiebel",
+          "name": "gehackte Frühlingszwiebel",
           "note": null
         },
         "katsuobushi": {
@@ -436,7 +436,7 @@
         "step_6": "Braten Sie in heißem Öl bei 180°C für 3-4 Minuten, bis das äußere Crosticin weiß und knusprig wird.",
         "step_7": "Machen Sie die Würfel warm gebratenen Tofu in einzelnen Schüsseln.",
         "step_8": "Fügen Sie die warme Brühe vorsichtig um den Tofu hinzu (ohne sie vollständig zu bedecken, um die Kruste nicht zu erweichen).",
-        "step_9": "Bewahren Sie die Spitze jedes Würfels mit einer geriebenen Daikon-Flocke, einer Prise Ingwer, Zwiebeln und Katsuobushi-Flocken."
+        "step_9": "Bewahren Sie die Spitze jedes Würfels mit einer geriebenen Daikon-Flocke, einer Prise Ingwer, Frühlingszwiebeln und Katsuobushi-Flocken."
       }
     },
     "pt": {
@@ -481,7 +481,7 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "cebola picada",
+          "name": "cebola de rama picada",
           "note": null
         },
         "katsuobushi": {
@@ -498,7 +498,7 @@
         "step_6": "Fritar em óleo quente a 180°C durante 3-4 minutos até que a crosta exterior se torne branca e crocante.",
         "step_7": "Coloque cubos de tofu frito quente em tigelas individuais.",
         "step_8": "Adicione suavemente o caldo quente ao redor do tofu (sem o cobrir inteiramente para evitar amolecer a crosta).",
-        "step_9": "Decorar o topo de cada cubo com um arco de Daikon ralado, uma pitada de gengibre, cebola e flocos de Katsuobushi."
+        "step_9": "Decorar o topo de cada cubo com um arco de Daikon ralado, uma pitada de gengibre, cebola de rama e flocos de Katsuobushi."
       }
     }
   }

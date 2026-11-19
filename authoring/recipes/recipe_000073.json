@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000073",
-  "contentVersion": 3,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -129,7 +129,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "onion (green part only)",
+          "name": "spring onion (green part only)",
           "note": null
         },
         "sake": {
@@ -235,7 +235,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "Cipollotto (solo parte verde)",
+          "name": "cebolleta (solo la parte verde)",
           "note": null
         },
         "sake": {
@@ -288,7 +288,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "oignon (uniquement vert)",
+          "name": "cébette (partie verte seulement)",
           "note": null
         },
         "sake": {
@@ -341,7 +341,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "Zwiebel (nur grün)",
+          "name": "Frühlingszwiebel (nur der grüne Teil)",
           "note": null
         },
         "sake": {
@@ -394,7 +394,7 @@
           "note": null
         },
         "cipollotto": {
-          "name": "cebola (apenas parte verde)",
+          "name": "cebola de rama (apenas a parte verde)",
           "note": null
         },
         "sake": {
@@ -424,7 +424,7 @@
       },
       "steps": {
         "step_1": "Corte a barriga de porco em cubos grandes de cerca de 4-5 cm.",
-        "step_2": "Coloque o porco numa panela grande, cubra com água e junte o gengibre e a parte verde dos cebolinhos.",
+        "step_2": "Coloque o porco numa panela grande, cubra com água e junte o gengibre e a parte verde dos cebola de rama.",
         "step_3": "Deixe fervilhar em lume brando durante 45 minutos para retirar parte do excesso de gordura.",
         "step_4": "Esgote- o e lave- o sob água morna.",
         "step_5": "No pote limpo adicionar 400ml de água, Sake, Mirin, molho de soja e açúcar, trazer a ebulição.",

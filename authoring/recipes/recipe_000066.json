@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000066",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars! - Shokugeki no Soma",
   "animeReferences": [
@@ -151,7 +151,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Sliced onions",
+          "name": "sliced spring onions",
           "note": null
         },
         "pasta_di_miso": {
@@ -188,7 +188,7 @@
         "step_6": "Add the chicken broth and bring it back to a boil.",
         "step_7": "Combine the golden eggplant in the pan, mix gently to absorb the flavors for 2 minutes.",
         "step_8": "Then add the melted cornstarch together until you get a thick and enveloping sauce.",
-        "step_9": "Dust with fresh onion and bring on the table a bowl of hot rice."
+        "step_9": "Dust with fresh spring onion and bring on the table a bowl of hot rice."
       }
     },
     "it": {
@@ -275,7 +275,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Cebolletas cortadas",
+          "name": "cebolletas en rodajas",
           "note": null
         },
         "pasta_di_miso": {
@@ -312,7 +312,7 @@
         "step_6": "Añade el caldo de pollo y vuelve a marcar.",
         "step_7": "Combina las berenjenas doradas en la sartén, amalgama suavemente para absorber los sabores durante 2 minutos.",
         "step_8": "Luego añade el almidón de maíz disuelto al hilo hasta obtener una salsa densa y envolvente.",
-        "step_9": "Espolvorea con cebolla fresca y lleva a la mesa sobre un tazón de arroz caliente."
+        "step_9": "Espolvorea con cebolleta fresca y lleva a la mesa sobre un tazón de arroz caliente."
       }
     },
     "fr": {
@@ -337,7 +337,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "oignons coupés",
+          "name": "cébettes émincées",
           "note": null
         },
         "pasta_di_miso": {
@@ -374,7 +374,7 @@
         "step_6": "Ajoutez le bouillon de poulet et faites bouillir.",
         "step_7": "Combinez les aubergines dorées dans la poêle, amalgamez doucement pour absorber les saveurs pendant 2 minutes.",
         "step_8": "Puis ajoutez l'amidon de maïs dissous au fil jusqu'à obtenir une sauce dense et enveloppante.",
-        "step_9": "Pulvériser avec de l'oignon frais et mettre sur la table un bol de riz chaud."
+        "step_9": "Pulvériser avec de la cébette fraîche et mettre sur la table un bol de riz chaud."
       }
     },
     "de": {
@@ -399,7 +399,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Zwiebeln, geschnitten",
+          "name": "Frühlingszwiebeln, in Ringe geschnitten",
           "note": null
         },
         "pasta_di_miso": {
@@ -436,7 +436,7 @@
         "step_6": "Fügen Sie die Hühnerbrühe hinzu und kreuzen Sie wieder an.",
         "step_7": "Kombinieren Sie die goldenen Auberginen in der Pfanne, mischen Sie sie sanft, um die Aromen für 2 Minuten zu absorbieren.",
         "step_8": "Dann fügen Sie geschmolzene Maisstärke mit Faden hinzu, bis Sie eine dicke, wickelnde Soße erhalten.",
-        "step_9": "Staub mit frischen Zwiebeln und bringt auf den Tisch auf eine Schüssel mit heißem Reis."
+        "step_9": "Staub mit frischen Frühlingszwiebeln und bringt auf den Tisch auf eine Schüssel mit heißem Reis."
       }
     },
     "pt": {
@@ -461,7 +461,7 @@
           "note": null
         },
         "cipollotto_affettati": {
-          "name": "Cebolas cortadas",
+          "name": "cebolas de rama às rodelas",
           "note": null
         },
         "pasta_di_miso": {
@@ -498,7 +498,7 @@
         "step_6": "Adicione o caldo de frango e traga- o de volta a ebulição.",
         "step_7": "Combinar a berinjela dourada na panela, misturar suavemente para absorver os sabores por 2 minutos.",
         "step_8": "Em seguida, adicione o amido de milho derretido juntos até obter um molho espesso e envolvente.",
-        "step_9": "Poeira com cebola fresca e traga na mesa uma tigela de arroz quente."
+        "step_9": "Poeira com cebola de rama fresca e traga na mesa uma tigela de arroz quente."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000055",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Yuru Camp△",
   "animeReferences": [
@@ -154,7 +154,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "fresh sliced onion",
+          "name": "fresh spring onion, sliced",
           "note": null
         },
         "uovo_fresche": {
@@ -174,7 +174,7 @@
         "step_5": "Simmer the chicken pieces over medium heat; 5–7 minutes is only a guide. Check with a food thermometer that the centre reaches at least 74 °C, cooking longer if needed.",
         "step_6": "Combine the noodles udon directly in the stewed boiling broth and cook for another 4-5 minutes to absorb the flavors of miso.",
         "step_7": "Use pasteurized eggs if you want a creamy yolk. Crack one into the centre of each serving, turn off the heat and cover for about 2 minutes until the whites have set. If the eggs are not pasteurized, cook both whites and yolks thoroughly.",
-        "step_8": "Garnish with the fresh onion and serve very hot directly from the pot."
+        "step_8": "Garnish with the fresh spring onion and serve very hot directly from the pot."
       }
     },
     "it": {
@@ -268,7 +268,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "cipollotto fresco cortado",
+          "name": "cebolleta fresca en rodajas",
           "note": null
         },
         "uovo_fresche": {
@@ -288,7 +288,7 @@
         "step_5": "Cuece el pollo a fuego medio; los 5–7 minutos son orientativos. Comprueba con un termómetro que el centro alcance al menos 74 °C y prolonga la cocción si es necesario.",
         "step_6": "Combina los fideos udon directamente en el caldo caliente guisado y deja cocer por otros 4-5 minutos para que absorban los sabores del miso.",
         "step_7": "Usa huevos pasteurizados si deseas la yema cremosa. Casca uno en el centro de cada porción, apaga el fuego y tapa unos 2 minutos hasta que cuaje la clara. Si los huevos no están pasteurizados, cuécelos por completo.",
-        "step_8": "Guarniza con la cebolla fresca y lleva a la mesa muy caliente directamente desde la olla."
+        "step_8": "Guarniza con la cebolleta fresca y lleva a la mesa muy caliente directamente desde la olla."
       }
     },
     "fr": {
@@ -325,7 +325,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Ciboulette frais coupé",
+          "name": "cébette fraîche émincée",
           "note": null
         },
         "uovo_fresche": {
@@ -345,7 +345,7 @@
         "step_5": "Faites mijoter le poulet à feu moyen ; 5 à 7 minutes sont indicatives. Vérifiez au thermomètre que la température à cœur atteint au moins 74 °C et prolongez la cuisson si nécessaire.",
         "step_6": "Combinez les nouilles udon directement dans le bouillon bouillant ragoût et laissez cuire encore 4-5 minutes pour absorber les saveurs du miso.",
         "step_7": "Utilisez des œufs pasteurisés si vous voulez un jaune crémeux. Cassez-en un au centre de chaque portion, coupez le feu et couvrez environ 2 minutes jusqu'à ce que le blanc soit pris. Sinon, faites cuire complètement le blanc et le jaune.",
-        "step_8": "Garnissez avec l'oignon frais et apportez à la table très chaud directement à partir de la casserole."
+        "step_8": "Garnissez avec la cébette fraîche et apportez à la table très chaud directement à partir de la casserole."
       }
     },
     "de": {
@@ -382,7 +382,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "Schnittlauch, frisch geschnitten",
+          "name": "frische Frühlingszwiebel, in Ringe geschnitten",
           "note": null
         },
         "uovo_fresche": {
@@ -402,7 +402,7 @@
         "step_5": "Hähnchenstücke bei mittlerer Hitze garen; 5–7 Minuten sind nur ein Richtwert. Mit einem Thermometer sicherstellen, dass die Kerntemperatur mindestens 74 °C erreicht; andernfalls weitergaren.",
         "step_6": "Kombinieren Sie die Udon Nudeln direkt in der heißen Eintopfbrühe und lassen Sie für weitere 4-5 Minuten kochen, damit sie die Aromen des Miso absorbieren.",
         "step_7": "Für cremiges Eigelb nur pasteurisierte Eier verwenden. Je ein Ei in die Mitte der Portion geben, den Herd ausschalten und etwa 2 Minuten abdecken, bis das Eiweiß gestockt ist. Nicht pasteurisierte Eier vollständig durchgaren.",
-        "step_8": "Grillen Sie mit frischer Zwiebel und bringen Sie auf den Tisch heiß direkt aus dem Topf."
+        "step_8": "Grillen Sie mit frischer Frühlingszwiebel und bringen Sie auf den Tisch heiß direkt aus dem Topf."
       }
     },
     "pt": {
@@ -439,7 +439,7 @@
           "note": null
         },
         "cipollotto_fresco_affettato": {
-          "name": "cebola fresca cortada",
+          "name": "cebola de rama fresca às rodelas",
           "note": null
         },
         "uovo_fresche": {
@@ -459,7 +459,7 @@
         "step_5": "Coza os pedaços de frango em lume médio; 5–7 minutos são apenas indicativos. Confirme com um termómetro que a temperatura no centro atinge pelo menos 74 °C e prolongue a cozedura, se necessário.",
         "step_6": "Combine os macarrão udon diretamente no caldo fervente ensopado e cozinhe por mais 4-5 minutos para absorver os sabores do miso.",
         "step_7": "Para obter gema cremosa, use apenas ovos pasteurizados. Parta um ovo no centro de cada porção, desligue o lume e tape durante cerca de 2 minutos, até a clara solidificar. Se os ovos não forem pasteurizados, coza a clara e a gema completamente.",
-        "step_8": "Decorar com a cebola fresca e trazer para a mesa muito quente diretamente do pote."
+        "step_8": "Decorar com a cebola de rama fresca e trazer para a mesa muito quente diretamente do pote."
       }
     }
   }
