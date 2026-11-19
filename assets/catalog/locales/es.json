@@ -2894,13 +2894,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Extiende el arroz para sushi sazonado y tipido dentro de un gran tazón de madera o cerámica.",
-        "step_2": "Trabaja los huevos con una pizca de sal y azúcar.",
-        "step_3": "Cose una tortilla delgada en una sartén, déjala enfriar y córtala en tiras finas como fideos.",
-        "step_4": "Cubre completamente la superficie del arroz con las tiras de frittata kinshi tamago.",
-        "step_5": "Sistema artístico de radiador o mosaico de cubitos de salmón, atún, gambas y rodajas de pepino. Utiliza salmón y atún expresamente aptos para consumo crudo y sigue las indicaciones del proveedor sobre congelación y refrigeración. Consérvalos fríos hasta servir: el aspecto fresco no garantiza su seguridad.",
-        "step_6": "Une algunas cucharadas de huevos de salmón Ikura brillantes en el centro, espolvorea con semillas de sésamo tostadas y astillas de algas nori.",
-        "step_7": "Lleva a la mesa fresca acompañada de salsa de soja y wasabi."
+        "step_1": "Extiende el arroz para sushi ya condimentado y templado en una fuente amplia.",
+        "step_2": "Bate los dos huevos con una pizca de sal y azúcar.",
+        "step_3": "Prepara una tortilla muy fina en una sartén ligeramente engrasada, deja enfriar y córtala en tiras finas (kinshi tamago).",
+        "step_4": "Cubre la superficie del arroz con las tiras de tortilla.",
+        "step_5": "Distribuye los dados de salmón y atún, las gambas cocidas y peladas y las rodajas finas de pepino. Utiliza salmón y atún expresamente aptos para consumo crudo y sigue las indicaciones del proveedor sobre congelación y refrigeración. Consérvalos fríos hasta servir: el aspecto fresco no garantiza su seguridad.",
+        "step_6": "Añade unas cucharadas de huevas de salmón (ikura) en el centro; termina con sésamo tostado y tiras de nori.",
+        "step_7": "Sirve fresco, con salsa de soja y wasabi aparte."
       }
     },
     "recipe_000057": {
@@ -3045,7 +3045,7 @@
         "step_6": "Cocine durante 3-4 minutos sacudiendo de vez en cuando la cacerola hasta que todas las almejas se abren completamente (desecha las que permanezcan cerradas). Utiliza almejas vivas de un proveedor fiable. Desecha las conchas rotas y las almejas que no se cierren al tocarlas antes de cocinarlas; desecha también las que queden cerradas tras la cocción.",
         "step_7": "Apaga el fuego, une la mantequilla restante y un hilo de salsa de soja.",
         "step_8": "Mezcla suavemente para crear un caldo sabroso y brillante.",
-        "step_9": "Espolvorea con abundante cebollina fresca y lleva a la mesa caliente con su caldo."
+        "step_9": "Espolvorea con abundante cebollino fresco y lleva a la mesa caliente con su caldo."
       }
     },
     "recipe_000060": {
@@ -7732,12 +7732,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "En un tazón, trabaja el molido de pollo con cebolla, jengibre, almidón de maíz, la clara de huevo, sal y pimienta hasta que el compuesto sea homogéneo y viscoso.",
-        "step_2": "Dividir la masa en 4 porciones alargadas y modelar alrededor de los pinchos de madera dándole una forma oval cilíndrica.",
-        "step_3": "En una cacerola, reduces los componentes de la salsa Tare hasta textura jarabea.",
-        "step_4": "Rejilla los pinchos en una sartén con un hilo de aceite a fuego medio durante 3-4 minutos por lado.",
-        "step_5": "Despelleja generosamente con la salsa Tare en los últimos minutos a menudo revolviéndolos.",
-        "step_6": "Servir los pinchos brillantes y glaseados acompañados por una yema de huevo fresca en un cuenco en el que mojar las albóndigas. Cocina las albóndigas de pollo hasta al menos 74 °C en el centro, comprobados con termómetro. Para mojar utiliza solo yema pasteurizada apta para consumo sin cocción; no uses yema cruda sin pasteurizar."
+        "step_1": "Mezcla el pollo picado con la cebolleta, el jengibre, la maicena, la clara de huevo, sal y pimienta hasta obtener una masa homogénea y pegajosa.",
+        "step_2": "Divide la mezcla en cuatro porciones alargadas y moldea cada una alrededor de una brocheta de madera.",
+        "step_3": "Reduce la salsa de soja, el mirin, el sake y el azúcar en un cazo hasta obtener una salsa tare de textura siruposa.",
+        "step_4": "Cocina las brochetas con un poco de aceite a fuego medio durante unos 3–4 minutos por lado; comprueba la cocción y no dependas únicamente del tiempo.",
+        "step_5": "Pincela con la salsa tare durante los últimos minutos y gira las brochetas para glasearlas uniformemente.",
+        "step_6": "Sirve las brochetas glaseadas con una yema pasteurizada apta para consumo sin cocción en un cuenco aparte para mojar. Cocina las albóndigas de pollo hasta al menos 74 °C en el centro, comprobados con termómetro. Para mojar utiliza solo yema pasteurizada apta para consumo sin cocción; no uses yema cruda sin pasteurizar."
       }
     },
     "recipe_000154": {

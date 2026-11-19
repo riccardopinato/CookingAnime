@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000062",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Yuru Camp△",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -188,7 +188,7 @@
         "step_6": "Add the remaining Dashi broth and black sesame mixture over the ingredients.",
         "step_7": "Cover with the lid and bring to a boil over medium heat.",
         "step_8": "Continue cooking for about 10-12 minutes until the meat is completely cooked and the vegetables are not tender but fragrant.",
-        "step_9": "Bring to the table directly on the table keeping the pot warm!"
+        "step_9": "Serve directly on the table keeping the pot warm!"
       }
     },
     "it": {

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000148",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "One Piece",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -359,7 +359,7 @@
         "step_4": "Kochen Sie 3-4 Minuten lang mit niedrigem Fokus, bis sich die Soße leicht verdichtet.",
         "step_5": "Erhitzt eine Platte oder ein Steak sehr gut mit lebendigem Feuer.",
         "step_6": "Grillen Sie die Tintenfische und Tentakel für 2-3 Minuten pro Seite.",
-        "step_7": "Spennella reichlich die Tintenfische mit Teriyaki-Soße in den letzten 2 Minuten des Kochens, drehen sie, bis die Oberfläche glänzend und karamelliert ist.",
+        "step_7": "Bestreichen Sie reichlich die Tintenfische mit Teriyaki-Soße in den letzten 2 Minuten des Kochens, drehen sie, bis die Oberfläche glänzend und karamelliert ist.",
         "step_8": "Schneiden Sie den Tintenfisch in Scheiben, indem Sie die bereits angewendeten Gravuren befolgen.",
         "step_9": "Servieren Sie mit Mayonnaise Kewpie getrennt und ein Staubsauger von Shichimi Togarashi."
       }

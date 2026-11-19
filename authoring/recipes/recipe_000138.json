@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000138",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "My Hero Academia",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 3,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -155,7 +155,7 @@
         "step_4": "Pour the dashi, bring to light boil and remove any foam.",
         "step_5": "Cover and cook over medium to low heat for about 10 minutes until the roots become tender.",
         "step_6": "Add the tofu and heat it for 2-3 minutes without stirring vigorously.",
-        "step_7": "Turn off the fire, melt the miso in a ladle of broth and incorporate it to the soup without bringing it back to the boil.",
+        "step_7": "Turn off the heat, melt the miso in a ladle of broth and incorporate it to the soup without bringing it back to the boil.",
         "step_8": "Complete with onion and serve very hot."
       }
     },

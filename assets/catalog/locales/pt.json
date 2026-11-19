@@ -2894,13 +2894,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Espalhe o arroz para o sushi temperado e aquecido dentro de uma tigela grande em madeira ou cerâmica.",
-        "step_2": "Trabalhe os ovos com uma pitada de sal e açúcar.",
-        "step_3": "Cozinhe uma frittatina muito fina em uma panela, deixe- a esfriar e cortar em tiras finas como tagliolini.",
-        "step_4": "Cubra a superfície do arroz inteiramente com tiras de torta de kinhi tamag.",
-        "step_5": "Sistema artístico de raio ou mosaico dos cubos de salmão, atum, camarão e pepino fatias. Utilize salmão e atum expressamente adequados ao consumo cru, seguindo as instruções do fornecedor sobre congelação e refrigeração. Mantenha-os frios até servir: o aspeto fresco não garante segurança.",
-        "step_6": "Combine algumas colheres de sopa de ovos de salmão Ikura no meio, poeira com sementes de sésamo torradas e tiras de alga nori.",
-        "step_7": "Traga para a mesa fresco acompanhado de molho de soja e wasabi."
+        "step_1": "Espalhe o arroz para sushi já temperado e morno numa travessa larga.",
+        "step_2": "Bata os dois ovos com uma pitada de sal e açúcar.",
+        "step_3": "Prepare uma omelete muito fina numa frigideira ligeiramente untada; deixe arrefecer e corte em tiras finas (kinshi tamago).",
+        "step_4": "Cubra toda a superfície do arroz com as tiras de omelete.",
+        "step_5": "Disponha os cubos de salmão e atum, os camarões cozidos e descascados e as rodelas finas de pepino sobre o arroz. Utilize salmão e atum expressamente adequados ao consumo cru, seguindo as instruções do fornecedor sobre congelação e refrigeração. Mantenha-os frios até servir: o aspeto fresco não garante segurança.",
+        "step_6": "Coloque algumas colheres de ovas de salmão (ikura) ao centro e termine com sésamo tostado e tiras finas de nori.",
+        "step_7": "Sirva fresco, com molho de soja e wasabi à parte."
       }
     },
     "recipe_000057": {
@@ -5691,7 +5691,7 @@
           "note": null
         },
         "brodo_dashi_con_aglio_e_peperoncino_1_brodo_dashi_con_aglio": {
-          "name": "Brodo de Dashi com alho",
+          "name": "Caldo de dashi com alho",
           "note": null
         },
         "brodo_dashi_con_aglio_e_peperoncino_2_peperoncino": {
@@ -7732,12 +7732,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Em uma tigela, trabalhar o frango molhado com cebola, gengibre, amido de milho, clara de ovo, sal e pimenta até que a mistura seja homogênea e pegajosa.",
-        "step_2": "Dividir a massa em 4 porções alongadas e modelá- la em torno dos broches de madeira, dando- lhe uma forma cilíndrica oval.",
-        "step_3": "Em uma panela, reduza os componentes do molho Tare para consistência xarope.",
-        "step_4": "Grelhe os broches numa panela com um óleo de calor médio por 3-4 minutos por lado.",
-        "step_5": "Escovados abundantemente com molho Tare nos últimos minutos, girando- os frequentemente.",
-        "step_6": "Servir os broches brilhantes e gelados acompanhados por uma gema de ovo fresca numa tigela onde você pode mergulhar as almôndegas. Cozinhe as almôndegas de frango até pelo menos 74 °C no centro, medidos com um termómetro. Para molhar, use apenas gema pasteurizada adequada ao consumo sem cozedura, nunca gema crua não pasteurizada."
+        "step_1": "Misture o frango picado com cebolinho, gengibre ralado, amido de milho, clara de ovo, sal e pimenta até obter uma massa homogénea e pegajosa.",
+        "step_2": "Divida a mistura em quatro porções alongadas e molde cada uma em volta de um espeto de madeira.",
+        "step_3": "Reduza o molho de soja, o mirin, o saqué e o açúcar num tacho até obter um molho tare xaroposo.",
+        "step_4": "Grelhe os espetos numa frigideira com um pouco de óleo em lume médio durante cerca de 3–4 minutos de cada lado; confirme a cozedura sem confiar apenas no tempo.",
+        "step_5": "Pincele os espetos com molho tare nos últimos minutos, virando-os com frequência para os glacear.",
+        "step_6": "Sirva os espetos glaceados com uma gema pasteurizada adequada ao consumo sem cozedura, numa tigela à parte para molhar. Cozinhe as almôndegas de frango até pelo menos 74 °C no centro, medidos com um termómetro. Para molhar, use apenas gema pasteurizada adequada ao consumo sem cozedura, nunca gema crua não pasteurizada."
       }
     },
     "recipe_000154": {
@@ -7863,7 +7863,7 @@
           "note": null
         },
         "brodo_dashi_leggero": {
-          "name": "Brodo de Dashi leve",
+          "name": "Caldo de dashi leve",
           "note": null
         },
         "sake_giapponese": {

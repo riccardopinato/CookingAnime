@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000147",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Ramen Daisuki Koizumi-san",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -406,7 +406,7 @@
         "step_3": "Savourez avec 1 cuillère à soupe de sauce soja et TobanDjan.",
         "step_4": "Dans un mortier ou un bol, émulsionne la pâte de sésame noir avec le sésame grillé battu, 1 cuillère à soupe de sauce de soja et une louche de bouillon chaud jusqu'à obtenir une crème lisse.",
         "step_5": "Chauffez le reste du bouillon de poulet et joignez la base au sésame noir, en mélangeant vigoureusement avec un fouet pour distribuer le sésame de manière uniforme.",
-        "step_6": "Faites cuire les nouilles pour ramen dans de l'eau bouillante non salée pendant 2 minutes, puis aspirez soigneusement.",
+        "step_6": "Faites cuire les nouilles pour ramen dans de l'eau bouillante non salée pendant 2 minutes, puis égouttez soigneusement.",
         "step_7": "Ajoutez le bouillon noir et parfumé dans les bols, adagie les nouilles au centre.",
         "step_8": "Disposez au-dessus de la viande de porc roulée, les œufs marinés divisés en deux, pousses de soja et abondant oignon."
       }

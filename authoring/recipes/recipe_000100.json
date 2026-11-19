@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000100",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Persona 5",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -148,7 +148,7 @@
         "step_1": "Slice the onion and cut the meat into thin, bite-sized pieces. Bring a separate pot of water to the boil for the udon noodles.",
         "step_2": "Meat rosola and onion in casserole for about 3 minutes, until the meat changes color and the onion begins to soften.",
         "step_3": "Add the dashi, soy sauce and mirin; simmer gently for 3–4 minutes.",
-        "step_4": "Turn off the fire, incorporate the curry roux little by little until it is completely melted, then rekindle over low heat.",
+        "step_4": "Turn off the heat, incorporate the curry roux little by little until it is completely melted, then rekindle over low heat.",
         "step_5": "Cook another 5 minutes stirring: the broth must veil the spoon but remain fluid enough to wrap the udon.",
         "step_6": "Cook the udon noodles in the separate pot of water, drain thoroughly and divide among the bowls.",
         "step_7": "Pour the boiling curry on the udon, complete with onion and serve immediately."

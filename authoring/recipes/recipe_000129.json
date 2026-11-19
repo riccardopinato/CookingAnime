@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000129",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -285,7 +285,7 @@
         "step_1": "Dans une poêle anti-adhérente sans graisse ajoutée, griller les crêpes de poireau jusqu'à les dorer et les récurer légèrement à la surface, gardez de côté.",
         "step_2": "Mettez dans une casserole, faites bouillir le bouillon dashi avec la sauce soja, la mirin et le sucre.",
         "step_3": "Combinez les tranches de porc et laissez-les cuire pendant 3-4 minutes jusqu'à ce qu'elles soient tendres.",
-        "step_4": "Faites cuire soba dans beaucoup d'eau bouillante pendant le temps indiqué sur l'emballage (environ 3-4 minutes), aspirez-la et rincez-la brièvement.",
+        "step_4": "Faites cuire soba dans beaucoup d'eau bouillante pendant le temps indiqué sur l'emballage (environ 3-4 minutes), égouttez-la et rincez-la brièvement.",
         "step_5": "Diviser le soba en deux bols.",
         "step_6": "Ajoutez au-dessus du bouillon bouillant avec les tranches de porc et garnissez avec le poireau grillé et une soupe de Shichimi Togarashi."
       }

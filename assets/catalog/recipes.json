@@ -5037,7 +5037,7 @@
     },
     {
       "id": "recipe_000054",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Spy x Family",
       "animeReferences": [
@@ -5062,7 +5062,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "carne_macinata_mista",
@@ -5182,7 +5182,7 @@
     },
     {
       "id": "recipe_000055",
-      "contentVersion": 3,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Yuru Camp△",
       "animeReferences": [
@@ -5207,7 +5207,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "noodles_udon_freschi_o_congelati",
@@ -5297,7 +5297,7 @@
     },
     {
       "id": "recipe_000056",
-      "contentVersion": 3,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Fruits Basket",
       "animeReferences": [
@@ -5322,7 +5322,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "riso_per_sushi_cotto_e_condito_con_aceto_di_riso",
@@ -5531,7 +5531,7 @@
     },
     {
       "id": "recipe_000058",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Demon Slayer (Kimetsu no Yaiba)",
       "animeReferences": [
@@ -5556,7 +5556,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "farina_di_riso_glutinoso",
@@ -5638,7 +5638,7 @@
     },
     {
       "id": "recipe_000059",
-      "contentVersion": 3,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
       "animeReferences": [
@@ -5663,7 +5663,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "vongole_fresche",
@@ -5837,7 +5837,7 @@
     },
     {
       "id": "recipe_000061",
-      "contentVersion": 3,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Food Wars! - Shokugeki no Soma",
       "animeReferences": [
@@ -5862,7 +5862,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "brodo_di_pollo",
@@ -5994,7 +5994,7 @@
     },
     {
       "id": "recipe_000062",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Yuru Camp△",
       "animeReferences": [
@@ -6019,7 +6019,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "fette_sottili_di_pancia_di_maiale",
@@ -6248,7 +6248,7 @@
     },
     {
       "id": "recipe_000064",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Isekai Shokudo - Restaurant to Another World",
       "animeReferences": [
@@ -6273,7 +6273,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "carne_macinata_mista",
@@ -7802,7 +7802,7 @@
     },
     {
       "id": "recipe_000077",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -7827,7 +7827,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "anguilla_grigliata",
@@ -9792,7 +9792,7 @@
     },
     {
       "id": "recipe_000095",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Ramen Daisuki Koizumi-san",
       "animeReferences": [
@@ -9817,7 +9817,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "ramen_noodles_sode",
@@ -10293,7 +10293,7 @@
     },
     {
       "id": "recipe_000100",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Persona 5",
       "animeReferences": [
@@ -10318,7 +10318,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "noodles_udon_freschi_o_surgelati",
@@ -11230,7 +11230,7 @@
     },
     {
       "id": "recipe_000110",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -11255,7 +11255,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "trippa_o_frattaglie_di_manzo_maiale_pulite",
@@ -11791,7 +11791,7 @@
     },
     {
       "id": "recipe_000116",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -11816,7 +11816,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "radice_di_gobo_1_radice_di_gobo_bardana",
@@ -11892,7 +11892,7 @@
     },
     {
       "id": "recipe_000117",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -11917,7 +11917,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "pollo_sovracosce_di_pollo_disossate_senza_pelle_a_bocconcini_1",
@@ -12138,7 +12138,7 @@
     },
     {
       "id": "recipe_000119",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -12163,7 +12163,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "tofu_fermo_sbriciolato",
@@ -12525,7 +12525,7 @@
     },
     {
       "id": "recipe_000123",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Barakamon",
       "animeReferences": [
@@ -12550,7 +12550,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "riso_cotto_lavato",
@@ -12974,7 +12974,7 @@
     },
     {
       "id": "recipe_000128",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
       "animeReferences": [
@@ -12999,7 +12999,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "carne_di_manzo_o_maiale_a_cubetti",
@@ -13084,7 +13084,7 @@
     },
     {
       "id": "recipe_000129",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -13109,7 +13109,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "tagliolini_soba",
@@ -13468,7 +13468,7 @@
     },
     {
       "id": "recipe_000133",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -13493,7 +13493,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "noodles_per_ramen",
@@ -13776,7 +13776,7 @@
     },
     {
       "id": "recipe_000136",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -13801,7 +13801,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "tofu_solido",
@@ -13968,7 +13968,7 @@
     },
     {
       "id": "recipe_000138",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "My Hero Academia",
       "animeReferences": [
@@ -13993,7 +13993,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "pancia_di_maiale_affettata_finemente",
@@ -14878,7 +14878,7 @@
     },
     {
       "id": "recipe_000147",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Ramen Daisuki Koizumi-san",
       "animeReferences": [
@@ -14903,7 +14903,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "tagliolini_freschi_per_ramen",
@@ -15008,7 +15008,7 @@
     },
     {
       "id": "recipe_000148",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "One Piece",
       "animeReferences": [
@@ -15033,7 +15033,7 @@
       "difficulty": "easy",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "calamaro_freschi_interi_puliti",
@@ -15231,7 +15231,7 @@
     },
     {
       "id": "recipe_000150",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Demon Slayer",
       "animeReferences": [
@@ -15256,7 +15256,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "tagliolini_soba_di_grano_saraceno",
@@ -15569,7 +15569,7 @@
     },
     {
       "id": "recipe_000153",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
@@ -15594,7 +15594,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "macinato_di_pollo",
@@ -15902,7 +15902,7 @@
     },
     {
       "id": "recipe_000156",
-      "contentVersion": 4,
+      "contentVersion": 5,
       "status": "published",
       "inspirationTitle": "Ramen Daisuki Koizumi-san",
       "animeReferences": [
@@ -15927,7 +15927,7 @@
       "difficulty": "medium",
       "imageAsset": null,
       "contentOrigin": "adapted",
-      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+      "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
         {
           "id": "ramen_noodles",

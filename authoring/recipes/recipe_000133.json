@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000133",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -412,7 +412,7 @@
         }
       },
       "steps": {
-        "step_1": "Drehen Sie die Hähnchenüberdeckung mit der Haut nach außen und binden Sie sie fest mit Küchengarn.",
+        "step_1": "Drehen Sie die Hähnchenoberkeule mit der Haut nach außen und binden Sie sie fest mit Küchengarn.",
         "step_2": "Legen Sie die Hähnchenrolle auf allen Seiten in einen Topf.",
         "step_3": "Kombinieren Sie Sojasoße, Sake, Mirin, Zucker, Ingwer und Knoblauch.",
         "step_4": "Bedecken Sie und lassen Sie das Huhn 15 bis 20 Minuten lang mit niedrigem Feuer backen, bis sich die Soße verdichtet und das Fleisch glasiert. Vor dem Aufschneiden des Hähnchenrollbratens mit einem Thermometer mindestens 74 °C Kerntemperatur prüfen; nötigenfalls länger garen. Küchengarn statt Spaghetti verwenden.",

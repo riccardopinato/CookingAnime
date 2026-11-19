@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000061",
-  "contentVersion": 3,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars! - Shokugeki no Soma",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -243,7 +243,7 @@
         "step_8": "On the basis of each large bowl add the boiling broth with miso and meat.",
         "step_9": "Combine the drained noodles by making them stick in the center.",
         "step_10": "Place on one side the soy sprouts, the sweet corn, half a marinated egg, a nut of fresh malga butter in the center (typical of the tradition of Sapporo), a sprinkled onion and a sheet of Nori algae stuck on the edge of the bowl.",
-        "step_11": "Bring to the table immediately hot!"
+        "step_11": "Serve immediately hot!"
       }
     },
     "it": {
@@ -491,7 +491,7 @@
         "step_4": "Ajoutez lentement le bouillon de poulet chaud, en mélangeant bien pour faire fondre complètement le miso.",
         "step_5": "Faites glisser à feu doux pendant 10-15 minutes pour mélanger toutes les saveurs.",
         "step_6": "Dans une chapelle séparée, saute les bourgeons de soja avec une goutte d'huile de sésame pendant 2 minutes en les gardant croustillants.",
-        "step_7": "Faites cuire dans de l'eau bouillante les nouilles fraîches dans de l'eau bouillante non salée en suivant les instructions de l'emballage (environ 2-3 minutes), puis aspirez-les soigneusement.",
+        "step_7": "Faites cuire dans de l'eau bouillante les nouilles fraîches dans de l'eau bouillante non salée en suivant les instructions de l'emballage (environ 2-3 minutes), puis égouttez-les soigneusement.",
         "step_8": "Sur la base de chaque grand bol, ajoutez le bouillon bouillant avec le miso et la viande.",
         "step_9": "Rassemblez les nouilles en les faisant s'adapter au milieu.",
         "step_10": "Il range sur un côté les bourgeons de soja, le maïs doux, demi-œuf mariné, une noix de beurre de magicien frais au centre (typique de la tradition de Sapporo), une époussetée d'oignons et une feuille d'algue Nori enfilé sur le bord du bol.",

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000150",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -338,7 +338,7 @@
         "step_5": "Dans la même poêle, en utilisant une partie de la graisse du canard, il grille les touchets de poireau jusqu'à ce qu'ils soient bien dorés et légèrement caramélisés.",
         "step_6": "Dans une casserole, ajoutez des dashi, de la sauce soja, de la mirin et du sucre.",
         "step_7": "Apportez le bouillon à ébullition, ajoutez les poireaux grillés et les tranches de canard et laissez bouillir pendant 2 minutes. Pour une préparation domestique prudente, vérifiez avec un thermomètre que le magret de canard atteint au moins 74 °C à cœur avant de servir. Les durées sont indicatives ; le bref passage dans le bouillon ne remplace pas ce contrôle.",
-        "step_8": "Faites cuire les nouilles soba dans l'eau bouillante pendant environ 4 minutes; écolières, rincez-les sous l'eau froide pour éliminer l'amidon superficiel et réchauffez-les brièvement dans l'eau chaude avant le service.",
+        "step_8": "Faites cuire les nouilles soba dans l'eau bouillante pendant environ 4 minutes; égouttez-les, rincez-les sous l'eau froide pour éliminer l'amidon superficiel et réchauffez-les brièvement dans l'eau chaude avant le service.",
         "step_9": "Distribuez le soba dans les bols et couvrez-le avec le bouillon chaud, les tranches de canard et les poireaux.",
         "step_10": "Complétez avec de l'écorce de yuzu râpée et servez-vous tout de suite."
       }
@@ -357,7 +357,7 @@
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Japanische Lauch (Naganegi) in Löffeln von 4 cm Länge",
+          "name": "Japanische Lauch (Naganegi) in Stücken von 4 cm Länge",
           "note": null
         },
         "brodo_dashi_concentrato": {

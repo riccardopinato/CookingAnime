@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000116",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -290,7 +290,7 @@
       },
       "steps": {
         "step_1": "Lave et brosse la bardane, coupe-la en allumette et mets-la dans l'eau pendant environ 5 minutes pour en limiter l'oxydation et atténuer l'astringence.",
-        "step_2": "Coupez la carotte en bâtonnets de la même taille et aspirez très bien la bardane.",
+        "step_2": "Coupez la carotte en bâtonnets de la même taille et égouttez très bien la bardane.",
         "step_3": "Chauffez l'huile de sésame dans la poêle et sautez bardane et carotte à feu moyen-haut pendant 3-4 minutes.",
         "step_4": "Ajoute le sucre et le mirin, puis remue jusqu’à dissolution du sucre, lorsque les légumes commencent à se glacer.",
         "step_5": "Versez la sauce soja et continuez à sauter jusqu'à ce que le liquide soit presque complètement évaporé.",

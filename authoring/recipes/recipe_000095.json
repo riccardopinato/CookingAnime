@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000095",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Ramen Daisuki Koizumi-san",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -174,7 +174,7 @@
       "steps": {
         "step_1": "Prepare in advance chicken, menma, egg stew and yuzu peel; bring to a boil a separate pot of water for noodles.",
         "step_2": "Heat the filtered chicken broth with salt and sake until a slight bite and taste: it must be clear, savoury but not aggressive.",
-        "step_3": "Turn off the fire and incorporate yuzu juice and sesame oil only to the last, to preserve the citrus aromas.",
+        "step_3": "Turn off the heat and incorporate yuzu juice and sesame oil only to the last, to preserve the citrus aromas.",
         "step_4": "Cook the noodles in boiling water according to the thickness, draining them when they are still elastic; shake them well to eliminate excess water.",
         "step_5": "Distribute noodles in preheated bowls and pour the yuzu broth immediately.",
         "step_6": "Add the chicken, menma bamboo shoots and half an egg, leaving some of the noodles visible.",

@@ -2861,7 +2861,7 @@
           "note": null
         },
         "salmone_fresco_per_sashimi_a_cubetti": {
-          "name": "Frischlachs für Sashimi in Würfeln",
+          "name": "frischer Lachs für Sashimi in Würfeln",
           "note": null
         },
         "tonno_fresco_a_cubetti": {
@@ -2894,13 +2894,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Legen Sie den Reis für Sushi gewürzt und eingehüllt in einer großen Schüssel aus Holz oder Keramik.",
-        "step_2": "Er arbeitet seine Eier mit einer Prise Salz und Zucker.",
-        "step_3": "Kochen Sie eine dünne Pfanne in der Pfanne, lassen Sie sie abkühlen und schneiden Sie sie in dünne Streifen wie Nudeln.",
-        "step_4": "Bedecken Sie die Reisoberfläche vollständig mit den Frittata kinshi Tamago Streifen.",
-        "step_5": "Kunstlich strahlendes System oder Mosaik die Lachswürfel, Thunfisch, Garnelen und Gurke Scheiben. Nur Lachs und Thunfisch verwenden, die vom Lieferanten ausdrücklich für den Rohverzehr freigegeben sind; dessen Vorgaben zum Gefrieren und Kühlen einhalten. Bis zum Anrichten kalt lagern: frisches Aussehen ist kein Sicherheitsnachweis.",
-        "step_6": "Verbinden Sie ein paar Esslöffel helle Lachseier Ikura in der Mitte, stauben Sie mit gerösteten Sesamsamen und Streifen von Algen nori.",
-        "step_7": "Bringt frisch zu Tisch, begleitet von Soja-Sauce und Wasabi."
+        "step_1": "Den gewürzten, etwas abgekühlten Sushi-Reis gleichmäßig in einer breiten Servierschale verteilen.",
+        "step_2": "Die beiden Eier mit einer Prise Salz und Zucker verquirlen.",
+        "step_3": "In einer leicht geölten Pfanne ein sehr dünnes Omelett ausbacken, abkühlen lassen und in feine Streifen (Kinshi Tamago) schneiden.",
+        "step_4": "Die Reisoberfläche vollständig mit den Omelettstreifen bedecken.",
+        "step_5": "Lachs- und Thunfischwürfel, gegarte geschälte Garnelen und dünne Gurkenscheiben dekorativ auf dem Reis anrichten. Nur Lachs und Thunfisch verwenden, die vom Lieferanten ausdrücklich für den Rohverzehr freigegeben sind; dessen Vorgaben zum Gefrieren und Kühlen einhalten. Bis zum Anrichten kalt lagern: frisches Aussehen ist kein Sicherheitsnachweis.",
+        "step_6": "Etwas Lachsrogen (Ikura) in die Mitte geben und mit geröstetem Sesam und feinen Noristreifen bestreuen.",
+        "step_7": "Kühl servieren, dazu Sojasauce und Wasabi reichen."
       }
     },
     "recipe_000057": {
@@ -4110,7 +4110,7 @@
         "step_5": "Füllen Sie die Schalen (Donburi) mit dem warmen weißen Reis.",
         "step_6": "Nappa Reis mit einem Esslöffel Unagi Tare heißer Soße.",
         "step_7": "Schneide die Aalfilets in die Mitte und lege sie vorsichtig über den Reis.",
-        "step_8": "Spennella mit einem weiteren Schleier von Soße und Staub mit einem Hauch von Pfeffer Sansho Aroma."
+        "step_8": "Bestreichen Sie mit einem weiteren Schleier von Soße und Staub mit einem Hauch von Pfeffer Sansho Aroma."
       }
     },
     "recipe_000078": {
@@ -6749,7 +6749,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Drehen Sie die Hähnchenüberdeckung mit der Haut nach außen und binden Sie sie fest mit Küchengarn.",
+        "step_1": "Drehen Sie die Hähnchenoberkeule mit der Haut nach außen und binden Sie sie fest mit Küchengarn.",
         "step_2": "Legen Sie die Hähnchenrolle auf allen Seiten in einen Topf.",
         "step_3": "Kombinieren Sie Sojasoße, Sake, Mirin, Zucker, Ingwer und Knoblauch.",
         "step_4": "Bedecken Sie und lassen Sie das Huhn 15 bis 20 Minuten lang mit niedrigem Feuer backen, bis sich die Soße verdichtet und das Fleisch glasiert. Vor dem Aufschneiden des Hähnchenrollbratens mit einem Thermometer mindestens 74 °C Kerntemperatur prüfen; nötigenfalls länger garen. Küchengarn statt Spaghetti verwenden.",
@@ -6881,7 +6881,7 @@
         "step_2": "Legen Sie die Spieße vorsichtig ein und schieben Sie die Oberfläche wieder ein.",
         "step_3": "Mischen Sie Miso, Zucker, Mirin und Sake in einem Topf und kochen Sie mit niedrigem Feuer für ca. 2 Minuten, bis die Glasur glatt und dicht genug ist, um zu kleben.",
         "step_4": "Grillen Sie den Tofu 2-3 Minuten pro Seite auf einer warmen Platte, bis eine leichte Vergoldung erscheint.",
-        "step_5": "Spennella ein erstes Mal mit der Miso-Sauce und lässt für ca. 30 Sekunden trocknen.",
+        "step_5": "Bestreichen Sie ein erstes Mal mit der Miso-Sauce und lässt für ca. 30 Sekunden trocknen.",
         "step_6": "Eine zweite Schicht Glasur auftragen und die Auberginen 1 bis 2 Minuten unter den Backofengrill stellen. Dabei ständig kontrollieren, da die zuckerhaltige Misoglasur leicht anbrennt.",
         "step_7": "Komplett mit Toast Sesam und serviert warm."
       }
@@ -7461,7 +7461,7 @@
         "step_4": "Kochen Sie 3-4 Minuten lang mit niedrigem Fokus, bis sich die Soße leicht verdichtet.",
         "step_5": "Erhitzt eine Platte oder ein Steak sehr gut mit lebendigem Feuer.",
         "step_6": "Grillen Sie die Tintenfische und Tentakel für 2-3 Minuten pro Seite.",
-        "step_7": "Spennella reichlich die Tintenfische mit Teriyaki-Soße in den letzten 2 Minuten des Kochens, drehen sie, bis die Oberfläche glänzend und karamelliert ist.",
+        "step_7": "Bestreichen Sie reichlich die Tintenfische mit Teriyaki-Soße in den letzten 2 Minuten des Kochens, drehen sie, bis die Oberfläche glänzend und karamelliert ist.",
         "step_8": "Schneiden Sie den Tintenfisch in Scheiben, indem Sie die bereits angewendeten Gravuren befolgen.",
         "step_9": "Servieren Sie mit Mayonnaise Kewpie getrennt und ein Staubsauger von Shichimi Togarashi."
       }
@@ -7534,7 +7534,7 @@
           "note": null
         },
         "porri_lunghi_giapponesi": {
-          "name": "Japanische Lauch (Naganegi) in Löffeln von 4 cm Länge",
+          "name": "Japanische Lauch (Naganegi) in Stücken von 4 cm Länge",
           "note": null
         },
         "brodo_dashi_concentrato": {
@@ -7732,12 +7732,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "In einer Schüssel arbeitet das Hähnchenhackfleisch mit Zwiebeln, Ingwer, Maisstärke, Eiweiß, Salz und Pfeffer, bis die Verbindung homogen und klebrig ist.",
-        "step_2": "Teilen Sie den Teig in 4 längliche und modellierte Portionen um die hölzernen Spieße und geben ihm eine ovale zylinderförmige Form.",
-        "step_3": "In einem Topf, reduzieren Sie die Bestandteile der Tare-Soße auf siruphaltige Konsistenz.",
-        "step_4": "Grillen Sie die Spieße auf einer Pfanne mit einem durchschnittlichen Ölfaden für 3-4 Minuten pro Seite.",
-        "step_5": "Bestreichen großzügig mit der Tare-Sauce in den letzten Minuten drehen sie oft.",
-        "step_6": "Servieren Sie die glänzenden und glasierten Spieße mit einem frischen Eigelb in einer Schüssel, in die die Fleischbällchen eintauchen. Hähnchenbällchen mit einem Thermometer auf mindestens 74 °C Kerntemperatur garen. Zum Dippen nur pasteurisiertes, für den Rohverzehr geeignetes Eigelb verwenden, niemals rohes unpasteurisiertes Eigelb."
+        "step_1": "Hähnchenhackfleisch mit fein geschnittenen Frühlingszwiebeln, Ingwer, Maisstärke, Eiweiß, Salz und Pfeffer zu einer gleichmäßigen, klebrigen Masse vermengen.",
+        "step_2": "Die Masse in vier längliche Portionen teilen und jeweils fest um einen Holzspieß formen.",
+        "step_3": "Sojasauce, Mirin, Sake und Zucker in einem kleinen Topf zu einer sirupartigen Tare-Glasur einkochen.",
+        "step_4": "Die Spieße in einer leicht geölten Pfanne bei mittlerer Hitze etwa 3–4 Minuten pro Seite braten; den Gargrad kontrollieren statt nur auf die Zeit zu achten.",
+        "step_5": "In den letzten Minuten mehrfach mit Tare bestreichen und dabei häufig wenden, damit die Glasur gleichmäßig haftet.",
+        "step_6": "Die glasierten Spieße mit pasteurisiertem, zum Rohverzehr geeignetem Eigelb in einer separaten Schale als Dip servieren. Hähnchenbällchen mit einem Thermometer auf mindestens 74 °C Kerntemperatur garen. Zum Dippen nur pasteurisiertes, für den Rohverzehr geeignetes Eigelb verwenden, niemals rohes unpasteurisiertes Eigelb."
       }
     },
     "recipe_000154": {

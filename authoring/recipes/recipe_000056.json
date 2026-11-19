@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000056",
-  "contentVersion": 3,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Fruits Basket",
   "animeReferences": [
@@ -31,7 +31,7 @@
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -172,13 +172,13 @@
         }
       },
       "steps": {
-        "step_1": "Spread the rice for sushi seasoned and warmed inside a large bowl in wood or ceramics.",
-        "step_2": "Work the eggs with a pinch of salt and sugar.",
-        "step_3": "Cook a very thin frittatina in a pan, let it cool and cut into thin strips like tagliolini.",
-        "step_4": "Cover the rice surface entirely with kinhi tamag omelette strips.",
-        "step_5": "Artistically system to ray or mosaic the cubes of salmon, tuna, shrimp and cucumber slices. Use salmon and tuna expressly supplied as suitable for raw consumption, following the supplier's freezing and refrigeration guidance. Keep chilled and assemble just before serving; a fresh appearance does not establish safety.",
-        "step_6": "Combine a few tablespoons of Ikura salmon eggs in the middle, dust with toasted sesame seeds and alga nori strips.",
-        "step_7": "Bring to the table fresh accompanied by soy sauce and wasabi."
+        "step_1": "Spread the cooled, seasoned sushi rice evenly in a wide serving bowl.",
+        "step_2": "Beat the two eggs with a pinch of salt and sugar.",
+        "step_3": "Cook a very thin omelette in a lightly oiled pan; cool and cut into fine strips (kinshi tamago).",
+        "step_4": "Cover the surface of the rice with the fine omelette strips.",
+        "step_5": "Arrange the diced salmon, tuna, peeled cooked shrimp and thin cucumber slices attractively on the rice. Use salmon and tuna expressly supplied as suitable for raw consumption, following the supplier's freezing and refrigeration guidance. Keep chilled and assemble just before serving; a fresh appearance does not establish safety.",
+        "step_6": "Add a little salmon roe (ikura) at the centre; sprinkle with toasted sesame seeds and thin nori strips.",
+        "step_7": "Serve cool, with soy sauce and wasabi on the side."
       }
     },
     "it": {
@@ -292,13 +292,13 @@
         }
       },
       "steps": {
-        "step_1": "Extiende el arroz para sushi sazonado y tipido dentro de un gran tazón de madera o cerámica.",
-        "step_2": "Trabaja los huevos con una pizca de sal y azúcar.",
-        "step_3": "Cose una tortilla delgada en una sartén, déjala enfriar y córtala en tiras finas como fideos.",
-        "step_4": "Cubre completamente la superficie del arroz con las tiras de frittata kinshi tamago.",
-        "step_5": "Sistema artístico de radiador o mosaico de cubitos de salmón, atún, gambas y rodajas de pepino. Utiliza salmón y atún expresamente aptos para consumo crudo y sigue las indicaciones del proveedor sobre congelación y refrigeración. Consérvalos fríos hasta servir: el aspecto fresco no garantiza su seguridad.",
-        "step_6": "Une algunas cucharadas de huevos de salmón Ikura brillantes en el centro, espolvorea con semillas de sésamo tostadas y astillas de algas nori.",
-        "step_7": "Lleva a la mesa fresca acompañada de salsa de soja y wasabi."
+        "step_1": "Extiende el arroz para sushi ya condimentado y templado en una fuente amplia.",
+        "step_2": "Bate los dos huevos con una pizca de sal y azúcar.",
+        "step_3": "Prepara una tortilla muy fina en una sartén ligeramente engrasada, deja enfriar y córtala en tiras finas (kinshi tamago).",
+        "step_4": "Cubre la superficie del arroz con las tiras de tortilla.",
+        "step_5": "Distribuye los dados de salmón y atún, las gambas cocidas y peladas y las rodajas finas de pepino. Utiliza salmón y atún expresamente aptos para consumo crudo y sigue las indicaciones del proveedor sobre congelación y refrigeración. Consérvalos fríos hasta servir: el aspecto fresco no garantiza su seguridad.",
+        "step_6": "Añade unas cucharadas de huevas de salmón (ikura) en el centro; termina con sésamo tostado y tiras de nori.",
+        "step_7": "Sirve fresco, con salsa de soja y wasabi aparte."
       }
     },
     "fr": {
@@ -352,13 +352,13 @@
         }
       },
       "steps": {
-        "step_1": "Allongez le riz pour sushi assaisonné et assaisonné dans un grand bol en bois ou en céramique.",
-        "step_2": "Travaillez les œufs avec une pincée de sel et de sucre.",
-        "step_3": "Faites cuire une frittatine très fine dans une poêle, laissez-la refroidir et coupez-la en fines brindilles comme des nouilles.",
-        "step_4": "Rouvrez entièrement la surface du riz avec les fines lanièress d' frittata kinihi tamago.",
-        "step_5": "Système artistiquement rayonnaire ou mosaïque les cubes de saumon, de thon, les crevettes et les tranches de concombre. Utilisez du saumon et du thon expressément adaptés à la consommation crue, en suivant les consignes du fournisseur sur la congélation et le maintien au froid. Assemblez juste avant de servir : l'aspect frais ne garantit pas l'innocuité.",
-        "step_6": "Dépose quelques cuillerées d’œufs de saumon ikura au centre, puis parsème de graines de sésame grillées et de fines lanières de nori.",
-        "step_7": "Porte à table fraîche accompagnée de sauce soja et wasabi."
+        "step_1": "Étalez le riz à sushi assaisonné et tiédi dans un grand plat de service.",
+        "step_2": "Battez les deux œufs avec une pincée de sel et de sucre.",
+        "step_3": "Faites cuire une omelette très fine dans une poêle légèrement huilée ; laissez refroidir et taillez de fines lanières (kinshi tamago).",
+        "step_4": "Recouvrez toute la surface du riz avec les lanières d'omelette.",
+        "step_5": "Disposez harmonieusement les dés de saumon et de thon, les crevettes cuites décortiquées et les fines tranches de concombre. Utilisez du saumon et du thon expressément adaptés à la consommation crue, en suivant les consignes du fournisseur sur la congélation et le maintien au froid. Assemblez juste avant de servir : l'aspect frais ne garantit pas l'innocuité.",
+        "step_6": "Déposez quelques cuillerées d'œufs de saumon (ikura) au centre ; parsemez de sésame grillé et de lanières de nori.",
+        "step_7": "Servez frais, avec de la sauce soja et du wasabi à part."
       }
     },
     "de": {
@@ -379,7 +379,7 @@
           "note": null
         },
         "salmone_fresco_per_sashimi_a_cubetti": {
-          "name": "Frischlachs für Sashimi in Würfeln",
+          "name": "frischer Lachs für Sashimi in Würfeln",
           "note": null
         },
         "tonno_fresco_a_cubetti": {
@@ -412,13 +412,13 @@
         }
       },
       "steps": {
-        "step_1": "Legen Sie den Reis für Sushi gewürzt und eingehüllt in einer großen Schüssel aus Holz oder Keramik.",
-        "step_2": "Er arbeitet seine Eier mit einer Prise Salz und Zucker.",
-        "step_3": "Kochen Sie eine dünne Pfanne in der Pfanne, lassen Sie sie abkühlen und schneiden Sie sie in dünne Streifen wie Nudeln.",
-        "step_4": "Bedecken Sie die Reisoberfläche vollständig mit den Frittata kinshi Tamago Streifen.",
-        "step_5": "Kunstlich strahlendes System oder Mosaik die Lachswürfel, Thunfisch, Garnelen und Gurke Scheiben. Nur Lachs und Thunfisch verwenden, die vom Lieferanten ausdrücklich für den Rohverzehr freigegeben sind; dessen Vorgaben zum Gefrieren und Kühlen einhalten. Bis zum Anrichten kalt lagern: frisches Aussehen ist kein Sicherheitsnachweis.",
-        "step_6": "Verbinden Sie ein paar Esslöffel helle Lachseier Ikura in der Mitte, stauben Sie mit gerösteten Sesamsamen und Streifen von Algen nori.",
-        "step_7": "Bringt frisch zu Tisch, begleitet von Soja-Sauce und Wasabi."
+        "step_1": "Den gewürzten, etwas abgekühlten Sushi-Reis gleichmäßig in einer breiten Servierschale verteilen.",
+        "step_2": "Die beiden Eier mit einer Prise Salz und Zucker verquirlen.",
+        "step_3": "In einer leicht geölten Pfanne ein sehr dünnes Omelett ausbacken, abkühlen lassen und in feine Streifen (Kinshi Tamago) schneiden.",
+        "step_4": "Die Reisoberfläche vollständig mit den Omelettstreifen bedecken.",
+        "step_5": "Lachs- und Thunfischwürfel, gegarte geschälte Garnelen und dünne Gurkenscheiben dekorativ auf dem Reis anrichten. Nur Lachs und Thunfisch verwenden, die vom Lieferanten ausdrücklich für den Rohverzehr freigegeben sind; dessen Vorgaben zum Gefrieren und Kühlen einhalten. Bis zum Anrichten kalt lagern: frisches Aussehen ist kein Sicherheitsnachweis.",
+        "step_6": "Etwas Lachsrogen (Ikura) in die Mitte geben und mit geröstetem Sesam und feinen Noristreifen bestreuen.",
+        "step_7": "Kühl servieren, dazu Sojasauce und Wasabi reichen."
       }
     },
     "pt": {
@@ -472,13 +472,13 @@
         }
       },
       "steps": {
-        "step_1": "Espalhe o arroz para o sushi temperado e aquecido dentro de uma tigela grande em madeira ou cerâmica.",
-        "step_2": "Trabalhe os ovos com uma pitada de sal e açúcar.",
-        "step_3": "Cozinhe uma frittatina muito fina em uma panela, deixe- a esfriar e cortar em tiras finas como tagliolini.",
-        "step_4": "Cubra a superfície do arroz inteiramente com tiras de torta de kinhi tamag.",
-        "step_5": "Sistema artístico de raio ou mosaico dos cubos de salmão, atum, camarão e pepino fatias. Utilize salmão e atum expressamente adequados ao consumo cru, seguindo as instruções do fornecedor sobre congelação e refrigeração. Mantenha-os frios até servir: o aspeto fresco não garante segurança.",
-        "step_6": "Combine algumas colheres de sopa de ovos de salmão Ikura no meio, poeira com sementes de sésamo torradas e tiras de alga nori.",
-        "step_7": "Traga para a mesa fresco acompanhado de molho de soja e wasabi."
+        "step_1": "Espalhe o arroz para sushi já temperado e morno numa travessa larga.",
+        "step_2": "Bata os dois ovos com uma pitada de sal e açúcar.",
+        "step_3": "Prepare uma omelete muito fina numa frigideira ligeiramente untada; deixe arrefecer e corte em tiras finas (kinshi tamago).",
+        "step_4": "Cubra toda a superfície do arroz com as tiras de omelete.",
+        "step_5": "Disponha os cubos de salmão e atum, os camarões cozidos e descascados e as rodelas finas de pepino sobre o arroz. Utilize salmão e atum expressamente adequados ao consumo cru, seguindo as instruções do fornecedor sobre congelação e refrigeração. Mantenha-os frios até servir: o aspeto fresco não garante segurança.",
+        "step_6": "Coloque algumas colheres de ovas de salmão (ikura) ao centro e termine com sésamo tostado e tiras finas de nori.",
+        "step_7": "Sirva fresco, com molho de soja e wasabi à parte."
       }
     }
   }

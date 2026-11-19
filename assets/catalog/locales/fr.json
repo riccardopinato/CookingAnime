@@ -2894,13 +2894,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Allongez le riz pour sushi assaisonné et assaisonné dans un grand bol en bois ou en céramique.",
-        "step_2": "Travaillez les œufs avec une pincée de sel et de sucre.",
-        "step_3": "Faites cuire une frittatine très fine dans une poêle, laissez-la refroidir et coupez-la en fines brindilles comme des nouilles.",
-        "step_4": "Rouvrez entièrement la surface du riz avec les fines lanièress d' frittata kinihi tamago.",
-        "step_5": "Système artistiquement rayonnaire ou mosaïque les cubes de saumon, de thon, les crevettes et les tranches de concombre. Utilisez du saumon et du thon expressément adaptés à la consommation crue, en suivant les consignes du fournisseur sur la congélation et le maintien au froid. Assemblez juste avant de servir : l'aspect frais ne garantit pas l'innocuité.",
-        "step_6": "Dépose quelques cuillerées d’œufs de saumon ikura au centre, puis parsème de graines de sésame grillées et de fines lanières de nori.",
-        "step_7": "Porte à table fraîche accompagnée de sauce soja et wasabi."
+        "step_1": "Étalez le riz à sushi assaisonné et tiédi dans un grand plat de service.",
+        "step_2": "Battez les deux œufs avec une pincée de sel et de sucre.",
+        "step_3": "Faites cuire une omelette très fine dans une poêle légèrement huilée ; laissez refroidir et taillez de fines lanières (kinshi tamago).",
+        "step_4": "Recouvrez toute la surface du riz avec les lanières d'omelette.",
+        "step_5": "Disposez harmonieusement les dés de saumon et de thon, les crevettes cuites décortiquées et les fines tranches de concombre. Utilisez du saumon et du thon expressément adaptés à la consommation crue, en suivant les consignes du fournisseur sur la congélation et le maintien au froid. Assemblez juste avant de servir : l'aspect frais ne garantit pas l'innocuité.",
+        "step_6": "Déposez quelques cuillerées d'œufs de saumon (ikura) au centre ; parsemez de sésame grillé et de lanières de nori.",
+        "step_7": "Servez frais, avec de la sauce soja et du wasabi à part."
       }
     },
     "recipe_000057": {
@@ -3039,7 +3039,7 @@
       "stepTexts": {
         "step_1": "Lave soigneusement les palourdes déjà épurées sous l'eau courante froide.",
         "step_2": "Dans une grande casserole avec couvercle, détachez la moitié du beurre et ajoutez l'ail coupé et le gingembre râpé.",
-        "step_3": "Dormir à feu doux pendant 1 minute.",
+        "step_3": "Faites dorer à feu doux pendant 1 minute.",
         "step_4": "Rassemblez les palourdes dans la casserole et ajoutez immédiatement le saké japonais.",
         "step_5": "Couvrez immédiatement avec le couvercle et relevez la flamme au feu vif.",
         "step_6": "Faites cuire pendant 3-4 minutes en secouant de temps en temps la casserole jusqu'à ce que toutes les palourdes s'ouvrent complètement (jetez celles qui restent fermées). Utilisez des palourdes vivantes provenant d'un fournisseur fiable. Jetez celles dont la coquille est cassée ou qui ne se referment pas au toucher avant cuisson, puis celles qui restent fermées après une cuisson complète.",
@@ -3166,7 +3166,7 @@
         "step_4": "Ajoutez lentement le bouillon de poulet chaud, en mélangeant bien pour faire fondre complètement le miso.",
         "step_5": "Faites glisser à feu doux pendant 10-15 minutes pour mélanger toutes les saveurs.",
         "step_6": "Dans une chapelle séparée, saute les bourgeons de soja avec une goutte d'huile de sésame pendant 2 minutes en les gardant croustillants.",
-        "step_7": "Faites cuire dans de l'eau bouillante les nouilles fraîches dans de l'eau bouillante non salée en suivant les instructions de l'emballage (environ 2-3 minutes), puis aspirez-les soigneusement.",
+        "step_7": "Faites cuire dans de l'eau bouillante les nouilles fraîches dans de l'eau bouillante non salée en suivant les instructions de l'emballage (environ 2-3 minutes), puis égouttez-les soigneusement.",
         "step_8": "Sur la base de chaque grand bol, ajoutez le bouillon bouillant avec le miso et la viande.",
         "step_9": "Rassemblez les nouilles en les faisant s'adapter au milieu.",
         "step_10": "Il range sur un côté les bourgeons de soja, le maïs doux, demi-œuf mariné, une noix de beurre de magicien frais au centre (typique de la tradition de Sapporo), une époussetée d'oignons et une feuille d'algue Nori enfilé sur le bord du bol.",
@@ -5965,7 +5965,7 @@
       },
       "stepTexts": {
         "step_1": "Lave et brosse la bardane, coupe-la en allumette et mets-la dans l'eau pendant environ 5 minutes pour en limiter l'oxydation et atténuer l'astringence.",
-        "step_2": "Coupez la carotte en bâtonnets de la même taille et aspirez très bien la bardane.",
+        "step_2": "Coupez la carotte en bâtonnets de la même taille et égouttez très bien la bardane.",
         "step_3": "Chauffez l'huile de sésame dans la poêle et sautez bardane et carotte à feu moyen-haut pendant 3-4 minutes.",
         "step_4": "Ajoute le sucre et le mirin, puis remue jusqu’à dissolution du sucre, lorsque les légumes commencent à se glacer.",
         "step_5": "Versez la sauce soja et continuez à sauter jusqu'à ce que le liquide soit presque complètement évaporé.",
@@ -6052,7 +6052,7 @@
         "step_2": "Porte doucement à frémissement la sauce soja, le vinaigre de riz, le mirin et le sucre pour préparer la sauce nanban, puis laisse tiédir.",
         "step_3": "Préparez la tartare en mélangeant œuf dur haché, oignon et cornichon bien écolés, mayonnaise japonaise, peu de vinaigre, sel et poivre; gardez-la au réfrigérateur.",
         "step_4": "Essuyez le poulet de la marinade, passez-le dans l'amidon de pommes de terre ou de maïs et secouez l'excès.",
-        "step_5": "Fritez à 170-175°C en petits lots jusqu'à ce que les bouchées soient dorées et que le poulet soit complètement cuit; aspirez sur le grill. Vérifiez les morceaux de poulet avec un thermomètre alimentaire : ils doivent atteindre au moins 74 °C à cœur. La couleur dorée et le temps de friture ne suffisent pas à garantir la cuisson.",
+        "step_5": "Fritez à 170-175°C en petits lots jusqu'à ce que les bouchées soient dorées et que le poulet soit complètement cuit; égouttez sur le grill. Vérifiez les morceaux de poulet avec un thermomètre alimentaire : ils doivent atteindre au moins 74 °C à cœur. La couleur dorée et le temps de friture ne suffisent pas à garantir la cuisson.",
         "step_6": "Plongez le karaage encore chaud dans la sauce namban pendant quelques secondes, puis absorbez l'assaisonnement sans perdre complètement le croquant.",
         "step_7": "Distribuez du riz chaud et du chou julienne dans les bols, ajoutez le poulet namban et complètez avec la sauce tartare froide.",
         "step_8": "Servez immédiatement, en maintenant le contraste entre riz chaud, poulet croustillant et tartare fraîche."
@@ -6146,7 +6146,7 @@
       },
       "stepTexts": {
         "step_1": "Découpe le tofu et écrase-le grossièrement; coupe daikon, carotte, gobo et shiitake en petits morceaux et uniformes.",
-        "step_2": "Si vous utilisez du gobo frais, mettez-le brièvement dans l'eau après la coupe et puis aspirez-le bien.",
+        "step_2": "Si vous utilisez du gobo frais, mettez-le brièvement dans l'eau après la coupe et puis égouttez-le bien.",
         "step_3": "Chauffez l'huile de sésame en casserole et roulez d'abord les racines et les champignons pendant 3-4 minutes.",
         "step_4": "Ajouter le tofu et mélanger doucement pour le revêtir d'huile sans le réduire en crème.",
         "step_5": "Versez le kombu dashi, apportez à la légère bulle et retirez la mousse qui affleure.",
@@ -6564,7 +6564,7 @@
         "step_1": "Dans une poêle anti-adhérente sans graisse ajoutée, griller les crêpes de poireau jusqu'à les dorer et les récurer légèrement à la surface, gardez de côté.",
         "step_2": "Mettez dans une casserole, faites bouillir le bouillon dashi avec la sauce soja, la mirin et le sucre.",
         "step_3": "Combinez les tranches de porc et laissez-les cuire pendant 3-4 minutes jusqu'à ce qu'elles soient tendres.",
-        "step_4": "Faites cuire soba dans beaucoup d'eau bouillante pendant le temps indiqué sur l'emballage (environ 3-4 minutes), aspirez-la et rincez-la brièvement.",
+        "step_4": "Faites cuire soba dans beaucoup d'eau bouillante pendant le temps indiqué sur l'emballage (environ 3-4 minutes), égouttez-la et rincez-la brièvement.",
         "step_5": "Diviser le soba en deux bols.",
         "step_6": "Ajoutez au-dessus du bouillon bouillant avec les tranches de porc et garnissez avec le poireau grillé et une soupe de Shichimi Togarashi."
       }
@@ -7411,7 +7411,7 @@
         "step_3": "Savourez avec 1 cuillère à soupe de sauce soja et TobanDjan.",
         "step_4": "Dans un mortier ou un bol, émulsionne la pâte de sésame noir avec le sésame grillé battu, 1 cuillère à soupe de sauce de soja et une louche de bouillon chaud jusqu'à obtenir une crème lisse.",
         "step_5": "Chauffez le reste du bouillon de poulet et joignez la base au sésame noir, en mélangeant vigoureusement avec un fouet pour distribuer le sésame de manière uniforme.",
-        "step_6": "Faites cuire les nouilles pour ramen dans de l'eau bouillante non salée pendant 2 minutes, puis aspirez soigneusement.",
+        "step_6": "Faites cuire les nouilles pour ramen dans de l'eau bouillante non salée pendant 2 minutes, puis égouttez soigneusement.",
         "step_7": "Ajoutez le bouillon noir et parfumé dans les bols, adagie les nouilles au centre.",
         "step_8": "Disposez au-dessus de la viande de porc roulée, les œufs marinés divisés en deux, pousses de soja et abondant oignon."
       }
@@ -7570,7 +7570,7 @@
         "step_5": "Dans la même poêle, en utilisant une partie de la graisse du canard, il grille les touchets de poireau jusqu'à ce qu'ils soient bien dorés et légèrement caramélisés.",
         "step_6": "Dans une casserole, ajoutez des dashi, de la sauce soja, de la mirin et du sucre.",
         "step_7": "Apportez le bouillon à ébullition, ajoutez les poireaux grillés et les tranches de canard et laissez bouillir pendant 2 minutes. Pour une préparation domestique prudente, vérifiez avec un thermomètre que le magret de canard atteint au moins 74 °C à cœur avant de servir. Les durées sont indicatives ; le bref passage dans le bouillon ne remplace pas ce contrôle.",
-        "step_8": "Faites cuire les nouilles soba dans l'eau bouillante pendant environ 4 minutes; écolières, rincez-les sous l'eau froide pour éliminer l'amidon superficiel et réchauffez-les brièvement dans l'eau chaude avant le service.",
+        "step_8": "Faites cuire les nouilles soba dans l'eau bouillante pendant environ 4 minutes; égouttez-les, rincez-les sous l'eau froide pour éliminer l'amidon superficiel et réchauffez-les brièvement dans l'eau chaude avant le service.",
         "step_9": "Distribuez le soba dans les bols et couvrez-le avec le bouillon chaud, les tranches de canard et les poireaux.",
         "step_10": "Complétez avec de l'écorce de yuzu râpée et servez-vous tout de suite."
       }
@@ -7732,12 +7732,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Dans un bol, il travaille le moulin de poulet avec l'oignon, le gingembre, l'amidon de maïs, l'albume d'œuf, le sel et le poivre jusqu'à ce que le composé soit homogène et visqueux.",
-        "step_2": "Diviser la pâte en 4 portions allongées et façonnées autour des brochettes en bois en lui donnant une forme ovale cylindrique.",
-        "step_3": "Dans une casserole, réduisez les composants de la sauce Tare jusqu'à ce que la consistance sirupeuse.",
-        "step_4": "Grille les brochettes sur une poêle avec un fil d'huile à feu moyen pendant 3-4 minutes par côté.",
-        "step_5": "Éponge généreusement avec la sauce Tare dans les dernières minutes en les tournant souvent.",
-        "step_6": "Servez les brochettes brillantes et glacées accompagnées d'un jaune d'oeuf frais dans un bol où tremper les boulettes de viande. Faites cuire les boulettes de poulet à au moins 74 °C à cœur, mesurés au thermomètre. Pour tremper les brochettes, utilisez uniquement du jaune d'œuf pasteurisé adapté à la consommation sans cuisson, jamais un jaune cru non pasteurisé."
+        "step_1": "Mélangez le poulet haché avec les cébettes, le gingembre, la fécule de maïs, le blanc d'œuf, le sel et le poivre jusqu'à obtenir une préparation homogène et collante.",
+        "step_2": "Divisez le mélange en quatre portions allongées et façonnez chacune autour d'une brochette en bois.",
+        "step_3": "Faites réduire la sauce soja, le mirin, le saké et le sucre dans une petite casserole jusqu'à obtenir une sauce tare sirupeuse.",
+        "step_4": "Faites griller les brochettes dans une poêle légèrement huilée à feu moyen pendant environ 3 à 4 minutes par face ; vérifiez la cuisson au lieu de vous fier au seul temps.",
+        "step_5": "Badigeonnez les brochettes de tare en fin de cuisson, en les retournant souvent pour les glacer uniformément.",
+        "step_6": "Servez les brochettes laquées avec un jaune d'œuf pasteurisé adapté à la consommation sans cuisson, dans un bol séparé. Faites cuire les boulettes de poulet à au moins 74 °C à cœur, mesurés au thermomètre. Pour tremper les brochettes, utilisez uniquement du jaune d'œuf pasteurisé adapté à la consommation sans cuisson, jamais un jaune cru non pasteurisé."
       }
     },
     "recipe_000154": {
