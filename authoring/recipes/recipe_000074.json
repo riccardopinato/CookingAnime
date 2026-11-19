@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000074",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Gintama",
   "animeReferences": [
@@ -14,35 +14,30 @@
     },
     {
       "workTitle": "One Piece",
-      "relation": "inspired",
+      "relation": "verified_appearance",
       "season": null,
-      "episode": null,
+      "episode": "966",
       "chapter": null
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
-    "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
+    "animeStatus": "verified",
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 30,
   "cookMinutes": 60,
   "servings": 4,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
-      "id": "1",
-      "quantity": 1,
-      "unit": null
-    },
-    {
       "id": "litri_di_brodo_dashi",
       "quantity": 2,
-      "unit": null
+      "unit": "l"
     },
     {
       "id": "salsa_di_soia_chiara",
@@ -61,8 +56,8 @@
     },
     {
       "id": "ingredienti_fisso_1_2_daikon",
-      "quantity": null,
-      "unit": null
+      "quantity": 0.5,
+      "unit": "piece"
     },
     {
       "id": "uovo_sode",
@@ -77,22 +72,22 @@
     {
       "id": "tortini_di_pesce_nerimono",
       "quantity": 4,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "fagottini_di_tofu_fritto_con_mochi",
       "quantity": 4,
-      "unit": null
+      "unit": "piece"
     }
   ],
   "steps": [
     {
       "id": "step_1",
-      "timerSeconds": null
+      "timerSeconds": 900
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 120
     },
     {
       "id": "step_3",
@@ -101,24 +96,36 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 3600
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 600
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Oden Invernale Tradizionale",
-      "description": "A comforting Oden Invernale Tradizionale prepared with gentle simmering so the main ingredients become tender while the broth stays flavorful and balanced.",
-      "animeContext": "This recipe is thematically inspired by Gintama, One Piece. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Traditional Winter Oden",
+      "description": "Oden is a winter dish of daikon, konnyaku, hard-boiled eggs and fish cakes gently simmered in dashi seasoned with light soy sauce and mirin. Blanch the daikon and konnyaku first, then simmer the main ingredients without a vigorous boil. Add the mochi-filled kinchaku pouches for the final ten minutes and serve with hot broth and karashi mustard.",
+      "animeContext": "This recipe is thematically inspired by Gintama, One Piece. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "litri_di_brodo_dashi": {
-          "name": "Litri di dashi broth",
+          "name": "Dashi broth",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Soy sauce chiara (usukuchi)",
+          "name": "light soy sauce (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -126,48 +133,48 @@
           "note": null
         },
         "sale": {
-          "name": "Salt",
+          "name": "salt",
           "note": null
         },
         "ingredienti_fisso_1_2_daikon": {
-          "name": "Ingredienti fisso: 1/2 daikon (ravanello giapponese) pelato e cut into dischi spessi",
+          "name": "bald daikon and cut into thick discs",
           "note": null
         },
         "uovo_sode": {
-          "name": "Egg sode",
+          "name": "boiled eggs",
           "note": null
         },
         "konnyaku": {
-          "name": "Konnyaku (cut into triangoli)",
+          "name": "konnyaku (triangle cut)",
           "note": null
         },
         "tortini_di_pesce_nerimono": {
-          "name": "Tortini di pesce nerimono (chikuwa, satsuma-age)",
+          "name": "Nerimono fish pies (Chikuwa, Satsuma-age)",
           "note": null
         },
         "fagottini_di_tofu_fritto_con_mochi": {
-          "name": "Fagottini di tofu fritto con mochi (kinchaku)",
+          "name": "fried tofu bundles with mochi (Kinchaku)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and organize the main ingredients so pieces of similar density are comparable in size; prepare the seasoned broth separately before simmering.",
-        "step_2": "Build the broth over moderate heat and add the ingredients in order of cooking time, keeping the liquid at a gentle simmer rather than a hard boil.",
-        "step_3": "Continue cooking until proteins are safely cooked and vegetables are tender but intact, adjusting the seasoning only after the broth has reduced slightly.",
-        "step_4": "Finish with the final aromatics or garnish and serve hot, allowing a brief rest when useful so the ingredients absorb the seasoned broth."
+        "step_1": "Cut the Daikon into 2.5 cm thick slices, insert a cross on one side (to facilitate cooking) and boil it in rice water for 15 minutes.",
+        "step_2": "It also boils the Konnyaku triangles for 2 minutes to eliminate the smell.",
+        "step_3": "In a large pot from Oden (Donabe or large pot), add Dashi broth, light soy sauce, Mirin and salt.",
+        "step_4": "It's hot on medium heat.",
+        "step_5": "Place the boiled Daikon, Konnyaku, boiled eggs and fish pies in the pot.",
+        "step_6": "Lets simmer over very low heat for at least 45-60 minutes without ever boiling strong.",
+        "step_7": "Combine Kinchaku bundles in the last 10 minutes to soften the mochi inside without breaking them.",
+        "step_8": "Serve very hot in the middle of the table by picking the ingredients with broth and accompanying with mustard Karashi."
       }
     },
     "it": {
       "title": "Oden Invernale Tradizionale",
-      "description": "Un Oden Invernale Tradizionale confortante cotto a sobbollore dolce, così gli ingredienti diventano teneri senza disfarsi e il fondo resta concentrato ma equilibrato.",
+      "description": "L’oden è una preparazione invernale in cui daikon, konnyaku, uova sode e tortini di pesce cuociono lentamente in un brodo di dashi, salsa di soia chiara e mirin. Il daikon viene prima sbollentato, così come il konnyaku, mentre gli ingredienti principali sobbollono a fiamma bassa per insaporirsi senza disfarsi. I fagottini kinchaku con mochi si aggiungono solo negli ultimi dieci minuti.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Gintama, One Piece. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "litri_di_brodo_dashi": {
-          "name": "litri di brodo Dashi",
+          "name": "brodo dashi",
           "note": null
         },
         "salsa_di_soia_chiara": {
@@ -183,15 +190,15 @@
           "note": null
         },
         "ingredienti_fisso_1_2_daikon": {
-          "name": "Ingredienti fisso: 1/2 Daikon (ravanello giapponese) pelato e tagliato a dischi spessi",
+          "name": "daikon pelato e tagliato a dischi spessi",
           "note": null
         },
         "uovo_sode": {
-          "name": "uovo sode",
+          "name": "uova sode",
           "note": null
         },
         "konnyaku": {
-          "name": "Konnyaku (tagliati a triangoli)",
+          "name": "konnyaku (tagliati a triangoli)",
           "note": null
         },
         "tortini_di_pesce_nerimono": {
@@ -204,27 +211,27 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, taglia il Daikon a fette spesse 2,5 cm, incidi una croce su unl lato (per facilitare la cottura) e sbollentalo in acqua d'riso per 15 minuti. Sbollenta anche i triangoli di Konnyaku per 2 minuti per eliminare l'odore.",
-        "step_2": "Prosegui così: in un'ampia pentola da Oden (Donabe o pentola capiente), unisci il brodo Dashi, la salsa di soia chiara, il Mirin e il sale. Porta a temperatura a fuoco medio.",
-        "step_3": "Nella fase successiva, inserisci nella pentola il Daikon sbollentato, il Konnyaku, le uova sode e i tortini di pesce. Lascia sobbollire a fuoco bassissimo per almeno 45-60 minuti senza mai far bollire fortissimo. Unisci i fagottini Kinchaku negli ultimi 10 minuti per far ammorbidire il mochi all'interno senza romperli.",
-        "step_4": "Per completare, porta in tavolare caldissimo al centro del tavolo prelevando gli ingredienti con il brodo e accompagnando con senape Karashi."
+        "step_1": "Taglia il Daikon a fette spesse 2,5 cm, incidi una croce su un lato (per facilitare la cottura) e sbollentalo in acqua di riso per 15 minuti.",
+        "step_2": "Sbollenta anche i triangoli di Konnyaku per 2 minuti per eliminare l'odore.",
+        "step_3": "In un'ampia pentola da Oden (Donabe o pentola capiente), unisci il brodo Dashi, la salsa di soia chiara, il Mirin e il sale.",
+        "step_4": "Scalda a fuoco medio.",
+        "step_5": "Inserisci nella pentola il Daikon sbollentato, il Konnyaku, le uova sode e i tortini di pesce.",
+        "step_6": "Lascia sobbollire a fuoco bassissimo per almeno 45-60 minuti senza mai far bollire fortissimo.",
+        "step_7": "Unisci i fagottini Kinchaku negli ultimi 10 minuti per far ammorbidire il mochi all'interno senza romperli.",
+        "step_8": "Servi caldissimo al centro del tavolo prelevando gli ingredienti con il brodo e accompagnando con senape Karashi."
       }
     },
     "es": {
-      "title": "Oden Invernale Tradizionale",
-      "description": "Una versión práctica de Oden Invernale Tradizionale para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Gintama, One Piece. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Oden tradicional de invierno",
+      "description": "El oden es un plato invernal de daikon, konnyaku, huevos cocidos y pasteles de pescado que se cuecen a fuego lento en caldo dashi con salsa de soja clara y mirin. El daikon y el konnyaku se escaldan antes; los demás ingredientes se dejan cocinar sin hervir con fuerza. Los saquitos kinchaku rellenos de mochi se añaden durante los últimos diez minutos y se sirve con caldo caliente y mostaza karashi.",
+      "animeContext": "Esta receta está inspirada temáticamente en Gintama, One Piece. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "litri_di_brodo_dashi": {
-          "name": "Litri di dashi caldo",
+          "name": "caldo dashi",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Salsa de soja chiara (usukuchi)",
+          "name": "Salsa de soja clara (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -232,52 +239,52 @@
           "note": null
         },
         "sale": {
-          "name": "Sal",
+          "name": "sal",
           "note": null
         },
         "ingredienti_fisso_1_2_daikon": {
-          "name": "Ingredienti fisso: 1/2 daikon (ravanello giapponese) pelato e cut into dischi spessi",
+          "name": "daikon pelado y cortado con discos gruesos",
           "note": null
         },
         "uovo_sode": {
-          "name": "Huevo sode",
+          "name": "Huevos duros",
           "note": null
         },
         "konnyaku": {
-          "name": "Konnyaku (cut into triangoli)",
+          "name": "konnyaku (cortes en triángulos)",
           "note": null
         },
         "tortini_di_pesce_nerimono": {
-          "name": "Tortini di pesce nerimono (chikuwa, satsuma-age)",
+          "name": "Tortas de pescado Nerimono (Chikuwa, Satsuma-age)",
           "note": null
         },
         "fagottini_di_tofu_fritto_con_mochi": {
-          "name": "Fagottini di tofu fritto con mochi (kinchaku)",
+          "name": "Fagotinas de tofu frita con mochi (Kinchaku)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Cortar el Daikon en rodajas gruesas 2,5 cm, hacer una cruz por un lado (para facilitar la cocción) y desbolarlo en agua de arroz durante 15 minutos.",
+        "step_2": "También hierve los triángulos de Konnyaku durante 2 minutos para eliminar el olor.",
+        "step_3": "En una amplia olla de Oden (Donabe o cacerola grande), une el caldo Dashi, la salsa de soja clara, el Mirin y la sal.",
+        "step_4": "Caliente a fuego medio.",
+        "step_5": "Introduzca en la olla el Daikon desmenuzado, el Konnyaku, los huevos duros y los pasteles de pescado.",
+        "step_6": "Deja que se prende fuego muy bajo durante al menos 45-60 minutos sin que nunca se hierva muy fuerte.",
+        "step_7": "Añade los saquitos kinchaku durante los últimos 10 minutos para ablandar el mochi del interior sin romperlos.",
+        "step_8": "Sirve muy caliente en el centro de la mesa recogiendo los ingredientes con el caldo y acompañando con mostaza Karashi."
       }
     },
     "fr": {
-      "title": "Oden Invernale Tradizionale",
-      "description": "Une version pratique de Oden Invernale Tradizionale à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Gintama, One Piece. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Oden traditionnel d’hiver",
+      "description": "L'oden est un plat d'hiver composé de daikon, de konnyaku, d'œufs durs et de galettes de poisson doucement mijotés dans un bouillon dashi assaisonné de sauce soja claire et de mirin. Blanchissez d'abord le daikon et le konnyaku, puis laissez les autres ingrédients frémir sans forte ébullition. Ajoutez les sachets kinchaku farcis de mochi pendant les dix dernières minutes et servez avec le bouillon chaud et de la moutarde karashi.",
+      "animeContext": "Cette recette s'inspire librement de Gintama, One Piece. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "litri_di_brodo_dashi": {
-          "name": "Litri di dashi bouillon",
+          "name": "bouillon dashi",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Sauce soja chiara (usukuchi)",
+          "name": "Sauce de soja claire (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -285,52 +292,52 @@
           "note": null
         },
         "sale": {
-          "name": "Sel",
+          "name": "sel",
           "note": null
         },
         "ingredienti_fisso_1_2_daikon": {
-          "name": "Ingredienti fisso: 1/2 daikon (ravanello giapponese) pelato e cut into dischi spessi",
+          "name": "daikon pelé et coupé à disques épais",
           "note": null
         },
         "uovo_sode": {
-          "name": "Œuf sode",
+          "name": "œufs durs",
           "note": null
         },
         "konnyaku": {
-          "name": "Konnyaku (cut into triangoli)",
+          "name": "konnyaku (découpés en triangles)",
           "note": null
         },
         "tortini_di_pesce_nerimono": {
-          "name": "Tortini di pesce nerimono (chikuwa, satsuma-age)",
+          "name": "Tortins de poissons noirs (Chikouwa, Satsuma-age)",
           "note": null
         },
         "fagottini_di_tofu_fritto_con_mochi": {
-          "name": "Fagottini di tofu fritto con mochi (kinchaku)",
+          "name": "tofu frit avec mochi (Kinchaku)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coupez le Daikon en tranches épaisses 2,5 cm, faites une croix sur un côté (pour faciliter la cuisson) et faites-le glisser dans de l'eau de riz pendant 15 minutes.",
+        "step_2": "Il flotte aussi les triangles de Konnyaku pendant 2 minutes pour éliminer l'odeur.",
+        "step_3": "Dans une grande casserole d'Oden (Donabe ou casserole importante), combinez le bouillon dashi, la sauce de soja claire, le Mirin et le sel.",
+        "step_4": "Chaud à feu moyen.",
+        "step_5": "Insérez dans la casserole le Daikon fauché, le Konnyaku, les œufs durs et les gâteaux de poisson.",
+        "step_6": "Laissez glisser très bas pendant au moins 45-60 minutes sans jamais faire bouillir très fort.",
+        "step_7": "Combinez les chaussons Kinchaku au cours des 10 dernières minutes pour adoucir le mochi à l'intérieur sans les casser.",
+        "step_8": "Servez très chaud au centre de la table en retirant les ingrédients avec du bouillon et en accompagnant avec de la moutarde Karashi."
       }
     },
     "de": {
-      "title": "Oden Invernale Tradizionale",
-      "description": "Eine alltagstaugliche Version von Oden Invernale Tradizionale für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Gintama, One Piece inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Traditioneller Oden-Wintereintopf",
+      "description": "Oden ist ein winterliches Gericht, bei dem Daikon, Konnyaku, hartgekochte Eier und Fischkuchen langsam in Dashi mit heller Sojasauce und Mirin ziehen. Daikon und Konnyaku werden zuvor blanchiert; die übrigen Zutaten sollen sanft köcheln, ohne stark aufzuwallen. Die mit Mochi gefüllten Kinchaku-Täschchen kommen erst in den letzten zehn Minuten dazu. Mit heißer Brühe und Karashi-Senf servieren.",
+      "animeContext": "Dieses Rezept ist thematisch von Gintama, One Piece inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "litri_di_brodo_dashi": {
-          "name": "Litri di dashi Brühe",
+          "name": "Brühe Dashi",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Sojasauce chiara (usukuchi)",
+          "name": "Sojasauce (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -342,48 +349,48 @@
           "note": null
         },
         "ingredienti_fisso_1_2_daikon": {
-          "name": "Ingredienti fisso: 1/2 daikon (ravanello giapponese) pelato e cut into dischi spessi",
+          "name": "Daikon geschält und in dicke Scheiben geschnitten",
           "note": null
         },
         "uovo_sode": {
-          "name": "Ei sode",
+          "name": "gekochte Eier",
           "note": null
         },
         "konnyaku": {
-          "name": "Konnyaku (cut into triangoli)",
+          "name": "konnyaku (in Dreiecken geschnitten)",
           "note": null
         },
         "tortini_di_pesce_nerimono": {
-          "name": "Tortini di pesce nerimono (chikuwa, satsuma-age)",
+          "name": "Nerimono-Fischkuchen (Chikuwa, Satsuma-age)",
           "note": null
         },
         "fagottini_di_tofu_fritto_con_mochi": {
-          "name": "Fagottini di tofu fritto con mochi (kinchaku)",
+          "name": "Tofu-Fagottini, gebraten mit Mochi (Kinchaku)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schneiden Sie das Daikon in 2,5 cm dicke Scheiben, schneiden Sie ein Kreuz auf einer Seite (um das Kochen zu erleichtern) und glätten Sie 15 Minuten lang in Reiswasser.",
+        "step_2": "Auch die Konnyaku Dreiecke für 2 Minuten glätten, um den Geruch zu beseitigen.",
+        "step_3": "In einem großen Topf aus Oden (Donabe oder großer Topf) vereinen Sie die Dashi-Brühe, die helle Sojasoße, das Mirin und das Salz.",
+        "step_4": "Er wärmt bei mittlerer Hitze.",
+        "step_5": "Geben Sie in den Topf die glühende Daikon, die Konnyaku, die gekochten Eier und die Fischkuchen.",
+        "step_6": "Lassen Sie es bei sehr geringem Feuer für mindestens 45-60 Minuten, ohne jemals zu kochen.",
+        "step_7": "Die Kinchaku-Säckchen in den letzten 10 Minuten zugeben, damit das Mochi darin weich wird, ohne dass die Säckchen aufreißen.",
+        "step_8": "Servieren Sie heiß in der Mitte des Tisches, indem Sie die Zutaten mit der Brühe nehmen und mit Karashi Senf begleiten."
       }
     },
     "pt": {
-      "title": "Oden Invernale Tradizionale",
-      "description": "Uma versão prática de Oden Invernale Tradizionale para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Gintama, One Piece. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Oden tradicional de inverno",
+      "description": "O oden é um prato de inverno em que daikon, konnyaku, ovos cozidos e bolinhos de peixe cozinham lentamente num caldo dashi temperado com molho de soja claro e mirin. Escaldam-se primeiro o daikon e o konnyaku; os restantes ingredientes fervilham suavemente, sem uma fervura intensa. Os saquinhos kinchaku recheados com mochi juntam-se apenas nos últimos dez minutos. Servir com caldo quente e mostarda karashi.",
+      "animeContext": "Esta receita inspira-se tematicamente em Gintama, One Piece. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
-        "1": {
-          "name": "1",
-          "note": null
-        },
         "litri_di_brodo_dashi": {
-          "name": "Litri di dashi caldo",
+          "name": "Coberto de Dashi",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Molho de soja chiara (usukuchi)",
+          "name": "molho de soja leve (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -391,35 +398,39 @@
           "note": null
         },
         "sale": {
-          "name": "Sal",
+          "name": "sal",
           "note": null
         },
         "ingredienti_fisso_1_2_daikon": {
-          "name": "Ingredienti fisso: 1/2 daikon (ravanello giapponese) pelato e cut into dischi spessi",
+          "name": "Daikon careca e corte em discos grossos",
           "note": null
         },
         "uovo_sode": {
-          "name": "Ovo sode",
+          "name": "ovos fervidos",
           "note": null
         },
         "konnyaku": {
-          "name": "Konnyaku (cut into triangoli)",
+          "name": "konniaku (cortar triângulo)",
           "note": null
         },
         "tortini_di_pesce_nerimono": {
-          "name": "Tortini di pesce nerimono (chikuwa, satsuma-age)",
+          "name": "Tortas de peixe Nerimono (Chikuwa, idade Satsuma)",
           "note": null
         },
         "fagottini_di_tofu_fritto_con_mochi": {
-          "name": "Fagottini di tofu fritto con mochi (kinchaku)",
+          "name": "pacotes de tofu fritos com mochi (Kinchaku)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Cortar o Daikon em fatias de 2,5 cm de espessura, inserir uma cruz de um lado (para facilitar o cozimento) e fervê- lo em água de arroz por 15 minutos.",
+        "step_2": "Também ferve os triângulos Konnyaku por 2 minutos para eliminar o cheiro.",
+        "step_3": "Em um pote grande de Oden (Donabe ou pote grande), adicione o caldo Dashi, molho de soja leve, Mirin e sal.",
+        "step_4": "Está quente em calor médio.",
+        "step_5": "Coloque o Daikon fervido, o Konnyaku, ovos fervidos e tortas de peixe no pote.",
+        "step_6": "Deixa cozir a fogo muito baixo durante pelo menos 45- 60 minutos sem ferver forte.",
+        "step_7": "Combinar os pacotes de Kinchaku nos últimos 10 minutos para suavizar o mochi dentro sem quebrá- los.",
+        "step_8": "Servir muito quente no meio da mesa, escolhendo os ingredientes com caldo e acompanhando com mostarda Karashi."
       }
     }
   }

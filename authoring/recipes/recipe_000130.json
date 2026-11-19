@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000130",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 20,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -90,29 +90,45 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Ebi Tempura Udon",
-      "description": "A practical bowl of Ebi Tempura Udon, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Mob Psycho 100. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Ebi Tempura Udon — udon soup with shrimp tempura",
+      "description": "The Ebi Tempura Udon combines noodles udon in freshly fried dashi broth and shrimps in tempura. The cold batter must remain light and the frying is completed shortly before the service, so the crust remains crunchy on the soup. The tempura of shrimps settles on the udon only at the end, preserving the crunchy crust away from the broth until serving.",
+      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Mob Psycho 100. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "tagliolini_udon_freschi_o_congelati": {
-          "name": "Tagliolini udon fresh o congelati",
+          "name": "Udon tagliolini fresh or frozen",
           "note": null
         },
         "gamberone_freschi": {
-          "name": "Large shrimp fresh (puliti e sgusciati, mantenendo la coda)",
+          "name": "Fresh prawns (clean and peeled, keeping tail)",
           "note": null
         },
         "farina_per_tempura": {
-          "name": "Flour per tempura (oppure all-purpose flour + ice-cold water)",
+          "name": "tempura flour (or flour 00 + iced water)",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral oil di arachidi for frying",
+          "name": "peanut seed oil for frying",
           "note": null
         },
         "brodo_dashi": {
@@ -120,7 +136,7 @@
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Soy sauce chiara (usukuchi)",
+          "name": "light soy sauce (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -128,20 +144,24 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Spring onion fresh sliced finemente",
+          "name": "Onion freshly sliced finely",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "Clean the shrimp leaving the tail, remove the intestinal thread and practice small cuts on the belly to keep them straight in frying.",
+        "step_2": "Prepare the broth by bringing dashi, light soy sauce and mirin to light sob; keep it warm without reducing it too much.",
+        "step_3": "Mix tempura flour and ice water quickly, leaving a few small lumps and keeping the batter cold.",
+        "step_4": "Take the oil to about 170°C, pass the shrimps into the batter and fry them a few at a time for about 2 minutes, until they are light and crispy.",
+        "step_5": "Drain the tempura on the grid without covering it.",
+        "step_6": "Cook the udon in separate water, drain well and distribute them in the bowls.",
+        "step_7": "Pour the boiling broth on the udon and add onion.",
+        "step_8": "It adapts the shrimps in tempura only at the time of serving, so the crust remains crunchy longer."
       }
     },
     "it": {
       "title": "Ebi Tempura Udon (Udon in Brodo con Tempura di Gamberi)",
-      "description": "Una versione pratica di Ebi Tempura Udon (Udon in Brodo con Tempura di Gamberi), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "L’Ebi Tempura Udon unisce noodles udon in brodo dashi e gamberi in tempura appena fritti. La pastella fredda deve restare leggera e la frittura viene completata poco prima del servizio, così la crosta resta croccante sulla zuppa. La tempura di gamberi si posa sugli udon solo alla fine, conservando la crosta croccante lontano dal brodo fino al servizio.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Mob Psycho 100. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "tagliolini_udon_freschi_o_congelati": {
@@ -149,7 +169,7 @@
           "note": null
         },
         "gamberone_freschi": {
-          "name": "gamberone freschi (puliti e sgusciati, mantenendo la coda)",
+          "name": "gamberi freschi (puliti e sgusciati, mantenendo la coda)",
           "note": null
         },
         "farina_per_tempura": {
@@ -157,7 +177,7 @@
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Olio di semi di arachidi per friggere",
+          "name": "olio di semi di arachidi per friggere",
           "note": null
         },
         "brodo_dashi": {
@@ -178,39 +198,43 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, pratica dei piccoli tagli obliqui sul ventre dei gamberi e stendili delicatamente per mantenerli dritti durante la cottura.",
-        "step_2": "Prosegui così: prepara la pastella per tempura amalgamando velocemente farina e acqua ghiacciata (lasciando qualche grumo).",
-        "step_3": "Nella fase successiva, porta a temperatura l'olio a 170°C. Passa i gamberi nella pastella e friggili per 2 minuti fino a doratura croccante e leggera. Scolali su carta assorbente. Porta a temperatura il brodo Dashi con salsa di soia e mirin. Lascia cuocere gli udon per 2-3 minuti e scoli nelle ciotole.",
-        "step_4": "Per completare, copri gli udon con il brodo bollente, adagia sopra i gamberi in tempura e guarnisci con cipollotto fresco."
+        "step_1": "Pulisci i gamberi lasciando la coda, elimina il filo intestinale e pratica piccoli tagli sul ventre per mantenerli dritti in frittura.",
+        "step_2": "Prepara il brodo portando dashi, salsa di soia chiara e mirin a leggero sobbollore; tienilo caldo senza farlo ridurre troppo.",
+        "step_3": "Mescola velocemente farina da tempura e acqua ghiacciata, lasciando qualche piccolo grumo e mantenendo la pastella fredda.",
+        "step_4": "Porta l’olio a circa 170°C, passa i gamberi nella pastella e friggili pochi alla volta per circa 2 minuti, finché sono leggeri e croccanti.",
+        "step_5": "Scola la tempura su griglia senza coprirla.",
+        "step_6": "Cuoci gli udon in acqua separata, scolali bene e distribuiscili nelle ciotole.",
+        "step_7": "Versa il brodo bollente sugli udon e aggiungi cipollotto.",
+        "step_8": "Adagia i gamberi in tempura solo al momento di servire, così la crosta resta croccante più a lungo."
       }
     },
     "es": {
-      "title": "Ebi Tempura Udon",
-      "description": "Una versión práctica de Ebi Tempura Udon para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Mob Psycho 100. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Ebi tempura udon — sopa de udon con tempura de gambas",
+      "description": "El Ebi Tempura Udon combina fideos udon en caldo dashi y gambas en tempura recién fritas. La masa fría debe permanecer ligera y la fritura se completa justo antes del servicio, por lo que la corteza permanece crujiente sobre la sopa. La tempura de gambas se coloca sobre los udons al final, conservando la corteza crujiente lejos del caldo hasta el servicio.",
+      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Mob Psycho 100. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "tagliolini_udon_freschi_o_congelati": {
-          "name": "Tagliolini udon fresco o congelati",
+          "name": "Tallarines udon frescos o congelados",
           "note": null
         },
         "gamberone_freschi": {
-          "name": "Large gambas fresco (puliti e sgusciati, mantenendo la coda)",
+          "name": "Camarones frescos (limpiados y desvainados, manteniendo la cola)",
           "note": null
         },
         "farina_per_tempura": {
-          "name": "Harina per tempura (oppure all-purpose harina + ice-cold agua)",
+          "name": "harina para tempura (o harina 00 + agua helada)",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral aceite di arachidi para freír",
+          "name": "Aceite de semilla de cacahuete para freír",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Caldo Dashi",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Salsa de soja chiara (usukuchi)",
+          "name": "Salsa de soja clara (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -218,44 +242,48 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Spring cebolla fresco en rodajas finemente",
+          "name": "Cepollotto fresco cortado finamente",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Limpia las gambas dejando la cola, elimina el hilo intestinal y practica pequeños cortes en el vientre para mantenerlas rectas en fritura.",
+        "step_2": "Prepara el caldo llevando dashi, salsa de soja clara y mirin a ligero arbusto; mantén el caldo caliente sin que se reduzca demasiado.",
+        "step_3": "Mezcla rápidamente harina de tempura y agua helada, dejando algunos pequeños grumos y manteniendo la masa fría.",
+        "step_4": "Lleva el aceite a unos 170°C, pasa las gambas a la masa y fríelas pocos a la vez durante unos 2 minutos, hasta que sean ligeras y crujientes.",
+        "step_5": "Escurrir la tempura sobre la rejilla sin cubrirla.",
+        "step_6": "Cuece los udon en agua aparte, escúrrelos bien y repártelos entre los cuencos.",
+        "step_7": "Vierte el caldo hirviendo sobre los udon y añade cebolleta.",
+        "step_8": "Ajusta los camarones en tempura sólo en el momento de servir, por lo que la corteza permanece crujiente durante más tiempo."
       }
     },
     "fr": {
-      "title": "Ebi Tempura Udon",
-      "description": "Une version pratique de Ebi Tempura Udon à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Emiya-san Chi no Kyou no Gohan, Mob Psycho 100. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Ebi tempura udon — soupe d’udon aux crevettes en tempura",
+      "description": "L'Ebi Tempura Udon combine des nouilles udon en bouillon dashi et crevettes en tempura fraîchement frites. La pâte froide doit rester légère et la friture est terminée peu avant le service, de sorte que la croûte reste croustillante sur la soupe. La tempura de crevettes se pose sur les udons seulement à la fin, en gardant la croûte croustillante loin du bouillon jusqu'au service.",
+      "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Mob Psycho 100. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "tagliolini_udon_freschi_o_congelati": {
-          "name": "Tagliolini udon frais o congelati",
+          "name": "Cutters Udon frais ou congelés",
           "note": null
         },
         "gamberone_freschi": {
-          "name": "Large crevettes frais (puliti e sgusciati, mantenendo la coda)",
+          "name": "crevettes fraîches (nettoyées et décortiquées, en maintenant la queue)",
           "note": null
         },
         "farina_per_tempura": {
-          "name": "Farine per tempura (oppure all-purpose farine + ice-cold eau)",
+          "name": "farine pour tempura (ou farine de blé 00 et eau glacée)",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral huile di arachidi pour friture",
+          "name": "Huile de graines d'arachides à frire",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi bouillon",
+          "name": "Brode dashi",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Sauce soja chiara (usukuchi)",
+          "name": "Sauce de soja claire (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -263,44 +291,48 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Spring oignon frais tranché finemente",
+          "name": "Ciboulette frais coupé finement",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Nettoyez les crevettes en laissant la queue, éliminez le fil intestinal et pratiquez de petites coupures sur le ventre pour les maintenir droit dans la friture.",
+        "step_2": "Porte le dashi, la sauce soja claire et le mirin à léger frémissement. Garde le bouillon chaud sans le laisser réduire excessivement.",
+        "step_3": "Mélangez rapidement de la farine de tempura et de l'eau glacée, laissant quelques grumeaux et gardant la pâte froide.",
+        "step_4": "Apporte de l'huile à environ 170°C, passe les crevettes dans la pâte et les frit peu à peu pendant environ 2 minutes, jusqu'à ce qu'elles soient légères et croustillantes.",
+        "step_5": "Essayez la tempura sur grille sans la couvrir.",
+        "step_6": "Fais cuire les nouilles udon dans une casserole d’eau séparée, égoutte-les et répartis-les dans les bols.",
+        "step_7": "Verse le bouillon brûlant sur les nouilles udon et ajoute de la cébette.",
+        "step_8": "Adapte les crevettes en tempura seulement au moment de servir, de sorte que la croûte reste croustillante plus longtemps."
       }
     },
     "de": {
-      "title": "Ebi Tempura Udon",
-      "description": "Eine alltagstaugliche Version von Ebi Tempura Udon für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Mob Psycho 100 inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Ebi Tempura Udon – Udon-Suppe mit Garnelen-Tempura",
+      "description": "Die Ebi Tempura Udon vereint Nudeln udon in Dashi-Brühe und frisch gebratenen Shrimps. Der kalte Teig muss leicht bleiben und die Braten wird kurz vor dem Service abgeschlossen, so dass die Kruste knusprig auf der Suppe bleibt. Die Shrimps-Tempura legt sich erst am Ende auf die Udons und bewahrt die knusprige Kruste von der Brühe bis zum Dienst.",
+      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Mob Psycho 100 inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "tagliolini_udon_freschi_o_congelati": {
-          "name": "Tagliolini udon frisch o congelati",
+          "name": "Nudeln Udon, frisch oder gefroren",
           "note": null
         },
         "gamberone_freschi": {
-          "name": "Large Garnelen frisch (puliti e sgusciati, mantenendo la coda)",
+          "name": "Garnelen, frisch (sauber und enthäutet, ohne Schwanz)",
           "note": null
         },
         "farina_per_tempura": {
-          "name": "Mehl per tempura (oppure all-purpose Mehl + ice-cold Wasser)",
+          "name": "Mehl für Tempura (oder Mehl 00 + Eiswasser)",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral Öl di arachidi zum Frittieren",
+          "name": "Erdnusssamenöl zum Braten",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi Brühe",
+          "name": "Dashi-Brühe",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Sojasauce chiara (usukuchi)",
+          "name": "Sojasauce (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -308,44 +340,48 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Spring Zwiebel frisch in Scheiben finemente",
+          "name": "Zwiebeln, frisch, fein geschnitten",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Reinigen Sie die Garnelen, indem Sie den Schwanz verlassen, entfernen Sie den Darmfaden und üben Sie kleine Schnitte auf Ihrem Bauch, um sie gerade in der Bratform zu halten.",
+        "step_2": "Bereiten Sie die Brühe, indem Sie dashi, helle Sojasauce und Mirin zu leichten Auflauf; halten Sie es warm, ohne es zu reduzieren.",
+        "step_3": "Mischen Sie schnell Mehl aus Tempura und Eiswasser, einige kleine Klumpen hinterlassen und halten Sie den Teig kalt.",
+        "step_4": "Bring das Öl bei ca. 170°C, gib die Garnelen in den Teig und frittiere sie nur für 2 Minuten, bis sie leicht und knusprig sind.",
+        "step_5": "Schütte die Tempura auf das Gitter, ohne sie zu bedecken.",
+        "step_6": "Die Udon-Nudeln in einem separaten Topf garen, gründlich abgießen und auf die Schüsseln verteilen.",
+        "step_7": "Die kochend heiße Brühe über die Udon-Nudeln gießen und Frühlingszwiebel darüberstreuen.",
+        "step_8": "Adoptiert die Shrimps in Tempura nur zum Zeitpunkt des Servierens, so bleibt die Kruste länger knusprig."
       }
     },
     "pt": {
-      "title": "Ebi Tempura Udon",
-      "description": "Uma versão prática de Ebi Tempura Udon para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Emiya-san Chi no Kyou no Gohan, Mob Psycho 100. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Ebi tempura udon — sopa de udon com tempura de camarão",
+      "description": "O Ebi Tempura Udon combina macarrão udon em caldo de dashi recém frito e camarão em tempura. A massa fria deve permanecer leve e a fritura é concluída pouco antes do serviço, por isso a crosta permanece crocante na sopa. A tempura dos camarões se instala no udon apenas no final, preservando a crosta crocante longe do caldo até servir.",
+      "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Mob Psycho 100. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "tagliolini_udon_freschi_o_congelati": {
-          "name": "Tagliolini udon fresco o congelati",
+          "name": "Udon tagliolini fresco ou congelado",
           "note": null
         },
         "gamberone_freschi": {
-          "name": "Large camarões fresco (puliti e sgusciati, mantenendo la coda)",
+          "name": "Camarões frescos (limpos e descascados, mantendo a cauda)",
           "note": null
         },
         "farina_per_tempura": {
-          "name": "Farinha per tempura (oppure all-purpose farinha + ice-cold água)",
+          "name": "farinha tempura (ou farinha 00 + água gelada)",
           "note": null
         },
         "olio_di_semi_di_arachidi_per_friggere": {
-          "name": "Neutral óleo di arachidi para fritar",
+          "name": "Óleo de sementes de amendoim para fritar",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Coberto de Dashi",
           "note": null
         },
         "salsa_di_soia_chiara": {
-          "name": "Molho de soja chiara (usukuchi)",
+          "name": "molho de soja leve (Usukuchi)",
           "note": null
         },
         "mirin": {
@@ -353,15 +389,19 @@
           "note": null
         },
         "cipollotto_fresco_affettato_finemente": {
-          "name": "Spring cebola fresco fatiado finemente",
+          "name": "Cebola recém cortada finamente",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Limpar os camarões que deixam a cauda, remover o fio intestinal e praticar pequenos cortes na barriga para mantê- los reto na fritura.",
+        "step_2": "Prepare o caldo trazendo dashi, molho de soja leve e mirin para soluçar; mantenha- o aquecido sem reduzi- lo demais.",
+        "step_3": "Misture rapidamente farinha de tempura e água gelada, deixando alguns pequenos blocos e mantendo a massa fria.",
+        "step_4": "Leve o óleo para cerca de 170°C, passe os camarões para a massa e frite- os alguns de cada vez por cerca de 2 minutos, até que sejam leves e crocantes.",
+        "step_5": "Esgote a tempura na grade sem cobri- la.",
+        "step_6": "Cozinhe o udon em água separada, drene bem e distribua- os nas tigelas.",
+        "step_7": "Despeje o caldo fervente no udon e adicione cebola.",
+        "step_8": "Ele adapta os camarões em tempura apenas no momento de servir, de modo que a crosta permanece crocante por mais tempo."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000052",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Black Butler (Kuroshitsuji)",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 35,
   "servings": 6,
   "difficulty": "hard",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -76,8 +76,8 @@
     },
     {
       "id": "panko",
-      "quantity": null,
-      "unit": null
+      "quantity": 100,
+      "unit": "g"
     },
     {
       "id": "olio_di_semi_per_friggere",
@@ -92,7 +92,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 300
     },
     {
       "id": "step_3",
@@ -100,66 +100,111 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 3600
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_10",
+      "timerSeconds": 900
+    },
+    {
+      "id": "step_11",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_12",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_13",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Kare Pan",
-      "description": "A crisp Kare Pan with a dry, well-set coating and a juicy or creamy center, cooked in controlled oil and served before the crust softens.",
-      "animeContext": "This recipe is thematically inspired by Black Butler (Kuroshitsuji), My Hero Academia. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Kare Pan — crispy fried Japanese curry buns",
+      "description": "The Kare Pan contains a thick curry filling in a leavened and breaded wrap in the panko. After a first leavening the dough is divided, stuffed and sealed, then the sandwiches are fried until they get a golden crust and crunchy. The curry must be cold before filling: so the closure remains compact and the panko adheres during frying.",
+      "animeContext": "This recipe is thematically inspired by Black Butler (Kuroshitsuji), My Hero Academia. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose flour",
+          "name": "flour 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "dry baker's yeast",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "sale": {
-          "name": "Salt",
+          "name": "salt",
           "note": null
         },
         "latte_tiepido": {
-          "name": "Milk tiepido",
+          "name": "lukewarm milk",
           "note": null
         },
         "burro_ammorbidito": {
-          "name": "Butter ammorbidito",
+          "name": "softened butter",
           "note": null
         },
         "curry_giapponese_denso_ben_freddo": {
-          "name": "Curry giapponese denso ben freddo (preparato con potatoes, carrots e ground meat)",
+          "name": "Cold, thick Japanese curry (with potatoes, carrots and minced meat)",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Egg sbattuto",
+          "name": "egg beaten",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese breadcrumbs)",
+          "name": "panko (Japanese breadcrumbs)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral oil for frying",
+          "name": "seed oil for frying",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the filling or main ingredient, season it evenly and dry or chill it as needed so the coating can adhere without slipping.",
-        "step_2": "Coat or batter the pieces in the stated order, keeping the outer layer light and even rather than pressing it into a dense shell.",
-        "step_3": "Fry in small batches at controlled temperature until the exterior is deeply crisp and the center is fully cooked or heated through.",
-        "step_4": "Drain on a rack or absorbent paper, add the finishing sauce or garnish only at the end and serve promptly before the crust softens."
+        "step_1": "In a large bowl, add flour, sugar and yeast, then add warm milk.",
+        "step_2": "Knead for 5 minutes, then add salt and softened butter.",
+        "step_3": "Work the dough until it is smooth and elastic.",
+        "step_4": "Cover with a cloth and let rise for 1 hour until doubling.",
+        "step_5": "Divide the leavened dough into 6 equal balls.",
+        "step_6": "Spread each ball form a disc with a slightly thicker centre and thin edges.",
+        "step_7": "Put a generous spoonful of cold dense curry in the middle of each disc.",
+        "step_8": "Close the edges carefully by sealing them well and giving the classic oval shape to ellipses.",
+        "step_9": "Pass every sandwich first into the beaten egg and then into the panko making it stick evenly.",
+        "step_10": "Let the sandwiches rest for 15 minutes.",
+        "step_11": "Heat the seed oil at 170°C.",
+        "step_12": "Fry the Kare Pan 2-3 minutes per side until they become golden and super crispy.",
+        "step_13": "Drain on paper towels and serve hot."
       }
     },
     "it": {
       "title": "Kare Pan (Panino al Curry Fritto Croccante)",
-      "description": "Un Kare Pan (Panino al Curry Fritto Croccante) croccante, con rivestimento asciutto e ben aderente e interno succoso o cremoso, fritto a temperatura controllata e servito appena pronto.",
+      "description": "Il Kare Pan racchiude un ripieno di curry denso in un involucro lievitato e impanato nel panko. Dopo una prima lievitazione l’impasto viene diviso, farcito e sigillato, quindi i panini vengono fritti fino a ottenere una crosta dorata e croccante. Il curry deve essere ben freddo prima della farcitura: così la chiusura resta compatta e il panko aderisce durante la frittura.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Black Butler (Kuroshitsuji), My Hero Academia. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "farina_00": {
@@ -204,129 +249,156 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, riunisci in una ciotola capiente unisci la farina, lo zucchero, il lievito e aggiungi il latte tiepido. Impasta per 5 minuti, poi unisci il sale e il burro ammorbidito. Lavora l'impasto finché risulta liscio ed elastico. Copri con un panno e lascia lievitare per 1 ora fino al raddoppio.",
-        "step_2": "Prosegui così: dividi l'impasto lievitato in 6 palline uguali. Stendi ogni pallina forma un disco dal centro leggermente più spesso e dai bordi sottili.",
-        "step_3": "Nella fase successiva, metti un generoso cucchiaio di curry denso freddo al centro di ciascun disco. Chiudi accuratamente i bordi sigillandoli bene e dando la classica forma ovale ad ellisse. Passa ogni panino prima nell'uovo sbattuto e poi nel panko facendolo aderire uniformemente. Lascia riposare i panini per 15 minuti.",
-        "step_4": "Per completare, porta a temperatura l'olio di semi a 170°C. Friggi i Kare Pan 2-3 minuti per lato finché non diventano dorati e super croccanti. Scolali su carta assorbente e porta in tavolali caldi."
+        "step_1": "In una ciotola capiente, unisci la farina, lo zucchero e il lievito, poi aggiungi il latte tiepido.",
+        "step_2": "Impasta per 5 minuti, poi unisci il sale e il burro ammorbidito.",
+        "step_3": "Lavora l'impasto finché risulta liscio ed elastico.",
+        "step_4": "Copri con un panno e lascia lievitare per 1 ora fino al raddoppio.",
+        "step_5": "Dividi l'impasto lievitato in 6 palline uguali.",
+        "step_6": "Stendi ogni pallina forma un disco dal centro leggermente più spesso e dai bordi sottili.",
+        "step_7": "Metti un generoso cucchiaio di curry denso freddo al centro di ciascun disco.",
+        "step_8": "Chiudi accuratamente i bordi sigillandoli bene e dando la classica forma ovale ad ellisse.",
+        "step_9": "Passa ogni panino prima nell'uovo sbattuto e poi nel panko facendolo aderire uniformemente.",
+        "step_10": "Lascia riposare i panini per 15 minuti.",
+        "step_11": "Scalda l'olio di semi a 170°C.",
+        "step_12": "Friggi i Kare Pan 2-3 minuti per lato finché non diventano dorati e super croccanti.",
+        "step_13": "Scolali su carta assorbente e servili caldi."
       }
     },
     "es": {
-      "title": "Kare Pan",
-      "description": "Una versión práctica de Kare Pan para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Black Butler (Kuroshitsuji), My Hero Academia. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Kare pan — bollitos fritos crujientes rellenos de curry",
+      "description": "El Kare Pan encierra un relleno de curry denso en una envoltura leudada y empanada en el panko. Después de una primera levadura la masa se divide, rellena y sella, luego los sándwiches se fríen hasta obtener una corteza dorada y crujiente. El curry debe ser muy frío antes del relleno: así el cierre permanece compacto y el panko se adhiere durante la fritura.",
+      "animeContext": "Esta receta está inspirada temáticamente en Black Butler (Kuroshitsuji), My Hero Academia. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose harina",
+          "name": "harina 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "levadura de cerveza seca",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "sale": {
-          "name": "Sal",
+          "name": "sal",
           "note": null
         },
         "latte_tiepido": {
-          "name": "Leche tiepido",
+          "name": "leche tibia",
           "note": null
         },
         "burro_ammorbidito": {
-          "name": "Mantequilla ammorbidito",
+          "name": "mantequilla ablandada",
           "note": null
         },
         "curry_giapponese_denso_ben_freddo": {
-          "name": "Curry giapponese denso ben freddo (preparato con patatas, zanahorias e ground meat)",
+          "name": "curry japonés denso bien frío (preparado con patatas, zanahorias y carne picada)",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Huevo sbattuto",
+          "name": "Huevo batido",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese pan rallado)",
+          "name": "Panko (pan rallado japonés)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral aceite para freír",
+          "name": "Aceite de semilla para freír",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En un cuenco grande, une la harina, el azúcar y la levadura, luego añade la leche tibia.",
+        "step_2": "Amas durante 5 minutos, luego te unes a la sal y a la mantequilla ablandada.",
+        "step_3": "Trabaja la masa hasta que esté lisa y elástica.",
+        "step_4": "Cúbrete con un paño y deja que se levante durante 1 hora hasta que se duplique.",
+        "step_5": "Divide la masa leudada en 6 bolas iguales.",
+        "step_6": "Extiende cada bola forma un disco desde el centro ligeramente más grueso y desde los bordes delgados.",
+        "step_7": "Pon una generosa cucharada de curry denso frío en el centro de cada disco.",
+        "step_8": "Cierra cuidadosamente los bordes sellándolos bien y dando la forma clásica oval a la elipse.",
+        "step_9": "Pasa cada panecillo primero por huevo batido y después por panko, procurando que quede bien adherido.",
+        "step_10": "Deja reposar los sándwiches durante 15 minutos.",
+        "step_11": "Calienta el aceite de semillas a 170°C.",
+        "step_12": "Freír los Kare Pan 2-3 minutos por lado hasta que se vuelvan dorados y súper crujientes.",
+        "step_13": "Escolares sobre papel absorbente y servilletas calientes."
       }
     },
     "fr": {
-      "title": "Kare Pan",
-      "description": "Une version pratique de Kare Pan à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Black Butler (Kuroshitsuji), My Hero Academia. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Kare pan — petits pains frits croustillants au curry",
+      "description": "Le Kare Pan contient une farce de curry dense dans une enveloppe levée et panquée dans le panko. Après une première levure, le mélange est divisé, farci et scellé, puis les sandwichs sont frits jusqu'à obtenir une croûte dorée et croustillante. Le curry doit être bien froid avant la farce: ainsi la fermeture reste compacte et le panko adhère pendant la friture.",
+      "animeContext": "Cette recette s'inspire librement de Black Butler (Kuroshitsuji), My Hero Academia. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose farine",
+          "name": "farine 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "levure de bière sèche",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "sale": {
-          "name": "Sel",
+          "name": "sel",
           "note": null
         },
         "latte_tiepido": {
-          "name": "Lait tiepido",
+          "name": "lait tiède",
           "note": null
         },
         "burro_ammorbidito": {
-          "name": "Beurre ammorbidito",
+          "name": "beurre adouci",
           "note": null
         },
         "curry_giapponese_denso_ben_freddo": {
-          "name": "Curry giapponese denso ben freddo (preparato con pommes de terre, carottes e ground meat)",
+          "name": "curry japonais dense bien froid (préparé avec pommes de terre, carottes et viande hachée)",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Œuf sbattuto",
+          "name": "Oeuf claqué",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese chapelure)",
+          "name": "Panko (chapelure japonais)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral huile pour friture",
+          "name": "huile de graines à frire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans un grand bol, ajoutez la farine, le sucre et la levure, puis ajoutez le lait tiède.",
+        "step_2": "Pétrissez pendant 5 minutes, puis ajoutez le sel et le beurre adouci.",
+        "step_3": "Travaillez la pâte jusqu'à ce qu'elle soit lisse et élastique.",
+        "step_4": "Couvrez avec un chiffon et laissez lever pendant 1 heure jusqu'au doublement.",
+        "step_5": "Diviser la pâte levée en 6 balles égales.",
+        "step_6": "Étends chaque balle forme un disque du centre légèrement plus épais et aux bords fins.",
+        "step_7": "Mettez une cuiller généreuse de curry dense froid au centre de chaque disque.",
+        "step_8": "Fermez soigneusement les bords en les scellant bien et en donnant la forme ovale classique à ellipse.",
+        "step_9": "Il passe chaque sandwich d'abord dans l'oeuf claqué puis dans le panko en le faisant adhérer uniformément.",
+        "step_10": "Laisse les sandwichs se reposer pendant 15 minutes.",
+        "step_11": "Chauffez l'huile de graines à 170°C.",
+        "step_12": "Frottez les Kare Pan 2-3 minutes par côté jusqu'à ce qu'ils deviennent dorés et super croustillants.",
+        "step_13": "Écolez sur papier absorbant et serviles chaudes."
       }
     },
     "de": {
-      "title": "Kare Pan",
-      "description": "Eine alltagstaugliche Version von Kare Pan für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Black Butler (Kuroshitsuji), My Hero Academia inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Kare Pan – knusprig frittierte Brötchen mit Curryfüllung",
+      "description": "Der Kare Pan enthält eine Füllung von dichtem Curry in einem gesäuerten und im Panko gepanzerten Hülle. Nach einer ersten Hefe wird der Teig geteilt, gefüllt und versiegelt, so dass die Sandwiches gebraten werden, bis eine goldene und knusprige Kruste erhalten. Curry muss vor dem Füllen sehr kalt sein: so bleibt der Verschluss kompakte und der Panko hält beim Braten fest.",
+      "animeContext": "Dieses Rezept ist thematisch von Black Butler (Kuroshitsuji), My Hero Academia inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose Mehl",
+          "name": "Mehl 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "Trockenbierhefe",
           "note": null
         },
         "zucchero": {
@@ -338,88 +410,106 @@
           "note": null
         },
         "latte_tiepido": {
-          "name": "Milch tiepido",
+          "name": "lauwarme Milch",
           "note": null
         },
         "burro_ammorbidito": {
-          "name": "Butter ammorbidito",
+          "name": "Weiche Butter",
           "note": null
         },
         "curry_giapponese_denso_ben_freddo": {
-          "name": "Curry giapponese denso ben freddo (preparato con Kartoffeln, Karotten e ground meat)",
+          "name": "Japanischer Curry gut kalt (mit Kartoffeln, Karotten und Hackfleisch zubereitet)",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Ei sbattuto",
+          "name": "Eier, die geschlagen wurden",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese Semmelbrösel)",
+          "name": "Panko (Japanischer Pony)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral Öl zum Frittieren",
+          "name": "Samenöl zum Braten",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer großen Schüssel, fügen Sie Mehl, Zucker und Hefe, dann fügen Sie die lauwarme Milch.",
+        "step_2": "Füttern Sie 5 Minuten lang, dann mischen Sie Salz und weichgemachte Butter.",
+        "step_3": "Der Teig wird bearbeitet, bis er glatt und elastisch ist.",
+        "step_4": "Bedecken Sie mit einem Tuch und lassen Sie 1 Stunde bis zur Verdopplung aufgehen.",
+        "step_5": "Teilen Sie den Teig in 6 gleiche Kugeln.",
+        "step_6": "Legen Sie jeden Ball eine Scheibe aus der Mitte etwas dicker und von den dünnen Rändern.",
+        "step_7": "Legen Sie einen großzügigen Esslöffel kalten Curry in die Mitte jeder Scheibe.",
+        "step_8": "Schließen Sie die Kanten sorgfältig, indem Sie sie gut versiegeln und geben die klassische ovale Form zu Ellipse.",
+        "step_9": "Er fährt jedes Sandwich zuerst ins Ei und dann in den Panko, indem er es gleichmäßig festhält.",
+        "step_10": "Lass die Sandwiches 15 Minuten ruhen.",
+        "step_11": "Erhitzt das Samenöl auf 170 °C.",
+        "step_12": "Fritier die Kare Pans 2-3 Minuten pro Seite, bis sie goldig und super knusprig werden.",
+        "step_13": "Schablonen auf absorbierendes Papier und warme Servietten."
       }
     },
     "pt": {
-      "title": "Kare Pan",
-      "description": "Uma versão prática de Kare Pan para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Black Butler (Kuroshitsuji), My Hero Academia. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Kare pan — pãezinhos fritos e estaladiços recheados com caril",
+      "description": "O Pan de Kare contém um recheio de curry espesso em um envoltório fermentado e pão no panko. Depois de um primeiro fermento a massa é dividida, recheada e selada, então os sanduíches são fritos até que recebam uma crosta dourada e crocante. O curry deve estar frio antes do preenchimento: para que o fechamento permaneça compacto e o panko adere durante a fritura.",
+      "animeContext": "Esta receita inspira-se tematicamente em Black Butler (Kuroshitsuji), My Hero Academia. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose farinha",
+          "name": "farinha 00",
           "note": null
         },
         "lievito_di_birra_secco": {
-          "name": "Dry yeast",
+          "name": "fermento de cerveja seca",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "sale": {
-          "name": "Sal",
+          "name": "sal",
           "note": null
         },
         "latte_tiepido": {
-          "name": "Leite tiepido",
+          "name": "Leite morno",
           "note": null
         },
         "burro_ammorbidito": {
-          "name": "Manteiga ammorbidito",
+          "name": "manteiga amolecida",
           "note": null
         },
         "curry_giapponese_denso_ben_freddo": {
-          "name": "Curry giapponese denso ben freddo (preparato con batatas, cenouras e ground meat)",
+          "name": "Caril japonês espesso e bem frio (com batata, cenoura e carne picada)",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Ovo sbattuto",
+          "name": "ovo batido",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese pão ralado)",
+          "name": "panko (Pão japonês)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral óleo para fritar",
+          "name": "óleo de semente para fritar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Em uma tigela grande, adicione farinha, açúcar e levedura, em seguida, adicione leite morno.",
+        "step_2": "Amarrar por 5 minutos, em seguida, adicionar sal e manteiga amolecida.",
+        "step_3": "Trabalhe a massa até que seja suave e elástica.",
+        "step_4": "Cubra com um pano e deixe subir por 1 hora até duplicar.",
+        "step_5": "Divida a massa fermentada em 6 bolas iguais.",
+        "step_6": "Espalhe cada bola formando um disco com um centro ligeiramente mais grosso e bordas finas.",
+        "step_7": "Coloque uma colher generosa de curry denso e frio no meio de cada disco.",
+        "step_8": "Feche cuidadosamente as bordas selando- as bem e dando a forma oval clássica para elipses.",
+        "step_9": "Passe cada sanduíche primeiro para o ovo batido e, em seguida, para o panko fazendo- o ficar uniforme.",
+        "step_10": "Deixe os sanduíches descansar por 15 minutos.",
+        "step_11": "Aqueça o óleo de sementes a 170°C.",
+        "step_12": "Fritar a Pan de Kare 2-3 minutos por lado até que eles se tornem dourados e super crocantes.",
+        "step_13": "Esgota em papel absorvente e serviços quentes."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000054",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Spy x Family",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 25,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -106,37 +106,73 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 240
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": 480
+    },
+    {
+      "id": "step_10",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_11",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_12",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_13",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Hambagu",
-      "description": "A savory Hambagu cooked with controlled direct heat, aiming for good browning outside while keeping the center tender and the finishing sauce glossy.",
-      "animeContext": "This recipe is thematically inspired by Spy x Family, Food Wars!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Hambagu — Japanese hamburger steak with demi-glace sauce",
+      "description": "Hambagu are oval meatballs of mixed minced meat, onion and panko softened in milk. After the roasting they are finished in a pan with lid, while the cooking juices become the base of a tasty sauce to be poured on the portions. The sauce is built in the same pan used for meat, recovering the browning bottom and allowing it to thicken briefly.",
+      "animeContext": "This recipe is thematically inspired by Spy x Family, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (beef e pork)",
+          "name": "mixed minced meat (manzo and pork)",
           "note": null
         },
         "cipolla_dorata_tritata_finemente": {
-          "name": "Onion dorata finely chopped",
+          "name": "finely chopped golden onion",
           "note": null
         },
         "panko": {
-          "name": "Panko (breadcrumbs) ammorbidito in 2 cucchiai di milk",
+          "name": "Panko (pangrattato) softened in 2 tablespoons of milk",
           "note": null
         },
         "uovo_piccolo": {
-          "name": "Egg piccolo",
+          "name": "small egg",
           "note": null
         },
         "sale": {
-          "name": "Salt",
+          "name": "salt",
           "note": null
         },
         "pepe_nero": {
@@ -144,40 +180,49 @@
           "note": null
         },
         "noce_moscata_q_b": {
-          "name": "Noce moscata q.b",
+          "name": "nutmeg",
           "note": null
         },
         "ketchup": {
-          "name": "Ketchup",
+          "name": "ketchup",
           "note": null
         },
         "salsa_tonkatsu": {
-          "name": "Tonkatsu sauce (o worcestershire)",
+          "name": "Tonkatsu sauce (or Worcestershire)",
           "note": null
         },
         "burro": {
-          "name": "Butter",
+          "name": "butter",
           "note": null
         },
         "acqua": {
-          "name": "Water",
+          "name": "water",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the meat, fish or other main ingredient and mix any glaze or seasoning before heating the pan or grill.",
-        "step_2": "Cook over controlled direct heat until the first side browns well, then turn only as needed so the center stays juicy and the surface develops color.",
-        "step_3": "Add the sauce or glaze near the end and reduce it briefly, coating the food without letting sugar or miso scorch on the hot surface.",
-        "step_4": "Rest briefly when appropriate, slice cleanly and serve with the prepared rice, vegetables or garnish while still hot."
+        "step_1": "In a frying pan brown the chopped onion with a little oil until it becomes golden and soft, let it cool completely.",
+        "step_2": "In a large bowl, mix the minced meat, the cooled onion, the softened panko in the milk, the egg, salt, pepper and a sprinkle of nutmeg.",
+        "step_3": "It kneads vigorously by hand for 3-4 minutes until the mixture becomes compact and slightly sticky.",
+        "step_4": "Divide the dough into two large oval meatballs.",
+        "step_5": "Switch the dough from one hand to another to eliminate internal air bubbles.",
+        "step_6": "Practice a slight pressure in the center of each burger with your thumb (it will prevent it from swelling excessively during cooking).",
+        "step_7": "Heat a little oil in a pan over medium heat.",
+        "step_8": "Cook the hamburgers for 3 minutes per side until golden.",
+        "step_9": "Add 2 tablespoons of water in the pan, cover immediately with the lid and let steam over low heat for 6-8 minutes.",
+        "step_10": "Transfer the burgers to the dishes.",
+        "step_11": "In the same pan with meat juices, combine butter, ketchup, tonkatsu sauce, water and sugar.",
+        "step_12": "Boil for 2 minutes mixing until you get a shiny and dense sauce.",
+        "step_13": "Add the hot sauce over the Hambagu and bring to the table with rice or vegetables."
       }
     },
     "it": {
       "title": "Hambagu (Hamburg Steak Giapponese con Salsa Demi-Glace)",
-      "description": "Un Hambagu (Hamburg Steak Giapponese con Salsa Demi-Glace) saporito cotto con calore diretto controllato, cercando una buona doratura esterna senza asciugare il centro e completando con una salsa lucida.",
+      "description": "Gli Hambagu sono polpette ovali di carne macinata mista, cipolla e panko ammorbidito nel latte. Dopo la rosolatura vengono terminati in padella con coperchio, mentre i succhi di cottura diventano la base di una salsa saporita da versare sulle porzioni. La salsa si costruisce nella stessa padella usata per la carne, recuperando il fondo di rosolatura e lasciandolo addensare brevemente.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Spy x Family, Food Wars!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "carne_macinata_mista": {
@@ -197,7 +242,7 @@
           "note": null
         },
         "sale": {
-          "name": "Sale",
+          "name": "sale",
           "note": null
         },
         "pepe_nero": {
@@ -205,7 +250,7 @@
           "note": null
         },
         "noce_moscata_q_b": {
-          "name": "noce moscata q.b",
+          "name": "noce moscata",
           "note": null
         },
         "ketchup": {
@@ -230,55 +275,64 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, in una padella rosoli la cipolla tritata con un filo d'olio finché diventa dorata e morbida. Lasciala raffreddare completamente.",
-        "step_2": "Prosegui così: riunisci in una ciotola capiente unisci la carne macinata, la cipolla raffreddata, il panko ammorbidito nel latte, l'uovo, sale, pepe e una spolverata di noce moscata. Impasta energicamente a mano per 3-4 minuti finché il composto diventa compatto e leggermente appiccicoso.",
-        "step_3": "Nella fase successiva, dividi l'impasto in due grandi polpette ovali. Passati l'impasto da una mano all'altra per eliminare le bolle d'aria interne. Pratica una leggera pressione al centro di ogni hamburger con il pollice (eviterà che gonfi eccessivamente durante la cottura). Porta a temperatura un filo d'olio in una padella a fuoco medio. Lascia cuocere gli hamburger per 3 minuti per lato finché dorati. Aggiungi 2 cucchiai d'acqua nella padella, copri immediatamente con il coperchio e lascia cuocere a vapore a fuoco basso per 6-8 minuti. Trasferisci gli hamburger nei piatti.",
-        "step_4": "Per completare, nella stessa padella con i succhi della carne, unisci il burro, il ketchup, la salsa tonkatsu, l'acqua e lo zucchero. Fai sobbollire per 2 minuti amalgamando fino ad ottenere una salsa lucida e densa. Aggiungi la salsa calda sopra gli Hambagu e porta in tavola con riso o verdure."
+        "step_1": "In una padella rosoli la cipolla tritata con un filo d'olio finché diventa dorata e morbida, lasciala raffreddare completamente.",
+        "step_2": "In una ciotola capiente, unisci la carne macinata, la cipolla raffreddata, il panko ammorbidito nel latte, l'uovo, sale, pepe e una spolverata di noce moscata.",
+        "step_3": "Impasta energicamente a mano per 3-4 minuti finché il composto diventa compatto e leggermente appiccicoso.",
+        "step_4": "Dividi l'impasto in due grandi polpette ovali.",
+        "step_5": "Passa l'impasto da una mano all'altra per eliminare le bolle d'aria interne.",
+        "step_6": "Pratica una leggera pressione al centro di ogni hamburger con il pollice (eviterà che gonfi eccessivamente durante la cottura).",
+        "step_7": "Scalda un filo d'olio in una padella a fuoco medio.",
+        "step_8": "Cuoci gli hamburger per 3 minuti per lato finché dorati.",
+        "step_9": "Aggiungi 2 cucchiai d'acqua nella padella, copri immediatamente con il coperchio e lascia cuocere a vapore a fuoco basso per 6-8 minuti.",
+        "step_10": "Trasferisci gli hamburger nei piatti.",
+        "step_11": "Nella stessa padella con i succhi della carne, unisci il burro, il ketchup, la salsa tonkatsu, l'acqua e lo zucchero.",
+        "step_12": "Fai sobbollire per 2 minuti amalgamando fino a ottenere una salsa lucida e densa.",
+        "step_13": "Aggiungi la salsa calda sopra gli Hambagu e porta in tavola con riso o verdure."
       }
     },
     "es": {
-      "title": "Hambagu",
-      "description": "Una versión práctica de Hambagu para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Spy x Family, Food Wars!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Hambagu — hamburguesa japonesa al plato con salsa demi-glace",
+      "description": "Los Hambagu son albóndigas ovaladas de carne picada mezclada, cebolla y panko suavizado en la leche. Después de la rosolación se terminan en sartén con tapa, mientras que los jugos de cocción se convierten en la base de una salsa sabrosa que se derrama en las porciones. La salsa se construye en la misma sartén que la que se usa para la carne, recuperando el fondo de rociado y dejándolo espesar brevemente.",
+      "animeContext": "Esta receta está inspirada temáticamente en Spy x Family, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (ternera e cerdo)",
+          "name": "Carne picada mezclada (carne y cerdo)",
           "note": null
         },
         "cipolla_dorata_tritata_finemente": {
-          "name": "Cebolla dorata picado fino",
+          "name": "cebolla dorada picada finamente",
           "note": null
         },
         "panko": {
-          "name": "Panko (pan rallado) ammorbidito in 2 cucchiai di leche",
+          "name": "Panko (pan rallado) suavizado en 2 cucharadas de leche",
           "note": null
         },
         "uovo_piccolo": {
-          "name": "Huevo piccolo",
+          "name": "huevo pequeño",
           "note": null
         },
         "sale": {
-          "name": "Sal",
+          "name": "sal",
           "note": null
         },
         "pepe_nero": {
-          "name": "Negro pepper",
+          "name": "pimienta negra",
           "note": null
         },
         "noce_moscata_q_b": {
-          "name": "Noce moscata q.b",
+          "name": "nuez moscada",
           "note": null
         },
         "ketchup": {
-          "name": "Ketchup",
+          "name": "ketchup",
           "note": null
         },
         "salsa_tonkatsu": {
-          "name": "Tonkatsu salsa (o worcestershire)",
+          "name": "salsa tonkatsu (o Worcestershire)",
           "note": null
         },
         "burro": {
-          "name": "Mantequilla",
+          "name": "mantequilla",
           "note": null
         },
         "acqua": {
@@ -286,97 +340,115 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una sartén, la cebolla picada con un hilo de aceite hasta que se vuelva dorada y suave, déjala enfriar completamente.",
+        "step_2": "En un cuenco grande, une la carne picada, la cebolla enfriada, el panko suavizado en la leche, el huevo, la sal, la pimienta y un polvo de nuez moscada.",
+        "step_3": "Amasa vigorosamente a mano durante 3-4 minutos hasta que el compuesto se vuelva compacto y ligeramente pegajoso.",
+        "step_4": "Divide la masa en dos grandes albóndigas ovaladas.",
+        "step_5": "Pasa la masa de una mano a otra para eliminar las burbujas de aire internas.",
+        "step_6": "Practica una ligera presión en el centro de cada hamburguesa con el pulgar (evitará que se hincha excesivamente durante la cocción).",
+        "step_7": "Calienta un hilo de aceite en una sartén a fuego medio.",
+        "step_8": "Cocine las hamburguesas durante 3 minutos por cada lado hasta que dore.",
+        "step_9": "Añade 2 cucharadas de agua en la sartén, cubre inmediatamente con la tapa y deja que el vapor se cocine a fuego lento durante 6-8 minutos.",
+        "step_10": "Transfiere las hamburguesas a los platos.",
+        "step_11": "En la misma sartén con zumos de carne, une la mantequilla, el ketchup, la salsa tonkatsu, el agua y el azúcar.",
+        "step_12": "Haz que se emborrache durante 2 minutos mediante la mezcla hasta obtener una salsa brillante y densa.",
+        "step_13": "Añadir la salsa caliente sobre los Hambagu y llevar a la mesa con arroz o verduras."
       }
     },
     "fr": {
-      "title": "Hambagu",
-      "description": "Une version pratique de Hambagu à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Spy x Family, Food Wars!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Hambagu — steak haché japonais, sauce demi-glace",
+      "description": "Les Hambagu sont des boulettes ovales de viande hachée mélangée, d'oignon et de panko adouci dans le lait. Après la rosaille, elles sont finies dans une poêle avec couvercle, tandis que les jus de cuisson deviennent la base d'une sauce savoureuse à verser sur les portions. La sauce se construit dans la même poêle que celle utilisée pour la viande, récupérant le fond de rosaille et le laissant épaissir brièvement.",
+      "animeContext": "Cette recette s'inspire librement de Spy x Family, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (bœuf e porc)",
+          "name": "viande hachée mélangée (bœuf et porc)",
           "note": null
         },
         "cipolla_dorata_tritata_finemente": {
-          "name": "Oignon dorata finement haché",
+          "name": "oignon doré haché finement",
           "note": null
         },
         "panko": {
-          "name": "Panko (chapelure) ammorbidito in 2 cucchiai di lait",
+          "name": "panko (chapelure) adouci dans 2 cuillères à soupe de lait",
           "note": null
         },
         "uovo_piccolo": {
-          "name": "Œuf piccolo",
+          "name": "œuf petit",
           "note": null
         },
         "sale": {
-          "name": "Sel",
+          "name": "sel",
           "note": null
         },
         "pepe_nero": {
-          "name": "Noir pepper",
+          "name": "poivre noir",
           "note": null
         },
         "noce_moscata_q_b": {
-          "name": "Noce moscata q.b",
+          "name": "noyer muscade",
           "note": null
         },
         "ketchup": {
-          "name": "Ketchup",
+          "name": "ketchup",
           "note": null
         },
         "salsa_tonkatsu": {
-          "name": "Tonkatsu sauce (o worcestershire)",
+          "name": "sauce tonkatsu (ou Worcestershire)",
           "note": null
         },
         "burro": {
-          "name": "Beurre",
+          "name": "beurre",
           "note": null
         },
         "acqua": {
-          "name": "Eau",
+          "name": "eau",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une poêle, l'oignon haché avec un fil d'huile jusqu'à ce qu'il soit doré et doux, laissez-la refroidir complètement.",
+        "step_2": "Dans un grand bol, ajoutez la viande hachée, l'oignon refroidi, le panko adouci dans le lait, l'œuf, le sel, le poivre et une bouillie de noix de muscade.",
+        "step_3": "Pétrir fermement à la main pendant 3-4 minutes jusqu'à ce que le composé soit compact et légèrement collant.",
+        "step_4": "Diviser la pâte en deux grosses boulettes ovales.",
+        "step_5": "Passe la pâte d'une main à l'autre pour éliminer les bulles d'air internes.",
+        "step_6": "Pratiquez une légère pression au centre de chaque hamburger avec votre pouce (il évitera qu'il gonfle excessivement pendant la cuisson).",
+        "step_7": "Réchauffez un fil d'huile dans une poêle à feu moyen.",
+        "step_8": "Faites cuire les hamburgers pendant 3 minutes par côté jusqu'à ce que vous soyez doré.",
+        "step_9": "Ajoutez 2 cuillères à soupe d'eau dans la poêle, couvrez immédiatement avec le couvercle et laissez cuire à la vapeur à feu bas pendant 6-8 minutes.",
+        "step_10": "Transférez les hamburgers dans la vaisselle.",
+        "step_11": "Dans la même poêle avec des jus de viande, ajoutez le beurre, le ketchup, la sauce tonkatsu, l'eau et le sucre.",
+        "step_12": "Faites glisser pendant 2 minutes en mélangeant jusqu'à ce que vous obteniez une sauce brillante et dense.",
+        "step_13": "Ajoutez la sauce chaude au-dessus des Hambagu et apportez du riz ou des légumes à la table."
       }
     },
     "de": {
-      "title": "Hambagu",
-      "description": "Eine alltagstaugliche Version von Hambagu für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Spy x Family, Food Wars! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Hambagu – japanisches Hacksteak mit Demi-Glace-Sauce",
+      "description": "Die Hambagus sind ovale Fleischbällchen aus gemischtem Hackfleisch, Zwiebeln und weichgemachtem Panko in der Milch. Nach dem Rost werden sie in einer Pfanne mit Deckel beendet, während die Kochsäfte zur Basis einer geschmackvollen Soße werden, die auf die Portionen zu gießen ist. Die Soße wird in der gleichen Pfanne gebaut, die für das Fleisch verwendet wird, indem der Rostboden wieder herausgenommen und es kurz verdichtet wird.",
+      "animeContext": "Dieses Rezept ist thematisch von Spy x Family, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (Rindfleisch e Schweinefleisch)",
+          "name": "Hackfleisch/Faschiertes (Rind und Schwein)",
           "note": null
         },
         "cipolla_dorata_tritata_finemente": {
-          "name": "Zwiebel dorata fein gehackt",
+          "name": "fein gemahlene goldene Zwiebel",
           "note": null
         },
         "panko": {
-          "name": "Panko (Semmelbrösel) ammorbidito in 2 cucchiai di Milch",
+          "name": "Panko (Pangratat) in 2 Esslöffel Milch weich gemacht",
           "note": null
         },
         "uovo_piccolo": {
-          "name": "Ei piccolo",
+          "name": "Kleines Ei",
           "note": null
         },
         "sale": {
@@ -384,11 +456,11 @@
           "note": null
         },
         "pepe_nero": {
-          "name": "Schwarz pepper",
+          "name": "Pfeffer, schwarz",
           "note": null
         },
         "noce_moscata_q_b": {
-          "name": "Noce moscata q.b",
+          "name": "Muskatnuss",
           "note": null
         },
         "ketchup": {
@@ -396,7 +468,7 @@
           "note": null
         },
         "salsa_tonkatsu": {
-          "name": "Tonkatsu Sauce (o worcestershire)",
+          "name": "Tonkatsu-Sauce (oder Worcestershire)",
           "note": null
         },
         "burro": {
@@ -413,71 +485,89 @@
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer Pfanne Rosoli die Zwiebel mit einem Draht aus Öl gehackt, bis sie goldig und weich wird, lassen Sie sie vollständig abkühlen.",
+        "step_2": "In einer großen Schüssel mischen Sie das Hackfleisch, die gekühlte Zwiebel, den weichgemachten Panko in der Milch, das Ei, Salz, Pfeffer und einen Staub Muskatnuss.",
+        "step_3": "Es klemmt 3-4 Minuten lang kräftig von Hand, bis die Verbindung kompakt und leicht klebrig wird.",
+        "step_4": "Teilen Sie den Teig in zwei große ovale Fleischbällchen.",
+        "step_5": "Wechseln Sie den Teig von Hand zu Hand, um die inneren Luftblasen zu entfernen.",
+        "step_6": "Üben Sie einen leichten Druck in der Mitte jedes Hamburger mit Ihrem Daumen (es wird vermeiden, dass es übermäßig während des Kochens geschwollen).",
+        "step_7": "Erhitzt einen Ölfaden in einer Pfanne mit mittlerem Feuer.",
+        "step_8": "Kochen Sie die Burger für 3 Minuten pro Seite, bis Sie golden sind.",
+        "step_9": "Fügen Sie 2 Esslöffel Wasser in die Pfanne, decken Sie sofort mit dem Deckel und lassen Sie 6-8 Minuten mit Dampf in niedrigem Feuer kochen.",
+        "step_10": "Bring die Burger ins Geschirr.",
+        "step_11": "In der gleichen Pfanne mit Fleischsäften, mischen Sie Butter, Ketchup, Tonkatsu-Sauce, Wasser und Zucker.",
+        "step_12": "Lassen Sie sich für 2 Minuten mischen, bis Sie eine glänzende und dicke Soße erhalten.",
+        "step_13": "Füge die heiße Soße über die Hambagu hinzu und bringe sie mit Reis oder Gemüse auf den Tisch."
       }
     },
     "pt": {
-      "title": "Hambagu",
-      "description": "Uma versão prática de Hambagu para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Spy x Family, Food Wars!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Hambagu — hambúrguer japonês no prato com molho demi-glace",
+      "description": "Hambagu são almôndegas ovais de carne picada mista, cebola e panko amaciadas no leite. Após o assado, elas são terminadas em uma panela com tampa, enquanto os sucos de cozimento se tornam a base de um molho saboroso a ser derramado nas porções. O molho é construído na mesma panela usada para a carne, recuperando o fundo dourado e permitindo- o espessá- lo brevemente.",
+      "animeContext": "Esta receita inspira-se tematicamente em Spy x Family, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (carne bovina e porco)",
+          "name": "carne picada mista (manzo e porco)",
           "note": null
         },
         "cipolla_dorata_tritata_finemente": {
-          "name": "Cebola dorata picado fino",
+          "name": "Cebola de ouro picada finamente",
           "note": null
         },
         "panko": {
-          "name": "Panko (pão ralado) ammorbidito in 2 cucchiai di leite",
+          "name": "Panko (pangrattato) amolecido em 2 colheres de sopa de leite",
           "note": null
         },
         "uovo_piccolo": {
-          "name": "Ovo piccolo",
+          "name": "ovo pequeno",
           "note": null
         },
         "sale": {
-          "name": "Sal",
+          "name": "sal",
           "note": null
         },
         "pepe_nero": {
-          "name": "Preto pepper",
+          "name": "Pimenta preta",
           "note": null
         },
         "noce_moscata_q_b": {
-          "name": "Noce moscata q.b",
+          "name": "noz moscada",
           "note": null
         },
         "ketchup": {
-          "name": "Ketchup",
+          "name": "ketchup",
           "note": null
         },
         "salsa_tonkatsu": {
-          "name": "Tonkatsu molho (o worcestershire)",
+          "name": "Molho Tonkatsu (ou Worcestershire)",
           "note": null
         },
         "burro": {
-          "name": "Manteiga",
+          "name": "manteiga",
           "note": null
         },
         "acqua": {
-          "name": "Água",
+          "name": "água",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa frigideira, marrom a cebola picada com um pouco de óleo até que se torne dourada e macia, deixe esfriar completamente.",
+        "step_2": "Em uma tigela grande, misturar a carne picada, a cebola refrigerada, o panko amolecido no leite, o ovo, o sal, a pimenta e um copo de noz- moscada.",
+        "step_3": "Ele amassa vigorosamente à mão por 3-4 minutos até que a mistura se torne compacta e ligeiramente pegajosa.",
+        "step_4": "Divida a massa em duas almôndegas ovais grandes.",
+        "step_5": "Mude a massa de uma mão para outra para eliminar bolhas de ar internas.",
+        "step_6": "Praticar uma ligeira pressão no centro de cada hambúrguer com o seu polegar (ele impedirá que ele incha excessivamente durante o cozimento).",
+        "step_7": "Aqueça um pouco de óleo numa panela a fogo médio.",
+        "step_8": "Cozinhe os hambúrgueres por 3 minutos por lado até dourado.",
+        "step_9": "Adicione 2 colheres de água na panela, cubra imediatamente com a tampa e deixe vapor a fogo lento durante 6-8 minutos.",
+        "step_10": "Transferir os hambúrgueres para os pratos.",
+        "step_11": "Na mesma panela com sucos de carne, combine manteiga, ketchup, molho tonkatsu, água e açúcar.",
+        "step_12": "Ferva por 2 minutos misturando até obter um molho brilhante e denso.",
+        "step_13": "Adicione o molho picante sobre o Hambagu e traga para a mesa com arroz ou legumes."
       }
     }
   }

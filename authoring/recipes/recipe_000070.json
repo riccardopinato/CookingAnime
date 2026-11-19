@@ -1,13 +1,13 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000070",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Demon Slayer (Mitsuri Kanroji)",
   "animeReferences": [
     {
       "workTitle": "Demon Slayer (Mitsuri Kanroji)",
-      "relation": "inspired",
+      "relation": "recurring_association",
       "season": null,
       "episode": null,
       "chapter": null
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 25,
   "servings": 6,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "foglie_di_ciliegio_in_salamoia",
       "quantity": 6,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "zucchero",
@@ -67,7 +67,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 360
     },
     {
       "id": "step_3",
@@ -76,45 +76,60 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Sakura Mochi",
-      "description": "A home-friendly Sakura Mochi that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Sakura Mochi — sweet rice cakes wrapped in salted cherry leaves",
+      "description": "Sakura Mochi contains an anko ball in a wrap of pink glutinous rice. After cooking and shaping, each sweet is wrapped in a cherry leaf preserved in brine, which offers aromatic and savory contrast. The anko is wrapped in rice molded with wet hands, while the cherry-salted leaf completes the aromatic contrast.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "riso_glutinoso_rosa": {
-          "name": "Rice glutinoso rosa (domyoji-ko o rice glutinoso cotto con una goccia di colorante rosa)",
+          "name": "pink glutinous rice (Domyoji-ko or cooked glutinous rice with a drop of pink dye)",
           "note": null
         },
         "pasta_di_fagioli_rossi_dolce": {
-          "name": "Sweet red bean paste sweet (anko) divisa in 6 palline",
+          "name": "sweet red bean paste (Anko) divided into 6 balls",
           "note": null
         },
         "foglie_di_ciliegio_in_salamoia": {
-          "name": "Foglie di ciliegio in salamoia (risciacquate ed asciugate)",
+          "name": "Cherry leaves in brine (drained and dried)",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "d_acqua": {
-          "name": "D'water",
+          "name": "water",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "Mix the glutinous rice with water, sugar and a tiny drop of pink food colouring.",
+        "step_2": "Steam or cook in the microwave for 6 minutes until the rice is tender and sticky.",
+        "step_3": "Beat the hot rice slightly with a pestle in order to mix the grains while maintaining a grainy and visible consistency (Kansai style).",
+        "step_4": "Divide pink rice into 6 equal portions.",
+        "step_5": "With your hands moistened, flatten a portion of rice on the palm of your hand, put a ball of Anko in the middle and wrap the rice around it perfectly sealing it.",
+        "step_6": "Wrap each Sakura Mochi with a leaf of salted cherry.",
+        "step_7": "The contrast between the filling dessert and the aromatic savour of the leaf will give the authentic flavor of Japanese spring!"
       }
     },
     "it": {
       "title": "Sakura Mochi (Mochi con Foglia di Ciliegio Salata)",
-      "description": "Un Sakura Mochi (Mochi con Foglia di Ciliegio Salata) casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "description": "Il Sakura Mochi racchiude una pallina di anko in un involucro di riso glutinoso rosa. Dopo la cottura e il modellamento, ogni dolcetto viene avvolto in una foglia di ciliegio conservata in salamoia, che offre il contrasto aromatico e sapido. L'anko è avvolto nel riso modellato con le mani umide, mentre la foglia salata di ciliegio completa il contrasto aromatico.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "riso_glutinoso_rosa": {
@@ -134,98 +149,107 @@
           "note": null
         },
         "d_acqua": {
-          "name": "d'acqua",
+          "name": "acqua",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, amalgama il riso glutinoso con l'acqua, lo zucchero e una piccolissima goccia di colorante alimentare rosa. Lascia cuocere al vapore o nel microonde coperto per 6 minuti finché il riso non è tenero e appiccicoso.",
-        "step_2": "Prosegui così: pesta leggermente il riso caldo con un pestello in modo da amalgamare i chicchi mantenendo comunque una consistenza granulosa e visibile (stile Kansai).",
-        "step_3": "Nella fase successiva, dividi il riso rosa in 6 porzioni uguali. Con le mani inumidite, appiattisci una porzione di riso sulla palmo della mano, metti al centro una pallina di Anko e avvolgi il riso attorno ad essa sigillandola perfettamente.",
-        "step_4": "Per completare, avvolgi ciascun Sakura Mochi con una foglia di ciliegio salata. Il contrasto tra il dolce del ripieno e il salato aromatico della foglia regalerà l'autentico sapore della primavera giapponese!"
+        "step_1": "Amalgama il riso glutinoso con l'acqua, lo zucchero e una piccolissima goccia di colorante alimentare rosa.",
+        "step_2": "Cuoci al vapore o nel microonde coperto per 6 minuti finché il riso non è tenero e appiccicoso.",
+        "step_3": "Pesta leggermente il riso caldo con un pestello in modo da mescolare i chicchi mantenendo comunque una consistenza granulosa e visibile (stile Kansai).",
+        "step_4": "Dividi il riso rosa in 6 porzioni uguali.",
+        "step_5": "Con le mani inumidite, appiattisci una porzione di riso sulla palmo della mano, metti al centro una pallina di Anko e avvolgi il riso attorno ad essa sigillandola perfettamente.",
+        "step_6": "Avvolgi ciascun Sakura Mochi con una foglia di ciliegio salata.",
+        "step_7": "Il contrasto tra il dolce del ripieno e il salato aromatico della foglia regalerà l'autentico sapore della primavera giapponese!"
       }
     },
     "es": {
-      "title": "Sakura Mochi",
-      "description": "Una versión práctica de Sakura Mochi para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Sakura mochi — pastelitos de arroz envueltos en hojas de cerezo saladas",
+      "description": "El Sakura Mochi encierra una bolita de anko en una envoltura de arroz glutinoso rosa. Después de la cocción y el modelado, cada caramelo se envuelve en una hoja de cerezo conservada en salmuera, que ofrece el contraste aromático y sabroso. El anko está envuelto en arroz moldeado con las manos húmedas, mientras que la hoja salada del cerezo completa el contraste aromático.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "riso_glutinoso_rosa": {
-          "name": "Arroz glutinoso rosa (domyoji-ko o arroz glutinoso cotto con una goccia di colorante rosa)",
+          "name": "arroz glutinoso rosa (Domyoji-ko o arroz glutinoso cocido con una gota de colorante rosa)",
           "note": null
         },
         "pasta_di_fagioli_rossi_dolce": {
-          "name": "Dulce rojo bean paste dulce (anko) divisa in 6 palline",
+          "name": "pasta de frijoles rojos dulce (Anko) dividida en 6 bolas",
           "note": null
         },
         "foglie_di_ciliegio_in_salamoia": {
-          "name": "Foglie di ciliegio in salamoia (risciacquate ed asciugate)",
+          "name": "Hojas de cerezo en salmuera (enjuagadas y secas)",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "d_acqua": {
-          "name": "D'agua",
+          "name": "Agua",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Mezcla el arroz glutinoso con agua, azúcar y una pequeña gota de colorante alimentario rosa.",
+        "step_2": "Cocine al vapor o en el microondas cubierto durante 6 minutos hasta que el arroz sea suave y pegajoso.",
+        "step_3": "Rompe ligeramente el arroz caliente con una peste para mezclar los granos manteniendo una textura granulada y visible (estilo Kansai).",
+        "step_4": "Divide el arroz rosado en 6 porciones iguales.",
+        "step_5": "Con las manos húmedas, aplana una porción de arroz sobre la palma de la mano, coloca en el centro una bola de Anko y envuelve el arroz alrededor de ella perfectamente sellada.",
+        "step_6": "Envuelve cada Sakura Mochi con una hoja de cerezo salada.",
+        "step_7": "¡El contraste entre el dulce del relleno y el salado aromático de la hoja dará el auténtico sabor de la primavera japonesa!"
       }
     },
     "fr": {
-      "title": "Sakura Mochi",
-      "description": "Une version pratique de Sakura Mochi à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Sakura mochi — gâteaux de riz en feuilles de cerisier salées",
+      "description": "Le Sakura Mochi enferme une boule d'anko dans une enveloppe de riz agluteux rose. Après la cuisson et le modelage, chaque gâteau est enveloppé dans une feuille de cerisier conservée dans de la saumure, qui offre le contraste aromatique et sapide. L'anko est enveloppé dans le riz modelé avec les mains humides, tandis que la feuille salée de cerisier complète le contraste aromatique.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "riso_glutinoso_rosa": {
-          "name": "Riz glutinoso rosa (domyoji-ko o riz glutinoso cotto con una goccia di colorante rosa)",
+          "name": "riz spiriteux rose (Domyoji-ko ou riz glutineux cuit avec une goutte de colorant rose)",
           "note": null
         },
         "pasta_di_fagioli_rossi_dolce": {
-          "name": "Doux rouge bean paste doux (anko) divisa in 6 palline",
+          "name": "pâtes de haricots rouges doux (Anko) divisées en 6 boules",
           "note": null
         },
         "foglie_di_ciliegio_in_salamoia": {
-          "name": "Foglie di ciliegio in salamoia (risciacquate ed asciugate)",
+          "name": "feuilles de cerisier en saumure (rincées et séchées)",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "d_acqua": {
-          "name": "D'eau",
+          "name": "eau",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Amalgame le riz glutineux avec de l'eau, du sucre et une petite goutte de colorant alimentaire rose.",
+        "step_2": "Faites cuire à la vapeur ou au micro-ondes couvert pendant 6 minutes jusqu'à ce que le riz soit tendre et collant.",
+        "step_3": "Il pète légèrement le riz chaud avec un pilon afin de mélanger les grains tout en maintenant une consistance granuleuse et visible (style Kansai).",
+        "step_4": "Diviser le riz rose en 6 portions égales.",
+        "step_5": "Avec les mains humides, aplatissez une portion de riz sur la paume de la main, placez au centre une boule d'Anko et enveloppez le riz autour d'elle en la scellant parfaitement.",
+        "step_6": "Enroulez chaque Sakura Mochi avec une feuille de cerisier salé.",
+        "step_7": "Le contraste entre le dessert de la farce et le salé aromatique de la feuille offrira le goût authentique du printemps japonais !"
       }
     },
     "de": {
-      "title": "Sakura Mochi",
-      "description": "Eine alltagstaugliche Version von Sakura Mochi für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Sakura Mochi – Reisküchlein in gesalzenen Kirschblättern",
+      "description": "Der Sakura Mochi enthält einen Ankoball in einer Hülle aus glutinösem rosa Reis. Nach dem Kochen und der Modellierung wird jede Süßigkeit in ein Kirschblatt eingewickelt, das in Salzlake aufbewahrt wird und den aromatischen und schmackhaften Kontrast bietet. Anko wird in Reis verpackt, der mit feuchten Händen geformt wird, während das salzige Kirschblatt den aromatischen Kontrast ergänzt.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "riso_glutinoso_rosa": {
-          "name": "Reis glutinoso rosa (domyoji-ko o Reis glutinoso cotto con una goccia di colorante rosa)",
+          "name": "Rose glutinöser Reis (Domyoji-ko oder glutinöser Reis, gekocht mit einem Tropfen rosa Farbstoff)",
           "note": null
         },
         "pasta_di_fagioli_rossi_dolce": {
-          "name": "Süß rot bean paste süß (anko) divisa in 6 palline",
+          "name": "Pasta aus süßen roten Bohnen (Anko) geteilt in 6 Kugeln",
           "note": null
         },
         "foglie_di_ciliegio_in_salamoia": {
-          "name": "Foglie di ciliegio in salamoia (risciacquate ed asciugate)",
+          "name": "Kirschblätter in Salzlake (gespült und getrocknet)",
           "note": null
         },
         "zucchero": {
@@ -233,48 +257,54 @@
           "note": null
         },
         "d_acqua": {
-          "name": "D'Wasser",
+          "name": "Wasser",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Amalgame glutinöser Reis mit Wasser, Zucker und einem kleinen Tropfen rosa Lebensmittelfarbstoff.",
+        "step_2": "Kochen Sie 6 Minuten lang im Dampf oder in der überdachten Mikrowelle, bis der Reis zart und klebrig ist.",
+        "step_3": "Drücken Sie den warmen Reis leicht mit einer Plage, um die Körner zu mischen und dabei eine granulöse und sichtbare Textur (Kansai-Stil) zu halten.",
+        "step_4": "Teilen Sie den rosa Reis in 6 gleiche Portionen.",
+        "step_5": "Mit den befeuchteten Händen lege eine Portion Reis auf die Handfläche, lege einen Anko-Ball in die Mitte und wickle den Reis um ihn herum und versiegele ihn perfekt.",
+        "step_6": "Umwickle jeden Sakura Mochi mit einem Blatt salzigen Kirschbaums.",
+        "step_7": "Der Kontrast zwischen der Süßigkeit der Füllung und dem aromatischen Salz des Blattes wird den authentischen Geschmack des japanischen Frühlings schenken!"
       }
     },
     "pt": {
-      "title": "Sakura Mochi",
-      "description": "Uma versão prática de Sakura Mochi para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Sakura mochi — bolinhos de arroz em folhas de cerejeira salgadas",
+      "description": "O Sakura Mochi contém uma bola de anko num envoltório de arroz glutinoso rosa. Após o cozimento e modelamento, cada doce é enrolado numa folha de cereja preservada em salmoura, que oferece contraste aromático e saboroso. O anko é enrolado em arroz moldado com mãos molhadas, enquanto a folha com sal de cereja completa o contraste aromático.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer (Mitsuri Kanroji), Kimi ni Todoke. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "riso_glutinoso_rosa": {
-          "name": "Arroz glutinoso rosa (domyoji-ko o arroz glutinoso cotto con una goccia di colorante rosa)",
+          "name": "arroz glutinoso rosa (domyoji- ko ou arroz glutinoso cozido com uma gota de corante rosa)",
           "note": null
         },
         "pasta_di_fagioli_rossi_dolce": {
-          "name": "Doce vermelho bean paste doce (anko) divisa in 6 palline",
+          "name": "pasta de feijão vermelho doce (Anko) dividida em 6 bolas",
           "note": null
         },
         "foglie_di_ciliegio_in_salamoia": {
-          "name": "Foglie di ciliegio in salamoia (risciacquate ed asciugate)",
+          "name": "Folhas de cereja em salmoura (drenadas e secas)",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "d_acqua": {
-          "name": "D'água",
+          "name": "água",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Misture o arroz glutinoso com água, açúcar e uma pequena gota de coloração de alimentos rosa.",
+        "step_2": "Steam ou cozinhe no microondas por 6 minutos até que o arroz esteja macio e pegajoso.",
+        "step_3": "Bata o arroz quente ligeiramente com um pile para misturar os grãos, mantendo uma consistência grãosa e visível (estilo Kansai).",
+        "step_4": "Dividir arroz rosa em 6 porções iguais.",
+        "step_5": "Com as mãos hidratadas, aplanar uma porção de arroz na palma da mão, colocar uma bola de Anko no meio e enrolar o arroz em torno dela perfeitamente selando- o.",
+        "step_6": "Enrole cada Sakura Mochi com uma folha de cereja salgada.",
+        "step_7": "O contraste entre a sobremesa de enchimento e o sabor aromático da folha dará o sabor autêntico da primavera japonesa!"
       }
     }
   }

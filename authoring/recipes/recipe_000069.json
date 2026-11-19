@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000069",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars! - Shokugeki no Soma",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 40,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -71,8 +71,8 @@
     },
     {
       "id": "buccia_grattugiata_di_1_yuzu",
-      "quantity": null,
-      "unit": null
+      "quantity": 1,
+      "unit": "piece"
     },
     {
       "id": "farina",
@@ -87,7 +87,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 900
     },
     {
       "id": "step_3",
@@ -96,61 +96,81 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 3000
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 14400
     }
   ],
   "locales": {
     "en": {
-      "title": "Yuzu Cheesecake",
-      "description": "A Japanese-style Yuzu Cheesecake designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Baked Yuzu Cheesecake",
+      "description": "The Yuzu Cheesecake has a base of cookies and butter and a scented cheese filling with juice and yuzu peel. After cooking in the oven it must cool and rest in the refrigerator to adjust the consistency before cutting. The cheesecake must cool before resting in the refrigerator: the centre is slightly flickering and stabilizes without excessive cooking.",
+      "animeContext": "This recipe is thematically inspired by Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "biscotti_secco": {
-          "name": "Biscotti secco (tipo digestive)",
+          "name": "Dry biscuits (digestive type)",
           "note": null
         },
         "burro_fuso": {
-          "name": "Butter fuso",
+          "name": "melted butter",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Cream cheese (tipo philadelphia) ammorbidito",
+          "name": "soft cheese (Philadelphia type)",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy cream",
+          "name": "fresh cream",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "uovo": {
-          "name": "Egg",
+          "name": "egg",
           "note": null
         },
         "succo_di_yuzu": {
-          "name": "Succo di yuzu (o lemon/mandarino)",
+          "name": "Yuzu juice (or lemon/mandarin)",
           "note": null
         },
         "buccia_grattugiata_di_1_yuzu": {
-          "name": "Buccia grated di 1 yuzu",
+          "name": "grated yuzu peel",
           "note": null
         },
         "farina": {
-          "name": "Flour",
+          "name": "flour",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Finely chop the biscuits and combine them with melted butter.",
+        "step_2": "Compact them on the bottom of a cake tin lined with baking paper and put in the fridge for 15 minutes.",
+        "step_3": "In a bowl, cream cheese spread with sugar.",
+        "step_4": "Mix the eggs one at a time and mix well.",
+        "step_5": "Combine fresh cream, juice and Yuzu zest and finally sifted flour until the mixture is smooth and velvety.",
+        "step_6": "Add the cream to the biscuit base.",
+        "step_7": "Cook in a static oven preheated to 160°C for about 45-50 minutes (the centre must remain slightly flickering).",
+        "step_8": "Let cool at room temperature and then rest in the fridge for at least 4 hours before serving decorating with thin slices of citrus."
       }
     },
     "it": {
       "title": "Yuzu Cheesecake (Cheesecake Cotta allo Yuzu)",
-      "description": "Un Yuzu Cheesecake (Cheesecake Cotta allo Yuzu) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "La Yuzu Cheesecake ha una base di biscotti e burro e un ripieno al formaggio profumato con succo e scorza di yuzu. Dopo la cottura in forno deve raffreddarsi e riposare in frigorifero per assestare la consistenza prima del taglio. La cheesecake deve raffreddarsi prima del riposo in frigorifero: il centro leggermente tremolante si stabilizza senza una cottura eccessiva.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "biscotti_secco": {
@@ -182,7 +202,7 @@
           "note": null
         },
         "buccia_grattugiata_di_1_yuzu": {
-          "name": "buccia grattugiata di 1 Yuzu",
+          "name": "scorza grattugiata di yuzu",
           "note": null
         },
         "farina": {
@@ -191,129 +211,141 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, trita finemente i biscotti ed uniscili al burro fuso. Compattali sul fondo di una tortiera foderata di carta forno e metti in frigo per 15 minuti.",
-        "step_2": "Prosegui così: riunisci in una ciotola lavora a crema il formaggio spalmabile con lo zucchero. Unisci le uova una alla volta amalgamando bene.",
-        "step_3": "Nella fase successiva, unisci la panna fresca, il succo e la scorza di Yuzu ed infine la farina setacciata finché il composto non risulta liscio e vellutato. Aggiungi la crema sulla base di biscotto. Lascia cuocere in forno statico preriporta a temperaturato a 160°C per circa 45-50 minuti (il centro deve rimanere leggermente tremolante).",
-        "step_4": "Per completare, fai raffreddare a temperatura ambiente e poi riposare in frigo per almeno 4 ore prima di porta in tavolare decorando con fette sottili di agrumi."
+        "step_1": "Trita finemente i biscotti ed uniscili al burro fuso.",
+        "step_2": "Compattali sul fondo di una tortiera foderata di carta forno e metti in frigo per 15 minuti.",
+        "step_3": "In una ciotola, lavora a crema il formaggio spalmabile con lo zucchero.",
+        "step_4": "Unisci le uova una alla volta amalgamando bene.",
+        "step_5": "Unisci la panna fresca, il succo e la scorza di Yuzu ed infine la farina setacciata finché il composto non risulta liscio e vellutato.",
+        "step_6": "Aggiungi la crema sulla base di biscotto.",
+        "step_7": "Cuoci in forno statico preriscaldato a 160°C per circa 45-50 minuti (il centro deve rimanere leggermente tremolante).",
+        "step_8": "Fai raffreddare a temperatura ambiente e poi riposare in frigo per almeno 4 ore prima di servire decorando con fette sottili di agrumi."
       }
     },
     "es": {
-      "title": "Yuzu Cheesecake",
-      "description": "Una versión práctica de Yuzu Cheesecake para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tarta de queso al yuzu al horno",
+      "description": "La Yuzu Cheesecake tiene una base de galletas y mantequilla y un relleno de queso perfumado con jugo y corteza de yuzu. Después de la cocción en el horno debe enfriarse y descansar en la nevera para ajustar la consistencia antes del corte. La cheesecake debe enfriarse antes del descanso en la nevera: el centro ligeramente temblando se estabiliza sin una cocción excesiva.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "biscotti_secco": {
-          "name": "Biscotti secco (tipo digestive)",
+          "name": "Galletas secas (tipo digestivo)",
           "note": null
         },
         "burro_fuso": {
-          "name": "Mantequilla fuso",
+          "name": "mantequilla derretida",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Nata cheese (tipo philadelphia) ammorbidito",
+          "name": "queso esparcido (Tipo Filadelfia) suavizado",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy nata",
+          "name": "crema fresca",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "uovo": {
-          "name": "Huevo",
+          "name": "huevo",
           "note": null
         },
         "succo_di_yuzu": {
-          "name": "Succo di yuzu (o limón/mandarino)",
+          "name": "jugo de Yuzu (o limón/mandarín)",
           "note": null
         },
         "buccia_grattugiata_di_1_yuzu": {
-          "name": "Buccia rallado di 1 yuzu",
+          "name": "corteza rallado de yuzu",
           "note": null
         },
         "farina": {
-          "name": "Harina",
+          "name": "harina",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Triturar finamente las galletas y unirlas a la mantequilla fundida.",
+        "step_2": "Compáralos en el fondo de una tortera forrada de papel horno y ponlos en la nevera durante 15 minutos.",
+        "step_3": "En un tazón, trabaja con crema el queso con azúcar.",
+        "step_4": "Incorpora los huevos de uno en uno y mezcla bien después de cada adición.",
+        "step_5": "Mezcla la crema fresca, el jugo y la corteza de Yuzu y, finalmente, la harina tamizada hasta que la mezcla esté lisa y aterciopelada.",
+        "step_6": "Añade la crema sobre la base de la galleta.",
+        "step_7": "Cocinar en horno estático precalentado a 160°C durante unos 45-50 minutos (el centro debe permanecer ligeramente temblando).",
+        "step_8": "Enfría a temperatura ambiente y luego descansa en la nevera durante al menos 4 horas antes de servir decorando con rodajas delgadas de cítricos."
       }
     },
     "fr": {
-      "title": "Yuzu Cheesecake",
-      "description": "Une version pratique de Yuzu Cheesecake à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Cheesecake au yuzu cuit au four",
+      "description": "La Yuzu Cheesecake dispose d'une base de biscuits et de beurre et d'une farce au fromage parfumée avec du jus et de l'écorce de yuzu. Après la cuisson au four, elle doit se refroidir et se reposer au réfrigérateur pour fixer la consistance avant la coupe. Le cheesecake doit se refroidir avant le repos au réfrigérateur: le centre légèrement tremblant se stabilise sans cuisson excessive.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "biscotti_secco": {
-          "name": "Biscotti secco (tipo digestive)",
+          "name": "biscuits secs (type Digestive)",
           "note": null
         },
         "burro_fuso": {
-          "name": "Beurre fuso",
+          "name": "beurre fondu",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Crème cheese (tipo philadelphia) ammorbidito",
+          "name": "fromage enduit (Type Philadelphie) adouci",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy crème",
+          "name": "crème fraîche",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "uovo": {
-          "name": "Œuf",
+          "name": "œuf",
           "note": null
         },
         "succo_di_yuzu": {
-          "name": "Succo di yuzu (o citron/mandarino)",
+          "name": "jus de Yuzu (ou citron/mandarine)",
           "note": null
         },
         "buccia_grattugiata_di_1_yuzu": {
-          "name": "Buccia râpé di 1 yuzu",
+          "name": "zeste râpée de yuzu",
           "note": null
         },
         "farina": {
-          "name": "Farine",
+          "name": "farine",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coupez finement les biscuits et joignez-les au beurre fondu.",
+        "step_2": "Compactez-les au fond d'une tourte en papier four et mettez-les au réfrigérateur pendant 15 minutes.",
+        "step_3": "Dans un bol, le fromage à la crème est enduit de sucre.",
+        "step_4": "Rassemblez les œufs une à la fois en les mélangeant bien.",
+        "step_5": "Combinez la crème fraîche, le jus et l'écorce de Yuzu et enfin la farine tamisée jusqu'à ce que le mélange soit lisse et velouté.",
+        "step_6": "Ajoutez la crème sur la base de biscuit.",
+        "step_7": "Faites cuire au four statique préchauffé à 160°C pendant environ 45-50 minutes (le centre doit rester légèrement tremblant).",
+        "step_8": "Faites refroidir à température ambiante et reposez-vous au réfrigérateur pendant au moins 4 heures avant de servir en décorant avec des tranches minces d'agrumes."
       }
     },
     "de": {
-      "title": "Yuzu Cheesecake",
-      "description": "Eine alltagstaugliche Version von Yuzu Cheesecake für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Gebackener Yuzu-Käsekuchen",
+      "description": "Yuzu Cheesecake hat eine Basis von Keksen und Butter und eine Füllung mit Käse duftend mit Yuzu-Saft und Schale. Nach dem Backen im Ofen muss er sich abkühlen und im Kühlschrank ruhen, um die Konsistenz vor dem Schneiden zu beruhigen. Der Cheesecake muss vor der Ruhe im Kühlschrank abkühlen: das leicht zitternde Zentrum stabilisiert sich ohne übermäßiges Kochen.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "biscotti_secco": {
-          "name": "Biscotti secco (tipo digestive)",
+          "name": "Trockenkekse (Typ Digestive)",
           "note": null
         },
         "burro_fuso": {
-          "name": "Butter fuso",
+          "name": "geschmolzene Butter",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Sahne cheese (tipo philadelphia) ammorbidito",
+          "name": "Käse (Typ Philadelphia) geschmeidig gemacht",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy Sahne",
+          "name": "Frischsahne",
           "note": null
         },
         "zucchero": {
@@ -325,11 +357,11 @@
           "note": null
         },
         "succo_di_yuzu": {
-          "name": "Succo di yuzu (o Zitrone/mandarino)",
+          "name": "Yuzu-Saft (oder Zitrone/Mandarin)",
           "note": null
         },
         "buccia_grattugiata_di_1_yuzu": {
-          "name": "Buccia gerieben di 1 yuzu",
+          "name": "abgeriebene Yuzu-Schale",
           "note": null
         },
         "farina": {
@@ -338,59 +370,67 @@
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Zerkleinern Sie die Kekse fein und vereinen Sie sie mit geschmolzener Butter.",
+        "step_2": "Packen Sie sie auf dem Boden einer Tortier mit Backpapier und legen Sie sie in den Kühlschrank für 15 Minuten.",
+        "step_3": "In einer Schüssel arbeitet der Käse mit Zucker in Sahne.",
+        "step_4": "Verbinden Sie die Eier einzeln gut zusammen.",
+        "step_5": "Kombinieren Sie die frische Sahne, den Saft und die Schale von Yuzu und schließlich das gesiebte Mehl, bis die Mischung glatt und samtig ist.",
+        "step_6": "Fügen Sie die Creme auf Keksbasis hinzu.",
+        "step_7": "Kochen Sie im vorgeheizten statischen Ofen bei 160 °C für ca. 45-50 Minuten (die Mitte sollte leicht zittern).",
+        "step_8": "Lassen Sie es auf Raumtemperatur abkühlen und dann mindestens 4 Stunden im Kühlschrank ruhen, bevor Sie mit dünnen Scheiben von Zitrusfrüchten servieren."
       }
     },
     "pt": {
-      "title": "Yuzu Cheesecake",
-      "description": "Uma versão prática de Yuzu Cheesecake para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Cheesecake de yuzu no forno",
+      "description": "O Yuzu Cheesecake tem uma base de biscoitos e manteiga e um recheio de queijo perfumado com suco e casca de yuzu. Depois de cozinhar no forno, ele deve esfriar e descansar no frigorífico para ajustar a consistência antes do corte. O cheesecake deve esfriar antes de descansar no frigorífico: o centro está ligeiramente piscando e estabiliza- se sem cozimento excessivo.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars! - Shokugeki no Soma, Kaichou wa Maid-sama!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "biscotti_secco": {
-          "name": "Biscotti secco (tipo digestive)",
+          "name": "Biscoitos secos (tipo digestivo)",
           "note": null
         },
         "burro_fuso": {
-          "name": "Manteiga fuso",
+          "name": "manteiga derretida",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Natas cheese (tipo philadelphia) ammorbidito",
+          "name": "queijo macio (tipo Filadelfia)",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy natas",
+          "name": "creme fresco",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "uovo": {
-          "name": "Ovo",
+          "name": "ovo",
           "note": null
         },
         "succo_di_yuzu": {
-          "name": "Succo di yuzu (o limão/mandarino)",
+          "name": "Suco de Yuzu (ou limão/mandarina)",
           "note": null
         },
         "buccia_grattugiata_di_1_yuzu": {
-          "name": "Buccia ralado di 1 yuzu",
+          "name": "pele de yuzu ralado",
           "note": null
         },
         "farina": {
-          "name": "Farinha",
+          "name": "farinha",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte finamente os biscoitos e combine- os com manteiga derretida.",
+        "step_2": "Compactá- las no fundo de uma lata de bolo forrada com papel para assar e colocar na geladeira por 15 minutos.",
+        "step_3": "Numa tigela, queijo creme espalhado com açúcar.",
+        "step_4": "Misture os ovos um de cada vez e misture bem.",
+        "step_5": "Combine creme fresco, suco e zeste de Yuzu e, finalmente, varreu a farinha até que a mistura seja suave e veluda.",
+        "step_6": "Adicione o creme à base de biscoitos.",
+        "step_7": "Cozinhe em um forno estático pré- aquecido a 160°C por cerca de 45- 50 minutos (o centro deve permanecer ligeiramente piscando).",
+        "step_8": "Deixe esfriar à temperatura ambiente e, em seguida, descanse no frigorífico durante pelo menos 4 horas antes de servir decoração com fatias finas de citrinos."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000078",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "albume_d_uovo",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "sake",
@@ -111,53 +111,77 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 600
     },
     {
       "id": "step_4",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": 60
+    },
+    {
+      "id": "step_10",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Ebi Chili",
-      "description": "A practical home-cooking version of Ebi Chili, preserving the dish’s characteristic ingredients, texture and cooking method with a clear repeatable sequence.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Cooking Master Boy. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Ebi Chili — spicy tomato-ginger shrimp",
+      "description": "The Ebi Chili are shrimps slightly covered with starch and white, salted in a spicy tomato sauce with ginger and garlic. The cooking is short to preserve a firm consistency; the dish is served immediately with white rice. The shrimps return to the pan only after the spicy sauce thickens, so they are coated without prolonging the cooking.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Cooking Master Boy. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "gamberi_grandi_sgusciati_e_puliti": {
-          "name": "Shrimp grandi sgusciati e puliti",
+          "name": "large prawns, peeled and cleaned",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Cornstarch",
+          "name": "maize starch",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Egg white d'egg",
+          "name": "egg white",
           "note": null
         },
         "sake": {
-          "name": "Sake (per la marinatura)",
+          "name": "sake (for marinating)",
           "note": null
         },
         "zenzero_tritato": {
-          "name": "Ginger tritato",
+          "name": "minced ginger",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'garlic tritato",
+          "name": "chopped garlic clove",
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring onion tritato",
+          "name": "chopped onion",
           "note": null
         },
         "ketchup": {
-          "name": "Ketchup",
+          "name": "ketchup",
           "note": null
         },
         "pasta_doubanjiang": {
-          "name": "Pasta doubanjiang (o oil piccante)",
+          "name": "Doubanjiang pasta (or spicy oil)",
           "note": null
         },
         "salsa_di_soia": {
@@ -165,28 +189,34 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Chicken broth",
+          "name": "chicken broth",
           "note": null
         },
         "amido_scioglimento": {
-          "name": "Amido scioglimento",
+          "name": "starch melting",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare and measure all ingredients before applying heat, keeping garnishes and finishing sauces separate until the final stage.",
-        "step_2": "Cook the main component with controlled heat, following the intended technique and watching texture and doneness rather than relying only on time.",
-        "step_3": "Add the remaining seasoning or liquid and continue only until the flavors combine and the characteristic texture of the dish is reached.",
-        "step_4": "Assemble neatly, add the final garnish and serve at the recommended temperature while the contrasting textures are still clear."
+        "step_1": "Dry the shrimp well with kitchen paper.",
+        "step_2": "In a bowl, mix the shrimp with the album, the Sake and the cornstarch.",
+        "step_3": "Leave 10 minutes to rest.",
+        "step_4": "Heat 2 tablespoons of oil in the wok and skip shrimp for 1-2 minutes until they turn pink.",
+        "step_5": "Remove them from the wok and save them.",
+        "step_6": "In the same wok add a little oil, fry garlic, ginger and Doubanjiang spicy pasta over low heat until they release their aromas.",
+        "step_7": "Add ketchup, chicken broth, soy sauce and sugar.",
+        "step_8": "Bring to a boil, then add the dissolved starch in a spoonful of water to thicken the sauce.",
+        "step_9": "Return the shrimp to the pan with the chopped spring onion and toss for 1 minute to coat them completely in the glossy, spicy sauce.",
+        "step_10": "Serve immediately with white rice."
       }
     },
     "it": {
       "title": "Ebi Chili (Gamberi Saltati in Salsa Piccante al Pomodoro e Zenzero)",
-      "description": "Una versione casalinga e pratica di Ebi Chili (Gamberi Saltati in Salsa Piccante al Pomodoro e Zenzero), che mantiene ingredienti caratteristici, consistenza e tecnica del piatto con una sequenza chiara e ripetibile.",
+      "description": "Gli Ebi Chili sono gamberi leggermente rivestiti di amido e albume, saltati in una salsa piccante al pomodoro con zenzero e aglio. La cottura è breve per conservare una consistenza soda; il piatto si serve subito con riso bianco. I gamberi tornano in padella solo dopo che la salsa piccante si è addensata, così vengono rivestiti senza prolungare la cottura.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Cooking Master Boy. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "gamberi_grandi_sgusciati_e_puliti": {
@@ -202,7 +232,7 @@
           "note": null
         },
         "sake": {
-          "name": "Sake (per la marinatura)",
+          "name": "sake (per la marinatura)",
           "note": null
         },
         "zenzero_tritato": {
@@ -210,7 +240,7 @@
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "d'aglio tritato",
+          "name": "spicchio d'aglio tritato",
           "note": null
         },
         "cipollotto_tritato": {
@@ -218,7 +248,7 @@
           "note": null
         },
         "ketchup": {
-          "name": "Ketchup",
+          "name": "ketchup",
           "note": null
         },
         "pasta_doubanjiang": {
@@ -243,51 +273,57 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, asciuga bene i gamberi con carta da cucina. Riunisci in una ciotola amalgamali con l'albume, il Sake e l'amido di mais. Lascia riposare 10 minuti.",
-        "step_2": "Prosegui così: porta a temperatura 2 cucchiai d'olio nel wok e salta i gamberi per 1-2 minuti finché diventano rosa. Rimuovili dal wok e tienili da parte.",
-        "step_3": "Nella fase successiva, nel medesimo wok unisci un filo d'olio, soffriggi a fuoco basso l'aglio, lo zenzero e la pasta piccante Doubanjiang finché sprigionano i loro aromi. Aggiungi il ketchup, il brodo di pollo, la salsa di soia e lo zucchero. Porta a bollore, poi unisci l'amido disciolto in un cucchiaio d'acqua per far addensare la salsa.",
-        "step_4": "Per completare, rimettere i gamberi in padella insieme al cipollotto tritato, salta per 1 minuto per avvolgerli completamente nella salsa lucida e piccante. Porta in tavolare subito con riso bianco."
+        "step_1": "Asciuga bene i gamberi con carta da cucina.",
+        "step_2": "In una ciotola, mescola i gamberi con l'albume, il Sake e l'amido di mais.",
+        "step_3": "Lascia riposare 10 minuti.",
+        "step_4": "Scalda 2 cucchiai d'olio nel wok e salta i gamberi per 1-2 minuti finché diventano rosa.",
+        "step_5": "Rimuovili dal wok e tienili da parte.",
+        "step_6": "Nel medesimo wok unisci un filo d'olio, soffriggi a fuoco basso l'aglio, lo zenzero e la pasta piccante Doubanjiang finché sprigionano i loro aromi.",
+        "step_7": "Aggiungi il ketchup, il brodo di pollo, la salsa di soia e lo zucchero.",
+        "step_8": "Porta a bollore, poi unisci l'amido disciolto in un cucchiaio d'acqua per far addensare la salsa.",
+        "step_9": "Rimetti i gamberi in padella insieme al cipollotto tritato, salta per 1 minuto per avvolgerli completamente nella salsa lucida e piccante.",
+        "step_10": "Servi subito con riso bianco."
       }
     },
     "es": {
-      "title": "Ebi Chili",
-      "description": "Una versión práctica de Ebi Chili para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Cooking Master Boy. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Ebi chili — gambas salteadas en salsa picante de tomate y jengibre",
+      "description": "Los Ebi Chili son camarones ligeramente recubiertos de almidón y clara de huevo, saltados en una salsa picante de tomate con jengibre y ajo. La cocción es corta para conservar una consistencia sólida; el plato se sirve inmediatamente con arroz blanco. Los camarones vuelven a la sartén sólo después de que la salsa picante se espesó, por lo que se recubren sin prolongar la cocción.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Cooking Master Boy. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "gamberi_grandi_sgusciati_e_puliti": {
-          "name": "Gambas grandi sgusciati e puliti",
+          "name": "Gambas grandes, desvainadas y limpias",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Maicena",
+          "name": "almidón de maíz",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Huevo blanco d'huevo",
+          "name": "Albúminas de huevo",
           "note": null
         },
         "sake": {
-          "name": "Sake (per la marinatura)",
+          "name": "Sake (para el marinado)",
           "note": null
         },
         "zenzero_tritato": {
-          "name": "Jengibre tritato",
+          "name": "jengibre picado",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ajo tritato",
+          "name": "Racimos de ajo picados",
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring cebolla tritato",
+          "name": "cipollotto picado",
           "note": null
         },
         "ketchup": {
-          "name": "Ketchup",
+          "name": "ketchup",
           "note": null
         },
         "pasta_doubanjiang": {
-          "name": "Pasta doubanjiang (o aceite piccante)",
+          "name": "pasta Doubanjiang (o aceite picante)",
           "note": null
         },
         "salsa_di_soia": {
@@ -295,97 +331,109 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Pollo caldo",
+          "name": "caldo de pollo",
           "note": null
         },
         "amido_scioglimento": {
-          "name": "Amido scioglimento",
+          "name": "Almidón disolución",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Seca bien los camarones con papel de cocina.",
+        "step_2": "En un tazón, mezcla las gambas con la clara de huevo, el Sake y el almidón de maíz.",
+        "step_3": "Deja descansar 10 minutos.",
+        "step_4": "Calienta 2 cucharadas de aceite en el wok y salta las gambas durante 1-2 minutos hasta que se pongan rosas.",
+        "step_5": "Sácalos del wok y mantenlos a un lado.",
+        "step_6": "En el mismo wok une un hilo de aceite, sofree bajo fuego el ajo, el jengibre y la pasta picante Doubanjiang hasta que liberen sus aromas.",
+        "step_7": "Añade ketchup, caldo de pollo, salsa de soja y azúcar.",
+        "step_8": "Lleva a embotellar, luego une el almidón disuelto en una cucharada de agua para hacer espesar la salsa.",
+        "step_9": "Pon las gambas en la sartén junto con la cebolla picada, salta durante 1 minuto para envolverlas completamente en la salsa brillante y picante.",
+        "step_10": "Sirve de inmediato con arroz blanco."
       }
     },
     "fr": {
-      "title": "Ebi Chili",
-      "description": "Une version pratique de Ebi Chili à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Cooking Master Boy. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Ebi chili — crevettes sautées à la tomate épicée et au gingembre",
+      "description": "Les Ebi Chilis sont des crevettes légèrement enrobées d'amidon et d'albums, sautés dans une sauce épicée à la tomate avec du gingembre et de l'ail. La cuisson est courte pour conserver une consistance soda; le plat se sert immédiatement avec du riz blanc. Les crevettes ne reviennent dans la poêle qu'après que la sauce épicée s'est épaissie, de sorte qu'elles sont recouvertes sans prolonger la cuisson.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Cooking Master Boy. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "gamberi_grandi_sgusciati_e_puliti": {
-          "name": "Crevettes grandi sgusciati e puliti",
+          "name": "crevettes grandes décortiquées et propres",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Fécule de maïs",
+          "name": "amidon de maïs",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Œuf blanc d'œuf",
+          "name": "Albums d'œufs",
           "note": null
         },
         "sake": {
-          "name": "Sake (per la marinatura)",
+          "name": "saké (pour la marinade)",
           "note": null
         },
         "zenzero_tritato": {
-          "name": "Gingembre tritato",
+          "name": "gingembre haché",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'ail tritato",
+          "name": "gousse d'ail haché",
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring oignon tritato",
+          "name": "ciboulet haché",
           "note": null
         },
         "ketchup": {
-          "name": "Ketchup",
+          "name": "ketchup",
           "note": null
         },
         "pasta_doubanjiang": {
-          "name": "Pasta doubanjiang (o huile piccante)",
+          "name": "pâte Doubanjiang (ou huile piquante)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Poulet bouillon",
+          "name": "bouillon de poulet",
           "note": null
         },
         "amido_scioglimento": {
-          "name": "Amido scioglimento",
+          "name": "amidon fonte",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Sèche bien les crevettes avec du papier de cuisine.",
+        "step_2": "Dans un bol, il mélange les crevettes avec l'albume, le Sake et l'amidon de maïs.",
+        "step_3": "Laissez reposer 10 minutes.",
+        "step_4": "Chauffez 2 cuillères à soupe d'huile dans le wok et sautez les crevettes pendant 1 à 2 minutes jusqu'à ce qu'elles deviennent roses.",
+        "step_5": "Enlevez-les du wok et gardez-les de côté.",
+        "step_6": "Dans le même wok, unissez un fil d'huile, faites cuire à bas feu l'ail, le gingembre et la pâte piquante Doubanjiang jusqu'à ce qu'ils libèrent leurs arômes.",
+        "step_7": "Ajoutez le ketchup, le bouillon de poulet, la sauce soja et le sucre.",
+        "step_8": "Emmène à la bulle, puis ajoute l'amidon dissous dans une cuillère à soupe d'eau pour faire épaissir la sauce.",
+        "step_9": "Remettez les crevettes dans la poêle avec l'oignon haché, sautez pendant 1 minute pour les enrouler complètement dans la sauce brillante et épicée.",
+        "step_10": "Servez-vous avec du riz blanc tout de suite."
       }
     },
     "de": {
-      "title": "Ebi Chili",
-      "description": "Eine alltagstaugliche Version von Ebi Chili für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Cooking Master Boy inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Ebi Chili – Garnelen in scharfer Tomaten-Ingwer-Sauce",
+      "description": "Die Ebi Chili sind leicht mit Stärke und Album überzogene Garnelen, die in eine würzige Tomatensoße mit Ingwer und Knoblauch gesprungen sind. Das Kochen ist kurz, um eine feste Konsistenz zu bewahren; das Gericht wird sofort mit weißem Reis serviert. Die Garnelen kehren erst in die Pfanne zurück, nachdem sich die würzige Soße verdichtet hat, so dass sie ohne Verlängerung des Kochens beschichtet werden.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Cooking Master Boy inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "gamberi_grandi_sgusciati_e_puliti": {
-          "name": "Garnelen grandi sgusciati e puliti",
+          "name": "Garnelen, groß, geschält und sauber",
           "note": null
         },
         "amido_di_mais": {
@@ -393,23 +441,23 @@
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Ei weiß d'Ei",
+          "name": "Eiweiß",
           "note": null
         },
         "sake": {
-          "name": "Sake (per la marinatura)",
+          "name": "Sake (zur Marinierung)",
           "note": null
         },
         "zenzero_tritato": {
-          "name": "Ingwer tritato",
+          "name": "Ingwer, gehackt",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'Knoblauch tritato",
+          "name": "Knoblauchzehe, gehackt",
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring Zwiebel tritato",
+          "name": "gehackte Zwiebel",
           "note": null
         },
         "ketchup": {
@@ -417,11 +465,11 @@
           "note": null
         },
         "pasta_doubanjiang": {
-          "name": "Pasta doubanjiang (o Öl piccante)",
+          "name": "Doubanjiang-Paste (oder würziges Öl)",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "zucchero": {
@@ -429,60 +477,66 @@
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Hähnchen Brühe",
+          "name": "Hühnerbrühe",
           "note": null
         },
         "amido_scioglimento": {
-          "name": "Amido scioglimento",
+          "name": "Stärke Auflösung",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Trocknet die Garnelen mit Küchenpapier gut.",
+        "step_2": "In einer Schüssel mischt er die Garnelen mit Albume, Sake und Maisstärke.",
+        "step_3": "Lassen Sie 10 Minuten ruhen.",
+        "step_4": "2 Esslöffel Öl im Wok erhitzen und die Garnelen 1–2 Minuten unter Rühren braten, bis sie rosa werden.",
+        "step_5": "Entferne sie aus dem Wok und halte sie beiseite.",
+        "step_6": "In demselben Wok mischst du einen Ölfaden, brennst Knoblauch, Ingwer und würzige Doubanjiang-Paste nieder, bis sie ihre Aromen freisetzen.",
+        "step_7": "Fügen Sie Ketchup, Hühnerbrühe, Sojasoße und Zucker hinzu.",
+        "step_8": "Bringt sie zum Blenden, dann mischen Sie die gelöste Stärke in einen Löffel Wasser, um die Soße zu verdichten.",
+        "step_9": "Legen Sie die Garnelen in die Pfanne zusammen mit der gehackten Zwiebel, springt für 1 Minute, um sie vollständig in die glänzende und würzige Soße einwickeln.",
+        "step_10": "Servieren Sie sofort mit weißem Reis."
       }
     },
     "pt": {
-      "title": "Ebi Chili",
-      "description": "Uma versão prática de Ebi Chili para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Cooking Master Boy. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Ebi chili — camarão salteado em molho picante de tomate e gengibre",
+      "description": "O Ebi Chili são camarões ligeiramente cobertos com amido e branco, salgados num molho de tomate picante com gengibre e alho. O cozimento é curto para preservar uma consistência firme; o prato é servido imediatamente com arroz branco. Os camarões retornam à panela apenas após o molho picante espessar, por isso eles são revestidos sem prolongar o cozimento.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Cooking Master Boy. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "gamberi_grandi_sgusciati_e_puliti": {
-          "name": "Camarões grandi sgusciati e puliti",
+          "name": "camarão grande, descascado e limpo",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Amido de milho",
+          "name": "amido de milho",
           "note": null
         },
         "albume_d_uovo": {
-          "name": "Ovo branco d'ovo",
+          "name": "clara de ovo",
           "note": null
         },
         "sake": {
-          "name": "Sake (per la marinatura)",
+          "name": "sake (para marinar)",
           "note": null
         },
         "zenzero_tritato": {
-          "name": "Gengibre tritato",
+          "name": "Gengibre picado",
           "note": null
         },
         "d_aglio_tritato": {
-          "name": "D'alho tritato",
+          "name": "dente de alho picado",
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring cebola tritato",
+          "name": "cebola picada",
           "note": null
         },
         "ketchup": {
-          "name": "Ketchup",
+          "name": "ketchup",
           "note": null
         },
         "pasta_doubanjiang": {
-          "name": "Pasta doubanjiang (o óleo piccante)",
+          "name": "Macarrão Doubanjiang (ou óleo picante)",
           "note": null
         },
         "salsa_di_soia": {
@@ -490,23 +544,29 @@
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "brodo_di_pollo": {
-          "name": "Frango caldo",
+          "name": "caldo de frango",
           "note": null
         },
         "amido_scioglimento": {
-          "name": "Amido scioglimento",
+          "name": "fusão de amido",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Seque bem os camarões com papel de cozinha.",
+        "step_2": "Numa tigela, misture os camarões com o álbum, o Sake e o amido de milho.",
+        "step_3": "Deixe 10 minutos para descansar.",
+        "step_4": "Aqueça 2 colheres de sopa de óleo no wok e salteie os camarões durante 1 a 2 minutos, até ficarem rosados.",
+        "step_5": "Remova- os do wok e salve- os.",
+        "step_6": "No mesmo wok adicione um pouco de azeite, frite alho, gengibre e massa picante Doubanjiang a fogo lento até que libertem seus aromas.",
+        "step_7": "Adicione ketchup, caldo de frango, molho de soja e açúcar.",
+        "step_8": "Traga a ebulição, em seguida, adicione o amido dissolvido em uma colher de água para espessar o molho.",
+        "step_9": "Volte a colocar os camarões na frigideira com a cebolinha picada e salteie durante 1 minuto para os envolver completamente no molho brilhante e picante.",
+        "step_10": "Servir imediatamente com arroz branco."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000138",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "My Hero Academia",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 15,
   "servings": 3,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "radice_di_daikon_a_fettine",
       "quantity": 0.5,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "carota_a_mezzaluna",
@@ -86,33 +86,49 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 120
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 600
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Tonjiru",
-      "description": "A comforting Tonjiru prepared with gentle simmering so the main ingredients become tender while the broth stays flavorful and balanced.",
-      "animeContext": "This recipe is thematically inspired by My Hero Academia, Midnight Diner. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tonjiru — hearty pork, root vegetable and miso soup",
+      "description": "The Tonjiru is a hearty pork soup, daikons, carrots and other roots in broth with miso. The meat is browned and the vegetables cooked until tender, before melting the miso without unnecessarily prolonging the boiling. The miso is dissolved in a ladle of broth over a fire off, preserving the flavor of the soup with tofu and roots.",
+      "animeContext": "This recipe is thematically inspired by My Hero Academia, Midnight Diner. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "pancia_di_maiale_affettata_finemente": {
-          "name": "Pancia di pork sliced finemente",
+          "name": "finely sliced pork belly",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Daikon root slices",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Carrot a mezzaluna",
+          "name": "carrot to crescent",
           "note": null
         },
         "tofu_a_cubetti": {
-          "name": "Tofu a cubetti",
+          "name": "cube tofu",
           "note": null
         },
         "brodo_dashi": {
@@ -120,28 +136,32 @@
           "note": null
         },
         "miso_rosso_o_misto": {
-          "name": "Red miso o misto",
+          "name": "Red or mixed miso",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame oil",
+          "name": "sesame oil",
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Spring onion cut into rondelle",
+          "name": "Onion cut into washers",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and organize the main ingredients so pieces of similar density are comparable in size; prepare the seasoned broth separately before simmering.",
-        "step_2": "Build the broth over moderate heat and add the ingredients in order of cooking time, keeping the liquid at a gentle simmer rather than a hard boil.",
-        "step_3": "Continue cooking until proteins are safely cooked and vegetables are tender but intact, adjusting the seasoning only after the broth has reduced slightly.",
-        "step_4": "Finish with the final aromatics or garnish and serve hot, allowing a brief rest when useful so the ingredients absorb the seasoned broth."
+        "step_1": "Cut pork belly, daikon and carrot into thin pieces and prepare the cube tofu.",
+        "step_2": "Heat sesame oil in a saucepan and brown the pig until it changes color and releases part of the fat.",
+        "step_3": "Add daikon and carrot and salt them for about 2 minutes to flavor them in the bottom.",
+        "step_4": "Pour the dashi, bring to light boil and remove any foam.",
+        "step_5": "Cover and cook over medium to low heat for about 10 minutes until the roots become tender.",
+        "step_6": "Add the tofu and heat it for 2-3 minutes without stirring vigorously.",
+        "step_7": "Turn off the fire, melt the miso in a ladle of broth and incorporate it to the soup without bringing it back to the boil.",
+        "step_8": "Complete with onion and serve very hot."
       }
     },
     "it": {
       "title": "Tonjiru (Ricca Zuppa di Maiale, Radici e Miso)",
-      "description": "Un Tonjiru (Ricca Zuppa di Maiale, Radici e Miso) confortante cotto a sobbollore dolce, così gli ingredienti diventano teneri senza disfarsi e il fondo resta concentrato ma equilibrato.",
+      "description": "Il Tonjiru è una zuppa sostanziosa di maiale, daikon, carote e altre radici in brodo al miso. La carne viene rosolata e le verdure cotte finché tenere, prima di sciogliere il miso senza prolungare inutilmente la bollitura. Il miso viene sciolto in un mestolo di brodo a fuoco spento, preservando il sapore della zuppa con tofu e radici.",
       "animeContext": "Questa ricetta è ispirata tematicamente a My Hero Academia, Midnight Diner. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "pancia_di_maiale_affettata_finemente": {
@@ -157,7 +177,7 @@
           "note": null
         },
         "tofu_a_cubetti": {
-          "name": "Tofu a cubetti",
+          "name": "tofu a cubetti",
           "note": null
         },
         "brodo_dashi": {
@@ -173,195 +193,215 @@
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Cipollotto tagliato a rondelle",
+          "name": "cipollotto tagliato a rondelle",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, usa una pentola, rosola la pancia di maiale nell'olio di sesamo finché cambia colore.",
-        "step_2": "Prosegui così: unisci il daikon e la carota. Saltare per 2 minuti. Controlla consistenza e cottura prima di passare alla fase successiva.",
-        "step_3": "Nella fase successiva, aggiungi il brodo Dashi e porta a bollore. Copri e prosegui la cottura a fuoco medio per 10 minuti finché le verdure sono tenere. Unisci i cubetti di tofu. Spegni il fuoco e sciogli il Miso nella zuppa usando un colino.",
-        "step_4": "Per completare, porta in tavolare ben calda guarnita con cipollotto fresco."
+        "step_1": "Taglia pancia di maiale, daikon e carota in pezzi sottili e prepara il tofu a cubetti.",
+        "step_2": "Scalda l’olio di sesamo in casseruola e rosola il maiale finché cambia colore e rilascia parte del grasso.",
+        "step_3": "Aggiungi daikon e carota e saltali per circa 2 minuti per insaporirli nel fondo.",
+        "step_4": "Versa il dashi, porta a leggero bollore e rimuovi l’eventuale schiuma.",
+        "step_5": "Copri e cuoci a fuoco medio-basso per circa 10 minuti, finché le radici diventano tenere.",
+        "step_6": "Aggiungi il tofu e scaldalo per 2-3 minuti senza mescolare energicamente.",
+        "step_7": "Spegni il fuoco, sciogli il miso in un mestolo di brodo e incorporalo alla zuppa senza riportarla a bollore.",
+        "step_8": "Completa con cipollotto e servi molto caldo."
       }
     },
     "es": {
-      "title": "Tonjiru",
-      "description": "Una versión práctica de Tonjiru para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en My Hero Academia, Midnight Diner. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tonjiru — sopa contundente de cerdo, raíces y miso",
+      "description": "El Tonjiru es una sopa sustancial de cerdo, daikon, zanahorias y otras raíces en caldo al miso. La carne es rosolada y las verduras cocidas hasta que mantenga, antes de disolver el miso sin prolongar innecesariamente la ebullición. El miso se disuelve en un cucharón de caldo a fuego apagado, conservando el sabor de la sopa con tofu y raíces.",
+      "animeContext": "Esta receta está inspirada temáticamente en My Hero Academia, Midnight Diner. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "pancia_di_maiale_affettata_finemente": {
-          "name": "Pancia di cerdo en rodajas finemente",
+          "name": "panza de cerdo cortada finamente",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Raíz de Daikon a rodajas",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Zanahoria a mezzaluna",
+          "name": "zanahoria a media luna",
           "note": null
         },
         "tofu_a_cubetti": {
-          "name": "Tofu a cubetti",
+          "name": "tofu a cubitos",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Caldo Dashi",
           "note": null
         },
         "miso_rosso_o_misto": {
-          "name": "Rojo miso o misto",
+          "name": "Miso rojo o mixto",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame aceite",
+          "name": "Aceite de sésamo",
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Spring cebolla cut into rondelle",
+          "name": "Cipollotto cortado con pipetas",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta la barriga de cerdo, daikon y zanahoria en trozos finos y prepara el tofu de cubos.",
+        "step_2": "Calienta el aceite de sésamo en cacerola y frota el cerdo hasta que cambia de color y libera parte de la grasa.",
+        "step_3": "Añadir daikon y zanahoria y saltarlos durante unos 2 minutos para saborearlos en el fondo.",
+        "step_4": "Vierta el dashi, llévatelo a la ligera y quítale la espuma.",
+        "step_5": "Cubre y cocina a fuego medio-bajo durante unos 10 minutos, hasta que las raíces se aferren.",
+        "step_6": "Añadir el tofu y calentarlo durante 2-3 minutos sin mezclar enérgicamente.",
+        "step_7": "Apaga el fuego, suelta el miso en un cucharón de caldo e incorpóralo a la sopa sin volverla a marcar.",
+        "step_8": "Completa con cebolla y sirves muy caliente."
       }
     },
     "fr": {
-      "title": "Tonjiru",
-      "description": "Une version pratique de Tonjiru à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par My Hero Academia, Midnight Diner. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tonjiru — soupe nourrissante au porc, aux légumes-racines et au miso",
+      "description": "Le Tonjiru est une soupe importante de porc, de daikon, de carottes et d'autres racines en bouillon au miso. La viande est roulée et les légumes cuits jusqu'à ce qu'ils tiennent, avant de dissoudre le miso sans prolonger inutilement la bouillie. Le miso est dissous dans une louche de bouillon à feu éteint, préservant le goût de la soupe avec du tofu et des racines.",
+      "animeContext": "Cette recette s'inspire librement de My Hero Academia, Midnight Diner. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "pancia_di_maiale_affettata_finemente": {
-          "name": "Pancia di porc tranché finemente",
+          "name": "le ventre de porc coupé finement",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Racine de Daikon en tranches",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Carotte a mezzaluna",
+          "name": "Carotte en croissant",
           "note": null
         },
         "tofu_a_cubetti": {
-          "name": "Tofu a cubetti",
+          "name": "tofu à cubes",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi bouillon",
+          "name": "Brode dashi",
           "note": null
         },
         "miso_rosso_o_misto": {
-          "name": "Rouge miso o misto",
+          "name": "miso rouge ou mélange de miso",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame huile",
+          "name": "huile de sésame",
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Spring oignon cut into rondelle",
+          "name": "oignon coupé en rondelles",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coupe la poitrine de porc, le daikon et la carotte en morceaux fins, puis taille le tofu en cubes.",
+        "step_2": "Chauffez l'huile de sésame en casserole et roulez le porc jusqu'à ce qu'il change de couleur et libère une partie de la graisse.",
+        "step_3": "Ajoutez daikon et carotte et sautez-les pendant environ 2 minutes pour les assaisonner au fond.",
+        "step_4": "Versez le dashi, portez à légère bulle et retirez l'éventuelle mousse.",
+        "step_5": "Couvrez et faites cuire à feu moyen-bas pendant environ 10 minutes, jusqu'à ce que les racines deviennent tendres.",
+        "step_6": "Ajoutez le tofu et réchauffez-le pendant 2-3 minutes sans mélanger vigoureusement.",
+        "step_7": "Éteignez le feu, détachez le miso dans une louche de bouillon et ajoutez-le à la soupe sans la faire bouillir.",
+        "step_8": "Complétez avec l'oignon et servez très chaud."
       }
     },
     "de": {
-      "title": "Tonjiru",
-      "description": "Eine alltagstaugliche Version von Tonjiru für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von My Hero Academia, Midnight Diner inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tonjiru – herzhafte Schweinefleisch-Miso-Suppe mit Wurzelgemüse",
+      "description": "Der Tonjiru ist eine reichhaltige Schweinesuppe, Daikons, Karotten und andere Wurzeln in Brühe bis zum Miso. Das Fleisch wird gerötet und das Gemüse gekocht, bis es hält, bevor die Miso ohne unnötige Verlängerung des Kochens aufgelöst wird. Der Miso wird in einer Mischung aus Brühe bei abgebranntem Feuer aufgelöst, wodurch der Geschmack der Suppe mit Tofu und Wurzeln erhalten bleibt.",
+      "animeContext": "Dieses Rezept ist thematisch von My Hero Academia, Midnight Diner inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "pancia_di_maiale_affettata_finemente": {
-          "name": "Pancia di Schweinefleisch in Scheiben finemente",
+          "name": "Schweinebauch fein geschnitten",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Daikonwurzel in Scheiben",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Karotte a mezzaluna",
+          "name": "Karotte mit Halbmond",
           "note": null
         },
         "tofu_a_cubetti": {
-          "name": "Tofu a cubetti",
+          "name": "Kubikmeter-Tofu",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi Brühe",
+          "name": "Dashi-Brühe",
           "note": null
         },
         "miso_rosso_o_misto": {
-          "name": "Rot miso o misto",
+          "name": "rotes oder gemischtes Miso",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame Öl",
+          "name": "Sesamöl",
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Spring Zwiebel cut into rondelle",
+          "name": "Zwiebeln, in Unterlegscheiben geschnitten",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schneiden Sie Schweinebauch, Daikon und Karotte in dünne Stücke und bereiten Sie Tofu in Würfel.",
+        "step_2": "Erhitzt Sesamöl in Kasserolle und rostet das Schwein so lange, bis es die Farbe ändert und einen Teil des Fetts freisetzt.",
+        "step_3": "Fügen Sie Daikon und Karotte hinzu und springen Sie für ca. 2 Minuten, um sie im Boden zu würzen.",
+        "step_4": "Das Dashi zugießen, leicht aufkochen lassen und gegebenenfalls den Schaum abschöpfen.",
+        "step_5": "Bedecken Sie und kochen Sie mit mittlerem bis niedrigem Fokus für etwa 10 Minuten, bis die Wurzeln erhalten werden.",
+        "step_6": "Fügen Sie Tofu hinzu und erwärmen Sie es für 2-3 Minuten, ohne stark zu mischen.",
+        "step_7": "Den Herd ausschalten, das Miso in einer Kelle Brühe auflösen und in die Suppe rühren, ohne sie erneut aufzukochen.",
+        "step_8": "Komplett mit Zwiebeln und serviert sehr heiß."
       }
     },
     "pt": {
-      "title": "Tonjiru",
-      "description": "Uma versão prática de Tonjiru para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por My Hero Academia, Midnight Diner. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tonjiru — sopa rica de porco, raízes e miso",
+      "description": "O Tonjiru é uma sopa de porco abundante, daikons, cenouras e outras raízes em caldo com miso. A carne é dourada e os legumes cozidos até terno, antes de derreter o miso sem prolongar desnecessariamente a ebulição. O miso é dissolvido em um louça de caldo sobre um fogo desligado, preservando o sabor da sopa com tofu e raízes.",
+      "animeContext": "Esta receita inspira-se tematicamente em My Hero Academia, Midnight Diner. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "pancia_di_maiale_affettata_finemente": {
-          "name": "Pancia di porco fatiado finemente",
+          "name": "barriga de porco finamente cortada",
           "note": null
         },
         "radice_di_daikon_a_fettine": {
-          "name": "Radice di daikon a fettine",
+          "name": "Fatias de raízes de Daikon",
           "note": null
         },
         "carota_a_mezzaluna": {
-          "name": "Cenoura a mezzaluna",
+          "name": "cenoura a crescente",
           "note": null
         },
         "tofu_a_cubetti": {
-          "name": "Tofu a cubetti",
+          "name": "tofu cubo",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Coberto de Dashi",
           "note": null
         },
         "miso_rosso_o_misto": {
-          "name": "Vermelho miso o misto",
+          "name": "Miso vermelho ou misto",
           "note": null
         },
         "olio_di_sesamo": {
-          "name": "Sesame óleo",
+          "name": "óleo de sésamo",
           "note": null
         },
         "cipollotto_tagliato_a_rondelle": {
-          "name": "Spring cebola cut into rondelle",
+          "name": "Cebola cortada em lavadoras",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Corte a barriga de porco, o daikon e a cenoura em pedaços finos e prepare o tofu cubo.",
+        "step_2": "Aqueça o óleo de sésamo em uma panela e marrom o porco até que ele mude de cor e liberte parte da gordura.",
+        "step_3": "Adicione daikon e cenoura e salga- as por cerca de 2 minutos para saboreá- las no fundo.",
+        "step_4": "Verter o dashi, trazer à luz ebullição e remover qualquer espuma.",
+        "step_5": "Cubra e cozinhe em fogo médio a baixo por cerca de 10 minutos até que as raízes se tornem tenras.",
+        "step_6": "Adicione o tofu e aqueça- o por 2-3 minutos sem mexer vigorosamente.",
+        "step_7": "Desligue o fogo, derreta o miso em um cofre de caldo e incorpore- o à sopa sem trazê- lo de volta ao ebullição.",
+        "step_8": "Completar com cebola e servir muito quente."
       }
     }
   }

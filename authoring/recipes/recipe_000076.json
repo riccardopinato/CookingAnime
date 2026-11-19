@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000076",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Demon Slayer (Kimetsu no Yaiba)",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -93,7 +93,7 @@
   "steps": [
     {
       "id": "step_1",
-      "timerSeconds": null
+      "timerSeconds": 900
     },
     {
       "id": "step_2",
@@ -106,24 +106,44 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 240
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Agedashi Tofu",
-      "description": "A quick-cooked Agedashi Tofu that relies on high heat, organized mise en place and short cooking times to keep vegetables lively and sauces concentrated.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer (Kimetsu no Yaiba), Spirited Away. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Agedashi Tofu — fried tofu in dashi broth",
+      "description": "The Agedashi Tofu starts from well-drained and dried tofu cubes, covered with a veil of starch and fried to form a light crust. The tofu is immersed in a dishi broth seasoned and garnished with grated daikons and fresh aromas. The broth pours around the tofu already fried without covering it, to keep the crust distinct from the central soft part.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer (Kimetsu no Yaiba), Spirited Away. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "tofu_fermo": {
-          "name": "Tofu fermo (momen tofu)",
+          "name": "tofu firma (Momen Tofu)",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Cornstarch (katakuriko)",
+          "name": "maize starch (Katakuriko)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral oil for frying",
+          "name": "seed oil for frying",
           "note": null
         },
         "brodo_dashi": {
@@ -139,40 +159,45 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "daikon_grattugiato": {
-          "name": "Daikon grated",
+          "name": "Grated Daikon",
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Ginger grated",
+          "name": "Grated ginger",
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring onion tritato",
+          "name": "chopped onion",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi",
+          "name": "katsuobushi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and measure every ingredient before heating the pan, because the cooking phase is short and should not be interrupted for preparation.",
-        "step_2": "Use a hot pan or griddle and cook the firmer ingredients first, keeping them moving so they brown without steaming in their own moisture.",
-        "step_3": "Add the remaining ingredients and sauce in stages, cooking only until the sauce clings and the vegetables retain some bite.",
-        "step_4": "Finish with the fresh garnish and serve immediately, while the pan-seared surfaces and concentrated seasoning are still vivid."
+        "step_1": "Wrap the tofu pan in kitchen paper and rest on a weight for 15 minutes to remove excess water.",
+        "step_2": "Cut it to 4 or 6 large cubes.",
+        "step_3": "In a saucepan, heat the Dashi broth with soy sauce, Mirin and sugar until it reaches a slight boil.",
+        "step_4": "Turn it off and keep it warm.",
+        "step_5": "Pass each cube of tofu into the cornstarch by sticking it evenly on all sides.",
+        "step_6": "Fry in hot oil at 180°C for 3-4 minutes until the outer crust becomes white and crispy.",
+        "step_7": "Place hot fried tofu cubes in individual bowls.",
+        "step_8": "Gently add the hot broth around the tofu (without covering it entirely to avoid softening the crust).",
+        "step_9": "Garnish the top of each cube with a grated Daikon bow, a pinch of ginger, onion and Katsuobushi flakes."
       }
     },
     "it": {
       "title": "Agedashi Tofu (Tofu Fritto in Brodo Dashi)",
-      "description": "Un Agedashi Tofu (Tofu Fritto in Brodo Dashi) dalla cottura rapida, basato su fiamma vivace, ingredienti già pronti e tempi brevi per mantenere verdure croccanti e salsa concentrata.",
+      "description": "L’Agedashi Tofu parte da cubi di tofu ben scolati e asciugati, rivestiti con un velo di amido e fritti fino a formare una crosta leggera. Il tofu viene immerso in un brodo dashi condito e guarnito con daikon grattugiato e aromi freschi. Il brodo si versa intorno al tofu già fritto senza ricoprirlo, per mantenere distinta la crosta dalla parte centrale morbida.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer (Kimetsu no Yaiba), Spirited Away. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "tofu_fermo": {
-          "name": "Tofu fermo (Momen Tofu)",
+          "name": "tofu fermo (Momen Tofu)",
           "note": null
         },
         "amido_di_mais": {
@@ -180,7 +205,7 @@
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Olio di semi per friggere",
+          "name": "olio di semi per friggere",
           "note": null
         },
         "brodo_dashi": {
@@ -212,36 +237,41 @@
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi",
+          "name": "katsuobushi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, avvolgi il panetto di tofu in carta da cucina e appoggia sopra un peso per 15 minuti per eliminare l'acqua in eccesso. Taglialo poi a 4 o 6 cubi grandi.",
-        "step_2": "Prosegui così: metti in un pentolino porta a temperatura il brodo Dashi con la salsa di soia, il Mirin e lo zucchero finché non giunge a leggero bollore. Spegni e tieni caldo.",
-        "step_3": "Nella fase successiva, passa ciascun cubo di tofu nell'amido di mais facendolo aderire uniformemente su tutti i lati. Friggi in olio caldo a 180°C per 3-4 minuti finché la crosticina esterna diventa bianca e croccante. Sistema i cubi di tofu fritto caldo in ciotoline individuali. Aggiungi delicatamente il brodo caldo attorno al tofu (senza coprirlo interamente per non ammorbidire la crosta).",
-        "step_4": "Per completare, guarnisci la cima di ogni cubo con un fiocco di Daikon grattugiato, un pizzico di zenzero, cipollotto e fiocchi di Katsuobushi."
+        "step_1": "Avvolgi il panetto di tofu in carta da cucina e appoggia sopra un peso per 15 minuti per eliminare l'acqua in eccesso.",
+        "step_2": "Taglialo poi a 4 o 6 cubi grandi.",
+        "step_3": "In un pentolino, scalda il brodo Dashi con la salsa di soia, il Mirin e lo zucchero finché non giunge a leggero bollore.",
+        "step_4": "Spegni e tieni caldo.",
+        "step_5": "Passa ciascun cubo di tofu nell'amido di mais facendolo aderire uniformemente su tutti i lati.",
+        "step_6": "Friggi in olio caldo a 180°C per 3-4 minuti finché la crosticina esterna diventa bianca e croccante.",
+        "step_7": "Sistema i cubi di tofu fritto caldo in ciotoline individuali.",
+        "step_8": "Aggiungi delicatamente il brodo caldo attorno al tofu (senza coprirlo interamente per non ammorbidire la crosta).",
+        "step_9": "Guarnisci la cima di ogni cubo con un fiocco di Daikon grattugiato, un pizzico di zenzero, cipollotto e fiocchi di Katsuobushi."
       }
     },
     "es": {
-      "title": "Agedashi Tofu",
-      "description": "Una versión práctica de Agedashi Tofu para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer (Kimetsu no Yaiba), Spirited Away. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Agedashi tofu — tofu frito en caldo dashi",
+      "description": "L-Agedashi Tofu parte de cubos de tofu bien escurridos y secados, recubiertos con un velo de almidón y fritos hasta formar una corteza ligera. El tofu se sumerge en un caldo dashi sazonado y guarnecido con daikon rallado y aromas frescos. El caldo se derrama alrededor del tofu ya frito sin cubrirlo, para mantener la corteza separada de la parte central suave.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer (Kimetsu no Yaiba), Spirited Away. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "tofu_fermo": {
-          "name": "Tofu fermo (momen tofu)",
+          "name": "tofu firme (Momen Tofu)",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Maicena (katakuriko)",
+          "name": "almidón de maíz (Katakuriko)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral aceite para freír",
+          "name": "Aceite de semilla para freír",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Caldo Dashi",
           "note": null
         },
         "salsa_di_soia": {
@@ -253,7 +283,7 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "daikon_grattugiato": {
@@ -261,48 +291,53 @@
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Jengibre rallado",
+          "name": "jengibre rallado",
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring cebolla tritato",
+          "name": "cipollotto picado",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi",
+          "name": "katsuobushi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Envuelve el trozo de tofu en papel de cocina y apoya sobre un peso durante 15 minutos para eliminar el exceso de agua.",
+        "step_2": "Córtalo luego a 4 ó 6 cubos grandes.",
+        "step_3": "En una olla, calienta el caldo Dashi con la salsa de soja, el Mirin y el azúcar hasta que llega a hervir ligeramente.",
+        "step_4": "Apágalo y mantén el calor.",
+        "step_5": "Pasa cada cubo de tofu en el almidón de maíz y se une uniformemente a todos los lados.",
+        "step_6": "Freír en aceite caliente a 180°C durante 3-4 minutos hasta que la corteza exterior se vuelva blanca y crujiente.",
+        "step_7": "Arregla los cubos de tofu frito caliente en tazones individuales.",
+        "step_8": "Añade suavemente el caldo caliente alrededor del tofu (sin cubrirlo completamente para no suavizar la corteza).",
+        "step_9": "Adorna la parte superior de cada cubo con un copo de Daikon rallado, una pizca de jengibre, cebolleta y copos de Katsuobushi."
       }
     },
     "fr": {
-      "title": "Agedashi Tofu",
-      "description": "Une version pratique de Agedashi Tofu à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer (Kimetsu no Yaiba), Spirited Away. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Agedashi tofu — tofu frit dans un bouillon dashi",
+      "description": "L'Agedashi Tofu part de cubes de tofu bien écotés et séchés, revêtus d'un voile d'amidon et frits jusqu'à former une croûte légère. Le tofu est immergé dans un bouillon dashi assaisonné et garni de daikon râpé et d'arômes frais. Le bouillon se verse autour du tofu déjà frit sans le couvrir, pour maintenir la croûte séparée de la partie centrale douce.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer (Kimetsu no Yaiba), Spirited Away. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "tofu_fermo": {
-          "name": "Tofu fermo (momen tofu)",
+          "name": "tofu ferme (Momen Tofu)",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Fécule de maïs (katakuriko)",
+          "name": "amidon de maïs (Katakuriko)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral huile pour friture",
+          "name": "huile de graines à frire",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi bouillon",
+          "name": "Brode dashi",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
@@ -310,7 +345,7 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "daikon_grattugiato": {
@@ -318,48 +353,53 @@
           "note": null
         },
         "zenzero_grattugiato": {
-          "name": "Gingembre râpé",
+          "name": "gingembre râpé",
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring oignon tritato",
+          "name": "ciboulet haché",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi",
+          "name": "katsuobushi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Enroulez le pain de tofu dans du papier de cuisine et posez un poids pendant 15 minutes pour éliminer l'excès d'eau.",
+        "step_2": "Coupez-le à 4 ou 6 cubes.",
+        "step_3": "Dans une casserole, réchauffez le bouillon dashi avec de la sauce de soja, le Mirin et le sucre jusqu'à ce qu'il atteigne une légère bulle.",
+        "step_4": "Éteins et gardes chaud.",
+        "step_5": "Il passe chaque cube de tofu dans l'amidon de maïs en le faisant adhérer uniformément sur tous les côtés.",
+        "step_6": "Fritez à l'huile chaude à 180°C pendant 3-4 minutes jusqu'à ce que la croûte extérieure devienne blanche et croustillante.",
+        "step_7": "Il range les cubes de tofu frit chaud dans des bols individuels.",
+        "step_8": "Ajoutez doucement le bouillon chaud autour du tofu (sans le couvrir entièrement pour ne pas adoucir la croûte).",
+        "step_9": "Garnis chaque cube d’un petit monticule de daikon râpé, d’une pincée de gingembre, de cébette et de flocons de katsuobushi."
       }
     },
     "de": {
-      "title": "Agedashi Tofu",
-      "description": "Eine alltagstaugliche Version von Agedashi Tofu für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer (Kimetsu no Yaiba), Spirited Away inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Agedashi Tofu – frittierter Tofu in Dashibrühe",
+      "description": "Der Tofu-Tofu beginnt mit gut abgekochten und getrockneten Tofuwürfeln, die mit einem Schleier aus Stärke überzogen und gebraten sind und eine leichte Kruste bilden. Tofu wird in eine gewürzte und mit Daikons geriebene Dashi-Brühe und frische Aromen eingetaucht. Die Brühe schüttet sich um den bereits gebratenen Tofu, ohne ihn zu bedecken, um die Kruste vom weichen Mittelteil zu unterscheiden.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer (Kimetsu no Yaiba), Spirited Away inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "tofu_fermo": {
-          "name": "Tofu fermo (momen tofu)",
+          "name": "Tofu still (Momen Tofu)",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Maisstärke (katakuriko)",
+          "name": "Maisstärke (Katakuriko)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral Öl zum Frittieren",
+          "name": "Samenöl zum Braten",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi Brühe",
+          "name": "Dashi-Brühe",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -379,40 +419,45 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring Zwiebel tritato",
+          "name": "gehackte Zwiebel",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi",
+          "name": "katsuobushi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Wickle den Tofu-Brot in Küchenpapier und lege 15 Minuten lang auf ein Gewicht, um überschüssiges Wasser zu entfernen.",
+        "step_2": "Schneide es dann auf 4 oder 6 große Würfel.",
+        "step_3": "In einem Topf erwärmt Dashi-Brühe mit Sojasoße, Mirin und Zucker, bis sie leicht fluchen.",
+        "step_4": "Mach aus und halte dich warm.",
+        "step_5": "Jeder Tofuwürfel wird in Maisstärke eingelegt und gleichmäßig auf allen Seiten geklebt.",
+        "step_6": "Braten Sie in heißem Öl bei 180°C für 3-4 Minuten, bis das äußere Crosticin weiß und knusprig wird.",
+        "step_7": "Machen Sie die Würfel warm gebratenen Tofu in einzelnen Schüsseln.",
+        "step_8": "Fügen Sie die warme Brühe vorsichtig um den Tofu hinzu (ohne sie vollständig zu bedecken, um die Kruste nicht zu erweichen).",
+        "step_9": "Bewahren Sie die Spitze jedes Würfels mit einer geriebenen Daikon-Flocke, einer Prise Ingwer, Zwiebeln und Katsuobushi-Flocken."
       }
     },
     "pt": {
-      "title": "Agedashi Tofu",
-      "description": "Uma versão prática de Agedashi Tofu para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer (Kimetsu no Yaiba), Spirited Away. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Agedashi tofu — tofu frito em caldo dashi",
+      "description": "O tofu de Agedashi começa a partir de cubos de tofu bem drenados e secos, cobertos com um véu de amido e fritos para formar uma crosta leve. O tofu é imerso em um caldo de prato temperado e decorado com daikons ralados e aromas frescos. O caldo derrama em torno do tofu já frito sem cobri- lo, para manter a crosta distinta da parte macia central.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer (Kimetsu no Yaiba), Spirited Away. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "tofu_fermo": {
-          "name": "Tofu fermo (momen tofu)",
+          "name": "tofu firma (Momen Tofu)",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Amido de milho (katakuriko)",
+          "name": "amido de milho (Katakuriko)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral óleo para fritar",
+          "name": "óleo de semente para fritar",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Coberto de Dashi",
           "note": null
         },
         "salsa_di_soia": {
@@ -424,7 +469,7 @@
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "daikon_grattugiato": {
@@ -436,19 +481,24 @@
           "note": null
         },
         "cipollotto_tritato": {
-          "name": "Spring cebola tritato",
+          "name": "cebola picada",
           "note": null
         },
         "katsuobushi": {
-          "name": "Katsuobushi",
+          "name": "katsuobushi",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Enrole a panela de tofu no papel de cozinha e descanse em um peso por 15 minutos para remover o excesso de água.",
+        "step_2": "Corte para 4 ou 6 cubos grandes.",
+        "step_3": "Numa panela, aqueça o caldo Dashi com molho de soja, Mirin e açúcar até que alcance uma leve ebulição.",
+        "step_4": "Desligue- o e mantenha- o aquecido.",
+        "step_5": "Passe cada cubo de tofu para o amido de milho colando- o uniformemente em todos os lados.",
+        "step_6": "Fritar em óleo quente a 180°C durante 3-4 minutos até que a crosta exterior se torne branca e crocante.",
+        "step_7": "Coloque cubos de tofu frito quente em tigelas individuais.",
+        "step_8": "Adicione suavemente o caldo quente ao redor do tofu (sem o cobrir inteiramente para evitar amolecer a crosta).",
+        "step_9": "Decorar o topo de cada cubo com um arco de Daikon ralado, uma pitada de gengibre, cebola e flocos de Katsuobushi."
       }
     }
   }

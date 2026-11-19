@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000144",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,23 +21,23 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 25,
   "cookMinutes": 20,
   "servings": 6,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
       "id": "gusci_di_frolla_per_tartelletta_gia_cotti",
       "quantity": 6,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "formaggio_spalmabile",
@@ -91,57 +91,77 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 720
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Soufflé Cheese Tart",
-      "description": "A Japanese-style Soufflé Cheese Tart designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Soufflé Cheese Tarts — fluffy cheese tartlets",
+      "description": "The Soufflé Cheese Tart combines shell of shorts already cooked with a light filling of cream cheese and mounted egg whites. The tarts are baked briefly until the surface is golden, preserving the soft center. The surface of the tarts is briefly gilded in the oven, leaving the center to the soft cheese instead of drying it excessively.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "gusci_di_frolla_per_tartelletta_gia_cotti": {
-          "name": "Gusci di frolla per tartelletta già cotti",
+          "name": "short shell for already cooked tartelletta",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Cream cheese (cream cheese)",
+          "name": "spreadable cheese (Cream Cheese)",
           "note": null
         },
         "burro_morbido": {
-          "name": "Butter morbido",
+          "name": "soft butter",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "uovo": {
-          "name": "Egg (egg yolk e egg white separati)",
+          "name": "egg (separate egg yolks and egg whites)",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy cream",
+          "name": "fresh cream",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di lemon",
+          "name": "lemon juice",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Cornstarch",
+          "name": "maize starch",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Bring the stuffing ingredients to room temperature and prepare the already cooked and completely cold short shells.",
+        "step_2": "Work cream cheese, butter, yolk, half the sugar, cream, starch and lemon juice until you get a smooth cream.",
+        "step_3": "Add the remaining sugar gradually, stopping at a shiny meringue with soft peaks.",
+        "step_4": "It incorporates the cream meringue in two shots, with delicate movements from the bottom to the top.",
+        "step_5": "Fill the shells creating a small dome and smooth the surface.",
+        "step_6": "Brush with little yolk or milk if you want a more intense gilding.",
+        "step_7": "Bake at 200°C for about 10-12 minutes, until the surface is golden but the center remains soft.",
+        "step_8": "Allow to warm a few minutes before serving, avoiding to cook them beyond the point where the filling loses creaminess."
       }
     },
     "it": {
       "title": "Soufflé Cheese Tart (Crostatine al Formaggio Soffici)",
-      "description": "Un Soufflé Cheese Tart (Crostatine al Formaggio Soffici) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Le Soufflé Cheese Tart uniscono gusci di frolla già cotti a un ripieno leggero di cream cheese e albume montato. Le crostatine vengono infornate brevemente finché la superficie è dorata, conservando il centro soffice. La superficie delle crostatine viene dorata brevemente in forno, lasciando il centro al formaggio morbido invece di asciugarlo eccessivamente.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Kaguya-sama: Love is War. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "gusci_di_frolla_per_tartelletta_gia_cotti": {
@@ -178,117 +198,129 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, lavora il cream cheese con il burro, il tuorlo d'uovo, metà dello zucchero, la panna, l'amido di mais e il limone fino a ottenere una crema liscia.",
-        "step_2": "Prosegui così: monta l'albume a neve ferma aggiungendo lo zucchero rimanente.",
-        "step_3": "Nella fase successiva, incorpora delicatamente l'albume montato alla crema di formaggio con movimenti dal basso verso l'alto. Riempi i gusci di tartelletta creando una leggera cupola al centro.",
-        "step_4": "Per completare, spennella la superficie con poco tuorlo d'uovo e inforna a 200°C per 10-12 minuti finché la superficie è dorata e il cuore soffice."
+        "step_1": "Porta gli ingredienti del ripieno a temperatura ambiente e prepara i gusci di frolla già cotti e completamente freddi.",
+        "step_2": "Lavora cream cheese, burro, tuorlo, metà dello zucchero, panna, amido e succo di limone fino a ottenere una crema liscia.",
+        "step_3": "Monta l’albume aggiungendo gradualmente lo zucchero restante, fermandoti a una meringa lucida con picchi morbidi.",
+        "step_4": "Incorpora la meringa alla crema in due riprese, con movimenti delicati dal basso verso l’alto.",
+        "step_5": "Riempi i gusci creando una piccola cupola e liscia la superficie.",
+        "step_6": "Spennella con poco tuorlo o latte se desideri una doratura più intensa.",
+        "step_7": "Cuoci a 200°C per circa 10-12 minuti, finché la superficie è dorata ma il centro rimane soffice.",
+        "step_8": "Lascia intiepidire qualche minuto prima di servire, evitando di cuocerle oltre il punto in cui il ripieno perde cremosità."
       }
     },
     "es": {
-      "title": "Soufflé Cheese Tart",
-      "description": "Una versión práctica de Soufflé Cheese Tart para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Kaguya-sama: Love is War. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tartaletas soufflé de queso esponjosas",
+      "description": "Las Soufflé Cheese Tart combinan cáscaras de burla ya cocidas con un relleno ligero de cream cheese y clara de huevo montada. Las crostatinas se encienden brevemente hasta que la superficie sea dorada, conservando el centro suave. La superficie de las tartas se dora brevemente en el horno, dejando el centro al queso blando en lugar de secarlo excesivamente.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Kaguya-sama: Love is War. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "gusci_di_frolla_per_tartelletta_gia_cotti": {
-          "name": "Gusci di frolla per tartelletta già cotti",
+          "name": "Conchas de burla para tarta ya cocidas",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Nata cheese (nata cheese)",
+          "name": "Queso esparcido (Cream Cheese)",
           "note": null
         },
         "burro_morbido": {
-          "name": "Mantequilla morbido",
+          "name": "mantequilla suave",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "uovo": {
-          "name": "Huevo (huevo yolk e huevo blanco separati)",
+          "name": "huevo (tuerzo y clara de huevo)",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy nata",
+          "name": "crema fresca",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di limón",
+          "name": "jugo de limón",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Maicena",
+          "name": "almidón de maíz",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Lleva los ingredientes del relleno a temperatura ambiente y prepara las cáscaras de burla ya cocidas y completamente frías.",
+        "step_2": "Trabaja cream cheese, mantequilla, yema de huevo, mitad del azúcar, crema, almidón y jugo de limón hasta obtener una crema lisa.",
+        "step_3": "Monta la albúmina añadiendo gradualmente el azúcar restante, parando a un merengue brillante con picos suaves.",
+        "step_4": "Incorpora el merengue a la crema en dos tomas, con movimientos delicados desde abajo hacia arriba.",
+        "step_5": "Llena las cáscaras creando una pequeña cúpula y suaviza la superficie.",
+        "step_6": "Aprieta con poco yema o leche si deseas un dorado más intenso.",
+        "step_7": "Cocine a 200°C durante unos 10-12 minutos, hasta que la superficie sea dorada pero el centro permanezca suave.",
+        "step_8": "Deja que se templen unos minutos antes de servir, evitando cocinarlas más allá del punto en que el relleno pierde cremosidad."
       }
     },
     "fr": {
-      "title": "Soufflé Cheese Tart",
-      "description": "Une version pratique de Soufflé Cheese Tart à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Kaguya-sama: Love is War. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tartelettes soufflées au fromage",
+      "description": "Les Soufflé Cheese Tart allient des coquilles de smoothie déjà cuites à une farce légère de cream cheese et d'albums monté. Les tartines sont fourrées brièvement jusqu'à ce que la surface soit dorée, en conservant le centre doux. La surface des tartines est dorée brièvement au four, laissant le centre au fromage doux au lieu de le sécher excessivement.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Kaguya-sama: Love is War. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "gusci_di_frolla_per_tartelletta_gia_cotti": {
-          "name": "Gusci di frolla per tartelletta già cotti",
+          "name": "coquilles de saucisson pour tortues déjà cuites",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Crème cheese (crème cheese)",
+          "name": "Cheese (Cream Cheese)",
           "note": null
         },
         "burro_morbido": {
-          "name": "Beurre morbido",
+          "name": "beurre doux",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "uovo": {
-          "name": "Œuf (œuf yolk e œuf blanc separati)",
+          "name": "Oeuf (toil et albums séparés)",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy crème",
+          "name": "crème fraîche",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di citron",
+          "name": "jus de citron",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Fécule de maïs",
+          "name": "amidon de maïs",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Apportez les ingrédients de la farce à température ambiante et préparez les coquilles de smoothie déjà cuites et complètement froides.",
+        "step_2": "Travaillez des gâteaux, du beurre, du jaune d'oie, de la crème, de l'amidon et du jus de citron jusqu'à ce que vous obteniez une crème lisse.",
+        "step_3": "Montez l'albume en ajoutant progressivement le sucre restant, en vous arrêtant à une meringue brillante avec des pics doux.",
+        "step_4": "Il intègre la meringue à la crème à deux reprises, avec des mouvements délicats de bas en haut.",
+        "step_5": "Remplissez les coquilles en créant un petit dôme et lissez la surface.",
+        "step_6": "Éponge avec peu de jaune ou de lait si vous voulez une dorure plus intense.",
+        "step_7": "Faites cuire à 200°C pendant environ 10-12 minutes, jusqu'à ce que la surface soit dorée mais le centre reste doux.",
+        "step_8": "Laissez-vous éveiller quelques minutes avant de servir, en évitant de les cuire au-delà du point où la farce perd de la crémosité."
       }
     },
     "de": {
-      "title": "Soufflé Cheese Tart",
-      "description": "Eine alltagstaugliche Version von Soufflé Cheese Tart für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Kaguya-sama: Love is War inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Soufflé-Käsetörtchen – besonders luftig",
+      "description": "Die Soufflé Cheese Tart verbindet bereits gekochte Fruchtschalen mit einer leichten Füllung von Cream Cheese und Album montiert. Die Kuchen werden kurz backen, bis die Oberfläche goldbraun ist und das weiche Zentrum erhalten bleibt. Die Oberfläche der Kuchen wird kurz im Ofen vergoldet, so dass die Mitte dem weichen Käse überlassen wird, anstatt ihn übermäßig zu trocknen.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Kaguya-sama: Love is War inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "gusci_di_frolla_per_tartelletta_gia_cotti": {
-          "name": "Gusci di frolla per tartelletta già cotti",
+          "name": "Follaschalen für bereits gekochten Würstchen",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Sahne cheese (Sahne cheese)",
+          "name": "Käse (Cream Cheese)",
           "note": null
         },
         "burro_morbido": {
-          "name": "Butter morbido",
+          "name": "Weichbutter",
           "note": null
         },
         "zucchero": {
@@ -296,15 +328,15 @@
           "note": null
         },
         "uovo": {
-          "name": "Ei (Ei yolk e Ei weiß separati)",
+          "name": "Ei (Düse und getrennte Alben)",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy Sahne",
+          "name": "Frischsahne",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di Zitrone",
+          "name": "Zitronensaft",
           "note": null
         },
         "amido_di_mais": {
@@ -313,55 +345,63 @@
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Bringen Sie die Zutaten der Füllung bei Raumtemperatur und bereiten Sie die bereits gekochten und völlig kalten Fruchtschalen vor.",
+        "step_2": "Arbeite Cream Cheese, Butter, Eigelb, Hälfte Zucker, Sahne, Stärke und Zitronensaft, bis eine glatte Creme.",
+        "step_3": "Gebt den L-Albume, indem ihr den restlichen Zucker nach und nach zu einem glänzenden Mergel mit weichen Spitzen hinzufügt.",
+        "step_4": "Fügen Sie die Meringa in zwei Drehungen mit sanften Bewegungen von unten nach oben in die Creme ein.",
+        "step_5": "Füllen Sie die Schalen, indem Sie eine kleine Kuppel und glatte Oberfläche.",
+        "step_6": "Spenella mit wenig Eigelb oder Milch, wenn Sie eine intensivere Vergoldung wünschen.",
+        "step_7": "Kochen Sie bei 200 °C für ca. 10-12 Minuten, bis die Oberfläche goldig ist, aber das Zentrum weich bleibt.",
+        "step_8": "Lassen Sie sich ein paar Minuten vor dem Servieren einschüchtern und vermeiden Sie, sie über den Punkt hinaus zu kochen, an dem die Füllung cremig wird."
       }
     },
     "pt": {
-      "title": "Soufflé Cheese Tart",
-      "description": "Uma versão prática de Soufflé Cheese Tart para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Kaguya-sama: Love is War. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tarteletes soufflé de queijo fofas",
+      "description": "A tarta de queijo Soufflé combina shell de shorts já cozidos com um enchimento leve de queijo creme e claras de ovo montadas. As tartes são cozidas brevemente até que a superfície esteja dourada, preservando o centro suave. A superfície das tortas é brevemente dourada no forno, deixando o centro para o queijo macio em vez de secá- lo excessivamente.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Kaguya-sama: Love is War. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "gusci_di_frolla_per_tartelletta_gia_cotti": {
-          "name": "Gusci di frolla per tartelletta già cotti",
+          "name": "shell curto para tartellatta já cozida",
           "note": null
         },
         "formaggio_spalmabile": {
-          "name": "Natas cheese (natas cheese)",
+          "name": "queijo espalhable (Cream Cheese)",
           "note": null
         },
         "burro_morbido": {
-          "name": "Manteiga morbido",
+          "name": "manteiga macia",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "uovo": {
-          "name": "Ovo (ovo yolk e ovo branco separati)",
+          "name": "ovo (separar gemas de ovo e claras de ovo)",
           "note": null
         },
         "panna_fresca": {
-          "name": "Heavy natas",
+          "name": "creme fresco",
           "note": null
         },
         "succo_di_limone": {
-          "name": "Succo di limão",
+          "name": "suco de limão",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Amido de milho",
+          "name": "amido de milho",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Traga os ingredientes de recheio à temperatura ambiente e prepare as carcasas curtas já cozidas e completamente frias.",
+        "step_2": "Trabalhe queijo creme, manteiga, gema, metade do açúcar, creme, amido e suco de limão até obter um creme suave.",
+        "step_3": "Adicione o açúcar restante gradualmente, parando em uma meringue brilhante com picos macios.",
+        "step_4": "Ele incorpora o creme meringue em duas doses, com movimentos delicados do fundo para o topo.",
+        "step_5": "Preencha as conchas criando uma pequena cúpula e suave a superfície.",
+        "step_6": "Escove com gema pequena ou leite se você quiser uma dor mais intensa.",
+        "step_7": "Cozinhe a 200°C por cerca de 10-12 minutos, até que a superfície esteja dourada, mas o centro permaneça macio.",
+        "step_8": "Deixe aquecer alguns minutos antes de servir, evitando cozinhá- los além do ponto em que o preenchimento perde cremosidade."
       }
     }
   }

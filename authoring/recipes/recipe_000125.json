@@ -1,15 +1,15 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000125",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Lucky Star",
   "animeReferences": [
     {
       "workTitle": "Lucky Star",
-      "relation": "inspired",
+      "relation": "verified_appearance",
       "season": null,
-      "episode": null,
+      "episode": "1",
       "chapter": null
     },
     {
@@ -21,33 +21,33 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
-    "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
+    "animeStatus": "verified",
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 45,
   "cookMinutes": 90,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
-      "id": "pasta_brioche_soffice",
-      "quantity": null,
-      "unit": null
+      "id": "impasto_impasto_brioche_per_choco_cornet_1",
+      "quantity": 1,
+      "unit": "batch"
     },
     {
-      "id": "crema_pasticcera_al_cioccolato_denso",
-      "quantity": null,
-      "unit": null
+      "id": "farcitura_crema_al_cioccolato_densa_2",
+      "quantity": 1,
+      "unit": "batch"
     },
     {
-      "id": "stampi_a_cono_da_forno",
-      "quantity": null,
-      "unit": null
+      "id": "finitura_uovo_sbattuto_per_spennellare_3",
+      "quantity": 1,
+      "unit": "piece"
     }
   ],
   "steps": [
@@ -57,7 +57,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 5400
     },
     {
       "id": "step_3",
@@ -66,157 +66,197 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 1800
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": 900
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Choco Cornet",
-      "description": "A Japanese-style Choco Cornet designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Lucky Star, Sound! Euphonium. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Choco Cornet — soft bread cones filled with chocolate",
+      "description": "Choco Cornet is a sweet brioche sandwich wrapped on cone moulds and cooked until golden. Only after cooling the wrap is filled with thick chocolate cream, preventing the filling from melting. Pasta cones must cool completely before receiving the chocolate cream, which would otherwise lose consistency.",
+      "animeContext": "This recipe is thematically inspired by Lucky Star, Sound! Euphonium. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
-        "pasta_brioche_soffice": {
-          "name": "Pasta brioche soffice",
+        "impasto_impasto_brioche_per_choco_cornet_1": {
+          "name": "brioche dough for Choco Cornet",
           "note": null
         },
-        "crema_pasticcera_al_cioccolato_denso": {
-          "name": "Crema pasticcera al cioccolato denso",
+        "farcitura_crema_al_cioccolato_densa_2": {
+          "name": "dense chocolate cream",
           "note": null
         },
-        "stampi_a_cono_da_forno": {
-          "name": "Stampi a cono da forno",
+        "finitura_uovo_sbattuto_per_spennellare_3": {
+          "name": "egg beaten to brush",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Prepare the brioche dough with flour, milk, yeast, sugar, egg, salt and butter; mix until it becomes smooth and elastic.",
+        "step_2": "Cover and let rise until doubling, usually 60-90 minutes depending on the temperature.",
+        "step_3": "Meanwhile, prepare a thick chocolate cream, cool it completely and transfer it to a sac à poche.",
+        "step_4": "Gently deflate the dough, divide it into portions and form long and regular cords.",
+        "step_5": "Slightly grease the cone molds and wrap each spiral cord, just overlapping the spins without leaving cracks.",
+        "step_6": "Leave the shaped croissants to stand for 20-30 minutes, then brush them with beaten egg.",
+        "step_7": "Bake at 180°C for about 12-15 minutes, until they are uniformly golden; cool a few minutes and remove the moulds.",
+        "step_8": "Let cool completely before filling with chocolate cream, so the filling does not melt."
       }
     },
     "it": {
       "title": "Choco Cornet (Panino Soffice a Cono Farcito al Cioccolato)",
-      "description": "Un Choco Cornet (Panino Soffice a Cono Farcito al Cioccolato) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Il Choco Cornet è un panino dolce di pasta brioche avvolta su stampi a cono e cotta fino a doratura. Solo dopo il raffreddamento l’involucro viene farcito con crema densa al cioccolato, evitando che il ripieno si sciolga. I coni di pasta devono raffreddarsi completamente prima di ricevere la crema al cioccolato, che altrimenti perderebbe consistenza.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Lucky Star, Sound! Euphonium. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
-        "pasta_brioche_soffice": {
-          "name": "Pasta brioche soffice",
+        "impasto_impasto_brioche_per_choco_cornet_1": {
+          "name": "impasto brioche per Choco Cornet",
           "note": null
         },
-        "crema_pasticcera_al_cioccolato_denso": {
-          "name": "Crema pasticcera al cioccolato denso",
+        "farcitura_crema_al_cioccolato_densa_2": {
+          "name": "crema al cioccolato densa",
           "note": null
         },
-        "stampi_a_cono_da_forno": {
-          "name": "Stampi a cono da forno",
+        "finitura_uovo_sbattuto_per_spennellare_3": {
+          "name": "uovo sbattuto per spennellare",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, prepara l'impasto brioche, fai lievitare e ricava dei cordoni di pasta.",
-        "step_2": "Prosegui così: avvolgi ogni cordone attorno agli stampi a cono metallici.",
-        "step_3": "Nella fase successiva, spennella con uovo e inforna a 180°C per 15 minuti fino a doratura.",
-        "step_4": "Per completare, sforma i coni da freddi e farciscili con abbondante crema al cioccolato."
+        "step_1": "Prepara l’impasto brioche con farina, latte, lievito, zucchero, uovo, sale e burro; impasta finché diventa liscio ed elastico.",
+        "step_2": "Copri e lascia lievitare fino al raddoppio, in genere 60-90 minuti a seconda della temperatura.",
+        "step_3": "Nel frattempo prepara una crema al cioccolato densa, raffreddala completamente e trasferiscila in una sac à poche.",
+        "step_4": "Sgonfia delicatamente l’impasto, dividilo in porzioni e forma cordoni lunghi e regolari.",
+        "step_5": "Ungi leggermente gli stampi a cono e avvolgi ogni cordone a spirale, sovrapponendo appena i giri senza lasciare fessure.",
+        "step_6": "Lascia riposare i cornetti formati per 20-30 minuti, poi spennellali con uovo sbattuto.",
+        "step_7": "Cuoci a 180°C per circa 12-15 minuti, finché sono uniformemente dorati; raffredda qualche minuto e sfila gli stampi.",
+        "step_8": "Lascia raffreddare completamente prima di farcire con la crema al cioccolato, così il ripieno non si scioglie."
       }
     },
     "es": {
-      "title": "Choco Cornet",
-      "description": "Una versión práctica de Choco Cornet para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Lucky Star, Sound! Euphonium. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Choco cornet — bollos blandos en forma de cono rellenos de chocolate",
+      "description": "El Choco Cornet es un sándwich dulce de pasta brioche envuelto en moldes de cono y cocido hasta dorado. Sólo después del enfriamiento se rellena con crema densa al chocolate, evitando que el relleno se derrita. Los conos de pasta deben enfriarse completamente antes de recibir la crema de chocolate, que de otro modo perdería consistencia.",
+      "animeContext": "Esta receta está inspirada temáticamente en Lucky Star, Sound! Euphonium. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
-        "pasta_brioche_soffice": {
-          "name": "Pasta brioche soffice",
+        "impasto_impasto_brioche_per_choco_cornet_1": {
+          "name": "Amasar bollos para Choco Cornet",
           "note": null
         },
-        "crema_pasticcera_al_cioccolato_denso": {
-          "name": "Crema pasticcera al cioccolato denso",
+        "farcitura_crema_al_cioccolato_densa_2": {
+          "name": "crema de chocolate densa",
           "note": null
         },
-        "stampi_a_cono_da_forno": {
-          "name": "Stampi a cono da forno",
+        "finitura_uovo_sbattuto_per_spennellare_3": {
+          "name": "huevo batido para pincelar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Prepara la masa brioche con harina, leche, levadura, azúcar, huevo, sal y mantequilla; amasa hasta que sea suave y elástico.",
+        "step_2": "Cubre y deja aumentar hasta el doble, generalmente 60-90 minutos dependiendo de la temperatura.",
+        "step_3": "Mientras tanto, prepara una crema de chocolate densa, enfríela completamente y transfórmala en un saco.",
+        "step_4": "Desinfla suavemente la masa, dividiéndola en porciones y forma cordones largos y regulares.",
+        "step_5": "Unge ligeramente los moldes de cono y envuelve cada cordón espiral, apenas superponiendo las vueltas sin dejar grietas.",
+        "step_6": "Deja reposar los conos formados entre 20 y 30 minutos y, después, píntalos con huevo batido.",
+        "step_7": "Cocina a 180°C durante unos 12-15 minutos, mientras estén uniformemente dorados; enfría unos minutos y desliza los moldes.",
+        "step_8": "Deja enfriar completamente antes de rellenar con crema de chocolate, para que el relleno no se derrita."
       }
     },
     "fr": {
-      "title": "Choco Cornet",
-      "description": "Une version pratique de Choco Cornet à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Lucky Star, Sound! Euphonium. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Choco cornet — petits pains moelleux en cornet fourrés au chocolat",
+      "description": "Le Choco Cornet est un sandwich doux en pâte brioche enveloppée sur des moules à cône et cuite jusqu'à la dorure. Seulement après le refroidissement, l'enveloppe est farcie avec de la crème épaisse au chocolat, évitant que la farce ne se dissout. Les cônes de pâtes doivent se refroidir complètement avant de recevoir la crème au chocolat, qui, autrement, perdrait de la consistance.",
+      "animeContext": "Cette recette s'inspire librement de Lucky Star, Sound! Euphonium. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
-        "pasta_brioche_soffice": {
-          "name": "Pasta brioche soffice",
+        "impasto_impasto_brioche_per_choco_cornet_1": {
+          "name": "pâte brioche pour Choco Cornet",
           "note": null
         },
-        "crema_pasticcera_al_cioccolato_denso": {
-          "name": "Crema pasticcera al cioccolato denso",
+        "farcitura_crema_al_cioccolato_densa_2": {
+          "name": "crème au chocolat dense",
           "note": null
         },
-        "stampi_a_cono_da_forno": {
-          "name": "Stampi a cono da forno",
+        "finitura_uovo_sbattuto_per_spennellare_3": {
+          "name": "œuf claqué pour exploser",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Préparez le mélange de farine, de lait, de levure, de sucre, d'oeuf, de sel et de beurre; pâte jusqu'à ce qu'il devienne lisse et élastique.",
+        "step_2": "Couvrez et laissez lever jusqu'au doublement, généralement 60-90 minutes en fonction de la température.",
+        "step_3": "En attendant, préparez une crème au chocolat dense, refroidissez-la complètement et transférez-la dans un sac à quelques-uns.",
+        "step_4": "Dégonfle délicatement la pâte, divise-le en portions et forme des cordons longs et réguliers.",
+        "step_5": "Enroulez légèrement les moules à cône et enroulez chaque cordon en spirale, en superposant juste les tours sans laisser de fissures.",
+        "step_6": "Laissez reposer les croissants formés pendant 20 à 30 minutes, puis pincez-les avec l'œuf claqué.",
+        "step_7": "Cuire à 180°C pendant environ 12-15 minutes, jusqu'à ce qu'ils soient uniformément dorés; refroidir quelques minutes et défiler les moules.",
+        "step_8": "Laissez refroidir complètement avant de faire cuire avec de la crème au chocolat, de sorte que la farce ne fond pas."
       }
     },
     "de": {
-      "title": "Choco Cornet",
-      "description": "Eine alltagstaugliche Version von Choco Cornet für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Lucky Star, Sound! Euphonium inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Choco Cornet – weiche Hörnchen mit Schokoladenfüllung",
+      "description": "Das Choco Cornet ist ein süßes Brot aus brooche Pasta, auf Kegelformen eingewickelt und bis zum Vergolden gekocht. Erst nach dem Abkühlen wird die Hülle mit Schokoladencreme gefüllt, so dass sich die Füllung nicht löst. Die Pastakegel müssen vollständig abkühlen, bevor sie die Schokoladencreme erhalten, die sonst an Konsistenz verlieren würde.",
+      "animeContext": "Dieses Rezept ist thematisch von Lucky Star, Sound! Euphonium inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
-        "pasta_brioche_soffice": {
-          "name": "Pasta brioche soffice",
+        "impasto_impasto_brioche_per_choco_cornet_1": {
+          "name": "Brioche-Paste für Choco Cornet",
           "note": null
         },
-        "crema_pasticcera_al_cioccolato_denso": {
-          "name": "Crema pasticcera al cioccolato denso",
+        "farcitura_crema_al_cioccolato_densa_2": {
+          "name": "dicke Schokoladencreme",
           "note": null
         },
-        "stampi_a_cono_da_forno": {
-          "name": "Stampi a cono da forno",
+        "finitura_uovo_sbattuto_per_spennellare_3": {
+          "name": "Ei gestoßen, um zu entschärfen",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Bereiten Sie die Brioche Teig mit Mehl, Milch, Hefe, Zucker, Ei, Salz und Butter; kneten Sie, bis es glatt und elastisch wird.",
+        "step_2": "Bedecken Sie und lassen Sie bis zur Verdoppelung, in der Regel 60-90 Minuten je nach Temperatur.",
+        "step_3": "In der Zwischenzeit backen Sie eine dicke Schokoladencreme, kühlen Sie sie vollständig ab und übertragen Sie sie in eine kleine Schüssel.",
+        "step_4": "Entweichen Sie sanft den Teig, teilen Sie ihn in lange und regelmäßige Teile und Schnüre.",
+        "step_5": "Fügen Sie die Kegelformen leicht zusammen und wickeln Sie jede Spiralschnur, indem Sie gerade die Drehungen überlagern, ohne Risse zu hinterlassen.",
+        "step_6": "Lassen Sie die Croissants 20-30 Minuten lang ausruhen, dann spinellieren Sie sie mit gestoßenem Ei.",
+        "step_7": "Kochen Sie bei 180°C für etwa 12-15 Minuten, bis sie gleichmäßig vergoldet sind; kühlen Sie ein paar Minuten und ziehen Sie die Formen.",
+        "step_8": "Lassen Sie es vollständig abkühlen, bevor Sie die Schokoladencreme füllen, so dass die Füllung nicht auflöst."
       }
     },
     "pt": {
-      "title": "Choco Cornet",
-      "description": "Uma versão prática de Choco Cornet para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Lucky Star, Sound! Euphonium. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Choco cornet — pãezinhos macios em cone recheados de chocolate",
+      "description": "Choco Cornet é um doce sanduíche de brioche enrolado em moldes de cone e cozido até dourado. Só depois de esfriar o envoltório é preenchido com creme de chocolate grosso, impedindo que o preenchimento derreta. Os cones de pasta devem esfriar completamente antes de receber o creme de chocolate, o que de outra forma perderia consistência.",
+      "animeContext": "Esta receita inspira-se tematicamente em Lucky Star, Sound! Euphonium. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
-        "pasta_brioche_soffice": {
-          "name": "Pasta brioche soffice",
+        "impasto_impasto_brioche_per_choco_cornet_1": {
+          "name": "massa brioche para Choco Cornet",
           "note": null
         },
-        "crema_pasticcera_al_cioccolato_denso": {
-          "name": "Crema pasticcera al cioccolato denso",
+        "farcitura_crema_al_cioccolato_densa_2": {
+          "name": "creme de chocolate denso",
           "note": null
         },
-        "stampi_a_cono_da_forno": {
-          "name": "Stampi a cono da forno",
+        "finitura_uovo_sbattuto_per_spennellare_3": {
+          "name": "ovo batido para escovar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Prepare a massa brioche com farinha, leite, levedura, açúcar, ovo, sal e manteiga; misture até que se torne suave e elástica.",
+        "step_2": "Cubra e deixe subir até duplicar, geralmente 60- 90 minutos dependendo da temperatura.",
+        "step_3": "Enquanto isso, prepare um creme de chocolate grosso, esfrie- o completamente e transfira- o para um saco à poche.",
+        "step_4": "Desinflar suavemente a massa, dividi- la em porções e formar cordas longas e regulares.",
+        "step_5": "Graxa levemente os moldes do cone e enrole cada cordão espiral, apenas sobrepondo os giros sem deixar fissuras.",
+        "step_6": "Deixe os croissants em forma para ficarem de pé por 20-30 minutos, em seguida, escove- os com ovo batido.",
+        "step_7": "Cozinhe a 180°C por cerca de 12-15 minutos, até que estejam uniformemente dourados; esfrie alguns minutos e remova os moldes.",
+        "step_8": "Deixe esfriar completamente antes de preencher com creme de chocolate, para que o preenchimento não derreta."
       }
     }
   }

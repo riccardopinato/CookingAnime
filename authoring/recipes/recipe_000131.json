@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000131",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "March Comes in Like a Lion",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "cetriolo_tagliato_a_julienne",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "uovo_sodo_o_uovo_cotto_a_bassa_temperatura",
@@ -60,7 +60,12 @@
       "unit": "ml"
     },
     {
-      "id": "nori_a_striscioline_e_cipollotto_fresco_per_guarni",
+      "id": "nori_a_striscioline_e_cipollotto_fresco_per_guarni_1_nori_a_striscioline",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "id": "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn",
       "quantity": null,
       "unit": null
     }
@@ -81,49 +86,68 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Hiyashi Tanuki Udon",
-      "description": "A refreshing version of Hiyashi Tanuki Udon, with noodles cooled thoroughly and served with a clean, savory dressing and crisp toppings for contrast.",
-      "animeContext": "This recipe is thematically inspired by March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Hiyashi Tanuki Udon — chilled udon with crunchy tenkasu",
+      "description": "The Hiyashi Tanuki Udon are thick noodles served cold with meatsuyu sauce, cucumber and crunchy tenkasu. Udons are cooled and drained well; seasoning and crunchies are added only at the time of eating. The tenkasu is added just before the cold mentsuyu, so it remains crispy next to the udons and vegetables.",
+      "animeContext": "This recipe is thematically inspired by March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "udon": {
           "name": "Udon",
           "note": null
         },
         "tenkasu": {
-          "name": "Tenkasu (croccantini di pastella fritta per tempura)",
+          "name": "tenkasu (fried batter crunchies for tempura)",
           "note": null
         },
         "cetriolo_tagliato_a_julienne": {
-          "name": "Cetriolo cut into julienne",
+          "name": "cucumber cut into julienne",
           "note": null
         },
         "uovo_sodo_o_uovo_cotto_a_bassa_temperatura": {
-          "name": "Egg sodo o egg cotto a bassa temperatura (onsen tamago)",
+          "name": "boiled egg or boiled egg at low temperature (Onsen Tamago)",
           "note": null
         },
         "salsa_mentsuyu_concentrata": {
-          "name": "Sauce mentsuyu concentrata (raffreddata in frigo)",
+          "name": "Mentsuyu concentrated sauce (colded in the fridge)",
           "note": null
         },
-        "nori_a_striscioline_e_cipollotto_fresco_per_guarni": {
-          "name": "Nori a striscioline e spring onion fresh per guarnire",
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_1_nori_a_striscioline": {
+          "name": "nori cut into thin strips",
+          "note": null
+        },
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
+          "name": "fresh onion to garnish",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the dipping sauce or dressing and all garnishes first, then chill them so the final dish can be assembled without warming the noodles.",
-        "step_2": "Cook the noodles until just tender, rinse them thoroughly under cold water and chill them completely to remove surface starch and restore firmness.",
-        "step_3": "Drain very well and arrange the noodles with the prepared vegetables, proteins or crunchy elements without letting excess water dilute the seasoning.",
-        "step_4": "Add the cold sauce only at serving time and eat promptly, while the noodles remain firm and the toppings retain their texture."
+        "step_1": "Prepare the mentsuyu and let it cool completely in the refrigerator; cucumber slice, onion and nori and keep the tenkasu dry until serving.",
+        "step_2": "Cook the udon in plenty of boiling water as long as they are elastic but still consistent.",
+        "step_3": "Drain and cool immediately under very cold running water, then pass them in water and ice to stop completely cooking.",
+        "step_4": "Drain the udon with care and shake them well: the residual water would dilute the mentsuyu.",
+        "step_5": "Distribute them in the bowls and add cucumber, egg, onion and nori.",
+        "step_6": "Add tenkasu only at the last moment, so it remains crispy.",
+        "step_7": "Pour the cold mentsuyu immediately before serving and mix at the table."
       }
     },
     "it": {
       "title": "Hiyashi Tanuki Udon (Udon Freddi con Tenkasu Croccanti)",
-      "description": "Una versione fresca di Hiyashi Tanuki Udon (Udon Freddi con Tenkasu Croccanti), con noodles raffreddati con cura, condimento sapido e guarnizioni croccanti che mantengono il piatto leggero e netto.",
+      "description": "Gli Hiyashi Tanuki Udon sono noodles spessi serviti freddi con salsa mentsuyu, cetriolo e tenkasu croccante. Gli udon vengono raffreddati e scolati bene; condimento e croccantini si aggiungono soltanto al momento di mangiare. Il tenkasu viene aggiunto poco prima del mentsuyu freddo, così rimane croccante accanto agli udon e alle verdure.",
       "animeContext": "Questa ricetta è ispirata tematicamente a March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "udon": {
@@ -131,7 +155,7 @@
           "note": null
         },
         "tenkasu": {
-          "name": "Tenkasu (croccantini di pastella fritta per tempura)",
+          "name": "tenkasu (croccantini di pastella fritta per tempura)",
           "note": null
         },
         "cetriolo_tagliato_a_julienne": {
@@ -146,164 +170,199 @@
           "name": "salsa Mentsuyu concentrata (raffreddata in frigo)",
           "note": null
         },
-        "nori_a_striscioline_e_cipollotto_fresco_per_guarni": {
-          "name": "Nori a striscioline e cipollotto fresco per guarnire",
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_1_nori_a_striscioline": {
+          "name": "Nori a striscioline",
+          "note": null
+        },
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
+          "name": "cipollotto fresco per guarnire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, lascia cuocere gli udon in acqua bollente, scolali e trasferiscili immediatamente in una ciotola con acqua e cubetti di ghiaccio per raffreddarli completamente.",
-        "step_2": "Prosegui così: scola bene gli udon e sistemali nelle ciotole di porta in tavolazio.",
-        "step_3": "Nella fase successiva, sistema sopra gli udon il cetriolo a julienne, l'uovo al centro, abbondante Tenkasu croccante, cipollotto e alga nori.",
-        "step_4": "Per completare, aggiungi la salsa Mentsuyu ben fredda direttamente sopra il piatto prima di amalgamare e porta in tavolare."
+        "step_1": "Prepara il mentsuyu e lascialo raffreddare completamente in frigorifero; affetta cetriolo, cipollotto e nori e tieni il tenkasu asciutto fino al servizio.",
+        "step_2": "Cuoci gli udon in abbondante acqua bollente finché sono elastici ma ancora consistenti.",
+        "step_3": "Scolali e raffreddali immediatamente sotto acqua corrente molto fredda, poi passali in acqua e ghiaccio per fermare del tutto la cottura.",
+        "step_4": "Scola gli udon con cura e scuotili bene: l’acqua residua diluirebbe il mentsuyu.",
+        "step_5": "Distribuiscili nelle ciotole e aggiungi cetriolo, uovo, cipollotto e nori.",
+        "step_6": "Aggiungi il tenkasu solo all’ultimo momento, così rimane croccante.",
+        "step_7": "Versa il mentsuyu freddo immediatamente prima di servire e mescola a tavola."
       }
     },
     "es": {
-      "title": "Hiyashi Tanuki Udon",
-      "description": "Una versión práctica de Hiyashi Tanuki Udon para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Hiyashi tanuki udon — udon frío con tenkasu crujiente",
+      "description": "Los Hiyashi Tanuki Udon son fideos gruesos servidos fríos con salsa mentsuyu, pepino y tenkasu crujiente. Los udons se enfrían y escurren bien; condimentos y crujientes se añaden solamente al momento de comer. El tenkasu se añade poco antes del mentsuyu frío, por lo que permanece crujiente junto a los udons y las verduras.",
+      "animeContext": "Esta receta está inspirada temáticamente en March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "udon": {
-          "name": "Udon",
+          "name": "udon",
           "note": null
         },
         "tenkasu": {
-          "name": "Tenkasu (croccantini di pastella fritta per tempura)",
+          "name": "tenkasu (crujientes fritas para tempura)",
           "note": null
         },
         "cetriolo_tagliato_a_julienne": {
-          "name": "Cetriolo cut into julienne",
+          "name": "pepino cortado en julienne",
           "note": null
         },
         "uovo_sodo_o_uovo_cotto_a_bassa_temperatura": {
-          "name": "Huevo sodo o huevo cotto a bassa temperatura (onsen tamago)",
+          "name": "huevo duro o huevo cocido a baja temperatura (Onsen Tamago)",
           "note": null
         },
         "salsa_mentsuyu_concentrata": {
-          "name": "Salsa mentsuyu concentrata (raffreddata in frigo)",
+          "name": "Salsa Mentsuyu concentrada (enfriada en la nevera)",
           "note": null
         },
-        "nori_a_striscioline_e_cipollotto_fresco_per_guarni": {
-          "name": "Nori a striscioline e spring cebolla fresco per guarnire",
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_1_nori_a_striscioline": {
+          "name": "nori en tiras finas",
+          "note": null
+        },
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
+          "name": "Cepollotto fresco para guarnición",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Prepara el mentsuyu y deja que se enfríe completamente en la nevera; pepino, cebolla y nori y mantén el tenkasu seco hasta el servicio.",
+        "step_2": "Cuece los udon en abundante agua hirviendo hasta que queden elásticos, pero aún firmes.",
+        "step_3": "Escurrir y enfriar inmediatamente bajo agua corriente muy fría, luego pasarlos en agua y hielo para detener completamente la cocción.",
+        "step_4": "Escurrir los udon con cuidado y sacudir bien: el agua residual diluiría el mentsuyu.",
+        "step_5": "Dispárale en los cuencos y añade pepino, huevo, cebolla y nori.",
+        "step_6": "Añade el tenkasu sólo en el último momento, para que siga siendo crujiente.",
+        "step_7": "Vierta el mentsuyu frío inmediatamente antes de servir y mezclar en la mesa."
       }
     },
     "fr": {
-      "title": "Hiyashi Tanuki Udon",
-      "description": "Une version pratique de Hiyashi Tanuki Udon à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Hiyashi tanuki udon — nouilles udon froides aux éclats de tempura",
+      "description": "Les Hiyashi Tanuki Udon sont des nouilles souvent servies froides avec de la sauce mentsuyu, concombre et tenkasu croustillant. Les udon sont refroidis et bien taillés; condiments et croquants s'ajoutent seulement au moment de manger. Le tenkasu est ajouté juste avant le mentsuyu froid, de sorte qu'il reste croustillant à côté des udons et des légumes.",
+      "animeContext": "Cette recette s'inspire librement de March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "udon": {
           "name": "Udon",
           "note": null
         },
         "tenkasu": {
-          "name": "Tenkasu (croccantini di pastella fritta per tempura)",
+          "name": "tenkasu (crêpes de pastèque frites pour tempura)",
           "note": null
         },
         "cetriolo_tagliato_a_julienne": {
-          "name": "Cetriolo cut into julienne",
+          "name": "concombre coupé en julienne",
           "note": null
         },
         "uovo_sodo_o_uovo_cotto_a_bassa_temperatura": {
-          "name": "Œuf sodo o œuf cotto a bassa temperatura (onsen tamago)",
+          "name": "œuf dur ou œuf cuit à basse température (Onsen Tamago)",
           "note": null
         },
         "salsa_mentsuyu_concentrata": {
-          "name": "Sauce mentsuyu concentrata (raffreddata in frigo)",
+          "name": "Sauce Mentsuyu concentrée (rhumée dans le réfrigérateur)",
           "note": null
         },
-        "nori_a_striscioline_e_cipollotto_fresco_per_guarni": {
-          "name": "Nori a striscioline e spring oignon frais per guarnire",
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_1_nori_a_striscioline": {
+          "name": "nori en fines lanières",
+          "note": null
+        },
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
+          "name": "oignon frais pour garnir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Préparez le mentsuyu et laissez-le refroidir complètement au réfrigérateur; tranche concombre, oignon et nori et gardez le tenkasu sec jusqu'au service.",
+        "step_2": "Fais cuire les nouilles udon dans une grande quantité d’eau bouillante jusqu’à ce qu’elles soient souples, mais encore fermes.",
+        "step_3": "Écolez-les et refroidissez-les immédiatement sous l'eau courante très froide, puis passez-les dans l'eau et la glace pour arrêter complètement la cuisson.",
+        "step_4": "Égoutte soigneusement les nouilles udon et secoue-les : l’eau résiduelle diluerait le mentsuyu.",
+        "step_5": "Répartis-les dans les bols avec le concombre, l’œuf, la cébette et les lanières de nori.",
+        "step_6": "Ajoutez le tenkasu seulement au dernier moment, pour qu'il reste croustillant.",
+        "step_7": "Versez le mentsuyu froid immédiatement avant de servir et mélangez à la table."
       }
     },
     "de": {
-      "title": "Hiyashi Tanuki Udon",
-      "description": "Eine alltagstaugliche Version von Hiyashi Tanuki Udon für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Hiyashi Tanuki Udon – kalte Udon mit knusprigen Tenkasu",
+      "description": "Die Hiyashi Tanuki Udon sind dicken Nudeln kalt serviert mit mentsuyu Soße, Gurke und knusprige Tenkasu. Die Udons werden abgekühlt und gut abgekocht; Würz und Knusprig werden erst zum Essen hinzugefügt. Der Tenkasu wird kurz vor dem kalten Mentsuyu hinzugefügt, so bleibt er knusprig neben dem Udon und dem Gemüse.",
+      "animeContext": "Dieses Rezept ist thematisch von March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "udon": {
           "name": "Udon",
           "note": null
         },
         "tenkasu": {
-          "name": "Tenkasu (croccantini di pastella fritta per tempura)",
+          "name": "Tenkasu (Frittierte Teigknospen für Tempura)",
           "note": null
         },
         "cetriolo_tagliato_a_julienne": {
-          "name": "Cetriolo cut into julienne",
+          "name": "Gurke in Julienne geschnitten",
           "note": null
         },
         "uovo_sodo_o_uovo_cotto_a_bassa_temperatura": {
-          "name": "Ei sodo o Ei cotto a bassa temperatura (onsen tamago)",
+          "name": "gekochtes oder gekochtes Ei bei niedriger Temperatur (Onsen Tamago)",
           "note": null
         },
         "salsa_mentsuyu_concentrata": {
-          "name": "Sauce mentsuyu concentrata (raffreddata in frigo)",
+          "name": "Mentsuyu-Sauce konzentriert (gekühlt im Kühlschrank)",
           "note": null
         },
-        "nori_a_striscioline_e_cipollotto_fresco_per_guarni": {
-          "name": "Nori a striscioline e spring Zwiebel frisch per guarnire",
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_1_nori_a_striscioline": {
+          "name": "Nori a stristicoline",
+          "note": null
+        },
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
+          "name": "Frühlingszwiebeln",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Bereiten Sie den Mensuyu vor und lassen Sie ihn im Kühlschrank vollständig abkühlen; Gurken, Zwiebeln und Nori und halten Sie den Tenkasu trocken bis zum Service.",
+        "step_2": "Die Udon-Nudeln in reichlich kochendem Wasser garen, bis sie elastisch, aber noch bissfest sind.",
+        "step_3": "Schicken Sie sie und kühlen Sie sie sofort unter kaltem fließendem Wasser ab, dann gehen sie in Wasser und Eis, um das Kochen vollständig zu stoppen.",
+        "step_4": "Schütten Sie die Udon mit Sorgfalt und schütteln Sie gut: Restwasser würde das Mensuyu verdünnen.",
+        "step_5": "Geben Sie sie in die Schüssel und fügen Sie Gurken, Ei, Zwiebel und Nori.",
+        "step_6": "Fügen Sie Tenkasu nur zum letzten Moment hinzu, so bleibt es knusprig.",
+        "step_7": "Gießen Sie das kalte Mensuyu unmittelbar vor dem Servieren ein und mischen Sie zum Tisch."
       }
     },
     "pt": {
-      "title": "Hiyashi Tanuki Udon",
-      "description": "Uma versão prática de Hiyashi Tanuki Udon para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Hiyashi tanuki udon — udon frio com tenkasu crocante",
+      "description": "O Hiyashi Tanuki Udon são macarrão espesso servido frio com molho meatsuyu, pepino e tenkasu crocante. Os udons são arrefecidos e drenados bem; temperos e crocantes são adicionados apenas no momento da alimentação. O tenkasu é adicionado pouco antes do frissuyu, para que permaneça crocante ao lado dos udons e vegetais.",
+      "animeContext": "Esta receita inspira-se tematicamente em March Comes in Like a Lion, Emiya-san Chi no Kyou no Gohan. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "udon": {
           "name": "Udon",
           "note": null
         },
         "tenkasu": {
-          "name": "Tenkasu (croccantini di pastella fritta per tempura)",
+          "name": "tenkasu (colheita frita para tempura)",
           "note": null
         },
         "cetriolo_tagliato_a_julienne": {
-          "name": "Cetriolo cut into julienne",
+          "name": "pepino cortado em julienne",
           "note": null
         },
         "uovo_sodo_o_uovo_cotto_a_bassa_temperatura": {
-          "name": "Ovo sodo o ovo cotto a bassa temperatura (onsen tamago)",
+          "name": "ovo cozido ou ovo cozido a baixa temperatura (Onsen Tamago)",
           "note": null
         },
         "salsa_mentsuyu_concentrata": {
-          "name": "Molho mentsuyu concentrata (raffreddata in frigo)",
+          "name": "Molho concentrado de Mentsuyu (frio no frigorífico)",
           "note": null
         },
-        "nori_a_striscioline_e_cipollotto_fresco_per_guarni": {
-          "name": "Nori a striscioline e spring cebola fresco per guarnire",
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_1_nori_a_striscioline": {
+          "name": "nori em tiras",
+          "note": null
+        },
+        "nori_a_striscioline_e_cipollotto_fresco_per_guarni_2_cipollotto_fresco_per_guarn": {
+          "name": "cebola fresca para decorar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Prepare o mentosuyu e deixe esfriar completamente na geladeira; fatia de pepino, cebola e nori e mantenha o tenkasu seco até servir.",
+        "step_2": "Cozinhe o udon em muita água fervente desde que sejam elásticos, mas ainda consistentes.",
+        "step_3": "Esqueça e esfrie imediatamente sob água corrente muito fria, em seguida, passe- os em água e gelo para parar completamente de cozinhar.",
+        "step_4": "Esgote o udon com cuidado e sacudi- os bem: a água residual diluiria o mentosuyu.",
+        "step_5": "Distribua- os nas tigelas e adicione pepino, ovo, cebola e nori.",
+        "step_6": "Adicione tenkasu apenas no último momento, para que permaneça crocante.",
+        "step_7": "Despeje o frissuyu imediatamente antes de servir e misture na mesa."
       }
     }
   }

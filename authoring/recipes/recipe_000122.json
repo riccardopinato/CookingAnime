@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000122",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Grand Blue",
   "animeReferences": [
@@ -21,33 +21,33 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 5,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
       "id": "anguria_fresca_a_cubetti_ghiacciati",
-      "quantity": null,
-      "unit": null
+      "quantity": 300,
+      "unit": "g"
     },
     {
       "id": "palline_di_mochi_shiratama",
-      "quantity": null,
-      "unit": null
+      "quantity": 12,
+      "unit": "piece"
     },
     {
       "id": "sciroppo_di_seltz_o_sprite",
-      "quantity": null,
-      "unit": null
+      "quantity": 200,
+      "unit": "ml"
     }
   ],
   "steps": [
@@ -57,7 +57,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 120
     },
     {
       "id": "step_3",
@@ -66,157 +66,187 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Suikaju & Mochi alla Frutta Estiva",
-      "description": "A home-friendly Suikaju & Mochi alla Frutta Estiva that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Grand Blue, Free!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Suika Shiratama — watermelon with rice dumplings and lemon syrup",
+      "description": "The Suika Shiratama is a summer dessert of cold watermelon, rice mochi balls and lemon soda. The shiratamas are boiled and cooled first, then joined to the fruit at the time of service to maintain freshness and consistency. Shiratama and watermelon are distributed in cold glasses, adding the sparkling drink only when serving them.",
+      "animeContext": "This recipe is thematically inspired by Grand Blue, Free!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "anguria_fresca_a_cubetti_ghiacciati": {
-          "name": "Anguria fresh a cubetti ghiacciati",
+          "name": "fresh watermelon with ice cubes",
           "note": null
         },
         "palline_di_mochi_shiratama": {
-          "name": "Palline di mochi shiratama",
+          "name": "Mochi Shiratama balls",
           "note": null
         },
         "sciroppo_di_seltz_o_sprite": {
-          "name": "Sciroppo di seltz o sprite",
-          "note": null
+          "name": "Seltz or lemon soda",
+          "note": "Use a cold drink; the lemon soda makes the dessert sweeter."
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "Prepare the shiratamas by mixing glutinous rice flour and water little at a time until you get a soft and modelable dough.",
+        "step_2": "It forms small balls, cook them in boiling water until they come up to the surface and continue for 1-2 minutes; immediately cool them in water and ice.",
+        "step_3": "Cut the watermelon into cubes or small balls, remove the seeds and cool it in the refrigerator.",
+        "step_4": "Drain the shiratamas and dry them slightly so that the drink is not diluted.",
+        "step_5": "Distribute watermelon and shiratama in very cold glasses.",
+        "step_6": "Add cold seltz or a transparent lemon drink only at the time of service.",
+        "step_7": "Serve immediately with a teaspoon or wide straw; keep the dessert cold but do not leave the shiratama immersed for hours."
       }
     },
     "it": {
-      "title": "Suikaju & Mochi alla Frutta Estiva",
-      "description": "Un Suikaju & Mochi alla Frutta Estiva casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "title": "Suika Shiratama (Anguria Estiva con Mochi di Riso e Sciroppo al Limone)",
+      "description": "Il Suika Shiratama è un dessert estivo di anguria fredda, palline di mochi di riso e soda al limone. Gli shiratama vengono prima bolliti e raffreddati, poi riuniti alla frutta al momento del servizio per mantenerne freschezza e consistenza. Gli shiratama e l'anguria si distribuiscono in bicchieri freddi, aggiungendo la bevanda frizzante soltanto al momento di servirli.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Grand Blue, Free!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "anguria_fresca_a_cubetti_ghiacciati": {
-          "name": "Anguria fresca a cubetti ghiacciati",
+          "name": "anguria fresca a cubetti ghiacciati",
           "note": null
         },
         "palline_di_mochi_shiratama": {
-          "name": "Palline di Mochi Shiratama",
+          "name": "palline di Mochi Shiratama",
           "note": null
         },
         "sciroppo_di_seltz_o_sprite": {
-          "name": "Sciroppo di seltz o Sprite",
-          "note": null
+          "name": "seltz o soda al limone",
+          "note": "Usa una bevanda ben fredda; la soda al limone rende il dessert più dolce."
         }
       },
       "steps": {
-        "step_1": "Per iniziare, prepara i mochi Shiratama bollendo la farina Mochiko con acqua e raffreddandoli in acqua e ghiaccio.",
-        "step_2": "Prosegui così: riempi un bicchiere capiente con anguria ghiacciata e mochi.",
-        "step_3": "Nella fase successiva, aggiungi seltz frizzante o Sprite per un drink/dessert estivo rinfrescante.",
-        "step_4": "Per completare, aggiungi le guarnizioni previste e porta in tavola alla temperatura più adatta al piatto."
+        "step_1": "Prepara gli shiratama mescolando farina di riso glutinoso e acqua poco alla volta fino a ottenere un impasto morbido e modellabile.",
+        "step_2": "Forma piccole palline, cuocile in acqua bollente finché salgono a galla e continua per 1-2 minuti; raffreddale subito in acqua e ghiaccio.",
+        "step_3": "Taglia l’anguria in cubetti o piccole sfere, elimina i semi e raffreddala bene in frigorifero.",
+        "step_4": "Scola gli shiratama e asciugali leggermente per non diluire la bevanda.",
+        "step_5": "Distribuisci anguria e shiratama in bicchieri molto freddi.",
+        "step_6": "Aggiungi seltz freddissimo oppure una bibita trasparente al limone solo al momento del servizio.",
+        "step_7": "Servi subito con cucchiaino o cannuccia larga; mantieni il dessert freddo ma non lasciare gli shiratama immersi per ore."
       }
     },
     "es": {
-      "title": "Suikaju & Mochi alla Frutta Estiva",
-      "description": "Una versión práctica de Suikaju & Mochi alla Frutta Estiva para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Grand Blue, Free!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Suika shiratama — sandía con bolitas de arroz y sirope de limón",
+      "description": "El Suika Shiratama es un postre de verano de sandía fría, bolas de mocos de arroz y soda de limón. Los shiratama se hierven primero y se enfrían, luego se juntan a la fruta en el momento del servicio para mantener su frescura y consistencia. Los shiratama y la sandía se distribuyen en vasos fríos, añadiendo la bebida con gas solo en el momento de servirlos.",
+      "animeContext": "Esta receta está inspirada temáticamente en Grand Blue, Free!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "anguria_fresca_a_cubetti_ghiacciati": {
-          "name": "Anguria fresco a cubetti ghiacciati",
+          "name": "sandía fresca de cubos congelados",
           "note": null
         },
         "palline_di_mochi_shiratama": {
-          "name": "Palline di mochi shiratama",
+          "name": "bolas de Mochi Shiratama",
           "note": null
         },
         "sciroppo_di_seltz_o_sprite": {
-          "name": "Sciroppo di seltz o sprite",
-          "note": null
+          "name": "seltz o soda de limón",
+          "note": "Usa una bebida bien fría; la soda de limón hace el postre más dulce."
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Prepara el shiratama mezclando harina de arroz glutinoso y agua poco a poco hasta obtener una masa suave y modelable.",
+        "step_2": "Forma pequeñas bolas, cóciles en agua hirviendo hasta que suben a la superficie y continúan durante 1-2 minutos; enfríalas inmediatamente en agua y hielo.",
+        "step_3": "Corta la sandía en cubos o pequeñas esferas, elimina las semillas y enfría bien en la nevera.",
+        "step_4": "Escurrir los shiratama y secar ligeramente para no diluir la bebida.",
+        "step_5": "Distribuir sandía y shiratama en vasos muy fríos.",
+        "step_6": "Añadir seltz frío o una bebida transparente al limón sólo en el momento del servicio.",
+        "step_7": "Servir inmediatamente con cucharadita o pajita ancha; mantener el postre frío pero no dejar los shiratama sumergidos durante horas."
       }
     },
     "fr": {
-      "title": "Suikaju & Mochi alla Frutta Estiva",
-      "description": "Une version pratique de Suikaju & Mochi alla Frutta Estiva à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Grand Blue, Free!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Suika shiratama — pastèque, boulettes de riz et sirop de citron",
+      "description": "Le Suika Shiratama est un dessert estival de pastèque froide, boules de mochi de riz et soda au citron. Les shiratama sont d'abord bouillis et refroidis, puis réunis aux fruits au moment du service pour en maintenir la fraîcheur et la consistance. Les shiratamas et la pastèque se distribuent en verres froids, en ajoutant la boisson pétillante seulement au moment de les servir.",
+      "animeContext": "Cette recette s'inspire librement de Grand Blue, Free!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "anguria_fresca_a_cubetti_ghiacciati": {
-          "name": "Anguria frais a cubetti ghiacciati",
+          "name": "pastèque fraîche aux cubes glacés",
           "note": null
         },
         "palline_di_mochi_shiratama": {
-          "name": "Palline di mochi shiratama",
+          "name": "Boules de Mochi Shiratama",
           "note": null
         },
         "sciroppo_di_seltz_o_sprite": {
-          "name": "Sciroppo di seltz o sprite",
-          "note": null
+          "name": "Seltz ou soda au citron",
+          "note": "Il utilise une boisson bien froide; la soude au citron rend le dessert plus doux."
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Préparez les shiratamas en mélangeant farine de riz et eau peu à peu jusqu'à obtenir une pâte douce et modelable.",
+        "step_2": "Il forme de petites boules, cuire dans de l'eau bouillante jusqu'à ce qu'elles remontent à flot et continue pendant 1 à 2 minutes; refroidissez-les immédiatement dans l'eau et la glace.",
+        "step_3": "Coupez la pastèque en cubes ou en petites boules, éliminez les graines et refroidissez-la bien au réfrigérateur.",
+        "step_4": "Essayez les shiratamas et sèchez-les légèrement pour ne pas diluer la boisson.",
+        "step_5": "Distribuez pastèque et shiratama dans des verres très froids.",
+        "step_6": "Ajouter Seltz froid ou un soda transparent au citron seulement au moment du service.",
+        "step_7": "Servez-vous immédiatement avec une cuillère à café ou une paille large; maintenez le dessert froid mais ne laissez pas les shiratama immergés pendant des heures."
       }
     },
     "de": {
-      "title": "Suikaju & Mochi alla Frutta Estiva",
-      "description": "Eine alltagstaugliche Version von Suikaju & Mochi alla Frutta Estiva für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Grand Blue, Free! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Suika Shiratama – Wassermelone mit Reisklößchen und Zitronensirup",
+      "description": "Die Suika Shiratama ist ein Sommer Dessert mit kalter Wassermelone, Reismochi-Bällen und Zitronensoda. Die Shiratamas werden zunächst gekocht und gekühlt, dann mit Obst zum Zeitpunkt des Dienstes versammelt, um ihre Frische und Konsistenz zu halten. Die Shiratamas und die Wassermelone verteilen sich in kalten Gläsern, indem sie das würzige Getränk nur dann hinzufügen, wenn sie serviert werden.",
+      "animeContext": "Dieses Rezept ist thematisch von Grand Blue, Free! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "anguria_fresca_a_cubetti_ghiacciati": {
-          "name": "Anguria frisch a cubetti ghiacciati",
+          "name": "frischer Wassermelone mit eisigen Würfeln",
           "note": null
         },
         "palline_di_mochi_shiratama": {
-          "name": "Palline di mochi shiratama",
+          "name": "Mochi Shiratama Bälle",
           "note": null
         },
         "sciroppo_di_seltz_o_sprite": {
-          "name": "Sciroppo di seltz o sprite",
-          "note": null
+          "name": "Zitronen-Seltz oder Zitrone-Sauce",
+          "note": "Verwenden Sie ein gut kaltes Getränk; Zitronensoda macht das Dessert süßer."
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Bereiten Sie die Shiratama durch Mischen glutinös Reismehl und Wasser nach und nach bis zu einem weichen und modellierbaren Teig.",
+        "step_2": "Formen Sie kleine Kugeln, kochen Sie in kochendem Wasser, bis sie ans Wasser steigen und für 1-2 Minuten fortfahren; kühlen Sie sie sofort in Wasser und Eis.",
+        "step_3": "Schneiden Sie die Wassermelone in Würfel oder kleine Kugeln, entfernen Sie die Samen und kühlen Sie sie gut im Kühlschrank.",
+        "step_4": "Schütten Sie die Shiratamas und trocknen Sie sie leicht, um das Getränk nicht zu verdünnen.",
+        "step_5": "Geben Sie Wassermelone und Shiratama in sehr kalten Gläsern.",
+        "step_6": "Fügen Sie kalte Seltz oder eine transparente Limone zu Zitrone nur zum Zeitpunkt der Dienstleistung.",
+        "step_7": "Servieren Sie sofort mit einem Löffel oder einem breiten Strohhalm; halten Sie Ihr Dessert kalt, aber lassen Sie die Shiratama nicht stundenlang untertauchen."
       }
     },
     "pt": {
-      "title": "Suikaju & Mochi alla Frutta Estiva",
-      "description": "Uma versão prática de Suikaju & Mochi alla Frutta Estiva para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Grand Blue, Free!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Suika shiratama — melancia com bolinhos de arroz e xarope de limão",
+      "description": "O Suika Shiratama é uma sobremesa de verão de melancia fria, bolas de mochi de arroz e refrigerante de limão. Os shiratamas são fervidos e refrigerados primeiro, depois unidos ao fruto no momento do serviço para manter a frescura e consistência. O Shiratama e a melancia são distribuídos em copos frios, adicionando a bebida espumante apenas ao servi- los.",
+      "animeContext": "Esta receita inspira-se tematicamente em Grand Blue, Free!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "anguria_fresca_a_cubetti_ghiacciati": {
-          "name": "Anguria fresco a cubetti ghiacciati",
+          "name": "melancia fresca com cubos de gelo",
           "note": null
         },
         "palline_di_mochi_shiratama": {
-          "name": "Palline di mochi shiratama",
+          "name": "Bolas de Mochi Shiratama",
           "note": null
         },
         "sciroppo_di_seltz_o_sprite": {
-          "name": "Sciroppo di seltz o sprite",
-          "note": null
+          "name": "Seltz ou refrigerante de limão",
+          "note": "Use uma bebida fria; o refrigerante de limão torna a sobremesa mais doce."
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Prepare os shiratamas misturando farinha de arroz glutinoso e água pouco de cada vez até obter uma massa macia e modelável.",
+        "step_2": "Forma bolas pequenas, cozinhá- las em água fervente até que cheguem à superfície e continuem por 1-2 minutos; imediatamente esfriá- las em água e gelo.",
+        "step_3": "Cortar a melancia em cubos ou bolas pequenas, remover as sementes e esfriar na geladeira.",
+        "step_4": "Esgote os shiratamas e seque- os ligeiramente para que a bebida não seja diluída.",
+        "step_5": "Distribua melancia e shiratama em copos muito frios.",
+        "step_6": "Adicione sorvete frio ou uma bebida transparente de limão apenas no momento do serviço.",
+        "step_7": "Sirva imediatamente com uma colher de chá ou palha larga; mantenha a sobremesa fria, mas não deixe o shiratama imerso por horas."
       }
     }
   }

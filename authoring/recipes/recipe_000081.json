@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000081",
-  "contentVersion": 1,
+  "contentVersion": 3,
   "status": "published",
   "inspirationTitle": "Spy x Family",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 10,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -60,7 +60,12 @@
       "unit": "tsp"
     },
     {
-      "id": "sale_e_pepe_nero",
+      "id": "sale_e_pepe_nero_1_sale",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "id": "sale_e_pepe_nero_2_pepe_nero",
       "quantity": null,
       "unit": null
     },
@@ -73,7 +78,7 @@
   "steps": [
     {
       "id": "step_1",
-      "timerSeconds": null
+      "timerSeconds": 540
     },
     {
       "id": "step_2",
@@ -86,53 +91,92 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_10",
+      "timerSeconds": 300
+    },
+    {
+      "id": "step_11",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Tamago Sando",
-      "description": "A soft Japanese-style Tamago Sando with a tender dough or bread base and a clearly defined filling, shaped carefully so the structure remains neat after cooking.",
-      "animeContext": "This recipe is thematically inspired by Spy x Family, Detective Conan. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Tamago Sando — fluffy Japanese egg sandwich",
+      "description": "Tamago Sando is a Japanese sandwich made with soft crustless shokupan, hard-boiled eggs and Kewpie mayonnaise. Mash most of the eggs with mayonnaise, milk and seasonings into a spreadable filling; place half an egg in the centre to create a decorative cross-section. Butter the bread lightly, fill and wrap the sandwiches, let them rest briefly, then slice. The bread is not baked.",
+      "animeContext": "This recipe is thematically inspired by Spy x Family, Detective Conan. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "pane_per_sandwich_morbido_senza_crosta": {
-          "name": "Pane per sandwich morbido senza crosta (shokupan)",
+          "name": "soft bread for sandwiches without crust (Shokupan)",
           "note": null
         },
         "uovo_grandi": {
-          "name": "Egg grandi",
+          "name": "Large eggs",
           "note": null
         },
         "maionese_giapponese": {
-          "name": "Maionese giapponese (kewpie)",
+          "name": "Japanese mayonnaise (Kewpie)",
           "note": null
         },
         "latte": {
-          "name": "Milk",
+          "name": "milk",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
-        "sale_e_pepe_nero": {
-          "name": "Salt e black pepper",
+        "sale_e_pepe_nero_1_sale": {
+          "name": "salt",
+          "note": null
+        },
+        "sale_e_pepe_nero_2_pepe_nero": {
+          "name": "Black pepper",
           "note": null
         },
         "burro_ammorbidito_per_spalmare": {
-          "name": "Butter ammorbidito per spalmare",
+          "name": "softened butter for spreading",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Mix and knead the dough until smooth and elastic, then let it rest or rise until visibly expanded rather than judging the proof only by time.",
-        "step_2": "Divide the dough evenly and shape each piece with the center thick enough to hold the filling without tearing during cooking.",
-        "step_3": "Add the filling, seal carefully and complete the second proof or short rest before baking, steaming or frying as specified for the bread.",
-        "step_4": "Cook until the exterior is evenly colored and the center is done, then cool or serve warm according to the style of the finished bread."
+        "step_1": "Boil the eggs for 9 minutes to get a firm but creamy yolk.",
+        "step_2": "Transfer them immediately into water and ice to block the cooking, then peel them.",
+        "step_3": "Separate 1 egg and cut it in half (it will serve for the center of the sandwich).",
+        "step_4": "Crush the other 3 eggs in a bowl with the fork, leaving some visible pieces.",
+        "step_5": "Add Kewpie mayonnaise, milk, sugar, a pinch of salt and pepper to the dough of eggs.",
+        "step_6": "Mix well until you get a spreadable consistency.",
+        "step_7": "Spread a veil of soft butter on the slices of bread.",
+        "step_8": "Place half a hard-boiled egg in the middle of the slice and cover generously with the mixture of crushed eggs.",
+        "step_9": "Cover with the second slice of bread.",
+        "step_10": "Slightly press the sandwich, then wrap it in film for 5 minutes.",
+        "step_11": "Cut it in half exactly in the middle of the egg to reveal the decorative section."
       }
     },
     "it": {
       "title": "Tamago Sando (Sandwich Soffice all'Uovo Giapponese)",
-      "description": "Un Tamago Sando (Sandwich Soffice all'Uovo Giapponese) soffice in stile giapponese, con impasto o pane tenero e ripieno ben definito, formato con cura per mantenere una struttura ordinata dopo la cottura.",
+      "description": "Il Tamago Sando è un sandwich giapponese di pane shokupan soffice, farcito con uova sode e maionese Kewpie. Parte delle uova viene schiacciata con maionese, latte e condimenti fino a ottenere una crema spalmabile; una porzione di uovo resta al centro per creare una sezione decorativa al taglio. Il pane si farcisce e si lascia riposare avvolto prima del taglio, senza cuocerlo.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Spy x Family, Detective Conan. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "pane_per_sandwich_morbido_senza_crosta": {
@@ -140,7 +184,7 @@
           "note": null
         },
         "uovo_grandi": {
-          "name": "uovo grandi",
+          "name": "uova grandi",
           "note": null
         },
         "maionese_giapponese": {
@@ -155,119 +199,152 @@
           "name": "zucchero",
           "note": null
         },
-        "sale_e_pepe_nero": {
-          "name": "sale e pepe nero",
+        "sale_e_pepe_nero_1_sale": {
+          "name": "sale",
+          "note": null
+        },
+        "sale_e_pepe_nero_2_pepe_nero": {
+          "name": "pepe nero",
           "note": null
         },
         "burro_ammorbidito_per_spalmare": {
-          "name": "Burro ammorbidito per spalmare",
+          "name": "burro ammorbidito per spalmare",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, fai bollire le uova per 9 minuti per ottenere un tuorlo ben sodo ma cremoso. Trasferiscile immediatamente in acqua e ghiaccio per bloccare la cottura, poi sbucciale.",
-        "step_2": "Prosegui così: separa 1 uovo e taglialo a metà (porta in tavolarà per il centro del tramezzino). Schiaccia le altre 3 uova in una ciotola con la forchetta, lasciando qualche pezzetto visibile.",
-        "step_3": "Nella fase successiva, unisci alla farcia di uova la maionese Kewpie, il latte, lo zucchero, un pizzico di sale e pepe. Amalgama bene fino ad ottenere una consistenza spalmabile. Spalma un velo di burro morbido sulle fette di pane. Metti mezza uovo sodo al centro della fetta e copri generosamente con il composto di uova schiacciate. Copri con la seconda fetta di pane.",
-        "step_4": "Per completare, premi leggermente il sandwich, poi avvolgilo in pellicola per 5 minuti. Taglialo a metà esattamente al centro dell'uovo per rivelare la sezione decorativa."
+        "step_1": "Fai bollire le uova per 9 minuti per ottenere un tuorlo ben sodo ma cremoso.",
+        "step_2": "Trasferiscile immediatamente in acqua e ghiaccio per bloccare la cottura, poi sbucciale.",
+        "step_3": "Separa 1 uovo e taglialo a metà (servirà per il centro del tramezzino).",
+        "step_4": "Schiaccia le altre 3 uova in una ciotola con la forchetta, lasciando qualche pezzetto visibile.",
+        "step_5": "Unisci alla farcia di uova la maionese Kewpie, il latte, lo zucchero, un pizzico di sale e pepe.",
+        "step_6": "Amalgama bene fino a ottenere una consistenza spalmabile.",
+        "step_7": "Spalma un velo di burro morbido sulle fette di pane.",
+        "step_8": "Metti mezzo uovo sodo al centro della fetta e copri generosamente con il composto di uova schiacciate.",
+        "step_9": "Copri con la seconda fetta di pane.",
+        "step_10": "Premi leggermente il sandwich, poi avvolgilo in pellicola per 5 minuti.",
+        "step_11": "Taglialo a metà esattamente al centro dell'uovo per rivelare la sezione decorativa."
       }
     },
     "es": {
-      "title": "Tamago Sando",
-      "description": "Una versión práctica de Tamago Sando para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Spy x Family, Detective Conan. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Tamago sando — sándwich japonés esponjoso de huevo",
+      "description": "El Tamago Sando es un sándwich japonés de pan shokupan muy tierno, relleno de huevo cocido y mayonesa Kewpie. Se machacan la mayoría de los huevos con mayonesa, leche y condimentos hasta obtener una crema untable; medio huevo se coloca en el centro para mostrar una sección decorativa al cortarlo. Se unta el pan con mantequilla, se rellena, se envuelve y se deja reposar brevemente antes de cortar. No se hornea el pan.",
+      "animeContext": "Esta receta está inspirada temáticamente en Spy x Family, Detective Conan. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "pane_per_sandwich_morbido_senza_crosta": {
-          "name": "Pane per sandwich morbido senza crosta (shokupan)",
+          "name": "Pan para sándwich suave sin corteza (Shokupan)",
           "note": null
         },
         "uovo_grandi": {
-          "name": "Huevo grandi",
+          "name": "Huevos grandes",
           "note": null
         },
         "maionese_giapponese": {
-          "name": "Maionese giapponese (kewpie)",
+          "name": "mayonesa japonesa (Kewpie)",
           "note": null
         },
         "latte": {
-          "name": "Leche",
+          "name": "leche",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
-        "sale_e_pepe_nero": {
-          "name": "Sal e negro pepper",
+        "sale_e_pepe_nero_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_nero_2_pepe_nero": {
+          "name": "pimienta negra",
           "note": null
         },
         "burro_ammorbidito_per_spalmare": {
-          "name": "Mantequilla ammorbidito per spalmare",
+          "name": "mantequilla ablandada para untar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Hacer hervir los huevos durante 9 minutos para obtener una yema bien dura pero cremosa.",
+        "step_2": "Transfiéralas inmediatamente al agua y al hielo para bloquear la cocción, luego pelícalas.",
+        "step_3": "Separa 1 huevo y córtalo por la mitad (servirá para el centro del sándwich).",
+        "step_4": "Aplasta los otros 3 huevos en un tazón con el tenedor, dejando algunos trozos visibles.",
+        "step_5": "Combina la mayonesa Kewpie, la leche, el azúcar, una pizca de sal y pimienta.",
+        "step_6": "Mezcla bien hasta obtener una consistencia untada.",
+        "step_7": "Pon un velo de mantequilla suave en las rebanadas de pan.",
+        "step_8": "Pon medio huevo duro en el centro de la rebanada y cubre generosamente con el compuesto de huevos aplastados.",
+        "step_9": "Cúbrete con la segunda rebanada de pan.",
+        "step_10": "Presiona ligeramente el sándwich, luego envuélvelo en película durante 5 minutos.",
+        "step_11": "Córtalo a la mitad exactamente en el centro del huevo para revelar la sección decorativa."
       }
     },
     "fr": {
-      "title": "Tamago Sando",
-      "description": "Une version pratique de Tamago Sando à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Spy x Family, Detective Conan. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Tamago sando — sandwich japonais moelleux aux œufs",
+      "description": "Le Tamago Sando est un sandwich japonais au pain shokupan moelleux et sans croûte, garni d'œufs durs et de mayonnaise Kewpie. Écrasez la plupart des œufs avec la mayonnaise, le lait et les assaisonnements pour obtenir une garniture tartinable; placez un demi-œuf au centre pour obtenir une jolie coupe. Beurrez légèrement le pain, garnissez, enveloppez, laissez reposer quelques minutes et tranchez. Le pain ne passe pas au four.",
+      "animeContext": "Cette recette s'inspire librement de Spy x Family, Detective Conan. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "pane_per_sandwich_morbido_senza_crosta": {
-          "name": "Pane per sandwich morbido senza crosta (shokupan)",
+          "name": "pain pour sandwich doux sans croûte (Shokupan)",
           "note": null
         },
         "uovo_grandi": {
-          "name": "Œuf grandi",
+          "name": "gros oeufs",
           "note": null
         },
         "maionese_giapponese": {
-          "name": "Maionese giapponese (kewpie)",
+          "name": "mayonnaise japonaise (Kewpie)",
           "note": null
         },
         "latte": {
-          "name": "Lait",
+          "name": "lait",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
-        "sale_e_pepe_nero": {
-          "name": "Sel e noir pepper",
+        "sale_e_pepe_nero_1_sale": {
+          "name": "sel",
+          "note": null
+        },
+        "sale_e_pepe_nero_2_pepe_nero": {
+          "name": "poivre noir",
           "note": null
         },
         "burro_ammorbidito_per_spalmare": {
-          "name": "Beurre ammorbidito per spalmare",
+          "name": "beurre adouci à tartiner",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Faites bouillir vos œufs pendant 9 minutes pour obtenir un jaune d'œuf bien ferme mais crémeux.",
+        "step_2": "Transférez-les immédiatement dans l'eau et la glace pour bloquer la cuisson, puis pelez-les.",
+        "step_3": "Séparez 1 oeuf et coupez-le en deux (il servira pour le centre du sandwich).",
+        "step_4": "Écrasez les 3 autres œufs dans un bol avec une fourchette, laissant quelques morceaux visibles.",
+        "step_5": "Joignez à la farce d'œufs la mayonnaise Kewpie, le lait, le sucre, une pincée de sel et de poivre.",
+        "step_6": "Amalgame bien jusqu'à ce que vous obteniez une texture inaltérable.",
+        "step_7": "Spaltez un voile de beurre doux sur les tranches de pain.",
+        "step_8": "Mettez un demi-œuf dur au centre de la tranche et couvrez généreusement avec le composé d'œufs écrasés.",
+        "step_9": "Couvrez avec la deuxième tranche de pain.",
+        "step_10": "Appuyez légèrement sur le sandwich, puis enroulez-le en film pendant 5 minutes.",
+        "step_11": "Coupez-le en deux au centre de l'œuf pour révéler la section décorative."
       }
     },
     "de": {
-      "title": "Tamago Sando",
-      "description": "Eine alltagstaugliche Version von Tamago Sando für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Spy x Family, Detective Conan inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Tamago Sando – japanisches Eiersandwich mit weichem Brot",
+      "description": "Tamago Sando ist ein japanisches Sandwich aus weichem Shokupan ohne Rinde, hartgekochten Eiern und Kewpie-Mayonnaise. Die meisten Eier werden mit Mayonnaise, Milch und Gewürzen zu einer streichfähigen Füllung zerdrückt; eine Eierhälfte liegt für den dekorativen Anschnitt in der Mitte. Das Brot dünn mit Butter bestreichen, füllen, einwickeln, kurz ruhen lassen und schneiden. Das Brot wird nicht gebacken.",
+      "animeContext": "Dieses Rezept ist thematisch von Spy x Family, Detective Conan inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "pane_per_sandwich_morbido_senza_crosta": {
-          "name": "Pane per sandwich morbido senza crosta (shokupan)",
+          "name": "Brot für weiches Brot ohne Kruste (Shokupan)",
           "note": null
         },
         "uovo_grandi": {
-          "name": "Ei grandi",
+          "name": "Großeier",
           "note": null
         },
         "maionese_giapponese": {
-          "name": "Maionese giapponese (kewpie)",
+          "name": "Japanische Mayonnaise (Kewpie)",
           "note": null
         },
         "latte": {
@@ -278,61 +355,83 @@
           "name": "Zucker",
           "note": null
         },
-        "sale_e_pepe_nero": {
-          "name": "Salz e schwarz pepper",
+        "sale_e_pepe_nero_1_sale": {
+          "name": "Salz",
+          "note": null
+        },
+        "sale_e_pepe_nero_2_pepe_nero": {
+          "name": "Pfeffer, schwarz",
           "note": null
         },
         "burro_ammorbidito_per_spalmare": {
-          "name": "Butter ammorbidito per spalmare",
+          "name": "Butter, weich gemacht, zum Aufstreichen",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Kochen Sie die Eier für 9 Minuten, um einen fest aber cremigen Eigelb zu bekommen.",
+        "step_2": "Bringen Sie sie sofort in Wasser und Eis, um das Kochen zu blockieren, und schälen Sie sie dann.",
+        "step_3": "Trennen Sie 1 Ei und schneiden Sie es in die Hälfte (für die Mitte des Tramezzino dienen).",
+        "step_4": "Zerquetschen Sie die anderen 3 Eier in einer Schüssel mit der Gabel und lassen Sie einige Stücke sichtbar.",
+        "step_5": "Kombinieren Sie die Mayonnaise Kewpie, Milch, Zucker, eine Prise Salz und Pfeffer mit den Eiern.",
+        "step_6": "Amalgam gut, bis Sie eine bestreichbare Textur zu erhalten.",
+        "step_7": "Spreize einen Schleier von weicher Butter auf die Brotscheiben.",
+        "step_8": "Legen Sie ein halbes festes Ei in die Mitte der Scheibe und decken großzügig mit der Mischung aus zerquetschten Eiern.",
+        "step_9": "Bedecken Sie das zweite Stück Brot.",
+        "step_10": "Drücken Sie das Sandwich leicht und wickeln Sie es 5 Minuten lang in einen Film.",
+        "step_11": "Schneiden Sie es in der Mitte genau in der Mitte des Eis, um den dekorativen Abschnitt zu enthüllen."
       }
     },
     "pt": {
-      "title": "Tamago Sando",
-      "description": "Uma versão prática de Tamago Sando para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Spy x Family, Detective Conan. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Tamago sando — sanduíche japonês fofo de ovo",
+      "description": "O Tamago Sando é uma sanduíche japonesa de pão shokupan macio, sem côdea, recheada com ovos cozidos e maionese Kewpie. Esmaga-se a maior parte dos ovos com maionese, leite e temperos até obter uma pasta fácil de barrar; coloca-se meio ovo no centro para revelar um corte decorativo. Barra-se o pão com um pouco de manteiga, recheia-se, embrulha-se, deixa-se repousar brevemente e corta-se. O pão não vai ao forno.",
+      "animeContext": "Esta receita inspira-se tematicamente em Spy x Family, Detective Conan. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "pane_per_sandwich_morbido_senza_crosta": {
-          "name": "Pane per sandwich morbido senza crosta (shokupan)",
+          "name": "Pão macio para sanduíches sem crosta (Shokupan)",
           "note": null
         },
         "uovo_grandi": {
-          "name": "Ovo grandi",
+          "name": "Ovos grandes",
           "note": null
         },
         "maionese_giapponese": {
-          "name": "Maionese giapponese (kewpie)",
+          "name": "Maionesa japonesa (Kewpie)",
           "note": null
         },
         "latte": {
-          "name": "Leite",
+          "name": "leite",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
-        "sale_e_pepe_nero": {
-          "name": "Sal e preto pepper",
+        "sale_e_pepe_nero_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_nero_2_pepe_nero": {
+          "name": "Pimenta preta",
           "note": null
         },
         "burro_ammorbidito_per_spalmare": {
-          "name": "Manteiga ammorbidito per spalmare",
+          "name": "manteiga amolecida para espalhar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Ferva os ovos por 9 minutos para obter uma gema firme, mas cremosa.",
+        "step_2": "Transfira- os imediatamente para água e gelo para bloquear o cozimento, em seguida, descasque- os.",
+        "step_3": "Separe 1 ovo e corte- o ao meio (ele servirá para o centro do sanduíche).",
+        "step_4": "Esmague os outros 3 ovos em uma tigela com o garfo, deixando algumas peças visíveis.",
+        "step_5": "Adicione maionese Kewpie, leite, açúcar, uma pitada de sal e pimenta à massa de ovos.",
+        "step_6": "Misture bem até obter uma consistência espalhable.",
+        "step_7": "Espalhe um véu de manteiga macia nas fatias de pão.",
+        "step_8": "Coloque metade de um ovo duro no meio da fatia e cubra generosamente com a mistura de ovos esmagados.",
+        "step_9": "Cubra com a segunda fatia de pão.",
+        "step_10": "Pressione levemente o sanduíche e embrulhe- o no filme por 5 minutos.",
+        "step_11": "Corte ao meio exatamente no meio do ovo para revelar a seção decorativa."
       }
     }
   }

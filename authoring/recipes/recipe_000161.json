@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000161",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Nana",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 10,
   "servings": 4,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 12; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -65,14 +65,19 @@
       "unit": "ml"
     },
     {
-      "id": "fragole_fresche_e_banane_a_fettine",
-      "quantity": null,
-      "unit": null
+      "id": "fragole_fresche_e_banane_a_fettine_1_fragole_fresche",
+      "quantity": 6,
+      "unit": "piece"
+    },
+    {
+      "id": "fragole_fresche_e_banane_a_fettine_2_banane_a_fettine",
+      "quantity": 1,
+      "unit": "piece"
     },
     {
       "id": "sciroppo_di_cioccolato_o_nutella",
-      "quantity": null,
-      "unit": null
+      "quantity": 2,
+      "unit": "tbsp"
     }
   ],
   "steps": [
@@ -82,7 +87,7 @@
     },
     {
       "id": "step_2",
-      "timerSeconds": null
+      "timerSeconds": 900
     },
     {
       "id": "step_3",
@@ -90,58 +95,92 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 60
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_10",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Fruit Crepe Harajuku Style",
-      "description": "A Japanese-style Fruit Crepe Harajuku Style designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Nana, K-On!. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Harajuku-Style Fruit Crêpes — rolled crêpes with cream and fruit",
+      "description": "The Fruit Crepe in Harajuku style are thin crêpe rolled cone around whipped cream and fresh fruit. The base is cooked and cooled before filling; the final folding allows you to serve them as a walk. The crêpe is folded in a cone with cream and fruit visible on top, then wrapped at the base to be eaten walking.",
+      "animeContext": "This recipe is thematically inspired by Nana, K-On!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose flour",
+          "name": "flour 00",
           "note": null
         },
         "uovo": {
-          "name": "Egg",
+          "name": "egg",
           "note": null
         },
         "latte": {
-          "name": "Milk",
+          "name": "milk",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "burro_fuso": {
-          "name": "Butter fuso",
+          "name": "melted butter",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Cream montata zuccherata",
+          "name": "sugary whipped cream",
           "note": null
         },
-        "fragole_fresche_e_banane_a_fettine": {
-          "name": "Strawberries fresh e banane a fettine",
+        "fragole_fresche_e_banane_a_fettine_1_fragole_fresche": {
+          "name": "fresh strawberries",
+          "note": null
+        },
+        "fragole_fresche_e_banane_a_fettine_2_banane_a_fettine": {
+          "name": "Sliced bananas",
           "note": null
         },
         "sciroppo_di_cioccolato_o_nutella": {
-          "name": "Sciroppo di cioccolato o nutella",
+          "name": "Chocolate syrup or Nutella",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Work the eggs with sugar, then incorporate the milk, the sifted flour and finally the melted butter.",
+        "step_2": "Leave the batter in the fridge for 15 minutes.",
+        "step_3": "Slightly grease a large-diameter non-stick pan suitable for crêpe.",
+        "step_4": "Add a ladle of batter and subtly distribute it and cook 1 minute per side.",
+        "step_5": "Spread an open crêpe on the work surface or on a plate.",
+        "step_6": "Arrange whipped cream and fresh fruit cut only on a quarter of the surface of the crack.",
+        "step_7": "Decorate with chocolate syrup.",
+        "step_8": "Fold the crêpe in half forming a semicircle.",
+        "step_9": "It folds the two sides towards the center forming an open cone on top, with cream and fruit clearly visible.",
+        "step_10": "Wrap the base with a paper napkin and walks."
       }
     },
     "it": {
       "title": "Fruit Crepe Harajuku Style (Crepe Arrotolata con Panna e Frutta)",
-      "description": "Un Fruit Crepe Harajuku Style (Crepe Arrotolata con Panna e Frutta) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Le Fruit Crepe in stile Harajuku sono crêpe sottili arrotolate a cono intorno a panna montata e frutta fresca. La base viene cotta e raffreddata prima di farcire; la piegatura finale permette di servirle da passeggio. La crêpe viene piegata a cono con panna e frutta visibili in cima, quindi avvolta alla base per essere mangiata passeggiando.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Nana, K-On!. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "farina_00": {
@@ -168,119 +207,149 @@
           "name": "panna montata zuccherata",
           "note": null
         },
-        "fragole_fresche_e_banane_a_fettine": {
-          "name": "Fragole fresche e banane a fettine",
+        "fragole_fresche_e_banane_a_fettine_1_fragole_fresche": {
+          "name": "fragole fresche",
+          "note": null
+        },
+        "fragole_fresche_e_banane_a_fettine_2_banane_a_fettine": {
+          "name": "banane a fettine",
           "note": null
         },
         "sciroppo_di_cioccolato_o_nutella": {
-          "name": "Sciroppo di cioccolato o Nutella",
+          "name": "sciroppo di cioccolato o Nutella",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, lavorare le uova con lo zucchero, unire il latte, la farina setacciata ed infine il burro fuso. Far riposare la pastella in frigo per 15 minuti.",
-        "step_2": "Prosegui così: ungere una padella antiaderente per crepes di grande diametro. Aggiungire un mestolo di pastella distribuendola sottilmente e cuocere 1 minuto per lato.",
-        "step_3": "Nella fase successiva, stendere la crepe aperta. Disporre la panna montata e la frutta fresca tagliata solo su un quarto della superficie della crepe. Decorare con sciroppo al cioccolato. Piegare la crepe a metà creando un semicerchio, poi ripiegare i due lati verso il centro formando un cono aperto in cima con la panna e la frutta ben visibili.",
-        "step_4": "Per completare, avvolgere la base con un tovagliolo di carta e porta in tavolare da passeggio."
+        "step_1": "Lavora le uova con lo zucchero, poi incorpora il latte, la farina setacciata e infine il burro fuso.",
+        "step_2": "Lascia riposare la pastella in frigo per 15 minuti.",
+        "step_3": "Ungi leggermente una padella antiaderente di grande diametro adatta alle crêpe.",
+        "step_4": "Aggiungi un mestolo di pastella distribuendola sottilmente e cuoci 1 minuto per lato.",
+        "step_5": "Stendi una crêpe aperta sul piano di lavoro o su un piatto.",
+        "step_6": "Disponi la panna montata e la frutta fresca tagliata solo su un quarto della superficie della crepe.",
+        "step_7": "Decora con sciroppo al cioccolato.",
+        "step_8": "Piega la crêpe a metà formando un semicerchio.",
+        "step_9": "Ripiega i due lati verso il centro formando un cono aperto in cima, con panna e frutta ben visibili.",
+        "step_10": "Avvolgi la base con un tovagliolo di carta e servi da passeggio."
       }
     },
     "es": {
-      "title": "Fruit Crepe Harajuku Style",
-      "description": "Una versión práctica de Fruit Crepe Harajuku Style para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Nana, K-On!. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Crepes de fruta al estilo Harajuku — enrolladas con nata y fruta",
+      "description": "Las Fruit Crepe de estilo Harajuku son crêpe finas enrolladas en cono alrededor de nata montada y fruta fresca. La base se cocina y se enfría antes de rellenar; el pliegue final permite servir de paseo. La crepe se dobla al cono con crema y frutas visibles en la parte superior, luego envuelto en la base para ser comido paseando.",
+      "animeContext": "Esta receta está inspirada temáticamente en Nana, K-On!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose harina",
+          "name": "harina 00",
           "note": null
         },
         "uovo": {
-          "name": "Huevo",
+          "name": "huevo",
           "note": null
         },
         "latte": {
-          "name": "Leche",
+          "name": "leche",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "burro_fuso": {
-          "name": "Mantequilla fuso",
+          "name": "mantequilla derretida",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Nata montata zuccherata",
+          "name": "crema montada azucarada",
           "note": null
         },
-        "fragole_fresche_e_banane_a_fettine": {
-          "name": "Strawberries fresco e banane a fettine",
+        "fragole_fresche_e_banane_a_fettine_1_fragole_fresche": {
+          "name": "fresas frescas",
+          "note": null
+        },
+        "fragole_fresche_e_banane_a_fettine_2_banane_a_fettine": {
+          "name": "plátanos de rodajas",
           "note": null
         },
         "sciroppo_di_cioccolato_o_nutella": {
-          "name": "Sciroppo di cioccolato o nutella",
+          "name": "jarabe de chocolate o Nutella",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Trabaja los huevos con azúcar, luego incorpora la leche, la harina tamizada y finalmente la mantequilla fundida.",
+        "step_2": "Deja reposar la masa en la nevera durante 15 minutos.",
+        "step_3": "Ungi un poco una sartén antiadherente de gran diámetro que se adapta a las crepes.",
+        "step_4": "Añade un cucharón de pasta sutilmente y cocina 1 minuto por lado.",
+        "step_5": "Extiende un crêpe abierto en el plano de trabajo o en un plato.",
+        "step_6": "Pon la crema montada y la fruta fresca cortada sólo sobre una cuarta parte de la superficie de la grieta.",
+        "step_7": "Decorado con jarabe de chocolate.",
+        "step_8": "Dobla el crêpe por la mitad formando un semicírculo.",
+        "step_9": "Dobla los dos lados hacia el centro formando un cono abierto en la parte superior, con crema y frutas bien visibles.",
+        "step_10": "Envuelve la base con una servilleta de papel y servilletas de paseo."
       }
     },
     "fr": {
-      "title": "Fruit Crepe Harajuku Style",
-      "description": "Une version pratique de Fruit Crepe Harajuku Style à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Nana, K-On!. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Crêpes aux fruits façon Harajuku — roulées à la crème et aux fruits",
+      "description": "Les Fruit Crèche de style Harajuku sont des crêpes fines roulées en cône autour de crème fouettée et de fruits frais. La base est cuite et refroidie avant de faire cuire; le pliage final permet de les servir de promenade. La crêpe est pliée en cône avec de la crème et des fruits visibles au sommet, puis enveloppée à la base pour être mangée en se promenant.",
+      "animeContext": "Cette recette s'inspire librement de Nana, K-On!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose farine",
+          "name": "farine 00",
           "note": null
         },
         "uovo": {
-          "name": "Œuf",
+          "name": "œuf",
           "note": null
         },
         "latte": {
-          "name": "Lait",
+          "name": "lait",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "burro_fuso": {
-          "name": "Beurre fuso",
+          "name": "beurre fondu",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Crème montata zuccherata",
+          "name": "crème fouettée sucrée",
           "note": null
         },
-        "fragole_fresche_e_banane_a_fettine": {
-          "name": "Strawberries frais e banane a fettine",
+        "fragole_fresche_e_banane_a_fettine_1_fragole_fresche": {
+          "name": "fraises fraîches",
+          "note": null
+        },
+        "fragole_fresche_e_banane_a_fettine_2_banane_a_fettine": {
+          "name": "bananes à tranches",
           "note": null
         },
         "sciroppo_di_cioccolato_o_nutella": {
-          "name": "Sciroppo di cioccolato o nutella",
+          "name": "sirop de chocolat ou Nutella",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Il travaille avec le sucre, puis il intègre le lait, la farine tamisée et enfin le beurre fondu.",
+        "step_2": "Laissez reposer la pâte dans le réfrigérateur pendant 15 minutes.",
+        "step_3": "Ajoutez légèrement une poêle anti-adhérente de grand diamètre adaptée aux crêpes.",
+        "step_4": "Ajoutez une louche de pâte en la distribuant subtilement et faites cuire 1 minute par côté.",
+        "step_5": "Allongez une crêpe ouverte sur le plan de travail ou sur un plat.",
+        "step_6": "Disposez la crème fouettée et les fruits frais coupés seulement sur un quart de la surface de la fissure.",
+        "step_7": "Décoration au sirop de chocolat.",
+        "step_8": "Pliez la crêpe en deux en formant un demi-cercle.",
+        "step_9": "Repliez les deux côtés vers le centre en formant un cône ouvert au sommet, avec de la crème et des fruits bien visibles.",
+        "step_10": "Enroulez la base avec une serviette en papier et servez de marche."
       }
     },
     "de": {
-      "title": "Fruit Crepe Harajuku Style",
-      "description": "Eine alltagstaugliche Version von Fruit Crepe Harajuku Style für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Nana, K-On! inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Harajuku-Frucht-Crêpes – gerollte Crêpes mit Sahne und Obst",
+      "description": "Die Fruit Crepe im Harajuku-Stil sind dünne Crêpe mit Kegel um Schlagsahne und frisches Obst gerollt. Die Basis wird gekocht und abgekühlt, bevor sie gefüllt wird; die endgültige Faltung ermöglicht es Ihnen, sie als Spaziergang zu dienen. Die Crêpe wird mit Sahne und sichtbaren Früchten oben gebogen und dann an der Basis gewickelt, um beim Spaziergang gegessen zu werden.",
+      "animeContext": "Dieses Rezept ist thematisch von Nana, K-On! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose Mehl",
+          "name": "Mehl 00",
           "note": null
         },
         "uovo": {
@@ -296,72 +365,92 @@
           "note": null
         },
         "burro_fuso": {
-          "name": "Butter fuso",
+          "name": "geschmolzene Butter",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Sahne montata zuccherata",
+          "name": "Zuckerhaltige Schlagsahne",
           "note": null
         },
-        "fragole_fresche_e_banane_a_fettine": {
-          "name": "Strawberries frisch e banane a fettine",
+        "fragole_fresche_e_banane_a_fettine_1_fragole_fresche": {
+          "name": "Erdbeeren, frisch",
+          "note": null
+        },
+        "fragole_fresche_e_banane_a_fettine_2_banane_a_fettine": {
+          "name": "Feldbananen",
           "note": null
         },
         "sciroppo_di_cioccolato_o_nutella": {
-          "name": "Sciroppo di cioccolato o nutella",
+          "name": "Schokoladensirup oder Nutella",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Er arbeitet die Eier mit Zucker, enthält dann die Milch, das Mehl und schließlich die geschmolzene Butter.",
+        "step_2": "Lassen Sie den Teig im Kühlschrank für 15 Minuten ruhen.",
+        "step_3": "Fügen Sie eine Pfanne mit einem großen Durchmesser, die für Crêpe geeignet ist, leicht zusammen.",
+        "step_4": "Fügen Sie einen Teig in dünner Form und kochen Sie 1 Minute pro Seite.",
+        "step_5": "Legen Sie eine offene Crêpe auf der Arbeitsfläche oder auf einem Teller.",
+        "step_6": "Legen Sie Schlagsahne und frisches Obst nur auf ein Viertel der Oberfläche des Risses ab.",
+        "step_7": "Dekorieren Sie mit Schokoladensirup.",
+        "step_8": "Falten Sie die Crêpe in der Mitte, indem Sie einen Halbkreis bilden.",
+        "step_9": "Falten Sie die beiden Seiten zur Mitte und bilden Sie einen offenen Kegel oben, mit Sahne und gut sichtbaren Früchten.",
+        "step_10": "Wickeln Sie die Basis mit einer Papiertuch und servieren Sie einen Spaziergang."
       }
     },
     "pt": {
-      "title": "Fruit Crepe Harajuku Style",
-      "description": "Uma versão prática de Fruit Crepe Harajuku Style para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Nana, K-On!. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Crepes de fruta à Harajuku — enrolados com natas e fruta",
+      "description": "As Fruit Crepes ao estilo de Harajuku são crepes finos enrolados em forma de cone e recheados com natas batidas e fruta fresca. A massa é cozinhada e deixada arrefecer antes de ser recheada; a dobra final permite comer o crepe enquanto se passeia. O crepe é dobrado em um cone com creme e frutas visíveis no topo, em seguida, embrulhado na base para ser comido caminhando.",
+      "animeContext": "Esta receita inspira-se tematicamente em Nana, K-On!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_00": {
-          "name": "All-purpose farinha",
+          "name": "farinha 00",
           "note": null
         },
         "uovo": {
-          "name": "Ovo",
+          "name": "ovo",
           "note": null
         },
         "latte": {
-          "name": "Leite",
+          "name": "leite",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "burro_fuso": {
-          "name": "Manteiga fuso",
+          "name": "manteiga derretida",
           "note": null
         },
         "panna_montata_zuccherata": {
-          "name": "Natas montata zuccherata",
+          "name": "creme batido açucarado",
           "note": null
         },
-        "fragole_fresche_e_banane_a_fettine": {
-          "name": "Strawberries fresco e banane a fettine",
+        "fragole_fresche_e_banane_a_fettine_1_fragole_fresche": {
+          "name": "morangos frescos",
+          "note": null
+        },
+        "fragole_fresche_e_banane_a_fettine_2_banane_a_fettine": {
+          "name": "Bananas cortadas",
           "note": null
         },
         "sciroppo_di_cioccolato_o_nutella": {
-          "name": "Sciroppo di cioccolato o nutella",
+          "name": "Xarope de chocolate ou Nutella",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Trabalhe os ovos com açúcar, em seguida, incorpore o leite, a farinha varreda e, finalmente, a manteiga derretida.",
+        "step_2": "Deixe a massa na geladeira por 15 minutos.",
+        "step_3": "Ligeiramente engraxa uma panela antiadherente de grande diâmetro, adequada para crepe.",
+        "step_4": "Deite uma concha de massa na frigideira, espalhe-a numa camada fina e cozinhe 1 minuto de cada lado.",
+        "step_5": "Espalhe uma crepe aberta na superfície de trabalho ou numa placa.",
+        "step_6": "Arranje creme batido e frutas frescas cortadas apenas em um quarto da superfície da fissura.",
+        "step_7": "Decorar com xarope de chocolate.",
+        "step_8": "Dobre a crepe ao meio formando um semicírculo.",
+        "step_9": "Dobra os dois lados para o centro formando um cone aberto em cima, com creme e fruta claramente visíveis.",
+        "step_10": "Enrole a base com um guardanapo de papel e passeie."
       }
     }
   }

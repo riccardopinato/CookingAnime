@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000067",
-  "contentVersion": 1,
+  "contentVersion": 3,
   "status": "published",
   "inspirationTitle": "K-On!",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 5,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -45,9 +45,14 @@
       "unit": "g"
     },
     {
-      "id": "tenkasu",
+      "id": "tenkasu_1_tenkasu_palline_di_pastella_fritta",
       "quantity": 30,
       "unit": "g"
+    },
+    {
+      "id": "tenkasu_2_katsuobushi",
+      "quantity": null,
+      "unit": null
     },
     {
       "id": "brodo_dashi_freddo",
@@ -80,50 +85,79 @@
     },
     {
       "id": "step_4",
+      "timerSeconds": 180
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_9",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Monjayaki",
-      "description": "A quick-cooked Monjayaki that relies on high heat, organized mise en place and short cooking times to keep vegetables lively and sauces concentrated.",
-      "animeContext": "This recipe is thematically inspired by K-On!, March Comes in Like a Lion. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Monjayaki — Tokyo-style griddled savory pancake",
+      "description": "The Monjayaki is prepared on a plate with cabbage, tenkasu and meat or seafood arranged in a ring. In the middle is poured a very liquid batter made of dash, flour and Worcestershire sauce, then the whole is laid out and let form a crust to be collected with small spatula.",
+      "animeContext": "This recipe is thematically inspired by K-On!, March Comes in Like a Lion. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "cavolo_cappuccio_tagliato_finissimo": {
-          "name": "Cabbage tagliato finissimo",
+          "name": "cabbage cut very fine",
           "note": null
         },
         "frutti_di_mare": {
-          "name": "Frutti di mare (gamberetti/squid) o pork a pezzetti",
+          "name": "seafood (gamberetti/calamari) or pork in pieces",
           "note": null
         },
-        "tenkasu": {
-          "name": "Tenkasu (palline di pastella fritta) e katsuobushi",
+        "tenkasu_1_tenkasu_palline_di_pastella_fritta": {
+          "name": "tenkasu (fried batter balls)",
+          "note": null
+        },
+        "tenkasu_2_katsuobushi": {
+          "name": "katsuobushi",
           "note": null
         },
         "brodo_dashi_freddo": {
-          "name": "Dashi broth freddo",
+          "name": "cold Dashi broth",
           "note": null
         },
         "farina": {
-          "name": "Flour",
+          "name": "flour",
           "note": null
         },
         "salsa_worcestershire_giapponese": {
-          "name": "Sauce worcestershire giapponese",
+          "name": "Japanese Worcestershire sauce",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and measure every ingredient before heating the pan, because the cooking phase is short and should not be interrupted for preparation.",
-        "step_2": "Use a hot pan or griddle and cook the firmer ingredients first, keeping them moving so they brown without steaming in their own moisture.",
-        "step_3": "Add the remaining ingredients and sauce in stages, cooking only until the sauce clings and the vegetables retain some bite.",
-        "step_4": "Finish with the fresh garnish and serve immediately, while the pan-seared surfaces and concentrated seasoning are still vivid."
+        "step_1": "In a jug add Dashi broth, flour and Worcestershire sauce and whisk well.",
+        "step_2": "The batter will be much more liquid than that of Okonomiyaki.",
+        "step_3": "Add cabbage, sea meat/fruits and Tenkasu on an electric plate or large hot frying pan.",
+        "step_4": "Cook by skipping the ingredients for 3 minutes.",
+        "step_5": "Using two small spatulas, shape the cabbage on the hot griddle into a wide ring or volcano, leaving a hollow in the centre.",
+        "step_6": "Gently add the liquid batter to the center of the volcano in two shots, allowing it to thicken slightly before mixing all together.",
+        "step_7": "Spread the mixture on the plate.",
+        "step_8": "Continue cooking until the lower part creates a dark and crunchy crust.",
+        "step_9": "You eat directly from the plate with small metal spatula (Hagashi)!"
       }
     },
     "it": {
       "title": "Monjayaki (Piastra Tradizionale di Tokyo)",
-      "description": "Un Monjayaki (Piastra Tradizionale di Tokyo) dalla cottura rapida, basato su fiamma vivace, ingredienti già pronti e tempi brevi per mantenere verdure croccanti e salsa concentrata.",
+      "description": "Il Monjayaki si prepara su una piastra con cavolo, tenkasu e carne o frutti di mare disposti ad anello. Al centro viene versata una pastella molto liquida a base di dashi, farina e salsa Worcestershire, poi il tutto viene steso e lasciato formare una crosticina da raccogliere con piccole spatole.",
       "animeContext": "Questa ricetta è ispirata tematicamente a K-On!, March Comes in Like a Lion. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "cavolo_cappuccio_tagliato_finissimo": {
@@ -134,8 +168,12 @@
           "name": "frutti di mare (gamberetti/calamari) o carne di maiale a pezzetti",
           "note": null
         },
-        "tenkasu": {
-          "name": "Tenkasu (palline di pastella fritta) e Katsuobushi",
+        "tenkasu_1_tenkasu_palline_di_pastella_fritta": {
+          "name": "tenkasu (palline di pastella fritta)",
+          "note": null
+        },
+        "tenkasu_2_katsuobushi": {
+          "name": "katsuobushi",
           "note": null
         },
         "brodo_dashi_freddo": {
@@ -152,105 +190,132 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, in una brocca unisci il brodo Dashi, la farina e la salsa Worcestershire sbattendo bene con una frusta. La pastella risulterà molto più liquida rispetto a quella dell'Okonomiyaki.",
-        "step_2": "Prosegui così: su una piastra elettrica o padella grande ben calda unisci il cavolo, la carne/frutti di mare e il Tenkasu. Lascia cuocere saltando gli ingredienti per 3 minuti.",
-        "step_3": "Nella fase successiva, con due spatoline forma un grande anello/vulcano con il cavolo al centro della piastra, lasciando un buco vuoto nel mezzo. Aggiungi delicatamente la pastella liquida al centro del vulcano in due riprese, lasciandola addensare leggermente prima di amalgamare tutto insieme.",
-        "step_4": "Per completare, stendi il composto appiattendolo sulla piastra. Prosegui la cottura finché la parte inferiore non crea una crosticina scura e croccante. Si mangia direttamente dalla piastra con piccole spatoline metalliche (Hagashi)!"
+        "step_1": "In una brocca unisci il brodo Dashi, la farina e la salsa Worcestershire sbattendo bene con una frusta.",
+        "step_2": "La pastella risulterà molto più liquida rispetto a quella dell'Okonomiyaki.",
+        "step_3": "Su una piastra elettrica o padella grande ben calda unisci il cavolo, la carne/frutti di mare e il Tenkasu.",
+        "step_4": "Cuoci saltando gli ingredienti per 3 minuti.",
+        "step_5": "Con due spatoline forma un grande anello/vulcano con il cavolo al centro della piastra, lasciando un buco vuoto nel mezzo.",
+        "step_6": "Aggiungi delicatamente la pastella liquida al centro del vulcano in due riprese, lasciandola addensare leggermente prima di mescolare tutto insieme.",
+        "step_7": "Stendi il composto appiattendolo sulla piastra.",
+        "step_8": "Prosegui la cottura finché la parte inferiore non crea una crosticina scura e croccante.",
+        "step_9": "Si mangia direttamente dalla piastra con piccole spatoline metalliche (Hagashi)!"
       }
     },
     "es": {
-      "title": "Monjayaki",
-      "description": "Una versión práctica de Monjayaki para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en K-On!, March Comes in Like a Lion. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Monjayaki — tortita salada a la plancha al estilo de Tokio",
+      "description": "El Monjayaki se prepara sobre una placa con col, tenkasu y carne o mariscos dispuestos en anillo. En el centro se derrama una masa muy líquida a base de dashi, harina y salsa Worcestershire, luego se extiende y se deja formar una corteza para recoger con pequeñas espátulas.",
+      "animeContext": "Esta receta está inspirada temáticamente en K-On!, March Comes in Like a Lion. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "cavolo_cappuccio_tagliato_finissimo": {
-          "name": "Col tagliato finissimo",
+          "name": "col de capucha cortada muy fina",
           "note": null
         },
         "frutti_di_mare": {
-          "name": "Frutti di mare (gamberetti/calamar) o cerdo a pezzetti",
+          "name": "Mariscos (gamberitos/calamares) o carne de cerdo cortada",
           "note": null
         },
-        "tenkasu": {
-          "name": "Tenkasu (palline di pastella fritta) e katsuobushi",
+        "tenkasu_1_tenkasu_palline_di_pastella_fritta": {
+          "name": "tenkasu (bolitas de masa frita)",
+          "note": null
+        },
+        "tenkasu_2_katsuobushi": {
+          "name": "katsuobushi",
           "note": null
         },
         "brodo_dashi_freddo": {
-          "name": "Dashi caldo freddo",
+          "name": "Caldo Dashi frío",
           "note": null
         },
         "farina": {
-          "name": "Harina",
+          "name": "harina",
           "note": null
         },
         "salsa_worcestershire_giapponese": {
-          "name": "Salsa worcestershire giapponese",
+          "name": "salsa Worcestershire japonesa",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una jarra une el caldo Dashi, la harina y la salsa Worcestershire golpeando bien con unas varillas.",
+        "step_2": "La masa será mucho más líquida que la de Okonomiyaki.",
+        "step_3": "En una placa eléctrica o sartén grande bien caliente une la col, la carne/frutos de mar y el Tenkasu.",
+        "step_4": "Cocina saltando los ingredientes durante 3 minutos.",
+        "step_5": "Con dos espátulas forma un gran anillo/vulcano con la col en el centro de la placa, dejando un agujero vacío en el medio.",
+        "step_6": "Añade suavemente la masa líquida al centro del volcán en dos tomas, dejándola espesar ligeramente antes de mezclarlo todo juntos.",
+        "step_7": "Extiende el compuesto aplanado sobre la placa.",
+        "step_8": "Sigue cocinando hasta que la parte inferior cree una corteza oscura y crujiente.",
+        "step_9": "Se come directamente de la placa con pequeñas espátulas metálicas (Hagashi)!"
       }
     },
     "fr": {
-      "title": "Monjayaki",
-      "description": "Une version pratique de Monjayaki à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par K-On!, March Comes in Like a Lion. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Monjayaki — galette salée grillée façon Tokyo",
+      "description": "Le Monjayaki se prépare sur une plaque avec du chou, du tenkasu et de la viande ou des fruits de mer disposés à l'anneau. Au centre, on verse une pâte très liquide à base de dashi, de farine et de sauce Worcestershire, puis le tout est étendu et laissé former une croûte à ramasser avec de petites spatules.",
+      "animeContext": "Cette recette s'inspire librement de K-On!, March Comes in Like a Lion. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "cavolo_cappuccio_tagliato_finissimo": {
-          "name": "Chou tagliato finissimo",
+          "name": "Chou coupé très fin",
           "note": null
         },
         "frutti_di_mare": {
-          "name": "Frutti di mare (gamberetti/calmar) o porc a pezzetti",
+          "name": "Fruits de mer (gamberetti/calmars) ou viande de porc en morceaux",
           "note": null
         },
-        "tenkasu": {
-          "name": "Tenkasu (palline di pastella fritta) e katsuobushi",
+        "tenkasu_1_tenkasu_palline_di_pastella_fritta": {
+          "name": "tenkasu (balles de pastella fritta)",
+          "note": null
+        },
+        "tenkasu_2_katsuobushi": {
+          "name": "katsuobushi",
           "note": null
         },
         "brodo_dashi_freddo": {
-          "name": "Dashi bouillon freddo",
+          "name": "bouillon dashi froid",
           "note": null
         },
         "farina": {
-          "name": "Farine",
+          "name": "farine",
           "note": null
         },
         "salsa_worcestershire_giapponese": {
-          "name": "Sauce worcestershire giapponese",
+          "name": "sauce Worcestershire japonaise",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une cruche, combinez le bouillon dashi, la farine et la sauce Worcestershire avec un fouet.",
+        "step_2": "La pâte sera beaucoup plus liquide que celle de l'Okonomiyaki.",
+        "step_3": "Sur une plaque électrique ou une poêle grande bien chaude reliez le chou, la viande/fruits de mer et le Tenkasu.",
+        "step_4": "Faites cuire en sautant les ingrédients pendant 3 minutes.",
+        "step_5": "Avec deux spatules forme un grand anneau/vulcane avec le chou au centre de la plaque, laissant un trou vide au milieu.",
+        "step_6": "Ajoutez délicatement la pâte liquide au centre du volcan en deux prises, la laissant épaissir légèrement avant de mélanger tout cela ensemble.",
+        "step_7": "Éteins le composé en le frottant sur la plaque.",
+        "step_8": "Continuez la cuisson jusqu'à ce que la partie inférieure crée une croûte foncée et croustillante.",
+        "step_9": "Vous mangez directement à partir de la plaque avec de petites spatules métalliques (Hagashi)!"
       }
     },
     "de": {
-      "title": "Monjayaki",
-      "description": "Eine alltagstaugliche Version von Monjayaki für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von K-On!, March Comes in Like a Lion inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Monjayaki – herzhaftes Pfannengericht aus Tokio",
+      "description": "Der Monjayaki bereitet sich auf eine Platte mit Kohl, Tenkasu und Fleisch oder Meeresfrüchten in Ringen vor. In der Mitte wird ein sehr flüssiger Teig aus Dashi, Mehl und Worcestershire-Sauce ausgegossen, dann wird alles ausgestreckt und ein Crosticin mit kleinen Spachteln gesammelt.",
+      "animeContext": "Dieses Rezept ist thematisch von K-On!, March Comes in Like a Lion inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "cavolo_cappuccio_tagliato_finissimo": {
-          "name": "Kohl tagliato finissimo",
+          "name": "Kohl-Kappe geschnitten sehr fein",
           "note": null
         },
         "frutti_di_mare": {
-          "name": "Frutti di mare (gamberetti/Tintenfisch) o Schweinefleisch a pezzetti",
+          "name": "Meeresfrüchte (Gamberetti/Calamari) oder Schweinefleisch in Stücken",
           "note": null
         },
-        "tenkasu": {
-          "name": "Tenkasu (palline di pastella fritta) e katsuobushi",
+        "tenkasu_1_tenkasu_palline_di_pastella_fritta": {
+          "name": "Tenkasu (Frittenpastillen)",
+          "note": null
+        },
+        "tenkasu_2_katsuobushi": {
+          "name": "katsuobushi",
           "note": null
         },
         "brodo_dashi_freddo": {
-          "name": "Dashi Brühe freddo",
+          "name": "Dashi Brühe kalt",
           "note": null
         },
         "farina": {
@@ -258,52 +323,66 @@
           "note": null
         },
         "salsa_worcestershire_giapponese": {
-          "name": "Sauce worcestershire giapponese",
+          "name": "japanische Worcestershire Soße",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Dashi-Brühe, Mehl und Worcestershiresauce in einem Krug mit einem Schneebesen kräftig verrühren.",
+        "step_2": "Der Teig wird viel flüssiger sein als der von Okonomiyaki.",
+        "step_3": "Auf einer großen, sehr warmen elektrischen Platte oder Pfanne vereinen Sie Kohl, Fleisch/Früchte des Meeres und Tenkasu.",
+        "step_4": "Kochen Sie die Zutaten für 3 Minuten überspringen.",
+        "step_5": "Mit zwei Spatolinen bildet er einen großen Ring/Vulkan mit Kohl in der Mitte der Platte und hinterlässt ein leeres Loch in der Mitte.",
+        "step_6": "Fügen Sie den flüssigen Teig vorsichtig in die Mitte des Vulkans in zwei Drehungen, so dass es leicht verdichten, bevor Sie alles zusammen mischen.",
+        "step_7": "Legen Sie die flache Verbindung auf die Platte.",
+        "step_8": "Kochen Sie weiter, bis die Unterseite ein dunkles und knuspriges Crosticin erzeugt.",
+        "step_9": "Sie essen direkt aus der Platte mit kleinen Metallspatolinen (Hagashi)!"
       }
     },
     "pt": {
-      "title": "Monjayaki",
-      "description": "Uma versão prática de Monjayaki para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por K-On!, March Comes in Like a Lion. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Monjayaki — panqueca salgada na chapa ao estilo de Tóquio",
+      "description": "O Monjayaki é preparado em um prato com repolho, tenkasu e carne ou frutos do mar dispostos em um anel. No meio é derramada uma massa muito líquida feita de traço, farinha e molho Worcestershire, então o todo está disposto e deixa formar uma crosta para ser coletada com pequena espátula.",
+      "animeContext": "Esta receita inspira-se tematicamente em K-On!, March Comes in Like a Lion. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "cavolo_cappuccio_tagliato_finissimo": {
-          "name": "Couve tagliato finissimo",
+          "name": "repolho cortado muito fino",
           "note": null
         },
         "frutti_di_mare": {
-          "name": "Frutti di mare (gamberetti/lula) o porco a pezzetti",
+          "name": "marisco (gamberetti/calamari) ou porco em pedaços",
           "note": null
         },
-        "tenkasu": {
-          "name": "Tenkasu (palline di pastella fritta) e katsuobushi",
+        "tenkasu_1_tenkasu_palline_di_pastella_fritta": {
+          "name": "tenkasu (bolas de bateria fritas)",
+          "note": null
+        },
+        "tenkasu_2_katsuobushi": {
+          "name": "katsuobushi",
           "note": null
         },
         "brodo_dashi_freddo": {
-          "name": "Dashi caldo freddo",
+          "name": "caldo de Dashi frio",
           "note": null
         },
         "farina": {
-          "name": "Farinha",
+          "name": "farinha",
           "note": null
         },
         "salsa_worcestershire_giapponese": {
-          "name": "Molho worcestershire giapponese",
+          "name": "Molho japonês Worcestershire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Em uma jarra adicione o caldo Dashi, a farinha e o molho Worcestershire e bata bem.",
+        "step_2": "A massa será muito mais líquida do que a do Okonomiyaki.",
+        "step_3": "Adicione repolho, carne de mar/frutas e Tenkasu em um prato elétrico ou uma frigideira quente grande.",
+        "step_4": "Cozinhe pulando os ingredientes por 3 minutos.",
+        "step_5": "Com duas spatolines forma um grande anel/ vulcão com o repolho no meio do prato, deixando um buraco vazio no meio.",
+        "step_6": "Adicione suavemente a massa líquida ao centro do vulcão em dois tiros, permitindo que se espesse ligeiramente antes de misturar todos juntos.",
+        "step_7": "Espalhe a mistura na placa.",
+        "step_8": "Continue cozindo até que a parte inferior crie uma crosta escura e crocante.",
+        "step_9": "Você come diretamente do prato com pequena espátula de metal (Hagashi)!"
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000127",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -21,33 +21,43 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 30,
   "cookMinutes": 55,
   "servings": 2,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
-      "id": "acqua_minerale_purissima",
+      "id": "mochi_d_acqua_acqua_minerale_a_basso_residuo_fisso_1",
       "quantity": 500,
       "unit": "ml"
     },
     {
-      "id": "polvere_agar_agar_kanten",
-      "quantity": 12,
+      "id": "mochi_d_acqua_agar_agar_in_polvere_2",
+      "quantity": 1,
       "unit": "g"
     },
     {
-      "id": "farina_di_soia_tostat_kinako_e_sciroppo_kuromitsu",
-      "quantity": null,
-      "unit": null
+      "id": "mochi_d_acqua_zucchero_3",
+      "quantity": 20,
+      "unit": "g"
+    },
+    {
+      "id": "servizio_kinako_4",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": "servizio_kuromitsu_5",
+      "quantity": 2,
+      "unit": "tbsp"
     }
   ],
   "steps": [
@@ -66,157 +76,235 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 14400
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Mizumochi / Raindrop Cake",
-      "description": "A home-friendly Mizumochi / Raindrop Cake that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Food Wars!, Demon Slayer. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Mizumochi / Raindrop Cake — clear water jelly",
+      "description": "The Mizumochi, or Raindrop Cake, is a very delicate water gelatin thickened with agar-agar and molded in transparent forms. After the firming it is immediately used with kinako and kuromitsu added to the side in order not to hide its appearance. The transparent gelatin must be completely firmed in the refrigerator before being disformed, with kinako and kuromitsu served to the side.",
+      "animeContext": "This recipe is thematically inspired by Food Wars!, Demon Slayer. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
-        "acqua_minerale_purissima": {
-          "name": "Water minerale purissima",
+        "mochi_d_acqua_acqua_minerale_a_basso_residuo_fisso_1": {
+          "name": "Low residual fixed mineral water",
           "note": null
         },
-        "polvere_agar_agar_kanten": {
-          "name": "Polvere agar-agar / kanten",
+        "mochi_d_acqua_agar_agar_in_polvere_2": {
+          "name": "agar-agar powder",
+          "note": "The gelling force varies between brands: if the product indicates a different minimum dosage, follow the manufacturer's report while maintaining a very soft geling."
+        },
+        "mochi_d_acqua_zucchero_3": {
+          "name": "sugar",
           "note": null
         },
-        "farina_di_soia_tostat_kinako_e_sciroppo_kuromitsu": {
-          "name": "Flour di soia tostat kinako e sciroppo kuromitsu",
+        "servizio_kinako_4": {
+          "name": "kinako",
+          "note": null
+        },
+        "servizio_kuromitsu_5": {
+          "name": "kuromitsu",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "Mix water, agar/kanten and any small amount of sugar in a saucepan before turning on the fire.",
+        "step_2": "Heat by stirring until boiling and keep a slight boiling for as long as it takes to completely melt l'agar, usually a few minutes.",
+        "step_3": "Turn off and briefly let the liquid rest to raise the bubbles, eliminating them with a spoon if necessary.",
+        "step_4": "Pour into spherical molds or small cups without incorporating air.",
+        "step_5": "Let cool and transfer to the refrigerator for at least 2-4 hours until the gelatin is fully stabilized.",
+        "step_6": "Shape with great delicacy directly on the serving plate.",
+        "step_7": "Add kinako and kuromitsu to the side only at the last moment and serve cold."
       }
     },
     "it": {
       "title": "Mizumochi / Raindrop Cake (Mochi d'Acqua Trasparente)",
-      "description": "Un Mizumochi / Raindrop Cake (Mochi d'Acqua Trasparente) casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "description": "Il Mizumochi, o Raindrop Cake, è una gelatina d’acqua molto delicata addensata con agar-agar e modellata in forme trasparenti. Dopo il rassodamento si serve subito con kinako e kuromitsu aggiunti a lato per non nasconderne l’aspetto. La gelatina trasparente deve rassodarsi completamente in frigorifero prima di essere sformata, con kinako e kuromitsu serviti a lato.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Food Wars!, Demon Slayer. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
-        "acqua_minerale_purissima": {
-          "name": "acqua minerale purissima",
+        "mochi_d_acqua_acqua_minerale_a_basso_residuo_fisso_1": {
+          "name": "acqua minerale a basso residuo fisso",
           "note": null
         },
-        "polvere_agar_agar_kanten": {
-          "name": "polvere Agar-agar / Kanten",
+        "mochi_d_acqua_agar_agar_in_polvere_2": {
+          "name": "agar-agar in polvere",
+          "note": "La forza gelificante varia tra marche: se il prodotto indica un dosaggio minimo diverso, seguire il rapporto del produttore mantenendo una gelificazione molto morbida."
+        },
+        "mochi_d_acqua_zucchero_3": {
+          "name": "zucchero",
           "note": null
         },
-        "farina_di_soia_tostat_kinako_e_sciroppo_kuromitsu": {
-          "name": "Farina di soia tostat Kinako e sciroppo Kuromitsu",
+        "servizio_kinako_4": {
+          "name": "kinako",
+          "note": null
+        },
+        "servizio_kuromitsu_5": {
+          "name": "kuromitsu",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, sciogli l'agar nell'acqua porta a temperaturata a fuoco dolcissimo per 3 minuti.",
-        "step_2": "Prosegui così: aggiungi il liquido negli stampi sferici di silicone e fai raffreddare in frigo per 2 ore.",
-        "step_3": "Nella fase successiva, sforma delicatamente la sfera trasparente sul piatto.",
-        "step_4": "Per completare, decora a lato con farina Kinako e sciroppo Kuromitsu. Controlla consistenza e cottura prima di passare alla fase successiva."
+        "step_1": "Mescola acqua, agar/kanten e l’eventuale piccola quantità di zucchero in un pentolino prima di accendere il fuoco.",
+        "step_2": "Scalda mescolando fino al bollore e mantieni una leggera ebollizione per il tempo necessario a sciogli completamente l’agar, in genere alcuni minuti.",
+        "step_3": "Spegni e lascia riposare brevemente il liquido per far risalire le bolle, eliminandole con un cucchiaio se necessario.",
+        "step_4": "Versa negli stampi sferici o in piccole coppette senza incorporare aria.",
+        "step_5": "Lascia intiepidire e trasferisci in frigorifero per almeno 2-4 ore, finché la gelatina è completamente stabilizzata.",
+        "step_6": "Sforma con molta delicatezza direttamente sul piatto da servizio.",
+        "step_7": "Aggiungi kinako e kuromitsu a lato solo all’ultimo momento e servi freddo."
       }
     },
     "es": {
-      "title": "Mizumochi / Raindrop Cake",
-      "description": "Una versión práctica de Mizumochi / Raindrop Cake para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Demon Slayer. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Mizumochi / raindrop cake — gelatina transparente de agua",
+      "description": "El Mizumochi, o Raindrop Cake, es una gelatina de agua muy delicada espesada con agar-agar y moldeada en formas transparentes. Después de la consolidación se utiliza inmediatamente con kinako y kuromitsu añadidos al lado para no ocultar su aspecto. La gelatina transparente debe estar completamente en la nevera antes de ser deformada, con kinako y kuromitsu servidos al lado.",
+      "animeContext": "Esta receta está inspirada temáticamente en Food Wars!, Demon Slayer. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
-        "acqua_minerale_purissima": {
-          "name": "Agua minerale purissima",
+        "mochi_d_acqua_acqua_minerale_a_basso_residuo_fisso_1": {
+          "name": "Agua mineral de bajo contenido fijo",
           "note": null
         },
-        "polvere_agar_agar_kanten": {
-          "name": "Polvere agar-agar / kanten",
+        "mochi_d_acqua_agar_agar_in_polvere_2": {
+          "name": "agar-agar en polvo",
+          "note": "La fuerza gelificante varía entre marcas: si el producto indica una dosis mínima diferente, siga la relación del fabricante manteniendo una gelificación muy suave."
+        },
+        "mochi_d_acqua_zucchero_3": {
+          "name": "azúcar",
           "note": null
         },
-        "farina_di_soia_tostat_kinako_e_sciroppo_kuromitsu": {
-          "name": "Harina di soia tostat kinako e sciroppo kuromitsu",
+        "servizio_kinako_4": {
+          "name": "kinako",
+          "note": null
+        },
+        "servizio_kuromitsu_5": {
+          "name": "kuromitsu",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Mezcla agua, agar/kanten y cualquier cantidad pequeña de azúcar en una olla antes de encender el fuego.",
+        "step_2": "Calentar mezclando hasta el hervidor y mantener una ligera ebullición durante el tiempo necesario para disolver completamente el agar, generalmente unos minutos.",
+        "step_3": "Apaga y deja reposar brevemente el líquido para sacar las burbujas, eliminandolas con una cucharada si es necesario.",
+        "step_4": "Vierta en moldes esféricos o en pequeñas copas sin incorporar aire.",
+        "step_5": "Deja que la gelatina se enfríe y pásala a la nevera durante al menos 2-4 horas, hasta que la gelatina esté completamente estabilizada.",
+        "step_6": "Deforma con mucha delicadeza directamente en el plato de servicio.",
+        "step_7": "Añadir kinako y kuromitsu al lado sólo en el último momento y servir frío."
       }
     },
     "fr": {
-      "title": "Mizumochi / Raindrop Cake",
-      "description": "Une version pratique de Mizumochi / Raindrop Cake à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Food Wars!, Demon Slayer. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Mizumochi / raindrop cake — gelée d’eau transparente",
+      "description": "Le Mizumochi, ou Raindrop Cake, est une gélatine d'eau très délicate épaissie avec agar-agar et façonnée dans des formes transparentes. Après le raffermage, il est utilisé immédiatement avec kinako et kuromitsu ajoutés sur le côté pour ne pas en cacher l'aspect. La gélatine transparente doit être complètement refroidie au réfrigérateur avant d'être déformée, avec du kinako et du kuromitsu servis sur le côté.",
+      "animeContext": "Cette recette s'inspire librement de Food Wars!, Demon Slayer. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
-        "acqua_minerale_purissima": {
-          "name": "Eau minerale purissima",
+        "mochi_d_acqua_acqua_minerale_a_basso_residuo_fisso_1": {
+          "name": "eau minérale à faible résidu fixe",
           "note": null
         },
-        "polvere_agar_agar_kanten": {
-          "name": "Polvere agar-agar / kanten",
+        "mochi_d_acqua_agar_agar_in_polvere_2": {
+          "name": "agar-agar en poudre",
+          "note": "La force gélifiante varie d'une marque à l'autre: si le produit indique un dosage minimal différent, suivez le rapport du fabricant tout en maintenant une gélification très douce."
+        },
+        "mochi_d_acqua_zucchero_3": {
+          "name": "sucre",
           "note": null
         },
-        "farina_di_soia_tostat_kinako_e_sciroppo_kuromitsu": {
-          "name": "Farine di soia tostat kinako e sciroppo kuromitsu",
+        "servizio_kinako_4": {
+          "name": "kinako",
+          "note": null
+        },
+        "servizio_kuromitsu_5": {
+          "name": "kuromitsu",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Mélanger de l'eau, de l'agar/kanten et du sucre dans une casserole avant d'allumer le feu.",
+        "step_2": "Chauffage en mélangeant jusqu'à la bulle et en maintenant un léger ébullition pendant le temps nécessaire pour dissoudre complètement l'agar, généralement quelques minutes.",
+        "step_3": "Éteignez et laissez reposer brièvement le liquide pour faire remonter les bulles, en les éliminant à l'aide d'une cuillère si nécessaire.",
+        "step_4": "Versez dans les moules sphériques ou dans de petites coupes sans incorporer d'air.",
+        "step_5": "Laissez tièder et transférer au réfrigérateur pendant au moins 2 à 4 heures, jusqu'à ce que la gélatine soit complètement stabilisée.",
+        "step_6": "Déformer avec beaucoup de délicatesse directement sur le plateau de service.",
+        "step_7": "Ajoutez kinako et kuromitsu sur le côté seulement au dernier moment et servez froid."
       }
     },
     "de": {
-      "title": "Mizumochi / Raindrop Cake",
-      "description": "Eine alltagstaugliche Version von Mizumochi / Raindrop Cake für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Demon Slayer inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Mizumochi / Raindrop Cake – glasklares Wassergelee",
+      "description": "Der Mizumochi oder Raindrop Cake ist eine sehr zarte Wassergelatine, die mit Agar-Agar verdichtet und in durchsichtige Formen geformt ist. Nach der Verjüngung wird sie sofort mit Kinako und Kuromitsu verwendet, um ihr Aussehen nicht zu verbergen. Die durchsichtige Gelee muss sich vor der Verformung vollständig im Kühlschrank verstopfen, mit Kinako und Kuromitsu, die auf der Seite serviert werden.",
+      "animeContext": "Dieses Rezept ist thematisch von Food Wars!, Demon Slayer inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
-        "acqua_minerale_purissima": {
-          "name": "Wasser minerale purissima",
+        "mochi_d_acqua_acqua_minerale_a_basso_residuo_fisso_1": {
+          "name": "Mineralwasser mit niedrigem Festrückstand",
           "note": null
         },
-        "polvere_agar_agar_kanten": {
-          "name": "Polvere agar-agar / kanten",
+        "mochi_d_acqua_agar_agar_in_polvere_2": {
+          "name": "Agar-Agar-Pulver",
+          "note": "Die Gelierungskraft variiert zwischen Marken: Wenn das Produkt eine andere Mindestdosis anzeigt, folgen Sie dem Verhältnis des Herstellers und halten eine sehr weiche Gelierung."
+        },
+        "mochi_d_acqua_zucchero_3": {
+          "name": "Zucker",
           "note": null
         },
-        "farina_di_soia_tostat_kinako_e_sciroppo_kuromitsu": {
-          "name": "Mehl di soia tostat kinako e sciroppo kuromitsu",
+        "servizio_kinako_4": {
+          "name": "Kinako",
+          "note": null
+        },
+        "servizio_kuromitsu_5": {
+          "name": "Kuromitsu",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Mischen Sie Wasser, Agar/Kanten und eine kleine Menge Zucker in einen Topf, bevor Sie das Feuer anzünden.",
+        "step_2": "Erhitzen Sie bis zum Kochen und halten Sie ein leichtes Siede für die Zeit, die Sie benötigen, um den L-Lkw vollständig zu lösen, in der Regel ein paar Minuten.",
+        "step_3": "Schalten Sie aus und lassen Sie die Flüssigkeit kurz ruhen, um die Luftblasen aufzusteigen, und entfernen Sie sie bei Bedarf mit einem Löffel.",
+        "step_4": "Gießen Sie in sphärische Formen oder kleine Becher ohne Luft ein.",
+        "step_5": "Lassen Sie sich einschüchtern und übertragen Sie mindestens 2-4 Stunden lang in den Kühlschrank, bis die Gelatine vollständig stabilisiert ist.",
+        "step_6": "Es ist sehr sanft direkt auf der Servierplatte.",
+        "step_7": "Füge kinako und kuromitsu zur Seite nur im letzten Moment hinzu und serviere kalt."
       }
     },
     "pt": {
-      "title": "Mizumochi / Raindrop Cake",
-      "description": "Uma versão prática de Mizumochi / Raindrop Cake para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Food Wars!, Demon Slayer. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Mizumochi / raindrop cake — gelatina de água transparente",
+      "description": "O Mizumochi, ou Raindrop Cake, é uma gelatina de água muito delicada engrossada com agar- agar e moldada em formas transparentes. Após a confirmação é imediatamente usada com kinako e kuromitsu adicionados ao lado para não esconder sua aparência. A gelatina transparente deve ser completamente reafirmada no frigorífico antes de ser disformed, com kinako e kuromitsu servidos para o lado.",
+      "animeContext": "Esta receita inspira-se tematicamente em Food Wars!, Demon Slayer. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
-        "acqua_minerale_purissima": {
-          "name": "Água minerale purissima",
+        "mochi_d_acqua_acqua_minerale_a_basso_residuo_fisso_1": {
+          "name": "Baixa água mineral fixa residual",
           "note": null
         },
-        "polvere_agar_agar_kanten": {
-          "name": "Polvere agar-agar / kanten",
+        "mochi_d_acqua_agar_agar_in_polvere_2": {
+          "name": "pó de agar-agar",
+          "note": "A força de gelagem varia entre as marcas: se o produto indicar uma dose mínima diferente, siga o relatório do fabricante mantendo uma gelagem muito suave."
+        },
+        "mochi_d_acqua_zucchero_3": {
+          "name": "açúcar",
           "note": null
         },
-        "farina_di_soia_tostat_kinako_e_sciroppo_kuromitsu": {
-          "name": "Farinha di soia tostat kinako e sciroppo kuromitsu",
+        "servizio_kinako_4": {
+          "name": "kinako",
+          "note": null
+        },
+        "servizio_kuromitsu_5": {
+          "name": "kuromitsu",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Misture água, agar/kanten e qualquer pequena quantidade de açúcar em uma panela antes de ligar o fogo.",
+        "step_2": "Aqueça mexendo até a ebulição e mantenha uma leve ebulição durante o tempo necessário para derreter completamente l'agar, geralmente alguns minutos.",
+        "step_3": "Desligue e brevemente deixe o líquido descansar para levantar as bolhas, eliminando- as com uma colher, se necessário.",
+        "step_4": "Verter em moldes esféricos ou copos pequenos sem incorporar ar.",
+        "step_5": "Deixe esfriar e transferir para o frigorífico durante pelo menos 2-4 horas até que a gelatina esteja completamente estabilizada.",
+        "step_6": "Forma com grande delicadeza diretamente na placa de serviço.",
+        "step_7": "Adicione kinako e kuromitsu para o lado apenas no último momento e sirva frio."
       }
     }
   }

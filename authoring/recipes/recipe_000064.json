@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000064",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Isekai Shokudo - Restaurant to Another World",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 25,
   "servings": 4,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -65,14 +65,19 @@
       "unit": "tsp"
     },
     {
-      "id": "sale_e_pepe",
+      "id": "sale_e_pepe_1_sale",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "id": "sale_e_pepe_2_pepe",
       "quantity": null,
       "unit": null
     },
     {
       "id": "farina_tipo_00",
-      "quantity": null,
-      "unit": null
+      "quantity": 50,
+      "unit": "g"
     },
     {
       "id": "uovo_sbattuto",
@@ -81,8 +86,8 @@
     },
     {
       "id": "panko",
-      "quantity": null,
-      "unit": null
+      "quantity": 100,
+      "unit": "g"
     },
     {
       "id": "olio_di_semi_per_friggere",
@@ -90,7 +95,12 @@
       "unit": null
     },
     {
-      "id": "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to",
+      "id": "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_1_cavolo_cappuccio_affettato",
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "id": "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_2_salsa_tonkatsu_per_servire",
       "quantity": null,
       "unit": null
     }
@@ -111,48 +121,72 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 360
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Menchi Katsu",
-      "description": "A crisp Menchi Katsu with a dry, well-set coating and a juicy or creamy center, cooked in controlled oil and served before the crust softens.",
-      "animeContext": "This recipe is thematically inspired by Isekai Shokudo - Restaurant to Another World, Persona 5. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Menchi Katsu — crispy minced-meat cutlets",
+      "description": "The Menchi Katsu are oval cutlets of ground meat and onion, tied with egg and breadcrumbs softened in milk. After the double breadcrumbs are fried until gilding and served with fresh cabbage and tonkatsu sauce, verifying the internal cooking of the meat. The breading must be gilded evenly, while the meat must be well cooked even in the middle before serving with cabbage.",
+      "animeContext": "This recipe is thematically inspired by Isekai Shokudo - Restaurant to Another World, Persona 5. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (beef e pork)",
+          "name": "mixed minced meat (manzo and pork)",
           "note": null
         },
         "cipolla_bionda_media_tritata_finemente": {
-          "name": "Onion bionda media finely chopped",
+          "name": "Onion medium blonde finely chopped",
           "note": null
         },
         "uovo": {
-          "name": "Egg",
+          "name": "egg",
           "note": null
         },
         "pangrattato": {
-          "name": "Breadcrumbs",
+          "name": "breadcrumbs",
           "note": null
         },
         "latte": {
-          "name": "Milk",
+          "name": "milk",
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "nutmeg",
           "note": null
         },
-        "sale_e_pepe": {
-          "name": "Salt e pepper",
+        "sale_e_pepe_1_sale": {
+          "name": "salt",
+          "note": null
+        },
+        "sale_e_pepe_2_pepe": {
+          "name": "pepper",
           "note": null
         },
         "farina_tipo_00": {
-          "name": "Flour tipo 00",
+          "name": "flour type 00",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Egg sbattuto",
+          "name": "egg beaten",
           "note": null
         },
         "panko": {
@@ -160,24 +194,33 @@
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral oil for frying",
+          "name": "seed oil for frying",
           "note": null
         },
-        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to": {
-          "name": "Cabbage sliced sottilissimo e tonkatsu sauce for serving",
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_1_cavolo_cappuccio_affettato": {
+          "name": "very thin sliced cabbage",
+          "note": null
+        },
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_2_salsa_tonkatsu_per_servire": {
+          "name": "Tonkatsu sauce to serve",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the filling or main ingredient, season it evenly and dry or chill it as needed so the coating can adhere without slipping.",
-        "step_2": "Coat or batter the pieces in the stated order, keeping the outer layer light and even rather than pressing it into a dense shell.",
-        "step_3": "Fry in small batches at controlled temperature until the exterior is deeply crisp and the center is fully cooked or heated through.",
-        "step_4": "Drain on a rack or absorbent paper, add the finishing sauce or garnish only at the end and serve promptly before the crust softens."
+        "step_1": "In a small pan brown the chopped onion with a drop of oil until it becomes transparent and golden, let cool completely.",
+        "step_2": "In a large bowl, add minced meat, cold onion, egg, breadcrumbs softened in milk, salt, pepper and nutmeg.",
+        "step_3": "It kneads vigorously by hand until the mixture becomes sticky and homogeneous.",
+        "step_4": "Divide the dough into 4 oval portions.",
+        "step_5": "Pass the meat from one hand to another by gently slamming it to eliminate any internal air bubbles that would break the cutlet during cooking.",
+        "step_6": "Pass each schnitzel first into the flour, then into the beaten egg and finally cover it generously with Panko pressing lightly with your fingers to make the crumbs stick well.",
+        "step_7": "Heats plenty of oil to fry at 170°C.",
+        "step_8": "Fry the Menchi Katsu for 5-6 minutes per side on medium-low heat until the crust is dark and golden and the inside is well cooked and juicy.",
+        "step_9": "Drain on absorbent paper and bring to the table hot accompanied by fresh cabbage and Tonkatsu sauce."
       }
     },
     "it": {
       "title": "Menchi Katsu (Cotoletta Croccante di Carne Macinata)",
-      "description": "Un Menchi Katsu (Cotoletta Croccante di Carne Macinata) croccante, con rivestimento asciutto e ben aderente e interno succoso o cremoso, fritto a temperatura controllata e servito appena pronto.",
+      "description": "Le Menchi Katsu sono cotolette ovali di carne macinata e cipolla, legate con uovo e pangrattato ammorbidito nel latte. Dopo la doppia impanatura vengono fritte fino a doratura e servite con cavolo fresco e salsa tonkatsu, verificando la cottura interna della carne. L'impanatura va dorata in modo uniforme, mentre la carne deve risultare ben cotta anche al centro prima del servizio con cavolo.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Isekai Shokudo - Restaurant to Another World, Persona 5. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "carne_macinata_mista": {
@@ -204,12 +247,16 @@
           "name": "noce moscata",
           "note": null
         },
-        "sale_e_pepe": {
-          "name": "sale e pepe",
+        "sale_e_pepe_1_sale": {
+          "name": "sale",
+          "note": null
+        },
+        "sale_e_pepe_2_pepe": {
+          "name": "pepe",
           "note": null
         },
         "farina_tipo_00": {
-          "name": "Farina tipo 00",
+          "name": "farina tipo 00",
           "note": null
         },
         "uovo_sbattuto": {
@@ -221,36 +268,45 @@
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Olio di semi per friggere",
+          "name": "olio di semi per friggere",
           "note": null
         },
-        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to": {
-          "name": "cavolo cappuccio affettato sottilissimo e salsa Tonkatsu per servire",
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_1_cavolo_cappuccio_affettato": {
+          "name": "cavolo cappuccio affettato sottilissimo",
+          "note": null
+        },
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_2_salsa_tonkatsu_per_servire": {
+          "name": "salsa Tonkatsu per servire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, in una padellina rosola la cipolla tritata con un goccio d'olio finché non diventa trasparente e dorata. Fai raffreddare completamente. Riunisci in una ciotola capiente unisci la carne macinata, la cipolla fredda, l'uovo, il pangrattato ammorbidito nel latte, sale, pepe e noce moscata. Impasta energicamente a mano finché il composto non diventa appiccicoso e omogeneo.",
-        "step_2": "Prosegui così: dividi l'impasto in 4 porzioni ovali. Passa la carne da una mano all'altra sbattendola delicatamente per eliminare eventuali bolle d'aria interne che farebbero rompere la cotoletta durante la cottura.",
-        "step_3": "Nella fase successiva, passa ciascuna cotoletta prima nella farina, poi nell'uovo sbattuto ed infine ricoprila generosamente di Panko pressando leggermente con le dita per far aderire bene le briciole.",
-        "step_4": "Per completare, porta a temperatura abbondante olio per friggere a 170°C. Friggi le Menchi Katsu per 5-6 minuti per lato a fuoco medio-basso finché la crosta non è scura e dorata e l'interno ben cotto e succoso. Scola su carta assorbente e porta in tavola calde accompagnate da cavolo cappuccio fresco e salsa Tonkatsu."
+        "step_1": "In una padellina rosola la cipolla tritata con un goccio d'olio finché non diventa trasparente e dorata, fai raffreddare completamente.",
+        "step_2": "In una ciotola capiente, unisci la carne macinata, la cipolla fredda, l'uovo, il pangrattato ammorbidito nel latte, sale, pepe e noce moscata.",
+        "step_3": "Impasta energicamente a mano finché il composto non diventa appiccicoso e omogeneo.",
+        "step_4": "Dividi l'impasto in 4 porzioni ovali.",
+        "step_5": "Passa la carne da una mano all'altra sbattendola delicatamente per eliminare eventuali bolle d'aria interne che farebbero rompere la cotoletta durante la cottura.",
+        "step_6": "Passa ciascuna cotoletta prima nella farina, poi nell'uovo sbattuto ed infine ricoprila generosamente di Panko pressando leggermente con le dita per far aderire bene le briciole.",
+        "step_7": "Scalda abbondante olio per friggere a 170°C.",
+        "step_8": "Friggi le Menchi Katsu per 5-6 minuti per lato a fuoco medio-basso finché la crosta non è scura e dorata e l'interno ben cotto e succoso.",
+        "step_9": "Scola su carta assorbente e porta in tavola calde accompagnate da cavolo cappuccio fresco e salsa Tonkatsu."
       }
     },
     "es": {
-      "title": "Menchi Katsu",
-      "description": "Una versión práctica de Menchi Katsu para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Isekai Shokudo - Restaurant to Another World, Persona 5. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Menchi katsu — filetes de carne picada empanados y crujientes",
+      "description": "Los Menchi Katsu son chuletas ovaladas de carne picada y cebolla, atadas con huevo y pan rallado suavizado en la leche. Después de la doble empanada se fríen hasta dorado y se sirven con col fresca y salsa tonkatsu, verificando la cocción interna de la carne. La empanatura debe dorarse de manera uniforme, mientras que la carne debe estar bien cocinada también en el centro antes del servicio con col.",
+      "animeContext": "Esta receta está inspirada temáticamente en Isekai Shokudo - Restaurant to Another World, Persona 5. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (ternera e cerdo)",
+          "name": "Carne picada mezclada (carne y cerdo)",
           "note": null
         },
         "cipolla_bionda_media_tritata_finemente": {
-          "name": "Cebolla bionda media picado fino",
+          "name": "cebolla rubia media picada finamente",
           "note": null
         },
         "uovo": {
-          "name": "Huevo",
+          "name": "huevo",
           "note": null
         },
         "pangrattato": {
@@ -258,117 +314,143 @@
           "note": null
         },
         "latte": {
-          "name": "Leche",
+          "name": "leche",
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "nuez moscada",
           "note": null
         },
-        "sale_e_pepe": {
-          "name": "Sal e pepper",
+        "sale_e_pepe_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_2_pepe": {
+          "name": "pimienta",
           "note": null
         },
         "farina_tipo_00": {
-          "name": "Harina tipo 00",
+          "name": "harina tipo 00",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Huevo sbattuto",
+          "name": "Huevo batido",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese pan rallado)",
+          "name": "Panko (pan rallado japonés)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral aceite para freír",
+          "name": "Aceite de semilla para freír",
           "note": null
         },
-        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to": {
-          "name": "Col en rodajas sottilissimo e tonkatsu salsa para servir",
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_1_cavolo_cappuccio_affettato": {
+          "name": "col capucha cortada delgada",
+          "note": null
+        },
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_2_salsa_tonkatsu_per_servire": {
+          "name": "Salsa Tonkatsu para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una sartén de rosa, la cebolla picada con una gota de aceite hasta que se vuelva transparente y dorada, enfríe completamente.",
+        "step_2": "En un cuenco grande, une la carne picada, la cebolla fría, el huevo, el pan rallado suavizado en la leche, sal, pimienta y nuez moscada.",
+        "step_3": "Amasa vigorosamente a mano hasta que el compuesto se vuelva pegajoso y homogéneo.",
+        "step_4": "Divide la masa en cuatro porciones ovaladas.",
+        "step_5": "Pasa la carne de una mano a la otra golpeándola suavemente para eliminar cualquier burbuja de aire interior que haría que la chuleta se rompiera durante la cocción.",
+        "step_6": "Pasa cada chuleta primero en la harina, luego en el huevo batido y finalmente cubre generosamente de Panko presionando ligeramente con los dedos para que las migajas se adhieran bien.",
+        "step_7": "Caliente abundante aceite para freír a 170°C.",
+        "step_8": "Fríe los Menchi Katsu durante 5-6 minutos por lado a fuego medio-bajo hasta que la corteza sea oscura y dorada y el interior esté bien cocido y jugoso.",
+        "step_9": "Escurrir sobre papel absorbente y puerta en la mesa caliente acompañada de col capucha fresca y salsa Tonkatsu."
       }
     },
     "fr": {
-      "title": "Menchi Katsu",
-      "description": "Une version pratique de Menchi Katsu à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Isekai Shokudo - Restaurant to Another World, Persona 5. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Menchi katsu — croquettes de viande hachée panées et croustillantes",
+      "description": "Les Menchi Katsu sont des galettes ovales de viande hachée et d'oignon, liées avec de l'œuf et de la chapelure ramollie au lait. Après panure, elles sont frites jusqu'à coloration et servies avec du chou frais et de la sauce tonkatsu. Vérifiez la cuisson complète de la viande à cœur. La panure doit être dorée de façon uniforme, tandis que la viande doit être bien cuite au centre même avant le service avec chou.",
+      "animeContext": "Cette recette s'inspire librement de Isekai Shokudo - Restaurant to Another World, Persona 5. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (bœuf e porc)",
+          "name": "viande hachée mélangée (bœuf et porc)",
           "note": null
         },
         "cipolla_bionda_media_tritata_finemente": {
-          "name": "Oignon bionda media finement haché",
+          "name": "oignon blonde moyenne hachée finement",
           "note": null
         },
         "uovo": {
-          "name": "Œuf",
+          "name": "œuf",
           "note": null
         },
         "pangrattato": {
-          "name": "Chapelure",
+          "name": "pangrattate",
           "note": null
         },
         "latte": {
-          "name": "Lait",
+          "name": "lait",
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "noyer muscade",
           "note": null
         },
-        "sale_e_pepe": {
-          "name": "Sel e pepper",
+        "sale_e_pepe_1_sale": {
+          "name": "sel",
+          "note": null
+        },
+        "sale_e_pepe_2_pepe": {
+          "name": "poivre",
           "note": null
         },
         "farina_tipo_00": {
-          "name": "Farine tipo 00",
+          "name": "farine type 00",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Œuf sbattuto",
+          "name": "Oeuf claqué",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese chapelure)",
+          "name": "Panko (chapelure japonais)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral huile pour friture",
+          "name": "huile de graines à frire",
           "note": null
         },
-        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to": {
-          "name": "Chou tranché sottilissimo e tonkatsu sauce pour servir",
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_1_cavolo_cappuccio_affettato": {
+          "name": "Chou coupé très fin",
+          "note": null
+        },
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_2_salsa_tonkatsu_per_servire": {
+          "name": "Sauce Tonkatsu pour servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une chapelle, l'oignon haché avec une goutte d'huile jusqu'à ce qu'il devienne transparent et doré, refroidit complètement.",
+        "step_2": "Dans un grand bol, ajoutez la viande hachée, l'oignon froid, l'oeuf, le pangrattate adouci dans le lait, le sel, le poivre et la noix de muscade.",
+        "step_3": "Pétrir fermement à la main jusqu'à ce que le composé devienne collant et homogène.",
+        "step_4": "Diviser la pâte en 4 portions ovales.",
+        "step_5": "La viande passe d'une main à l'autre en la tapant doucement pour éliminer les bulles d'air internes qui casseraient la côtelette pendant la cuisson.",
+        "step_6": "Il passe chaque côtelette d'abord dans la farine, puis dans l'œuf claqué et enfin il recouvre généreusement de Panko en poussant légèrement avec les doigts pour faire bien adhérer les miettes.",
+        "step_7": "Chauffage abondant d'huile pour frire à 170°C.",
+        "step_8": "Frottez les Menchi Katsu pendant 5-6 minutes par côté à feu moyen-bas jusqu'à ce que la croûte soit foncée et dorée et l'intérieur bien cuit et juteux.",
+        "step_9": "Scola sur papier absorbant et porte à table chaude accompagnée de chou capuche fraîche et de sauce Tonkatsu."
       }
     },
     "de": {
-      "title": "Menchi Katsu",
-      "description": "Eine alltagstaugliche Version von Menchi Katsu für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Isekai Shokudo - Restaurant to Another World, Persona 5 inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Menchi Katsu – knusprig panierte Hackfleischfrikadellen",
+      "description": "Die Menchi Katsu sind ovale Schalen aus Hackfleisch und Zwiebeln, mit Ei gebunden und in der Milch weichgemachte Pangratata. Nach der doppelten Panade werden sie bis zur Goldierung gebraten und mit frischem Kohl und Tonkatsu-Sauce serviert, wobei das Fleisch im Inneren gekocht wird. Die Bäckerei muss gleichmäßig vergoldet werden, während das Fleisch vor dem Kohlservice auch in der Mitte gut gekocht werden muss.",
+      "animeContext": "Dieses Rezept ist thematisch von Isekai Shokudo - Restaurant to Another World, Persona 5 inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (Rindfleisch e Schweinefleisch)",
+          "name": "Hackfleisch/Faschiertes (Rind und Schwein)",
           "note": null
         },
         "cipolla_bionda_media_tritata_finemente": {
-          "name": "Zwiebel bionda media fein gehackt",
+          "name": "Blonde Zwiebel durchschnittliche fein gehackt",
           "note": null
         },
         "uovo": {
@@ -376,7 +458,7 @@
           "note": null
         },
         "pangrattato": {
-          "name": "Semmelbrösel",
+          "name": "Pangratat",
           "note": null
         },
         "latte": {
@@ -384,100 +466,126 @@
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "Muskatnuss",
           "note": null
         },
-        "sale_e_pepe": {
-          "name": "Salz e pepper",
+        "sale_e_pepe_1_sale": {
+          "name": "Salz",
+          "note": null
+        },
+        "sale_e_pepe_2_pepe": {
+          "name": "Pfeffer",
           "note": null
         },
         "farina_tipo_00": {
-          "name": "Mehl tipo 00",
+          "name": "Mehl Typ 00",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Ei sbattuto",
+          "name": "Eier, die geschlagen wurden",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese Semmelbrösel)",
+          "name": "Panko (Japanischer Pony)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral Öl zum Frittieren",
+          "name": "Samenöl zum Braten",
           "note": null
         },
-        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to": {
-          "name": "Kohl in Scheiben sottilissimo e tonkatsu Sauce zum Servieren",
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_1_cavolo_cappuccio_affettato": {
+          "name": "Grünkohl, dünn geschnitten",
+          "note": null
+        },
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_2_salsa_tonkatsu_per_servire": {
+          "name": "Tonkatsu Soße zum Servieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer rostigen Pfanne die Zwiebel mit einem Tropfen Öl gehackt, bis sie transparent und goldig wird, lassen Sie sie vollständig abkühlen.",
+        "step_2": "In einer großen Schüssel, mischen Sie das Hackfleisch, die kalte Zwiebel, das Ei, das Brot in Milch weich, Salz, Pfeffer und Muskatnuss.",
+        "step_3": "Es klemmt kräftig von Hand, bis die Verbindung klebrig und homogen wird.",
+        "step_4": "Teilen Sie den Teig in 4 ovale Portionen.",
+        "step_5": "Das Fleisch wird von einer Hand in die andere geschüttet, um jede innere Luftblase zu entfernen, die beim Kochen die Schüssel zerbricht.",
+        "step_6": "Gehen Sie jede Schüssel zuerst in Mehl, dann in das zerstoßene Ei, und dann füllen Sie großzügig mit Panko, indem Sie leicht mit den Fingern drücken, um die Krümel gut zu haften.",
+        "step_7": "Erhitzt reichlich Öl, um bei 170 °C zu braten.",
+        "step_8": "Frittieren Sie die Menchi Katsu für 5-6 Minuten pro Seite bei mittlerer bis niedriger Hitze, bis die Kruste dunkel und goldig ist und das Innere gut gekocht und saftig.",
+        "step_9": "Schütten Sie es auf absorbierendes Papier und bringen Sie es in den heißen Tisch begleitet von frischem Kohl und Tonkatsu-Sauce."
       }
     },
     "pt": {
-      "title": "Menchi Katsu",
-      "description": "Uma versão prática de Menchi Katsu para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Isekai Shokudo - Restaurant to Another World, Persona 5. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Menchi katsu — croquetes crocantes de carne picada",
+      "description": "Os Menchi Katsu são cortezas ovais de carne moída e cebola, amarradas com ovos e grãos de pão amolecidos no leite. Depois que os grãos duplos são fritos até dorados e servidos com repolho fresco e molho de tonkatsu, verificando o cozimento interno da carne. A panificação deve ser doada uniformemente, enquanto a carne deve ser bem cozida mesmo no meio antes de servir com repolho.",
+      "animeContext": "Esta receita inspira-se tematicamente em Isekai Shokudo - Restaurant to Another World, Persona 5. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "carne_macinata_mista": {
-          "name": "Ground meat mista (carne bovina e porco)",
+          "name": "carne picada mista (manzo e porco)",
           "note": null
         },
         "cipolla_bionda_media_tritata_finemente": {
-          "name": "Cebola bionda media picado fino",
+          "name": "Cebola média loira picada finamente",
           "note": null
         },
         "uovo": {
-          "name": "Ovo",
+          "name": "ovo",
           "note": null
         },
         "pangrattato": {
-          "name": "Pão ralado",
+          "name": "grãos de grãos",
           "note": null
         },
         "latte": {
-          "name": "Leite",
+          "name": "leite",
           "note": null
         },
         "noce_moscata": {
-          "name": "Noce moscata",
+          "name": "noz moscada",
           "note": null
         },
-        "sale_e_pepe": {
-          "name": "Sal e pepper",
+        "sale_e_pepe_1_sale": {
+          "name": "sal",
+          "note": null
+        },
+        "sale_e_pepe_2_pepe": {
+          "name": "pimenta",
           "note": null
         },
         "farina_tipo_00": {
-          "name": "Farinha tipo 00",
+          "name": "tipo farinha 00",
           "note": null
         },
         "uovo_sbattuto": {
-          "name": "Ovo sbattuto",
+          "name": "ovo batido",
           "note": null
         },
         "panko": {
-          "name": "Panko (Japanese pão ralado)",
+          "name": "Panko (Pães japonesas)",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral óleo para fritar",
+          "name": "óleo de semente para fritar",
           "note": null
         },
-        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to": {
-          "name": "Couve fatiado sottilissimo e tonkatsu molho para servir",
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_1_cavolo_cappuccio_affettato": {
+          "name": "muito fina fatia de repolho",
+          "note": null
+        },
+        "cavolo_cappuccio_affettato_sottilissimo_e_salsa_to_2_salsa_tonkatsu_per_servire": {
+          "name": "Molho Tonkatsu para servir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa panela pequena, marrom a cebola picada com uma gota de óleo até que se torne transparente e dourada, deixe esfriar completamente.",
+        "step_2": "Em uma tigela grande, adicione carne picada, cebola fria, ovo, grãos amolecidos em leite, sal, pimenta e noz- moscada.",
+        "step_3": "Ele amassa vigorosamente à mão até que a mistura se torne pegajosa e homogênea.",
+        "step_4": "Divida a massa em 4 porções ovais.",
+        "step_5": "Passe a carne de uma mão para outra, batendo- a suavemente para eliminar quaisquer bolhas de ar internas que quebrassem o cortete durante o cozimento.",
+        "step_6": "Passe cada schnitzel primeiro para a farinha, depois para o ovo batido e finalmente cubra- o generosamente com o Panko pressionando levemente com os dedos para que as migalhas fiquem bem.",
+        "step_7": "Aquece muito óleo para fritar a 170°C.",
+        "step_8": "Frite o Menchi Katsu por 5-6 minutos por lado em fogo médio- baixo até que a crosta esteja escura e dourada e o interior esteja bem cozido e suculento.",
+        "step_9": "Esgote no papel absorvente e traga para a mesa quente acompanhado de repolho fresco e molho Tonkatsu."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000142",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Hyouka",
   "animeReferences": [
@@ -22,16 +22,16 @@
   ],
   "editorialVerification": {
     "culinaryStatus": "corrected",
-    "culinaryNote": "Title and culinary identity corrected during bulk editorial review before import; ingredients and method were normalized against the supplied recipe.",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 20,
   "cookMinutes": 15,
   "servings": 6,
   "difficulty": "medium",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -61,8 +61,8 @@
     },
     {
       "id": "amido_di_mais_o_fecola_per_spolverare",
-      "quantity": null,
-      "unit": null
+      "quantity": 30,
+      "unit": "g"
     }
   ],
   "steps": [
@@ -76,54 +76,74 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 90
     },
     {
       "id": "step_4",
+      "timerSeconds": 60
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Matcha Daifuku con Anko",
-      "description": "A home-friendly Matcha Daifuku con Anko that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Hyouka, Fruits Basket. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Matcha Daifuku with Anko — green tea rice cakes",
+      "description": "The Matcha Daifuku wraps an anko ball in an elastic paste of glutinous rice flour and green tea. The dough is baked in the microwave, divided still warm and closed on the filling before being served in the day. The anko filling is wrapped in the matcha dough with the closure below, avoiding to add too much starch on the surface.",
+      "animeContext": "This recipe is thematically inspired by Hyouka, Fruits Basket. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous rice flour (mochiko/shiratamako)",
+          "name": "Gluteny rice flour (Mochiko/Shiratamako)",
           "note": null
         },
         "acqua": {
-          "name": "Water",
+          "name": "water",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "matcha_in_polvere": {
-          "name": "Matcha in polvere",
+          "name": "Matcha powder",
           "note": null
         },
         "pasta_di_fagioli_rossi_anko": {
-          "name": "Sweet red bean paste anko (divisa in 6 palline)",
+          "name": "Anko red bean paste (divided into 6 balls)",
           "note": null
         },
         "amido_di_mais_o_fecola_per_spolverare": {
-          "name": "Cornstarch o fecola per spolverare",
+          "name": "corn starch or dust starch",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "Divide the anko into six equal balls and keep them covered; dust the work surface with corn starch or starch.",
+        "step_2": "Mix glutinous rice flour, sugar, matcha and water in a microwave bowl until dry lumps remain.",
+        "step_3": "Cover leaving a vent and bake at 600 W for about 90 seconds.",
+        "step_4": "Mix with a wet spatula and cook about 60 seconds, until the dough is shiny, elastic and evenly cooked.",
+        "step_5": "Transfer immediately the hot mass to the dusted surface, cover it with other starch and let it warm enough to handle it.",
+        "step_6": "Divide into six portions, flatten them into discs and thinn the edges slightly.",
+        "step_7": "Put a ball of anko in the center, close the edges pinching them well and place the daifuku with the closing down.",
+        "step_8": "Remove excess starch and serve at room temperature the same day."
       }
     },
     "it": {
       "title": "Matcha Daifuku con Anko",
-      "description": "Un Matcha Daifuku con Anko casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "description": "Il Matcha Daifuku avvolge una pallina di anko in una pasta elastica di farina di riso glutinoso e tè verde. L’impasto viene cotto al microonde, suddiviso ancora tiepido e richiuso sul ripieno prima di essere servito in giornata. Il ripieno di anko viene avvolto nella pasta al matcha con la chiusura sotto, evitando di aggiungere troppo amido sulla superficie.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Hyouka, Fruits Basket. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
@@ -147,24 +167,28 @@
           "note": null
         },
         "amido_di_mais_o_fecola_per_spolverare": {
-          "name": "Amido di mais o fecola per spolverare",
+          "name": "amido di mais o fecola per spolverare",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, riunisci in una ciotola adatta al microonde, amalgama la farina di riso glutinoso, lo zucchero, il matcha e l'acqua.",
-        "step_2": "Prosegui così: copri con pellicola traspirante e lascia cuocere in microonde a 600W per 1.5 minuti. Rimuovi, amalgama con una spatola bagnata e lascia cuocere per un altro minuto finché l'impasto diventa lucido ed elastico.",
-        "step_3": "Nella fase successiva, spolvera abbondantemente il piano di lavoro con amido di mais e stendi l'impasto caldo. Dividi l'impasto in 6 porzioni platte. Adagia al centro di ciascuna una pallina di Anko.",
-        "step_4": "Per completare, chiudi i lembi pizzicando il mochi in cima per sigillare la pallina. Porta in tavola a temperatura ambiente."
+        "step_1": "Dividi l’anko in sei palline uguali e tienile coperte; spolvera il piano di lavoro con amido di mais o fecola.",
+        "step_2": "Mescola farina di riso glutinoso, zucchero, matcha e acqua in una ciotola adatta al microonde finché non restano grumi asciutti.",
+        "step_3": "Copri lasciando uno sfogo e cuoci a 600 W per circa 90 secondi.",
+        "step_4": "Mescola con una spatola bagnata e cuoci ancora circa 60 secondi, finché l’impasto è lucido, elastico e uniformemente cotto.",
+        "step_5": "Trasferisci subito la massa calda sul piano spolverato, coprila con altro amido e lasciala intiepidire quanto basta per poterla maneggiare.",
+        "step_6": "Dividi in sei porzioni, appiattiscile in dischi e assottiglia leggermente i bordi.",
+        "step_7": "Metti una pallina di anko al centro, richiudi i lembi pizzicandoli bene e appoggia il daifuku con la chiusura verso il basso.",
+        "step_8": "Elimina l’amido in eccesso e servi a temperatura ambiente il giorno stesso."
       }
     },
     "es": {
-      "title": "Matcha Daifuku con Anko",
-      "description": "Una versión práctica de Matcha Daifuku con Anko para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Hyouka, Fruits Basket. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Daifuku de matcha con anko",
+      "description": "El Matcha Daifuku envuelve una bola de anko en una pasta elástica de harina de arroz glutinoso y té verde. La masa se cocina en el microondas, se divide todavía tibio y se cierra en el relleno antes de ser servido en el día. El relleno de anko se envuelve en pasta al matcha con el cierre debajo, evitando añadir demasiado almidón en la superficie.",
+      "animeContext": "Esta receta está inspirada temáticamente en Hyouka, Fruits Basket. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous arroz harina (mochiko/shiratamako)",
+          "name": "harina de arroz glutinoso (Mochiko/Shiratamako)",
           "note": null
         },
         "acqua": {
@@ -172,73 +196,81 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "matcha_in_polvere": {
-          "name": "Matcha in polvere",
+          "name": "Matcha en polvo",
           "note": null
         },
         "pasta_di_fagioli_rossi_anko": {
-          "name": "Dulce rojo bean paste anko (divisa in 6 palline)",
+          "name": "pasta de frijoles rojos Anko (dividida en 6 bolas)",
           "note": null
         },
         "amido_di_mais_o_fecola_per_spolverare": {
-          "name": "Maicena o fecola per spolverare",
+          "name": "almidón de maíz o fécula para espolvorear",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Divide el anko en seis bolitas iguales y mantenlas tapadas. Espolvorea la superficie de trabajo con almidón de maíz o fécula.",
+        "step_2": "Mezcla harina de arroz glutinoso, azúcar, matcha y agua en un tazón adecuado para el microondas hasta que queden grumos secos.",
+        "step_3": "Cubre dejando un sarpullido y horneando a 600 W durante unos 90 segundos.",
+        "step_4": "Mezcla con una espátula mojada y cocina unos 60 segundos más, hasta que la masa esté lúcida, elástica y cocida uniformemente.",
+        "step_5": "Transfiera la masa caliente al suelo, cúbrala con más almidón y déjela tibia lo suficiente para poder manejarla.",
+        "step_6": "Divide en seis porciones, aplanalas en discos y adelgaza ligeramente los bordes.",
+        "step_7": "Pon una bola de anko en el centro, cierra los bordes pellizcándolos bien y apoya el daifuku con el cierre hacia abajo.",
+        "step_8": "Elimina el exceso de almidón y sirve a temperatura ambiente el mismo día."
       }
     },
     "fr": {
-      "title": "Matcha Daifuku con Anko",
-      "description": "Une version pratique de Matcha Daifuku con Anko à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Hyouka, Fruits Basket. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Daifuku au matcha fourrés à l’anko",
+      "description": "Le Matcha Daifuku enveloppe une boule d'anko dans une pâte élastique de la farine de riz et le thé vert. La pâte est cuite au micro-ondes, divisée encore tiède et refermée sur la farce avant d'être servie dans la journée. La farce d'anko est enveloppée dans la pâte au matcha avec la fermeture ci-dessous, évitant d'ajouter trop d'amidon à la surface.",
+      "animeContext": "Cette recette s'inspire librement de Hyouka, Fruits Basket. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous riz farine (mochiko/shiratamako)",
+          "name": "farine de riz spiritueuse (Mochiko/Shiratamako)",
           "note": null
         },
         "acqua": {
-          "name": "Eau",
+          "name": "eau",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "matcha_in_polvere": {
-          "name": "Matcha in polvere",
+          "name": "Matcha en poudre",
           "note": null
         },
         "pasta_di_fagioli_rossi_anko": {
-          "name": "Doux rouge bean paste anko (divisa in 6 palline)",
+          "name": "pâte de haricots rouges Anko (divisée en 6 boules)",
           "note": null
         },
         "amido_di_mais_o_fecola_per_spolverare": {
-          "name": "Fécule de maïs o fecola per spolverare",
+          "name": "amidon de maïs ou fécule à épousseter",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Diviser l'anko en six boules égales et les garder couvertes; nettoyer le plan de travail avec de l'amidon de maïs ou de fécule.",
+        "step_2": "Mélangez de la farine de riz à base d'glutinos, du sucre, du matcha et de l'eau dans un bol adapté au micro-ondes jusqu'à ce qu'il reste des grumeaux secs.",
+        "step_3": "Couvrez en laissant une éruption et faites cuire à 600 W pendant environ 90 secondes.",
+        "step_4": "Mélanger avec une spatule humide et cuire encore environ 60 secondes, jusqu'à ce que la pâte soit brillante, élastique et uniformément cuit.",
+        "step_5": "Transférez immédiatement la masse chaude sur le plateau pulvérisé, couvrez-la avec un autre amidon et laissez-la tièder suffisamment pour pouvoir la manipuler.",
+        "step_6": "Diviser en six portions, les aplatir en disques et amincir légèrement les bords.",
+        "step_7": "Mettez une boule anko au centre, refermez les pans en les pinçant bien et posez le daifuku avec la fermeture vers le bas.",
+        "step_8": "Éliminez l'excès d'amidon et servez à température ambiante le jour même."
       }
     },
     "de": {
-      "title": "Matcha Daifuku con Anko",
-      "description": "Eine alltagstaugliche Version von Matcha Daifuku con Anko für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Hyouka, Fruits Basket inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Matcha-Daifuku mit Anko-Füllung",
+      "description": "Der Matcha Daifuku umwickelt einen Ankoball in eine elastische Paste aus glutinösem Reismehl und grünem Tee. Der Teig wird mit der Mikrowelle gekocht, noch lauwarm aufgeteilt und vor dem Servieren am Tag wieder auf die Füllung verschlossen. Die Anko-Füllung wird mit dem unteren Verschluss in die Matcha-Paste eingewickelt, so dass die Oberfläche nicht zu stark ist.",
+      "animeContext": "Dieses Rezept ist thematisch von Hyouka, Fruits Basket inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous Reis Mehl (mochiko/shiratamako)",
+          "name": "Reismehl, glutinös (Mochiko/Shiratamako)",
           "note": null
         },
         "acqua": {
@@ -250,60 +282,68 @@
           "note": null
         },
         "matcha_in_polvere": {
-          "name": "Matcha in polvere",
+          "name": "Matcha-Pulver",
           "note": null
         },
         "pasta_di_fagioli_rossi_anko": {
-          "name": "Süß rot bean paste anko (divisa in 6 palline)",
+          "name": "Anko rote Bohnenpaste (geteilt in 6 Bälle)",
           "note": null
         },
         "amido_di_mais_o_fecola_per_spolverare": {
-          "name": "Maisstärke o fecola per spolverare",
+          "name": "Maisstärke zum Polieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Teilen Sie die Anko in sechs gleiche Bälle und halten Sie sie bedeckt; stauben Sie die Arbeitsfläche mit Maisstärke.",
+        "step_2": "Mische Reismehl, Zucker, Matcha und Wasser in eine für die Mikrowelle geeignete Schüssel, bis trockene Klumpen übrig sind.",
+        "step_3": "Bedecken Sie einen Ausschlag und kochen Sie bei 600 W für ca. 90 Sekunden.",
+        "step_4": "Mit einem nassen Spachtel mischen und noch ca. 60 Sekunden kochen, bis der Teig glänzend, elastisch und gleichmäßig gekocht ist.",
+        "step_5": "Lege die warme Masse sofort auf die abgestaubte Ebene, bedecke sie mit einer anderen Stärke und lass sie so tief wie möglich eindringen, damit sie damit umgehen kann.",
+        "step_6": "Teilen Sie sie in sechs Portionen, glätten Sie sie in Scheiben und verdünnen Sie die Ränder leicht.",
+        "step_7": "Legen Sie einen Ball von Anko in die Mitte, schließen Sie die Lenden zusammen und drücken Sie den Daifuku mit dem Verschluss nach unten.",
+        "step_8": "Entfernen Sie überschüssige Stärke und servieren Sie bei Raumtemperatur am selben Tag."
       }
     },
     "pt": {
-      "title": "Matcha Daifuku con Anko",
-      "description": "Uma versão prática de Matcha Daifuku con Anko para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Hyouka, Fruits Basket. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Daifuku de matcha com anko",
+      "description": "O Matcha Daifuku envolve uma bola de anko numa pasta elástica de farinha de arroz glutinosa e chá verde. A massa é assada no microondas, dividida ainda quente e fechada no recheio antes de ser servida no dia. O preenchimento do anko é enrolado na massa matcha com o fechamento abaixo, evitando adicionar muito amido na superfície.",
+      "animeContext": "Esta receita inspira-se tematicamente em Hyouka, Fruits Basket. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
-          "name": "Glutinous arroz farinha (mochiko/shiratamako)",
+          "name": "Farinha de arroz de glúten (Mochiko/ Shiratamako)",
           "note": null
         },
         "acqua": {
-          "name": "Água",
+          "name": "água",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "matcha_in_polvere": {
-          "name": "Matcha in polvere",
+          "name": "Pó Matcha",
           "note": null
         },
         "pasta_di_fagioli_rossi_anko": {
-          "name": "Doce vermelho bean paste anko (divisa in 6 palline)",
+          "name": "Pasta de feijão vermelho Anko (dividida em 6 bolas)",
           "note": null
         },
         "amido_di_mais_o_fecola_per_spolverare": {
-          "name": "Amido de milho o fecola per spolverare",
+          "name": "amido de milho ou amido de poeira",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Divida o anko em seis bolas iguais e mantenha- as cobertas; poeira a superfície de trabalho com amido de milho ou amido.",
+        "step_2": "Misture farinha de arroz glutinoso, açúcar, matcha e água em uma tigela de microondas até que os blocos secos permaneçam.",
+        "step_3": "Cobrir deixando um ventilador e assar a 600 W por cerca de 90 segundos.",
+        "step_4": "Misture com uma espátula molhada e cozinhe cerca de 60 segundos, até que a massa seja brilhante, elástica e cozida uniformemente.",
+        "step_5": "Transferir imediatamente a massa quente para a superfície em poeira, cobri- la com outro amido e deixá- la aquecer o suficiente para lidar com ela.",
+        "step_6": "Dividir em seis porções, aplaná- las em discos e diluir ligeiramente as bordas.",
+        "step_7": "Coloque uma bola de anko no centro, feche as bordas apertando- as bem e coloque o daifuku com o fechamento.",
+        "step_8": "Remova o excesso de amido e sirva à temperatura ambiente no mesmo dia."
       }
     }
   }

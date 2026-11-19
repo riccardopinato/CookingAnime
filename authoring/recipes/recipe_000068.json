@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000068",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Doraemon",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 20,
   "servings": 6,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -61,13 +61,13 @@
     },
     {
       "id": "3_cucchiai_d_acqua",
-      "quantity": 2,
-      "unit": null
+      "quantity": 2.5,
+      "unit": "tbsp"
     },
     {
       "id": "tuorli",
       "quantity": 2,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "zucchero_2",
@@ -106,73 +106,113 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 900
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_10",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_11",
+      "timerSeconds": 30
+    },
+    {
+      "id": "step_12",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Dorayaki alla Crema Custard",
-      "description": "A home-friendly Dorayaki alla Crema Custard that keeps the characteristic chewy or tender texture of Japanese sweets and balances sweetness with the traditional finishing elements.",
-      "animeContext": "This recipe is thematically inspired by Doraemon, Kimi no Na wa (Your Name). The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Custard Cream Dorayaki — Japanese pancakes with pastry cream",
+      "description": "These Dorayaki replace l'anko with a vanilla custard cream. The cream is thickened and cooled, while a honey batter forms small disks in a pan that are joined to sandwich only after cooling. The small pancakes should be allowed to cool before adding the cream, to preserve the soft filling between the two discs.",
+      "animeContext": "This recipe is thematically inspired by Doraemon, Kimi no Na wa (Your Name). These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "uovo_grandi": {
-          "name": "Egg grandi",
+          "name": "Large eggs",
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "miele": {
-          "name": "Honey",
+          "name": "honey",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose flour",
+          "name": "flour 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "yeast for desserts",
           "note": null
         },
         "3_cucchiai_d_acqua": {
-          "name": "-3 cucchiai d'water",
-          "note": null
+          "name": "water",
+          "note": "Add it gradually to adjust the fluidity of the batter."
         },
         "tuorli": {
-          "name": "Tuorli",
+          "name": "egg yolks",
           "note": null
         },
         "zucchero_2": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Cornstarch",
+          "name": "maize starch",
           "note": null
         },
         "latte_intero": {
-          "name": "Milk intero",
+          "name": "whole milk",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "Vanilla extract",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the rice-flour or bean-paste components carefully, adding liquid gradually until the mixture reaches a smooth, workable consistency.",
-        "step_2": "Divide and shape the mixture evenly, adding the filling or colorings while keeping each portion sealed and similar in size.",
-        "step_3": "Cook, boil, steam or chill the shaped sweets as required until the texture is fully set but still tender and pleasantly chewy.",
-        "step_4": "Finish with the traditional coating, glaze, leaf or skewer and serve at the recommended temperature while the texture is at its best."
+        "step_1": "Work the egg yolks with sugar and cornstarch.",
+        "step_2": "Heat the milk with vanilla without boiling, then add it flush on the egg yolks mixing.",
+        "step_3": "Put it back on the fire and let it thicken over low heat by always mixing.",
+        "step_4": "Cool covered with contact film.",
+        "step_5": "Work the eggs with sugar and honey until they become clear.",
+        "step_6": "Melt the yeast in the water and add it to the eggs.",
+        "step_7": "Slice the flour and incorporate it gently.",
+        "step_8": "Place the dough in the fridge for 15 minutes.",
+        "step_9": "Heat a non-stick pan slightly greased with oil and clean with absorbent paper.",
+        "step_10": "Pour a ladle of dough and form an 8 cm disc.",
+        "step_11": "When bubbles appear on the surface, turn and let cook for another 30 seconds.",
+        "step_12": "Let the discs cool, put a generous spoonful of custard cream in the middle of a disc and close to sandwich by gently pressing the edges to seal it."
       }
     },
     "it": {
       "title": "Dorayaki alla Crema Custard (Variante alla Crema)",
-      "description": "Un Dorayaki alla Crema Custard (Variante alla Crema) casalingo che conserva la consistenza morbida o elastica tipica dei dolci giapponesi e bilancia la dolcezza con le finiture tradizionali.",
+      "description": "Questi Dorayaki sostituiscono l’anko con una crema custard alla vaniglia. La crema viene fatta addensare e raffreddare, mentre una pastella al miele forma piccoli dischi in padella che vengono uniti a sandwich solo dopo il raffreddamento. Le piccole frittelle vanno lasciate raffreddare prima di aggiungere la crema, per conservare la farcitura morbida tra i due dischi.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Doraemon, Kimi no Na wa (Your Name). Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "uovo_grandi": {
-          "name": "uovo grandi",
+          "name": "uova grandi",
           "note": null
         },
         "zucchero": {
@@ -192,8 +232,8 @@
           "note": null
         },
         "3_cucchiai_d_acqua": {
-          "name": "-3 cucchiai d'acqua",
-          "note": null
+          "name": "acqua",
+          "note": "Aggiungila poco alla volta per regolare la fluidità della pastella."
         },
         "tuorli": {
           "name": "tuorli",
@@ -217,133 +257,157 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, lavora i tuorli con lo zucchero e l'amido di mais. Porta a temperatura il latte con la vaniglia senza far bollire, poi aggiungilo a filo sui tuorli amalgamando. Rimetti sul fuoco e fai addensare a fuoco basso amalgamando sempre. Fai raffreddare coperto con pellicola a contatto.",
-        "step_2": "Prosegui così: lavora le uova con lo zucchero e il miele finché non diventano chiare. Sciogli il lievito nell'acqua ed uniscilo alle uova. Setaccia la farina ed incorporala delicatamente. Fai riposare l'impasto in frigo per 15 minuti.",
-        "step_3": "Nella fase successiva, porta a temperatura una padella antiaderente leggermente unta d'olio e pulita con carta assorbente. Aggiungi un mestolino d'impasto forma un disco da 8 cm. Quando compaiono le bolle in superficie, gira e lascia cuocere per altri 30 secondi.",
-        "step_4": "Per completare, fai raffreddare i dischi, metti una generosa cucchiaiata di crema custard al centro di un disco e chiudi a sandwich premendo delicatamente i bordi per sigillarlo."
+        "step_1": "Lavora i tuorli con lo zucchero e l'amido di mais.",
+        "step_2": "Scalda il latte con la vaniglia senza far bollire, poi aggiungilo a filo sui tuorli amalgamando.",
+        "step_3": "Rimetti sul fuoco e fai addensare a fuoco basso amalgamando sempre.",
+        "step_4": "Fai raffreddare coperto con pellicola a contatto.",
+        "step_5": "Lavora le uova con lo zucchero e il miele finché non diventano chiare.",
+        "step_6": "Sciogli il lievito nell'acqua ed uniscilo alle uova.",
+        "step_7": "Setaccia la farina e incorporala delicatamente.",
+        "step_8": "Fai riposare l'impasto in frigo per 15 minuti.",
+        "step_9": "Scalda una padella antiaderente leggermente unta d'olio e pulita con carta assorbente.",
+        "step_10": "Versa un mestolino d'impasto e forma un disco da 8 cm.",
+        "step_11": "Quando compaiono le bolle in superficie, gira e lascia cuocere per altri 30 secondi.",
+        "step_12": "Fai raffreddare i dischi, metti una generosa cucchiaiata di crema custard al centro di un disco e chiudi a sandwich premendo delicatamente i bordi per sigillarlo."
       }
     },
     "es": {
-      "title": "Dorayaki alla Crema Custard",
-      "description": "Una versión práctica de Dorayaki alla Crema Custard para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Doraemon, Kimi no Na wa (Your Name). La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Dorayaki de crema pastelera",
+      "description": "Estos Dorayaki sustituyen a l-sanko con una crema custard de vainilla. La crema se hace espesar y enfriar, mientras que una masa de miel forma pequeños discos en la sartén que se unen a sándwich sólo después de la refrigeración. Los pequeños panqueques se dejan enfriar antes de añadir la crema, para conservar el relleno suave entre los dos discos.",
+      "animeContext": "Esta receta está inspirada temáticamente en Doraemon, Kimi no Na wa (Your Name). Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "uovo_grandi": {
-          "name": "Huevo grandi",
+          "name": "Huevos grandes",
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "miele": {
-          "name": "Honey",
+          "name": "miel",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose harina",
+          "name": "harina 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "levadura para pasteles",
           "note": null
         },
         "3_cucchiai_d_acqua": {
-          "name": "-3 cucchiai d'agua",
-          "note": null
+          "name": "Agua",
+          "note": "Añádela poco a poco para ajustar la fluidez de la masa."
         },
         "tuorli": {
-          "name": "Tuorli",
+          "name": "Yemas de huevo",
           "note": null
         },
         "zucchero_2": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Maicena",
+          "name": "almidón de maíz",
           "note": null
         },
         "latte_intero": {
-          "name": "Leche intero",
+          "name": "leche entera",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "extracto de vainilla",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Trabaja las yemas con azúcar y almidón de maíz.",
+        "step_2": "Calienta la leche con vainilla sin hervir, luego agrégala a hilo en las yemas mezclando.",
+        "step_3": "Vuelve al fuego y haz que el fuego se enfríe con la mezcla.",
+        "step_4": "Deja que se enfríe cubierto con película de contacto.",
+        "step_5": "Trabaja los huevos con azúcar y miel hasta que se aclaren.",
+        "step_6": "Disuelve la levadura en el agua y añádela a los huevos.",
+        "step_7": "Colocar la harina e incorporarla suavemente.",
+        "step_8": "Descansa la masa en la nevera durante 15 minutos.",
+        "step_9": "Calienta una sartén antiadherente ligeramente unta de aceite y limpia con papel absorbente.",
+        "step_10": "Vierta un cucharón de masa y forma un disco de 8 cm.",
+        "step_11": "Cuando aparecen las burbujas en la superficie, gira y deja cocer durante otros 30 segundos.",
+        "step_12": "Enfría los discos, pon una cucharada generosa de crema custard en el centro de un disco y cierra el sándwich presionando suavemente los bordes para sellarlo."
       }
     },
     "fr": {
-      "title": "Dorayaki alla Crema Custard",
-      "description": "Une version pratique de Dorayaki alla Crema Custard à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Doraemon, Kimi no Na wa (Your Name). Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Dorayaki à la crème pâtissière",
+      "description": "Ces Dorayaki remplacent la pâte de haricots rouges anko par une crème pâtissière à la vanille. Faites épaissir puis refroidir la crème, préparez les petites crêpes au miel dans une poêle et assemblez les deux disques en sandwich après refroidissement. Les petites crêpes doivent être laissées refroidir avant d'ajouter la crème, afin de conserver l'farce douce entre les deux disques.",
+      "animeContext": "Cette recette s'inspire librement de Doraemon, Kimi no Na wa (Your Name). Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "uovo_grandi": {
-          "name": "Œuf grandi",
+          "name": "gros oeufs",
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "miele": {
-          "name": "Honey",
+          "name": "miel",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose farine",
+          "name": "farine 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "levain pour desserts",
           "note": null
         },
         "3_cucchiai_d_acqua": {
-          "name": "-3 cucchiai d'eau",
-          "note": null
+          "name": "eau",
+          "note": "Ajoutez-la peu à peu pour régler la fluidité de la pâte."
         },
         "tuorli": {
-          "name": "Tuorli",
+          "name": "Jaunes d'œufs",
           "note": null
         },
         "zucchero_2": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Fécule de maïs",
+          "name": "amidon de maïs",
           "note": null
         },
         "latte_intero": {
-          "name": "Lait intero",
+          "name": "lait entier",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "extrait de vanille",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Travaille les jaunes d'œufs avec du sucre et de l'amidon de maïs.",
+        "step_2": "Réchauffez le lait avec de la vanille sans faire bouillir, puis ajoutez-le sur les jaunes d'œufs.",
+        "step_3": "Remets-toi sur le feu et fais épaissir le feu en mélangeant tout le temps.",
+        "step_4": "Faire refroidir couvert de film de contact.",
+        "step_5": "Travaillez vos œufs avec du sucre et du miel jusqu'à ce qu'ils soient clairs.",
+        "step_6": "Dissoudre la levure dans l'eau et ajouter les œufs.",
+        "step_7": "Fouillez la farine et incorporez-la délicatement.",
+        "step_8": "Faites reposer la pâte dans le frigo pendant 15 minutes.",
+        "step_9": "Chauffez une poêle anti-adhérente légèrement huileuse et propre avec du papier absorbant.",
+        "step_10": "Versez une pâte et formez un disque de 8 cm.",
+        "step_11": "Lorsque les bulles apparaissent à la surface, tournez et laissez cuire pendant encore 30 secondes.",
+        "step_12": "Faites refroidir les disques, mettez une cuiller à soupe généreuse au milieu d'un disque et fermez à sandwich en appuyant doucement sur les bords pour le sceller."
       }
     },
     "de": {
-      "title": "Dorayaki alla Crema Custard",
-      "description": "Eine alltagstaugliche Version von Dorayaki alla Crema Custard für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Doraemon, Kimi no Na wa (Your Name) inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Dorayaki mit Vanillecreme",
+      "description": "Diese Dorayaki ersetzen die silberne Custard Vanillecreme. Die Creme wird verdichtet und abgekühlt, während ein Honigpastet kleine Scheiben in der Pfanne bildet, die erst nach dem Abkühlen mit Sandwich verbunden werden. Die kleinen Pfannkuchen sollten vor dem Hinzufügen der Creme abgekühlt werden, um die weiche Füllung zwischen den beiden Scheiben zu bewahren.",
+      "animeContext": "Dieses Rezept ist thematisch von Doraemon, Kimi no Na wa (Your Name) inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "uovo_grandi": {
-          "name": "Ei grandi",
+          "name": "Großeier",
           "note": null
         },
         "zucchero": {
@@ -351,23 +415,23 @@
           "note": null
         },
         "miele": {
-          "name": "Honey",
+          "name": "Honig",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose Mehl",
+          "name": "Mehl 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "Kuchenhefe",
           "note": null
         },
         "3_cucchiai_d_acqua": {
-          "name": "-3 cucchiai d'Wasser",
-          "note": null
+          "name": "Wasser",
+          "note": "Fügen Sie es kurz nach und nach hinzu, um die Flüssigkeit des Teiges zu regulieren."
         },
         "tuorli": {
-          "name": "Tuorli",
+          "name": "Eigelb",
           "note": null
         },
         "zucchero_2": {
@@ -379,76 +443,92 @@
           "note": null
         },
         "latte_intero": {
-          "name": "Milch intero",
+          "name": "Vollmilch",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "Vanilleextrakt",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Die Eigelb werden mit Zucker und Maisstärke bearbeitet.",
+        "step_2": "Erhitzen Sie die Milch mit Vanille, ohne zu kochen, dann fügen Sie sie an den Eigelb mischen.",
+        "step_3": "Legen Sie das Feuer wieder auf und lassen Sie es mit niedrigem Feuer verdichten, indem Sie es immer vermischen.",
+        "step_4": "Lassen Sie es mit Kontaktfilm bedeckt abkühlen.",
+        "step_5": "Er arbeitet seine Eier mit Zucker und Honig, bis sie klar sind.",
+        "step_6": "Lösen Sie die Hefe im Wasser und fügen Sie sie mit den Eiern.",
+        "step_7": "Sie sieben das Mehl und geben es vorsichtig ein.",
+        "step_8": "Den Teig 15 Minuten im Kühlschrank ausruhen lassen.",
+        "step_9": "Erhitzen Sie eine leicht mit Öl fettige und saubere Pfanne mit absorbierendem Papier.",
+        "step_10": "Gießen Sie einen Teig und bilden Sie eine 8 cm Scheibe.",
+        "step_11": "Wenn die Blasen an der Oberfläche erscheinen, dreht er sich um und lässt 30 Sekunden lang kochen.",
+        "step_12": "Kühlen Sie die Scheiben ab, legen Sie einen großzügigen Esslöffel Custard-Creme in die Mitte einer Platte und schließen Sie mit Sandwich, indem Sie sanft die Ränder drücken, um sie zu versiegeln."
       }
     },
     "pt": {
-      "title": "Dorayaki alla Crema Custard",
-      "description": "Uma versão prática de Dorayaki alla Crema Custard para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Doraemon, Kimi no Na wa (Your Name). A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Dorayaki com creme de pasteleiro",
+      "description": "Estes Dorayaki substituem o l'anko por um creme de creme de baunilha. O creme é espessado e resfriado, enquanto uma massa de mel forma pequenos discos numa panela que são unidos ao sanduíche somente após o resfriamento. As pequenas panquecas devem ser deixadas esfriar antes de adicionar o creme, para preservar o preenchimento suave entre os dois discos.",
+      "animeContext": "Esta receita inspira-se tematicamente em Doraemon, Kimi no Na wa (Your Name). São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "uovo_grandi": {
-          "name": "Ovo grandi",
+          "name": "Ovos grandes",
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "miele": {
-          "name": "Honey",
+          "name": "mel",
           "note": null
         },
         "farina_00": {
-          "name": "All-purpose farinha",
+          "name": "farinha 00",
           "note": null
         },
         "lievito_per_dolci": {
-          "name": "Baking powder",
+          "name": "levedura para sobremesas",
           "note": null
         },
         "3_cucchiai_d_acqua": {
-          "name": "-3 cucchiai d'água",
-          "note": null
+          "name": "água",
+          "note": "Adicione- o gradualmente para ajustar a fluidez do batedor."
         },
         "tuorli": {
-          "name": "Tuorli",
+          "name": "gemas de ovos",
           "note": null
         },
         "zucchero_2": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "amido_di_mais": {
-          "name": "Amido de milho",
+          "name": "amido de milho",
           "note": null
         },
         "latte_intero": {
-          "name": "Leite intero",
+          "name": "leite inteiro",
           "note": null
         },
         "estratto_di_vaniglia": {
-          "name": "Estratto di vaniglia",
+          "name": "Extrato de vanila",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Trabalhe as gemas de ovo com açúcar e amido de milho.",
+        "step_2": "Aqueça o leite com baunilha sem ferver, em seguida, adicione- o flush nas gemas de ovo misturando.",
+        "step_3": "Coloque- o de volta no fogo e deixe- o espessá- lo a fogo baixo, sempre misturando.",
+        "step_4": "Coberto com filme de contato.",
+        "step_5": "Trabalhe os ovos com açúcar e mel até que fiquem claros.",
+        "step_6": "Derreta a levedura na água e adicione- a aos ovos.",
+        "step_7": "Corte a farinha e incorpore- a suavemente.",
+        "step_8": "Coloque a massa no frigorífico por 15 minutos.",
+        "step_9": "Aqueça uma panela antiadherente ligeiramente engraxada com óleo e limpa com papel absorvente.",
+        "step_10": "Verter um cofre de massa e formar um disco de 8 cm.",
+        "step_11": "Quando as bolhas aparecerem na superfície, vire e deixe cozinhar por mais 30 segundos.",
+        "step_12": "Deixe os discos esfriar, coloque uma colher generosa de creme de creme no meio de um disco e perto do sanduíche pressionando suavemente as bordas para selá- lo."
       }
     }
   }

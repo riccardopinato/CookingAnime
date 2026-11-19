@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000088",
-  "contentVersion": 1,
+  "contentVersion": 3,
   "status": "published",
   "inspirationTitle": "Cardcaptor Sakura",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 15,
   "cookMinutes": 20,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -56,18 +56,18 @@
     },
     {
       "id": "frutta_fresca_assortita_fragole_intere",
-      "quantity": null,
-      "unit": null
+      "quantity": 8,
+      "unit": "piece"
     },
     {
       "id": "kiwi_sbucciati",
-      "quantity": null,
-      "unit": null
+      "quantity": 2,
+      "unit": "piece"
     },
     {
       "id": "mandarini_o_uva_senza_semi",
-      "quantity": null,
-      "unit": null
+      "quantity": 2,
+      "unit": "piece"
     }
   ],
   "steps": [
@@ -86,53 +86,78 @@
     {
       "id": "step_4",
       "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_7",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_8",
+      "timerSeconds": 1200
+    },
+    {
+      "id": "step_9",
+      "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Fruit Sando",
-      "description": "A Japanese-style Fruit Sando designed for a light, clean finish, with careful mixing, temperature control and enough resting time for the intended texture.",
-      "animeContext": "This recipe is thematically inspired by Cardcaptor Sakura, Horimiya. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Fruit Sando — fresh fruit and whipped cream sandwiches",
+      "description": "Fruit Sando pairs soft shokupan bread with whipped cream, sugar, vanilla and fresh fruit. Arrange the fruit along the intended cutting diagonal on the cream-covered slices, then fill any gaps with more cream. Close, wrap and chill the sandwiches before slicing along the diagonal to reveal the fruit pattern. This is a chilled sandwich, not a baked dessert.",
+      "animeContext": "This recipe is thematically inspired by Cardcaptor Sakura, Horimiya. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "pane_per_sandwich_morbido_shokupan": {
-          "name": "Pane per sandwich morbido shokupan",
+          "name": "Shokupan soft sandwich bread",
           "note": null
         },
         "panna_fresca_liquida_da_montare_freddissima": {
-          "name": "Heavy cream liquida da montare freddissima",
+          "name": "fresh liquid cream to be mounted very cold",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sugar",
+          "name": "semolate sugar",
           "note": null
         },
         "vaniglia": {
-          "name": "Vaniglia",
+          "name": "vanilla",
           "note": null
         },
         "frutta_fresca_assortita_fragole_intere": {
-          "name": "Frutta fresh assortita: strawberries intere",
+          "name": "fresh fruit assorted: whole strawberries",
           "note": null
         },
         "kiwi_sbucciati": {
-          "name": "Kiwi sbucciati",
+          "name": "Peeled kiwi",
           "note": null
         },
         "mandarini_o_uva_senza_semi": {
-          "name": "Mandarini o uva senza semi",
-          "note": null
+          "name": "Cherries or grapes without seeds",
+          "note": "Choose one of the two fruits according to the season."
         }
       },
       "steps": {
-        "step_1": "Prepare the pan, mold or serving glasses and measure all ingredients before mixing; keep dairy or whipped components cold when the recipe requires it.",
-        "step_2": "Mix or whip the base only as much as needed to obtain a smooth, airy or creamy texture without unnecessarily knocking out incorporated air.",
-        "step_3": "Bake, chill, freeze or set the dessert with controlled temperature and timing, checking the center or surface for the intended doneness rather than relying only on the clock.",
-        "step_4": "Cool or rest fully when required, then add the final cream, fruit, syrup or garnish immediately before serving."
+        "step_1": "Mount the cold cream with sugar and vanilla until it becomes firm and structured.",
+        "step_2": "Spread a generous layer of whipped cream on two slices of bread.",
+        "step_3": "Arrange the fresh fruit on the cream along the diagonal where you plan to slice the sandwich.",
+        "step_4": "Position the strawberries so that the cut reveals their characteristic heart-shaped cross-section.",
+        "step_5": "Cover the empty spaces between the fruit with other whipped cream so as not to leave any air gaps.",
+        "step_6": "Close with the other slices of bread.",
+        "step_7": "Wrap the sandwiches tightly in the transparent film and mark the diagonal cut line with a marker.",
+        "step_8": "Leave in the fridge for 20 minutes.",
+        "step_9": "Cut in half with a sharp knife following the line to show the fruit design."
       }
     },
     "it": {
       "title": "Fruit Sando (Sandwich alla Frutta Fresca e Panna)",
-      "description": "Un Fruit Sando (Sandwich alla Frutta Fresca e Panna) in stile giapponese dal risultato leggero e pulito, dove montatura, temperatura e riposo vengono gestiti con attenzione per ottenere la consistenza corretta.",
+      "description": "Il Fruit Sando abbina pane shokupan morbido, panna montata con zucchero e vaniglia e frutta fresca. La frutta viene disposta sulle fette ricoperte di panna secondo la diagonale di taglio, poi gli spazi vengono riempiti con altra crema. Dopo aver chiuso e avvolto i sandwich, si lasciano in frigorifero e si tagliano seguendo la diagonale: è un dolce freddo, non da cuocere.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Cardcaptor Sakura, Horimiya. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "pane_per_sandwich_morbido_shokupan": {
@@ -152,7 +177,7 @@
           "note": null
         },
         "frutta_fresca_assortita_fragole_intere": {
-          "name": "Frutta fresca assortita: fragole intere",
+          "name": "frutta fresca assortita: fragole intere",
           "note": null
         },
         "kiwi_sbucciati": {
@@ -161,178 +186,203 @@
         },
         "mandarini_o_uva_senza_semi": {
           "name": "mandarini o uva senza semi",
-          "note": null
+          "note": "Scegli uno dei due frutti in base alla stagione."
         }
       },
       "steps": {
-        "step_1": "Per iniziare, monta la panna fresca fredda con lo zucchero e la vaniglia finché diventa ben ferma e strutturata.",
-        "step_2": "Prosegui così: spalma un generoso strato di panna montata su due fette di pane.",
-        "step_3": "Nella fase successiva, sistema la frutta fresca intera sopra la panna seguendo la linea diagonale lungo cui taglierai il sandwich (es. adagia le fragole orientate in modo che al taglio mostrino la sezione a cuore). Copri gli spazi vuoti tra la frutta con altra panna montata per non lasciare vuoti d'aria. Chiudi con le altre fette di pane.",
-        "step_4": "Per completare, avvolgi strettamente i sandwich nella pellicola trasparente e segna con un pennarello la linea di taglio diagonale. Lascia riposare in frigo per 20 minuti. Taglia a metà con un coltello affilato seguendo la linea per mostrare il disegno di frutta."
+        "step_1": "Monta la panna fresca fredda con lo zucchero e la vaniglia finché diventa ben ferma e strutturata.",
+        "step_2": "Spalma un generoso strato di panna montata su due fette di pane.",
+        "step_3": "Sistema la frutta fresca sulla panna seguendo la diagonale lungo cui taglierai il sandwich.",
+        "step_4": "Orienta le fragole in modo che al taglio mostrino la caratteristica sezione a cuore.",
+        "step_5": "Copri gli spazi vuoti tra la frutta con altra panna montata per non lasciare vuoti d'aria.",
+        "step_6": "Chiudi con le altre fette di pane.",
+        "step_7": "Avvolgi strettamente i sandwich nella pellicola trasparente e segna con un pennarello la linea di taglio diagonale.",
+        "step_8": "Lascia riposare in frigo per 20 minuti.",
+        "step_9": "Taglia a metà con un coltello affilato seguendo la linea per mostrare il disegno di frutta."
       }
     },
     "es": {
-      "title": "Fruit Sando",
-      "description": "Una versión práctica de Fruit Sando para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Cardcaptor Sakura, Horimiya. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Fruit sando — sándwiches de fruta fresca y nata",
+      "description": "El Fruit Sando combina pan shokupan tierno, nata montada con azúcar y vainilla y fruta fresca. Se coloca la fruta sobre las rebanadas cubiertas de nata siguiendo la diagonal del corte y se rellenan los huecos con más nata. Se cierran y envuelven los sándwiches, se enfrían en la nevera y se cortan por la diagonal para mostrar el dibujo de la fruta. Es un postre frío, sin horneado.",
+      "animeContext": "Esta receta está inspirada temáticamente en Cardcaptor Sakura, Horimiya. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "pane_per_sandwich_morbido_shokupan": {
-          "name": "Pane per sandwich morbido shokupan",
+          "name": "Pan para sándwich suave Shokupan",
           "note": null
         },
         "panna_fresca_liquida_da_montare_freddissima": {
-          "name": "Heavy nata liquida da montare freddissima",
+          "name": "crema fresca líquida para montar fríamente",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated azúcar",
+          "name": "azúcar semilado",
           "note": null
         },
         "vaniglia": {
-          "name": "Vaniglia",
+          "name": "vainilla",
           "note": null
         },
         "frutta_fresca_assortita_fragole_intere": {
-          "name": "Frutta fresco assortita: strawberries intere",
+          "name": "frutas frescas surtidos: fresas enteras",
           "note": null
         },
         "kiwi_sbucciati": {
-          "name": "Kiwi sbucciati",
+          "name": "kiwis pelados",
           "note": null
         },
         "mandarini_o_uva_senza_semi": {
-          "name": "Mandarini o uva senza semi",
-          "note": null
+          "name": "mandarinas o uvas sin semillas",
+          "note": "Elige una de las dos frutas según la temporada."
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Monta la crema fría con el azúcar y la vainilla hasta que se quede quieta y estructurada.",
+        "step_2": "Unta una generosa capa de crema montada en dos rebanadas de pan.",
+        "step_3": "Dispón la fruta fresca sobre la nata siguiendo la diagonal por la que cortarás el sándwich.",
+        "step_4": "Orienta las fresas para que el corte muestre su característica sección en forma de corazón.",
+        "step_5": "Cubre los espacios vacíos entre la fruta con otra crema montada para no dejar vacíos de aire.",
+        "step_6": "Cierra con las otras rebanadas de pan.",
+        "step_7": "Envuelve estrictamente los sándwiches en la película transparente y marca con un rotulador la línea de corte diagonal.",
+        "step_8": "Deja reposar en la nevera durante 20 minutos.",
+        "step_9": "Corta por la mitad con un cuchillo afilado siguiendo la línea para mostrar el diseño de la fruta."
       }
     },
     "fr": {
-      "title": "Fruit Sando",
-      "description": "Une version pratique de Fruit Sando à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Cardcaptor Sakura, Horimiya. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Fruit sando — sandwiches aux fruits frais et à la crème fouettée",
+      "description": "Le Fruit Sando associe du pain shokupan moelleux, de la crème fouettée au sucre et à la vanille et des fruits frais. Disposez les fruits sur les tranches garnies de crème en suivant la diagonale de découpe, puis comblez les espaces avec le reste de crème. Refermez et enveloppez les sandwichs, laissez-les refroidir au réfrigérateur et coupez-les en diagonale pour révéler les fruits. Ce dessert se sert froid, sans cuisson.",
+      "animeContext": "Cette recette s'inspire librement de Cardcaptor Sakura, Horimiya. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "pane_per_sandwich_morbido_shokupan": {
-          "name": "Pane per sandwich morbido shokupan",
+          "name": "pain pour sandwich doux Shokupan",
           "note": null
         },
         "panna_fresca_liquida_da_montare_freddissima": {
-          "name": "Heavy crème liquida da montare freddissima",
+          "name": "crème fraîche liquide à assembler froidement",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated sucre",
+          "name": "sucre en poudre, en granulés ou sous d'autres formes solides, d'une teneur en poids de matières grasses provenant du lait et d'une teneur en poids de matières grasses égale ou supérieure à 40% mais n'excédant pas 10%",
           "note": null
         },
         "vaniglia": {
-          "name": "Vaniglia",
+          "name": "vanille",
           "note": null
         },
         "frutta_fresca_assortita_fragole_intere": {
-          "name": "Frutta frais assortita: strawberries intere",
+          "name": "Fruits frais assortis: fraises entières",
           "note": null
         },
         "kiwi_sbucciati": {
-          "name": "Kiwi sbucciati",
+          "name": "kiwis pelés",
           "note": null
         },
         "mandarini_o_uva_senza_semi": {
-          "name": "Mandarini o uva senza semi",
-          "note": null
+          "name": "Fruits à coques ou raisins sans graines",
+          "note": "Choisissez l'un des deux fruits selon la saison."
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Montez la crème fraîche avec du sucre et de la vanille jusqu'à ce qu'elle devienne bien ferme et structurée.",
+        "step_2": "Spalme une généreuse couche de crème montée sur deux tranches de pain.",
+        "step_3": "Disposez les fruits frais sur la crème en suivant la diagonale prévue pour découper le sandwich.",
+        "step_4": "Orientez les fraises de façon que la coupe révèle leur section caractéristique en forme de cœur.",
+        "step_5": "Couvrez les espaces vides entre les fruits avec une autre crème montée pour ne pas laisser d'air vide.",
+        "step_6": "Ferme avec les autres tranches de pain.",
+        "step_7": "Enroulez étroitement les sandwichs dans le film transparent et marquez avec un marqueur la ligne de coupe diagonale.",
+        "step_8": "Laissez-vous reposer au réfrigérateur pendant 20 minutes.",
+        "step_9": "Couper en deux avec un couteau aiguisé en suivant la ligne pour montrer le dessin des fruits."
       }
     },
     "de": {
-      "title": "Fruit Sando",
-      "description": "Eine alltagstaugliche Version von Fruit Sando für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Cardcaptor Sakura, Horimiya inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Fruit Sando – Sandwiches mit frischen Früchten und Sahne",
+      "description": "Fruit Sando kombiniert weiches Shokupan-Brot mit Schlagsahne, Zucker, Vanille und frischen Früchten. Die Früchte werden auf den mit Sahne bestrichenen Scheiben entlang der späteren Schnittdiagonale angeordnet; Hohlräume werden mit weiterer Sahne gefüllt. Die Sandwiches verschließen, einwickeln, kühlen und diagonal aufschneiden, damit das Fruchtmuster sichtbar wird. Das Dessert wird kalt serviert und nicht gebacken.",
+      "animeContext": "Dieses Rezept ist thematisch von Cardcaptor Sakura, Horimiya inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "pane_per_sandwich_morbido_shokupan": {
-          "name": "Pane per sandwich morbido shokupan",
+          "name": "Shokupan weiches Sandwichbrot",
           "note": null
         },
         "panna_fresca_liquida_da_montare_freddissima": {
-          "name": "Heavy Sahne liquida da montare freddissima",
+          "name": "Kühle flüssige Sahne zu montieren sehr kalt",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated Zucker",
+          "name": "Semolatzucker",
           "note": null
         },
         "vaniglia": {
-          "name": "Vaniglia",
+          "name": "Vanille",
           "note": null
         },
         "frutta_fresca_assortita_fragole_intere": {
-          "name": "Frutta frisch assortita: strawberries intere",
+          "name": "frisches Obst sortiert: Erdbeeren ganz",
           "note": null
         },
         "kiwi_sbucciati": {
-          "name": "Kiwi sbucciati",
+          "name": "geschälter Kiwi",
           "note": null
         },
         "mandarini_o_uva_senza_semi": {
-          "name": "Mandarini o uva senza semi",
-          "note": null
+          "name": "Mandarinen oder Rosinen ohne Samen",
+          "note": "Wählen Sie eine der beiden Früchte je nach Jahreszeit."
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Holen Sie die kalte frische Sahne mit Zucker und Vanille, bis sie fest und strukturiert wird.",
+        "step_2": "Spreizt eine großzügige Schicht von Schlagsahne auf zwei Scheiben Brot.",
+        "step_3": "Das frische Obst auf der Sahne entlang der vorgesehenen Schnittdiagonale anordnen.",
+        "step_4": "Die Erdbeeren so ausrichten, dass beim Aufschneiden der typische herzförmige Querschnitt sichtbar wird.",
+        "step_5": "Bedecken Sie die leeren Räume zwischen den Früchten mit anderen Schlagsahne, um keine Luftleere zu hinterlassen.",
+        "step_6": "Schließ mit den anderen Brotscheiben.",
+        "step_7": "Wickeln Sie die Sandwiches in den transparenten Film und markieren Sie mit einem Stift die diagonale Schnittlinie.",
+        "step_8": "Lassen Sie sich 20 Minuten im Kühlschrank ausruhen.",
+        "step_9": "Schneide in der Mitte mit einem scharfen Messer nach der Linie, um das Fruchtdesign zu zeigen."
       }
     },
     "pt": {
-      "title": "Fruit Sando",
-      "description": "Uma versão prática de Fruit Sando para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Cardcaptor Sakura, Horimiya. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Fruit sando — sanduíches de fruta fresca e natas batidas",
+      "description": "O Fruit Sando combina pão shokupan macio, natas batidas com açúcar e baunilha e fruta fresca. Distribui-se a fruta sobre as fatias com natas segundo a diagonal do corte e preenchem-se os espaços com mais natas. Fecham-se e embrulham-se as sanduíches, deixam-se arrefecer no frigorífico e cortam-se na diagonal para revelar o desenho da fruta. É uma sobremesa fria, sem ir ao forno.",
+      "animeContext": "Esta receita inspira-se tematicamente em Cardcaptor Sakura, Horimiya. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "pane_per_sandwich_morbido_shokupan": {
-          "name": "Pane per sandwich morbido shokupan",
+          "name": "Pão macio de sanduíche Shokupan",
           "note": null
         },
         "panna_fresca_liquida_da_montare_freddissima": {
-          "name": "Heavy natas liquida da montare freddissima",
+          "name": "creme líquido fresco a ser montado muito frio",
           "note": null
         },
         "zucchero_semolato": {
-          "name": "Granulated açúcar",
+          "name": "açúcar semolado",
           "note": null
         },
         "vaniglia": {
-          "name": "Vaniglia",
+          "name": "baunilha",
           "note": null
         },
         "frutta_fresca_assortita_fragole_intere": {
-          "name": "Frutta fresco assortita: strawberries intere",
+          "name": "frutas frescas variadas: morangos inteiros",
           "note": null
         },
         "kiwi_sbucciati": {
-          "name": "Kiwi sbucciati",
+          "name": "Kiwi descascado",
           "note": null
         },
         "mandarini_o_uva_senza_semi": {
-          "name": "Mandarini o uva senza semi",
-          "note": null
+          "name": "Cerejas ou uvas sem sementes",
+          "note": "Escolha um dos dois frutos de acordo com a estação."
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Monte o creme frio com açúcar e baunilha até que se torne firme e estruturado.",
+        "step_2": "Espalhe uma camada generosa de creme batido em duas fatias de pão.",
+        "step_3": "Disponha a fruta fresca sobre as natas seguindo a diagonal por onde irá cortar a sanduíche.",
+        "step_4": "Oriente os morangos de modo que, ao cortar, apresentem a característica secção em forma de coração.",
+        "step_5": "Cubra os espaços vazios entre a fruta com outro creme batido para não deixar quaisquer lacunas de ar.",
+        "step_6": "Feche com as outras fatias de pão.",
+        "step_7": "Enrole bem os sanduíches no filme transparente e marque a linha de corte diagonal com um marcador.",
+        "step_8": "Deixe no frigorífico por 20 minutos.",
+        "step_9": "Cortar ao meio com uma faca afiada seguindo a linha para mostrar o desenho da fruta."
       }
     }
   }

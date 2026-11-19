@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000129",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "porro_grande",
       "quantity": 1,
-      "unit": null
+      "unit": "piece"
     },
     {
       "id": "brodo_dashi",
@@ -86,29 +86,37 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 240
     },
     {
       "id": "step_4",
+      "timerSeconds": 240
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_6",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Niku Soba",
-      "description": "A practical bowl of Niku Soba, built around well-cooked noodles, a balanced broth or sauce and toppings added at the right moment so texture stays distinct.",
-      "animeContext": "This recipe is thematically inspired by Demon Slayer, Jujutsu Kaisen. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Niku Soba — hot soba noodles with pork and leeks",
+      "description": "Niku Soba is a buckwheat noodles soup with thin slices of pork and toasted leeks. The hot broth is prepared separately and poured on the soba cotta, along with the cooked meat and aromas. The soba is boiled separately and transferred into the very hot broth with pork and grilled leek, finished with shichimi.",
+      "animeContext": "This recipe is thematically inspired by Demon Slayer, Jujutsu Kaisen. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "tagliolini_soba": {
-          "name": "Tagliolini soba (grano saraceno)",
+          "name": "Noodles Soba (buckwheat)",
           "note": null
         },
         "pancia_o_lonza_di_maiale_affettata_sottilissima": {
-          "name": "Pancia o lonza di pork sliced sottilissima",
+          "name": "very thin sliced pork belly or pork loin",
           "note": null
         },
         "porro_grande": {
-          "name": "Porro grande (cut into rocchetti da 3 cm)",
+          "name": "Large leek (cut into 3 cm spools)",
           "note": null
         },
         "brodo_dashi": {
@@ -124,24 +132,26 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sugar",
+          "name": "sugar",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (spezia sette sapori, per guarnire)",
+          "name": "Shichimi Togarashi (spice seven flavors, to garnish)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare the broth or seasoning base first and keep the toppings organized, so every component is ready before the noodles are cooked.",
-        "step_2": "Cook the noodles separately until just tender, then drain very thoroughly; avoid leaving them in hot water because they will continue to soften.",
-        "step_3": "Finish the broth or sauce at a gentle simmer and combine the hot components only when their seasoning and texture are balanced.",
-        "step_4": "Assemble the noodles immediately, add the prepared toppings in distinct sections and serve while the broth, noodles and garnishes still contrast clearly."
+        "step_1": "In a non-stick pan without added fats, grill the leek spools until they are golden and toast them slightly on the surface, keep aside.",
+        "step_2": "Put in a saucepan, boil the Dashi broth with soy sauce, mirin and sugar.",
+        "step_3": "Combine the pork slices and let them cook for 3-4 minutes until they are tender.",
+        "step_4": "Cook soba in plenty of boiling water for the time indicated on the package (about 3-4 minutes), drain and rinse briefly.",
+        "step_5": "Divide the soba into two large bowls.",
+        "step_6": "Add over the boiling broth with the pork slices and garnish with the grilled leek and a sprinkle of Shichimi Togarashi."
       }
     },
     "it": {
       "title": "Niku Soba (Soba Calda con Maiale e Porri)",
-      "description": "Una versione pratica di Niku Soba (Soba Calda con Maiale e Porri), costruita su noodles cotti al punto giusto, brodo o salsa equilibrati e guarnizioni aggiunte all’ultimo per mantenere consistenze distinte.",
+      "description": "Il Niku Soba è una zuppa di noodles di grano saraceno con fettine sottili di maiale e porri tostati. Il brodo caldo viene preparato separatamente e versato sulla soba cotta, insieme alla carne già cotta e agli aromi. Le soba vengono lessate separatamente e trasferite nel brodo molto caldo con maiale e porro grigliato, rifinite con shichimi.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Demon Slayer, Jujutsu Kaisen. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "tagliolini_soba": {
@@ -178,31 +188,33 @@
         }
       },
       "steps": {
-        "step_1": "Per iniziare, in una padella antiaderente senza grassi aggiunti, griglia i rocchetti di porro fino a dorarli e abbrustolirli leggermente in superficie. Tieni da parte.",
-        "step_2": "Prosegui così: metti in un pentolino, porta a bollore il brodo Dashi con la salsa di soia, il mirin e lo zucchero. Unisci le fettine di maiale e lascia cuocerele per 3-4 minuti fino a quando sono tenere.",
-        "step_3": "Nella fase successiva, lascia cuocere la soba in abbondante acqua bollente per il tempo indicato sulla confezione (circa 3-4 minuti), scolala e sciacquala brevemente.",
-        "step_4": "Per completare, dividi la soba in due ciotole capienti, aggiungi sopra il brodo bollente con le fettine di maiale e guarnisci con il porro grigliato e una spolverata di Shichimi Togarashi."
+        "step_1": "In una padella antiaderente senza grassi aggiunti, griglia i rocchetti di porro fino a dorarli e abbrustolirli leggermente in superficie, tieni da parte.",
+        "step_2": "Metti in un pentolino, porta a bollore il brodo Dashi con la salsa di soia, il mirin e lo zucchero.",
+        "step_3": "Unisci le fettine di maiale e lascia cuocerele per 3-4 minuti fino a quando sono tenere.",
+        "step_4": "Cuoci soba in abbondante acqua bollente per il tempo indicato sulla confezione (circa 3-4 minuti), scolala e sciacquala brevemente.",
+        "step_5": "Dividi la soba in due ciotole capienti.",
+        "step_6": "Aggiungi sopra il brodo bollente con le fettine di maiale e guarnisci con il porro grigliato e una spolverata di Shichimi Togarashi."
       }
     },
     "es": {
-      "title": "Niku Soba",
-      "description": "Una versión práctica de Niku Soba para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Jujutsu Kaisen. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Niku soba — fideos soba calientes con cerdo y puerros",
+      "description": "El Niku Soba es una sopa de fideos de trigo sarraceno con rodajas finas de cerdo y puerros tostados. El caldo caliente se prepara por separado y se derrama sobre la soba cocinada, junto con la carne ya cocinada y los aromas. Las soba se leen por separado y se transfieren al caldo muy caliente con cerdo y puerro asado, acabados con shichimi.",
+      "animeContext": "Esta receta está inspirada temáticamente en Demon Slayer, Jujutsu Kaisen. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "tagliolini_soba": {
-          "name": "Tagliolini soba (grano saraceno)",
+          "name": "Cortasoles Soba (grano sarraceno)",
           "note": null
         },
         "pancia_o_lonza_di_maiale_affettata_sottilissima": {
-          "name": "Pancia o lonza di cerdo en rodajas sottilissima",
+          "name": "panza o loncia de cerdo cortada delgada",
           "note": null
         },
         "porro_grande": {
-          "name": "Porro grande (cut into rocchetti da 3 cm)",
+          "name": "Puerro grande (cortado en carretes de 3 cm)",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Caldo Dashi",
           "note": null
         },
         "salsa_di_soia": {
@@ -214,44 +226,46 @@
           "note": null
         },
         "zucchero": {
-          "name": "Azúcar",
+          "name": "azúcar",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (spezia sette sapori, per guarnire)",
+          "name": "Shichimi Togarashi (especia siete sabores, para guarnición)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "En una sartén antiadherente sin grasas añadidas, arrástrese los carretes de puerro hasta dorarlos y abrazarlos ligeramente en la superficie, mantenga a un lado.",
+        "step_2": "Ponlo en una cacerola, deja que el caldo Dashi se marchite con la salsa de soja, el mirin y el azúcar.",
+        "step_3": "Añade las lonchas de cerdo y cuécelas durante 3–4 minutos, hasta que estén tiernas.",
+        "step_4": "Cocine soba en abundante agua hirviendo durante el tiempo indicado en el envase (aproximadamente 3-4 minutos), escúrela y enjuáguela brevemente.",
+        "step_5": "Divide la soba en dos tazones grandes.",
+        "step_6": "Añadir sobre el caldo caliente con las rodajas de cerdo y guarnecer con el puerro asado y un polvo de Shichimi Togarashi."
       }
     },
     "fr": {
-      "title": "Niku Soba",
-      "description": "Une version pratique de Niku Soba à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Demon Slayer, Jujutsu Kaisen. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Niku soba — nouilles soba chaudes au porc et aux poireaux",
+      "description": "Le Niku Soba est une soupe de nouilles de sarrasin avec des tranches minces de porc et des poireaux grillés. Le bouillon chaud est préparé séparément et versé sur le soba cuite, ainsi que la viande déjà cuite et les arômes. Les sobas sont lésés séparément et transférés dans le bouillon très chaud avec du porc et du poireau grillé, fini avec du shichimi.",
+      "animeContext": "Cette recette s'inspire librement de Demon Slayer, Jujutsu Kaisen. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "tagliolini_soba": {
-          "name": "Tagliolini soba (grano saraceno)",
+          "name": "Sarrasin Soba (grain de sarrasin)",
           "note": null
         },
         "pancia_o_lonza_di_maiale_affettata_sottilissima": {
-          "name": "Pancia o lonza di porc tranché sottilissima",
+          "name": "le ventre ou la longe de porc coupée très fine",
           "note": null
         },
         "porro_grande": {
-          "name": "Porro grande (cut into rocchetti da 3 cm)",
+          "name": "grand poireau (coupé en rouleaux de 3 cm)",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi bouillon",
+          "name": "Brode dashi",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
@@ -259,44 +273,46 @@
           "note": null
         },
         "zucchero": {
-          "name": "Sucre",
+          "name": "sucre",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (spezia sette sapori, per guarnire)",
+          "name": "Shichimi Togarashi (épice sept saveurs, pour garnir)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Dans une poêle anti-adhérente sans graisse ajoutée, griller les crêpes de poireau jusqu'à les dorer et les récurer légèrement à la surface, gardez de côté.",
+        "step_2": "Mettez dans une casserole, faites bouillir le bouillon dashi avec la sauce soja, la mirin et le sucre.",
+        "step_3": "Combinez les tranches de porc et laissez-les cuire pendant 3-4 minutes jusqu'à ce qu'elles soient tendres.",
+        "step_4": "Faites cuire soba dans beaucoup d'eau bouillante pendant le temps indiqué sur l'emballage (environ 3-4 minutes), aspirez-la et rincez-la brièvement.",
+        "step_5": "Diviser le soba en deux bols.",
+        "step_6": "Ajoutez au-dessus du bouillon bouillant avec les tranches de porc et garnissez avec le poireau grillé et une soupe de Shichimi Togarashi."
       }
     },
     "de": {
-      "title": "Niku Soba",
-      "description": "Eine alltagstaugliche Version von Niku Soba für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Jujutsu Kaisen inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Niku Soba – warme Soba-Nudeln mit Schweinefleisch und Lauch",
+      "description": "Der Niku Soba ist eine Suppe aus Buchweizennudeln mit dünnen Scheiben von Schwein und gerösteten Lauch. Die warme Brühe wird separat zubereitet und auf die gekochte Soba, zusammen mit dem bereits gekochten Fleisch und den Aromen vergossen. Die Sobas werden getrennt gekocht und in die sehr warme Suppe mit Schwein und gegrilltem Lauch gebracht, mit Shichimi fertig gemacht.",
+      "animeContext": "Dieses Rezept ist thematisch von Demon Slayer, Jujutsu Kaisen inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "tagliolini_soba": {
-          "name": "Tagliolini soba (grano saraceno)",
+          "name": "Telolini Soba (Jungweizen)",
           "note": null
         },
         "pancia_o_lonza_di_maiale_affettata_sottilissima": {
-          "name": "Pancia o lonza di Schweinefleisch in Scheiben sottilissima",
+          "name": "Schweinebauch oder Schweineleine, sehr dünn geschnitten",
           "note": null
         },
         "porro_grande": {
-          "name": "Porro grande (cut into rocchetti da 3 cm)",
+          "name": "Lauch groß (mit 3 cm Röcke geschnitten)",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi Brühe",
+          "name": "Dashi-Brühe",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
@@ -308,36 +324,38 @@
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (spezia sette sapori, per guarnire)",
+          "name": "Shichimi Togarashi (würzt sieben Geschmacksrichtungen, zu garnieren)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "In einer Pfanne ohne zugesetzte Fette grillen Sie die Lauchpfannen, bis sie an der Oberfläche leicht vergoren werden, und halten Sie sie beiseite.",
+        "step_2": "Legen Sie in einen Topf, bringen Sie die Dashi-Brühe mit Soja-Sauce, Mirin und Zucker.",
+        "step_3": "Kombinieren Sie die Schweinescheiben und lassen Sie sie für 3-4 Minuten kochen, bis sie halten.",
+        "step_4": "Kochen Sie Soba in reichlich kochendem Wasser für die auf der Verpackung angegebene Zeit (ca. 3-4 Minuten), spülen und kurz spülen.",
+        "step_5": "Teilen Sie die Soba in zwei große Schalen.",
+        "step_6": "Fügen Sie die kochende Brühe mit den Schweinescheiben hinzu und garnieren Sie mit dem gegrillten Lauch und einem Staub von Shichimi Togarashi."
       }
     },
     "pt": {
-      "title": "Niku Soba",
-      "description": "Uma versão prática de Niku Soba para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Demon Slayer, Jujutsu Kaisen. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Niku soba — massa soba quente com porco e alho-francês",
+      "description": "Niku Soba é uma sopa de macarrão com fatias finas de porco e puerros torrados. O caldo quente é preparado separadamente e derramado na cota de soba, juntamente com a carne cozida e aromas. O soba é fervido separadamente e transferido para o caldo muito quente com porco e puerro grelhado, terminado com shichimi.",
+      "animeContext": "Esta receita inspira-se tematicamente em Demon Slayer, Jujutsu Kaisen. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "tagliolini_soba": {
-          "name": "Tagliolini soba (grano saraceno)",
+          "name": "Macarrão Soba (buckwheat)",
           "note": null
         },
         "pancia_o_lonza_di_maiale_affettata_sottilissima": {
-          "name": "Pancia o lonza di porco fatiado sottilissima",
+          "name": "muito fina fatia de barriga de porco ou lombo de porco",
           "note": null
         },
         "porro_grande": {
-          "name": "Porro grande (cut into rocchetti da 3 cm)",
+          "name": "Porro grande (cortado em rolos de 3 cm)",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Coberto de Dashi",
           "note": null
         },
         "salsa_di_soia": {
@@ -349,19 +367,21 @@
           "note": null
         },
         "zucchero": {
-          "name": "Açúcar",
+          "name": "açúcar",
           "note": null
         },
         "shichimi_togarashi": {
-          "name": "Shichimi togarashi (spezia sette sapori, per guarnire)",
+          "name": "Shichimi Togarashi (apimentar sete sabores, para decorar)",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Numa panela antiadherente sem gorduras adicionadas, grelhar os rolos de alho até que estejam dourados e torrá- los ligeiramente na superfície, mantenha- se de lado.",
+        "step_2": "Coloque em uma panela, ferva o caldo Dashi com molho de soja, mirin e açúcar.",
+        "step_3": "Combine as fatias de porco e deixe- as cozinhar por 3-4 minutos até que estejam macias.",
+        "step_4": "Cozinhe soba em muita água fervente para o tempo indicado no pacote (cerca de 3-4 minutos), drene e enxague brevemente.",
+        "step_5": "Divida o soba em duas tigelas grandes.",
+        "step_6": "Adicione sobre o caldo fervente com as fatias de porco e guarneça com o porro grelhado e um copo de Shichimi Togarashi."
       }
     }
   }

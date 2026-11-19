@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000135",
-  "contentVersion": 1,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -21,17 +21,17 @@
     }
   ],
   "editorialVerification": {
-    "culinaryStatus": "verified",
-    "culinaryNote": "Reviewed for culinary consistency during the bulk editorial import and normalized into the app authoring contract.",
+    "culinaryStatus": "corrected",
+    "culinaryNote": "AI-assisted Fast Track: detailed Italian method and source-locked locale candidates were reconciled with matching ingredient IDs, quantities, step IDs and timers. This is not a professional or physical cooking certification.",
     "animeStatus": "unverified",
-    "animeNote": "Anime associations are retained as thematic inspiration from the supplied collection; no episode-level appearance is claimed without direct evidence."
+    "animeNote": "Associations derive from the source review; 'inspired' never claims a verified on-screen recipe."
   },
   "prepMinutes": 10,
   "cookMinutes": 15,
   "servings": 2,
   "difficulty": "easy",
   "contentOrigin": "adapted",
-  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed.",
+  "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
   "imageAssetId": null,
   "ingredients": [
     {
@@ -60,7 +60,12 @@
       "unit": "tbsp"
     },
     {
-      "id": "daikon_grattugiato_e_zenzero_fresco_per_guarnire",
+      "id": "daikon_grattugiato_e_zenzero_fresco_per_guarnire_1_daikon_grattugiato",
+      "quantity": null,
+      "unit": null
+    },
+    {
+      "id": "daikon_grattugiato_e_zenzero_fresco_per_guarnire_2_zenzero_fresco_per_guarnire",
       "quantity": null,
       "unit": null
     }
@@ -76,25 +81,37 @@
     },
     {
       "id": "step_3",
-      "timerSeconds": null
+      "timerSeconds": 240
     },
     {
       "id": "step_4",
+      "timerSeconds": null
+    },
+    {
+      "id": "step_5",
+      "timerSeconds": 120
+    },
+    {
+      "id": "step_6",
+      "timerSeconds": 600
+    },
+    {
+      "id": "step_7",
       "timerSeconds": null
     }
   ],
   "locales": {
     "en": {
-      "title": "Agedashi Nasu",
-      "description": "A quick-cooked Agedashi Nasu that relies on high heat, organized mise en place and short cooking times to keep vegetables lively and sauces concentrated.",
-      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Demon Slayer. The association is kept as inspiration only; no specific episode or on-screen appearance is claimed without direct evidence.",
+      "title": "Agedashi Nasu — fried eggplant marinated in dashi",
+      "description": "The Agedashi Nasu are cut and fried eggplants, then briefly immersed in a dishi broth flavored with soy and mirin. The finish of grated daikon and fresh ginger brings freshness to the cooking bottom. Fried eggplants are seasoned in hot dash for at least ten minutes, then served with daikon and ginger.",
+      "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Demon Slayer. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "melanzana_perline_o_corte_giapponesi": {
-          "name": "Eggplant perline o corte giapponesi",
+          "name": "aubergine Japanese beads or shorts",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral oil for frying",
+          "name": "seed oil for frying",
           "note": null
         },
         "brodo_dashi": {
@@ -109,21 +126,28 @@
           "name": "Mirin",
           "note": null
         },
-        "daikon_grattugiato_e_zenzero_fresco_per_guarnire": {
-          "name": "Daikon grated e ginger fresh per guarnire",
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_1_daikon_grattugiato": {
+          "name": "Grated Daikon",
+          "note": null
+        },
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_2_zenzero_fresco_per_guarnire": {
+          "name": "fresh ginger to garnish",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Cut and measure every ingredient before heating the pan, because the cooking phase is short and should not be interrupted for preparation.",
-        "step_2": "Use a hot pan or griddle and cook the firmer ingredients first, keeping them moving so they brown without steaming in their own moisture.",
-        "step_3": "Add the remaining ingredients and sauce in stages, cooking only until the sauce clings and the vegetables retain some bite.",
-        "step_4": "Finish with the fresh garnish and serve immediately, while the pan-seared surfaces and concentrated seasoning are still vivid."
+        "step_1": "Cut the eggplant in half for the long and paste the skin with shallow diagonal cuts, so that they absorb the seasoning without flaking.",
+        "step_2": "Dry them well and bring the oil to about 170°C.",
+        "step_3": "Fry the eggplants for 3-4 minutes, turning them once, until the pulp is soft and the skin shiny.",
+        "step_4": "Drain on grid or absorbent paper without crushing them.",
+        "step_5": "Bring to simmer dashi, soy sauce and mirin for 1-2 minutes.",
+        "step_6": "Place the eggplants still warm in a container and pour over the broth, leaving them to flavor at least 10 minutes.",
+        "step_7": "Serve warm or at room temperature with grated daikon and fresh ginger."
       }
     },
     "it": {
       "title": "Agedashi Nasu (Melanzane Fritte Marinate in Brodo Dashi)",
-      "description": "Un Agedashi Nasu (Melanzane Fritte Marinate in Brodo Dashi) dalla cottura rapida, basato su fiamma vivace, ingredienti già pronti e tempi brevi per mantenere verdure croccanti e salsa concentrata.",
+      "description": "Le Agedashi Nasu sono melanzane tagliate e fritte, poi immerse brevemente in un brodo dashi insaporito con soia e mirin. La finitura di daikon grattugiato e zenzero fresco porta freschezza al fondo di cottura. Le melanzane fritte si lasciano insaporire nel dashi caldo per almeno dieci minuti, poi si servono con daikon e zenzero.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Demon Slayer. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "melanzana_perline_o_corte_giapponesi": {
@@ -131,7 +155,7 @@
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Olio di semi per friggere",
+          "name": "olio di semi per friggere",
           "note": null
         },
         "brodo_dashi": {
@@ -146,33 +170,40 @@
           "name": "Mirin",
           "note": null
         },
-        "daikon_grattugiato_e_zenzero_fresco_per_guarnire": {
-          "name": "Daikon grattugiato e zenzero fresco per guarnire",
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_1_daikon_grattugiato": {
+          "name": "Daikon grattugiato",
+          "note": null
+        },
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_2_zenzero_fresco_per_guarnire": {
+          "name": "zenzero fresco per guarnire",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Per iniziare, taglia le melanzane a metà per il lungo e pratica dei piccoli tagli incrociati sulla buccia senza affondare troppo.",
-        "step_2": "Prosegui così: porta a temperatura l'olio a 170°C e friggi le melanzane per 3-4 minuti finché diventano morbide e dorate. Scolale su carta assorbente.",
-        "step_3": "Nella fase successiva, metti in un pentolino porta a sobbollire il dashi con salsa di soia e mirin. Adagia le melanzane fritte calde in una pirofila o ciotola e aggiungici sopra il brodo caldo.",
-        "step_4": "Per completare, porta in tavola guarnendo con una pallina di Daikon grattugiato, zenzero fresco e cipollotto."
+        "step_1": "Taglia le melanzane a metà per il lungo e incidi la buccia con tagli diagonali poco profondi, in modo che assorbano il condimento senza sfaldarsi.",
+        "step_2": "Asciugale bene e porta l’olio a circa 170°C.",
+        "step_3": "Friggi le melanzane per 3-4 minuti, girandole una volta, finché la polpa è morbida e la buccia lucida.",
+        "step_4": "Scolale su griglia o carta assorbente senza schiacciarle.",
+        "step_5": "Porta a sobbollire dashi, salsa di soia e mirin per 1-2 minuti.",
+        "step_6": "Sistema le melanzane ancora calde in un recipiente e versaci sopra il brodo, lasciandole insaporire almeno 10 minuti.",
+        "step_7": "Servi tiepide o a temperatura ambiente con daikon grattugiato e zenzero fresco."
       }
     },
     "es": {
-      "title": "Agedashi Nasu",
-      "description": "Una versión práctica de Agedashi Nasu para cocinar en casa, manteniendo los ingredientes característicos, la textura y la técnica del plato con una secuencia clara y repetible.",
-      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Demon Slayer. La relación se presenta solo como inspiración y no afirma una aparición concreta sin una verificación directa.",
+      "title": "Agedashi nasu — berenjena frita marinada en caldo dashi",
+      "description": "Las Agedashi Nasu son berenjenas cortadas y fritas, luego sumergidos brevemente en un caldo dashi en japorito con soja y mirin. El acabado de daikon rallado y jengibre fresco trae frescura al fondo de la cocción. Las berenjenas fritas se dejan saborear en el dashi caliente durante al menos diez minutos, luego se sirven con daikon y jengibre.",
+      "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Demon Slayer. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "melanzana_perline_o_corte_giapponesi": {
-          "name": "Berenjena perline o corte giapponesi",
+          "name": "berenjena perlas o corte japonesa",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral aceite para freír",
+          "name": "Aceite de semilla para freír",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Caldo Dashi",
           "note": null
         },
         "salsa_di_soia": {
@@ -183,107 +214,128 @@
           "name": "Mirin",
           "note": null
         },
-        "daikon_grattugiato_e_zenzero_fresco_per_guarnire": {
-          "name": "Daikon rallado e jengibre fresco per guarnire",
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_1_daikon_grattugiato": {
+          "name": "Daikon rallado",
+          "note": null
+        },
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_2_zenzero_fresco_per_guarnire": {
+          "name": "jengibre fresco para guarnición",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepara todos los componentes de la receta antes de aplicar calor, manteniendo salsas y guarniciones separadas para poder trabajar con orden.",
-        "step_2": "Cocina el elemento principal con calor controlado hasta alcanzar la textura indicada, evitando prolongar la cocción más de lo necesario.",
-        "step_3": "Incorpora el caldo, la salsa o los componentes restantes por etapas y continúa solo hasta que los sabores queden bien integrados y la textura sea correcta.",
-        "step_4": "Monta el plato con las guarniciones preparadas y sirve inmediatamente, conservando hasta el último momento los elementos que deben quedar crujientes o frescos."
+        "step_1": "Corta las berenjenas a la mitad por el tiempo y encimera la piel con cortes diagonales poco profundos, de modo que absorben el condimento sin desvanecerse.",
+        "step_2": "Seca bien y lleva el aceite a unos 170 °C.",
+        "step_3": "Freír las berenjenas durante 3-4 minutos, girarlas una vez, hasta que la pulpa sea suave y la piel brillante.",
+        "step_4": "Escolar sobre rejilla o papel absorbente sin aplastarlas.",
+        "step_5": "Lleva a bucear dashi, salsa de soja y mirin durante 1-2 minutos.",
+        "step_6": "Pon las berenjenas calientes en un recipiente y vierte sobre él el caldo, dejándolas sazonar al menos 10 minutos.",
+        "step_7": "Servir tibio o a temperatura ambiente con daikon rallado y jengibre fresco."
       }
     },
     "fr": {
-      "title": "Agedashi Nasu",
-      "description": "Une version pratique de Agedashi Nasu à préparer à la maison, en conservant les ingrédients caractéristiques, la texture et la technique du plat dans une séquence claire.",
-      "animeContext": "Cette recette est inspirée thématiquement par Emiya-san Chi no Kyou no Gohan, Demon Slayer. Le lien reste une inspiration et ne revendique aucun épisode précis sans vérification directe.",
+      "title": "Agedashi nasu — aubergines frites marinées dans un bouillon dashi",
+      "description": "Les Agedashi Nasu sont des aubergines coupées et frites, puis immergées brièvement dans un bouillon dashi assaisonné de soja et de myrin. La finition de daikon râpé et gingembre frais apporte de la fraîcheur au fond de la cuisson. Les aubergines frites se laissent savourer dans le dashi chaud pendant au moins dix minutes, puis servent avec daikon et gingembre.",
+      "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Demon Slayer. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "melanzana_perline_o_corte_giapponesi": {
-          "name": "Aubergine perline o corte giapponesi",
+          "name": "Aubergine perles ou cour japonaise",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral huile pour friture",
+          "name": "huile de graines à frire",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi bouillon",
+          "name": "Brode dashi",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sauce soja",
+          "name": "Sauce de soja",
           "note": null
         },
         "mirin": {
           "name": "Mirin",
           "note": null
         },
-        "daikon_grattugiato_e_zenzero_fresco_per_guarnire": {
-          "name": "Daikon râpé e gingembre frais per guarnire",
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_1_daikon_grattugiato": {
+          "name": "Daikon râpé",
+          "note": null
+        },
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_2_zenzero_fresco_per_guarnire": {
+          "name": "gingembre frais pour garnir",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Préparez tous les éléments de la recette avant la cuisson et gardez sauces et garnitures séparées afin de travailler de façon ordonnée et précise.",
-        "step_2": "Cuisez l’élément principal à chaleur maîtrisée jusqu’à la texture recherchée, sans prolonger inutilement la cuisson au-delà du point souhaité.",
-        "step_3": "Ajoutez progressivement le bouillon, la sauce ou les autres composants et poursuivez seulement jusqu’à ce que les saveurs soient liées et la texture correcte.",
-        "step_4": "Dressez avec les garnitures préparées et servez sans attendre, en préservant jusqu’au dernier moment les éléments qui doivent rester croquants ou frais."
+        "step_1": "Coupez les aubergines en deux pour le long et incidez la peau avec des coupures diagonales peu profondes, de sorte qu'elles absorbent l'assaisonnement sans s'effondrer.",
+        "step_2": "Essuyez-les bien et portez l'huile à environ 170°C.",
+        "step_3": "Frottez les aubergines pendant 3-4 minutes, en les tournant une fois, jusqu'à ce que la pulpe soit douce et la peau brillante.",
+        "step_4": "Scolaire sur grille ou papier absorbant sans les écraser.",
+        "step_5": "Porte le dashi, la sauce soja et le mirin à léger frémissement pendant 1 à 2 minutes.",
+        "step_6": "Placez les aubergines encore chaudes dans un récipient et versez-nous sur le bouillon, en les laissant savourer au moins 10 minutes.",
+        "step_7": "Servis tièdes ou à température ambiante avec daikon râpé et gingembre frais."
       }
     },
     "de": {
-      "title": "Agedashi Nasu",
-      "description": "Eine alltagstaugliche Version von Agedashi Nasu für zu Hause, bei der typische Zutaten, Textur und Garmethode in einer klaren, wiederholbaren Reihenfolge erhalten bleiben.",
-      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Demon Slayer inspiriert. Die Verbindung wird nur als Inspiration geführt; ohne direkten Beleg wird keine konkrete Episode behauptet.",
+      "title": "Agedashi Nasu – frittierte Aubergine in Dashibrühe",
+      "description": "Die Agedashi Nasu sind geschnittene Aubergine und gebratene Aubergine, die dann kurz in eine Eshi-Brühe eingetaucht ist, die mit Soja und Mirin gewürzt ist. Die Finish von Daikon gerieben und frischen Ingwer bringt Frische zum Kochboden. Die gebratenen Auberginen lassen sich mindestens zehn Minuten lang im warmen Dashi würzen und dann mit Daikons und Ingwer servieren.",
+      "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Demon Slayer inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "melanzana_perline_o_corte_giapponesi": {
-          "name": "Aubergine perline o corte giapponesi",
+          "name": "Aubergine japanische Perlen oder Hof",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral Öl zum Frittieren",
+          "name": "Samenöl zum Braten",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi Brühe",
+          "name": "Dashi-Brühe",
           "note": null
         },
         "salsa_di_soia": {
-          "name": "Sojasauce",
+          "name": "Sojasoße",
           "note": null
         },
         "mirin": {
           "name": "Mirin",
           "note": null
         },
-        "daikon_grattugiato_e_zenzero_fresco_per_guarnire": {
-          "name": "Daikon gerieben e Ingwer frisch per guarnire",
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_1_daikon_grattugiato": {
+          "name": "Daikon gerieben",
+          "note": null
+        },
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_2_zenzero_fresco_per_guarnire": {
+          "name": "Ingwer frisch zum Garnieren",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Bereite alle Bestandteile vor dem Erhitzen vollständig vor und halte Saucen sowie Garnituren getrennt, damit die eigentliche Garphase zügig ablaufen kann.",
-        "step_2": "Gare die Hauptkomponente bei kontrollierter Hitze bis zur gewünschten Textur und vermeide unnötig langes Weitergaren über den richtigen Punkt hinaus.",
-        "step_3": "Gib Brühe, Sauce oder die restlichen Bestandteile schrittweise dazu und gare nur so lange weiter, bis Geschmack und Konsistenz ausgewogen sind.",
-        "step_4": "Richte das Gericht mit den vorbereiteten Garnituren an und serviere es sofort, damit knusprige oder frische Elemente ihre gewünschte Textur behalten."
+        "step_1": "Schneiden Sie die Auberginen in der Mitte für die lange und stechen Sie die Schale mit wenig tiefen diagonalen Schnitten, so dass sie den Würz absorbieren, ohne sich zu verstümmeln.",
+        "step_2": "Trocknet sie gut und bringt Öl bei ca. 170 °C.",
+        "step_3": "Frittieren Sie die Auberginen für 3-4 Minuten, drehen Sie sie einmal, bis das Fruchtfleisch weich und die Schale glänzend ist.",
+        "step_4": "Schläf sie auf Gitter oder absorbierendes Papier, ohne sie zu zerquetschen.",
+        "step_5": "Bringt dashi, Sojasauce und Mirin für 1-2 Minuten.",
+        "step_6": "Setzen Sie die noch warmen Auberginen in einen Behälter und gießen Sie sie über die Brühe und lassen Sie sie mindestens 10 Minuten schmecken.",
+        "step_7": "Lauwarm oder bei Zimmertemperatur mit geriebenem Daikon und frischem Ingwer servieren."
       }
     },
     "pt": {
-      "title": "Agedashi Nasu",
-      "description": "Uma versão prática de Agedashi Nasu para preparar em casa, preservando ingredientes característicos, textura e técnica do prato numa sequência clara e repetível.",
-      "animeContext": "Esta receita é tematicamente inspirada por Emiya-san Chi no Kyou no Gohan, Demon Slayer. A ligação é tratada apenas como inspiração, sem afirmar uma aparição específica sem verificação direta.",
+      "title": "Agedashi nasu — beringela frita marinada em caldo dashi",
+      "description": "Os Agedashi Nasu são cortados e berinjelas fritas, então brevemente imersos em um caldo de prato aromatizado com soja e mirin. O final do daikon ralado e gengibre fresco traz frescura ao fundo da cozinha. Berinjelas fritas são temperadas em traço quente por pelo menos dez minutos, então servidas com daikon e gengibre.",
+      "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Demon Slayer. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "melanzana_perline_o_corte_giapponesi": {
-          "name": "Beringela perline o corte giapponesi",
+          "name": "berbequinha contas ou shorts japonês",
           "note": null
         },
         "olio_di_semi_per_friggere": {
-          "name": "Neutral óleo para fritar",
+          "name": "óleo de semente para fritar",
           "note": null
         },
         "brodo_dashi": {
-          "name": "Dashi caldo",
+          "name": "Coberto de Dashi",
           "note": null
         },
         "salsa_di_soia": {
@@ -294,16 +346,23 @@
           "name": "Mirin",
           "note": null
         },
-        "daikon_grattugiato_e_zenzero_fresco_per_guarnire": {
-          "name": "Daikon ralado e gengibre fresco per guarnire",
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_1_daikon_grattugiato": {
+          "name": "Daikon ralado",
+          "note": null
+        },
+        "daikon_grattugiato_e_zenzero_fresco_per_guarnire_2_zenzero_fresco_per_guarnire": {
+          "name": "Gengibre fresco para decorar",
           "note": null
         }
       },
       "steps": {
-        "step_1": "Prepare todos os componentes antes de aplicar calor e mantenha molhos e guarnições separados, para que a fase de confeção decorra de forma rápida e organizada.",
-        "step_2": "Cozinhe o componente principal com calor controlado até atingir a textura pretendida, evitando prolongar a confeção para além do ponto correto.",
-        "step_3": "Junte o caldo, o molho ou os restantes componentes por etapas e prossiga apenas até os sabores ficarem integrados e a textura estar equilibrada.",
-        "step_4": "Monte o prato com as guarnições preparadas e sirva de imediato, preservando até ao fim os elementos que devem permanecer crocantes ou frescos."
+        "step_1": "Cortar a berinjela ao meio para o longo e colar a pele com cortes diagonais rasos, de modo que absorvam o tempero sem descamação.",
+        "step_2": "Seque bem e leve o óleo para cerca de 170°C.",
+        "step_3": "Fritar as berinjelas por 3-4 minutos, girando- as uma vez, até que a polpa esteja macia e a pele brilhe.",
+        "step_4": "Esgote na grade ou papel absorvente sem esmagá- los.",
+        "step_5": "Traga para ferver dashi, molho de soja e mirin por 1-2 minutos.",
+        "step_6": "Coloque as berinjelas ainda quentes em um recipiente e derrame sobre o caldo, deixando- as aromatizar pelo menos 10 minutos.",
+        "step_7": "Sirva morno ou à temperatura ambiente com daikon ralado e gengibre fresco."
       }
     }
   }
