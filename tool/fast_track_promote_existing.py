@@ -80,7 +80,7 @@ def italian(source: dict, former: dict) -> dict:
         "description": source["description"],
         "animeContext": former["animeContext"],
         "ingredients": {
-            x["id"]: {"name": x["name"], "note": x.get("note")}
+            x["id"].rstrip("_"): {"name": x["name"], "note": x.get("note")}
             for x in source["ingredients"]
         },
         "steps": {x["id"]: x["instruction"] for x in source["steps"]},
