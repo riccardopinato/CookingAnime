@@ -16,16 +16,6 @@ on:
       - 'tool/tests/test_semantic_qa_adapter.py'
       - '.github/workflows/semantic-qa.yml'
   workflow_dispatch:
-    inputs:
-      provider:
-        description: 'Default offline; cloud semantic review requires configured secret and explicit dispatch'
-        type: choice
-        options: [offline, openai]
-        default: offline
-      model:
-        description: 'Explicit model name; required for paid API review'
-        type: string
-        required: false
 
 permissions:
   contents: read
@@ -60,23 +50,14 @@ jobs:
             semantic-cooking-v1-${{ github.ref_name }}-
       - name: Export all 162 IT originals and five locale translations
         run: python3 tool/semantic_qa_adapter.py --output build/semantic_qa/input.json
-      - name: Audit offline by default, API only on explicit manual opt-in
-        env:
-          OPENAI_API_KEY: ${{ secrets.SEMANTIC_QA_OPENAI_API_KEY }}
-          INPUT_PROVIDER: ${{ inputs.provider || 'offline' }}
-          INPUT_MODEL: ${{ inputs.model || '' }}
+      - name: Free offline structural audit (no API credentials or provider)
         run: |
           set -euo pipefail
-          options=(--input build/semantic_qa/input.json --report build/semantic_qa/report.json \
-                   --cache .semantic-qa-cache/cooking.json --workers 4 --batch-size 100)
-          if [ "$INPUT_PROVIDER" = 'openai' ]; then
-            [ -n "$OPENAI_API_KEY" ] || { echo "::error::SEMANTIC_QA_OPENAI_API_KEY not configured"; exit 1; }
-            [ -n "$INPUT_MODEL" ] || { echo "::error::Explicit AI model required"; exit 1; }
-            options+=(--provider openai --allow-external --second-pass --model "$INPUT_MODEL")
-          else
-            options+=(--provider offline)
-          fi
-          python3 build/semantic_qa/semantic_qa.py "${options[@]}"
+          python3 build/semantic_qa/semantic_qa.py \
+            --input build/semantic_qa/input.json \
+            --report build/semantic_qa/report.json \
+            --cache .semantic-qa-cache/cooking.json \
+            --workers 4 --batch-size 100 --provider offline
           python3 tool/semantic_qa_adapter.py --verify-report build/semantic_qa/report.json
       - name: Preserve inspectable report without publishing source changes
         if: always()
