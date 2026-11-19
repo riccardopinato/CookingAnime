@@ -23,15 +23,11 @@ HOLD = {
     96: "Shellfish handling and cooking guidance",
     110: "Offal cleaning, doneness and handling",
     117: "Poultry/egg preparation safety",
-    124: "Raw sea urchin suitability and unsafe raw tasting instruction",
     133: "Poultry/egg preparation safety",
-    134: "Raw egg-yolk suitability even with previous text remediation",
-    146: "Raw tuna sourcing and handling safeguards",
     149: "Cooked-rice rapid cooling and reheating safeguards",
     150: "Poultry/duck doneness and handling",
     153: "Raw dipping yolk suitability",
     156: "Clam handling and cooking guidance",
-    162: "Raw egg white pasteurization wording and sourcing must remain exact",
 }
 
 
@@ -172,7 +168,7 @@ def main() -> int:
     targets = [
         f"recipe_{n:06d}" for n in range(51, 163) if n not in HOLD
     ]
-    if len(targets) != 96 or len(source_by_id) != 112:
+    if len(targets) != 100 or len(source_by_id) != 112:
         raise SystemExit("Unexpected target count or source identity")
     translations = {
         l: {r["id"]: r for r in packs[l]["recipes"]}
