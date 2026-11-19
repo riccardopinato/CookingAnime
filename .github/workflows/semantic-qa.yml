@@ -8,6 +8,7 @@ on:
       - 'tool/semantic_qa_adapter.py'
       - 'tool/tests/test_semantic_qa_adapter.py'
       - 'tool/fast_track_recipe_inventory.py'
+      - 'tool/tests/test_fast_track_inventory_lexical.py'
       - '.github/workflows/semantic-qa.yml'
   push:
     branches: [main]
@@ -16,6 +17,7 @@ on:
       - 'tool/semantic_qa_adapter.py'
       - 'tool/tests/test_semantic_qa_adapter.py'
       - 'tool/fast_track_recipe_inventory.py'
+      - 'tool/tests/test_fast_track_inventory_lexical.py'
       - '.github/workflows/semantic-qa.yml'
   workflow_dispatch:
 
@@ -33,7 +35,9 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: Test adapter and its exact canonical source scope
-        run: python3 -m unittest discover -s tool/tests -p 'test_semantic_qa_adapter.py' -v
+        run: |
+          python3 -m unittest discover -s tool/tests -p 'test_semantic_qa_adapter.py' -v
+          python3 -m unittest discover -s tool/tests -p 'test_fast_track_inventory_lexical.py' -v
       - name: Pin and retrieve central App Factory engine
         env:
           CORE_SHA: 827a271dcbd8f1608afabb60ca07184b20926991
