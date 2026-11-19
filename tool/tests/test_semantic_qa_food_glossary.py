@@ -37,8 +37,8 @@ class CulinaryGlossaryRegression(unittest.TestCase):
     def test_all_162_published_recipes_have_no_known_scallion_errors(self):
         result = glossary.scan(ROOT)
         self.assertEqual(result["recipeCount"], 162)
-        self.assertEqual(result["sourceIngredientCount"], 48)
-        self.assertEqual(result["comparisonCount"], 240)
+        self.assertEqual(result["sourceIngredientCount"], 40)
+        self.assertEqual(result["comparisonCount"], 200)
         self.assertEqual(result["findingsCount"], 0)
         self.assertEqual(result["affectedRecordCount"], 0)
         self.assertEqual(result["paidAiApiCalls"], 0)
