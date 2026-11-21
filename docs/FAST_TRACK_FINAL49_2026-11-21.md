@@ -24,8 +24,9 @@ evidence of translation accuracy for every untouched sentence.
   runtime packages.
 - **46 / 49** canonical authoring records edited; the three **51, 56, 153**
   already had focused prior corrections and have **no new edit**.
-- **463** localized instruction updates: **IT 5, EN 18, ES 116,
-  FR 20, DE 184, PT 120**, plus **one English ingredient name**.
+- **471** localized instruction updates: **IT 5, EN 19, ES 118,
+  FR 21, DE 185, PT 123**, plus **three ingredient names**
+  (one EN, two PT).
 - Exactly one `contentVersion` bump for each of the 46 edited recipes;
   canonical recipe IDs, quantities, units, ingredient/step identities,
   timers, servings, difficulty, artwork and anime references remain unchanged.
@@ -46,7 +47,8 @@ Representative material fixes:
 - recipe 136: German method correctly applies the miso glaze to
   **tofu**, not aubergines;
 - recipe 142: English, Spanish, French, German and Portuguese
-  describe mixing until **no dry lumps remain**;
+  describe mixing until **no dry lumps remain**; its Portuguese dusting
+  ingredient name is also corrected;
 - recipe 101: erroneous German auto-translation of **onigiri**
   corrected, including a seriously inappropriate word;
 - recipes 52, 59, 65, 68, 69, 74, 77, 87, 93, 95, 96, 113,

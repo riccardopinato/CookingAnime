@@ -11,7 +11,7 @@ import unittest
 
 ROOT = Path(__file__).resolve().parents[2]
 LOCALES = ("it", "en", "es", "fr", "de", "pt")
-EXPECTED_COUNTS = {"it": 5, "en": 18, "es": 116, "fr": 20, "de": 184, "pt": 120}
+EXPECTED_COUNTS = {"it": 5, "en": 19, "es": 118, "fr": 21, "de": 185, "pt": 123}
 
 
 def load(path: str) -> dict:
@@ -56,8 +56,8 @@ class Final49FastTrackTests(unittest.TestCase):
         changed = {int(rid.split("_")[-1]) for rid in self.fixes}
         self.assertEqual(len(changed), 46)
         self.assertEqual(set(ids) - changed, {51, 56, 153})
-        self.assertEqual(len(self.ingredient_fixes), 1)
-        self.assertEqual(set(self.ingredient_fixes), {"recipe_000088"})
+        self.assertEqual(len(self.ingredient_fixes), 3)
+        self.assertEqual(set(self.ingredient_fixes), {"recipe_000065", "recipe_000088", "recipe_000142"})
 
     def test_every_exact_source_locked_fix_is_in_runtime(self):
         locale_counts = dict.fromkeys(LOCALES, 0)
@@ -73,7 +73,7 @@ class Final49FastTrackTests(unittest.TestCase):
                         self.assertEqual(self.packs[locale][rid]["stepTexts"][step_id], corrected)
                         locale_counts[locale] += 1
         self.assertEqual(locale_counts, EXPECTED_COUNTS)
-        self.assertEqual(sum(locale_counts.values()), 463)
+        self.assertEqual(sum(locale_counts.values()), 471)
         for rid, changes in self.ingredient_fixes.items():
             source = load(f"authoring/recipes/{rid}.json")
             for locale, names in changes.items():

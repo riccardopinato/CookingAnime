@@ -3388,7 +3388,7 @@
           "note": null
         },
         "farina": {
-          "name": "farinha (para poeira ligeiramente)",
+          "name": "farinha (para polvilhar ligeiramente)",
           "note": null
         },
         "zenzero_fresco_grattugiato_finemente": {
@@ -4110,7 +4110,7 @@
         "step_5": "Preencha as tigelas (Donburi) com arroz branco quente.",
         "step_6": "Regue o arroz com uma colher de sopa de molho unagi tare quente.",
         "step_7": "Cortar os filetes de enguia ao meio e deitar suavemente sobre o arroz.",
-        "step_8": "Escove com outro véu de molho e poeira com uma pitada de pimenta aromática Sansho."
+        "step_8": "Pincele com mais uma camada fina de molho e polvilhe com uma pitada de pimenta sanshō."
       }
     },
     "recipe_000078": {
@@ -7145,12 +7145,12 @@
           "note": null
         },
         "amido_di_mais_o_fecola_per_spolverare": {
-          "name": "amido de milho ou amido de poeira",
+          "name": "amido de milho ou fécula para polvilhar",
           "note": null
         }
       },
       "stepTexts": {
-        "step_1": "Divida o anko em seis bolas iguais e mantenha- as cobertas; poeira a superfície de trabalho com amido de milho ou amido.",
+        "step_1": "Divida o anko em seis bolas iguais e mantenha-as cobertas; polvilhe a bancada com amido de milho ou fécula.",
         "step_2": "Misture a farinha de arroz glutinoso, o açúcar, o matcha e a água numa tigela própria para micro-ondas até não restarem grumos secos.",
         "step_3": "Tape deixando uma pequena abertura para o vapor e cozinhe a 600 W durante cerca de 90 segundos.",
         "step_4": "Misture com uma espátula molhada e cozinhe cerca de 60 segundos, até que a massa seja brilhante, elástica e cozida uniformemente.",
@@ -7675,7 +7675,7 @@
         "step_1": "Pré-aqueça o forno a 200 °C e unte ligeiramente com manteiga duas formas individuais próprias para forno.",
         "step_2": "Distribua arroz quente no fundo sem comprimi- lo e cubra- o com curry japonês espesso.",
         "step_3": "Crie um oco no meio de cada prato de cozimento e quebre suavemente um ovo dentro.",
-        "step_4": "Distribua o queijo ao redor do ovo e complete com um pingo fino de panko.",
+        "step_4": "Distribua o queijo à volta do ovo e finalize com uma camada fina de panko.",
         "step_5": "Leve ao forno durante cerca de 10–12 minutos, até o queijo derreter e alourar e a clara ficar firme.",
         "step_6": "Verifique a gema de acordo com o resultado desejado: para mantê- la suave evita a extensão desnecessária do cozimento.",
         "step_7": "Complete com salsa e sirva imediatamente no prato de cozimento, prestando atenção à temperatura do recipiente."
