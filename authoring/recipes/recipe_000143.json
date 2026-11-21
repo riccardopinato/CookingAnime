@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000143",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Cardcaptor Sakura",
   "animeReferences": [
@@ -179,14 +179,14 @@
         }
       },
       "steps": {
-        "step_1": "Vestir los moldes enburridos con la pasta burla, cortar los bordes y agujerear el fondo con un tenedor.",
+        "step_1": "Forra los moldes engrasados con masa quebrada, recorta los bordes y pincha el fondo con un tenedor.",
         "step_2": "Enfría las cáscaras formadas durante 15-20 minutos antes de la cocción, por lo que mantienen mejor la forma.",
-        "step_3": "Cocine en blanco a 180°C durante unos 15-20 minutos, hasta que estén uniformemente dorados.",
-        "step_4": "Deja que se enfríe completamente en una cuadrícula.",
+        "step_3": "Hornea las bases vacías a 180 °C durante 15–20 minutos, hasta que se doren uniformemente.",
+        "step_4": "Desmolda y deja enfriar por completo sobre una rejilla.",
         "step_5": "Llena cada caparazón frío con crema pastelera bien fría, nivelándola sin cruzar el borde.",
         "step_6": "Corta la fruta justo antes de su uso, seca la fruta y ponla de forma compacta en la crema.",
-        "step_7": "Espinilla con un velo de gelatina neutra para lustrar y proteger la fruta.",
-        "step_8": "Guarda fresco y sirve en el día para mantener la crujiente."
+        "step_7": "Pincela la fruta con una capa fina de gelatina neutra para darle brillo y protegerla.",
+        "step_8": "Conserva en frío y sirve el mismo día para que la base siga crujiente."
       }
     },
     "fr": {
@@ -245,14 +245,14 @@
         }
       },
       "steps": {
-        "step_1": "Zieht die mit der Nudel berauschten Formen an, steckt die Ränder ein und bohrt den Boden mit einer Gabel.",
+        "step_1": "Die gebutterten Tarteletteförmchen mit Mürbeteig auskleiden, die Ränder abschneiden und den Boden mit einer Gabel einstechen.",
         "step_2": "Kühlen Sie die geformten Schalen für 15-20 Minuten vor dem Kochen, so halten Sie die Form besser.",
-        "step_3": "Backen Sie bei 180°C für ca. 15-20 Minuten weiß, bis sie gleichmäßig goldgelb sind.",
-        "step_4": "Gestalten Sie und lassen Sie es komplett auf einem Gitter abkühlen.",
+        "step_3": "Die leeren Tartelettböden bei 180 °C etwa 15–20 Minuten blindbacken, bis sie gleichmäßig goldbraun sind.",
+        "step_4": "Aus den Förmchen lösen und auf einem Kuchengitter vollständig abkühlen lassen.",
         "step_5": "Füllen Sie jede kalte Schale mit kühler Konditoreicreme, ohne den Rand zu überschreiten.",
         "step_6": "Schneide die Früchte kurz vor dem Gebrauch ab, trockne sie und fülle sie kompakt auf die Creme.",
-        "step_7": "Spenella mit einem neutralen Gelee-Schleif zum Polieren und zum Schutz der Früchte.",
-        "step_8": "Kühl lagern und servieren Sie am Tag, um die knusprige Flocke zu halten."
+        "step_7": "Die Früchte mit einer dünnen Schicht neutralem Tortenguss bestreichen, damit sie glänzen und geschützt bleiben.",
+        "step_8": "Kühl aufbewahren und am selben Tag servieren, damit der Mürbeteig knusprig bleibt."
       }
     },
     "pt": {
@@ -278,14 +278,14 @@
         }
       },
       "steps": {
-        "step_1": "Veste os moldes manteigados com a pasta curta, corte as bordas e fure o fundo com um garfo.",
+        "step_1": "Forre as formas untadas com massa quebrada, apare as bordas e pique a base com um garfo.",
         "step_2": "Esfria as conchas formadas por 15-20 minutos antes de cozinhar, para que mantenham a forma melhor.",
-        "step_3": "Cozinhe em branco a 180°C por cerca de 15-20 minutos até que sejam uniformemente dourados.",
-        "step_4": "Formar e deixar esfriar completamente em uma grade.",
+        "step_3": "Coza as bases vazias no forno a 180 °C durante cerca de 15–20 minutos, até ficarem uniformemente douradas.",
+        "step_4": "Desenforme e deixe arrefecer completamente sobre uma grelha.",
         "step_5": "Preencha cada concha fria com creme de pastelaria fria, nivelando- o sem atravessar a borda.",
         "step_6": "Corte o fruto pouco antes de usar, seque- o e estoque- o de forma compacta no creme.",
-        "step_7": "Escove com um véu de gelatina neutra para polir e proteger o fruto.",
-        "step_8": "Mantenha- se frio e sirva no dia para manter o fresco curto."
+        "step_7": "Pincele a fruta com uma camada fina de gelatina neutra para lhe dar brilho e proteção.",
+        "step_8": "Guarde no frigorífico e sirva no próprio dia para manter a massa crocante."
       }
     }
   }

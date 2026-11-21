@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000093",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -260,9 +260,9 @@
       "steps": {
         "step_1": "Prepara dos cuencos con arroz caliente y mantén las chuletas tonkatsu ya cocidas y cortadas en tiras anchas cerca de 2 cm.",
         "step_2": "En una sartén pequeña para donburi, lleva a hervor suave el dashi con la salsa de soja, el mirin y el azúcar. Añade la cebolla y cocínala 3-4 minutos, hasta que esté translúcida.",
-        "step_3": "Coloca sobre la cebolla una chuleta cortada sin sumergirla completamente, por lo que la pasta absorbe sabor pero no se deshace.",
-        "step_4": "Sólo golpea un huevo dejando visible la clara y la yema y verter alrededor de dos tercios y encima de la chuleta.",
-        "step_5": "Distribuir la mitad del queso, tapas y horneas 60-90 segundos; añadir el huevo restante y apagar cuando todavía esté suave y brillante.",
+        "step_3": "Coloca la chuleta cortada en tiras sobre la cebolla sin sumergirla del todo, para que el empanado absorba el sabor sin deshacerse.",
+        "step_4": "Bate ligeramente un huevo, dejando todavía visibles la clara y la yema, y vierte unos dos tercios alrededor de la chuleta.",
+        "step_5": "Reparte la mitad del queso, tapa y cocina 60–90 segundos; añade el resto del huevo y apaga cuando esté cuajado al punto deseado.",
         "step_6": "Desliza con cuidado el contenido de la sartén pequeña sobre el arroz caliente sin romper la chuleta.",
         "step_7": "Completa con queso residual o cebollina y sirve inmediatamente, antes de que el huevo pierda cremosidad."
       }
@@ -362,13 +362,13 @@
         }
       },
       "steps": {
-        "step_1": "Bereite zwei Schüssel mit einem warmen Reis vor und halte die bereits gekochten Tonkatsu-Schelatchen in Streifen von etwa 2 cm Breite.",
-        "step_2": "In einer Pfanne aus Donburi führt dashi, Soja-Sauce, Mirin und Zucker; fügen Sie die Zwiebel und kochen Sie 3-4 Minuten, bis es durchsichtig wird.",
-        "step_3": "Über der Zwiebel schmeckt eine Schüssel, ohne sie vollständig zu untertauchen, so dass die Panade schmeckt, aber nicht zerfällt.",
-        "step_4": "Klopfen Sie gerade ein Ei, indem Sie sichtbares Album und Eigelb lassen und gießen Sie etwa zwei Drittel um und über die Schüssel.",
-        "step_5": "Geben Sie die Hälfte des Käses, decken Sie und kochen Sie 60-90 Sekunden; fügen Sie das restliche Ei hinzu und schalten Sie aus, wenn es noch weich und glänzend ist.",
-        "step_6": "Lassen Sie den Inhalt der Pfanne sorgfältig auf den heißen Reis rutschen, ohne die Schüssel zu brechen.",
-        "step_7": "Komplett mit dem restlichen Käse oder Schnittlauch und servieren Sie sofort, bevor das Ei cremig verliert."
+        "step_1": "Zwei Schalen mit heißem Reis vorbereiten. Die bereits gegarten Tonkatsu-Schnitzel in etwa 2 cm breite Streifen schneiden.",
+        "step_2": "Dashi, Sojasauce, Mirin und Zucker in einer kleinen Donburi-Pfanne aufkochen. Die Zwiebel zugeben und 3–4 Minuten glasig garen.",
+        "step_3": "Das in Streifen geschnittene Schnitzel auf die Zwiebeln legen, ohne die Panade vollständig in die Brühe einzutauchen.",
+        "step_4": "Ein Ei nur kurz verquirlen, sodass Eiweiß und Eigelb noch erkennbar sind; etwa zwei Drittel davon über und um das Schnitzel gießen.",
+        "step_5": "Die Hälfte des Käses darübergeben, abdecken und 60–90 Sekunden garen; das restliche Ei hinzufügen und bei gewünschtem Gargrad die Hitze ausschalten.",
+        "step_6": "Den Pfanneninhalt vorsichtig auf den heißen Reis gleiten lassen, ohne das Schnitzel zu zerbrechen.",
+        "step_7": "Mit dem restlichen Käse oder Schnittlauch bestreuen und sofort servieren."
       }
     },
     "pt": {
@@ -415,11 +415,11 @@
       },
       "steps": {
         "step_1": "Prepare duas tigelas com o arroz quente e mantenha as cuteladas de tonkatsu já cozidas e cortadas em tiras de cerca de 2 cm de largura.",
-        "step_2": "Num molho donburi ele assobia dashi, molho de soja, mirin e açúcar; adicione a cebola e cozinhe 3-4 minutos até que se torne translúcido.",
-        "step_3": "Adague sobre a cebola uma corteta cortada sem submergê- la completamente, para que a panificação absorva o sabor, mas não se dissolva.",
+        "step_2": "Numa frigideira pequena, leve o dashi, o molho de soja, o mirin e o açúcar a ferver suavemente; junte a cebola e cozinhe durante 3–4 minutos, até ficar translúcida.",
+        "step_3": "Coloque a costeleta tonkatsu cortada sobre a cebola sem a mergulhar totalmente no caldo, para que a panagem mantenha alguma textura.",
         "step_4": "Apenas bata um ovo deixando clara de ovo visível e gema e despeje cerca de dois terços ao redor e sobre a cutleta.",
         "step_5": "Distribua metade do queijo, cobre e cozinhe 60- 90 segundos; adicione o ovo restante e desligue quando ainda estiver macio e brilhante.",
-        "step_6": "Deslize cuidadosamente o conteúdo da panela para o arroz quente sem quebrar a gole.",
+        "step_6": "Deslize cuidadosamente o conteúdo da frigideira sobre o arroz quente, sem partir a costeleta.",
         "step_7": "Complete com queijo residual ou cebola e sirva imediatamente, antes que o ovo perca cremosidade."
       }
     }

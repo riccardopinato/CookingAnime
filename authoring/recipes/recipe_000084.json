@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000084",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -204,7 +204,7 @@
         "step_4": "Add the sauce to a large baking dish.",
         "step_5": "Cut the chicken into big treats.",
         "step_6": "Slightly infarinate it, then pass it into the beaten egg.",
-        "step_7": "Fry in seed oil at 170°C for 5-6 minutes until golden.",
+        "step_7": "Fry in oil at 170°C until golden, approximately 5–6 minutes; use a food thermometer to confirm that the chicken reaches at least 74°C (165°F) at the centre before saucing.",
         "step_8": "Take the freshly fried hot chicken and immerse it immediately in the sweet sauce Namban-zu for 1 minute, turning it on both sides to absorb the acid-sweet seasoning.",
         "step_9": "Place the chicken in the dishes and cover the surface with a generous spoonful of creamy tartar sauce."
       }
@@ -274,7 +274,7 @@
         "step_4": "Aggiungi la salsa in una pirofila capiente.",
         "step_5": "Taglia il pollo a bocconcini grandi.",
         "step_6": "Infarinalo leggermente, poi passalo nell'uovo sbattuto.",
-        "step_7": "Friggi in olio di semi a 170°C per 5-6 minuti fino a doratura.",
+        "step_7": "Friggi in olio di semi a 170 °C fino a doratura, indicativamente 5–6 minuti; verifica con un termometro che il pollo raggiunga almeno 74 °C al cuore prima di condirlo.",
         "step_8": "Preleva il pollo bollente appena fritto e immersalo immediatamente nella salsa dolce Namban-zu per 1 minuto, girandolo su entrambi i lati per far assorbire il condimento acido-dolce.",
         "step_9": "Sistema il pollo nei piatti e copri la superficie con un generoso cucchiaio di salsa tartara cremosa."
       }
@@ -342,9 +342,9 @@
         "step_2": "Amalgama y mantenlo fresco.",
         "step_3": "En una olla, calienta la salsa de soja, el vinagre de arroz y el azúcar hasta que el azúcar se derrite.",
         "step_4": "Añade la salsa a una gran pirófila.",
-        "step_5": "Corta el pollo a bocadillos grandes.",
-        "step_6": "Hágalo ligeramente, luego pásalo en el huevo batido.",
-        "step_7": "Freír en aceite de semillas a 170°C durante 5-6 minutos hasta el dorado.",
+        "step_5": "Corta el pollo en trozos grandes, de tamaño uniforme.",
+        "step_6": "Enharina ligeramente los trozos y pásalos después por el huevo batido.",
+        "step_7": "Fríe en aceite a 170 °C hasta que esté dorado, unos 5–6 minutos; comprueba con un termómetro que el centro del pollo alcance al menos 74 °C.",
         "step_8": "Toma el pollo hirviendo recién frito y sumérgelo inmediatamente en la salsa dulce Namban-zu durante 1 minuto, girando por ambos lados para absorber el condimento ácido-dulce.",
         "step_9": "Pone el pollo en los platos y cubre la superficie con una generosa cucharada de salsa tártara cremosa."
       }
@@ -414,7 +414,7 @@
         "step_4": "Ajoutez la sauce dans un grand pirofil.",
         "step_5": "Coupez le poulet en petits morceaux.",
         "step_6": "Mets-le dans l'oeuf claqué.",
-        "step_7": "Fritez dans de l'huile de graines à 170°C pendant 5-6 minutes jusqu'à ce qu'elle soit dorée.",
+        "step_7": "Faites frire dans une huile à 170 °C jusqu'à ce que le poulet soit doré, environ 5 à 6 minutes ; vérifiez au thermomètre une température à cœur d'au moins 74 °C.",
         "step_8": "Prélevez le poulet bouillant fraîchement frit et plongez-le immédiatement dans la sauce douce Namban-zu pendant 1 minute, en le tournant de chaque côté pour absorber l'assaisonnement acide-doux.",
         "step_9": "Placez le poulet dans les assiettes et couvrez la surface avec une généreuse cuillère à soupe de sauce tartare crémeuse."
       }
@@ -479,12 +479,12 @@
       },
       "steps": {
         "step_1": "In einer Schüssel zerquetschen Sie das gekochte Ei mit der Gabel; fügen Sie die Mayonnaise Kewpie, die gehackte Zwiebel, Zitronensaft, Salz und Pfeffer.",
-        "step_2": "Amalgam und halten Sie sich frisch.",
+        "step_2": "Alles verrühren und bis zur Verwendung im Kühlschrank aufbewahren.",
         "step_3": "In einem Topf erwärmt er die Sojasauce, den Reisessig und den Zucker, bis der Zucker auflöst.",
-        "step_4": "Fügen Sie die Soße in eine große Pyrophilie.",
-        "step_5": "Schneide das Huhn mit großen Bissen ab.",
-        "step_6": "Mach es leicht, dann gib es ins verprügelte Ei.",
-        "step_7": "Frittieren Sie in Samenöl bei 170 °C für 5-6 Minuten bis zur Vergoldung.",
+        "step_4": "Die Namban-Sauce in eine große hitzebeständige Form gießen.",
+        "step_5": "Das Hähnchen in gleichmäßig große Stücke schneiden.",
+        "step_6": "Die Hähnchenstücke leicht mit Mehl bestäuben und anschließend durch das verquirlte Ei ziehen.",
+        "step_7": "In 170 °C heißem Öl etwa 5–6 Minuten goldbraun frittieren; mit einem Lebensmittelthermometer prüfen, dass das Hähnchen mindestens 74 °C Kerntemperatur erreicht.",
         "step_8": "Nehmen Sie das gerade gebratene kochende Huhn und tauchen Sie es sofort in die süße Namban-zu-Soße für 1 Minute ein, indem Sie es auf beiden Seiten drehen, um den sauer-süßen Würz zu absorbieren.",
         "step_9": "Legen Sie das Huhn in die Teller und decken Sie die Oberfläche mit einem großzügigen Esslöffel cremigen Tartara-Sauce."
       }
@@ -549,12 +549,12 @@
       },
       "steps": {
         "step_1": "Numa tigela, esmague o ovo cozido com o garfo; adicione a maionese Kewpie, cebola picada, suco de limão, sal e pimenta.",
-        "step_2": "Amalgam e mantenha a calma.",
+        "step_2": "Misture bem e mantenha o molho no frigorífico até utilizar.",
         "step_3": "Numa panela, aqueça o molho de soja, vinagre de arroz e açúcar até que o açúcar derreta.",
         "step_4": "Adicione o molho a um grande prato de cozimento.",
-        "step_5": "Corte o frango em delícias grandes.",
-        "step_6": "Ligeiramente infarte- o, em seguida, passe- o para o ovo batido.",
-        "step_7": "Fritar no óleo de sementes a 170°C durante 5-6 minutos até dourar.",
+        "step_5": "Corte o frango em pedaços grandes e uniformes.",
+        "step_6": "Passe o frango por uma camada fina de farinha e depois pelo ovo batido.",
+        "step_7": "Frite em óleo a 170 °C até alourar, cerca de 5–6 minutos; confirme com um termómetro que o centro do frango atinge pelo menos 74 °C.",
         "step_8": "Pegue o frango quente recém frito e mergulhe- o imediatamente no molho doce Namban- zu por 1 minuto, girando- o em ambos os lados para absorver o tempero ácido- doce.",
         "step_9": "Coloque o frango nos pratos e cubra a superfície com uma colher generosa de molho cremoso de tártaro."
       }

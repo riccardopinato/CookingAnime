@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000052",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Black Butler (Kuroshitsuji)",
   "animeReferences": [
@@ -192,9 +192,9 @@
         "step_3": "Work the dough until it is smooth and elastic.",
         "step_4": "Cover with a cloth and let rise for 1 hour until doubling.",
         "step_5": "Divide the leavened dough into 6 equal balls.",
-        "step_6": "Spread each ball form a disc with a slightly thicker centre and thin edges.",
+        "step_6": "Roll each ball into a round, leaving the centre slightly thicker than the edges.",
         "step_7": "Put a generous spoonful of cold dense curry in the middle of each disc.",
-        "step_8": "Close the edges carefully by sealing them well and giving the classic oval shape to ellipses.",
+        "step_8": "Bring the edges together, pinch them firmly to seal and shape each bun into an oval.",
         "step_9": "Pass every sandwich first into the beaten egg and then into the panko making it stick evenly.",
         "step_10": "Let the sandwiches rest for 15 minutes.",
         "step_11": "Heat the seed oil at 170°C.",
@@ -254,7 +254,7 @@
         "step_3": "Lavora l'impasto finché risulta liscio ed elastico.",
         "step_4": "Copri con un panno e lascia lievitare per 1 ora fino al raddoppio.",
         "step_5": "Dividi l'impasto lievitato in 6 palline uguali.",
-        "step_6": "Stendi ogni pallina forma un disco dal centro leggermente più spesso e dai bordi sottili.",
+        "step_6": "Stendi ogni pallina formando un disco con il centro leggermente più spesso e i bordi sottili.",
         "step_7": "Metti un generoso cucchiaio di curry denso freddo al centro di ciascun disco.",
         "step_8": "Chiudi accuratamente i bordi sigillandoli bene e dando la classica forma ovale ad ellisse.",
         "step_9": "Passa ogni panino prima nell'uovo sbattuto e poi nel panko facendolo aderire uniformemente.",
@@ -312,18 +312,18 @@
       },
       "steps": {
         "step_1": "En un cuenco grande, une la harina, el azúcar y la levadura, luego añade la leche tibia.",
-        "step_2": "Amas durante 5 minutos, luego te unes a la sal y a la mantequilla ablandada.",
+        "step_2": "Amasa durante 5 minutos; después incorpora la sal y la mantequilla ablandada.",
         "step_3": "Trabaja la masa hasta que esté lisa y elástica.",
-        "step_4": "Cúbrete con un paño y deja que se levante durante 1 hora hasta que se duplique.",
+        "step_4": "Cubre con un paño y deja levar durante 1 hora, hasta que la masa duplique su volumen.",
         "step_5": "Divide la masa leudada en 6 bolas iguales.",
-        "step_6": "Extiende cada bola forma un disco desde el centro ligeramente más grueso y desde los bordes delgados.",
+        "step_6": "Estira cada bola formando un disco algo más grueso en el centro y más fino en los bordes.",
         "step_7": "Pon una generosa cucharada de curry denso frío en el centro de cada disco.",
-        "step_8": "Cierra cuidadosamente los bordes sellándolos bien y dando la forma clásica oval a la elipse.",
+        "step_8": "Une los bordes, séllalos con firmeza y da a cada panecillo una forma ovalada.",
         "step_9": "Pasa cada panecillo primero por huevo batido y después por panko, procurando que quede bien adherido.",
         "step_10": "Deja reposar los sándwiches durante 15 minutos.",
         "step_11": "Calienta el aceite de semillas a 170°C.",
-        "step_12": "Freír los Kare Pan 2-3 minutos por lado hasta que se vuelvan dorados y súper crujientes.",
-        "step_13": "Escolares sobre papel absorbente y servilletas calientes."
+        "step_12": "Fríe los kare pan 2–3 minutos por lado, hasta que estén dorados y muy crujientes.",
+        "step_13": "Escúrrelos sobre papel absorbente y sírvelos calientes."
       }
     },
     "fr": {
@@ -381,11 +381,11 @@
         "step_6": "Étends chaque balle forme un disque du centre légèrement plus épais et aux bords fins.",
         "step_7": "Mettez une cuiller généreuse de curry dense froid au centre de chaque disque.",
         "step_8": "Fermez soigneusement les bords en les scellant bien et en donnant la forme ovale classique à ellipse.",
-        "step_9": "Il passe chaque sandwich d'abord dans l'oeuf claqué puis dans le panko en le faisant adhérer uniformément.",
+        "step_9": "Passez chaque petit pain dans l'œuf battu, puis dans le panko en le faisant adhérer uniformément.",
         "step_10": "Laisse les sandwichs se reposer pendant 15 minutes.",
         "step_11": "Chauffez l'huile de graines à 170°C.",
-        "step_12": "Frottez les Kare Pan 2-3 minutes par côté jusqu'à ce qu'ils deviennent dorés et super croustillants.",
-        "step_13": "Écolez sur papier absorbant et serviles chaudes."
+        "step_12": "Faites frire les kare pan 2 à 3 minutes de chaque côté, jusqu'à ce qu'ils soient dorés et croustillants.",
+        "step_13": "Égouttez-les sur du papier absorbant et servez-les chauds."
       }
     },
     "de": {
@@ -436,18 +436,18 @@
       },
       "steps": {
         "step_1": "In einer großen Schüssel, fügen Sie Mehl, Zucker und Hefe, dann fügen Sie die lauwarme Milch.",
-        "step_2": "Füttern Sie 5 Minuten lang, dann mischen Sie Salz und weichgemachte Butter.",
+        "step_2": "Den Teig 5 Minuten kneten, dann Salz und weiche Butter einarbeiten.",
         "step_3": "Der Teig wird bearbeitet, bis er glatt und elastisch ist.",
         "step_4": "Bedecken Sie mit einem Tuch und lassen Sie 1 Stunde bis zur Verdopplung aufgehen.",
         "step_5": "Teilen Sie den Teig in 6 gleiche Kugeln.",
-        "step_6": "Legen Sie jeden Ball eine Scheibe aus der Mitte etwas dicker und von den dünnen Rändern.",
+        "step_6": "Jede Teigkugel zu einem Kreis ausrollen, dessen Mitte etwas dicker als der Rand bleibt.",
         "step_7": "Legen Sie einen großzügigen Esslöffel kalten Curry in die Mitte jeder Scheibe.",
-        "step_8": "Schließen Sie die Kanten sorgfältig, indem Sie sie gut versiegeln und geben die klassische ovale Form zu Ellipse.",
-        "step_9": "Er fährt jedes Sandwich zuerst ins Ei und dann in den Panko, indem er es gleichmäßig festhält.",
+        "step_8": "Die Teigränder fest zusammendrücken und jedes gefüllte Brötchen oval formen.",
+        "step_9": "Jedes Brötchen zuerst im verquirlten Ei, dann im Panko wenden und rundum gleichmäßig panieren.",
         "step_10": "Lass die Sandwiches 15 Minuten ruhen.",
         "step_11": "Erhitzt das Samenöl auf 170 °C.",
         "step_12": "Fritier die Kare Pans 2-3 Minuten pro Seite, bis sie goldig und super knusprig werden.",
-        "step_13": "Schablonen auf absorbierendes Papier und warme Servietten."
+        "step_13": "Auf Küchenpapier abtropfen lassen und warm servieren."
       }
     },
     "pt": {
@@ -498,18 +498,18 @@
       },
       "steps": {
         "step_1": "Em uma tigela grande, adicione farinha, açúcar e levedura, em seguida, adicione leite morno.",
-        "step_2": "Amarrar por 5 minutos, em seguida, adicionar sal e manteiga amolecida.",
+        "step_2": "Amasse durante 5 minutos e depois incorpore o sal e a manteiga amolecida.",
         "step_3": "Trabalhe a massa até que seja suave e elástica.",
         "step_4": "Cubra com um pano e deixe subir por 1 hora até duplicar.",
         "step_5": "Divida a massa fermentada em 6 bolas iguais.",
         "step_6": "Espalhe cada bola formando um disco com um centro ligeiramente mais grosso e bordas finas.",
         "step_7": "Coloque uma colher generosa de curry denso e frio no meio de cada disco.",
-        "step_8": "Feche cuidadosamente as bordas selando- as bem e dando a forma oval clássica para elipses.",
+        "step_8": "Una as bordas da massa, sele-as bem e dê a cada pão uma forma oval.",
         "step_9": "Passe cada sanduíche primeiro para o ovo batido e, em seguida, para o panko fazendo- o ficar uniforme.",
         "step_10": "Deixe os sanduíches descansar por 15 minutos.",
         "step_11": "Aqueça o óleo de sementes a 170°C.",
         "step_12": "Fritar a Pan de Kare 2-3 minutos por lado até que eles se tornem dourados e super crocantes.",
-        "step_13": "Esgota em papel absorvente e serviços quentes."
+        "step_13": "Escorra sobre papel absorvente e sirva quente."
       }
     }
   }

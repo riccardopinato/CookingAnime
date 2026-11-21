@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000146",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -329,8 +329,8 @@
         "step_5": "Utiliza atún expresamente apto para consumo crudo y mantenlo refrigerado según las indicaciones del proveedor. Con un cuchillo y una tabla limpios, córtalo en lonchas de 7–8 mm, inclinando la hoja 45 grados.",
         "step_6": "En un tazón, mezcla la salsa de soja con el mirin.",
         "step_7": "Aliña el atún con la mezcla de soja y mirin durante 1–2 minutos y mantenlo refrigerado hasta servir. Marinarlo no hace seguro un pescado inadecuado para consumo crudo.",
-        "step_8": "Pon el sushi en los cuencos de Donburi.",
-        "step_9": "Esparce la superficie con el alga Nori a rastras.",
+        "step_8": "Reparte el arroz de sushi templado entre los cuencos donburi.",
+        "step_9": "Espolvorea la superficie del arroz con tiras de alga nori.",
         "step_10": "Coloca las lonchas de atún en forma radial hasta cubrir el arroz.",
         "step_11": "Decora el centro con un pequeño copete de wasabi, cebolleta picada y semillas de sésamo tostadas.",
         "step_12": "Sirve de inmediato acompañado con salsa de soja extra."
@@ -454,8 +454,8 @@
       "steps": {
         "step_1": "Den Sushi-Reis gründlich unter fließendem kaltem Wasser abspülen, bis das Wasser klar ist.",
         "step_2": "Kochen Sie den Reis mit niedrigem Feuer für 12 Minuten mit Deckel.",
-        "step_3": "In einen Topf geben, Zucker und Salz in Reisessig schmelzen und leicht erhitzen.",
-        "step_4": "Kombinieren Sie die Essigmischung mit heißem Reis, indem Sie sie vorsichtig mit einem Holzspachtel ausschütten und eintauchen lassen.",
+        "step_3": "Zucker und Salz in einem kleinen Topf unter leichtem Erwärmen im Reisessig auflösen.",
+        "step_4": "Die Essigmischung unter den warmen Reis heben und mit einem Holzspatel vorsichtig auflockern; etwas abkühlen lassen.",
         "step_5": "Nur ausdrücklich für den Rohverzehr geeigneten, sachgerecht gekühlten Thunfisch verwenden. Mit sauberem Messer und Schneidebrett in 7–8 mm dicke Scheiben schneiden; die Klinge dabei um 45 Grad neigen.",
         "step_6": "In einer Schüssel mischt man Sojasoße mit Mirin.",
         "step_7": "Den Thunfisch 1–2 Minuten in der Soja-Mirin-Mischung marinieren und bis zum Servieren gekühlt halten. Durch Marinieren wird ungeeigneter roher Fisch nicht sicher.",
@@ -525,7 +525,7 @@
         "step_6": "Numa tigela, misture o molho de soja com o mirin.",
         "step_7": "Tempere o atum com a mistura de soja e mirin durante 1–2 minutos e mantenha-o refrigerado até servir. A marinada não torna seguro um peixe inadequado ao consumo cru.",
         "step_8": "Coloque o arroz de sushi quente nas tigelas do Donburi.",
-        "step_9": "Escovar a superfície com a alga Nori em tiras.",
+        "step_9": "Polvilhe o arroz com tiras de alga nori.",
         "step_10": "Disponha as fatias de atum em leque, cobrindo o arroz.",
         "step_11": "Decore com uma pequena porção de wasabi, cebolinho picado e sementes de sésamo torradas.",
         "step_12": "Servir imediatamente com molho extra de soja."

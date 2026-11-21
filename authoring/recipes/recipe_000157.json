@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000157",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -254,13 +254,13 @@
       },
       "steps": {
         "step_1": "Corta las berenjenas a la mitad en el sentido de la longitud.",
-        "step_2": "Incide la pulpa a la parrilla sin perforar la piel.",
+        "step_2": "Haz cortes superficiales en forma de cuadrícula en la pulpa sin perforar la piel.",
         "step_3": "Calienta el aceite en una sartén grande.",
         "step_4": "Cocine las berenjenas del lado de la pulpa a fuego medio durante 5 minutos hasta que dore.",
         "step_5": "Gira las berenjenas, cubre y continúa la cocción durante 4 minutos más, hasta que la pulpa sea suave.",
         "step_6": "En una olla, mezcla miso, mirin, sake y azúcar a fuego lento durante 2 minutos hasta obtener un glaseado suave y denso.",
-        "step_7": "Despelleja generosamente la pulpa de las berenjenas con el glaseado al miso.",
-        "step_8": "Transferir las berenjenas bajo la parrilla del horno a 220°C durante 3-4 minutos, hasta que el glaseado forme burbujas y caramelos ligeramente.",
+        "step_7": "Pincela generosamente la pulpa de las berenjenas con el glaseado de miso.",
+        "step_8": "Pon las berenjenas bajo el grill del horno a 220 °C durante 3–4 minutos, hasta que el glaseado burbujee y se caramelice ligeramente.",
         "step_9": "Completa con semillas de sésamo tostadas y sirve a las berenjenas calientes."
       }
     },
@@ -354,13 +354,13 @@
       },
       "steps": {
         "step_1": "Schneide die Auberginen in der Mitte in der Richtung der Länge ab.",
-        "step_2": "Berühren Sie das gegrillte Fruchtfleisch, ohne die Schale zu durchbohren.",
+        "step_2": "Das Fruchtfleisch kreuzweise einschneiden, ohne die Schale zu durchtrennen.",
         "step_3": "Erhitzt das Öl in einer großen Pfanne.",
-        "step_4": "Backen Sie die Auberginen 5 Minuten lang auf der Seite des durchschnittlichen feurigen Fruchtfleisches, bis Sie golden sind.",
+        "step_4": "Die Auberginen mit der Schnittfläche nach unten bei mittlerer Hitze etwa 5 Minuten braten, bis sie goldbraun sind.",
         "step_5": "Drehen Sie die Auberginen um, bedecken Sie das Kochen für weitere 4 Minuten, bis das Fruchtfleisch weich ist.",
-        "step_6": "In einem Topf, Mischung Miso, Mirin, Sake und Zucker mit niedrigem Feuer für 2 Minuten, bis Sie eine glatte und dichte Glasur.",
+        "step_6": "Miso, Mirin, Sake und Zucker in einem kleinen Topf etwa 2 Minuten bei niedriger Hitze zu einer glatten, dickflüssigen Glasur verrühren.",
         "step_7": "Das Fruchtfleisch der Auberginen großzügig mit der Misoglasur bestreichen.",
-        "step_8": "Übertragen Sie die Auberginen für 3 bis 4 Minuten unter den Ofengrill bei 220 °C, bis die Glasur leicht Blasen und Süßigkeiten bildet.",
+        "step_8": "Die Auberginen bei 220 °C für 3–4 Minuten unter den Backofengrill schieben, bis die Misoglasur Blasen wirft und leicht karamellisiert.",
         "step_9": "Komplett mit gerösteten Sesamsamen und serviere heiße Auberginen."
       }
     },
@@ -404,13 +404,13 @@
       },
       "steps": {
         "step_1": "Corte as berinjelas ao meio na direção do comprimento.",
-        "step_2": "Corte a polpa grelhada sem piercing na pele.",
+        "step_2": "Faça incisões superficiais em grelha na polpa, sem perfurar a casca.",
         "step_3": "Aqueça o óleo em uma panela grande.",
-        "step_4": "Cozinhe as berinjelas do lado da carne a fogo médio durante 5 minutos até dourar.",
+        "step_4": "Aloure as beringelas do lado da polpa durante 5 minutos em lume médio.",
         "step_5": "Vire a berinjela, cubra e continue cozindo por mais 4 minutos, até que a polpa esteja macia.",
         "step_6": "Numa panela, misturar miso, mirin, sake e açúcar a fogo lento durante 2 minutos até obter um esmalte suave e denso.",
         "step_7": "Escove generosamente a carne da berinjela com miso glaseado.",
-        "step_8": "Transferir as berinjelas sob a grelha do forno a 220°C por 3-4 minutos, até que o esmalte forme bolhas e doces ligeiramente.",
+        "step_8": "Leve as beringelas ao grill do forno a 220 °C durante 3–4 minutos, até a cobertura de miso formar bolhas e caramelizar ligeiramente.",
         "step_9": "Completar com sementes de sésamo torradas e servir berinjelas quentes."
       }
     }

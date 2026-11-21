@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000086",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -309,7 +309,7 @@
         "step_2": "Colocar la harina y la levadura y unirlos a las yemas mediante la mezcla hasta obtener una masa lisa.",
         "step_3": "En un tazón muy limpio, monta las claras con unas varillass eléctricos, añadiendo el azúcar en tres tomas hasta obtener un merengue brillante y estable, con picos firmes pero sin secarse.",
         "step_4": "Inserta 1/3 del merengue en la masa de yemas con la espátula para suavizarla.",
-        "step_5": "Añade el resto del merengue mezclando suavemente de abajo a arriba para no desmontar el compuesto.",
+        "step_5": "Incorpora el resto del merengue con movimientos envolventes de abajo arriba para no perder el aire de la mezcla.",
         "step_6": "Unge una sartén antiadherente con poca mantequilla a fuego muy bajo.",
         "step_7": "Crea colinas altas de pasta.",
         "step_8": "Une 1 cucharadita de agua al fondo de la sartén y cubre inmediatamente con una tapa alta.",
@@ -430,8 +430,8 @@
         "step_1": "In einer Schüssel arbeitet die Eigelb mit Milch und Vanille.",
         "step_2": "Seidenmehl und Hefe und mischen sie mit Eigelb, bis sie einen glatten Teig erhalten.",
         "step_3": "In einer sehr sauberen Schüssel, montieren Sie die Alben mit den elektrischen Peitschen, fügen Sie den Zucker in drei Drehungen, bis Sie eine glänzende und stabile Meringa, mit festen, aber nicht trockenen Spitzen.",
-        "step_4": "Legen Sie 1/3 des Merings in den Teig, um es mit dem Spachtel zu erweichen.",
-        "step_5": "Dann fügen Sie den Rest des Merings hinzu, indem Sie sanft von unten nach oben mischen, um die Verbindung nicht zu zerlegen.",
+        "step_4": "Ein Drittel des Eischnees mit einem Teigschaber unter die Eigelbmasse heben, um sie aufzulockern.",
+        "step_5": "Den restlichen Eischnee vorsichtig von unten nach oben unterheben, damit die Masse luftig bleibt.",
         "step_6": "Schnüren Sie eine Pfanne mit wenig Butter mit sehr geringem Feuer.",
         "step_7": "Erstellen Sie Hügel hoch aus Pastell.",
         "step_8": "Kombinieren Sie 1 Teelöffel Wasser am Boden der Pfanne und decken Sie sich sofort mit einem hohen Deckel ab.",

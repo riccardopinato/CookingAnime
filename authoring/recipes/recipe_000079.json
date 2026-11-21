@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000079",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Isekai Shokudo (Restaurant to Another World)",
   "animeReferences": [
@@ -140,7 +140,7 @@
   "locales": {
     "en": {
       "title": "Kani Cream Korokke — creamy crab croquettes",
-      "description": "The Kani Cream Korokke contains a creamy filling of crab, onion and béchamel in a crispy panic. The mixture is cooled before forming the croquettes; after frying they serve hot with tonkatsu sauce. The creamy heart of crab contrasts with golden breading: after frying the croquettes drain and serve with tonkatsu.",
+      "description": "Kani Cream Korokke are crisp, breaded croquettes filled with a rich mixture of crab, onion and thick béchamel. Chill the filling until firm enough to shape, coat the oval croquettes and fry until golden. Drain and serve hot with tonkatsu sauce; the crunchy crust contrasts with the creamy centre.",
       "animeContext": "This recipe is thematically inspired by Isekai Shokudo (Restaurant to Another World), Spy x Family. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "polpa_di_granchio": {
@@ -193,11 +193,11 @@
         }
       },
       "steps": {
-        "step_1": "In a pan melt the butter and fry the onion over low heat without turning it golden.",
+        "step_1": "Melt the butter in a pan and gently sauté the chopped onion over low heat without browning it.",
         "step_2": "Add flour and cook for 2 minutes by mixing (roux).",
         "step_3": "Add the hot milk gradually, whisking until you have a very thick, smooth béchamel sauce.",
         "step_4": "Combine the crab pulp, salt, pepper and nutmeg.",
-        "step_5": "Add the mixture on a flat pan, cover with film and put in the fridge for at least 1 hour until it becomes solid and moldable.",
+        "step_5": "Spread the mixture in a shallow tray, cover with food-safe cling film touching its surface and refrigerate for at least 1 hour until firm enough to shape.",
         "step_6": "With slightly oiled hands, divide the cold mixture into 8 oval portions.",
         "step_7": "Pass each croquette into the flour, then into the beaten egg and finally into the Panko making it stick well.",
         "step_8": "Fry in plenty of hot oil at 180°C for 3 minutes until golden and crispy.",
@@ -274,7 +274,7 @@
     },
     "es": {
       "title": "Kani cream korokke — croquetas cremosas de cangrejo",
-      "description": "Las Kani Cream Korokke encierran un relleno cremoso de cangrejo, cebolla y bechamel en una masa crujiente. El compuesto se enfría antes de formar croquetas; después de freír se sirven calientes con salsa tonkatsu. El corazón cremoso de cangrejo contrasta con la pasta dorada: después de freír las croquetas se deslizan y se sirven con tonkatsu.",
+      "description": "Las Kani Cream Korokke son croquetas de cobertura crujiente y relleno cremoso de cangrejo, cebolla y bechamel espesa. Enfría el relleno hasta que pueda moldearse, empana las croquetas ovaladas y fríelas hasta que estén doradas. Escurre y sirve calientes con salsa tonkatsu; el exterior crujiente contrasta con el interior suave.",
       "animeContext": "Esta receta está inspirada temáticamente en Isekai Shokudo (Restaurant to Another World), Spy x Family. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "polpa_di_granchio": {
@@ -327,11 +327,11 @@
         }
       },
       "steps": {
-        "step_1": "En una sartén, suelta la mantequilla y sufro la cebolla a fuego lento sin que la dore.",
+        "step_1": "Derrite la mantequilla en una sartén y sofríe la cebolla picada a fuego suave sin dejar que se dore.",
         "step_2": "Mezcla la harina y deja que se cocine durante 2 minutos mediante la mezcla (roux).",
         "step_3": "Añade la leche caliente poco a poco, removiendo con unas varillas hasta obtener una bechamel espesa y lisa.",
         "step_4": "Une la pulpa de cangrejo, ajusta de sal, pimienta y nuez moscada.",
-        "step_5": "Añadir el compuesto sobre una bandeja plana, tapar en contacto con película y colocarlo en la nevera durante al menos 1 hora hasta que se vuelva sólido y modelable.",
+        "step_5": "Extiende la mezcla en una bandeja poco profunda, cúbrela con film alimentario en contacto con la superficie y refrigérala al menos 1 hora, hasta que esté firme y se pueda moldear.",
         "step_6": "Con las manos ligeramente aceitadas, divide el compuesto frío en 8 porciones ovaladas.",
         "step_7": "Pasa cada croqueta en la harina, luego en el huevo batido y finalmente en el Panko haciendo que se adhiera bien.",
         "step_8": "Freír en abundante aceite caliente a 180°C durante 3 minutos hasta que dore y crujiente.",
@@ -341,7 +341,7 @@
     },
     "fr": {
       "title": "Kani cream korokke — croquettes fondantes au crabe",
-      "description": "Les Kani Cream Korokke contiennent une farce crémeuse de crabe, d'oignon et de béchamel dans une panure croustillante. Le composé est refroidi avant de former les croquettes; après la friture, ils servent chauds avec de la sauce tonkatsu. Le cœur crémeux du crabe contraste avec la panure dorée: après la friture, les croquettes s'avalent et se servent de tonkatsu.",
+      "description": "Les Kani Cream Korokke sont des croquettes panées et croustillantes, garnies d'un mélange crémeux de crabe, d'oignon et de béchamel épaisse. Refroidissez la farce pour pouvoir la façonner, panez les croquettes ovales et faites-les frire jusqu'à ce qu'elles soient dorées. Égouttez et servez chaudes avec une sauce tonkatsu.",
       "animeContext": "Cette recette s'inspire librement de Isekai Shokudo (Restaurant to Another World), Spy x Family. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "polpa_di_granchio": {
@@ -394,11 +394,11 @@
         }
       },
       "steps": {
-        "step_1": "Dans une casserole, faites fondre le beurre et mangez l'oignon à feu doux sans le faire dorer.",
+        "step_1": "Faites fondre le beurre dans une poêle et faites doucement revenir l'oignon haché à feu doux sans le faire dorer.",
         "step_2": "Combinez la farine et laissez cuire pendant 2 minutes en mélangeant (roux).",
         "step_3": "Ajoutez le lait chaud au fil en mélangeant avec le fouet jusqu'à ce qu'on crée une crème besciamel très dense et lisse.",
         "step_4": "Combinez la pulpe de crabe, règle de sel, poivre et noix de muscade.",
-        "step_5": "Ajoutez le composé sur une plaque plate, couvrez en contact avec le film et mettez au réfrigérateur pendant au moins 1 heure jusqu'à ce qu'il soit solide et modelé.",
+        "step_5": "Étalez la préparation dans un plat peu profond, couvrez de film alimentaire au contact et réfrigérez au moins 1 heure, jusqu'à ce qu'elle soit assez ferme pour être façonnée.",
         "step_6": "Avec les mains légèrement huilées, divisez le composé froid en 8 portions ovales.",
         "step_7": "Il passe chaque croquette dans la farine, puis dans l'œuf claqué, puis dans le Panko, le faisant bien adhérer.",
         "step_8": "Fritez en huile chaude à 180°C pendant 3 minutes jusqu'à ce que vous soyez dorés et croquants.",
@@ -408,7 +408,7 @@
     },
     "de": {
       "title": "Kani Cream Korokke – cremige Krabbenkroketten",
-      "description": "Die Kani Cream Korokke enthalten eine cremige Füllung von Krabben, Zwiebeln und Byschamel in einem knusprigem Panura. Die Mischung wird vor der Bildung der Crocchetts gekühlt; nach dem Braten werden sie warm mit Tonkatsu-Sauce serviert. Das cremige Herz von Krabben kontrastiert mit der goldenen Panade: Nach dem Braten werden die Crocchettes abgerissen und mit Tonkatsu serviert.",
+      "description": "Kani Cream Korokke sind knusprig panierte Kroketten mit einer cremigen Füllung aus Krabbenfleisch, Zwiebeln und dicker Béchamelsauce. Die Masse wird gut gekühlt, zu ovalen Kroketten geformt, paniert und goldbraun frittiert. Abtropfen lassen und heiß mit Tonkatsu-Sauce servieren; die Kruste kontrastiert mit der weichen Füllung.",
       "animeContext": "Dieses Rezept ist thematisch von Isekai Shokudo (Restaurant to Another World), Spy x Family inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "polpa_di_granchio": {
@@ -461,11 +461,11 @@
         }
       },
       "steps": {
-        "step_1": "In einer Pfanne schmelze die Butter und lass die Zwiebel niederbrennen, ohne sie golden zu lassen.",
+        "step_1": "Die Butter in einer Pfanne schmelzen und die gehackte Zwiebel bei niedriger Hitze glasig dünsten, ohne sie zu bräunen.",
         "step_2": "Mischen Sie das Mehl und lassen Sie es für 2 Minuten mischen (Roux).",
         "step_3": "Die warme Milch unter ständigem Rühren mit dem Schneebesen langsam zugießen, bis eine sehr dicke, glatte Béchamelcreme entstanden ist.",
         "step_4": "Kombinieren Sie das Krabbenfleisch mit Salz, Pfeffer und Muskatnuss.",
-        "step_5": "Fügen Sie die Verbindung auf eine flache Platte, bedecken Sie den Kontakt mit Filmen und legen Sie sie für mindestens 1 Stunde in den Kühlschrank, bis sie fest und modellierbar wird.",
+        "step_5": "Die Masse flach auf einem Blech verteilen, mit lebensmittelechter Frischhaltefolie direkt auf der Oberfläche abdecken und mindestens 1 Stunde im Kühlschrank fest werden lassen, bis sie formbar ist.",
         "step_6": "Mit leicht geölten Händen, teilen Sie die kalte Verbindung in 8 ovale Portionen.",
         "step_7": "Er fährt jede Nudel in Mehl, dann ins zerstoßene Ei und schließlich in den Panko, indem er sie festhält.",
         "step_8": "Frittieren Sie in reichlich heißem Öl bei 180°C für 3 Minuten, bis Sie goldig und knusprig sind.",
@@ -475,7 +475,7 @@
     },
     "pt": {
       "title": "Kani cream korokke — croquetes cremosos de caranguejo",
-      "description": "O Kani Cream Korokke contém um recheio cremoso de caranguejo, cebola e béchamel num pânico crocante. A mistura é resfriada antes de formar as croquetas; depois de fritar servem quente com molho tonkatsu. O coração cremoso do caranguejo contrasta com o pão dourado: depois de fritar as croquetas drenar e servir com tonkatsu.",
+      "description": "As Kani Cream Korokke são croquetes panados e estaladiços, recheados com uma mistura cremosa de caranguejo, cebola e béchamel espesso. Arrefece o recheio até poder ser moldado, passa os croquetes ovais pelo panado e frita até dourar. Escorre e serve quente com molho tonkatsu; a crosta crocante contrasta com o interior cremoso.",
       "animeContext": "Esta receita inspira-se tematicamente em Isekai Shokudo (Restaurant to Another World), Spy x Family. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "polpa_di_granchio": {
@@ -528,11 +528,11 @@
         }
       },
       "steps": {
-        "step_1": "Numa panela derreta a manteiga e frita a cebola a fogo lento sem torná- la dourada.",
+        "step_1": "Derrete a manteiga numa frigideira e refoga suavemente a cebola picada em lume brando sem a deixar dourar.",
         "step_2": "Adicione farinha e cozinhe por 2 minutos misturando (roux).",
         "step_3": "Junte o leite quente aos poucos, mexendo com umas varas até obter um béchamel espesso e liso.",
         "step_4": "Combine a polpa de caranguejo, sal, pimenta e noz- moscada.",
-        "step_5": "Adicione a mistura em uma panela plana, cubra com película e coloque no frigorífico durante pelo menos 1 hora até que se torne sólida e moldável.",
+        "step_5": "Espalha a mistura num tabuleiro raso, cobre com película alimentar em contacto com a superfície e leva ao frigorífico durante pelo menos 1 hora, até ficar firme e moldável.",
         "step_6": "Com mãos ligeiramente oleadas, divida a mistura fria em 8 porções ovais.",
         "step_7": "Passe cada croqueta para a farinha, em seguida, para o ovo batido e finalmente para o Panko fazendo- o colar bem.",
         "step_8": "Fritar em muito óleo quente a 180°C durante 3 minutos até dourado e crocante.",

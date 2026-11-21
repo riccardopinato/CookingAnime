@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000115",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Gintama",
   "animeReferences": [
@@ -208,9 +208,9 @@
       },
       "steps": {
         "step_1": "Disuelve el kanten en agua fría, lleva a hervir y cocinar durante unos 2 minutos mezclando hasta que esté completamente dispersado.",
-        "step_2": "Derrame el líquido en un recipiente bajo, deje encogerlo y muévalo a la nevera hasta que esté completamente gelificado.",
-        "step_3": "Corta la gelatina kanten en cubos regulares y prepara la fruta goteando bien.",
-        "step_4": "Si usas shiratama, cocínalos hasta que suban, continúa durante 1-2 minutos y enfríalos en agua fría.",
+        "step_2": "Vierte el líquido en un recipiente poco profundo, deja que se temple y refrigera hasta que la gelatina cuaje por completo.",
+        "step_3": "Corta la gelatina kanten en dados regulares y escurre bien la fruta.",
+        "step_4": "Si utilizas shiratama, cuécelos hasta que floten, continúa 1–2 minutos y enfríalos en agua fría.",
         "step_5": "Distribuyan los cubos de kanten en las copas y añadan fruta y shiratama manteniendo visibles los diferentes elementos.",
         "step_6": "Añadir una porción de anko al centro.",
         "step_7": "Vierta el kuromitsu sólo en el momento del servicio, así gelatina y frutas no permanecen inmersas demasiado tiempo."
@@ -287,10 +287,10 @@
         }
       },
       "steps": {
-        "step_1": "Lösen Sie den Kanten im kalten Wasser, führen Sie zum Blenden und kochen für ca. 2 Minuten, bis es vollständig verstreut ist.",
-        "step_2": "Gießen Sie die Flüssigkeit in einen niedrigen Behälter, lassen Sie sie in sich stecken und übertragen Sie sie in den Kühlschrank, bis sie vollständig veredelt ist.",
-        "step_3": "Schneide Kantengelatine in regelmäßigen Würfeln ab und backe die Früchte gut ab.",
-        "step_4": "Wenn Sie Shiratama verwenden, kochen Sie sie, bis sie ans Wasser steigen, und kühlen Sie sie 1-2 Minuten lang in kaltem Wasser ab.",
+        "step_1": "Kanten in kaltem Wasser verteilen, zum Kochen bringen und unter Rühren etwa 2 Minuten erhitzen, bis er vollständig gelöst ist.",
+        "step_2": "Die Flüssigkeit in eine flache Form gießen, etwas abkühlen lassen und zum vollständigen Gelieren in den Kühlschrank stellen.",
+        "step_3": "Das feste Kanten-Gelee in gleichmäßige Würfel schneiden und die Früchte gründlich abtropfen lassen.",
+        "step_4": "Shiratama, falls verwendet, in Wasser kochen, bis sie aufsteigen; weitere 1–2 Minuten garen und dann kalt abschrecken.",
         "step_5": "Geben Sie die Kantenwürfel in die Becher und fügen Sie Obst und Shiratama hinzu, wobei die verschiedenen Elemente sichtbar sind.",
         "step_6": "Füge der Mitte eine Portion Anko hinzu.",
         "step_7": "Geben Sie die Kuromitsu nur zum Zeitpunkt der Bedienung, so dass Gelee und Früchte nicht zu lange untergetaucht bleiben."
@@ -329,7 +329,7 @@
       "steps": {
         "step_1": "Derrete o kanten em água fria, leve a ebulição e cozinhe por cerca de 2 minutos mexendo até que esteja completamente disperso.",
         "step_2": "Verter o líquido em um recipiente baixo, deixar esfriar e transferir para o frigorífico até gelagem completa.",
-        "step_3": "Corte a gelatina kanten em cubos regulares e prepare a fruta pingando- a bem.",
+        "step_3": "Corte o kanten solidificado em cubos e escorra bem a fruta.",
         "step_4": "Se você usar shiratama, cozinhe até que ele flutue, continue por 1-2 minutos e esfrie- os em água fria.",
         "step_5": "Distribua cubos de kanten em copos e adicione frutas e shiratama mantendo os diferentes elementos visíveis.",
         "step_6": "Adicione uma porção de anko ao centro.",

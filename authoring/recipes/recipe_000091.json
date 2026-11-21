@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000091",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -258,11 +258,11 @@
         }
       },
       "steps": {
-        "step_1": "Enjuague el arroz en varias aguas hasta que el agua se vuelva casi transparente, luego cúbralo durante 15 minutos: el descanso evita que el fondo se ponga pegajoso durante la cocción.",
+        "step_1": "Lava el arroz varias veces hasta que el agua salga casi transparente y escúrrelo durante 15 minutos.",
         "step_2": "Corta en láminas los shiitake rehidratados, la zanahoria y el aburaage; corta el pollo en dados uniformes de aproximadamente 1,5 cm.",
         "step_3": "Vierta el arroz en la olla o en la hornilla y añade dashi, salsa de soja, mirin y sake, respetando el nivel de líquido previsto para el arroz.",
         "step_4": "Distribuir sobre pollo, shiitake, zanahoria y aburaage sin mezclar: los ingredientes cocinarán al vapor mientras el arroz absorbe el condimento.",
-        "step_5": "Lleva a un hervor suave, cubre, baja al mínimo y cocina durante unos 15 minutos sin levantar la tapa; en cocinar utiliza el ciclo normal.",
+        "step_5": "Lleva a un hervor suave, tapa, reduce el fuego al mínimo y cuece unos 15 minutos sin levantar la tapa; en una arrocera utiliza el programa normal.",
         "step_6": "Apaga y deja reposar durante 10 minutos, por lo que la humedad se redistribuye y los granos terminan la cocción.",
         "step_7": "Desgrana de abajo hacia arriba con una espátula, incorporando suavemente los condimentos sin aplastar el arroz, y sirviendo caliente."
       }
@@ -362,13 +362,13 @@
         }
       },
       "steps": {
-        "step_1": "Spülen Sie den Reis in mehr Wasser, bis das Wasser fast klar wird, und spülen Sie ihn dann 15 Minuten lang ab: Die Ruhe vermeidet, dass der Boden während des Kochens klebrig wird.",
-        "step_2": "Schnürt die rehydrierten Shiitakes, die Karotte und die Aburaage; schneidet das Huhn mit gleichmäßigen Würfeln von ca. 1,5 cm ab.",
-        "step_3": "Gießen Sie den Reis in den Topf oder Koch und fügen Sie dashi, Sojasauce, Mirin und Sake hinzu, wobei Sie den für den Reis vorgesehenen Flüssigkeitsgehalt einhalten.",
+        "step_1": "Den Reis mehrfach waschen, bis das Wasser fast klar ist, und anschließend 15 Minuten im Sieb abtropfen lassen.",
+        "step_2": "Die eingeweichten Shiitake, die Karotte und den Aburaage in Scheiben schneiden; das Hähnchen in gleichmäßige Würfel von etwa 1,5 cm schneiden.",
+        "step_3": "Reis in einen Topf oder Reiskocher geben, Dashi, Sojasauce, Mirin und Sake hinzufügen und die für die Reismenge vorgesehene Flüssigkeitsmenge beachten.",
         "step_4": "Verteilen Sie Huhn, Shiitake, Karotte und Aburaage, ohne zu mischen: die Zutaten werden mit Dampf kochen, während der Reis die Würze absorbiert.",
         "step_5": "Kurz aufkochen lassen, abdecken, die Hitze auf die niedrigste Stufe reduzieren und etwa 15 Minuten garen, ohne den Deckel anzuheben. Im Reiskocher das normale Programm verwenden.",
-        "step_6": "Schalte aus und lass dich 10 Minuten lang überdeckt ausruhen, so dass die Feuchtigkeit neu verteilt wird und die Körner das Kochen beenden.",
-        "step_7": "Granat von unten nach oben mit einem Spachtel, sanft die Würze, ohne den Reis zu zerquetschen, und servieren warm."
+        "step_6": "Den Herd ausschalten und den Reis 10 Minuten zugedeckt ruhen lassen, damit sich die Feuchtigkeit verteilt und die Körner fertig garen.",
+        "step_7": "Den Reis mit einem Reisspatel vorsichtig von unten nach oben auflockern, die Zutaten untermischen und warm servieren."
       }
     },
     "pt": {
@@ -416,11 +416,11 @@
       "steps": {
         "step_1": "Enxaguar o arroz em várias águas até que a água fique quase clara, em seguida, drenar por 15 minutos: o descanso impede que o fundo fique pegajoso durante o cozimento.",
         "step_2": "Corte os shiitakes rehidratados, a cenoura e l' aburaage; corte o frango em dados uniformes de cerca de 1,5 cm.",
-        "step_3": "Despeje o arroz na panela ou fogão e adicione dashi, molho de soja, mirin e sake, respeitando o nível de líquido fornecido para o arroz.",
-        "step_4": "Distribuir frango, shiitake, cenoura e aburagem no topo sem misturar: os ingredientes vão vaporizar enquanto o arroz absorve o tempero.",
+        "step_3": "Coloque o arroz numa panela ou panela de arroz elétrica, junte dashi, molho de soja, mirin e sake e respeite a proporção de líquido indicada para o arroz.",
+        "step_4": "Distribua o frango, os shiitake, a cenoura e o aburaage sobre o arroz sem mexer; irão cozinhar a vapor enquanto o arroz absorve o tempero.",
         "step_5": "Traz a uma leve ebulição, coberturas, baixa ao mínimo e cozinhe por cerca de 15 minutos sem levantar a tampa; ao cozinhar use o ciclo normal.",
         "step_6": "Desligue e deixe ficar coberta por 10 minutos, para que a umidade seja redistribuída e os grãos terminem de cozinhar.",
-        "step_7": "Estende- se do fundo para cima com uma espátula, incorporando suavemente os condimentos sem esmagar o arroz, e os servidores quentes."
+        "step_7": "Solte o arroz suavemente com uma espátula, misturando os ingredientes sem esmagar os grãos, e sirva quente."
       }
     }
   }

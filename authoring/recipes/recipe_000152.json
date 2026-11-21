@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000152",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -224,11 +224,11 @@
         }
       },
       "steps": {
-        "step_1": "Precalentar el horno a 200°C y emborrachar ligeramente dos pirófilas monoporción resistentes al calor.",
+        "step_1": "Precalienta el horno a 200 °C y unta ligeramente con mantequilla dos fuentes individuales aptas para horno.",
         "step_2": "Distribuya el arroz caliente en el fondo sin comprimirlo y cúbralo con el curry japonés denso.",
         "step_3": "Crea un hueco en el centro de cada pirófila y rompe suavemente un huevo en el interior.",
         "step_4": "Distribuye el queso alrededor del huevo y completa con un delgado polvo de panko.",
-        "step_5": "Informa durante unos 10-12 minutos, hasta que el queso esté fundido y dorado y la albúmina se reproduzca.",
+        "step_5": "Hornea durante unos 10–12 minutos, hasta que el queso se funda y se dore y la clara de huevo esté cuajada.",
         "step_6": "Controla la yema según el resultado deseado: para mantenerla suave evita prolongar innecesariamente la cocción.",
         "step_7": "Completa con perejil y sirve directamente en la pirofílica, prestando atención a la temperatura del recipiente."
       }
@@ -312,13 +312,13 @@
         }
       },
       "steps": {
-        "step_1": "Er heizt den Ofen auf 200°C vor und mischt leicht zwei wärmebeständige Pyrofile ein.",
+        "step_1": "Den Backofen auf 200 °C vorheizen und zwei kleine ofenfeste Formen leicht mit Butter einfetten.",
         "step_2": "Geben Sie den warmen Reis auf den Boden, ohne ihn zu komprimieren und decken Sie ihn mit dem dicken japanischen Curry.",
-        "step_3": "Erstellen Sie eine Röhre in der Mitte jeder Pyrofile und brechen Sie vorsichtig ein Ei im Inneren.",
+        "step_3": "In der Mitte jeder Form eine Vertiefung machen und vorsichtig ein Ei hineinschlagen.",
         "step_4": "Geben Sie den Käse rund um das Ei und komplett mit einem dünnen Staub von Panko.",
-        "step_5": "Inforna für ca. 10-12 Minuten, bis der Käse geschmolzen und goldig ist und das Album reflektiert wird.",
+        "step_5": "Etwa 10–12 Minuten backen, bis der Käse geschmolzen und goldbraun ist und das Eiweiß gestockt ist.",
         "step_6": "Prüfen Sie das Eigelb entsprechend dem gewünschten Ergebnis: Um es weich zu halten, vermeiden Sie unnötige Verlängerungen des Kochens.",
-        "step_7": "Komplett mit Petersilie und serviere sofort direkt in der Pyrophilie, wobei auf die Temperatur des Behälters achten."
+        "step_7": "Mit Petersilie bestreuen und sofort in der heißen ofenfesten Form servieren; Vorsicht beim Anfassen."
       }
     },
     "pt": {
@@ -356,11 +356,11 @@
         }
       },
       "steps": {
-        "step_1": "Preaqueça o forno a 200°C e queime levemente dois pirófilos de única porção resistentes ao calor.",
+        "step_1": "Pré-aqueça o forno a 200 °C e unte ligeiramente com manteiga duas formas individuais próprias para forno.",
         "step_2": "Distribua arroz quente no fundo sem comprimi- lo e cubra- o com curry japonês espesso.",
         "step_3": "Crie um oco no meio de cada prato de cozimento e quebre suavemente um ovo dentro.",
-        "step_4": "Distribua o queijo ao redor do ovo e complete com um pingo fino de panko.",
-        "step_5": "Leve ao forno durante cerca de 10 a 12 minutos, até o queijo derreter e alourar e a clara do ovo ficar firme.",
+        "step_4": "Distribua o queijo à volta do ovo e finalize com uma camada fina de panko.",
+        "step_5": "Leve ao forno durante cerca de 10–12 minutos, até o queijo derreter e alourar e a clara ficar firme.",
         "step_6": "Verifique a gema de acordo com o resultado desejado: para mantê- la suave evita a extensão desnecessária do cozimento.",
         "step_7": "Complete com salsa e sirva imediatamente no prato de cozimento, prestando atenção à temperatura do recipiente."
       }

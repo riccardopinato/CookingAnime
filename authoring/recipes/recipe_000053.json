@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000053",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -136,7 +136,7 @@
   "locales": {
     "en": {
       "title": "Ebi Tendon — shrimp and vegetable tempura over rice with tentsuyu sauce",
-      "description": "In the Ebi Tendon the hot rice supports shrimps and vegetables in freshly fried tempura. The batter is mixed quickly with frozen water, while the tansuyu sauce of dashi, soy and mirin is prepared separately and added at the time of serving. The contrast arises from the still warm rice and the cold batter; the sauce is distributed without submerging the crust of the tempura.",
+      "description": "Ebi Tendon pairs hot rice with freshly fried shrimp and vegetable tempura. Mix the batter briefly with ice-cold water, prepare the dashi, soy and mirin tentsuyu separately, then spoon on just enough warm sauce at serving time to preserve the crisp coating.",
       "animeContext": "This recipe is thematically inspired by Food Wars! (Shokugeki no Soma), Mob Psycho 100. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "gamberone_freschi_sgusciati": {
@@ -190,14 +190,14 @@
       },
       "steps": {
         "step_1": "In a saucepan, add the dashi broth, soy sauce, mirin and sugar.",
-        "step_2": "Brings to a slight boil for 2 minutes so that the sugar melts and the alcohol of the mirin evapori.",
-        "step_3": "Turn it off and keep it off.",
-        "step_4": "Practice 3-4 small diagonal cuts on the belly of each shrimp and gently spread it out to prevent it from curling up during cooking.",
+        "step_2": "Bring to a gentle simmer for 2 minutes so the sugar dissolves and some alcohol from the mirin evaporates.",
+        "step_3": "Turn off the heat and set the sauce aside.",
+        "step_4": "Make 3–4 small diagonal cuts on the underside of each shrimp and gently straighten it to reduce curling during frying.",
         "step_5": "Work the yolk slightly with ice water.",
         "step_6": "Mix the flour all at once and mix very little with the chopsticks (the batter must remain lumpy and very cold).",
         "step_7": "Heats abundant oil at 180°C.",
         "step_8": "Slightly infarina shrimps and vegetables, dip them in the cold batter and fry them for about 2-3 minutes until the tempura is golden and crispy.",
-        "step_9": "Place the hot rice in the bowls (Donburi), sprinkle it with a spoonful of Tentsuyu sauce, stick over the shrimps and vegetables in tempura and add another thread of hot sauce before serving."
+        "step_9": "Divide the hot rice between donburi bowls and drizzle with a spoonful of tentsuyu. Place the freshly fried shrimp and vegetables on top, add a little more warm sauce and serve promptly."
       }
     },
     "it": {
@@ -268,7 +268,7 @@
     },
     "es": {
       "title": "Ebi Tendon — tempura de gambas y verduras sobre arroz con salsa tentsuyu",
-      "description": "En el Ebi Tendon el arroz caliente sostiene camarones y verduras en tempura recién fritos. La masa se mezcla rápidamente con agua helada, mientras que la salsa tentsuyu de dashi, soja y mirin se prepara aparte y se añade a la hora de servir. El contraste nace del arroz todavía caliente y de la masa fría; la salsa se distribuye sin sumergir la corteza de la tempura.",
+      "description": "El Ebi Tendon combina arroz caliente con gambas y verduras en tempura recién fritas. Mezcla la masa brevemente con agua muy fría y prepara aparte la salsa tentsuyu de dashi, soja y mirin; añade solo un poco de salsa templada al servir para conservar el rebozado crujiente.",
       "animeContext": "Esta receta está inspirada temáticamente en Food Wars! (Shokugeki no Soma), Mob Psycho 100. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "gamberone_freschi_sgusciati": {
@@ -322,19 +322,19 @@
       },
       "steps": {
         "step_1": "En una olla, une el caldo dashi, la salsa de soja, el mirin y el azúcar.",
-        "step_2": "Calienta suavemente durante 2 minutos para disolver el azúcar y evaporar parte del alcohol del mirin.",
-        "step_3": "Apágalo y mantente a un lado.",
-        "step_4": "Practica 3-4 pequeños cortes diagonales en el vientre de cada camarón y cúbrelo suavemente para evitar que se enriquezca durante la cocción.",
+        "step_2": "Lleva a un hervor suave durante 2 minutos para disolver el azúcar y dejar que se evapore parte del alcohol del mirin.",
+        "step_3": "Apaga el fuego y reserva la salsa.",
+        "step_4": "Haz 3–4 pequeños cortes diagonales en la parte inferior de cada gamba y estírala suavemente para que se curve menos al freír.",
         "step_5": "Trabaja un poco la yema con agua helada.",
         "step_6": "Mezclar la harina a la vez y mezclar muy poco con los palillos (la masa debe permanecer grumosa y fría).",
         "step_7": "Caliente abundante aceite a 180 °C.",
         "step_8": "Infarina ligeramente las gambas y las verduras, sumérgelas en la masa fría y fríelas durante unos 2-3 minutos hasta que la tempura sea dorada y crujiente.",
-        "step_9": "Pon el arroz caliente en los cuencos (Donburi), rodéalo con una cucharada de salsa Tentsuyu, pon sobre las gambas y las verduras en tempura y añade otro hilo de salsa caliente antes de servir."
+        "step_9": "Reparte el arroz caliente en cuencos donburi y riega con una cucharada de tentsuyu. Coloca encima las gambas y verduras en tempura, añade un poco más de salsa caliente y sirve enseguida."
       }
     },
     "fr": {
       "title": "Ebi Tendon — tempura de crevettes et légumes sur riz, sauce tentsuyu",
-      "description": "Dans l'Ebi Tendon, le riz chaud soutient les crevettes et les légumes en tempura fraîchement frits. La pâte est rapidement mélangée avec de l'eau glacée, tandis que la sauce tenduyu de dashi, de soja et de myrin est préparée séparément et ajoutée au moment de servir. Le contraste naît du riz encore chaud et de la pâte froide; la sauce se distribue sans submerger la croûte de la tempura.",
+      "description": "L'Ebi Tendon associe du riz chaud à des crevettes et légumes tout juste frits en tempura. Mélangez rapidement la pâte avec de l'eau glacée, préparez à part la sauce tentsuyu au dashi, soja et mirin, puis versez-en une petite quantité au service pour préserver le croustillant.",
       "animeContext": "Cette recette s'inspire librement de Food Wars! (Shokugeki no Soma), Mob Psycho 100. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "gamberone_freschi_sgusciati": {
@@ -388,19 +388,19 @@
       },
       "steps": {
         "step_1": "Dans une casserole, ajoutez le bouillon dashi, la sauce soja, la mirin et le sucre.",
-        "step_2": "Porte à léger frémissement pendant 2 minutes pour dissoudre le sucre et permettre à l’alcool du mirin de s’évaporer.",
-        "step_3": "Éteins ça et garde ça de côté.",
-        "step_4": "Pratiquez 3-4 petites coupures diagonales sur le ventre de chaque crevette et étendez-la doucement pour éviter qu'elle ne se frise pendant la cuisson.",
+        "step_2": "Portez à léger frémissement pendant 2 minutes pour dissoudre le sucre et laisser une partie de l'alcool du mirin s'évaporer.",
+        "step_3": "Coupez le feu et réservez la sauce.",
+        "step_4": "Pratiquez 3 à 4 petites incisions diagonales sous chaque crevette et redressez-la délicatement pour limiter sa courbure pendant la friture.",
         "step_5": "Travaillez légèrement le jaune avec de l'eau glacée.",
         "step_6": "Combinez la farine tout à la fois et amalgamez très peu avec les baguettes (la pâte doit rester grimeuse et froide).",
         "step_7": "Chauffage abondant d'huile à 180°C.",
         "step_8": "Infarine légèrement les crevettes et les légumes, trempez-les dans la pâte froide et faites-les frire pendant environ 2-3 minutes jusqu'à ce que la tempura soit dorée et croustillante.",
-        "step_9": "Placez le riz chaud dans les bols (Donburi), arrosez-le avec une cuillère à soupe de sauce Tentsuyu, adagie au-dessus des crevettes et des légumes en tempura et ajoutez un autre fil de sauce chaude avant de servir."
+        "step_9": "Répartissez le riz chaud dans des bols donburi et arrosez d'une cuillère de tentsuyu. Posez les crevettes et légumes en tempura dessus, ajoutez un filet de sauce chaude et servez aussitôt."
       }
     },
     "de": {
       "title": "Ebi Tendon – Garnelen- und Gemüse-Tempura auf Reis mit Tentsuyu-Sauce",
-      "description": "Im Tendon wird der heiße Reis Garnelen und Gemüse in frisch gebratenem Tempura unterstützt. Der Teig wird schnell mit gefrorenem Wasser vermischt, während die Tentsuyu-Sauce aus Dashi, Soja und Mirin getrennt zubereitet und zum Zeitpunkt des Servierens hinzugefügt wird. Der Kontrast entsteht aus dem noch warmen Reis und dem kalten Teig; die Sauce verteilt sich, ohne die Kruste der Tempura zu überfluten.",
+      "description": "Ebi Tendon kombiniert heißen Reis mit frisch frittierten Garnelen und Gemüse in Tempura. Rühre den Teig nur kurz mit eiskaltem Wasser an und bereite Tentsuyu aus Dashi, Sojasauce und Mirin separat zu. Gib erst beim Servieren wenig warme Sauce dazu, damit die knusprige Hülle erhalten bleibt.",
       "animeContext": "Dieses Rezept ist thematisch von Food Wars! (Shokugeki no Soma), Mob Psycho 100 inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "gamberone_freschi_sgusciati": {
@@ -454,19 +454,19 @@
       },
       "steps": {
         "step_1": "In einem Topf, fügen Sie die Dashi-Brühe, Soja-Sauce, Mirin und Zucker.",
-        "step_2": "Die Mischung 2 Minuten leicht köcheln lassen, bis sich der Zucker gelöst hat und der Alkohol aus dem Mirin verdampfen kann.",
-        "step_3": "Mach aus und halt dich zurück.",
-        "step_4": "Üben Sie 3-4 kleine diagonale Schnitte auf dem Bauch jeder Garnelen und strecken Sie es vorsichtig aus, um zu vermeiden, dass es während des Kochens bereichert.",
+        "step_2": "Die Sauce 2 Minuten sanft köcheln lassen, damit sich der Zucker löst und ein Teil des Alkohols aus dem Mirin verdampft.",
+        "step_3": "Den Herd ausschalten und die Sauce beiseitestellen.",
+        "step_4": "An der Bauchseite jeder Garnele 3–4 kleine diagonale Schnitte setzen und sie vorsichtig geradeziehen, damit sie sich beim Frittieren weniger krümmt.",
         "step_5": "Der Eigelb wird leicht mit eiskaltem Wasser bearbeitet.",
         "step_6": "Kombinieren Sie das Mehl auf einmal und nur sehr wenig Amalgam mit den Stäben (der Teig muss klumpig und sehr kalt bleiben).",
         "step_7": "Erhitzt reichlich Öl bei 180°C.",
         "step_8": "Shrimps und Gemüse leicht verdünnen, in den kalten Teig eintauchen und für ca. 2-3 Minuten braten, bis die Tempura goldig und knusprig ist.",
-        "step_9": "Legen Sie den heißen Reis in die Schüssel (Donburi), sprühen Sie ihn mit einem Esslöffel Tentsuyu-Sauce, zaubern Sie über die Garnelen und Gemüse in Tempura und fügen Sie einen weiteren Draht heißer Soße vor dem Servieren hinzu."
+        "step_9": "Den heißen Reis auf Donburi-Schalen verteilen und mit einem Löffel Tentsuyu beträufeln. Die frisch frittierten Garnelen und das Gemüse darauflegen, etwas warme Sauce ergänzen und sofort servieren."
       }
     },
     "pt": {
       "title": "Ebi Tendon — tempura de camarão e legumes sobre arroz com molho tentsuyu",
-      "description": "No Ebi Tendon, o arroz quente suporta camarão e legumes em tempura recém frita. A massa é misturada rapidamente com água congelada, enquanto o molho tansuyu de dashi, soja e mirin é preparado separadamente e adicionado no momento do serviço. O contraste surge do arroz ainda quente e da massa fria; o molho é distribuído sem submergir a crosta da tempura.",
+      "description": "O Ebi Tendon combina arroz quente com camarões e legumes em tempura acabados de fritar. Mistura rapidamente a massa com água bem gelada, prepara à parte o molho tentsuyu de dashi, soja e mirin e junta apenas um pouco de molho quente ao servir para manter a crosta estaladiça.",
       "animeContext": "Esta receita inspira-se tematicamente em Food Wars! (Shokugeki no Soma), Mob Psycho 100. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "gamberone_freschi_sgusciati": {
@@ -520,14 +520,14 @@
       },
       "steps": {
         "step_1": "Em uma panela, adicione o caldo dashi, molho de soja, mirin e açúcar.",
-        "step_2": "Leva a uma leve ebulição por 2 minutos para que o açúcar derreta e o álcool do mirin evapori.",
-        "step_3": "Desligue- o e mantenha- o desligado.",
-        "step_4": "Praticar 3-4 pequenos cortes diagonais na barriga de cada camarão e espalhá- lo suavemente para evitar que ele se enrole durante o cozimento.",
+        "step_2": "Deixa levantar uma fervura suave durante 2 minutos para dissolver o açúcar e evaporar parte do álcool do mirin.",
+        "step_3": "Desliga o lume e reserva o molho.",
+        "step_4": "Faz 3–4 pequenos cortes diagonais na parte inferior de cada camarão e endireita-o delicadamente para evitar que enrole ao fritar.",
         "step_5": "Trabalhe ligeiramente a gema com água gelada.",
         "step_6": "Misture a farinha de uma só vez e misture muito pouco com os pauzinhos (a massa deve permanecer grumosa e muito fria).",
         "step_7": "Aquece óleo abundante a 180°C.",
         "step_8": "Levemente infarina camarão e legumes, mergulhe- os na massa fria e frite- os por cerca de 2-3 minutos até que a tempura esteja dourada e crocante.",
-        "step_9": "Colocar o arroz quente nas tigelas (Donburi), espolvorá- lo com uma colher de molho Tentsuyu, enfiar os camarões e vegetais em tempura e adicionar outro fio de molho quente antes de servir."
+        "step_9": "Distribui o arroz quente por tigelas donburi e rega com uma colher de tentsuyu. Coloca por cima os camarões e legumes em tempura, acrescenta mais um fio de molho quente e serve de imediato."
       }
     }
   }

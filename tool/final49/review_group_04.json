@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "localeOrder": [
+    "it",
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "reviewedIds": [
+    122,
+    125,
+    126,
+    128,
+    129,
+    132,
+    136,
+    140,
+    142,
+    143
+  ],
+  "fixes": {
+    "recipe_000122": {
+      "es": {
+        "step_2": "Forma bolitas y cuécelas en agua hirviendo hasta que floten; continúa la cocción 1–2 minutos y enfríalas enseguida en agua con hielo."
+      },
+      "de": {
+        "step_1": "Shiratama-Reismehl mit Wasser nach und nach zu einem weichen, formbaren Teig verkneten.",
+        "step_2": "Kleine Kugeln formen, in kochendes Wasser geben und nach dem Auftauchen weitere 1–2 Minuten garen; sofort in Eiswasser abkühlen.",
+        "step_4": "Die Shiratama abgießen und leicht trockentupfen, damit sie das Getränk nicht verdünnen.",
+        "step_6": "Erst kurz vor dem Servieren eiskaltes Sodawasser oder ein klares Zitronengetränk zugießen.",
+        "step_7": "Sofort mit einem Löffel oder breiten Trinkhalm servieren; die Shiratama nicht stundenlang im Getränk lassen."
+      },
+      "pt": {
+        "step_4": "Escorra os shiratama e seque-os levemente para não diluir a bebida.",
+        "step_6": "Adicione água com gás bem fria ou um refrigerante transparente de limão apenas ao servir.",
+        "step_7": "Sirva imediatamente com colher ou palhinha larga; mantenha a sobremesa fria sem deixar os shiratama submersos durante horas."
+      }
+    },
+    "recipe_000125": {
+      "es": {
+        "step_3": "Mientras tanto, prepara una crema de chocolate espesa, déjala enfriar por completo y pásala a una manga pastelera.",
+        "step_5": "Engrasa ligeramente los moldes cónicos y enrolla cada tira de masa en espiral, solapando un poco las vueltas sin dejar huecos."
+      },
+      "de": {
+        "step_2": "Den Teig abgedeckt 60–90 Minuten gehen lassen, bis er sein Volumen verdoppelt hat.",
+        "step_3": "Eine dicke Schokoladencreme zubereiten, vollständig abkühlen lassen und in einen Spritzbeutel füllen.",
+        "step_4": "Den Teig behutsam entgasen, portionieren und zu langen, gleichmäßigen Strängen rollen.",
+        "step_5": "Die Kegelformen leicht einfetten und je einen Teigstrang spiralförmig darumwickeln; die Windungen leicht überlappen lassen.",
+        "step_6": "Die geformten Hörnchen 20–30 Minuten ruhen lassen und anschließend mit verquirltem Ei bestreichen.",
+        "step_8": "Die Hörnchen vollständig abkühlen lassen, bevor sie mit Schokoladencreme gefüllt werden, damit die Füllung nicht schmilzt."
+      },
+      "pt": {
+        "step_3": "Entretanto, prepare um creme de chocolate espesso, deixe arrefecer completamente e transfira-o para um saco de pasteleiro.",
+        "step_5": "Unte levemente os moldes em cone e enrole cada tira de massa em espiral, sobrepondo ligeiramente as voltas para não deixar aberturas."
+      }
+    },
+    "recipe_000126": {
+      "es": {
+        "step_2": "Seca bien todos los ingredientes y espolvoréalos ligeramente con harina para que la masa se adhiera.",
+        "step_4": "Pasa cada brocheta por la masa y luego por el panko, presionando suavemente para lograr una cobertura uniforme.",
+        "step_7": "Sirve las brochetas calientes con salsa kushikatsu o tonkatsu aparte, sin dejarlas sumergidas en ella."
+      },
+      "de": {
+        "step_1": "Schweinefleisch, Garnelen, Zwiebeln und Lotuswurzel in ähnlich kleine Stücke schneiden und getrennt auf Spieße stecken, damit sie gleichmäßig garen.",
+        "step_2": "Alle Zutaten gründlich trockentupfen und leicht mit Mehl bestäuben, damit der Teig gut haftet.",
+        "step_4": "Jeden Spieß zuerst in den flüssigen Teig und danach in Panko wenden; die Panade leicht andrücken.",
+        "step_6": "Die Spieße auf einem Gitter abtropfen und 1 Minute ruhen lassen; Fleisch und Garnelen müssen innen vollständig gegart sein."
+      },
+      "pt": {
+        "step_1": "Corte a carne de porco, os camarões, a cebola e a raiz de lótus em pedaços pequenos de tamanho semelhante e coloque-os separadamente em espetos.",
+        "step_4": "Passe cada espeto pela massa e depois pelo panko, pressionando ligeiramente para formar uma camada uniforme.",
+        "step_5": "Aqueça o óleo a 170–175 °C e frite poucos espetos de cada vez, ajustando a duração ao ingrediente.",
+        "step_7": "Sirva os espetos quentes com molho kushikatsu ou tonkatsu à parte, sem os deixar mergulhados no molho."
+      }
+    },
+    "recipe_000128": {
+      "es": {
+        "step_1": "En una olla grande, rehoga las cebollas con un poco de aceite hasta que estén doradas y caramelizadas.",
+        "step_2": "Añade la carne cortada en dados y dórala por todos los lados.",
+        "step_5": "Tapa y deja cocer a fuego medio-bajo durante 20 minutos."
+      },
+      "de": {
+        "step_2": "Die gewürfelte Fleischportion zugeben und von allen Seiten anbraten.",
+        "step_5": "Abdecken und bei mittlerer bis niedriger Hitze etwa 20 Minuten sanft köcheln lassen.",
+        "step_6": "Den Herd ausschalten, die Curry-Roux-Stücke zugeben und rühren, bis sie sich vollständig gelöst haben."
+      },
+      "pt": {
+        "step_1": "Numa panela grande, refogue as cebolas num fio de óleo até ficarem bem douradas e caramelizadas.",
+        "step_2": "Junte a carne cortada em cubos e aloure-a de todos os lados.",
+        "step_5": "Tape e deixe cozinhar em lume médio-baixo durante 20 minutos."
+      }
+    },
+    "recipe_000129": {
+      "es": {
+        "step_1": "En una sartén antiadherente sin grasa, asa los trozos de puerro hasta que se doren y se tuesten ligeramente; reserva.",
+        "step_2": "En un cazo, lleva a ebullición el dashi con la salsa de soja, el mirin y el azúcar."
+      },
+      "de": {
+        "step_1": "Die Lauchstücke ohne zusätzliches Fett in einer beschichteten Pfanne rösten, bis sie außen leicht gebräunt sind; beiseitestellen.",
+        "step_2": "Dashi mit Sojasauce, Mirin und Zucker in einem Topf aufkochen.",
+        "step_3": "Die dünnen Schweinefleischscheiben zugeben und etwa 3–4 Minuten garen, bis sie zart sind."
+      },
+      "pt": {
+        "step_1": "Numa frigideira antiaderente sem gordura, aloure os pedaços de alho-francês até ficarem ligeiramente tostados; reserve.",
+        "step_6": "Verta o caldo quente com as fatias de porco sobre os noodles e termine com alho-francês tostado e uma pitada de shichimi togarashi."
+      }
+    },
+    "recipe_000132": {
+      "es": {
+        "step_3": "Cubre la chuleta con salsa de curry espesa sin empapar demasiado el empanado."
+      },
+      "de": {
+        "step_1": "Die frisch frittierten oder gut aufgewärmten Tonkatsu-Schnitzel knusprig bereithalten und den Kohl sehr fein schneiden.",
+        "step_3": "Das Schnitzel mit einer dickflüssigen Curry-Sauce würzen, ohne die Panade zu stark durchzuweichen."
+      },
+      "pt": {
+        "step_1": "Prepare as costeletas tonkatsu acabadas de fritar ou bem reaquecidas, ainda crocantes, e corte a couve muito fina.",
+        "step_3": "Cubra a costeleta com um molho de caril espesso, evitando encharcar a panagem."
+      }
+    },
+    "recipe_000136": {
+      "es": {
+        "step_1": "Prensa el tofu para eliminar el exceso de agua, sécalo y córtalo en rectángulos bastante gruesos para ensartarlos sin romperlos.",
+        "step_4": "Asa el tofu en una plancha bien caliente durante 2–3 minutos por lado, hasta que se dore ligeramente."
+      },
+      "de": {
+        "step_1": "Den Tofu pressen, um überschüssiges Wasser zu entfernen, trockentupfen und in dicke, spießgeeignete Rechtecke schneiden.",
+        "step_2": "Die Spieße vorsichtig durch den Tofu stecken und die Oberfläche erneut trockentupfen.",
+        "step_6": "Eine zweite Schicht Misoglasur auf den Tofu auftragen und die Spieße 1–2 Minuten unter den Backofengrill stellen; ständig beobachten, da die süße Glasur leicht anbrennt.",
+        "step_7": "Mit geröstetem Sesam bestreuen und warm servieren."
+      },
+      "pt": {
+        "step_1": "Pressione o tofu para remover o excesso de água, seque-o e corte-o em retângulos suficientemente grossos para espetar sem quebrar.",
+        "step_4": "Grelhe o tofu 2–3 minutos de cada lado numa chapa bem quente, até alourar ligeiramente.",
+        "step_6": "Pincele o tofu com uma segunda camada de molho de miso e leve ao grill do forno durante 1–2 minutos, vigiando sempre, pois o açúcar queima facilmente."
+      }
+    },
+    "recipe_000140": {
+      "it": {
+        "step_3": "Lascia riposare la pastella in frigorifero per 30 minuti."
+      },
+      "en": {
+        "step_3": "Let the batter rest in the refrigerator for 30 minutes."
+      },
+      "es": {
+        "step_1": "Tamiza la harina y el matcha en un cuenco.",
+        "step_3": "Deja reposar la masa en el frigorífico durante 30 minutos.",
+        "step_6": "Monta la tarta colocando la primera crepe en un plato, extiende una capa fina de crema y cubre con otra crepe."
+      },
+      "fr": {
+        "step_3": "Laissez reposer la pâte au réfrigérateur pendant 30 minutes."
+      },
+      "de": {
+        "step_1": "Mehl und Matcha in eine Schüssel sieben.",
+        "step_3": "Den Teig 30 Minuten im Kühlschrank ruhen lassen.",
+        "step_4": "Etwa 15–20 hauchdünne Crêpes in einer leicht gebutterten beschichteten Pfanne backen und vollständig abkühlen lassen.",
+        "step_5": "Sahne mit Puderzucker und Matcha aufschlagen und vorsichtig unter die Konditorcreme heben.",
+        "step_6": "Den Kuchen schichten: eine Crêpe auf einen Teller legen, dünn mit Creme bestreichen und mit der nächsten Crêpe bedecken."
+      },
+      "pt": {
+        "step_1": "Peneire a farinha e o matcha para uma tigela.",
+        "step_3": "Deixe a massa repousar no frigorífico durante 30 minutos.",
+        "step_6": "Monte a sobremesa colocando a primeira crepe num prato, espalhando uma camada fina de creme e cobrindo com outra crepe."
+      }
+    },
+    "recipe_000142": {
+      "en": {
+        "step_2": "Mix glutinous rice flour, sugar, matcha and water in a microwave-safe bowl until no dry lumps remain."
+      },
+      "es": {
+        "step_2": "Mezcla la harina de arroz glutinoso, el azúcar, el matcha y el agua en un recipiente apto para microondas hasta que no queden grumos secos.",
+        "step_3": "Cubre el recipiente dejando una salida para el vapor y cocina a 600 W durante unos 90 segundos.",
+        "step_5": "Pasa la masa caliente a una superficie espolvoreada con almidón, cúbrela con un poco más y deja templar hasta que puedas manipularla."
+      },
+      "fr": {
+        "step_2": "Mélangez farine de riz gluant, sucre, matcha et eau dans un récipient adapté au micro-ondes jusqu'à disparition des grumeaux secs."
+      },
+      "de": {
+        "step_2": "Klebreismehl, Zucker, Matcha und Wasser in einer mikrowellengeeigneten Schüssel verrühren, bis keine trockenen Klümpchen mehr vorhanden sind.",
+        "step_3": "Die Schüssel mit einer Abdeckung versehen, dabei eine Öffnung für den Dampf lassen, und bei 600 Watt etwa 90 Sekunden erhitzen.",
+        "step_5": "Die heiße Mochimasse auf die mit Stärke bestäubte Fläche geben, mit weiterer Stärke bestäuben und so weit abkühlen lassen, dass sie sich bearbeiten lässt.",
+        "step_7": "Eine Anko-Kugel in die Mitte legen, die Teigränder gut zusammendrücken und den Daifuku mit der Naht nach unten ablegen."
+      },
+      "pt": {
+        "step_2": "Misture a farinha de arroz glutinoso, o açúcar, o matcha e a água numa tigela própria para micro-ondas até não restarem grumos secos.",
+        "step_3": "Tape deixando uma pequena abertura para o vapor e cozinhe a 600 W durante cerca de 90 segundos.",
+        "step_5": "Passe imediatamente a massa quente para a superfície polvilhada com amido, cubra com mais um pouco e deixe arrefecer até conseguir manuseá-la.",
+        "step_7": "Coloque uma bola de anko no centro, una as bordas apertando bem e disponha o daifuku com a junção virada para baixo.",
+        "step_1": "Divida o anko em seis bolas iguais e mantenha-as cobertas; polvilhe a bancada com amido de milho ou fécula."
+      }
+    },
+    "recipe_000143": {
+      "es": {
+        "step_1": "Forra los moldes engrasados con masa quebrada, recorta los bordes y pincha el fondo con un tenedor.",
+        "step_3": "Hornea las bases vacías a 180 °C durante 15–20 minutos, hasta que se doren uniformemente.",
+        "step_4": "Desmolda y deja enfriar por completo sobre una rejilla.",
+        "step_7": "Pincela la fruta con una capa fina de gelatina neutra para darle brillo y protegerla.",
+        "step_8": "Conserva en frío y sirve el mismo día para que la base siga crujiente."
+      },
+      "de": {
+        "step_1": "Die gebutterten Tarteletteförmchen mit Mürbeteig auskleiden, die Ränder abschneiden und den Boden mit einer Gabel einstechen.",
+        "step_3": "Die leeren Tartelettböden bei 180 °C etwa 15–20 Minuten blindbacken, bis sie gleichmäßig goldbraun sind.",
+        "step_4": "Aus den Förmchen lösen und auf einem Kuchengitter vollständig abkühlen lassen.",
+        "step_7": "Die Früchte mit einer dünnen Schicht neutralem Tortenguss bestreichen, damit sie glänzen und geschützt bleiben.",
+        "step_8": "Kühl aufbewahren und am selben Tag servieren, damit der Mürbeteig knusprig bleibt."
+      },
+      "pt": {
+        "step_1": "Forre as formas untadas com massa quebrada, apare as bordas e pique a base com um garfo.",
+        "step_3": "Coza as bases vazias no forno a 180 °C durante cerca de 15–20 minutos, até ficarem uniformemente douradas.",
+        "step_4": "Desenforme e deixe arrefecer completamente sobre uma grelha.",
+        "step_7": "Pincele a fruta com uma camada fina de gelatina neutra para lhe dar brilho e proteção.",
+        "step_8": "Guarde no frigorífico e sirva no próprio dia para manter a massa crocante."
+      }
+    }
+  },
+  "ingredientFixes": {
+    "recipe_000142": {
+      "pt": {
+        "amido_di_mais_o_fecola_per_spolverare": {
+          "name": "amido de milho ou fécula para polvilhar"
+        }
+      }
+    }
+  }
+}

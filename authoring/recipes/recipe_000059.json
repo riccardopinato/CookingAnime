@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000059",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -148,7 +148,7 @@
         "step_2": "In a large pan with lid, dissolve half of the butter and add the sliced garlic and grated ginger.",
         "step_3": "Brown on a soft heat for 1 minute.",
         "step_4": "Add the clams in the pan and add the Japanese sake immediately.",
-        "step_5": "Cover immediately with the lid and raise the flame on a live fire.",
+        "step_5": "Cover the pan immediately and increase the heat to high.",
         "step_6": "Cook for 3-4 minutes by shaking the pan every now and then until all clams open completely (discard those that remain closed). Use live clams from a reliable supplier. Discard broken shells and clams that do not close when tapped before cooking; discard any clams that remain closed after thorough cooking.",
         "step_7": "Turn off the heat, add the remaining butter and a thread of soy sauce.",
         "step_8": "Mix gently to create a tasty and shiny broth.",
@@ -240,9 +240,9 @@
         "step_2": "En una sartén de gran tamaño con tapa, derrite la mitad de la mantequilla y une el ajo cortado y el jengibre rallado.",
         "step_3": "Deja que el ajo y el jengibre se doren a fuego suave durante 1 minuto.",
         "step_4": "Junta las almejas en la sartén y añade el sake japonés.",
-        "step_5": "Cubre inmediatamente con la tapa y levanta la llama a fuego vivo.",
+        "step_5": "Tapa inmediatamente la cazuela y sube el fuego a intensidad alta.",
         "step_6": "Cocine durante 3-4 minutos sacudiendo de vez en cuando la cacerola hasta que todas las almejas se abren completamente (desecha las que permanezcan cerradas). Utiliza almejas vivas de un proveedor fiable. Desecha las conchas rotas y las almejas que no se cierren al tocarlas antes de cocinarlas; desecha también las que queden cerradas tras la cocción.",
-        "step_7": "Apaga el fuego, une la mantequilla restante y un hilo de salsa de soja.",
+        "step_7": "Apaga el fuego, añade la mantequilla restante y un chorrito de salsa de soja.",
         "step_8": "Mezcla suavemente para crear un caldo sabroso y brillante.",
         "step_9": "Espolvorea con abundante cebollino fresco y lleva a la mesa caliente con su caldo."
       }
@@ -290,7 +290,7 @@
         "step_6": "Faites cuire pendant 3-4 minutes en secouant de temps en temps la casserole jusqu'à ce que toutes les palourdes s'ouvrent complètement (jetez celles qui restent fermées). Utilisez des palourdes vivantes provenant d'un fournisseur fiable. Jetez celles dont la coquille est cassée ou qui ne se referment pas au toucher avant cuisson, puis celles qui restent fermées après une cuisson complète.",
         "step_7": "Éteins le feu, ajoute le reste du beurre et un fil de sauce soja.",
         "step_8": "Amalgame délicatement pour créer un bouillon savoureux et brillant.",
-        "step_9": "Il pulvérise avec beaucoup d'herbe ciboulette fraîche et apporte à la table très chaude avec son bouillon."
+        "step_9": "Parsemez généreusement de ciboulette fraîche et servez les palourdes très chaudes avec leur jus."
       }
     },
     "de": {
@@ -332,11 +332,11 @@
         "step_2": "In einer großen Pfanne mit Deckel, schmelzen Sie die Hälfte der Butter und fügen Sie den geschnittenen Knoblauch und den geriebenen Ingwer zusammen.",
         "step_3": "Knoblauch und Ingwer bei schwacher Hitze 1 Minute lang leicht goldbraun anbraten.",
         "step_4": "Kombinieren Sie die Muscheln in die Pfanne und fügen Sie sofort den japanischen Sake hinzu.",
-        "step_5": "Bedecken Sie den Deckel sofort und heben Sie die Flamme auf lebendiges Feuer.",
-        "step_6": "Kochen Sie 3-4 Minuten lang, indem Sie die Pfanne ab und zu schütteln, bis sich alle Muscheln vollständig öffnen (verpacken Sie die verschlossenen Muscheln). Lebende Venusmuscheln von einem zuverlässigen Anbieter verwenden. Beschädigte Muscheln und solche, die sich bei Berührung nicht schließen, vor dem Garen aussortieren; Muscheln, die nach gründlichem Garen geschlossen bleiben, wegwerfen.",
+        "step_5": "Den Topf sofort mit dem Deckel verschließen und die Hitze stark erhöhen.",
+        "step_6": "Die Muscheln 3–4 Minuten unter gelegentlichem Schwenken garen, bis sie sich öffnen. Muscheln mit beschädigter Schale und solche, die sich vor dem Garen beim Berühren nicht schließen, aussortieren; nach gründlichem Garen geschlossene Muscheln wegwerfen.",
         "step_7": "Mach das Feuer aus, misch die restlichen Butter und einen Faden Sojasauce.",
-        "step_8": "Amalgam sanft, um eine schmackhafte und glänzende Brodetto zu schaffen.",
-        "step_9": "Staub mit reichlich frischen Schnittlauch und bringt mit seiner Brühe sehr heiß auf den Tisch."
+        "step_8": "Alles vorsichtig vermengen, sodass ein aromatischer, leicht glänzender Sud entsteht.",
+        "step_9": "Mit reichlich frischem Schnittlauch bestreuen und die Muscheln mit ihrem Sud sehr heiß servieren."
       }
     },
     "pt": {
@@ -376,13 +376,13 @@
       "steps": {
         "step_1": "Lave bem os moluscos, já lavados sob água corrente fria.",
         "step_2": "Em uma panela grande com tampa, dissolva metade da manteiga e adicione o alho cortado e o gengibre ralado.",
-        "step_3": "Marrom em um calor suave por 1 minuto.",
+        "step_3": "Deixe o alho e o gengibre alourar em lume brando durante 1 minuto.",
         "step_4": "Adicione os moluscos na panela e adicione o sake japonês imediatamente.",
-        "step_5": "Cobrir imediatamente com a tampa e levantar a chama em um fogo vivo.",
+        "step_5": "Tape imediatamente a panela e aumente para lume forte.",
         "step_6": "Cozinhe por 3-4 minutos sacudindo a panela de vez em quando até que todos os moluscos se abram completamente (deite fora as que permanecerem fechadas). Utilize amêijoas vivas de fornecedor fiável. Rejeite conchas partidas e amêijoas que não fechem ao toque antes da cozedura; deite fora as que permaneçam fechadas após uma cozedura adequada.",
         "step_7": "Desligue o fogo, adicione a manteiga restante e um fio de molho de soja.",
         "step_8": "Misture suavemente para criar um caldo saboroso e brilhante.",
-        "step_9": "Poeira com muita cebola fresca e traga para a mesa quente com o seu caldo."
+        "step_9": "Polvilhe generosamente com cebolinho fresco e sirva as amêijoas muito quentes com o respetivo caldo."
       }
     }
   }

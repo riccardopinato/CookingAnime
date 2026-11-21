@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000072",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "My Hero Academia",
   "animeReferences": [
@@ -145,7 +145,7 @@
   "locales": {
     "en": {
       "title": "Classic Griddled Yakisoba",
-      "description": "The classic Yakisoba is prepared by jumping precooked noodles with pork, cabbage and vegetables on the plate. The Worcestershire sauce and condiments wrap the pasta in the wok; aonori, red ginger and katsuobushi complete the dish at the service. Stir-frying over high heat helps the sauce coat the noodles; finish with aonori, beni shoga (pickled red ginger) and katsuobushi as garnishes.",
+      "description": "Classic yakisoba is made by stir-frying pre-cooked noodles with pork belly, cabbage and vegetables on a hot griddle or in a wok. Worcestershire-based sauce coats the noodles over high heat; finish with aonori, beni shoga (pickled red ginger) and bonito flakes (katsuobushi).",
       "animeContext": "This recipe is thematically inspired by My Hero Academia, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "noodles_precotti_per_yakisoba": {
@@ -206,12 +206,12 @@
         "step_2": "Heat a non-stick plate or a wok with a little oil.",
         "step_3": "Cook the pork belly in small pieces until it becomes slightly crispy.",
         "step_4": "Combine the onion, carrots and cabbage.",
-        "step_5": "Skip on a lively heat for 3-4 minutes while keeping the crispy vegetables.",
+        "step_5": "Stir-fry over high heat for 3–4 minutes, keeping the vegetables crisp.",
         "step_6": "Rinse the noodles under hot water to rub them, then join them in a pan together with 2 tablespoons of water.",
         "step_7": "Cover with a lid for 1 minute to vaporize.",
         "step_8": "Add the Yakisoba sauce prepared above the noodles and vegetables.",
         "step_9": "Stir-fry vigorously over high heat for 2 minutes, until the sauce caramelizes slightly.",
-        "step_10": "Serve hot garning with Aonori, Beni Shoga and Katsuobushi bows."
+        "step_10": "Serve hot, garnished with aonori, beni shoga and katsuobushi flakes."
       }
     },
     "it": {
@@ -287,7 +287,7 @@
     },
     "es": {
       "title": "Yakisoba clásico a la plancha",
-      "description": "La Yaquisoba clásica se prepara saltando fideos precocidos con cerdo, col y verduras en la placa. La salsa a base de Worcestershire y condimentos envuelve la pasta en el wok; aonores, jengibre rojo y katsoubushi completan el plato al servicio. El paso sobre la placa de fuego alta aleación de salsa y fideos; aonores, bienes shoga y katsoubushi se añaden como junta.",
+      "description": "La yakisoba clásica se prepara salteando fideos precocidos con panceta de cerdo, col y verduras en una plancha o wok caliente. La salsa a base de Worcestershire envuelve los fideos a fuego fuerte; termina con aonori, beni shoga (jengibre rojo encurtido) y copos de bonito katsuobushi.",
       "animeContext": "Esta receta está inspirada temáticamente en My Hero Academia, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "noodles_precotti_per_yakisoba": {
@@ -348,17 +348,17 @@
         "step_2": "Calienta una placa antiadherente o un wok con un hilo de aceite.",
         "step_3": "Cocine la barriga de cerdo hasta que se haga ligeramente crujiente.",
         "step_4": "Junta la cebolla, las zanahorias y la col.",
-        "step_5": "Salta a fuego vivo durante 3-4 minutos manteniendo las verduras crujientes.",
+        "step_5": "Saltea a fuego fuerte durante 3–4 minutos sin que las verduras pierdan su textura crujiente.",
         "step_6": "Enjuague los fideos bajo agua caliente para desengranarlos, luego unírselos en la sartén junto con 2 cucharadas de agua.",
         "step_7": "Cubre con una tapa durante 1 minuto para vaporizar.",
         "step_8": "Añade la salsa Yaquisoba preparada sobre fideos y verduras.",
         "step_9": "Saltea y remueve enérgicamente a fuego fuerte durante 2 minutos, hasta que la salsa se caramelice ligeramente.",
-        "step_10": "Servir caliente sanando con Aonori, Beni Shoga y copos de Katsuobushi."
+        "step_10": "Sirve caliente, con aonori, beni shoga y copos de katsuobushi por encima."
       }
     },
     "fr": {
       "title": "Yakisoba traditionnel à la plancha",
-      "description": "Le Yakisoba classique se prépare en sautant des nouilles précuites avec du porc, du chou et des légumes sur la plaque. La sauce à base de Worcestershire et des condiments enveloppe les pâtes dans le wok; anori, gingembre rouge et katsuobushi complètent le plat au service. Le passage sur la plaque à feu haute alliage sauce et noodles; anori, biens shoga et katsuobushi s'ajoutent comme joint.",
+      "description": "Le yakisoba classique se prépare en faisant sauter des nouilles précuites avec du porc, du chou et des légumes sur une plaque chaude ou dans un wok. La sauce à base de Worcestershire enrobe les nouilles à feu vif; terminez par de l'aonori, du beni shoga (gingembre rouge mariné) et des flocons de bonite katsuobushi.",
       "animeContext": "Cette recette s'inspire librement de My Hero Academia, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "noodles_precotti_per_yakisoba": {
@@ -419,17 +419,17 @@
         "step_2": "Chauffez une plaque anti-adhérente ou un wok avec un fil d'huile.",
         "step_3": "Faites cuire votre ventre de porc en morceaux jusqu'à ce qu'il devienne légèrement croquant.",
         "step_4": "Combinez l'oignon, les carottes et le chou capuche.",
-        "step_5": "Saute à feu vif pendant 3-4 minutes en gardant les légumes croustillants.",
+        "step_5": "Faites sauter les ingrédients à feu vif pendant 3 à 4 minutes en gardant les légumes croquants.",
         "step_6": "Rincez les nouilles sous l'eau chaude pour les dégourdir, puis joignez-les dans la poêle avec 2 cuillères à soupe d'eau.",
         "step_7": "Couvrez avec un couvercle pendant 1 minute pour faire vaporiser.",
         "step_8": "Ajoutez la sauce Yakisoba préparée au-dessus des nouilles et des légumes.",
         "step_9": "Saute et amalgame vigoureusement à feu haut pendant 2 minutes jusqu'à ce que la sauce se caramel légèrement.",
-        "step_10": "Servez-vous chaud avec Aonori, Beni Shoga et des flocons de Katsuobushi."
+        "step_10": "Servez chaud, garni d'aonori, de beni shoga et de flocons de katsuobushi."
       }
     },
     "de": {
       "title": "Klassische Yakisoba aus der Pfanne",
-      "description": "Die klassische Yakisoba wird vorbereitet, indem sie vorgebackene Nudeln mit Schwein, Kohl und Gemüse auf die Platte springen. Die Worcestershire-Sauce und Würzmittel umhüllen die Pasta im Wok; Aonori, Ingwer rot und katsuobushi ergänzen das Gericht im Service. Die Passage auf der Platte mit hohem Fokus bindet Sauce und Nudeln; Aonori, shoga und katsuobushi werden als Dichtung hinzugefügt.",
+      "description": "Klassisches Yakisoba entsteht, indem vorgegarte Nudeln mit Schweinebauch, Kohl und Gemüse auf einer heißen Platte oder im Wok angebraten werden. Die Sauce auf Worcestershiresaucen-Basis überzieht die Nudeln bei hoher Hitze. Zum Servieren Aonori, Beni Shoga (eingelegten roten Ingwer) und Katsuobushi-Bonitoflocken darübergeben.",
       "animeContext": "Dieses Rezept ist thematisch von My Hero Academia, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "noodles_precotti_per_yakisoba": {
@@ -490,17 +490,17 @@
         "step_2": "Erhitzen Sie eine Antihaftplatte oder einen Wok mit einem Ölfaden.",
         "step_3": "Kochen Sie den Schweinebauch in Stücke, bis er leicht knusprig wird.",
         "step_4": "Bring die Zwiebel, die Karotten und die Kohlkappe zusammen.",
-        "step_5": "Springt 3-4 Minuten lang in lebendigem Feuer und hält das knusprige Gemüse.",
+        "step_5": "Das Gemüse bei hoher Hitze 3–4 Minuten unter Rühren anbraten, sodass es bissfest bleibt.",
         "step_6": "Spülen Sie die Nudeln unter heißem Wasser, um sie zu entschärfen, dann mischen Sie sie in die Pfanne zusammen mit 2 Esslöffel Wasser.",
         "step_7": "Bedecken Sie mit einem Deckel für 1 Minute, um es zu verdampfen.",
         "step_8": "Fügen Sie die zubereitete Yakisoba-Sauce über Nudeln und Gemüse hinzu.",
         "step_9": "Springen Sie und Amalgam kräftig bei hohem Fokus für 2 Minuten, bis die Soße leicht süß wird.",
-        "step_10": "Servieren Sie warme Guarnend mit Aonori, Beni Shoga und Katsuobushi Flocken."
+        "step_10": "Heiß servieren und mit Aonori, Beni Shoga und Katsuobushi-Flocken garnieren."
       }
     },
     "pt": {
       "title": "Yakisoba clássico na chapa",
-      "description": "O clássico Yakisoba é preparado pulando macarrão pré- cozido com porco, repolho e legumes no prato. O molho Worcestershire e os condimentos envolvem a massa no wok; aonori, gengibre vermelho e katsuobushi completam o prato no serviço. A passagem na placa de calor alta liga molho e macarrão; anorias, bens shoga e katsuobushi são adicionados como juntas.",
+      "description": "O yakisoba clássico prepara-se salteando noodles pré-cozidos com barriga de porco, couve e legumes numa chapa ou wok quente. O molho à base de Worcestershire envolve a massa em lume forte; finaliza com aonori, beni shoga (gengibre vermelho em conserva) e flocos de bonito katsuobushi.",
       "animeContext": "Esta receita inspira-se tematicamente em My Hero Academia, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "noodles_precotti_per_yakisoba": {
@@ -561,12 +561,12 @@
         "step_2": "Aqueça um prato antiadherente ou um wok com um pouco de óleo.",
         "step_3": "Cozinhe a barriga de porco em pedaços pequenos até que fique ligeiramente crocante.",
         "step_4": "Combine a cebola, cenouras e repolho.",
-        "step_5": "Saltar um calor vivo por 3-4 minutos enquanto mantém os vegetais crocantes.",
+        "step_5": "Salteia em lume forte durante 3–4 minutos, mantendo os legumes estaladiços.",
         "step_6": "Enxague os fios de massa sob água quente para esfregá- los, em seguida, junte- se a eles em uma panela junto com 2 colheres de água.",
         "step_7": "Cubra com uma tampa por 1 minuto para vaporizar.",
         "step_8": "Adicione o molho Yakisoba preparado acima dos macarrão e vegetais.",
         "step_9": "Saltar e misturar vigorosamente a fogo alto durante 2 minutos até que o doce de molho ligeiramente.",
-        "step_10": "Servir guarnição quente com Aonori, Beni Shoga e Katsuobushi flocos."
+        "step_10": "Serve quente, guarnecido com aonori, beni shoga e flocos de katsuobushi."
       }
     }
   }

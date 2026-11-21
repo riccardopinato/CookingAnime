@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000111",
-  "contentVersion": 5,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -136,7 +136,7 @@
         }
       },
       "steps": {
-        "step_1": "Slightly insert the skin of the mackerel fillets and pour boiling water over it for a few seconds; drain and dry them to mitigate the most intense smell.",
+        "step_1": "Lightly score the skin of the mackerel fillets and pour boiling water over them for a few seconds; drain and pat dry to reduce the strong fishy smell.",
         "step_2": "Cut the ginger into thin slices and prepare in a large pan water or dashi, sake, mirin and sugar.",
         "step_3": "Bring the liquid to a boil and add half the ginger.",
         "step_4": "Place the mackerel with the skin facing upwards, cover with an otoshibuta or perforated baking paper and cook over medium to low heat for about 8-10 minutes.",
@@ -224,12 +224,12 @@
         }
       },
       "steps": {
-        "step_1": "Incide ligeramente la piel de los filetes de caballa y vierte sobre ellos agua hirviendo durante unos segundos; escúlelos y séquelos para atenuar el olor más intenso.",
+        "step_1": "Haz unas incisiones superficiales en la piel de la caballa y viértele agua hirviendo durante unos segundos; escurre y seca los filetes para suavizar el olor.",
         "step_2": "Corta el jengibre con rodajas finas y prepara en una sartén grande agua o dashi, sake, mirin y azúcar.",
-        "step_3": "Lleva el líquido a embotellar y añade la mitad del jengibre.",
+        "step_3": "Lleva el líquido a ebullición y añade la mitad del jengibre.",
         "step_4": "Arregla la caballa con la piel hacia arriba, cubre con un otoshibuta o con papel de horno perforado y cocina a fuego medio-bajo durante unos 8-10 minutos.",
         "step_5": "Toma un cucharón del fondo, derrite el miso y ponlo en la sartén sin hervirlo violentamente.",
-        "step_6": "Sigue nacendo los filetes con el fondo durante 3-5 minutos, hasta que la salsa se lúzca y ligeramente densa.",
+        "step_6": "Rocía los filetes con su salsa durante 3–5 minutos, hasta que quede brillante y algo espesa.",
         "step_7": "Completa con el jengibre que queda y sirve inmediatamente, con la piel integral y la carne aún jugosa."
       }
     },
@@ -312,12 +312,12 @@
         }
       },
       "steps": {
-        "step_1": "Berühren Sie die Haut der Makrelenfilets leicht und gießen Sie für ein paar Sekunden kochendes Wasser über sie; Schäle und Trockner, um den intensiveren Geruch zu mildern.",
-        "step_2": "Schneide Ingwer in dünne Scheiben und backe in einer breiten Pfanne Wasser oder Dashi, Sake, Mirin und Zucker.",
-        "step_3": "Bringen Sie die Flüssigkeit zum Blenden und fügen Sie die Hälfte des Ingwers hinzu.",
+        "step_1": "Die Haut der Makrelenfilets leicht einschneiden, einige Sekunden mit kochendem Wasser übergießen, dann abgießen und trocken tupfen.",
+        "step_2": "Ingwer in dünne Scheiben schneiden; Wasser oder Dashi, Sake, Mirin und Zucker in einer breiten Pfanne bereitstellen.",
+        "step_3": "Die Flüssigkeit aufkochen und die Hälfte des Ingwers zugeben.",
         "step_4": "Bedecken Sie die Makrele mit nach oben gerichteter Haut, decken Sie sie mit einem Otoshibuta oder mit gebohrtem Backpapier und kochen Sie mit mittlerem bis niedrigem Fokus für etwa 8-10 Minuten.",
-        "step_5": "Nehmen Sie eine Schale aus dem Boden, lösen Sie den Miso und stecken Sie ihn wieder in die Pfanne, ohne ihn zu kochen.",
-        "step_6": "Die Gewinde werden weiterhin mit dem Boden für 3-5 Minuten geboren, bis die Soße glänzend und leicht dicht wird.",
+        "step_5": "Eine Kelle Sud entnehmen, das Miso darin auflösen und zurück in die Pfanne geben, ohne stark aufzukochen.",
+        "step_6": "Die Makrelenfilets weitere 3–5 Minuten wiederholt mit dem Sud übergießen, bis die Sauce glänzend und leicht eingedickt ist.",
         "step_7": "Komplett mit dem restlichen Ingwer und serviere sofort, mit der Haut integriert und das Fleisch noch saftig."
       }
     },
@@ -356,13 +356,13 @@
         }
       },
       "steps": {
-        "step_1": "Insira ligeiramente a pele dos filetes de sarjeta e derrama água fervente sobre ele por alguns segundos; escorra e seque- os para atenuar o cheiro mais intenso.",
+        "step_1": "Faça cortes superficiais na pele dos filetes de cavala e verta água a ferver por alguns segundos; escorra e seque para reduzir o cheiro intenso.",
         "step_2": "Corte o gengibre em fatias finas e prepare- se em uma grande panela de água ou dashi, sake, mirin e açúcar.",
         "step_3": "Traga o líquido para uma ebulição e adicione metade do gengibre.",
         "step_4": "Coloque a cavala com a pele virada para cima, cubra com uma otoshibuta ou papel de cozimento perfurado e cozinhe a fogo médio a baixo por cerca de 8-10 minutos.",
         "step_5": "Retire uma concha do líquido de cozedura, dissolva nela o miso e volte a deitá-lo na frigideira sem deixar ferver intensamente.",
-        "step_6": "Continue a dormir os filetes com o fundo por 3-5 minutos, até que o molho fique brilhante e ligeiramente denso.",
-        "step_7": "Complete com o gengibre à esquerda e sirva imediatamente, com a pele intacta e a carne ainda suculenta."
+        "step_6": "Regue repetidamente os filetes com o molho durante 3–5 minutos, até ficar brilhante e ligeiramente espesso.",
+        "step_7": "Finalize com o gengibre restante e sirva logo, com a pele intacta e a carne suculenta."
       }
     }
   }

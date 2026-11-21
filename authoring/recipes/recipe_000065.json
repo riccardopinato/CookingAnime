@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000065",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Cooking Papa",
   "animeReferences": [
@@ -168,8 +168,8 @@
         "step_3": "Heat a spoonful of seed oil in a large pan over medium-high heat.",
         "step_4": "Cook the pork slices for about 1.5 to 2 minutes per side until they are golden.",
         "step_5": "Add the ginger sauce directly above the meat in the hot pan.",
-        "step_6": "Boil for 1 minute by stirring the pan until the sauce is reduced to a shiny and fragrant frosting.",
-        "step_7": "Set up the pig side by side with an abundant mountain of fresh hooded cabbage and mayonnaise Kewpie, serving it with bowls of warm white rice."
+        "step_6": "Simmer for 1 minute, gently shaking the pan, until the sauce reduces to a glossy, fragrant glaze.",
+        "step_7": "Serve the pork with a generous pile of finely shredded fresh cabbage and Kewpie mayonnaise, alongside bowls of hot steamed rice."
       }
     },
     "it": {
@@ -275,13 +275,13 @@
         }
       },
       "steps": {
-        "step_1": "En un tazón de agua mezcla el jengibre rallado con su jugo, la salsa de soja, el mirin, el sake y el azúcar hasta que este último se derrita completamente.",
+        "step_1": "En un cuenco pequeño, mezcla el jengibre rallado y su jugo con la salsa de soja, el mirin, el sake y el azúcar hasta disolver el azúcar.",
         "step_2": "Extiende las rodajas de cerdo sobre una tabla de cortar y espolvorear ligeramente con un velo de harina de ambos lados (esto permitirá que la salsa se espese y se adhiera perfectamente a la carne).",
         "step_3": "Calienta una cucharada de aceite de semillas en una sartén grande a fuego medio-alto.",
         "step_4": "Cocine las rodajas de cerdo durante unos 1,5 a 2 minutos por lado hasta que estén bien doradas.",
         "step_5": "Añadir la salsa al jengibre directamente sobre la carne en la sartén caliente.",
-        "step_6": "Hacer que la sartén se emborrache durante 1 minuto hasta que la salsa se reduzca convirtiéndose en un glaseado brillante y perfumado.",
-        "step_7": "Arregla el cerdo acompañado por una abundante montaña de col capucha fresca desmenuzada y mayonesa Kewpie, sirviéndolo con tazón de arroz blanco bien caliente."
+        "step_6": "Deja que la salsa hierva suavemente durante 1 minuto mientras mueves la sartén, hasta obtener un glaseado brillante y aromático.",
+        "step_7": "Sirve el cerdo acompañado de abundante col fresca cortada en tiras finas, mayonesa Kewpie y arroz blanco bien caliente."
       }
     },
     "fr": {
@@ -337,7 +337,7 @@
         "step_4": "Faites cuire les tranches de porc pendant environ 1,5 à 2 minutes de chaque côté jusqu'à ce qu'elles soient bien dorées.",
         "step_5": "Ajoutez la sauce au gingembre directement au-dessus de la viande dans la poêle bouillante.",
         "step_6": "Faites bouillir pendant 1 minute en agitant la poêle jusqu'à ce que la sauce devienne un glaçage brillant et parfumé.",
-        "step_7": "Il installe le cochon avec une montagne abondante de chou chevelu frais haché et mayonnaise Kewpie, en le servant avec des bols de riz blanc bien chaud."
+        "step_7": "Servez les tranches de porc avec une généreuse portion de chou frais finement émincé, de la mayonnaise Kewpie et du riz blanc bien chaud."
       }
     },
     "de": {
@@ -387,13 +387,13 @@
         }
       },
       "steps": {
-        "step_1": "In einer Schüssel mischt er Ingwer, der mit seinem Saft, Sojasoße, Mirin, Sake und Zucker gerieben wird, bis er sich vollständig auflöst.",
+        "step_1": "Geriebenen Ingwer samt Saft mit Sojasauce, Mirin, Sake und Zucker verrühren, bis sich der Zucker vollständig gelöst hat.",
         "step_2": "Legen Sie die Schweinescheiben auf einem Schneidbrett aus und stauben Sie sie leicht mit einem Schleier Mehl von beiden Seiten (das ermöglicht es der Soße, sich zu verdichten und sich perfekt an das Fleisch zu binden).",
         "step_3": "Erhitzt einen Esslöffel Samenöl in einer großen Pfanne bei mittlerer bis hoher Hitze.",
         "step_4": "Kochen Sie die Schweinescheiben für etwa 1.5 bis 2 Minuten pro Seite, bis sie gut vergoldet sind.",
         "step_5": "Fügen Sie die Ingwersoße direkt über das Fleisch in die kochende Pfanne.",
-        "step_6": "Lassen Sie die Pfanne für 1 Minute mischen, bis die Soße zu einer glänzenden, duftenden Glasur wird.",
-        "step_7": "Machen Sie das Schwein mit einem reichlichen Berg von frisch gequetschten Kohl und Mayonnaise Kewpie, servieren Sie es mit gut warmen weißen Reisschalen."
+        "step_6": "Die Sauce unter leichtem Schwenken der Pfanne etwa 1 Minute köcheln lassen, bis sie zu einer glänzenden, aromatischen Glasur eindickt.",
+        "step_7": "Das Schweinefleisch mit reichlich fein geschnittenem frischem Weißkohl und Kewpie-Mayonnaise anrichten; heißen weißen Reis dazu servieren."
       }
     },
     "pt": {
@@ -406,7 +406,7 @@
           "note": null
         },
         "farina": {
-          "name": "farinha (para poeira ligeiramente)",
+          "name": "farinha (para polvilhar ligeiramente)",
           "note": null
         },
         "zenzero_fresco_grattugiato_finemente": {
@@ -444,12 +444,12 @@
       },
       "steps": {
         "step_1": "Em uma pequena tigela, misturar o gengibre ralado com o seu suco, molho de soja, mirin, sake e açúcar até que ele derreta completamente.",
-        "step_2": "Espalhe as fatias de porco numa tábua de corte e ponha- as ligeiramente com um véu de farinha em ambos os lados (isto permitirá que o molho espesse e adere perfeitamente à carne).",
+        "step_2": "Disponha as fatias de porco numa tábua e polvilhe ambos os lados com uma camada fina de farinha, para que o molho adira e engrosse.",
         "step_3": "Aqueça uma colher de óleo de semente em uma panela grande em fogo médio- alto.",
         "step_4": "Cozinhe as fatias de porco por cerca de 1,5 a 2 minutos por lado até que estejam douradas.",
         "step_5": "Adicione o molho de gengibre diretamente acima da carne na panela quente.",
         "step_6": "Ferva por 1 minuto agitando a panela até que o molho seja reduzido a um glacê brilhante e perfumado.",
-        "step_7": "Configure o porco lado a lado com uma montanha abundante de repolho fresco com capuz e maionese Kewpie, servindo- o com tigelas de arroz branco quente."
+        "step_7": "Sirva a carne de porco com bastante couve fresca cortada finamente, maionese Kewpie e arroz branco bem quente."
       }
     }
   }

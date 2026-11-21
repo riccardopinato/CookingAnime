@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000064",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Isekai Shokudo - Restaurant to Another World",
   "animeReferences": [
@@ -211,7 +211,7 @@
         "step_2": "In a large bowl, add minced meat, cold onion, egg, breadcrumbs softened in milk, salt, pepper and nutmeg.",
         "step_3": "It kneads vigorously by hand until the mixture becomes sticky and homogeneous.",
         "step_4": "Divide the dough into 4 oval portions.",
-        "step_5": "Pass the meat from one hand to another by gently slamming it to eliminate any internal air bubbles that would break the cutlet during cooking.",
+        "step_5": "Gently toss the meat mixture between your hands to remove trapped air, so the patties hold together during cooking.",
         "step_6": "Pass each schnitzel first into the flour, then into the beaten egg and finally cover it generously with Panko pressing lightly with your fingers to make the crumbs stick well.",
         "step_7": "Heats plenty of oil to fry at 170°C.",
         "step_8": "Fry the Menchi Katsu for 5-6 minutes per side on medium-low heat until the crust is dark and golden and the inside is well cooked and juicy.",
@@ -357,7 +357,7 @@
       "steps": {
         "step_1": "En una sartén de rosa, la cebolla picada con una gota de aceite hasta que se vuelva transparente y dorada, enfríe completamente.",
         "step_2": "En un cuenco grande, une la carne picada, la cebolla fría, el huevo, el pan rallado suavizado en la leche, sal, pimienta y nuez moscada.",
-        "step_3": "Amasa vigorosamente a mano hasta que el compuesto se vuelva pegajoso y homogéneo.",
+        "step_3": "Amasa enérgicamente la mezcla con las manos hasta que esté pegajosa y homogénea.",
         "step_4": "Divide la masa en cuatro porciones ovaladas.",
         "step_5": "Pasa la carne de una mano a la otra golpeándola suavemente para eliminar cualquier burbuja de aire interior que haría que la chuleta se rompiera durante la cocción.",
         "step_6": "Pasa cada chuleta primero en la harina, luego en el huevo batido y finalmente cubre generosamente de Panko presionando ligeramente con los dedos para que las migajas se adhieran bien.",
@@ -505,7 +505,7 @@
       "steps": {
         "step_1": "In einer rostigen Pfanne die Zwiebel mit einem Tropfen Öl gehackt, bis sie transparent und goldig wird, lassen Sie sie vollständig abkühlen.",
         "step_2": "In einer großen Schüssel, mischen Sie das Hackfleisch, die kalte Zwiebel, das Ei, das Brot in Milch weich, Salz, Pfeffer und Muskatnuss.",
-        "step_3": "Es klemmt kräftig von Hand, bis die Verbindung klebrig und homogen wird.",
+        "step_3": "Die Fleischmasse kräftig von Hand durchkneten, bis sie klebrig und gleichmäßig vermischt ist.",
         "step_4": "Teilen Sie den Teig in 4 ovale Portionen.",
         "step_5": "Das Fleisch wird von einer Hand in die andere geschüttet, um jede innere Luftblase zu entfernen, die beim Kochen die Schüssel zerbricht.",
         "step_6": "Gehen Sie jede Schüssel zuerst in Mehl, dann in das zerstoßene Ei, und dann füllen Sie großzügig mit Panko, indem Sie leicht mit den Fingern drücken, um die Krümel gut zu haften.",

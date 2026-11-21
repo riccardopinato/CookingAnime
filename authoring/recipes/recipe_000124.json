@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000124",
-  "contentVersion": 3,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -263,7 +263,7 @@
       },
       "steps": {
         "step_1": "Verwenden Sie eine sehr frisch und gekühlt bis zur Montage; entfernen Sie vorsichtig jede überschüssige Flüssigkeit, ohne die Gonaden zu zerdrücken.",
-        "step_2": "Bereiten Sie den japanischen Reis vor, würzen Sie ihn, wenn Sie Sushi-Reis verwenden, und lassen Sie ihn bedeckt einschüchtern: es muss lauwarm, nicht heiß sein.",
+        "step_2": "Den japanischen Reis zubereiten, bei Verwendung von Sushi-Reis entsprechend würzen und zugedeckt etwas abkühlen lassen: Er soll lauwarm, nicht heiß sein.",
         "step_3": "Prüfen Sie, ob der Uni ausdrücklich für den Rohverzehr geeignet ist und gemäß den Vorgaben des Lieferanten gelagert wurde. Probieren Sie ihn nicht zur Sicherheitsprüfung: Geruch und Geschmack reichen dafür nicht aus.",
         "step_4": "Geben Sie den Reis in die Schüssel, ohne ihn zu komprimieren und fügen Sie dünne Streifen von Nori hinzu.",
         "step_5": "Legen Sie die Zungen in einer einzigen Schicht zusammen, um sie so wenig wie möglich zu behandeln, um sie intakt zu halten.",

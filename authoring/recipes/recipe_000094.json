@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000094",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Yuru Camp△",
   "animeReferences": [
@@ -259,7 +259,7 @@
       },
       "steps": {
         "step_1": "Controla el salmón eliminando posibles espinas y córtalo en bocadillos; prepara patata, zanahoria, col, tofu y setas en trozos de tamaño similar.",
-        "step_2": "Lleva el dashi a un hervor suave en el donabe o en una cacerola amplia y suelta el miso en un tazón con un cucharón de caldo caliente, luego ponlo en la olla.",
+        "step_2": "Calienta el dashi en una olla donabe hasta que hierva suavemente; disuelve el miso con un cucharón de caldo caliente en un cuenco y devuélvelo a la olla.",
         "step_3": "Añade patatas y zanahorias y cocinas a fuego lento durante unos 8-10 minutos, hasta que empiecen a ablandarse.",
         "step_4": "Junta col, tofu y setas y continúa durante 3-4 minutos.",
         "step_5": "Ajusta el salmón a la superficie y cocine suavemente otros 6-8 minutos, sin hervir violentamente para no desvanecerlo.",
@@ -363,11 +363,11 @@
       },
       "steps": {
         "step_1": "Kontrollieren Sie den Lachs, indem Sie Gräten entfernen und in Bissen schneiden; bereitet Kartoffeln, Karotte, Kohl, Tofu und Pilze in Stücke ähnlicher Größe.",
-        "step_2": "Bringen Sie das Dashi leicht in die Donabe oder in eine große Kasserolle und spülen Sie die Miso in eine Schüssel mit einer Schale heißer Brühe, dann legen Sie es wieder in den Topf.",
+        "step_2": "Dashi im Donabe oder in einem großen Topf leicht aufkochen. Miso in einer Schüssel mit einer Kelle heißer Brühe glattrühren und wieder in den Topf geben.",
         "step_3": "Fügen Sie Kartoffeln und Karotte hinzu und kochen Sie für ca. 8-10 Minuten, bis sie weich werden.",
         "step_4": "Verbinden Sie Kohl, Tofu und Pilze und fahren Sie für 3-4 Minuten fort.",
-        "step_5": "Sie füttert den Lachs an der Oberfläche und kocht 6-8 Minuten weich, ohne ihn zu kochen, um ihn nicht zu verderben.",
-        "step_6": "Probieren Sie die Brühe und korrigieren Sie mit wenig miserabel gelöst, wenn es nötig ist; vermeiden Sie lange nach dem Hinzufügen des Miso kochen.",
+        "step_5": "Lachs vorsichtig auf das Gemüse legen und weitere 6–8 Minuten sanft garen, ohne ihn durch heftiges Kochen zu zerfallen.",
+        "step_6": "Die Brühe abschmecken und bei Bedarf etwas zuvor in Brühe gelöstes Miso ergänzen; nach dem Zugeben von Miso nicht lange stark kochen.",
         "step_7": "Schalten Sie aus, fügen Sie die Butter in die Mitte und servieren Sie die gut warme Nabe direkt aus dem Topf."
       }
     },
@@ -415,8 +415,8 @@
       },
       "steps": {
         "step_1": "Verifique o salmão removendo quaisquer ossos e corte- o em mordidas; prepare batata, cenoura, repolho, tofu e cogumelos em pedaços de tamanho semelhante.",
-        "step_2": "Traga o dashi para uma ebulição leve no donabe ou em uma grande panela e derreta o miso numa tigela com um bolo de caldo quente, depois ponha- o de volta no pote.",
-        "step_3": "Adicione batata e cenoura e cozinhe a cozinheira por cerca de 8-10 minutos até que eles comecem a suavizar.",
+        "step_2": "Deixe o dashi levantar fervura suave numa panela e dissolva o miso à parte com uma concha de caldo quente; volte a juntá-lo à panela.",
+        "step_3": "Junte a batata e a cenoura e deixe cozinhar em lume brando durante 8–10 minutos, até começarem a amolecer.",
         "step_4": "Combine repolho, tofu e cogumelos e continue por 3-4 minutos.",
         "step_5": "Coloque o salmão na superfície e cozinhe mais 6-8 minutos suavemente, sem ferver violentamente para não quebrá- lo.",
         "step_6": "Prove o caldo e corrija com um pouco de miso dissolvido se necessário; evite ferver por um longo tempo após a adição do miso.",

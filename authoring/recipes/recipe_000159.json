@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000159",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Fruits Basket",
   "animeReferences": [
@@ -271,7 +271,7 @@
       },
       "steps": {
         "step_1": "En un tazón, mezcla la leche condensada con la yema de huevo.",
-        "step_2": "Separa la harina con la levadura y únela al compuesto, amasando hasta que consigas un plato suave.",
+        "step_2": "Tamiza la harina con la levadura química e incorpórala a la mezcla, amasando hasta formar una bola de masa blanda.",
         "step_3": "Deja reposar en la nevera durante 20 minutos.",
         "step_4": "Envuelve cada castaña entera con 20 g de pasta Shiro-an creando una bola regular.",
         "step_5": "Divide la masa en 8 porciones, extendílalas en disco y envuelve las bolas de castaña y Shiro-an sellando bien los bordes y dando una forma a castaña.",

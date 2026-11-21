@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000113",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -226,10 +226,10 @@
       "steps": {
         "step_1": "Seca bien los camarones y practica un pequeño corte en la espalda si es necesario para eliminar el hilo intestinal.",
         "step_2": "Mezcla mayonesa Kewpie, leche condensada o miel y jugo de limón hasta obtener una salsa lisa; mantenla a un lado a temperatura fresca.",
-        "step_3": "Pasa las gambas a la albúmina y luego al almidón de maíz, eliminando el exceso para obtener un revestimiento delgado.",
+        "step_3": "Pasa las gambas por la clara de huevo y después por la maicena, retirando el exceso para lograr una capa fina.",
         "step_4": "Lleva el aceite a unos 170°C y fríe unos pocos camarones a la vez durante 2-3 minutos, hasta que estén recién dorados y cocidos en el centro.",
         "step_5": "Escurrir sobre la rejilla o papel absorbente y dejar reposar sólo unos segundos.",
-        "step_6": "Considéralos todavía calientes con la salsa Ebi Mayo, mezclando suavemente para vestirlos sin suavizar demasiado la corteza.",
+        "step_6": "Mezcla las gambas aún calientes con la salsa ebi mayo con cuidado, cubriéndolas sin ablandar demasiado la costra.",
         "step_7": "Servir inmediatamente, con posible corteza de limón o cebolleta como acabado."
       }
     },
@@ -312,12 +312,12 @@
         }
       },
       "steps": {
-        "step_1": "Trocknet die Garnelen gut und übt einen kleinen Schnitt auf dem Rücken, wenn nötig, um den Darmdraht zu entfernen.",
-        "step_2": "Mayonnaise Mischung Kewpie, Kondensmilch oder Honig und Zitronensaft, bis Sie eine glatte Soße erhalten; halten Sie sie bei frischer Temperatur beiseite.",
-        "step_3": "Die Garnelen werden dann in den Lumpen und dann in die Maisstärke geleitet, wodurch der Überschuß beseitigt wird, um eine dünne Beschichtung zu erhalten.",
+        "step_1": "Die Garnelen gründlich trocknen und bei Bedarf am Rücken leicht einschneiden, um den Darm zu entfernen.",
+        "step_2": "Kewpie-Mayonnaise mit Kondensmilch oder Honig und Zitronensaft zu einer glatten Sauce verrühren; bis zur Verwendung kühl halten.",
+        "step_3": "Die Garnelen erst im Eiweiß und dann in Maisstärke wenden; überschüssige Stärke abschütteln.",
         "step_4": "Bring das Öl auf ca. 170°C und brate ein paar Garnelen für 2-3 Minuten, bis sie gerade in der Mitte goldgelb und gekocht sind.",
-        "step_5": "Schicken Sie sie auf Gitter oder absorbierendes Papier und lassen Sie sie nur ein paar Sekunden ruhen.",
-        "step_6": "Konnte sie immer noch warm mit der Mayo Ebi Soße, sanft mischen, um sie zu kleiden, ohne die Kruste zu erweichen.",
+        "step_5": "Auf einem Gitter oder Küchenpapier abtropfen lassen und nur kurz ruhen lassen.",
+        "step_6": "Die noch heißen Garnelen vorsichtig mit der Ebi-Mayo-Sauce überziehen, damit die knusprige Hülle nicht zu weich wird.",
         "step_7": "Servieren Sie sofort, mit eventueller Zitronenschale oder Zwiebel als Finishing."
       }
     },
@@ -358,10 +358,10 @@
       "steps": {
         "step_1": "Seque bem os camarões e pratique um pequeno corte na parte de trás, se necessário para remover o fio intestinal.",
         "step_2": "Misture maionese Kewpie, leite condensado ou mel e suco de limão até obter um molho suave; mantenha- o de lado à temperatura fresca.",
-        "step_3": "Ele passa os camarões para o álbum e, em seguida, para o amido de milho, eliminando o excesso para obter um revestimento fino.",
+        "step_3": "Passe os camarões pela clara de ovo e depois pelo amido de milho; retire o excesso para obter uma camada fina.",
         "step_4": "Traga o óleo para cerca de 170°C e frite alguns camarões de cada vez por 2-3 minutos, até que estejam apenas dourados e cozidos no centro.",
         "step_5": "Esgote na grade ou papel absorvente e deixe- os descansar apenas alguns segundos.",
-        "step_6": "Condíscil ainda quente com o molho Ebi Mayo, mexendo suavemente para cobri- los sem amolecer demais a crosta.",
+        "step_6": "Envolva os camarões ainda quentes no molho ebi mayo, misturando delicadamente para conservar a crosta crocante.",
         "step_7": "Servir imediatamente, com casca de limão ou cebola como um acabamento."
       }
     }

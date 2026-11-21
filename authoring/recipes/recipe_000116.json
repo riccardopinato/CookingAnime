@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000116",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -243,9 +243,9 @@
       "steps": {
         "step_1": "Lava y cepilla la bardana, córtala en fósforo y ponla en agua durante unos 5 minutos para limitar la oxidación y atenuar la astringencia.",
         "step_2": "Corta la zanahoria en palitos del mismo tamaño y escurrir muy bien la bardana.",
-        "step_3": "Calienta el aceite de sésamo en la sartén y salta bardana y zanahoria a fuego medio-alto durante 3-4 minutos.",
+        "step_3": "Calienta el aceite de sésamo en la sartén y saltea la bardana y la zanahoria a fuego medio-alto durante 3–4 minutos.",
         "step_4": "Añade azúcar y mirin y mezcla hasta que el azúcar se derrita y las verduras empiezan a glasearse.",
-        "step_5": "Vierte la salsa de soja y sigue saltando hasta que el líquido esté casi totalmente evaporado.",
+        "step_5": "Añade la salsa de soja y sigue salteando hasta que casi todo el líquido se haya evaporado.",
         "step_6": "Prueba: la bardana debe ser cocida pero todavía ligeramente crujiente.",
         "step_7": "Completa con sésamo tostada y shichimi togarashi y sirvientes calientes, tibios o a temperatura ambiente."
       }
@@ -291,7 +291,7 @@
       "steps": {
         "step_1": "Lave et brosse la bardane, coupe-la en allumette et mets-la dans l'eau pendant environ 5 minutes pour en limiter l'oxydation et atténuer l'astringence.",
         "step_2": "Coupez la carotte en bâtonnets de la même taille et égouttez très bien la bardane.",
-        "step_3": "Chauffez l'huile de sésame dans la poêle et sautez bardane et carotte à feu moyen-haut pendant 3-4 minutes.",
+        "step_3": "Chauffez l’huile de sésame dans la poêle et faites revenir la bardane et la carotte à feu moyen-vif pendant 3 à 4 minutes.",
         "step_4": "Ajoute le sucre et le mirin, puis remue jusqu’à dissolution du sucre, lorsque les légumes commencent à se glacer.",
         "step_5": "Versez la sauce soja et continuez à sauter jusqu'à ce que le liquide soit presque complètement évaporé.",
         "step_6": "Goûtez: la bardane doit être cuite mais encore légèrement croustillante.",
@@ -339,9 +339,9 @@
       "steps": {
         "step_1": "Lava und Bürsten Sie die Klette, schneiden Sie sie in Streichhölzer und legen Sie sie sofort für etwa 5 Minuten ins Wasser, um ihre Oxidation zu begrenzen und die Astronomie zu mildern.",
         "step_2": "Schneide die Karotte in Stöcke der gleichen Größe und schütte die Klette sehr gut ab.",
-        "step_3": "Erhitzt Sesamöl in der Pfanne und springt Klette und Karotte bei mittlerer bis hoher Hitze für 3-4 Minuten.",
+        "step_3": "Sesamöl in einer Pfanne erhitzen und Klettenwurzel und Karotte bei mittlerer bis hoher Hitze 3–4 Minuten unter Rühren anbraten.",
         "step_4": "Fügen Sie Zucker und Mirin hinzu und mischen Sie, bis der Zucker gelöst ist und das Gemüse beginnt zu glasieren.",
-        "step_5": "Gießen Sie die Sojasoße aus und springen Sie weiter, bis die Flüssigkeit fast vollständig verdunstet ist.",
+        "step_5": "Die Sojasauce zugeben und unter Rühren weiterbraten, bis die Flüssigkeit fast vollständig verdampft ist.",
         "step_6": "Probieren Sie: Die Klette muss gekocht werden, aber immer noch leicht knusprig.",
         "step_7": "Komplett mit gerösteten Sesam und togarashi Schichimi und warmen, warmen oder bei Raumtemperatur servieren."
       }
@@ -387,7 +387,7 @@
       "steps": {
         "step_1": "Lave e escove o bardana, corte- o em um fósforo e coloque- o na água imediatamente por cerca de 5 minutos para limitar a oxidação e atenuar a estringência.",
         "step_2": "Corte a cenoura em paus do mesmo tamanho e escorra a barba muito bem.",
-        "step_3": "Aqueça o óleo de sésamo em uma frigideira e molho de burdock e cenoura a fogo médio a alto durante 3-4 minutos.",
+        "step_3": "Aqueça o óleo de sésamo numa frigideira e salteie a raiz de bardana e a cenoura em lume médio-alto durante 3–4 minutos.",
         "step_4": "Adicione açúcar e mirin e misture até que o açúcar seja dissolvido e os vegetais comecem a congelar.",
         "step_5": "Coloque no molho de soja e continue pulando até que o líquido tenha quase evaporado.",
         "step_6": "Sabor: o bardana deve ser cozido, mas ainda ligeiramente crocante.",

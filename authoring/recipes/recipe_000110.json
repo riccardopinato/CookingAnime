@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000110",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -136,7 +136,7 @@
         }
       },
       "steps": {
-        "step_1": "Clean the offal thoroughly; rub them with salt and little flour, rinse them several times and cut them into regular bites. Use only tripe/offal sold already cleaned and precooked, following the producer's directions. The 10–15 minutes are for final heating, NOT sufficient to cook raw offal safely; raw offal requires its own complete cooking beforehand.",
+        "step_1": "Use only cleaned, precooked tripe or other offal sold ready for final reheating, following the supplier's instructions. Cut into even pieces with clean utensils. The later 10–15 minutes do not safely cook raw offal.",
         "step_2": "Boil it for about 1 minute, drain and rinse: this phase eliminates impurities and part of the smell without melting the fat too much.",
         "step_3": "Prepare the broth with dashi, garlic, chilli and miso or soy sauce. Season it well, as the cabbage and tofu will dilute the flavour.",
         "step_4": "Place the cabbage on the bottom of the nabe, add tofu and offal and pour the broth until you partially cover the ingredients.",
@@ -224,11 +224,11 @@
         }
       },
       "steps": {
-        "step_1": "Limpia cuidadosamente los despojos; frotalos con sal y poca harina, enjuáguelos varias veces y córtalos en bocados regulares. Utiliza solo callos o vísceras ya limpios y precocidos, siguiendo las instrucciones del fabricante. Los 10–15 minutos son un calentamiento final, NO bastan para cocinar vísceras crudas; estas necesitan cocción completa previa.",
-        "step_2": "Esbelto durante aproximadamente 1 minuto, escolal y enjuague: esta fase elimina impurezas y parte del olor sin disolver demasiado la grasa.",
+        "step_1": "Utiliza únicamente callos o vísceras ya limpios y precocidos, siguiendo las instrucciones del proveedor. Corta en trozos regulares con utensilios limpios; los 10–15 minutos posteriores no bastan para cocinar vísceras crudas.",
+        "step_2": "Escalda los trozos precocidos durante 1 minuto, escúrrelos y enjuágalos; este paso reduce los olores sin retirar demasiada grasa.",
         "step_3": "Prepara el caldo con dashi, ajo, chile y miso o salsa de soja, mantenlo sabroso porque col y tofu lo diluirán.",
         "step_4": "Pon la col en el fondo del nabe, agrega tofu y despojos y vierte el caldo hasta cubrir parcialmente los ingredientes.",
-        "step_5": "Lleva a hervir y cocina los despojos durante unos 10-15 minutos, hasta que se hinchan y se aferran.",
+        "step_5": "Lleva a un hervor suave y calienta los callos precocidos durante 10–15 minutos, hasta que estén tiernos y bien calientes.",
         "step_6": "Añadir el nira cortado en palillos en los últimos minutos, sin mezclar excesivamente.",
         "step_7": "Prueba el caldo, regula el miso o la soja y sirve el nabe hirviendo directamente de la olla."
       }
@@ -268,7 +268,7 @@
         }
       },
       "steps": {
-        "step_1": "Nettoyez soigneusement les abats; frottez-les avec du sel et peu de farine, rincez-les plusieurs fois et coupez-les en morceaux réguliers. Utilisez uniquement des tripes ou abats vendus déjà nettoyés et précuits, conformément aux consignes du fabricant. Les 10 à 15 minutes servent au réchauffage final et ne suffisent PAS pour cuire des abats crus.",
+        "step_1": "Utilisez uniquement des tripes ou abats déjà nettoyés et précuits, conformément aux instructions du fournisseur. Coupez-les en morceaux réguliers avec des ustensiles propres ; les 10 à 15 minutes de réchauffage ne suffisent pas à cuire des abats crus.",
         "step_2": "Débollental pendant environ 1 minute, écolière et rincée: cette phase élimine les impuretés et une partie de l'odeur sans trop dissoudre la graisse.",
         "step_3": "Prépare le bouillon avec le dashi, l’ail, le piment et le miso ou la sauce soja. Assaisonne-le suffisamment, car le chou et le tofu en atténueront le goût.",
         "step_4": "Placez le chou sur le fond du nabe, ajoutez du tofu et des abats et versez le bouillon jusqu'à couvrir partiellement les ingrédients.",
@@ -312,11 +312,11 @@
         }
       },
       "steps": {
-        "step_1": "Reinigen Sie die Schlachtnebenerzeugnisse sorgfältig; reiben Sie sie mit Salz und wenig Mehl, spülen Sie sie mehrmals und schneiden Sie sie in regelmäßigen Bissen. Nur bereits gereinigte und vorgegarte Kutteln/Innereien nach Herstellerangaben verwenden. Die 10–15 Minuten dienen lediglich zum abschließenden Erhitzen und reichen NICHT zum sicheren Garen roher Innereien.",
-        "step_2": "Etwa 1 Minute lang bläst es, spült es ab und spült es ab: Diese Phase beseitigt Verunreinigungen und einen Teil des Geruchs, ohne das Fett zu sehr zu lösen.",
+        "step_1": "Nur bereits gereinigte und vorgegarte Kutteln oder Innereien nach Herstellerangaben verwenden. Mit sauberen Utensilien in gleich große Stücke schneiden; die späteren 10–15 Minuten reichen nicht aus, um rohe Innereien sicher zu garen.",
+        "step_2": "Die vorgegarten Stücke etwa 1 Minute blanchieren, abgießen und abspülen, um Gerüche und Rückstände zu reduzieren.",
         "step_3": "Bereiten Sie die Brühe mit Dashi, Knoblauch, Chili und Miso oder Soja-Sauce, halten Sie es geschmackvoll, weil Kohl und Tofu verdünnen.",
         "step_4": "Setzen Sie den Kohl auf den Boden des Nabe, fügen Sie Tofu und Schlachtnebenerzeugnisse hinzu und gießen Sie die Brühe, bis die Zutaten teilweise abgedeckt sind.",
-        "step_5": "Bringen Sie die Schlachtnebenerzeugnisse zum Aufstehen und kochen Sie sie für ca. 10-15 Minuten, bis sie geschwollen und gehalten werden.",
+        "step_5": "Die vorgegarten Innereien in der leicht köchelnden Brühe etwa 10–15 Minuten vollständig erhitzen, bis sie heiß und zart sind.",
         "step_6": "Fügen Sie das Nira in Stöcke in den letzten Minuten geschnitten, ohne übermäßig zu mischen.",
         "step_7": "Probieren Sie die Brühe, regieren Sie die Miso oder Soja und servieren Sie die kochende Nabe direkt aus dem Topf."
       }
@@ -356,7 +356,7 @@
         }
       },
       "steps": {
-        "step_1": "Limpe bem as miudezas; esfregue- as com sal e farinha, enxague- as várias vezes e corte- as em mordidas regulares. Utilize apenas tripas ou miudezas já limpas e pré-cozidas, seguindo as indicações do produtor. Os 10–15 minutos são para aquecer no final, NÃO chegam para cozinhar miudezas cruas; estas exigem cozedura completa prévia.",
+        "step_1": "Use apenas tripas ou miudezas já limpas e pré-cozidas, de acordo com as instruções do fornecedor. Corte-as em pedaços uniformes com utensílios limpos; os 10–15 minutos seguintes não bastam para cozinhar miudezas cruas.",
         "step_2": "Ferva por cerca de 1 minuto, escorra e enxagua: esta fase elimina impurezas e parte do cheiro sem derreter a gordura demais.",
         "step_3": "Prepare o caldo com dashi, alho, malagueta e miso ou molho de soja. Tempere bem, pois a couve e o tofu vão suavizar o sabor.",
         "step_4": "Coloque o repolho no fundo do nabe, adicione tofu e miudezas e derrame o caldo até que você cubra parcialmente os ingredientes.",

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000043",
-  "contentVersion": 1,
+  "contentVersion": 2,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -173,7 +173,7 @@
       "steps": {
         "rehydrate_wakame": "Hidrata el wakame unos 5 minutos, escurre y exprime suavemente.",
         "heat_dashi": "Lleva el dashi a hervor suave y prueba antes de salar; cada miso tiene distinta salinidad.",
-        "warm_tofu": "Añade tofu en cubos y calienta unos 2 minutos sin hervor fuerte.",
+        "warm_tofu": "Baja el fuego y añade el tofu cortado en cubos de 1–1,5 cm. Caliéntalo unos 2 minutos sin hervir con fuerza, para evitar que se rompa.",
         "dissolve_miso": "Apaga el fuego, disuelve el miso con un poco de dashi en un cucharón o colador, prueba y ajusta. Evitar hervir fuerte preserva mejor aroma y sabor.",
         "finish": "Añade wakame y cebolleta, recalienta suavemente si hace falta y sirve."
       }
@@ -207,7 +207,7 @@
       "steps": {
         "rehydrate_wakame": "Réhydratez le wakame environ 5 minutes, égouttez et pressez doucement.",
         "heat_dashi": "Portez le dashi à léger frémissement et goûtez avant d’assaisonner; les miso varient en sel.",
-        "warm_tofu": "Ajoutez le tofu en cubes et chauffez environ 2 minutes sans forte ébullition.",
+        "warm_tofu": "Baissez le feu et ajoutez le tofu coupé en cubes de 1 à 1,5 cm. Réchauffez environ 2 minutes sans faire bouillir fortement, pour éviter qu’il ne se casse.",
         "dissolve_miso": "Coupez le feu, diluez le miso avec un peu de dashi puis remettez-le dans la soupe. Éviter une forte ébullition préserve mieux arôme et saveur.",
         "finish": "Ajoutez wakame et ciboule, réchauffez doucement si nécessaire et servez."
       }
@@ -241,7 +241,7 @@
       "steps": {
         "rehydrate_wakame": "Wakame etwa 5 Minuten einweichen, gut abtropfen und sanft ausdrücken.",
         "heat_dashi": "Dashi sanft erhitzen und vor dem Würzen probieren; Misopasten unterscheiden sich stark im Salzgehalt.",
-        "warm_tofu": "Tofu würfeln und etwa 2 Minuten ohne starkes Kochen erwärmen.",
+        "warm_tofu": "Die Hitze reduzieren und den Tofu in 1–1,5 cm große Würfel schneiden. Etwa 2 Minuten ohne starkes Kochen erwärmen, damit die Würfel nicht zerfallen.",
         "dissolve_miso": "Hitze ausschalten, Miso mit etwas heißem Dashi lösen und einrühren. Nach Geschmack dosieren; starkes Kochen mindert frisches Aroma und Geschmack.",
         "finish": "Wakame und Frühlingszwiebel zugeben, falls nötig sanft erwärmen und servieren."
       }
@@ -275,7 +275,7 @@
       "steps": {
         "rehydrate_wakame": "Hidrate o wakame por cerca de 5 minutos, escorra e esprema suavemente.",
         "heat_dashi": "Leve o dashi a fervura suave e prove antes de temperar; cada miso tem salinidade diferente.",
-        "warm_tofu": "Adicione tofu em cubos e aqueça cerca de 2 minutos sem ferver forte.",
+        "warm_tofu": "Reduza o lume e junte o tofu cortado em cubos de 1–1,5 cm. Aqueça cerca de 2 minutos sem deixar ferver vigorosamente, para evitar que se desfaça.",
         "dissolve_miso": "Desligue o fogo, dissolva o miso com um pouco de dashi e incorpore. Ajuste ao gosto; evitar fervura forte preserva melhor aroma e sabor.",
         "finish": "Junte wakame e cebolinha, aqueça suavemente se necessário e sirva."
       }

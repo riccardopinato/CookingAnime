@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000148",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "One Piece",
   "animeReferences": [
@@ -254,12 +254,12 @@
       },
       "steps": {
         "step_1": "Lava y seca cuidadosamente los calamares.",
-        "step_2": "Práctica sobre el cuerpo del calamar cortes horizontales paralelos distanciados de aproximadamente 1 cm, sin afectar hasta el fondo, así la cocción permanecerá uniforme.",
+        "step_2": "Haz cortes paralelos separados unos 1 cm en el cuerpo del calamar, sin atravesarlo por completo, para que se cocine de manera uniforme.",
         "step_3": "En una olla, combina salsa de soja, mirin, sake, azúcar y jengibre rallado.",
         "step_4": "Cocine bajo fuego durante 3-4 minutos hasta que la salsa se espese ligeramente.",
-        "step_5": "Calienta muy bien una placa o un bistec a fuego vivo.",
+        "step_5": "Calienta bien una plancha o sartén de hierro a fuego fuerte.",
         "step_6": "Rejilla calamares y tentáculos durante 2-3 minutos por lado.",
-        "step_7": "Aprieta bien los calamares con la salsa Teriyaki en los últimos 2 minutos de cocción, volteándolos hasta que la superficie sea brillante y caramelizada.",
+        "step_7": "Pincela generosamente el calamar con salsa teriyaki durante los últimos 2 minutos de cocción, dándole la vuelta hasta que quede brillante y caramelizado.",
         "step_8": "Corta el calamar en rodajas siguiendo las incisiones ya practicadas.",
         "step_9": "Sirve con mayonesa Kewpie aparte y un poco de Shichimi Togarashi."
       }
@@ -354,14 +354,14 @@
       },
       "steps": {
         "step_1": "Wasche und trockne die Tintenfische gründlich.",
-        "step_2": "Üben Sie auf dem Körper des Tintenfischs parallele horizontale Schnitte von etwa 1 cm Abstand, ohne bis zum Ende zu gravieren, so dass das Kochen gleichmäßig bleibt.",
+        "step_2": "Den Körper der Tintenfische in etwa 1 cm Abstand parallel einschneiden, ohne ganz durchzuschneiden; so garen sie gleichmäßig.",
         "step_3": "In einem Topf, fügen Sie Soja-Sauce, Mirin, Sake, Zucker und geriebenen Ingwer.",
-        "step_4": "Kochen Sie 3-4 Minuten lang mit niedrigem Fokus, bis sich die Soße leicht verdichtet.",
-        "step_5": "Erhitzt eine Platte oder ein Steak sehr gut mit lebendigem Feuer.",
+        "step_4": "Die Sauce bei niedriger Hitze 3–4 Minuten leicht einkochen lassen, bis sie etwas eindickt.",
+        "step_5": "Eine Grillplatte oder Grillpfanne bei hoher Hitze stark vorheizen.",
         "step_6": "Grillen Sie die Tintenfische und Tentakel für 2-3 Minuten pro Seite.",
         "step_7": "Bestreichen Sie reichlich die Tintenfische mit Teriyaki-Soße in den letzten 2 Minuten des Kochens, drehen sie, bis die Oberfläche glänzend und karamelliert ist.",
-        "step_8": "Schneiden Sie den Tintenfisch in Scheiben, indem Sie die bereits angewendeten Gravuren befolgen.",
-        "step_9": "Servieren Sie mit Mayonnaise Kewpie getrennt und ein Staubsauger von Shichimi Togarashi."
+        "step_8": "Den Tintenfisch entlang der bereits gesetzten Einschnitte in Scheiben schneiden.",
+        "step_9": "Mit Kewpie-Mayonnaise und einer Prise Shichimi Togarashi servieren."
       }
     },
     "pt": {
@@ -404,14 +404,14 @@
       },
       "steps": {
         "step_1": "Lave e seque bem o calamar.",
-        "step_2": "Prática no corpo dos cortes horizontais paralelos de lula espaçados cerca de 1 cm, sem gravação no fundo, para que o cozimento permaneça uniforme.",
+        "step_2": "Faça cortes paralelos espaçados cerca de 1 cm no corpo das lulas, sem cortar até ao fundo, para garantir uma cozedura uniforme.",
         "step_3": "Em uma panela, adicione molho de soja, mirin, sake, açúcar e gengibre ralado.",
         "step_4": "Cozinhe a fogo lento por 3-4 minutos até que o molho se espesse ligeiramente.",
-        "step_5": "Aqueça um prato quente ou uma panela de bife sobre um fogo alto.",
+        "step_5": "Aqueça muito bem uma chapa ou frigideira de grelhar em lume forte.",
         "step_6": "Grelhe os calamares e tentáculos por 2-3 minutos por lado.",
         "step_7": "Escove bem o calamar com molho Teriyaki nos últimos 2 minutos de cozimento, girando- os até que a superfície seja brilhante e caramelizada.",
         "step_8": "Corte o calamar em fatias após as incisões já praticadas.",
-        "step_9": "Servir com maionese Kewpie separadamente e um copo de Shichimi Togarashi."
+        "step_9": "Sirva com maionese Kewpie à parte e uma pitada de shichimi togarashi."
       }
     }
   }

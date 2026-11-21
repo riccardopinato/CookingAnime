@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000057",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Gintama",
   "animeReferences": [
@@ -125,7 +125,7 @@
   "locales": {
     "en": {
       "title": "Kurogoma Dango — toasted black sesame dumplings",
-      "description": "The Kurogoma Dango are balls of glutinous rice first boiled and cooled in water and ice, then stuck on skewers and slightly grilled. A hot sauce of black sesame paste, sugar, soy and mirin completes the surface. The light grilling of the skewers precedes the nappatura: the black sesame remains the protagonist of the glossy and fragrant finish.",
+      "description": "Kurogoma Dango are chewy balls made with glutinous rice flour, boiled, chilled in ice water and threaded onto bamboo skewers before a brief grilling. A warm glaze of black sesame paste, sugar, soy sauce and mirin coats the lightly toasted balls just before serving.",
       "animeContext": "This recipe is thematically inspired by Gintama, Samurai Champloo. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
@@ -166,8 +166,8 @@
         }
       },
       "steps": {
-        "step_1": "In a bowl, mix the gluten-free rice flour with sugar.",
-        "step_2": "Combine the water flush by kneading with your fingers until a soft bread with a consistency similar to the earlobe is formed.",
+        "step_1": "Mix the glutinous rice flour with the sugar in a bowl.",
+        "step_2": "Add water gradually while kneading with your fingers until the dough is soft and supple, roughly like an earlobe.",
         "step_3": "Divide the dough into 12 equal balls by rolling them between the palms of the hands.",
         "step_4": "Dive the balls into a pot of boiling water.",
         "step_5": "When they come up, let cook for another 2 minutes.",
@@ -175,7 +175,7 @@
         "step_7": "In a saucepan, combine black sesame paste, sugar, soy sauce, mirin and water.",
         "step_8": "Heat on a sweet heat mixing for 2 minutes until the sauce becomes dark, velvety and fragrant.",
         "step_9": "Stick 3 balls of dango on each bamboo skewer.",
-        "step_10": "Slightly grill the skewers on a non-stick pan for 1 minute per side, then nappa generously with the hot black sesame sauce before serving."
+        "step_10": "Lightly grill the skewers in a nonstick pan for 1 minute per side, then generously coat the dango with the warm black-sesame sauce and serve."
       }
     },
     "it": {
@@ -235,7 +235,7 @@
     },
     "es": {
       "title": "Kurogoma dango — bolitas de arroz con sésamo negro tostado",
-      "description": "Los Kurogoma Dango son bolas de arroz glutinoso primero hervidas y enfriadas en agua y hielo, luego apuñaladas en pinchos y ligeramente a la parrilla. Una salsa caliente de pasta de sésamo negro, azúcar, soja y mirin completa su superficie. La ligera parrilla de los pinchos precede al bordado: el sésamo negro sigue siendo así protagonista del acabado brillante y perfumado.",
+      "description": "Los Kurogoma Dango son bolitas de harina de arroz glutinoso que se hierven, se enfrían en agua con hielo y se ensartan en brochetas antes de dorarlas brevemente. Se cubren al servir con una salsa templada de pasta de sésamo negro, azúcar, soja y mirin.",
       "animeContext": "Esta receta está inspirada temáticamente en Gintama, Samurai Champloo. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
@@ -276,8 +276,8 @@
         }
       },
       "steps": {
-        "step_1": "En un tazón, mezcla la harina de arroz glutinoso con azúcar.",
-        "step_2": "Junta el agua con el hilo y amasa con los dedos hasta que se forme un plato suave con una consistencia similar al lóbulo del oído.",
+        "step_1": "Mezcla la harina de arroz glutinoso con el azúcar en un cuenco.",
+        "step_2": "Añade el agua poco a poco y amasa con los dedos hasta obtener una masa blanda y flexible, de consistencia similar al lóbulo de la oreja.",
         "step_3": "Divide la masa en 12 bolas iguales rodando entre las palmas de las manos.",
         "step_4": "Sumerge las bolas en una olla de agua hirviendo.",
         "step_5": "Cuando suban a la superficie, deja que se cocinen dos minutos más.",
@@ -285,12 +285,12 @@
         "step_7": "En una olla, une la pasta de sésamo negra, el azúcar, la salsa de soja, el mirin y el agua.",
         "step_8": "Caliente a fuego dulce mezclando durante 2 minutos hasta que la salsa se vuelve oscura, aterciopelada y perfumada.",
         "step_9": "Apuñala 3 bolas de dango en cada broche de bambú.",
-        "step_10": "Rejilla ligeramente los pinchos en una sartén antiadherente durante 1 minuto por lado, luego napa generosamente con la salsa caliente al sésamo negro antes de servir."
+        "step_10": "Dora ligeramente las brochetas en una sartén antiadherente durante 1 minuto por cada lado y cúbrelas generosamente con la salsa caliente de sésamo negro antes de servir."
       }
     },
     "fr": {
       "title": "Kurogoma dango — boulettes de riz au sésame noir grillé",
-      "description": "Les Kurogoma Dango sont des boules de riz d'abord bouillie et refroidie dans de l'eau et de la glace, puis enfilées sur des brochettes et légèrement grillées. Une sauce chaude de pâtes de sésame noir, sucre, soja et myrin en complète la surface. Le grill léger des brochettes précède le nappage: le sésame noir reste ainsi le protagoniste de la finition brillante et parfumée.",
+      "description": "Les Kurogoma Dango sont des boulettes de farine de riz gluant, d'abord bouillies puis refroidies dans l'eau glacée, enfilées sur des brochettes et brièvement grillées. Une sauce tiède à base de pâte de sésame noir, sucre, soja et mirin les nappe juste avant le service.",
       "animeContext": "Cette recette s'inspire librement de Gintama, Samurai Champloo. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
@@ -331,8 +331,8 @@
         }
       },
       "steps": {
-        "step_1": "Dans un bol, il mélange la farine de riz à base de sucre.",
-        "step_2": "Combinez l'eau en fil en pétrissant avec vos doigts jusqu'à ce qu'un petit pain doux de la consistance semblable au lobe de l'oreille se forme.",
+        "step_1": "Mélangez la farine de riz gluant et le sucre dans un saladier.",
+        "step_2": "Versez progressivement l'eau tout en pétrissant du bout des doigts, jusqu'à obtenir une pâte souple de consistance comparable au lobe de l'oreille.",
         "step_3": "Diviser la pâte en 12 boules égales en les faisant rouler entre les paumes des mains.",
         "step_4": "Plonge tes balles dans un pot d'eau bouillante.",
         "step_5": "Quand ils montent à flot, laissez cuire encore deux minutes.",
@@ -340,12 +340,12 @@
         "step_7": "Dans une casserole, ajoutez les pâtes de sésame noir, le sucre, la sauce soja, la mirin et l'eau.",
         "step_8": "Chauffage à feu doux en mélangeant pendant 2 minutes jusqu'à ce que la sauce soit sombre, veloutée et parfumée.",
         "step_9": "Il glisse 3 balles de danse sur chaque brochette de bambou.",
-        "step_10": "Grille légèrement les brochettes sur une poêle anti-adhérente pendant 1 minute par côté, puis nappa généreusement avec la sauce chaude au sésame noir avant de servir."
+        "step_10": "Faites légèrement griller les brochettes dans une poêle antiadhésive pendant 1 minute de chaque côté, puis nappez généreusement les dango de sauce chaude au sésame noir avant de servir."
       }
     },
     "de": {
       "title": "Kurogoma Dango – Reisbällchen mit geröstetem schwarzem Sesam",
-      "description": "Die Kurogoma Dango sind glutinöser Reisbällchen, zunächst gekocht und in Wasser und Eis gekühlt, dann auf die Spieße gestochen und leicht gegrillt. Eine warme Soße aus schwarzem Sesam, Zucker, Soja und Mirin rundet die Oberfläche ab. Die leichte Grillung der Spieße geht der Nappatur voraus: das schwarze Sesam bleibt so ein Hauptdarsteller des glänzenden und duftenden Finish.",
+      "description": "Kurogoma Dango sind zähe Bällchen aus Klebreismehl. Sie werden gekocht, in Eiswasser abgeschreckt, auf Bambusspieße gesteckt und kurz angeröstet. Erst danach überzieht man sie mit einer warmen Sauce aus schwarzem Sesammus, Zucker, Sojasauce und Mirin.",
       "animeContext": "Dieses Rezept ist thematisch von Gintama, Samurai Champloo inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
@@ -386,8 +386,8 @@
         }
       },
       "steps": {
-        "step_1": "In einer Schüssel mischt er Reismehl mit Zucker.",
-        "step_2": "Verbinden Sie das drahtige Wasser mit den Fingern, bis sich ein weiches Brot bildet, das dem Ohrlappen ähnlich ist.",
+        "step_1": "Klebreismehl und Zucker in einer Schüssel vermischen.",
+        "step_2": "Das Wasser nach und nach zugeben und mit den Fingern kneten, bis ein weicher, geschmeidiger Teig mit einer Konsistenz ähnlich einem Ohrläppchen entsteht.",
         "step_3": "Teilen Sie den Teig in 12 gleiche Kugeln, indem Sie ihn zwischen den Handflächen rollen.",
         "step_4": "Tauche die Kugeln in einen Topf mit kochendem Wasser ein.",
         "step_5": "Wenn sie ans Wasser steigen, lassen Sie sie für weitere 2 Minuten kochen.",
@@ -395,12 +395,12 @@
         "step_7": "In einem Topf, fügen Sie schwarze Sesampaste, Zucker, Sojasauce, Mirin und Wasser.",
         "step_8": "Er heizt 2 Minuten lang mit süßem Feuer, bis die Soße dunkel, samtig und duftend wird.",
         "step_9": "Stechen Sie 3 Dangobälle auf jeden Bambusspieß.",
-        "step_10": "Grillen Sie leicht die Spieße auf einer Pfanne, die 1 Minute lang auf der Seite taugt, dann mit der heißen schwarzen Sesamsoße großzügig, bevor Sie servieren."
+        "step_10": "Die Spieße in einer beschichteten Pfanne etwa 1 Minute pro Seite leicht anrösten, anschließend großzügig mit der warmen schwarzen Sesamsauce überziehen und servieren."
       }
     },
     "pt": {
       "title": "Kurogoma dango — bolinhos de arroz com sésamo preto tostado",
-      "description": "O Dango do Kurogoma são bolas de arroz glutino primeiro cozidas e resfriadas em água e gelo, depois presas em broches e ligeiramente grelhadas. Um molho picante de pasta de sésamo preto, açúcar, soja e mirin completa a superfície. A grelhada leve dos broches precede a nappatura: o sésamo preto continua a ser o protagonista do acabamento brilhante e perfumado.",
+      "description": "Os Kurogoma Dango são bolinhas de farinha de arroz glutinoso, primeiro cozidas, arrefecidas em água com gelo, enfiadas em espetos e ligeiramente tostadas. Antes de servir recebem um molho quente de pasta de sésamo preto, açúcar, soja e mirin.",
       "animeContext": "Esta receita inspira-se tematicamente em Gintama, Samurai Champloo. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "farina_di_riso_glutinoso": {
@@ -441,8 +441,8 @@
         }
       },
       "steps": {
-        "step_1": "Numa tigela, misturar a farinha de arroz sem glúten com açúcar.",
-        "step_2": "Combine o fluxo de água amassando com os dedos até que se forme um pão macio com uma consistência semelhante ao lóbulo da orelha.",
+        "step_1": "Mistura a farinha de arroz glutinoso com o açúcar numa tigela.",
+        "step_2": "Junta a água aos poucos, amassando com os dedos até obteres uma massa macia e flexível, com consistência semelhante à do lóbulo da orelha.",
         "step_3": "Divida a massa em 12 bolas iguais rolando- as entre as palmas das mãos.",
         "step_4": "Mergulhe as bolas em um pote de água fervente.",
         "step_5": "Quando eles aparecerem, deixe cozinhar por mais 2 minutos.",
@@ -450,7 +450,7 @@
         "step_7": "Numa panela, combine pasta de sésamo preto, açúcar, molho de soja, mirin e água.",
         "step_8": "Aqueça uma mistura de calor doce durante 2 minutos até que o molho se torne escuro, veludo e perfumado.",
         "step_9": "Colocar 3 bolas de dango em cada broche de bambu.",
-        "step_10": "Grill levemente os broches numa panela antiadherente por 1 minuto por lado, em seguida, nappa generosamente com o molho de sésamo preto quente antes de servir."
+        "step_10": "Tosta ligeiramente os espetos numa frigideira antiaderente durante 1 minuto de cada lado, cobre generosamente os dango com o molho quente de sésamo preto e serve."
       }
     }
   }

@@ -174,7 +174,7 @@
         "whisk_base": "Fouettez les œufs avec le sucre et le miel jusqu’à obtenir un mélange plus clair et légèrement mousseux. Fouettez environ 2 minutes, jusqu’à sucre presque dissous et ruban lisse, sans chercher une mousse complète.",
         "finish_batter": "Délayez la levure dans l’eau, ajoutez-la puis incorporez la farine tamisée jusqu’à obtenir une pâte lisse. Arrêtez dès disparition de la farine; trop mélanger développe le gluten.",
         "rest_batter": "Laissez reposer la pâte 15 minutes au réfrigérateur. Après repos, la pâte doit couler en ruban épais et s’étaler lentement; ajoutez un peu d’eau seulement si trop ferme.",
-        "cook_first_side": "Chauffez une poêle antiadhésive à feu doux, huilez-la très légèrement puis formez de petits disques. Cuisez jusqu’à l’apparition de bulles. Utilisez toujours la même mesure. Quand de nombreuses bulles apparaissent et que le bord devient mat, retournez.",
+        "cook_first_side": "Chauffez une poêle antiadhésive à feu doux et huilez-la très légèrement. Versez des portions régulières de pâte avec la même louche. Quand de nombreuses bulles se forment et que les 5 mm extérieurs deviennent mats, retournez les disques.",
         "cook_second_side": "Retournez les disques et terminez rapidement la cuisson de l’autre face. La seconde face demande souvent seulement 30–60 secondes; trop cuire dessèche les gâteaux.",
         "fill_dorayaki": "Laissez refroidir puis assemblez les disques deux par deux avec l’anko au centre en pinçant doucement les bords. Associez deux disques de taille proche, mettez plus d’anko au centre et affinez vers les bords."
       }
@@ -1530,7 +1530,7 @@
         "prep_pan_eggs": "Chemisez un moule de 18 cm et préchauffez à 170°C. Tiédissez œufs et sucre au bain-marie puis fouettez 8–10 minutes jusqu’au ruban.",
         "fold_batter": "Incorporez la farine tamisée en deux fois délicatement. Mélangez beurre et lait, allégez avec un peu de pâte puis réincorporez sans faire retomber.",
         "bake_cool": "Cuisez 23–25 minutes à 170°C, jusqu’à reprise au toucher et pique propre. Démoulez et refroidissez complètement.",
-        "prep_filling": "Montez la crème froide avec sucre glace à pics moyens-fermes. Tranchez une partie des fraises et refroidissez le sirop.",
+        "prep_filling": "Refroidissez le bol et les fouets. Montez la crème avec le sucre glace jusqu’à obtenir des pics moyennement fermes, stables mais encore lisses. Coupez une partie des fraises en tranches de 4 à 5 mm et réservez les plus belles pour le dessus. Dissolvez le sucre du sirop dans l’eau chaude, puis laissez refroidir.",
         "split_syrup_fill": "Coupez le biscuit froid en deux, imbibez légèrement, garnissez de crème et fraises puis refermez avec le second disque.",
         "frost_decorate": "Faites une fine sous-couche, refroidissez si nécessaire puis couvrez et décorez avec crème et fraises bien sèches.",
         "chill": "Réfrigérez au moins 2 heures avant de trancher et conservez au froid."
@@ -1958,7 +1958,7 @@
         }
       },
       "stepTexts": {
-        "prep_berries": "Lavez puis séchez parfaitement les fraises. Divisez l’anko en six et enveloppez chaque fraise en laissant la pointe visible.",
+        "prep_berries": "Lavez rapidement les fraises, retirez leur pédoncule et séchez-les soigneusement : l’humidité ferait glisser l’anko. Divisez l’anko en six portions de 25 g et enveloppez chaque fraise en laissant la pointe visible.",
         "mix_mochi": "Mélangez shiratamako, sucre et eau sans grumeaux dans un bol micro-ondable.",
         "microwave": "Cuisez 90 secondes à 600 W, mélangez puis encore 60–90 secondes jusqu’à pâte brillante, translucide et élastique.",
         "dust_divide": "Versez sur beaucoup de fécule, refroidissez juste assez pour manipuler et divisez en six encore tiède.",
@@ -2068,7 +2068,7 @@
         "separate_eggs": "Séparez blancs et jaunes dans des bols impeccables. Fouettez les jaunes avec crème, sel et poivre.",
         "whip_whites": "Montez les blancs en pics fermes et brillants sans les dessécher.",
         "fold": "Incorporez un tiers aux jaunes puis le reste délicatement.",
-        "cook_covered": "Faites fondre le beurre à feu doux, versez la mousse, couvrez et cuisez 5–6 minutes jusqu’à base dorée et dessus juste pris.",
+        "cook_covered": "Faites fondre le beurre dans une poêle antiadhésive de 20–22 cm à feu doux. Versez l’appareil, égalisez légèrement, couvrez et faites cuire environ 5–6 minutes, jusqu’à ce que la base soit dorée et le dessus à peine pris et souple. Gardez le feu doux.",
         "fold_serve": "Pliez sans écraser, transférez sur assiette chaude et versez la sauce tomate autour. Ajoutez la ciboulette."
       }
     },
@@ -2180,7 +2180,7 @@
       "stepTexts": {
         "rehydrate_wakame": "Réhydratez le wakame environ 5 minutes, égouttez et pressez doucement.",
         "heat_dashi": "Portez le dashi à léger frémissement et goûtez avant d’assaisonner; les miso varient en sel.",
-        "warm_tofu": "Ajoutez le tofu en cubes et chauffez environ 2 minutes sans forte ébullition.",
+        "warm_tofu": "Baissez le feu et ajoutez le tofu coupé en cubes de 1 à 1,5 cm. Réchauffez environ 2 minutes sans faire bouillir fortement, pour éviter qu’il ne se casse.",
         "dissolve_miso": "Coupez le feu, diluez le miso avec un peu de dashi puis remettez-le dans la soupe. Éviter une forte ébullition préserve mieux arôme et saveur.",
         "finish": "Ajoutez wakame et ciboule, réchauffez doucement si nécessaire et servez."
       }
@@ -2643,16 +2643,16 @@
         "step_6": "Étends chaque balle forme un disque du centre légèrement plus épais et aux bords fins.",
         "step_7": "Mettez une cuiller généreuse de curry dense froid au centre de chaque disque.",
         "step_8": "Fermez soigneusement les bords en les scellant bien et en donnant la forme ovale classique à ellipse.",
-        "step_9": "Il passe chaque sandwich d'abord dans l'oeuf claqué puis dans le panko en le faisant adhérer uniformément.",
+        "step_9": "Passez chaque petit pain dans l'œuf battu, puis dans le panko en le faisant adhérer uniformément.",
         "step_10": "Laisse les sandwichs se reposer pendant 15 minutes.",
         "step_11": "Chauffez l'huile de graines à 170°C.",
-        "step_12": "Frottez les Kare Pan 2-3 minutes par côté jusqu'à ce qu'ils deviennent dorés et super croustillants.",
-        "step_13": "Écolez sur papier absorbant et serviles chaudes."
+        "step_12": "Faites frire les kare pan 2 à 3 minutes de chaque côté, jusqu'à ce qu'ils soient dorés et croustillants.",
+        "step_13": "Égouttez-les sur du papier absorbant et servez-les chauds."
       }
     },
     "recipe_000053": {
       "title": "Ebi Tendon — tempura de crevettes et légumes sur riz, sauce tentsuyu",
-      "description": "Dans l'Ebi Tendon, le riz chaud soutient les crevettes et les légumes en tempura fraîchement frits. La pâte est rapidement mélangée avec de l'eau glacée, tandis que la sauce tenduyu de dashi, de soja et de myrin est préparée séparément et ajoutée au moment de servir. Le contraste naît du riz encore chaud et de la pâte froide; la sauce se distribue sans submerger la croûte de la tempura.",
+      "description": "L'Ebi Tendon associe du riz chaud à des crevettes et légumes tout juste frits en tempura. Mélangez rapidement la pâte avec de l'eau glacée, préparez à part la sauce tentsuyu au dashi, soja et mirin, puis versez-en une petite quantité au service pour préserver le croustillant.",
       "animeContext": "Cette recette s'inspire librement de Food Wars! (Shokugeki no Soma), Mob Psycho 100. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "gamberone_freschi_sgusciati": {
@@ -2706,14 +2706,14 @@
       },
       "stepTexts": {
         "step_1": "Dans une casserole, ajoutez le bouillon dashi, la sauce soja, la mirin et le sucre.",
-        "step_2": "Porte à léger frémissement pendant 2 minutes pour dissoudre le sucre et permettre à l’alcool du mirin de s’évaporer.",
-        "step_3": "Éteins ça et garde ça de côté.",
-        "step_4": "Pratiquez 3-4 petites coupures diagonales sur le ventre de chaque crevette et étendez-la doucement pour éviter qu'elle ne se frise pendant la cuisson.",
+        "step_2": "Portez à léger frémissement pendant 2 minutes pour dissoudre le sucre et laisser une partie de l'alcool du mirin s'évaporer.",
+        "step_3": "Coupez le feu et réservez la sauce.",
+        "step_4": "Pratiquez 3 à 4 petites incisions diagonales sous chaque crevette et redressez-la délicatement pour limiter sa courbure pendant la friture.",
         "step_5": "Travaillez légèrement le jaune avec de l'eau glacée.",
         "step_6": "Combinez la farine tout à la fois et amalgamez très peu avec les baguettes (la pâte doit rester grimeuse et froide).",
         "step_7": "Chauffage abondant d'huile à 180°C.",
         "step_8": "Infarine légèrement les crevettes et les légumes, trempez-les dans la pâte froide et faites-les frire pendant environ 2-3 minutes jusqu'à ce que la tempura soit dorée et croustillante.",
-        "step_9": "Placez le riz chaud dans les bols (Donburi), arrosez-le avec une cuillère à soupe de sauce Tentsuyu, adagie au-dessus des crevettes et des légumes en tempura et ajoutez un autre fil de sauce chaude avant de servir."
+        "step_9": "Répartissez le riz chaud dans des bols donburi et arrosez d'une cuillère de tentsuyu. Posez les crevettes et légumes en tempura dessus, ajoutez un filet de sauce chaude et servez aussitôt."
       }
     },
     "recipe_000054": {
@@ -2905,7 +2905,7 @@
     },
     "recipe_000057": {
       "title": "Kurogoma dango — boulettes de riz au sésame noir grillé",
-      "description": "Les Kurogoma Dango sont des boules de riz d'abord bouillie et refroidie dans de l'eau et de la glace, puis enfilées sur des brochettes et légèrement grillées. Une sauce chaude de pâtes de sésame noir, sucre, soja et myrin en complète la surface. Le grill léger des brochettes précède le nappage: le sésame noir reste ainsi le protagoniste de la finition brillante et parfumée.",
+      "description": "Les Kurogoma Dango sont des boulettes de farine de riz gluant, d'abord bouillies puis refroidies dans l'eau glacée, enfilées sur des brochettes et brièvement grillées. Une sauce tiède à base de pâte de sésame noir, sucre, soja et mirin les nappe juste avant le service.",
       "animeContext": "Cette recette s'inspire librement de Gintama, Samurai Champloo. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "farina_di_riso_glutinoso": {
@@ -2946,8 +2946,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "Dans un bol, il mélange la farine de riz à base de sucre.",
-        "step_2": "Combinez l'eau en fil en pétrissant avec vos doigts jusqu'à ce qu'un petit pain doux de la consistance semblable au lobe de l'oreille se forme.",
+        "step_1": "Mélangez la farine de riz gluant et le sucre dans un saladier.",
+        "step_2": "Versez progressivement l'eau tout en pétrissant du bout des doigts, jusqu'à obtenir une pâte souple de consistance comparable au lobe de l'oreille.",
         "step_3": "Diviser la pâte en 12 boules égales en les faisant rouler entre les paumes des mains.",
         "step_4": "Plonge tes balles dans un pot d'eau bouillante.",
         "step_5": "Quand ils montent à flot, laissez cuire encore deux minutes.",
@@ -2955,7 +2955,7 @@
         "step_7": "Dans une casserole, ajoutez les pâtes de sésame noir, le sucre, la sauce soja, la mirin et l'eau.",
         "step_8": "Chauffage à feu doux en mélangeant pendant 2 minutes jusqu'à ce que la sauce soit sombre, veloutée et parfumée.",
         "step_9": "Il glisse 3 balles de danse sur chaque brochette de bambou.",
-        "step_10": "Grille légèrement les brochettes sur une poêle anti-adhérente pendant 1 minute par côté, puis nappa généreusement avec la sauce chaude au sésame noir avant de servir."
+        "step_10": "Faites légèrement griller les brochettes dans une poêle antiadhésive pendant 1 minute de chaque côté, puis nappez généreusement les dango de sauce chaude au sésame noir avant de servir."
       }
     },
     "recipe_000058": {
@@ -3045,12 +3045,12 @@
         "step_6": "Faites cuire pendant 3-4 minutes en secouant de temps en temps la casserole jusqu'à ce que toutes les palourdes s'ouvrent complètement (jetez celles qui restent fermées). Utilisez des palourdes vivantes provenant d'un fournisseur fiable. Jetez celles dont la coquille est cassée ou qui ne se referment pas au toucher avant cuisson, puis celles qui restent fermées après une cuisson complète.",
         "step_7": "Éteins le feu, ajoute le reste du beurre et un fil de sauce soja.",
         "step_8": "Amalgame délicatement pour créer un bouillon savoureux et brillant.",
-        "step_9": "Il pulvérise avec beaucoup d'herbe ciboulette fraîche et apporte à la table très chaude avec son bouillon."
+        "step_9": "Parsemez généreusement de ciboulette fraîche et servez les palourdes très chaudes avec leur jus."
       }
     },
     "recipe_000060": {
       "title": "Castella — génoise japonaise moelleuse",
-      "description": "Le Castella est un dessert haut et doux qui obtient du volume en montant longtemps des œufs et du sucre. Il s'intègre miel et farine tamisée sans démonter le composé, puis il se cuite dans le moule rectangulaire et se laisse reposer enveloppé pour stabiliser la molle. Le repos enveloppé après la cuisson aide à retenir l'humidité; la voile finale de miel complète la surface dorée.",
+      "description": "Le Castella est un biscuit japonais haut et moelleux qui doit son volume à des œufs longuement fouettés avec du sucre. Incorporez le miel et la farine tamisée sans faire retomber la pâte, puis cuisez dans un moule rectangulaire. Le repos du gâteau enveloppé préserve l'humidité de sa mie; une fine couche de miel dore sa surface.",
       "animeContext": "Cette recette s'inspire librement de Si alza il vento (Studio Ghibli), Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -3080,13 +3080,13 @@
       },
       "stepTexts": {
         "step_1": "Dans une tasse, faites fondre le miel dans l'eau tiède avec le mirin.",
-        "step_2": "Dans un grand bol, il monte les œufs avec du sucre en utilisant des fouets électriques pendant au moins 10-12 minutes.",
-        "step_3": "Jusqu'à ce que le composé devienne clair, spumeux et triple de volume.",
+        "step_2": "Dans un grand saladier, fouettez les œufs et le sucre au batteur électrique pendant au moins 10 à 12 minutes.",
+        "step_3": "Continuez jusqu'à ce que le mélange devienne pâle, mousseux et triple approximativement de volume.",
         "step_4": "Ajouter au fil le mélange de miel dans les œufs montés en continuant à mélanger à basse vitesse pendant 1 minute.",
-        "step_5": "Fouille la farine sur le composé en trois reprises, l'incorporant doucement de bas en haut avec une spatule pour ne pas démonter la pâte.",
+        "step_5": "Tamisez la farine en trois fois, puis incorporez-la délicatement à la spatule de bas en haut pour ne pas faire retomber la préparation.",
         "step_6": "Ajouter la pâte dans un moule rectangulaire doublé de papier four.",
         "step_7": "Faites cuire au four à 160°C au four statique préchauffé pendant 35-40 minutes jusqu'à ce que la surface soit dorée et qu'une tige en sorte sèche, fraîchement fourrée.",
-        "step_8": "Renversez la surface avec un voile de miel, enveloppez le gâteau dans le film transparent et laissez-la reposer dans le réfrigérateur pendant quelques heures: ce passage rendra la Castella incroyablement humide, douce et parfumée."
+        "step_8": "Badigeonnez la surface d'une fine couche de miel, enveloppez le gâteau de film alimentaire et laissez-le reposer quelques heures au réfrigérateur afin de préserver une mie moelleuse et humide."
       }
     },
     "recipe_000061": {
@@ -3431,7 +3431,7 @@
         "step_4": "Faites cuire les tranches de porc pendant environ 1,5 à 2 minutes de chaque côté jusqu'à ce qu'elles soient bien dorées.",
         "step_5": "Ajoutez la sauce au gingembre directement au-dessus de la viande dans la poêle bouillante.",
         "step_6": "Faites bouillir pendant 1 minute en agitant la poêle jusqu'à ce que la sauce devienne un glaçage brillant et parfumé.",
-        "step_7": "Il installe le cochon avec une montagne abondante de chou chevelu frais haché et mayonnaise Kewpie, en le servant avec des bols de riz blanc bien chaud."
+        "step_7": "Servez les tranches de porc avec une généreuse portion de chou frais finement émincé, de la mayonnaise Kewpie et du riz blanc bien chaud."
       }
     },
     "recipe_000066": {
@@ -3498,7 +3498,7 @@
     },
     "recipe_000067": {
       "title": "Monjayaki — galette salée grillée façon Tokyo",
-      "description": "Le Monjayaki se prépare sur une plaque avec du chou, du tenkasu et de la viande ou des fruits de mer disposés à l'anneau. Au centre, on verse une pâte très liquide à base de dashi, de farine et de sauce Worcestershire, puis le tout est étendu et laissé former une croûte à ramasser avec de petites spatules.",
+      "description": "Le Monjayaki se prépare sur une plaque chaude : chou, tenkasu et viande ou fruits de mer forment un anneau autour d'une pâte très liquide à base de dashi, farine et sauce Worcestershire. Versez la pâte au centre, laissez-la épaissir puis étalez l'ensemble jusqu'à formation d'une fine croûte. On le mange directement sur la plaque avec de petites spatules métalliques, les hagashi.",
       "animeContext": "Cette recette s'inspire librement de K-On!, March Comes in Like a Lion. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "cavolo_cappuccio_tagliato_finissimo": {
@@ -3533,13 +3533,13 @@
       "stepTexts": {
         "step_1": "Dans une cruche, combinez le bouillon dashi, la farine et la sauce Worcestershire avec un fouet.",
         "step_2": "La pâte sera beaucoup plus liquide que celle de l'Okonomiyaki.",
-        "step_3": "Sur une plaque électrique ou une poêle grande bien chaude reliez le chou, la viande/fruits de mer et le Tenkasu.",
-        "step_4": "Faites cuire en sautant les ingrédients pendant 3 minutes.",
-        "step_5": "Avec deux spatules forme un grand anneau/vulcane avec le chou au centre de la plaque, laissant un trou vide au milieu.",
+        "step_3": "Déposez le chou, la viande ou les fruits de mer et le tenkasu sur une plaque électrique ou une grande poêle bien chaude.",
+        "step_4": "Faites sauter les ingrédients pendant 3 minutes.",
+        "step_5": "Avec deux petites spatules, formez un large anneau de chou sur la plaque en laissant un creux au centre.",
         "step_6": "Ajoutez délicatement la pâte liquide au centre du volcan en deux prises, la laissant épaissir légèrement avant de mélanger tout cela ensemble.",
         "step_7": "Éteins le composé en le frottant sur la plaque.",
         "step_8": "Continuez la cuisson jusqu'à ce que la partie inférieure crée une croûte foncée et croustillante.",
-        "step_9": "Vous mangez directement à partir de la plaque avec de petites spatules métalliques (Hagashi)!"
+        "step_9": "Dégustez directement sur la plaque avec de petites spatules métalliques appelées hagashi, en prenant garde aux brûlures."
       }
     },
     "recipe_000068": {
@@ -3595,11 +3595,11 @@
       "stepTexts": {
         "step_1": "Travaille les jaunes d'œufs avec du sucre et de l'amidon de maïs.",
         "step_2": "Réchauffez le lait avec de la vanille sans faire bouillir, puis ajoutez-le sur les jaunes d'œufs.",
-        "step_3": "Remets-toi sur le feu et fais épaissir le feu en mélangeant tout le temps.",
+        "step_3": "Remettez la préparation sur feu doux et remuez sans arrêt jusqu'à ce qu'elle épaississe.",
         "step_4": "Faire refroidir couvert de film de contact.",
         "step_5": "Travaillez vos œufs avec du sucre et du miel jusqu'à ce qu'ils soient clairs.",
         "step_6": "Dissoudre la levure dans l'eau et ajouter les œufs.",
-        "step_7": "Fouillez la farine et incorporez-la délicatement.",
+        "step_7": "Tamisez la farine et incorporez-la délicatement à la pâte.",
         "step_8": "Faites reposer la pâte dans le frigo pendant 15 minutes.",
         "step_9": "Chauffez une poêle anti-adhérente légèrement huileuse et propre avec du papier absorbant.",
         "step_10": "Versez une pâte et formez un disque de 8 cm.",
@@ -3653,7 +3653,7 @@
         "step_1": "Coupez finement les biscuits et joignez-les au beurre fondu.",
         "step_2": "Compactez-les au fond d'une tourte en papier four et mettez-les au réfrigérateur pendant 15 minutes.",
         "step_3": "Dans un bol, le fromage à la crème est enduit de sucre.",
-        "step_4": "Rassemblez les œufs une à la fois en les mélangeant bien.",
+        "step_4": "Ajoutez l'œuf et mélangez soigneusement.",
         "step_5": "Combinez la crème fraîche, le jus et l'écorce de Yuzu et enfin la farine tamisée jusqu'à ce que le mélange soit lisse et velouté.",
         "step_6": "Ajoutez la crème sur la base de biscuit.",
         "step_7": "Faites cuire au four statique préchauffé à 160°C pendant environ 45-50 minutes (le centre doit rester légèrement tremblant).",
@@ -3689,11 +3689,11 @@
       "stepTexts": {
         "step_1": "Amalgame le riz glutineux avec de l'eau, du sucre et une petite goutte de colorant alimentaire rose.",
         "step_2": "Faites cuire à la vapeur ou au micro-ondes couvert pendant 6 minutes jusqu'à ce que le riz soit tendre et collant.",
-        "step_3": "Il pète légèrement le riz chaud avec un pilon afin de mélanger les grains tout en maintenant une consistance granuleuse et visible (style Kansai).",
+        "step_3": "Écrasez légèrement le riz chaud avec un pilon, en mélangeant les grains tout en conservant une texture granuleuse visible, à la manière du Kansai.",
         "step_4": "Diviser le riz rose en 6 portions égales.",
         "step_5": "Avec les mains humides, aplatissez une portion de riz sur la paume de la main, placez au centre une boule d'Anko et enveloppez le riz autour d'elle en la scellant parfaitement.",
         "step_6": "Enroulez chaque Sakura Mochi avec une feuille de cerisier salé.",
-        "step_7": "Le contraste entre le dessert de la farce et le salé aromatique de la feuille offrira le goût authentique du printemps japonais !"
+        "step_7": "Le contraste entre la douceur de la farce et la saveur salée et parfumée de la feuille évoque le printemps japonais."
       }
     },
     "recipe_000071": {
@@ -3777,7 +3777,7 @@
     },
     "recipe_000072": {
       "title": "Yakisoba traditionnel à la plancha",
-      "description": "Le Yakisoba classique se prépare en sautant des nouilles précuites avec du porc, du chou et des légumes sur la plaque. La sauce à base de Worcestershire et des condiments enveloppe les pâtes dans le wok; anori, gingembre rouge et katsuobushi complètent le plat au service. Le passage sur la plaque à feu haute alliage sauce et noodles; anori, biens shoga et katsuobushi s'ajoutent comme joint.",
+      "description": "Le yakisoba classique se prépare en faisant sauter des nouilles précuites avec du porc, du chou et des légumes sur une plaque chaude ou dans un wok. La sauce à base de Worcestershire enrobe les nouilles à feu vif; terminez par de l'aonori, du beni shoga (gingembre rouge mariné) et des flocons de bonite katsuobushi.",
       "animeContext": "Cette recette s'inspire librement de My Hero Academia, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "noodles_precotti_per_yakisoba": {
@@ -3838,12 +3838,12 @@
         "step_2": "Chauffez une plaque anti-adhérente ou un wok avec un fil d'huile.",
         "step_3": "Faites cuire votre ventre de porc en morceaux jusqu'à ce qu'il devienne légèrement croquant.",
         "step_4": "Combinez l'oignon, les carottes et le chou capuche.",
-        "step_5": "Saute à feu vif pendant 3-4 minutes en gardant les légumes croustillants.",
+        "step_5": "Faites sauter les ingrédients à feu vif pendant 3 à 4 minutes en gardant les légumes croquants.",
         "step_6": "Rincez les nouilles sous l'eau chaude pour les dégourdir, puis joignez-les dans la poêle avec 2 cuillères à soupe d'eau.",
         "step_7": "Couvrez avec un couvercle pendant 1 minute pour faire vaporiser.",
         "step_8": "Ajoutez la sauce Yakisoba préparée au-dessus des nouilles et des légumes.",
         "step_9": "Saute et amalgame vigoureusement à feu haut pendant 2 minutes jusqu'à ce que la sauce se caramel légèrement.",
-        "step_10": "Servez-vous chaud avec Aonori, Beni Shoga et des flocons de Katsuobushi."
+        "step_10": "Servez chaud, garni d'aonori, de beni shoga et de flocons de katsuobushi."
       }
     },
     "recipe_000073": {
@@ -3942,12 +3942,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Coupez le Daikon en tranches épaisses 2,5 cm, faites une croix sur un côté (pour faciliter la cuisson) et faites-le glisser dans de l'eau de riz pendant 15 minutes.",
-        "step_2": "Il flotte aussi les triangles de Konnyaku pendant 2 minutes pour éliminer l'odeur.",
+        "step_1": "Coupez le daikon en rondelles de 2,5 cm, entaillez une croix sur une face et faites-le blanchir dans de l'eau de cuisson du riz pendant 15 minutes.",
+        "step_2": "Blanchissez également les triangles de konnyaku pendant 2 minutes pour atténuer leur odeur.",
         "step_3": "Dans une grande casserole d'Oden (Donabe ou casserole importante), combinez le bouillon dashi, la sauce de soja claire, le Mirin et le sel.",
         "step_4": "Chaud à feu moyen.",
         "step_5": "Insérez dans la casserole le Daikon fauché, le Konnyaku, les œufs durs et les gâteaux de poisson.",
-        "step_6": "Laissez glisser très bas pendant au moins 45-60 minutes sans jamais faire bouillir très fort.",
+        "step_6": "Laissez mijoter à feu très doux pendant 45 à 60 minutes, sans ébullition vigoureuse.",
         "step_7": "Combinez les chaussons Kinchaku au cours des 10 dernières minutes pour adoucir le mochi à l'intérieur sans les casser.",
         "step_8": "Servez très chaud au centre de la table en retirant les ingrédients avec du bouillon et en accompagnant avec de la moutarde Karashi."
       }
@@ -4104,9 +4104,9 @@
       },
       "stepTexts": {
         "step_1": "Dans une casserole, ajoutez de la sauce soja, Mirin, Sake et du sucre.",
-        "step_2": "Faites glisser au feu bas pendant 5 minutes jusqu'à ce que la sauce s'épaississe et devienne silencieuse et brillante, Si l'anguille est congelée, décongelez-la complètement au réfrigérateur.",
+        "step_2": "Laissez mijoter la sauce 5 minutes à feu doux, jusqu'à ce qu'elle soit brillante et sirupeuse. Si l'anguille est surgelée, décongelez-la entièrement au réfrigérateur.",
         "step_3": "Adapte les filets sur une plaque recouverte de papier four.",
-        "step_4": "Pincez-les avec la sauce Tare et chauffez-les dans un four ventilé ou sous le gril à 200°C pendant 6-8 minutes jusqu'à ce que la surface s'envole et devienne caramélisée.",
+        "step_4": "Badigeonnez les filets de sauce tare et réchauffez-les au four ventilé ou sous le gril à 200 °C pendant 6 à 8 minutes, jusqu'à ce que la surface bouillonne et caramélise.",
         "step_5": "Remplissez les bols (Donburi) avec du riz blanc chaud.",
         "step_6": "Nappez le riz avec une cuillère à soupe de sauce Unagi Tare chaude.",
         "step_7": "Coupez les filets d'anguille en deux et installez-les doucement au-dessus du riz.",
@@ -4186,7 +4186,7 @@
     },
     "recipe_000079": {
       "title": "Kani cream korokke — croquettes fondantes au crabe",
-      "description": "Les Kani Cream Korokke contiennent une farce crémeuse de crabe, d'oignon et de béchamel dans une panure croustillante. Le composé est refroidi avant de former les croquettes; après la friture, ils servent chauds avec de la sauce tonkatsu. Le cœur crémeux du crabe contraste avec la panure dorée: après la friture, les croquettes s'avalent et se servent de tonkatsu.",
+      "description": "Les Kani Cream Korokke sont des croquettes panées et croustillantes, garnies d'un mélange crémeux de crabe, d'oignon et de béchamel épaisse. Refroidissez la farce pour pouvoir la façonner, panez les croquettes ovales et faites-les frire jusqu'à ce qu'elles soient dorées. Égouttez et servez chaudes avec une sauce tonkatsu.",
       "animeContext": "Cette recette s'inspire librement de Isekai Shokudo (Restaurant to Another World), Spy x Family. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "polpa_di_granchio": {
@@ -4239,11 +4239,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Dans une casserole, faites fondre le beurre et mangez l'oignon à feu doux sans le faire dorer.",
+        "step_1": "Faites fondre le beurre dans une poêle et faites doucement revenir l'oignon haché à feu doux sans le faire dorer.",
         "step_2": "Combinez la farine et laissez cuire pendant 2 minutes en mélangeant (roux).",
         "step_3": "Ajoutez le lait chaud au fil en mélangeant avec le fouet jusqu'à ce qu'on crée une crème besciamel très dense et lisse.",
         "step_4": "Combinez la pulpe de crabe, règle de sel, poivre et noix de muscade.",
-        "step_5": "Ajoutez le composé sur une plaque plate, couvrez en contact avec le film et mettez au réfrigérateur pendant au moins 1 heure jusqu'à ce qu'il soit solide et modelé.",
+        "step_5": "Étalez la préparation dans un plat peu profond, couvrez de film alimentaire au contact et réfrigérez au moins 1 heure, jusqu'à ce qu'elle soit assez ferme pour être façonnée.",
         "step_6": "Avec les mains légèrement huilées, divisez le composé froid en 8 portions ovales.",
         "step_7": "Il passe chaque croquette dans la farine, puis dans l'œuf claqué, puis dans le Panko, le faisant bien adhérer.",
         "step_8": "Fritez en huile chaude à 180°C pendant 3 minutes jusqu'à ce que vous soyez dorés et croquants.",
@@ -4269,7 +4269,7 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Coquilles de citron ou de Sudachi",
+          "name": "tranches de citron ou de sudachi",
           "note": null
         },
         "salsa_di_soia_per_servire": {
@@ -4278,8 +4278,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "Rincer les poissons Sanma en les laissant entiers (la tradition japonaise prévoit la cuisson avec les entrailles pour un goût agréablement amer). Le sanma est le balaou du Pacifique (Cololabis saira), pas un brochet. Pour une préparation domestique, prenez du poisson nettoyé et vidé ou faites-le préparer par le poissonnier ; vérifiez la cuisson dans la partie la plus épaisse.",
-        "step_2": "Inciter la peau avec 3 découpes diagonales de chaque côté.",
+        "step_1": "Utilisez du sanma (balaou du Pacifique, Cololabis saira) déjà nettoyé et vidé par le poissonnier. Faites-le cuire complètement et vérifiez la partie la plus épaisse ; ne conservez pas les viscères pour cette préparation domestique.",
+        "step_2": "Incisez légèrement la peau avec trois entailles diagonales de chaque côté.",
         "step_3": "Il pulvérise généreusement de gros sel et laisse reposer 10 minutes.",
         "step_4": "Sèche l'humidité libérée par le sel avec du papier absorbant.",
         "step_5": "Faites cuire les poissons sur une grille brûlante ou sur la plaque du four à 220°C pendant environ 6 à 7 minutes par côté.",
@@ -4529,7 +4529,7 @@
         "step_4": "Ajoutez la sauce dans un grand pirofil.",
         "step_5": "Coupez le poulet en petits morceaux.",
         "step_6": "Mets-le dans l'oeuf claqué.",
-        "step_7": "Fritez dans de l'huile de graines à 170°C pendant 5-6 minutes jusqu'à ce qu'elle soit dorée.",
+        "step_7": "Faites frire dans une huile à 170 °C jusqu'à ce que le poulet soit doré, environ 5 à 6 minutes ; vérifiez au thermomètre une température à cœur d'au moins 74 °C.",
         "step_8": "Prélevez le poulet bouillant fraîchement frit et plongez-le immédiatement dans la sauce douce Namban-zu pendant 1 minute, en le tournant de chaque côté pour absorber l'assaisonnement acide-doux.",
         "step_9": "Placez le poulet dans les assiettes et couvrez la surface avec une généreuse cuillère à soupe de sauce tartare crémeuse."
       }
@@ -5473,7 +5473,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Coupez la citrouille en morceaux et laissez-la cuire à la vapeur pendant 15 minutes jusqu'à ce qu'elle soit tendre.",
+        "step_1": "Coupez la courge kabocha en morceaux et faites-la cuire à la vapeur environ 15 minutes, jusqu'à ce qu'elle soit tendre.",
         "step_2": "Puis écrasez-la avec un presse-papiers en tenant la peau et en éliminant l'humidité excédentaire.",
         "step_3": "Rousse l'oignon et la viande hachée dans le beurre jusqu'à ce qu'elles soient bien cuites et saupoudrées de sel et de poivre.",
         "step_4": "Joignez la viande à la purée de citrouille, mélangez bien et laissez refroidir la pâte.",
@@ -5708,7 +5708,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Nettoyez soigneusement les abats; frottez-les avec du sel et peu de farine, rincez-les plusieurs fois et coupez-les en morceaux réguliers. Utilisez uniquement des tripes ou abats vendus déjà nettoyés et précuits, conformément aux consignes du fabricant. Les 10 à 15 minutes servent au réchauffage final et ne suffisent PAS pour cuire des abats crus.",
+        "step_1": "Utilisez uniquement des tripes ou abats déjà nettoyés et précuits, conformément aux instructions du fournisseur. Coupez-les en morceaux réguliers avec des ustensiles propres ; les 10 à 15 minutes de réchauffage ne suffisent pas à cuire des abats crus.",
         "step_2": "Débollental pendant environ 1 minute, écolière et rincée: cette phase élimine les impuretés et une partie de l'odeur sans trop dissoudre la graisse.",
         "step_3": "Prépare le bouillon avec le dashi, l’ail, le piment et le miso ou la sauce soja. Assaisonne-le suffisamment, car le chou et le tofu en atténueront le goût.",
         "step_4": "Placez le chou sur le fond du nabe, ajoutez du tofu et des abats et versez le bouillon jusqu'à couvrir partiellement les ingrédients.",
@@ -5966,7 +5966,7 @@
       "stepTexts": {
         "step_1": "Lave et brosse la bardane, coupe-la en allumette et mets-la dans l'eau pendant environ 5 minutes pour en limiter l'oxydation et atténuer l'astringence.",
         "step_2": "Coupez la carotte en bâtonnets de la même taille et égouttez très bien la bardane.",
-        "step_3": "Chauffez l'huile de sésame dans la poêle et sautez bardane et carotte à feu moyen-haut pendant 3-4 minutes.",
+        "step_3": "Chauffez l’huile de sésame dans la poêle et faites revenir la bardane et la carotte à feu moyen-vif pendant 3 à 4 minutes.",
         "step_4": "Ajoute le sucre et le mirin, puis remue jusqu’à dissolution du sucre, lorsque les légumes commencent à se glacer.",
         "step_5": "Versez la sauce soja et continuez à sauter jusqu'à ce que le liquide soit presque complètement évaporé.",
         "step_6": "Goûtez: la bardane doit être cuite mais encore légèrement croustillante.",
@@ -6194,9 +6194,9 @@
       },
       "stepTexts": {
         "step_1": "Coiffe du chou et de la carotte, coupe le porc en morceaux et sépare les nouilles yakisoba avec les mains.",
-        "step_2": "Chauffez une grande poêle, roulez le porc et ajoutez de la carotte, du chou et d'éventuelles pousses; sautez jusqu'à ce que les légumes commencent à se ramollir.",
+        "step_2": "Chauffez une grande poêle, faites dorer le porc, puis ajoutez la carotte, le chou et les pousses éventuelles; faites sauter jusqu’à ce que les légumes commencent à s’attendrir.",
         "step_3": "Ajoutez les nouilles et quelques cuillères à soupe d'eau, couvrez pendant 1 à 2 minutes puis séparez-les complètement.",
-        "step_4": "Assaisonnez avec de la sauce yakisoba et sautez jusqu'à ce que le fond soit sec et les nouilles sont bien recouvertes; écartez-vous de la chaleur.",
+        "step_4": "Ajoutez la sauce yakisoba et faites sauter jusqu’à évaporation de l’excès de liquide et jusqu’à ce que les nouilles soient bien enrobées; réservez au chaud.",
         "step_5": "Battre les œufs avec du lait et une pincée de sel, puis cuire dans une poêle propre une omelette fine encore douce au centre.",
         "step_6": "Placez une portion de yakisoba au centre de la karma, repliez les bords et renversez le plat avec la fermeture vers le bas.",
         "step_7": "Complétez avec la sauce yakisoba, la mayonnaise Kewpie et les aonori; ajoutez des biens shoga ou katsuobushi si prévu.",
@@ -6882,7 +6882,7 @@
         "step_3": "Mélanger miso, sucre, mirin et saké dans une casserole et cuire à feu doux pendant environ 2 minutes, jusqu'à ce que le glaçage soit lisse et assez dense pour adhérer.",
         "step_4": "Grille le tofu 2-3 minutes par côté sur la plaque bien chaude, jusqu'à ce qu'une légère dorure apparaît.",
         "step_5": "Stylo une première fois avec la sauce miso et laisse sécher pendant environ 30 secondes.",
-        "step_6": "Ajoutez une deuxième couche de glaçage et passez sous le grill pendant 1 à 2 minutes, en continuant de vérifier pourquoi le miso sucré brûle facilement.",
+        "step_6": "Appliquez une deuxième couche de glaçage au miso sur le tofu et passez les brochettes sous le gril du four pendant 1 à 2 minutes. Surveillez sans interruption, car le glaçage sucré brûle facilement.",
         "step_7": "Complétez avec du sésame grillé et servez chaud."
       }
     },
@@ -6927,7 +6927,7 @@
       "stepTexts": {
         "step_1": "Détache délicatement les nouilles udon dans l’eau bouillante pendant environ 1 minute, égoutte-les et sépare-les sans les casser.",
         "step_2": "Coiffe le chou, la carotte et l'oignon en morceaux fins et prépare les sauces avant de chauffer le wok.",
-        "step_3": "Chauffez l'huile de sésame à feu élevé et sautez d'abord l'oignon et la carotte pendant 1 à 2 minutes.",
+        "step_3": "Chauffez l’huile de sésame à feu vif et faites d’abord revenir l’oignon et la carotte pendant 1 à 2 minutes.",
         "step_4": "Ajoutez le chou et continuez la cuisson pendant 2 minutes, laissant les légumes encore légèrement croustillants.",
         "step_5": "Ajoute les nouilles udon et fais-les sauter à feu vif jusqu’à ce qu’elles soient bien chaudes.",
         "step_6": "Versa sauce yakisoba/tonkatsu et sauce soja le long du bord chaud de wok et mélange rapidement pour revêtir toutes les nouilles.",
@@ -7067,7 +7067,7 @@
       "stepTexts": {
         "step_1": "Soie de farine et Matcha dans un bol.",
         "step_2": "Mélangez le sucre et les œufs, puis ajoutez le lait tiède et le beurre fondu en mélangeant avec un fouet jusqu'à obtenir une pâte liquide et sans grumeaux.",
-        "step_3": "Repos dans le frigo pendant 30 minutes.",
+        "step_3": "Laissez reposer la pâte au réfrigérateur pendant 30 minutes.",
         "step_4": "Faites cuire environ 15-20 crêpes très fines dans une poêle antiadhérente légèrement beurrée, laissez-les refroidir complètement.",
         "step_5": "Montez la crème avec le sucre à voile et le Matcha, puis ajoutez-la à la crème pâtissière.",
         "step_6": "Assembler le dessert en plaçant la première fissure sur un plat, enduire une fine couche de crème et couvrir avec une autre fissure.",
@@ -7151,7 +7151,7 @@
       },
       "stepTexts": {
         "step_1": "Diviser l'anko en six boules égales et les garder couvertes; nettoyer le plan de travail avec de l'amidon de maïs ou de fécule.",
-        "step_2": "Mélangez de la farine de riz à base d'glutinos, du sucre, du matcha et de l'eau dans un bol adapté au micro-ondes jusqu'à ce qu'il reste des grumeaux secs.",
+        "step_2": "Mélangez farine de riz gluant, sucre, matcha et eau dans un récipient adapté au micro-ondes jusqu'à disparition des grumeaux secs.",
         "step_3": "Couvrez en laissant une éruption et faites cuire à 600 W pendant environ 90 secondes.",
         "step_4": "Mélanger avec une spatule humide et cuire encore environ 60 secondes, jusqu'à ce que la pâte soit brillante, élastique et uniformément cuit.",
         "step_5": "Transférez immédiatement la masse chaude sur le plateau pulvérisé, couvrez-la avec un autre amidon et laissez-la tièder suffisamment pour pouvoir la manipuler.",

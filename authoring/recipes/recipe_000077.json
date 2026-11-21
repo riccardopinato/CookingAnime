@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000077",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -145,7 +145,7 @@
         "step_3": "Place the fillets on a baking sheet covered with baking paper.",
         "step_4": "Brush them with the Tare sauce and heat them in a ventilated oven or under the grill at 200°C for 6-8 minutes until the surface simmers and becomes caramelized.",
         "step_5": "Fill the bowls (Donburi) with hot white rice.",
-        "step_6": "Taste the rice with a spoonful of warm Unagi Tare sauce.",
+        "step_6": "Spoon some warm unagi tare sauce over the rice.",
         "step_7": "Cut the eel fillets in half and lay gently over the rice.",
         "step_8": "Brush with another veil of sauce and dust with a pinch of Sansho aromatic pepper."
       }
@@ -231,13 +231,13 @@
       },
       "steps": {
         "step_1": "En una olla, combina salsa de soja, Mirin, Sake y azúcar.",
-        "step_2": "Hacer que el fuego baje durante 5 minutos hasta que la salsa se espese convirtiéndose en jarabea y brillante, Si la anguila está congelada, descárgala completamente en la nevera.",
+        "step_2": "Deja que la salsa hierva suavemente durante 5 minutos, hasta que espese y quede brillante y almibarada. Si la anguila está congelada, descongélala por completo en el frigorífico.",
         "step_3": "Ajusta los filetes sobre una bandeja cubierta de papel de horno.",
-        "step_4": "Apriétalos con la salsa Tare y calientalos en el horno ventilado o debajo de la parrilla a 200°C durante 6-8 minutos hasta que la superficie suene y se convierte en caramelizada.",
+        "step_4": "Pincela los filetes con salsa tare y caliéntalos en el horno ventilado o bajo el grill a 200 °C durante 6–8 minutos, hasta que la superficie burbujee y se caramelice.",
         "step_5": "Llena los cuencos (Donburi) con arroz blanco caliente.",
-        "step_6": "Nappa el arroz con una cucharada de salsa Unagi Tare caliente.",
+        "step_6": "Rocía el arroz con una cucharada de salsa unagi tare caliente.",
         "step_7": "Corta los filetes de anguila por la mitad y agáchalos suavemente sobre el arroz.",
-        "step_8": "Espinilla con otro velo de salsa y espolvorear con una pizca de pimienta Sansho aromática."
+        "step_8": "Pincela con otra capa fina de salsa y espolvorea una pizca de pimienta sanshō."
       }
     },
     "fr": {
@@ -276,9 +276,9 @@
       },
       "steps": {
         "step_1": "Dans une casserole, ajoutez de la sauce soja, Mirin, Sake et du sucre.",
-        "step_2": "Faites glisser au feu bas pendant 5 minutes jusqu'à ce que la sauce s'épaississe et devienne silencieuse et brillante, Si l'anguille est congelée, décongelez-la complètement au réfrigérateur.",
+        "step_2": "Laissez mijoter la sauce 5 minutes à feu doux, jusqu'à ce qu'elle soit brillante et sirupeuse. Si l'anguille est surgelée, décongelez-la entièrement au réfrigérateur.",
         "step_3": "Adapte les filets sur une plaque recouverte de papier four.",
-        "step_4": "Pincez-les avec la sauce Tare et chauffez-les dans un four ventilé ou sous le gril à 200°C pendant 6-8 minutes jusqu'à ce que la surface s'envole et devienne caramélisée.",
+        "step_4": "Badigeonnez les filets de sauce tare et réchauffez-les au four ventilé ou sous le gril à 200 °C pendant 6 à 8 minutes, jusqu'à ce que la surface bouillonne et caramélise.",
         "step_5": "Remplissez les bols (Donburi) avec du riz blanc chaud.",
         "step_6": "Nappez le riz avec une cuillère à soupe de sauce Unagi Tare chaude.",
         "step_7": "Coupez les filets d'anguille en deux et installez-les doucement au-dessus du riz.",
@@ -321,11 +321,11 @@
       },
       "steps": {
         "step_1": "In einem Topf, fügen Sie Soja-Sauce, Mirin, Sake und Zucker.",
-        "step_2": "Lassen Sie die Soße 5 Minuten lang mit niedrigem Feuer auftauen, bis die Soße sich verdichtet und saftig und glänzend wird, wenn der Aal gefroren ist, kühlen Sie sie vollständig im Kühlschrank auf.",
-        "step_3": "Passen Sie die Gewinde auf einem Backpapierblech an.",
-        "step_4": "Mit der Tare-Soße kämmen und im Ofen oder unter dem Grill bei 200 °C für 6-8 Minuten erwärmen, bis die Oberfläche weich und karamelliert wird.",
+        "step_2": "Die Sauce bei niedriger Hitze etwa 5 Minuten sanft einkochen lassen, bis sie sirupartig und glänzend ist. Tiefgefrorenen Aal vollständig im Kühlschrank auftauen.",
+        "step_3": "Die Aalfilets auf ein mit Backpapier belegtes Backblech legen.",
+        "step_4": "Die Filets mit Tare-Sauce bestreichen und im Umluftofen oder unter dem Grill bei 200 °C etwa 6–8 Minuten erhitzen, bis die Oberfläche Blasen wirft und karamellisiert.",
         "step_5": "Füllen Sie die Schalen (Donburi) mit dem warmen weißen Reis.",
-        "step_6": "Nappa Reis mit einem Esslöffel Unagi Tare heißer Soße.",
+        "step_6": "Etwas warme Unagi-Tare-Sauce über den Reis geben.",
         "step_7": "Schneide die Aalfilets in die Mitte und lege sie vorsichtig über den Reis.",
         "step_8": "Bestreichen Sie mit einem weiteren Schleier von Soße und Staub mit einem Hauch von Pfeffer Sansho Aroma."
       }
@@ -370,9 +370,9 @@
         "step_3": "Coloque os filetes em uma folha de cozimento coberta com papel de cozimento.",
         "step_4": "Escove- os com o molho Tare e aqueça- os em um forno ventilado ou sob a grelha a 200°C durante 6-8 minutos até que a superfície aqueça e se torne caramelizada.",
         "step_5": "Preencha as tigelas (Donburi) com arroz branco quente.",
-        "step_6": "Prove o arroz com uma colher cheia de molho Tare Unagi quente.",
+        "step_6": "Regue o arroz com uma colher de sopa de molho unagi tare quente.",
         "step_7": "Cortar os filetes de enguia ao meio e deitar suavemente sobre o arroz.",
-        "step_8": "Escove com outro véu de molho e poeira com uma pitada de pimenta aromática Sansho."
+        "step_8": "Pincele com mais uma camada fina de molho e polvilhe com uma pitada de pimenta sanshō."
       }
     }
   }

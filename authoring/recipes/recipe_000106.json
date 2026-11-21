@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000106",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "My Neighbor Totoro",
   "animeReferences": [
@@ -122,12 +122,12 @@
         }
       },
       "steps": {
-        "step_1": "Escoge el tamaño de tu cuerpo, lava con cuidado sin pelar ni secar bien.",
-        "step_2": "Bucherella la piel en algunos puntos con un palillo para favorecer una cocción uniforme.",
+        "step_1": "Elige boniatos satsumaimo de tamaño parecido, lávalos bien sin pelarlos y sécalos.",
+        "step_2": "Pincha la piel en varios puntos con un palillo para facilitar una cocción uniforme.",
         "step_3": "Para una pulpa más cremosa envuelve cada patata en papel de cocina recién húmedo y luego en aluminio; para una cáscara más seca sólo utiliza aluminio.",
-        "step_4": "Cocinar en horno estático a 180-190°C durante unos 60-75 minutos, girando los cartujos a mitad de cocción.",
+        "step_4": "Ásalos en horno convencional a 180–190 °C durante 60–75 minutos, girando los paquetes a mitad de cocción.",
         "step_5": "Compruebe poniendo un palillo en el punto más grueso: debe entrar sin resistencia y la pulpa debe ser suave hasta el centro.",
-        "step_6": "Deja reposar en la cartuchera durante 5-10 minutos, por lo que el vapor completa la cocción.",
+        "step_6": "Déjalos reposar envueltos durante 5–10 minutos para que el vapor termine la cocción.",
         "step_7": "Abra, divida por la mitad y sirva caliente; la sal es opcional y sólo se debe añadir al servicio."
       }
     },
@@ -162,12 +162,12 @@
         }
       },
       "steps": {
-        "step_1": "Wählen Sie die gleichen Abmessungen aus, waschen Sie sorgfältig, ohne sie zu schälen und trocknen Sie sie gut.",
-        "step_2": "Bucherella die Schale an einigen Stellen mit einem Stuck, um eine gleichmäßige Kochen zu fördern.",
+        "step_1": "Satsumaimo-Süßkartoffeln ähnlicher Größe auswählen, gründlich waschen, nicht schälen und gut abtrocknen.",
+        "step_2": "Die Schale an einigen Stellen mit einem Zahnstocher einstechen, damit die Kartoffeln gleichmäßig garen.",
         "step_3": "Für ein cremigeres Fruchtfleisch wickeln Sie jede Kartoffel in frisch feuchtem Küchenpapier und dann in Aluminium um; für eine trockenere Schale verwenden Sie nur Aluminium.",
-        "step_4": "Kochen Sie im statischen Ofen bei 180-190 °C für ca. 60-75 Minuten, indem Sie die Stücke in der Mitte des Kochens drehen.",
+        "step_4": "Im vorgeheizten Ofen bei 180–190 °C etwa 60–75 Minuten backen und die Päckchen nach der Hälfte der Zeit wenden.",
         "step_5": "Prüfen Sie, indem Sie einen Stift in die dickste Stelle stecken: Sie muss ohne Widerstand eindringen und das Fruchtfleisch muss bis zur Mitte weich sein.",
-        "step_6": "Lassen Sie sich 5-10 Minuten in der Tüte ausruhen, so dass der Dampf das Kochen ergänzt.",
+        "step_6": "Die Päckchen geschlossen 5–10 Minuten ruhen lassen, damit der Dampf die Garung abschließt.",
         "step_7": "Öffnen, teilen in der Mitte und warme Servieren; das Salz ist optional und sollte nur zum Service hinzugefügt werden."
       }
     },
@@ -182,10 +182,10 @@
         }
       },
       "steps": {
-        "step_1": "Escolha tamanhos semelhantes, lave- os cuidadosamente sem descascá- los e seque- os bem.",
+        "step_1": "Escolha batatas-doces satsumaimo de tamanho semelhante, lave-as bem sem descascar e seque-as.",
         "step_2": "Bucherella a pele em alguns lugares com um palito de dentes para facilitar um cozimento uniforme.",
         "step_3": "Para uma polpa mais cremosa, enrole cada batata em papel de cozinha recém- úmido e, em seguida, em alumínio; para uma pele seca, use apenas alumínio.",
-        "step_4": "Cozinhe em um forno estático a 180-190°C por cerca de 60- 75 minutos, virando a papelada em meio cozimento.",
+        "step_4": "Asse no forno convencional a 180–190 °C durante 60–75 minutos, virando os embrulhos a meio da cozedura.",
         "step_5": "Verifique colando um palito de dentes no ponto mais grosso: ele deve entrar sem resistência e a polpa deve ser suave ao centro.",
         "step_6": "Deixe para ficar fechado no papel por 5-10 minutos, para que o vapor complete o cozimento.",
         "step_7": "Abrir, dividir ao meio e servir quente; o sal é opcional e só deve ser adicionado ao serviço."

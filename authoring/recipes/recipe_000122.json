@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000122",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Grand Blue",
   "animeReferences": [
@@ -157,7 +157,7 @@
       },
       "steps": {
         "step_1": "Prepara el shiratama mezclando harina de arroz glutinoso y agua poco a poco hasta obtener una masa suave y modelable.",
-        "step_2": "Forma pequeñas bolas, cóciles en agua hirviendo hasta que suben a la superficie y continúan durante 1-2 minutos; enfríalas inmediatamente en agua y hielo.",
+        "step_2": "Forma bolitas y cuécelas en agua hirviendo hasta que floten; continúa la cocción 1–2 minutos y enfríalas enseguida en agua con hielo.",
         "step_3": "Corta la sandía en cubos o pequeñas esferas, elimina las semillas y enfría bien en la nevera.",
         "step_4": "Escurrir los shiratama y secar ligeramente para no diluir la bebida.",
         "step_5": "Distribuir sandía y shiratama en vasos muy fríos.",
@@ -212,13 +212,13 @@
         }
       },
       "steps": {
-        "step_1": "Bereiten Sie die Shiratama durch Mischen glutinös Reismehl und Wasser nach und nach bis zu einem weichen und modellierbaren Teig.",
-        "step_2": "Formen Sie kleine Kugeln, kochen Sie in kochendem Wasser, bis sie ans Wasser steigen und für 1-2 Minuten fortfahren; kühlen Sie sie sofort in Wasser und Eis.",
+        "step_1": "Shiratama-Reismehl mit Wasser nach und nach zu einem weichen, formbaren Teig verkneten.",
+        "step_2": "Kleine Kugeln formen, in kochendes Wasser geben und nach dem Auftauchen weitere 1–2 Minuten garen; sofort in Eiswasser abkühlen.",
         "step_3": "Schneiden Sie die Wassermelone in Würfel oder kleine Kugeln, entfernen Sie die Samen und kühlen Sie sie gut im Kühlschrank.",
-        "step_4": "Schütten Sie die Shiratamas und trocknen Sie sie leicht, um das Getränk nicht zu verdünnen.",
+        "step_4": "Die Shiratama abgießen und leicht trockentupfen, damit sie das Getränk nicht verdünnen.",
         "step_5": "Geben Sie Wassermelone und Shiratama in sehr kalten Gläsern.",
-        "step_6": "Fügen Sie kalte Seltz oder eine transparente Limone zu Zitrone nur zum Zeitpunkt der Dienstleistung.",
-        "step_7": "Servieren Sie sofort mit einem Löffel oder einem breiten Strohhalm; halten Sie Ihr Dessert kalt, aber lassen Sie die Shiratama nicht stundenlang untertauchen."
+        "step_6": "Erst kurz vor dem Servieren eiskaltes Sodawasser oder ein klares Zitronengetränk zugießen.",
+        "step_7": "Sofort mit einem Löffel oder breiten Trinkhalm servieren; die Shiratama nicht stundenlang im Getränk lassen."
       }
     },
     "pt": {
@@ -243,10 +243,10 @@
         "step_1": "Prepare os shiratamas misturando farinha de arroz glutinoso e água pouco de cada vez até obter uma massa macia e modelável.",
         "step_2": "Forma bolas pequenas, cozinhá- las em água fervente até que cheguem à superfície e continuem por 1-2 minutos; imediatamente esfriá- las em água e gelo.",
         "step_3": "Cortar a melancia em cubos ou bolas pequenas, remover as sementes e esfriar na geladeira.",
-        "step_4": "Esgote os shiratamas e seque- os ligeiramente para que a bebida não seja diluída.",
+        "step_4": "Escorra os shiratama e seque-os levemente para não diluir a bebida.",
         "step_5": "Distribua melancia e shiratama em copos muito frios.",
-        "step_6": "Adicione sorvete frio ou uma bebida transparente de limão apenas no momento do serviço.",
-        "step_7": "Sirva imediatamente com uma colher de chá ou palha larga; mantenha a sobremesa fria, mas não deixe o shiratama imerso por horas."
+        "step_6": "Adicione água com gás bem fria ou um refrigerante transparente de limão apenas ao servir.",
+        "step_7": "Sirva imediatamente com colher ou palhinha larga; mantenha a sobremesa fria sem deixar os shiratama submersos durante horas."
       }
     }
   }

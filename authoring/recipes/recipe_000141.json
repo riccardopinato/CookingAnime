@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000141",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Gintama",
   "animeReferences": [
@@ -226,9 +226,9 @@
       "steps": {
         "step_1": "Pon la gelatina en agua muy fría durante unos 10 minutos, hasta que esté completamente suave.",
         "step_2": "Mezcla leche, nata, azúcar y pasta de sésamo negro en una olla.",
-        "step_3": "Caliente a fuego bajo mezclando con las varillas hasta que el compuesto es uniforme y el azúcar se disuelve, sin llegar a hervir.",
+        "step_3": "Calienta a fuego bajo y remueve con unas varillas hasta obtener una mezcla uniforme y disolver el azúcar, sin que llegue a hervir.",
         "step_4": "Saca el fuego, aprieta bien la gelatina e incrustala hasta que esté completamente derretida.",
-        "step_5": "Filtra el compuesto a través de un colador fino para eliminar cualquier residuo y obtener una textura más suave.",
+        "step_5": "Cuela la mezcla por un colador fino para eliminar residuos y conseguir una textura más suave.",
         "step_6": "Vierta en las copas, deja encoger y mudate a la nevera por al menos 3 horas.",
         "step_7": "Guarniciones con poca crema montada y sésamo negra tostada sólo en el momento del servicio."
       }
@@ -316,8 +316,8 @@
         "step_2": "Mischen Sie Milch, Sahne, Zucker und schwarze Sesampaste in einen Topf.",
         "step_3": "Bei schwacher Hitze mit dem Schneebesen rühren, bis die Masse gleichmäßig ist und sich der Zucker gelöst hat, ohne sie aufkochen zu lassen.",
         "step_4": "Entfernen Sie das Feuer, drücken Sie die Gelatine gut und integrieren Sie sie, bis sie vollständig aufgelöst ist.",
-        "step_5": "Filtern Sie die Verbindung durch ein feines Colino, um Rückstände zu entfernen und eine glattere Textur zu erhalten.",
-        "step_6": "Gießen Sie sie in die Gläser, lassen Sie sie einschüchtern und ziehen Sie für mindestens 3 Stunden in den Kühlschrank.",
+        "step_5": "Die Mischung durch ein feines Sieb abseihen, um Rückstände zu entfernen und eine glattere Konsistenz zu erzielen.",
+        "step_6": "In kleine Gläser füllen, etwas abkühlen lassen und mindestens 3 Stunden in den Kühlschrank stellen.",
         "step_7": "Grillen Sie mit wenig Schlagsahne und schwarzem Sesam nur zum Zeitpunkt des Service."
       }
     },

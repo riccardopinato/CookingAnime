@@ -40,7 +40,7 @@ jobs:
           python3 -m unittest discover -s tool/tests -p 'test_fast_track_inventory_lexical.py' -v
       - name: Pin and retrieve central App Factory engine
         env:
-          CORE_SHA: 827a271dcbd8f1608afabb60ca07184b20926991
+          CORE_SHA: d90c274cd33a9e727e070aa9fa45a506c2ae13c5
         run: |
           mkdir -p build/semantic_qa
           curl --fail --location --silent --show-error --retry 3 \
@@ -65,6 +65,41 @@ jobs:
             --cache .semantic-qa-cache/cooking.json \
             --workers 4 --batch-size 100 --provider offline
           python3 tool/semantic_qa_adapter.py --verify-report build/semantic_qa/report.json
+      - name: Language Engine v1.1.2 — offline memory, numeric hints and source-bound QA
+        env:
+          LANGUAGE_SHA: 9391419c6b7c9c23c2f978262fe8fe6670c68160
+        run: |
+          curl --fail --location --silent --show-error --retry 3 \
+            "https://raw.githubusercontent.com/riccardopinato/App-Factory-Core/$LANGUAGE_SHA/reference_engines/language_engine/language_engine.py" \
+            -o build/semantic_qa/language_engine.py
+          python3 -m py_compile build/semantic_qa/language_engine.py
+          python3 build/semantic_qa/language_engine.py \
+            --input build/semantic_qa/input.json \
+            --semantic-report build/semantic_qa/report.json \
+            --report build/semantic_qa/language_report.json --batch-size 100
+      - name: Cross-check exact input fingerprint and non-certification
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          folder = Path("build/semantic_qa")
+          semantic = json.loads((folder / "report.json").read_text(encoding="utf-8"))
+          language = json.loads((folder / "language_report.json").read_text(encoding="utf-8"))
+          assert semantic["inputFingerprint"] == language["inputFingerprint"]
+          assert semantic["comparisonCount"] == language["comparisons"] == 810
+          assert semantic["recordCount"] == language["sourceRecords"] == 162
+          assert semantic["certification"] == language["certification"] == "NOT_CERTIFIED"
+          assert language["providerCalls"] == 0 and not language["publicationAuthorized"]
+          print(json.dumps({
+              "sourceBound": True, "compared": 810,
+              "translationPairsToReview": language["states"],
+              "safeNumberFormHints": language["numericFormNormalizationHints"],
+              "certification": "NOT_CERTIFIED",
+          }, ensure_ascii=False))
+          PY
+      - name: Re-audit 162 x 6 runtime catalog and UI localization keys
+        run: |
+          python3 tool/full_catalog_qa.py --report build/semantic_qa/full_catalog_qa.json
       - name: Inventory 112 legacy recipes for visible editorial gaps (zero API calls)
         run: |
           python3 tool/fast_track_recipe_inventory.py --output build/semantic_qa/cooking_inventory.json
@@ -85,5 +120,7 @@ jobs:
           path: |
             build/semantic_qa/report.json
             build/semantic_qa/cooking_inventory.json
+            build/semantic_qa/language_report.json
+            build/semantic_qa/full_catalog_qa.json
           if-no-files-found: ignore
           retention-days: 14

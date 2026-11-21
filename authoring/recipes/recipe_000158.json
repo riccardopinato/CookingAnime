@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000158",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "K-On!",
   "animeReferences": [
@@ -144,7 +144,7 @@
         "step_2": "Combine seed oil and warm water while stirring.",
         "step_3": "Slice the flour together with Matcha tea and embed the egg yolks with a whisk.",
         "step_4": "In another well-cleaned bowl, mount the egg whites with the cream tartaro and the remaining sugar added in 3 shots, until you get a well firm and shiny meringue.",
-        "step_5": "Incorporate one third of the meringue into the compound to the matcha to make it more fluid, then gently combine the remaining meringue with movements from the bottom up.",
+        "step_5": "Fold one third of the meringue into the matcha mixture to loosen it, then gently fold in the remaining meringue with upward movements to preserve the air.",
         "step_6": "Pour the dough into the non-burred chiffon cake mold and gently level the surface.",
         "step_7": "Cook in a static oven at 160°C for 30 minutes.",
         "step_8": "Bake and turn the mold immediately on a bottle or on the appropriate support; let cool completely before deforming."
@@ -234,7 +234,7 @@
         "step_2": "Mezcla el aceite de semilla y el agua tibia y sigue mezclando.",
         "step_3": "Colocar la harina junto con el té Matcha e incorpora a la mezcla de yemas con unas varillas.",
         "step_4": "En otro tazón bien limpio, monta las claras con el cremor tártaro y el resto del azúcar añadido en 3 tomas, hasta obtener una merengue bien firme y brillante.",
-        "step_5": "Inserta un tercio del merengue en el compuesto con el matcha para hacerlo más fluido, luego une suavemente el merengue restante con movimientos desde abajo hacia arriba.",
+        "step_5": "Incorpora un tercio del merengue a la mezcla de matcha para aligerarla; después añade el resto con movimientos envolventes de abajo arriba.",
         "step_6": "Vierta la masa en el molde de chiffon cake no enburrido y nivela suavemente la superficie.",
         "step_7": "Cocinar en horno estático a 160°C durante 30 minutos.",
         "step_8": "Hornear y revertir inmediatamente el molde sobre una botella o sobre el soporte adecuado; dejar enfriar completamente antes de desformar."
