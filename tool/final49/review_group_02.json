@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "localeOrder": [
+    "it",
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "reviewedIds": [
+    80,
+    84,
+    87,
+    88,
+    91,
+    93,
+    94,
+    95,
+    96,
+    99
+  ],
+  "fixes": {
+    "recipe_000080": {
+      "en": {
+        "step_1": "Use sanma (Pacific saury, Cololabis saira) that has already been cleaned and gutted by the fishmonger. Cook thoroughly and check the thickest part; do not leave the viscera in for this home preparation."
+      },
+      "es": {
+        "step_1": "Utiliza sanma (paparda del Pacífico, Cololabis saira) ya limpio y eviscerado por el pescadero. Cuécelo completamente y comprueba la parte más gruesa; no dejes las vísceras para esta preparación doméstica.",
+        "step_8": "Acompaña con daikon fresco rallado, unas gotas de salsa de soja y una rodaja de limón."
+      },
+      "fr": {
+        "step_1": "Utilisez du sanma (balaou du Pacifique, Cololabis saira) déjà nettoyé et vidé par le poissonnier. Faites-le cuire complètement et vérifiez la partie la plus épaisse ; ne conservez pas les viscères pour cette préparation domestique."
+      },
+      "de": {
+        "step_1": "Bereits gesäuberten und ausgenommenen Sanma (Pazifischer Makrelenhecht, Cololabis saira) verwenden. Den Fisch vollständig garen und die dickste Stelle prüfen; die Innereien bei dieser Zubereitung nicht belassen.",
+        "step_2": "Die Haut auf jeder Seite mit drei flachen diagonalen Schnitten einschneiden.",
+        "step_8": "Mit frisch geriebenem Daikon, etwas Sojasauce und einer Zitronenspalte servieren."
+      },
+      "pt": {
+        "step_1": "Utilize sanma (agulhão-do-Japão, Cololabis saira) já limpo e eviscerado pelo peixeiro. Cozinhe completamente e verifique a parte mais espessa; não deixe as vísceras nesta preparação doméstica.",
+        "step_8": "Acompanhe com daikon fresco ralado, umas gotas de molho de soja e uma rodela de limão."
+      }
+    },
+    "recipe_000084": {
+      "it": {
+        "step_7": "Friggi in olio di semi a 170 °C fino a doratura, indicativamente 5–6 minuti; verifica con un termometro che il pollo raggiunga almeno 74 °C al cuore prima di condirlo."
+      },
+      "en": {
+        "step_7": "Fry in oil at 170°C until golden, approximately 5–6 minutes; use a food thermometer to confirm that the chicken reaches at least 74°C (165°F) at the centre before saucing."
+      },
+      "es": {
+        "step_5": "Corta el pollo en trozos grandes, de tamaño uniforme.",
+        "step_6": "Enharina ligeramente los trozos y pásalos después por el huevo batido.",
+        "step_7": "Fríe en aceite a 170 °C hasta que esté dorado, unos 5–6 minutos; comprueba con un termómetro que el centro del pollo alcance al menos 74 °C."
+      },
+      "fr": {
+        "step_7": "Faites frire dans une huile à 170 °C jusqu'à ce que le poulet soit doré, environ 5 à 6 minutes ; vérifiez au thermomètre une température à cœur d'au moins 74 °C."
+      },
+      "de": {
+        "step_2": "Alles verrühren und bis zur Verwendung im Kühlschrank aufbewahren.",
+        "step_4": "Die Namban-Sauce in eine große hitzebeständige Form gießen.",
+        "step_5": "Das Hähnchen in gleichmäßig große Stücke schneiden.",
+        "step_6": "Die Hähnchenstücke leicht mit Mehl bestäuben und anschließend durch das verquirlte Ei ziehen.",
+        "step_7": "In 170 °C heißem Öl etwa 5–6 Minuten goldbraun frittieren; mit einem Lebensmittelthermometer prüfen, dass das Hähnchen mindestens 74 °C Kerntemperatur erreicht."
+      },
+      "pt": {
+        "step_2": "Misture bem e mantenha o molho no frigorífico até utilizar.",
+        "step_5": "Corte o frango em pedaços grandes e uniformes.",
+        "step_6": "Passe o frango por uma camada fina de farinha e depois pelo ovo batido.",
+        "step_7": "Frite em óleo a 170 °C até alourar, cerca de 5–6 minutos; confirme com um termómetro que o centro do frango atinge pelo menos 74 °C."
+      }
+    },
+    "recipe_000087": {
+      "es": {
+        "step_2": "Pasa la crema por un tamiz fino para que pueda salir con facilidad por la boquilla para Mont Blanc.",
+        "step_3": "Coloca los discos de bizcocho o merengue en los platos.",
+        "step_4": "Pon una castaña entera en almíbar en el centro de cada disco.",
+        "step_8": "Espolvorea la parte superior con azúcar glas, como si fuera nieve, y corona con una castaña en almíbar."
+      },
+      "de": {
+        "step_2": "Die Kastaniencreme durch ein feines Sieb streichen, damit sie später problemlos durch die Mont-Blanc-Tülle gepresst werden kann.",
+        "step_3": "Biskuit- oder Baiserscheiben auf Dessertteller legen.",
+        "step_4": "Eine ganze kandierte Kastanie in die Mitte jeder Scheibe setzen.",
+        "step_5": "Über jeder Kastanie mit einem Spatel eine hohe Kuppel aus Schlagsahne formen.",
+        "step_6": "Die Kastaniencreme in einen Spritzbeutel mit einer Mont-Blanc-Tülle mit mehreren kleinen Öffnungen füllen.",
+        "step_7": "Die Creme in dünnen, sich überlappenden Fäden rund um die Sahnekuppel spritzen, bis diese ganz bedeckt ist.",
+        "step_8": "Mit Puderzucker wie mit Schnee bestäuben und oben eine kandierte Kastanie aufsetzen."
+      },
+      "pt": {
+        "step_2": "Passe o creme de castanha por uma peneira fina para o poder espremer facilmente pelo bico de Mont Blanc.",
+        "step_3": "Coloque os discos de pão de ló ou suspiro nos pratos.",
+        "step_8": "Polvilhe com açúcar em pó para imitar neve e coloque uma castanha em calda no topo."
+      }
+    },
+    "recipe_000088": {
+      "es": {
+        "step_1": "Bate la nata bien fría con el azúcar y la vainilla hasta que forme picos firmes.",
+        "step_7": "Envuelve bien los sándwiches en film transparente y marca la diagonal por la que vas a cortarlos."
+      },
+      "de": {
+        "step_1": "Die gut gekühlte Sahne mit Zucker und Vanille steif schlagen.",
+        "step_5": "Die Zwischenräume zwischen den Früchten mit weiterer Schlagsahne füllen, damit keine Luftlöcher bleiben.",
+        "step_7": "Die Sandwiches straff in Frischhaltefolie wickeln und die geplante diagonale Schnittlinie markieren.",
+        "step_8": "Die Sandwiches 20 Minuten im Kühlschrank ruhen lassen."
+      },
+      "pt": {
+        "step_1": "Bata as natas bem frias com açúcar e baunilha até formarem picos firmes.",
+        "step_5": "Preencha os espaços entre a fruta com mais natas batidas, evitando bolsas de ar."
+      }
+    },
+    "recipe_000091": {
+      "es": {
+        "step_1": "Lava el arroz varias veces hasta que el agua salga casi transparente y escúrrelo durante 15 minutos.",
+        "step_5": "Lleva a un hervor suave, tapa, reduce el fuego al mínimo y cuece unos 15 minutos sin levantar la tapa; en una arrocera utiliza el programa normal."
+      },
+      "de": {
+        "step_1": "Den Reis mehrfach waschen, bis das Wasser fast klar ist, und anschließend 15 Minuten im Sieb abtropfen lassen.",
+        "step_2": "Die eingeweichten Shiitake, die Karotte und den Aburaage in Scheiben schneiden; das Hähnchen in gleichmäßige Würfel von etwa 1,5 cm schneiden.",
+        "step_3": "Reis in einen Topf oder Reiskocher geben, Dashi, Sojasauce, Mirin und Sake hinzufügen und die für die Reismenge vorgesehene Flüssigkeitsmenge beachten.",
+        "step_6": "Den Herd ausschalten und den Reis 10 Minuten zugedeckt ruhen lassen, damit sich die Feuchtigkeit verteilt und die Körner fertig garen.",
+        "step_7": "Den Reis mit einem Reisspatel vorsichtig von unten nach oben auflockern, die Zutaten untermischen und warm servieren."
+      },
+      "pt": {
+        "step_3": "Coloque o arroz numa panela ou panela de arroz elétrica, junte dashi, molho de soja, mirin e sake e respeite a proporção de líquido indicada para o arroz.",
+        "step_4": "Distribua o frango, os shiitake, a cenoura e o aburaage sobre o arroz sem mexer; irão cozinhar a vapor enquanto o arroz absorve o tempero.",
+        "step_7": "Solte o arroz suavemente com uma espátula, misturando os ingredientes sem esmagar os grãos, e sirva quente."
+      }
+    },
+    "recipe_000093": {
+      "es": {
+        "step_3": "Coloca la chuleta cortada en tiras sobre la cebolla sin sumergirla del todo, para que el empanado absorba el sabor sin deshacerse.",
+        "step_4": "Bate ligeramente un huevo, dejando todavía visibles la clara y la yema, y vierte unos dos tercios alrededor de la chuleta.",
+        "step_5": "Reparte la mitad del queso, tapa y cocina 60–90 segundos; añade el resto del huevo y apaga cuando esté cuajado al punto deseado."
+      },
+      "de": {
+        "step_1": "Zwei Schalen mit heißem Reis vorbereiten. Die bereits gegarten Tonkatsu-Schnitzel in etwa 2 cm breite Streifen schneiden.",
+        "step_2": "Dashi, Sojasauce, Mirin und Zucker in einer kleinen Donburi-Pfanne aufkochen. Die Zwiebel zugeben und 3–4 Minuten glasig garen.",
+        "step_3": "Das in Streifen geschnittene Schnitzel auf die Zwiebeln legen, ohne die Panade vollständig in die Brühe einzutauchen.",
+        "step_4": "Ein Ei nur kurz verquirlen, sodass Eiweiß und Eigelb noch erkennbar sind; etwa zwei Drittel davon über und um das Schnitzel gießen.",
+        "step_5": "Die Hälfte des Käses darübergeben, abdecken und 60–90 Sekunden garen; das restliche Ei hinzufügen und bei gewünschtem Gargrad die Hitze ausschalten.",
+        "step_6": "Den Pfanneninhalt vorsichtig auf den heißen Reis gleiten lassen, ohne das Schnitzel zu zerbrechen.",
+        "step_7": "Mit dem restlichen Käse oder Schnittlauch bestreuen und sofort servieren."
+      },
+      "pt": {
+        "step_2": "Numa frigideira pequena, leve o dashi, o molho de soja, o mirin e o açúcar a ferver suavemente; junte a cebola e cozinhe durante 3–4 minutos, até ficar translúcida.",
+        "step_3": "Coloque a costeleta tonkatsu cortada sobre a cebola sem a mergulhar totalmente no caldo, para que a panagem mantenha alguma textura.",
+        "step_6": "Deslize cuidadosamente o conteúdo da frigideira sobre o arroz quente, sem partir a costeleta."
+      }
+    },
+    "recipe_000094": {
+      "es": {
+        "step_2": "Calienta el dashi en una olla donabe hasta que hierva suavemente; disuelve el miso con un cucharón de caldo caliente en un cuenco y devuélvelo a la olla."
+      },
+      "de": {
+        "step_2": "Dashi im Donabe oder in einem großen Topf leicht aufkochen. Miso in einer Schüssel mit einer Kelle heißer Brühe glattrühren und wieder in den Topf geben.",
+        "step_5": "Lachs vorsichtig auf das Gemüse legen und weitere 6–8 Minuten sanft garen, ohne ihn durch heftiges Kochen zu zerfallen.",
+        "step_6": "Die Brühe abschmecken und bei Bedarf etwas zuvor in Brühe gelöstes Miso ergänzen; nach dem Zugeben von Miso nicht lange stark kochen."
+      },
+      "pt": {
+        "step_2": "Deixe o dashi levantar fervura suave numa panela e dissolva o miso à parte com uma concha de caldo quente; volte a juntá-lo à panela.",
+        "step_3": "Junte a batata e a cenoura e deixe cozinhar em lume brando durante 8–10 minutos, até começarem a amolecer."
+      }
+    },
+    "recipe_000095": {
+      "es": {
+        "step_1": "Prepara con antelación el pollo, el menma, el huevo de yema ligeramente cremosa y la ralladura de yuzu; pon a hervir una olla aparte para los fideos.",
+        "step_2": "Calienta el caldo de pollo colado con sal y sake hasta que hierva muy suavemente; prueba y ajusta el punto de sal sin tapar el sabor del caldo."
+      },
+      "de": {
+        "step_2": "Die klare Hühnerbrühe mit Salz und Sake erhitzen, bis sie nur leicht köchelt, und abschmecken: Sie soll klar und herzhaft, aber nicht überwürzt sein.",
+        "step_3": "Den Herd ausschalten und Yuzu-Saft und Sesamöl erst ganz zum Schluss einrühren, damit die Zitrusaromen erhalten bleiben.",
+        "step_5": "Die Nudeln in vorgewärmte Schalen verteilen und sofort mit der Yuzu-Brühe übergießen."
+      },
+      "pt": {
+        "step_1": "Prepare antecipadamente o frango, o menma, o ovo mal cozido e a raspa de yuzu; leve à ebulição uma panela de água separada para os noodles.",
+        "step_2": "Aqueça o caldo de frango coado com sal e sake até fervilhar suavemente; prove e ajuste o sal, mantendo o sabor equilibrado."
+      }
+    },
+    "recipe_000096": {
+      "es": {
+        "step_3": "En una olla, derrite la mantequilla y rehoga la panceta con la cebolla, la zanahoria y la patata durante 5 minutos."
+      },
+      "de": {
+        "step_1": "Die Muscheln mit Sake in einer Pfanne bei starker Hitze zugedeckt öffnen lassen. Vorher beschädigte oder auf Berührung nicht schließende Muscheln aussortieren; nach gründlichem Garen geschlossene Muscheln wegwerfen. Abgesiebten Sud sofort verwenden oder kühlen.",
+        "step_3": "Butter in einem Topf schmelzen und Speck, Zwiebel, Karotte und Kartoffel etwa 5 Minuten anbraten.",
+        "step_4": "Das Mehl darüberstäuben und unter Rühren etwa 1 Minute anschwitzen.",
+        "step_6": "Etwa 12 Minuten köcheln lassen, bis die Kartoffeln weich sind.",
+        "step_7": "Die geöffneten Muscheln erst am Ende zugeben, mit schwarzem Pfeffer abschmecken und heiß mit Brotcroûtons servieren."
+      },
+      "pt": {
+        "step_1": "Abra as amêijoas numa panela tapada com sake em lume forte. Antes de cozinhar, rejeite conchas partidas e amêijoas que não fechem ao toque; depois, descarte as que se mantiverem fechadas. Refrigere o caldo coado se não o utilizar de imediato.",
+        "step_3": "Derreta a manteiga numa panela e refogue o bacon com a cebola, a cenoura e a batata durante 5 minutos.",
+        "step_4": "Polvilhe com farinha e mexa durante 1 minuto para a cozinhar.",
+        "step_7": "Junte as amêijoas abertas apenas no fim, tempere com pimenta-preta e sirva quente com croutons."
+      }
+    },
+    "recipe_000099": {
+      "es": {
+        "step_5": "Pásalas enseguida a agua con hielo para detener la cocción; escúrrelas y sécalas con cuidado.",
+        "step_7": "Mezcla el kinako con el azúcar y espolvorea las brochetas justo antes de servir; consúmelas en el mismo día para mantenerlas tiernas."
+      },
+      "de": {
+        "step_3": "Reichlich Wasser in einem Topf zum Kochen bringen und die Dango portionsweise hineingeben.",
+        "step_5": "Die Dango sofort in Eiswasser geben, damit sie nicht weitergaren; anschließend abgießen und vorsichtig trocken tupfen.",
+        "step_6": "Jeweils drei Dango auf einen Spieß stecken und mit glatter Anko-Paste bestreichen."
+      },
+      "pt": {
+        "step_3": "Leve bastante água a ferver e coloque os dango aos poucos, sem encher demasiado a panela.",
+        "step_6": "Espete três dango em cada espeto e distribua o anko liso por cima.",
+        "step_7": "Misture kinako e açúcar, polvilhe os espetos antes de servir e consuma-os no próprio dia para manter a textura macia."
+      }
+    }
+  },
+  "ingredientFixes": {
+    "recipe_000088": {
+      "en": {
+        "panna_fresca_liquida_da_montare_freddissima": {
+          "name": "very cold fresh whipping cream"
+        }
+      }
+    }
+  }
+}

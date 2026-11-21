@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "localeOrder": [
+    "it",
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "reviewedIds": [
+    145,
+    146,
+    148,
+    150,
+    152,
+    153,
+    155,
+    157,
+    161
+  ],
+  "fixes": {
+    "recipe_000145": {
+      "es": {
+        "step_1": "Tamiza la harina y la levadura química y reserva.",
+        "step_7": "Escurre las frituras sobre una rejilla o papel absorbente y déjalas templar unos minutos antes de servir."
+      },
+      "de": {
+        "step_1": "Mehl und Backpulver sieben und beiseitestellen.",
+        "step_4": "Reichlich Öl auf etwa 150–160 °C erhitzen: Bei dieser mäßigen Temperatur garen die Krapfen innen, bevor sie außen dunkel werden.",
+        "step_5": "Die Hände leicht einölen und walnussgroße Kugeln formen, ohne sie zu stark zusammenzudrücken.",
+        "step_7": "Auf einem Gitter oder Küchenpapier abtropfen lassen und vor dem Servieren einige Minuten abkühlen lassen."
+      },
+      "pt": {
+        "step_1": "Peneire a farinha e o fermento em pó e reserve.",
+        "step_4": "Aqueça bastante óleo a cerca de 150–160 °C, para que os bolinhos cozinhem por dentro antes de escurecerem por fora.",
+        "step_7": "Escorra sobre uma grelha ou papel absorvente e deixe arrefecer alguns minutos antes de servir."
+      }
+    },
+    "recipe_000146": {
+      "es": {
+        "step_8": "Reparte el arroz de sushi templado entre los cuencos donburi.",
+        "step_9": "Espolvorea la superficie del arroz con tiras de alga nori."
+      },
+      "de": {
+        "step_3": "Zucker und Salz in einem kleinen Topf unter leichtem Erwärmen im Reisessig auflösen.",
+        "step_4": "Die Essigmischung unter den warmen Reis heben und mit einem Holzspatel vorsichtig auflockern; etwas abkühlen lassen."
+      },
+      "pt": {
+        "step_9": "Polvilhe o arroz com tiras de alga nori."
+      }
+    },
+    "recipe_000148": {
+      "es": {
+        "step_2": "Haz cortes paralelos separados unos 1 cm en el cuerpo del calamar, sin atravesarlo por completo, para que se cocine de manera uniforme.",
+        "step_5": "Calienta bien una plancha o sartén de hierro a fuego fuerte.",
+        "step_7": "Pincela generosamente el calamar con salsa teriyaki durante los últimos 2 minutos de cocción, dándole la vuelta hasta que quede brillante y caramelizado."
+      },
+      "de": {
+        "step_2": "Den Körper der Tintenfische in etwa 1 cm Abstand parallel einschneiden, ohne ganz durchzuschneiden; so garen sie gleichmäßig.",
+        "step_4": "Die Sauce bei niedriger Hitze 3–4 Minuten leicht einkochen lassen, bis sie etwas eindickt.",
+        "step_5": "Eine Grillplatte oder Grillpfanne bei hoher Hitze stark vorheizen.",
+        "step_8": "Den Tintenfisch entlang der bereits gesetzten Einschnitte in Scheiben schneiden.",
+        "step_9": "Mit Kewpie-Mayonnaise und einer Prise Shichimi Togarashi servieren."
+      },
+      "pt": {
+        "step_2": "Faça cortes paralelos espaçados cerca de 1 cm no corpo das lulas, sem cortar até ao fundo, para garantir uma cozedura uniforme.",
+        "step_5": "Aqueça muito bem uma chapa ou frigideira de grelhar em lume forte.",
+        "step_9": "Sirva com maionese Kewpie à parte e uma pitada de shichimi togarashi."
+      }
+    },
+    "recipe_000150": {
+      "es": {
+        "step_5": "En la misma sartén, con parte de la grasa del pato, dora los trozos de puerro hasta que queden ligeramente caramelizados.",
+        "step_10": "Termina con ralladura de yuzu y sirve inmediatamente."
+      },
+      "de": {
+        "step_1": "Die Haut der Entenbrust rautenförmig einschneiden, ohne in das Fleisch zu schneiden.",
+        "step_5": "In derselben Pfanne einige Lauchstücke im ausgelassenen Entenfett anbraten, bis sie goldbraun und leicht karamellisiert sind.",
+        "step_10": "Mit frisch geriebener Yuzu-Schale garnieren und sofort servieren."
+      },
+      "pt": {
+        "step_5": "Na mesma frigideira, aloure os pedaços de alho-francês em parte da gordura do pato até ficarem ligeiramente caramelizados.",
+        "step_7": "Leve o caldo à ebulição, junte o alho-francês tostado e as fatias de pato e deixe cozinhar suavemente durante 2 minutos. Antes de servir, confirme com um termómetro que a carne atinge pelo menos 74 °C no centro; o tempo por si só não é garantia."
+      }
+    },
+    "recipe_000152": {
+      "es": {
+        "step_1": "Precalienta el horno a 200 °C y unta ligeramente con mantequilla dos fuentes individuales aptas para horno.",
+        "step_5": "Hornea durante unos 10–12 minutos, hasta que el queso se funda y se dore y la clara de huevo esté cuajada."
+      },
+      "de": {
+        "step_1": "Den Backofen auf 200 °C vorheizen und zwei kleine ofenfeste Formen leicht mit Butter einfetten.",
+        "step_3": "In der Mitte jeder Form eine Vertiefung machen und vorsichtig ein Ei hineinschlagen.",
+        "step_5": "Etwa 10–12 Minuten backen, bis der Käse geschmolzen und goldbraun ist und das Eiweiß gestockt ist.",
+        "step_7": "Mit Petersilie bestreuen und sofort in der heißen ofenfesten Form servieren; Vorsicht beim Anfassen."
+      },
+      "pt": {
+        "step_1": "Pré-aqueça o forno a 200 °C e unte ligeiramente com manteiga duas formas individuais próprias para forno.",
+        "step_5": "Leve ao forno durante cerca de 10–12 minutos, até o queijo derreter e alourar e a clara ficar firme."
+      }
+    },
+    "recipe_000155": {
+      "es": {
+        "step_2": "Escalda las rodajas de pescado en agua hirviendo durante 10 segundos, pásalas a agua con hielo y retira suavemente las escamas que queden.",
+        "step_4": "Lleva el caldo a ebullición y añade con cuidado el daikon y el pescado.",
+        "step_5": "Cubre con una tapa interior otoshibuta y cuece a fuego bajo durante 20 minutos."
+      },
+      "de": {
+        "step_2": "Die Fischstücke 10 Sekunden in kochendem Wasser blanchieren, dann sofort in Eiswasser geben und verbliebene Schuppen vorsichtig entfernen.",
+        "step_4": "Die Flüssigkeit aufkochen und Daikon sowie Fisch vorsichtig hineinlegen.",
+        "step_5": "Mit einem Otoshibuta (aufliegender Kochdeckel) abdecken und bei niedriger Hitze 20 Minuten sanft garen.",
+        "step_7": "Fisch und Daikon mit der dunklen, aromatischen Schmorflüssigkeit überziehen und servieren."
+      },
+      "pt": {
+        "step_2": "Escalde as postas de peixe em água a ferver durante 10 segundos, passe-as para água gelada e retire delicadamente quaisquer escamas.",
+        "step_4": "Leve o caldo à ebulição e coloque cuidadosamente o daikon e o peixe.",
+        "step_5": "Tape com um otoshibuta (tampa interior de cozedura) e cozinhe em lume brando durante 20 minutos."
+      }
+    },
+    "recipe_000157": {
+      "es": {
+        "step_2": "Haz cortes superficiales en forma de cuadrícula en la pulpa sin perforar la piel.",
+        "step_7": "Pincela generosamente la pulpa de las berenjenas con el glaseado de miso.",
+        "step_8": "Pon las berenjenas bajo el grill del horno a 220 °C durante 3–4 minutos, hasta que el glaseado burbujee y se caramelice ligeramente."
+      },
+      "de": {
+        "step_2": "Das Fruchtfleisch kreuzweise einschneiden, ohne die Schale zu durchtrennen.",
+        "step_4": "Die Auberginen mit der Schnittfläche nach unten bei mittlerer Hitze etwa 5 Minuten braten, bis sie goldbraun sind.",
+        "step_6": "Miso, Mirin, Sake und Zucker in einem kleinen Topf etwa 2 Minuten bei niedriger Hitze zu einer glatten, dickflüssigen Glasur verrühren.",
+        "step_8": "Die Auberginen bei 220 °C für 3–4 Minuten unter den Backofengrill schieben, bis die Misoglasur Blasen wirft und leicht karamellisiert."
+      },
+      "pt": {
+        "step_2": "Faça incisões superficiais em grelha na polpa, sem perfurar a casca.",
+        "step_4": "Aloure as beringelas do lado da polpa durante 5 minutos em lume médio.",
+        "step_8": "Leve as beringelas ao grill do forno a 220 °C durante 3–4 minutos, até a cobertura de miso formar bolhas e caramelizar ligeiramente."
+      }
+    },
+    "recipe_000161": {
+      "es": {
+        "step_4": "Vierte un cucharón de masa en la sartén, extiéndelo en una capa fina y cocina 1 minuto por lado.",
+        "step_6": "Coloca la nata montada y la fruta fresca cortada sobre una cuarta parte de la crepe.",
+        "step_10": "Envuelve la base en una servilleta de papel y sirve la crepe para comerla mientras se pasea."
+      },
+      "de": {
+        "step_1": "Eier und Zucker verrühren, danach Milch, gesiebtes Mehl und schließlich die geschmolzene Butter einarbeiten.",
+        "step_3": "Eine große beschichtete Crêpe-Pfanne leicht einfetten.",
+        "step_4": "Eine Kelle Teig in die Pfanne geben, dünn verteilen und etwa 1 Minute pro Seite backen.",
+        "step_6": "Schlagsahne und geschnittenes frisches Obst auf einem Viertel der Crêpe verteilen.",
+        "step_10": "Den unteren Teil mit einer Papierserviette umwickeln und die Crêpe als Snack zum Mitnehmen servieren."
+      },
+      "pt": {
+        "step_1": "Bata os ovos com o açúcar e depois incorpore o leite, a farinha peneirada e, por fim, a manteiga derretida.",
+        "step_3": "Unte ligeiramente uma frigideira antiaderente grande, adequada para crepes.",
+        "step_6": "Coloque as natas batidas e a fruta fresca cortada apenas sobre um quarto da crepe.",
+        "step_10": "Envolva a base num guardanapo de papel e sirva a crepe para comer enquanto passeia."
+      }
+    }
+  }
+}
