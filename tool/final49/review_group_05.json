@@ -97,7 +97,8 @@
       },
       "pt": {
         "step_1": "Pré-aqueça o forno a 200 °C e unte ligeiramente com manteiga duas formas individuais próprias para forno.",
-        "step_5": "Leve ao forno durante cerca de 10–12 minutos, até o queijo derreter e alourar e a clara ficar firme."
+        "step_5": "Leve ao forno durante cerca de 10–12 minutos, até o queijo derreter e alourar e a clara ficar firme.",
+        "step_4": "Distribua o queijo à volta do ovo e finalize com uma camada fina de panko."
       }
     },
     "recipe_000155": {
@@ -116,6 +117,9 @@
         "step_2": "Escalde as postas de peixe em água a ferver durante 10 segundos, passe-as para água gelada e retire delicadamente quaisquer escamas.",
         "step_4": "Leve o caldo à ebulição e coloque cuidadosamente o daikon e o peixe.",
         "step_5": "Tape com um otoshibuta (tampa interior de cozedura) e cozinhe em lume brando durante 20 minutos."
+      },
+      "en": {
+        "step_2": "Blanch the amberjack pieces in boiling water for 10 seconds, then transfer them to ice water and gently remove any remaining scales."
       }
     },
     "recipe_000157": {

@@ -187,7 +187,8 @@
         "step_2": "Misture a farinha de arroz glutinoso, o açúcar, o matcha e a água numa tigela própria para micro-ondas até não restarem grumos secos.",
         "step_3": "Tape deixando uma pequena abertura para o vapor e cozinhe a 600 W durante cerca de 90 segundos.",
         "step_5": "Passe imediatamente a massa quente para a superfície polvilhada com amido, cubra com mais um pouco e deixe arrefecer até conseguir manuseá-la.",
-        "step_7": "Coloque uma bola de anko no centro, una as bordas apertando bem e disponha o daifuku com a junção virada para baixo."
+        "step_7": "Coloque uma bola de anko no centro, una as bordas apertando bem e disponha o daifuku com a junção virada para baixo.",
+        "step_1": "Divida o anko em seis bolas iguais e mantenha-as cobertas; polvilhe a bancada com amido de milho ou fécula."
       }
     },
     "recipe_000143": {
@@ -211,6 +212,15 @@
         "step_4": "Desenforme e deixe arrefecer completamente sobre uma grelha.",
         "step_7": "Pincele a fruta com uma camada fina de gelatina neutra para lhe dar brilho e proteção.",
         "step_8": "Guarde no frigorífico e sirva no próprio dia para manter a massa crocante."
+      }
+    }
+  },
+  "ingredientFixes": {
+    "recipe_000142": {
+      "pt": {
+        "amido_di_mais_o_fecola_per_spolverare": {
+          "name": "amido de milho ou fécula para polvilhar"
+        }
       }
     }
   }

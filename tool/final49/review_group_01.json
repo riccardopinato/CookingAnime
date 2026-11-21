@@ -34,7 +34,8 @@
         "step_4": "Cubre con un paño y deja levar durante 1 hora, hasta que la masa duplique su volumen.",
         "step_6": "Estira cada bola formando un disco algo más grueso en el centro y más fino en los bordes.",
         "step_8": "Une los bordes, séllalos con firmeza y da a cada panecillo una forma ovalada.",
-        "step_13": "Escúrrelos sobre papel absorbente y sírvelos calientes."
+        "step_13": "Escúrrelos sobre papel absorbente y sírvelos calientes.",
+        "step_12": "Fríe los kare pan 2–3 minutos por lado, hasta que estén dorados y muy crujientes."
       },
       "fr": {
         "step_9": "Passez chaque petit pain dans l'œuf battu, puis dans le panko en le faisant adhérer uniformément.",
@@ -59,7 +60,8 @@
         "step_5": "Cover the pan immediately and increase the heat to high."
       },
       "es": {
-        "step_5": "Tapa inmediatamente la cazuela y sube el fuego a intensidad alta."
+        "step_5": "Tapa inmediatamente la cazuela y sube el fuego a intensidad alta.",
+        "step_7": "Apaga el fuego, añade la mantequilla restante y un chorrito de salsa de soja."
       },
       "fr": {
         "step_9": "Parsemez généreusement de ciboulette fraîche et servez les palourdes très chaudes avec leur jus."
@@ -160,7 +162,8 @@
         "step_3": "Machaca ligeramente el arroz caliente con una mano de mortero, mezclando los granos sin perder del todo su textura granulada, al estilo Kansai."
       },
       "fr": {
-        "step_3": "Écrasez légèrement le riz chaud avec un pilon, en mélangeant les grains tout en conservant une texture granuleuse visible, à la manière du Kansai."
+        "step_3": "Écrasez légèrement le riz chaud avec un pilon, en mélangeant les grains tout en conservant une texture granuleuse visible, à la manière du Kansai.",
+        "step_7": "Le contraste entre la douceur de la farce et la saveur salée et parfumée de la feuille évoque le printemps japonais."
       },
       "de": {
         "step_3": "Den heißen Reis mit einem Stößel leicht zerdrücken und durchmischen, sodass die Körner noch erkennbar bleiben (Kansai-Stil)."
@@ -216,7 +219,17 @@
         "step_6": "Etwas warme Unagi-Tare-Sauce über den Reis geben."
       },
       "pt": {
-        "step_6": "Regue o arroz com uma colher de sopa de molho unagi tare quente."
+        "step_6": "Regue o arroz com uma colher de sopa de molho unagi tare quente.",
+        "step_8": "Pincele com mais uma camada fina de molho e polvilhe com uma pitada de pimenta sanshō."
+      }
+    }
+  },
+  "ingredientFixes": {
+    "recipe_000065": {
+      "pt": {
+        "farina": {
+          "name": "farinha (para polvilhar ligeiramente)"
+        }
       }
     }
   }
