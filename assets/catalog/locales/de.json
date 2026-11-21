@@ -2652,7 +2652,7 @@
     },
     "recipe_000053": {
       "title": "Ebi Tendon – Garnelen- und Gemüse-Tempura auf Reis mit Tentsuyu-Sauce",
-      "description": "Im Tendon wird der heiße Reis Garnelen und Gemüse in frisch gebratenem Tempura unterstützt. Der Teig wird schnell mit gefrorenem Wasser vermischt, während die Tentsuyu-Sauce aus Dashi, Soja und Mirin getrennt zubereitet und zum Zeitpunkt des Servierens hinzugefügt wird. Der Kontrast entsteht aus dem noch warmen Reis und dem kalten Teig; die Sauce verteilt sich, ohne die Kruste der Tempura zu überfluten.",
+      "description": "Ebi Tendon kombiniert heißen Reis mit frisch frittierten Garnelen und Gemüse in Tempura. Rühre den Teig nur kurz mit eiskaltem Wasser an und bereite Tentsuyu aus Dashi, Sojasauce und Mirin separat zu. Gib erst beim Servieren wenig warme Sauce dazu, damit die knusprige Hülle erhalten bleibt.",
       "animeContext": "Dieses Rezept ist thematisch von Food Wars! (Shokugeki no Soma), Mob Psycho 100 inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "gamberone_freschi_sgusciati": {
@@ -2706,14 +2706,14 @@
       },
       "stepTexts": {
         "step_1": "In einem Topf, fügen Sie die Dashi-Brühe, Soja-Sauce, Mirin und Zucker.",
-        "step_2": "Die Mischung 2 Minuten leicht köcheln lassen, bis sich der Zucker gelöst hat und der Alkohol aus dem Mirin verdampfen kann.",
-        "step_3": "Mach aus und halt dich zurück.",
-        "step_4": "Üben Sie 3-4 kleine diagonale Schnitte auf dem Bauch jeder Garnelen und strecken Sie es vorsichtig aus, um zu vermeiden, dass es während des Kochens bereichert.",
+        "step_2": "Die Sauce 2 Minuten sanft köcheln lassen, damit sich der Zucker löst und ein Teil des Alkohols aus dem Mirin verdampft.",
+        "step_3": "Den Herd ausschalten und die Sauce beiseitestellen.",
+        "step_4": "An der Bauchseite jeder Garnele 3–4 kleine diagonale Schnitte setzen und sie vorsichtig geradeziehen, damit sie sich beim Frittieren weniger krümmt.",
         "step_5": "Der Eigelb wird leicht mit eiskaltem Wasser bearbeitet.",
         "step_6": "Kombinieren Sie das Mehl auf einmal und nur sehr wenig Amalgam mit den Stäben (der Teig muss klumpig und sehr kalt bleiben).",
         "step_7": "Erhitzt reichlich Öl bei 180°C.",
         "step_8": "Shrimps und Gemüse leicht verdünnen, in den kalten Teig eintauchen und für ca. 2-3 Minuten braten, bis die Tempura goldig und knusprig ist.",
-        "step_9": "Legen Sie den heißen Reis in die Schüssel (Donburi), sprühen Sie ihn mit einem Esslöffel Tentsuyu-Sauce, zaubern Sie über die Garnelen und Gemüse in Tempura und fügen Sie einen weiteren Draht heißer Soße vor dem Servieren hinzu."
+        "step_9": "Den heißen Reis auf Donburi-Schalen verteilen und mit einem Löffel Tentsuyu beträufeln. Die frisch frittierten Garnelen und das Gemüse darauflegen, etwas warme Sauce ergänzen und sofort servieren."
       }
     },
     "recipe_000054": {
@@ -2905,7 +2905,7 @@
     },
     "recipe_000057": {
       "title": "Kurogoma Dango – Reisbällchen mit geröstetem schwarzem Sesam",
-      "description": "Die Kurogoma Dango sind glutinöser Reisbällchen, zunächst gekocht und in Wasser und Eis gekühlt, dann auf die Spieße gestochen und leicht gegrillt. Eine warme Soße aus schwarzem Sesam, Zucker, Soja und Mirin rundet die Oberfläche ab. Die leichte Grillung der Spieße geht der Nappatur voraus: das schwarze Sesam bleibt so ein Hauptdarsteller des glänzenden und duftenden Finish.",
+      "description": "Kurogoma Dango sind zähe Bällchen aus Klebreismehl. Sie werden gekocht, in Eiswasser abgeschreckt, auf Bambusspieße gesteckt und kurz angeröstet. Erst danach überzieht man sie mit einer warmen Sauce aus schwarzem Sesammus, Zucker, Sojasauce und Mirin.",
       "animeContext": "Dieses Rezept ist thematisch von Gintama, Samurai Champloo inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "farina_di_riso_glutinoso": {
@@ -2946,8 +2946,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "In einer Schüssel mischt er Reismehl mit Zucker.",
-        "step_2": "Verbinden Sie das drahtige Wasser mit den Fingern, bis sich ein weiches Brot bildet, das dem Ohrlappen ähnlich ist.",
+        "step_1": "Klebreismehl und Zucker in einer Schüssel vermischen.",
+        "step_2": "Das Wasser nach und nach zugeben und mit den Fingern kneten, bis ein weicher, geschmeidiger Teig mit einer Konsistenz ähnlich einem Ohrläppchen entsteht.",
         "step_3": "Teilen Sie den Teig in 12 gleiche Kugeln, indem Sie ihn zwischen den Handflächen rollen.",
         "step_4": "Tauche die Kugeln in einen Topf mit kochendem Wasser ein.",
         "step_5": "Wenn sie ans Wasser steigen, lassen Sie sie für weitere 2 Minuten kochen.",
@@ -2955,7 +2955,7 @@
         "step_7": "In einem Topf, fügen Sie schwarze Sesampaste, Zucker, Sojasauce, Mirin und Wasser.",
         "step_8": "Er heizt 2 Minuten lang mit süßem Feuer, bis die Soße dunkel, samtig und duftend wird.",
         "step_9": "Stechen Sie 3 Dangobälle auf jeden Bambusspieß.",
-        "step_10": "Grillen Sie leicht die Spieße auf einer Pfanne, die 1 Minute lang auf der Seite taugt, dann mit der heißen schwarzen Sesamsoße großzügig, bevor Sie servieren."
+        "step_10": "Die Spieße in einer beschichteten Pfanne etwa 1 Minute pro Seite leicht anrösten, anschließend großzügig mit der warmen schwarzen Sesamsauce überziehen und servieren."
       }
     },
     "recipe_000058": {
@@ -3050,7 +3050,7 @@
     },
     "recipe_000060": {
       "title": "Castella – luftiger japanischer Biskuitkuchen",
-      "description": "Das Castella ist ein süßes und weiches Dessert, das durch langes Anbringen von Eiern und Zucker Volumen erhält. Es enthält Honig und Mehl gesiebt, ohne die Verbindung zu zerlegen, dann kocht es in der rechteckigen Form und lässt sich ausruhen gewickelt, um die Weichheit zu stabilisieren. Die nach dem Kochen eingewickelte Ruhe hilft, die Feuchtigkeit zu halten; das letzte Honigschleier ergänzt die goldene Oberfläche.",
+      "description": "Castella ist ein hoher, lockerer japanischer Biskuitkuchen. Das Volumen entsteht durch langes Aufschlagen von Eiern und Zucker. Honig und gesiebtes Mehl werden vorsichtig untergehoben, ohne den Teig zusammenfallen zu lassen. Nach dem Backen in der rechteckigen Form hält die eingewickelte Ruhezeit die Krume saftig; ein dünner Honiganstrich vollendet die goldene Oberfläche.",
       "animeContext": "Dieses Rezept ist thematisch von Si alza il vento (Studio Ghibli), Gintama inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -3080,13 +3080,13 @@
       },
       "stepTexts": {
         "step_1": "In einer Tasse schmelze den Honig zusammen mit dem Mirin im warmen Wasser.",
-        "step_2": "In einer großen Schüssel, die Eier mit Zucker mit den elektrischen Peitschen für mindestens 10-12 Minuten.",
-        "step_3": "Solange die Verbindung klar, spumig und verdreifacht Volumen wird.",
+        "step_2": "Eier und Zucker in einer großen Schüssel mit dem Handmixer mindestens 10–12 Minuten schaumig schlagen.",
+        "step_3": "Weiter aufschlagen, bis die Masse hell und luftig ist und etwa das dreifache Volumen erreicht hat.",
         "step_4": "Fügen Sie die Honigmischung in die montierten Eier, indem Sie mit niedriger Geschwindigkeit für 1 Minute mischen.",
-        "step_5": "Das Mehl auf der Mischung in drei Drehungen sieben, indem es vorsichtig von unten nach oben mit einem Spachtel gefüllt wird, um den Teig nicht zu zerlegen.",
+        "step_5": "Das Mehl in drei Portionen über die Masse sieben und mit einem Teigschaber behutsam von unten nach oben unterheben, damit möglichst viel Luft erhalten bleibt.",
         "step_6": "Fügen Sie den Teig in einer rechteckigen Form mit Backpapier.",
         "step_7": "Kochen Sie im Backofen bei 160°C im vorgeheizten statischen Ofen 35-40 Minuten lang, bis die Oberfläche goldgelb ist und ein Stuck aus dem Ofen herauskommt, frisch gebacken.",
-        "step_8": "Hängen Sie die Oberfläche mit einem Schleier Honig, wickeln Sie den Kuchen in den transparenten Film und lassen Sie ihn für ein paar Stunden im Kühlschrank ruhen: Dieser Durchgang macht die Burg unglaublich feucht, weich und duftend."
+        "step_8": "Die Oberfläche dünn mit Honig bestreichen, den Kuchen in lebensmittelechte Frischhaltefolie wickeln und einige Stunden im Kühlschrank ruhen lassen, damit die Castella-Krume saftig und weich bleibt."
       }
     },
     "recipe_000061": {
@@ -3498,7 +3498,7 @@
     },
     "recipe_000067": {
       "title": "Monjayaki – herzhaftes Pfannengericht aus Tokio",
-      "description": "Der Monjayaki bereitet sich auf eine Platte mit Kohl, Tenkasu und Fleisch oder Meeresfrüchten in Ringen vor. In der Mitte wird ein sehr flüssiger Teig aus Dashi, Mehl und Worcestershire-Sauce ausgegossen, dann wird alles ausgestreckt und ein Crosticin mit kleinen Spachteln gesammelt.",
+      "description": "Monjayaki wird auf einer heißen Grillplatte zubereitet: Kohl, Tenkasu sowie Fleisch oder Meeresfrüchte werden zu einem Ring geformt. In die Mitte kommt ein dünnflüssiger Teig aus Dashi, Mehl und Worcestershiresauce. Nach kurzem Andicken wird alles flach verteilt, bis sich eine dünne Kruste bildet. Gegessen wird direkt von der Platte mit kleinen Metallspachteln, Hagashi.",
       "animeContext": "Dieses Rezept ist thematisch von K-On!, March Comes in Like a Lion inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "cavolo_cappuccio_tagliato_finissimo": {
@@ -3533,13 +3533,13 @@
       "stepTexts": {
         "step_1": "Dashi-Brühe, Mehl und Worcestershiresauce in einem Krug mit einem Schneebesen kräftig verrühren.",
         "step_2": "Der Teig wird viel flüssiger sein als der von Okonomiyaki.",
-        "step_3": "Auf einer großen, sehr warmen elektrischen Platte oder Pfanne vereinen Sie Kohl, Fleisch/Früchte des Meeres und Tenkasu.",
-        "step_4": "Kochen Sie die Zutaten für 3 Minuten überspringen.",
-        "step_5": "Mit zwei Spatolinen bildet er einen großen Ring/Vulkan mit Kohl in der Mitte der Platte und hinterlässt ein leeres Loch in der Mitte.",
+        "step_3": "Kohl, Fleisch oder Meeresfrüchte und Tenkasu auf eine heiße elektrische Grillplatte oder in eine große Pfanne geben.",
+        "step_4": "Die Zutaten 3 Minuten unter Rühren anbraten.",
+        "step_5": "Mit zwei kleinen Spachteln die Kohlmischung zu einem breiten Ring formen und in der Mitte eine freie Fläche lassen.",
         "step_6": "Fügen Sie den flüssigen Teig vorsichtig in die Mitte des Vulkans in zwei Drehungen, so dass es leicht verdichten, bevor Sie alles zusammen mischen.",
         "step_7": "Legen Sie die flache Verbindung auf die Platte.",
         "step_8": "Kochen Sie weiter, bis die Unterseite ein dunkles und knuspriges Crosticin erzeugt.",
-        "step_9": "Sie essen direkt aus der Platte mit kleinen Metallspatolinen (Hagashi)!"
+        "step_9": "Monjayaki direkt von der heißen Platte mit kleinen Metallspachteln (Hagashi) essen; dabei auf Verbrennungsgefahr achten."
       }
     },
     "recipe_000068": {
@@ -3777,7 +3777,7 @@
     },
     "recipe_000072": {
       "title": "Klassische Yakisoba aus der Pfanne",
-      "description": "Die klassische Yakisoba wird vorbereitet, indem sie vorgebackene Nudeln mit Schwein, Kohl und Gemüse auf die Platte springen. Die Worcestershire-Sauce und Würzmittel umhüllen die Pasta im Wok; Aonori, Ingwer rot und katsuobushi ergänzen das Gericht im Service. Die Passage auf der Platte mit hohem Fokus bindet Sauce und Nudeln; Aonori, shoga und katsuobushi werden als Dichtung hinzugefügt.",
+      "description": "Klassisches Yakisoba entsteht, indem vorgegarte Nudeln mit Schweinebauch, Kohl und Gemüse auf einer heißen Platte oder im Wok angebraten werden. Die Sauce auf Worcestershiresaucen-Basis überzieht die Nudeln bei hoher Hitze. Zum Servieren Aonori, Beni Shoga (eingelegten roten Ingwer) und Katsuobushi-Bonitoflocken darübergeben.",
       "animeContext": "Dieses Rezept ist thematisch von My Hero Academia, Food Wars! inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "noodles_precotti_per_yakisoba": {
@@ -3838,12 +3838,12 @@
         "step_2": "Erhitzen Sie eine Antihaftplatte oder einen Wok mit einem Ölfaden.",
         "step_3": "Kochen Sie den Schweinebauch in Stücke, bis er leicht knusprig wird.",
         "step_4": "Bring die Zwiebel, die Karotten und die Kohlkappe zusammen.",
-        "step_5": "Springt 3-4 Minuten lang in lebendigem Feuer und hält das knusprige Gemüse.",
+        "step_5": "Das Gemüse bei hoher Hitze 3–4 Minuten unter Rühren anbraten, sodass es bissfest bleibt.",
         "step_6": "Spülen Sie die Nudeln unter heißem Wasser, um sie zu entschärfen, dann mischen Sie sie in die Pfanne zusammen mit 2 Esslöffel Wasser.",
         "step_7": "Bedecken Sie mit einem Deckel für 1 Minute, um es zu verdampfen.",
         "step_8": "Fügen Sie die zubereitete Yakisoba-Sauce über Nudeln und Gemüse hinzu.",
         "step_9": "Springen Sie und Amalgam kräftig bei hohem Fokus für 2 Minuten, bis die Soße leicht süß wird.",
-        "step_10": "Servieren Sie warme Guarnend mit Aonori, Beni Shoga und Katsuobushi Flocken."
+        "step_10": "Heiß servieren und mit Aonori, Beni Shoga und Katsuobushi-Flocken garnieren."
       }
     },
     "recipe_000073": {
@@ -4186,7 +4186,7 @@
     },
     "recipe_000079": {
       "title": "Kani Cream Korokke – cremige Krabbenkroketten",
-      "description": "Die Kani Cream Korokke enthalten eine cremige Füllung von Krabben, Zwiebeln und Byschamel in einem knusprigem Panura. Die Mischung wird vor der Bildung der Crocchetts gekühlt; nach dem Braten werden sie warm mit Tonkatsu-Sauce serviert. Das cremige Herz von Krabben kontrastiert mit der goldenen Panade: Nach dem Braten werden die Crocchettes abgerissen und mit Tonkatsu serviert.",
+      "description": "Kani Cream Korokke sind knusprig panierte Kroketten mit einer cremigen Füllung aus Krabbenfleisch, Zwiebeln und dicker Béchamelsauce. Die Masse wird gut gekühlt, zu ovalen Kroketten geformt, paniert und goldbraun frittiert. Abtropfen lassen und heiß mit Tonkatsu-Sauce servieren; die Kruste kontrastiert mit der weichen Füllung.",
       "animeContext": "Dieses Rezept ist thematisch von Isekai Shokudo (Restaurant to Another World), Spy x Family inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "polpa_di_granchio": {
@@ -4239,11 +4239,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "In einer Pfanne schmelze die Butter und lass die Zwiebel niederbrennen, ohne sie golden zu lassen.",
+        "step_1": "Die Butter in einer Pfanne schmelzen und die gehackte Zwiebel bei niedriger Hitze glasig dünsten, ohne sie zu bräunen.",
         "step_2": "Mischen Sie das Mehl und lassen Sie es für 2 Minuten mischen (Roux).",
         "step_3": "Die warme Milch unter ständigem Rühren mit dem Schneebesen langsam zugießen, bis eine sehr dicke, glatte Béchamelcreme entstanden ist.",
         "step_4": "Kombinieren Sie das Krabbenfleisch mit Salz, Pfeffer und Muskatnuss.",
-        "step_5": "Fügen Sie die Verbindung auf eine flache Platte, bedecken Sie den Kontakt mit Filmen und legen Sie sie für mindestens 1 Stunde in den Kühlschrank, bis sie fest und modellierbar wird.",
+        "step_5": "Die Masse flach auf einem Blech verteilen, mit lebensmittelechter Frischhaltefolie direkt auf der Oberfläche abdecken und mindestens 1 Stunde im Kühlschrank fest werden lassen, bis sie formbar ist.",
         "step_6": "Mit leicht geölten Händen, teilen Sie die kalte Verbindung in 8 ovale Portionen.",
         "step_7": "Er fährt jede Nudel in Mehl, dann ins zerstoßene Ei und schließlich in den Panko, indem er sie festhält.",
         "step_8": "Frittieren Sie in reichlich heißem Öl bei 180°C für 3 Minuten, bis Sie goldig und knusprig sind.",

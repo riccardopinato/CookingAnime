@@ -2652,7 +2652,7 @@
     },
     "recipe_000053": {
       "title": "Ebi Tendon — tempura de camarão e legumes sobre arroz com molho tentsuyu",
-      "description": "No Ebi Tendon, o arroz quente suporta camarão e legumes em tempura recém frita. A massa é misturada rapidamente com água congelada, enquanto o molho tansuyu de dashi, soja e mirin é preparado separadamente e adicionado no momento do serviço. O contraste surge do arroz ainda quente e da massa fria; o molho é distribuído sem submergir a crosta da tempura.",
+      "description": "O Ebi Tendon combina arroz quente com camarões e legumes em tempura acabados de fritar. Mistura rapidamente a massa com água bem gelada, prepara à parte o molho tentsuyu de dashi, soja e mirin e junta apenas um pouco de molho quente ao servir para manter a crosta estaladiça.",
       "animeContext": "Esta receita inspira-se tematicamente em Food Wars! (Shokugeki no Soma), Mob Psycho 100. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "gamberone_freschi_sgusciati": {
@@ -2706,14 +2706,14 @@
       },
       "stepTexts": {
         "step_1": "Em uma panela, adicione o caldo dashi, molho de soja, mirin e açúcar.",
-        "step_2": "Leva a uma leve ebulição por 2 minutos para que o açúcar derreta e o álcool do mirin evapori.",
-        "step_3": "Desligue- o e mantenha- o desligado.",
-        "step_4": "Praticar 3-4 pequenos cortes diagonais na barriga de cada camarão e espalhá- lo suavemente para evitar que ele se enrole durante o cozimento.",
+        "step_2": "Deixa levantar uma fervura suave durante 2 minutos para dissolver o açúcar e evaporar parte do álcool do mirin.",
+        "step_3": "Desliga o lume e reserva o molho.",
+        "step_4": "Faz 3–4 pequenos cortes diagonais na parte inferior de cada camarão e endireita-o delicadamente para evitar que enrole ao fritar.",
         "step_5": "Trabalhe ligeiramente a gema com água gelada.",
         "step_6": "Misture a farinha de uma só vez e misture muito pouco com os pauzinhos (a massa deve permanecer grumosa e muito fria).",
         "step_7": "Aquece óleo abundante a 180°C.",
         "step_8": "Levemente infarina camarão e legumes, mergulhe- os na massa fria e frite- os por cerca de 2-3 minutos até que a tempura esteja dourada e crocante.",
-        "step_9": "Colocar o arroz quente nas tigelas (Donburi), espolvorá- lo com uma colher de molho Tentsuyu, enfiar os camarões e vegetais em tempura e adicionar outro fio de molho quente antes de servir."
+        "step_9": "Distribui o arroz quente por tigelas donburi e rega com uma colher de tentsuyu. Coloca por cima os camarões e legumes em tempura, acrescenta mais um fio de molho quente e serve de imediato."
       }
     },
     "recipe_000054": {
@@ -2905,7 +2905,7 @@
     },
     "recipe_000057": {
       "title": "Kurogoma dango — bolinhos de arroz com sésamo preto tostado",
-      "description": "O Dango do Kurogoma são bolas de arroz glutino primeiro cozidas e resfriadas em água e gelo, depois presas em broches e ligeiramente grelhadas. Um molho picante de pasta de sésamo preto, açúcar, soja e mirin completa a superfície. A grelhada leve dos broches precede a nappatura: o sésamo preto continua a ser o protagonista do acabamento brilhante e perfumado.",
+      "description": "Os Kurogoma Dango são bolinhas de farinha de arroz glutinoso, primeiro cozidas, arrefecidas em água com gelo, enfiadas em espetos e ligeiramente tostadas. Antes de servir recebem um molho quente de pasta de sésamo preto, açúcar, soja e mirin.",
       "animeContext": "Esta receita inspira-se tematicamente em Gintama, Samurai Champloo. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "farina_di_riso_glutinoso": {
@@ -2946,8 +2946,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "Numa tigela, misturar a farinha de arroz sem glúten com açúcar.",
-        "step_2": "Combine o fluxo de água amassando com os dedos até que se forme um pão macio com uma consistência semelhante ao lóbulo da orelha.",
+        "step_1": "Mistura a farinha de arroz glutinoso com o açúcar numa tigela.",
+        "step_2": "Junta a água aos poucos, amassando com os dedos até obteres uma massa macia e flexível, com consistência semelhante à do lóbulo da orelha.",
         "step_3": "Divida a massa em 12 bolas iguais rolando- as entre as palmas das mãos.",
         "step_4": "Mergulhe as bolas em um pote de água fervente.",
         "step_5": "Quando eles aparecerem, deixe cozinhar por mais 2 minutos.",
@@ -2955,7 +2955,7 @@
         "step_7": "Numa panela, combine pasta de sésamo preto, açúcar, molho de soja, mirin e água.",
         "step_8": "Aqueça uma mistura de calor doce durante 2 minutos até que o molho se torne escuro, veludo e perfumado.",
         "step_9": "Colocar 3 bolas de dango em cada broche de bambu.",
-        "step_10": "Grill levemente os broches numa panela antiadherente por 1 minuto por lado, em seguida, nappa generosamente com o molho de sésamo preto quente antes de servir."
+        "step_10": "Tosta ligeiramente os espetos numa frigideira antiaderente durante 1 minuto de cada lado, cobre generosamente os dango com o molho quente de sésamo preto e serve."
       }
     },
     "recipe_000058": {
@@ -3050,7 +3050,7 @@
     },
     "recipe_000060": {
       "title": "Castella — pão de ló japonês muito fofo",
-      "description": "O Castella é uma sobremesa alta e suave que recebe volume montando ovos e açúcar por muito tempo. Incorpora mel e farinha varreda sem desmontar a mistura, então cozinha no molde retangular e deixa descansar embrulhado para estabilizar a migalha. O resto embrulhado após o cozimento ajuda a manter a umidade; o véu final do mel completa a superfície dourada.",
+      "description": "O Castella é um bolo japonês alto e fofo cujo volume resulta de bater os ovos com açúcar durante vários minutos. Incorpora mel e farinha peneirada com cuidado para não perder o ar, coze numa forma retangular e deixa repousar o bolo embrulhado para manter a humidade. Uma camada fina de mel completa a superfície dourada.",
       "animeContext": "Esta receita inspira-se tematicamente em Si alza il vento (Studio Ghibli), Gintama. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -3080,13 +3080,13 @@
       },
       "stepTexts": {
         "step_1": "Numa xícara, derrete o mel em água morna com o mirin.",
-        "step_2": "Em uma tigela grande, monte os ovos com açúcar usando batedeira elétrica por pelo menos 10-12 minutos.",
-        "step_3": "Contanto que o composto se torne claro, espumoso e triplo em volume.",
+        "step_2": "Numa tigela grande, bate os ovos com o açúcar usando uma batedeira elétrica durante pelo menos 10–12 minutos.",
+        "step_3": "Continua até a mistura ficar clara, espumosa e atingir aproximadamente o triplo do volume.",
         "step_4": "Adicione a mistura de mel nos ovos montados flush e misture a uma velocidade baixa por 1 minuto.",
-        "step_5": "Corte a farinha na mistura em três doses, incorporando- a suavemente do fundo para cima com uma espátula para não desmontar a massa.",
+        "step_5": "Peneira a farinha sobre a mistura em três adições, envolvendo-a delicadamente com uma espátula de baixo para cima para não perder o ar.",
         "step_6": "Adicione a massa num molde retangular forrado com papel para assar.",
         "step_7": "Cozinhe no forno a 160°C num forno estático pré- aquecido por 35- 40 minutos até que a superfície esteja dourada e um palito saia seco, recém- assado.",
-        "step_8": "Escove a superfície com um véu de mel, enrole o bolo no filme transparente e deixe- o descansar na geladeira por algumas horas: esta passagem tornará o Castelo incrivelmente úmido, macio e perfumado."
+        "step_8": "Pincela a superfície com uma camada fina de mel, embrulha o bolo em película alimentar e deixa repousar algumas horas no frigorífico para manter a massa húmida e macia."
       }
     },
     "recipe_000061": {
@@ -3498,7 +3498,7 @@
     },
     "recipe_000067": {
       "title": "Monjayaki — panqueca salgada na chapa ao estilo de Tóquio",
-      "description": "O Monjayaki é preparado em um prato com repolho, tenkasu e carne ou frutos do mar dispostos em um anel. No meio é derramada uma massa muito líquida feita de traço, farinha e molho Worcestershire, então o todo está disposto e deixa formar uma crosta para ser coletada com pequena espátula.",
+      "description": "O Monjayaki prepara-se numa chapa quente: couve, tenkasu e carne ou marisco formam um anel em volta de uma massa muito líquida de dashi, farinha e molho Worcestershire. Verte a massa para o centro, deixa engrossar um pouco e espalha tudo pela chapa até criar uma crosta fina. Come-se diretamente da chapa com pequenas espátulas metálicas chamadas hagashi.",
       "animeContext": "Esta receita inspira-se tematicamente em K-On!, March Comes in Like a Lion. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "cavolo_cappuccio_tagliato_finissimo": {
@@ -3533,13 +3533,13 @@
       "stepTexts": {
         "step_1": "Em uma jarra adicione o caldo Dashi, a farinha e o molho Worcestershire e bata bem.",
         "step_2": "A massa será muito mais líquida do que a do Okonomiyaki.",
-        "step_3": "Adicione repolho, carne de mar/frutas e Tenkasu em um prato elétrico ou uma frigideira quente grande.",
-        "step_4": "Cozinhe pulando os ingredientes por 3 minutos.",
-        "step_5": "Com duas spatolines forma um grande anel/ vulcão com o repolho no meio do prato, deixando um buraco vazio no meio.",
+        "step_3": "Coloca a couve, a carne ou o marisco e o tenkasu numa chapa elétrica ou frigideira grande bem quente.",
+        "step_4": "Salteia os ingredientes durante 3 minutos.",
+        "step_5": "Com duas pequenas espátulas, forma um anel largo com a mistura de couve e deixa um espaço vazio no centro.",
         "step_6": "Adicione suavemente a massa líquida ao centro do vulcão em dois tiros, permitindo que se espesse ligeiramente antes de misturar todos juntos.",
         "step_7": "Espalhe a mistura na placa.",
         "step_8": "Continue cozindo até que a parte inferior crie uma crosta escura e crocante.",
-        "step_9": "Você come diretamente do prato com pequena espátula de metal (Hagashi)!"
+        "step_9": "Come o monjayaki diretamente da chapa com pequenas espátulas metálicas chamadas hagashi, tendo cuidado para evitar queimaduras."
       }
     },
     "recipe_000068": {
@@ -3777,7 +3777,7 @@
     },
     "recipe_000072": {
       "title": "Yakisoba clássico na chapa",
-      "description": "O clássico Yakisoba é preparado pulando macarrão pré- cozido com porco, repolho e legumes no prato. O molho Worcestershire e os condimentos envolvem a massa no wok; aonori, gengibre vermelho e katsuobushi completam o prato no serviço. A passagem na placa de calor alta liga molho e macarrão; anorias, bens shoga e katsuobushi são adicionados como juntas.",
+      "description": "O yakisoba clássico prepara-se salteando noodles pré-cozidos com barriga de porco, couve e legumes numa chapa ou wok quente. O molho à base de Worcestershire envolve a massa em lume forte; finaliza com aonori, beni shoga (gengibre vermelho em conserva) e flocos de bonito katsuobushi.",
       "animeContext": "Esta receita inspira-se tematicamente em My Hero Academia, Food Wars!. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "noodles_precotti_per_yakisoba": {
@@ -3838,12 +3838,12 @@
         "step_2": "Aqueça um prato antiadherente ou um wok com um pouco de óleo.",
         "step_3": "Cozinhe a barriga de porco em pedaços pequenos até que fique ligeiramente crocante.",
         "step_4": "Combine a cebola, cenouras e repolho.",
-        "step_5": "Saltar um calor vivo por 3-4 minutos enquanto mantém os vegetais crocantes.",
+        "step_5": "Salteia em lume forte durante 3–4 minutos, mantendo os legumes estaladiços.",
         "step_6": "Enxague os fios de massa sob água quente para esfregá- los, em seguida, junte- se a eles em uma panela junto com 2 colheres de água.",
         "step_7": "Cubra com uma tampa por 1 minuto para vaporizar.",
         "step_8": "Adicione o molho Yakisoba preparado acima dos macarrão e vegetais.",
         "step_9": "Saltar e misturar vigorosamente a fogo alto durante 2 minutos até que o doce de molho ligeiramente.",
-        "step_10": "Servir guarnição quente com Aonori, Beni Shoga e Katsuobushi flocos."
+        "step_10": "Serve quente, guarnecido com aonori, beni shoga e flocos de katsuobushi."
       }
     },
     "recipe_000073": {
@@ -4186,7 +4186,7 @@
     },
     "recipe_000079": {
       "title": "Kani cream korokke — croquetes cremosos de caranguejo",
-      "description": "O Kani Cream Korokke contém um recheio cremoso de caranguejo, cebola e béchamel num pânico crocante. A mistura é resfriada antes de formar as croquetas; depois de fritar servem quente com molho tonkatsu. O coração cremoso do caranguejo contrasta com o pão dourado: depois de fritar as croquetas drenar e servir com tonkatsu.",
+      "description": "As Kani Cream Korokke são croquetes panados e estaladiços, recheados com uma mistura cremosa de caranguejo, cebola e béchamel espesso. Arrefece o recheio até poder ser moldado, passa os croquetes ovais pelo panado e frita até dourar. Escorre e serve quente com molho tonkatsu; a crosta crocante contrasta com o interior cremoso.",
       "animeContext": "Esta receita inspira-se tematicamente em Isekai Shokudo (Restaurant to Another World), Spy x Family. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "polpa_di_granchio": {
@@ -4239,11 +4239,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Numa panela derreta a manteiga e frita a cebola a fogo lento sem torná- la dourada.",
+        "step_1": "Derrete a manteiga numa frigideira e refoga suavemente a cebola picada em lume brando sem a deixar dourar.",
         "step_2": "Adicione farinha e cozinhe por 2 minutos misturando (roux).",
         "step_3": "Junte o leite quente aos poucos, mexendo com umas varas até obter um béchamel espesso e liso.",
         "step_4": "Combine a polpa de caranguejo, sal, pimenta e noz- moscada.",
-        "step_5": "Adicione a mistura em uma panela plana, cubra com película e coloque no frigorífico durante pelo menos 1 hora até que se torne sólida e moldável.",
+        "step_5": "Espalha a mistura num tabuleiro raso, cobre com película alimentar em contacto com a superfície e leva ao frigorífico durante pelo menos 1 hora, até ficar firme e moldável.",
         "step_6": "Com mãos ligeiramente oleadas, divida a mistura fria em 8 porções ovais.",
         "step_7": "Passe cada croqueta para a farinha, em seguida, para o ovo batido e finalmente para o Panko fazendo- o colar bem.",
         "step_8": "Fritar em muito óleo quente a 180°C durante 3 minutos até dourado e crocante.",

@@ -2652,7 +2652,7 @@
     },
     "recipe_000053": {
       "title": "Ebi Tendon — shrimp and vegetable tempura over rice with tentsuyu sauce",
-      "description": "In the Ebi Tendon the hot rice supports shrimps and vegetables in freshly fried tempura. The batter is mixed quickly with frozen water, while the tansuyu sauce of dashi, soy and mirin is prepared separately and added at the time of serving. The contrast arises from the still warm rice and the cold batter; the sauce is distributed without submerging the crust of the tempura.",
+      "description": "Ebi Tendon pairs hot rice with freshly fried shrimp and vegetable tempura. Mix the batter briefly with ice-cold water, prepare the dashi, soy and mirin tentsuyu separately, then spoon on just enough warm sauce at serving time to preserve the crisp coating.",
       "animeContext": "This recipe is thematically inspired by Food Wars! (Shokugeki no Soma), Mob Psycho 100. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "gamberone_freschi_sgusciati": {
@@ -2706,14 +2706,14 @@
       },
       "stepTexts": {
         "step_1": "In a saucepan, add the dashi broth, soy sauce, mirin and sugar.",
-        "step_2": "Brings to a slight boil for 2 minutes so that the sugar melts and the alcohol of the mirin evapori.",
-        "step_3": "Turn it off and keep it off.",
-        "step_4": "Practice 3-4 small diagonal cuts on the belly of each shrimp and gently spread it out to prevent it from curling up during cooking.",
+        "step_2": "Bring to a gentle simmer for 2 minutes so the sugar dissolves and some alcohol from the mirin evaporates.",
+        "step_3": "Turn off the heat and set the sauce aside.",
+        "step_4": "Make 3–4 small diagonal cuts on the underside of each shrimp and gently straighten it to reduce curling during frying.",
         "step_5": "Work the yolk slightly with ice water.",
         "step_6": "Mix the flour all at once and mix very little with the chopsticks (the batter must remain lumpy and very cold).",
         "step_7": "Heats abundant oil at 180°C.",
         "step_8": "Slightly infarina shrimps and vegetables, dip them in the cold batter and fry them for about 2-3 minutes until the tempura is golden and crispy.",
-        "step_9": "Place the hot rice in the bowls (Donburi), sprinkle it with a spoonful of Tentsuyu sauce, stick over the shrimps and vegetables in tempura and add another thread of hot sauce before serving."
+        "step_9": "Divide the hot rice between donburi bowls and drizzle with a spoonful of tentsuyu. Place the freshly fried shrimp and vegetables on top, add a little more warm sauce and serve promptly."
       }
     },
     "recipe_000054": {
@@ -2905,7 +2905,7 @@
     },
     "recipe_000057": {
       "title": "Kurogoma Dango — toasted black sesame dumplings",
-      "description": "The Kurogoma Dango are balls of glutinous rice first boiled and cooled in water and ice, then stuck on skewers and slightly grilled. A hot sauce of black sesame paste, sugar, soy and mirin completes the surface. The light grilling of the skewers precedes the nappatura: the black sesame remains the protagonist of the glossy and fragrant finish.",
+      "description": "Kurogoma Dango are chewy balls made with glutinous rice flour, boiled, chilled in ice water and threaded onto bamboo skewers before a brief grilling. A warm glaze of black sesame paste, sugar, soy sauce and mirin coats the lightly toasted balls just before serving.",
       "animeContext": "This recipe is thematically inspired by Gintama, Samurai Champloo. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "farina_di_riso_glutinoso": {
@@ -2946,8 +2946,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "In a bowl, mix the gluten-free rice flour with sugar.",
-        "step_2": "Combine the water flush by kneading with your fingers until a soft bread with a consistency similar to the earlobe is formed.",
+        "step_1": "Mix the glutinous rice flour with the sugar in a bowl.",
+        "step_2": "Add water gradually while kneading with your fingers until the dough is soft and supple, roughly like an earlobe.",
         "step_3": "Divide the dough into 12 equal balls by rolling them between the palms of the hands.",
         "step_4": "Dive the balls into a pot of boiling water.",
         "step_5": "When they come up, let cook for another 2 minutes.",
@@ -2955,7 +2955,7 @@
         "step_7": "In a saucepan, combine black sesame paste, sugar, soy sauce, mirin and water.",
         "step_8": "Heat on a sweet heat mixing for 2 minutes until the sauce becomes dark, velvety and fragrant.",
         "step_9": "Stick 3 balls of dango on each bamboo skewer.",
-        "step_10": "Slightly grill the skewers on a non-stick pan for 1 minute per side, then nappa generously with the hot black sesame sauce before serving."
+        "step_10": "Lightly grill the skewers in a nonstick pan for 1 minute per side, then generously coat the dango with the warm black-sesame sauce and serve."
       }
     },
     "recipe_000058": {
@@ -3050,7 +3050,7 @@
     },
     "recipe_000060": {
       "title": "Castella — fluffy Japanese sponge cake",
-      "description": "The Castella is a high and soft dessert that gets volume by assembling eggs and sugar for a long time. It incorporates honey and flour sifted without disassembling the mixture, then cooks in the rectangular mold and lets rest wrapped to stabilize the crumb. The rest wrapped after cooking helps to retain moisture; the final veiling of honey completes the golden surface.",
+      "description": "Castella is a tall, soft Japanese sponge cake made by whipping eggs and sugar until voluminous. Fold in honey and sifted flour without deflating the batter, bake in a rectangular pan, then let the wrapped cake rest so the crumb retains moisture. A thin brush of honey finishes the golden surface.",
       "animeContext": "This recipe is thematically inspired by Si alza il vento (Studio Ghibli), Gintama. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -3080,13 +3080,13 @@
       },
       "stepTexts": {
         "step_1": "In a cup melt the honey in warm water with the mirin.",
-        "step_2": "In a large bowl, mount the eggs with sugar using electric whips for at least 10-12 minutes.",
-        "step_3": "As long as the compound becomes clear, foamy and triple in volume.",
+        "step_2": "In a large bowl, beat the eggs and sugar with an electric mixer for at least 10–12 minutes.",
+        "step_3": "Continue until the mixture is pale, foamy and roughly triples in volume.",
         "step_4": "Add the honey mixture in the eggs mounted flush and mix at a low speed for 1 minute.",
-        "step_5": "Slice the flour on the mixture in three shots, gently incorporating it from the bottom upwards with a spatula to not disassemble the dough.",
+        "step_5": "Sift the flour into the mixture in three additions, folding gently from the bottom up with a spatula so the batter does not deflate.",
         "step_6": "Add the dough in a rectangular mold lined with baking paper.",
         "step_7": "Cook in the oven at 160°C in a static oven preheated for 35-40 minutes until the surface is golden and a toothpick comes out dry, freshly baked.",
-        "step_8": "Brush the surface with a veil of honey, wrap the cake in the transparent film and let it rest in the fridge for a few hours: this passage will make the Castle incredibly humid, soft and fragrant."
+        "step_8": "Brush the surface with a thin layer of honey, wrap the cake in food-safe cling film and refrigerate for a few hours. Resting helps the Castella retain its moist, tender crumb."
       }
     },
     "recipe_000061": {
@@ -3498,7 +3498,7 @@
     },
     "recipe_000067": {
       "title": "Monjayaki — Tokyo-style griddled savory pancake",
-      "description": "The Monjayaki is prepared on a plate with cabbage, tenkasu and meat or seafood arranged in a ring. In the middle is poured a very liquid batter made of dash, flour and Worcestershire sauce, then the whole is laid out and let form a crust to be collected with small spatula.",
+      "description": "Monjayaki is cooked on a hot griddle: cabbage, tenkasu and meat or seafood form a ring around a thin batter of dashi, flour and Worcestershire sauce. Pour the batter into the centre, let it thicken briefly, then spread everything across the griddle until a thin crust forms. Eat directly from the griddle with small metal spatulas called hagashi.",
       "animeContext": "This recipe is thematically inspired by K-On!, March Comes in Like a Lion. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "cavolo_cappuccio_tagliato_finissimo": {
@@ -3533,13 +3533,13 @@
       "stepTexts": {
         "step_1": "In a jug add Dashi broth, flour and Worcestershire sauce and whisk well.",
         "step_2": "The batter will be much more liquid than that of Okonomiyaki.",
-        "step_3": "Add cabbage, sea meat/fruits and Tenkasu on an electric plate or large hot frying pan.",
-        "step_4": "Cook by skipping the ingredients for 3 minutes.",
-        "step_5": "Using two small spatulas, shape the cabbage on the hot griddle into a wide ring or volcano, leaving a hollow in the centre.",
+        "step_3": "Add the cabbage, meat or seafood and tenkasu to a hot electric griddle or large frying pan.",
+        "step_4": "Stir-fry the ingredients for 3 minutes.",
+        "step_5": "Use two small spatulas to arrange the cabbage mixture into a wide ring on the griddle, leaving an empty space in the middle.",
         "step_6": "Gently add the liquid batter to the center of the volcano in two shots, allowing it to thicken slightly before mixing all together.",
         "step_7": "Spread the mixture on the plate.",
         "step_8": "Continue cooking until the lower part creates a dark and crunchy crust.",
-        "step_9": "You eat directly from the plate with small metal spatula (Hagashi)!"
+        "step_9": "Eat the monjayaki straight from the hot griddle using small metal spatulas called hagashi; take care to avoid burns."
       }
     },
     "recipe_000068": {
@@ -3777,7 +3777,7 @@
     },
     "recipe_000072": {
       "title": "Classic Griddled Yakisoba",
-      "description": "The classic Yakisoba is prepared by jumping precooked noodles with pork, cabbage and vegetables on the plate. The Worcestershire sauce and condiments wrap the pasta in the wok; aonori, red ginger and katsuobushi complete the dish at the service. Stir-frying over high heat helps the sauce coat the noodles; finish with aonori, beni shoga (pickled red ginger) and katsuobushi as garnishes.",
+      "description": "Classic yakisoba is made by stir-frying pre-cooked noodles with pork belly, cabbage and vegetables on a hot griddle or in a wok. Worcestershire-based sauce coats the noodles over high heat; finish with aonori, beni shoga (pickled red ginger) and bonito flakes (katsuobushi).",
       "animeContext": "This recipe is thematically inspired by My Hero Academia, Food Wars!. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "noodles_precotti_per_yakisoba": {
@@ -3838,12 +3838,12 @@
         "step_2": "Heat a non-stick plate or a wok with a little oil.",
         "step_3": "Cook the pork belly in small pieces until it becomes slightly crispy.",
         "step_4": "Combine the onion, carrots and cabbage.",
-        "step_5": "Skip on a lively heat for 3-4 minutes while keeping the crispy vegetables.",
+        "step_5": "Stir-fry over high heat for 3–4 minutes, keeping the vegetables crisp.",
         "step_6": "Rinse the noodles under hot water to rub them, then join them in a pan together with 2 tablespoons of water.",
         "step_7": "Cover with a lid for 1 minute to vaporize.",
         "step_8": "Add the Yakisoba sauce prepared above the noodles and vegetables.",
         "step_9": "Stir-fry vigorously over high heat for 2 minutes, until the sauce caramelizes slightly.",
-        "step_10": "Serve hot garning with Aonori, Beni Shoga and Katsuobushi bows."
+        "step_10": "Serve hot, garnished with aonori, beni shoga and katsuobushi flakes."
       }
     },
     "recipe_000073": {
@@ -4186,7 +4186,7 @@
     },
     "recipe_000079": {
       "title": "Kani Cream Korokke — creamy crab croquettes",
-      "description": "The Kani Cream Korokke contains a creamy filling of crab, onion and béchamel in a crispy panic. The mixture is cooled before forming the croquettes; after frying they serve hot with tonkatsu sauce. The creamy heart of crab contrasts with golden breading: after frying the croquettes drain and serve with tonkatsu.",
+      "description": "Kani Cream Korokke are crisp, breaded croquettes filled with a rich mixture of crab, onion and thick béchamel. Chill the filling until firm enough to shape, coat the oval croquettes and fry until golden. Drain and serve hot with tonkatsu sauce; the crunchy crust contrasts with the creamy centre.",
       "animeContext": "This recipe is thematically inspired by Isekai Shokudo (Restaurant to Another World), Spy x Family. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "polpa_di_granchio": {
@@ -4239,11 +4239,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "In a pan melt the butter and fry the onion over low heat without turning it golden.",
+        "step_1": "Melt the butter in a pan and gently sauté the chopped onion over low heat without browning it.",
         "step_2": "Add flour and cook for 2 minutes by mixing (roux).",
         "step_3": "Add the hot milk gradually, whisking until you have a very thick, smooth béchamel sauce.",
         "step_4": "Combine the crab pulp, salt, pepper and nutmeg.",
-        "step_5": "Add the mixture on a flat pan, cover with film and put in the fridge for at least 1 hour until it becomes solid and moldable.",
+        "step_5": "Spread the mixture in a shallow tray, cover with food-safe cling film touching its surface and refrigerate for at least 1 hour until firm enough to shape.",
         "step_6": "With slightly oiled hands, divide the cold mixture into 8 oval portions.",
         "step_7": "Pass each croquette into the flour, then into the beaten egg and finally into the Panko making it stick well.",
         "step_8": "Fry in plenty of hot oil at 180°C for 3 minutes until golden and crispy.",
