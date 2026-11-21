@@ -174,7 +174,7 @@
         "whisk_base": "Fouettez les œufs avec le sucre et le miel jusqu’à obtenir un mélange plus clair et légèrement mousseux. Fouettez environ 2 minutes, jusqu’à sucre presque dissous et ruban lisse, sans chercher une mousse complète.",
         "finish_batter": "Délayez la levure dans l’eau, ajoutez-la puis incorporez la farine tamisée jusqu’à obtenir une pâte lisse. Arrêtez dès disparition de la farine; trop mélanger développe le gluten.",
         "rest_batter": "Laissez reposer la pâte 15 minutes au réfrigérateur. Après repos, la pâte doit couler en ruban épais et s’étaler lentement; ajoutez un peu d’eau seulement si trop ferme.",
-        "cook_first_side": "Chauffez une poêle antiadhésive à feu doux, huilez-la très légèrement puis formez de petits disques. Cuisez jusqu’à l’apparition de bulles. Utilisez toujours la même mesure. Quand de nombreuses bulles apparaissent et que le bord devient mat, retournez.",
+        "cook_first_side": "Chauffez une poêle antiadhésive à feu doux et huilez-la très légèrement. Versez des portions régulières de pâte avec la même louche. Quand de nombreuses bulles se forment et que les 5 mm extérieurs deviennent mats, retournez les disques.",
         "cook_second_side": "Retournez les disques et terminez rapidement la cuisson de l’autre face. La seconde face demande souvent seulement 30–60 secondes; trop cuire dessèche les gâteaux.",
         "fill_dorayaki": "Laissez refroidir puis assemblez les disques deux par deux avec l’anko au centre en pinçant doucement les bords. Associez deux disques de taille proche, mettez plus d’anko au centre et affinez vers les bords."
       }
@@ -1958,7 +1958,7 @@
         }
       },
       "stepTexts": {
-        "prep_berries": "Lavez puis séchez parfaitement les fraises. Divisez l’anko en six et enveloppez chaque fraise en laissant la pointe visible.",
+        "prep_berries": "Lavez rapidement les fraises, retirez leur pédoncule et séchez-les soigneusement : l’humidité ferait glisser l’anko. Divisez l’anko en six portions de 25 g et enveloppez chaque fraise en laissant la pointe visible.",
         "mix_mochi": "Mélangez shiratamako, sucre et eau sans grumeaux dans un bol micro-ondable.",
         "microwave": "Cuisez 90 secondes à 600 W, mélangez puis encore 60–90 secondes jusqu’à pâte brillante, translucide et élastique.",
         "dust_divide": "Versez sur beaucoup de fécule, refroidissez juste assez pour manipuler et divisez en six encore tiède.",
@@ -2068,7 +2068,7 @@
         "separate_eggs": "Séparez blancs et jaunes dans des bols impeccables. Fouettez les jaunes avec crème, sel et poivre.",
         "whip_whites": "Montez les blancs en pics fermes et brillants sans les dessécher.",
         "fold": "Incorporez un tiers aux jaunes puis le reste délicatement.",
-        "cook_covered": "Faites fondre le beurre à feu doux, versez la mousse, couvrez et cuisez 5–6 minutes jusqu’à base dorée et dessus juste pris.",
+        "cook_covered": "Faites fondre le beurre dans une poêle antiadhésive de 20–22 cm à feu doux. Versez l’appareil, égalisez légèrement, couvrez et faites cuire environ 5–6 minutes, jusqu’à ce que la base soit dorée et le dessus à peine pris et souple. Gardez le feu doux.",
         "fold_serve": "Pliez sans écraser, transférez sur assiette chaude et versez la sauce tomate autour. Ajoutez la ciboulette."
       }
     },
@@ -2180,7 +2180,7 @@
       "stepTexts": {
         "rehydrate_wakame": "Réhydratez le wakame environ 5 minutes, égouttez et pressez doucement.",
         "heat_dashi": "Portez le dashi à léger frémissement et goûtez avant d’assaisonner; les miso varient en sel.",
-        "warm_tofu": "Ajoutez le tofu en cubes et chauffez environ 2 minutes sans forte ébullition.",
+        "warm_tofu": "Baissez le feu et ajoutez le tofu coupé en cubes de 1 à 1,5 cm. Réchauffez environ 2 minutes sans faire bouillir fortement, pour éviter qu’il ne se casse.",
         "dissolve_miso": "Coupez le feu, diluez le miso avec un peu de dashi puis remettez-le dans la soupe. Éviter une forte ébullition préserve mieux arôme et saveur.",
         "finish": "Ajoutez wakame et ciboule, réchauffez doucement si nécessaire et servez."
       }
@@ -4269,7 +4269,7 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Coquilles de citron ou de Sudachi",
+          "name": "tranches de citron ou de sudachi",
           "note": null
         },
         "salsa_di_soia_per_servire": {
@@ -4279,7 +4279,7 @@
       },
       "stepTexts": {
         "step_1": "Utilisez du sanma (balaou du Pacifique, Cololabis saira) déjà nettoyé et vidé par le poissonnier. Faites-le cuire complètement et vérifiez la partie la plus épaisse ; ne conservez pas les viscères pour cette préparation domestique.",
-        "step_2": "Inciter la peau avec 3 découpes diagonales de chaque côté.",
+        "step_2": "Incisez légèrement la peau avec trois entailles diagonales de chaque côté.",
         "step_3": "Il pulvérise généreusement de gros sel et laisse reposer 10 minutes.",
         "step_4": "Sèche l'humidité libérée par le sel avec du papier absorbant.",
         "step_5": "Faites cuire les poissons sur une grille brûlante ou sur la plaque du four à 220°C pendant environ 6 à 7 minutes par côté.",
@@ -6882,7 +6882,7 @@
         "step_3": "Mélanger miso, sucre, mirin et saké dans une casserole et cuire à feu doux pendant environ 2 minutes, jusqu'à ce que le glaçage soit lisse et assez dense pour adhérer.",
         "step_4": "Grille le tofu 2-3 minutes par côté sur la plaque bien chaude, jusqu'à ce qu'une légère dorure apparaît.",
         "step_5": "Stylo une première fois avec la sauce miso et laisse sécher pendant environ 30 secondes.",
-        "step_6": "Ajoutez une deuxième couche de glaçage et passez sous le grill pendant 1 à 2 minutes, en continuant de vérifier pourquoi le miso sucré brûle facilement.",
+        "step_6": "Appliquez une deuxième couche de glaçage au miso sur le tofu et passez les brochettes sous le gril du four pendant 1 à 2 minutes. Surveillez sans interruption, car le glaçage sucré brûle facilement.",
         "step_7": "Complétez avec du sésame grillé et servez chaud."
       }
     },

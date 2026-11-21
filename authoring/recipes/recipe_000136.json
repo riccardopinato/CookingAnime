@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000136",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -132,7 +132,7 @@
         "step_3": "Mix miso, sugar, mirin and sake in a saucepan and cook over low heat for about 2 minutes until the glaze is smooth and dense enough to stick.",
         "step_4": "Grill the tofu 2-3 minutes per side on a hot plate, until a slight gilding appears.",
         "step_5": "Brush a first time with miso sauce and let dry for about 30 seconds.",
-        "step_6": "Add a second layer of glaze and pass under the grill for 1-2 minutes, checking continuously because the miso sugar burns easily.",
+        "step_6": "Brush on a second layer of miso glaze and place the tofu skewers under the broiler for 1–2 minutes. Watch continuously because the sweet glaze burns easily.",
         "step_7": "Complete with toasted sesame and hot servi."
       }
     },
@@ -212,7 +212,7 @@
         "step_3": "Mezcla miso, azúcar, mirin y sake en una cacerola y cocine bajo fuego durante unos 2 minutos, hasta que el glaseado sea suave y lo suficientemente denso para adherirse.",
         "step_4": "Asa el tofu en una plancha bien caliente durante 2–3 minutos por lado, hasta que se dore ligeramente.",
         "step_5": "Pinta una primera vez con la salsa miso y deja secar durante unos 30 segundos.",
-        "step_6": "Añade una segunda capa de glaseado y pasa por debajo de la parrilla durante 1-2 minutos, controlando continuamente porque el miso de azúcar quema fácilmente.",
+        "step_6": "Aplica una segunda capa de glaseado de miso al tofu y pon las brochetas bajo el gratinador durante 1–2 minutos. Vigila continuamente, porque el glaseado dulce se quema con facilidad.",
         "step_7": "Completa con sésamo tostada y sirvientes calientes."
       }
     },
@@ -252,7 +252,7 @@
         "step_3": "Mélanger miso, sucre, mirin et saké dans une casserole et cuire à feu doux pendant environ 2 minutes, jusqu'à ce que le glaçage soit lisse et assez dense pour adhérer.",
         "step_4": "Grille le tofu 2-3 minutes par côté sur la plaque bien chaude, jusqu'à ce qu'une légère dorure apparaît.",
         "step_5": "Stylo une première fois avec la sauce miso et laisse sécher pendant environ 30 secondes.",
-        "step_6": "Ajoutez une deuxième couche de glaçage et passez sous le grill pendant 1 à 2 minutes, en continuant de vérifier pourquoi le miso sucré brûle facilement.",
+        "step_6": "Appliquez une deuxième couche de glaçage au miso sur le tofu et passez les brochettes sous le gril du four pendant 1 à 2 minutes. Surveillez sans interruption, car le glaçage sucré brûle facilement.",
         "step_7": "Complétez avec du sésame grillé et servez chaud."
       }
     },

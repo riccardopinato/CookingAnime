@@ -4279,13 +4279,13 @@
       },
       "stepTexts": {
         "step_1": "Use sanma (Pacific saury, Cololabis saira) that has already been cleaned and gutted by the fishmonger. Cook thoroughly and check the thickest part; do not leave the viscera in for this home preparation.",
-        "step_2": "Insert the skin with 3 diagonal cuts on each side.",
+        "step_2": "Score the skin with three shallow diagonal cuts on each side.",
         "step_3": "Sprinkle generously with coarse salt and let 10 minutes rest.",
-        "step_4": "Drys the moisture released by the salt with absorbent paper.",
+        "step_4": "Pat the fish dry with paper towels to remove the moisture released by the salt.",
         "step_5": "Cook the fish on a hot grill or on the oven plate at 220°C for about 6-7 minutes per side.",
-        "step_6": "As long as the skin becomes golden, crispy and light burns form.",
+        "step_6": "Continue cooking until the skin is golden and crisp, with a few lightly charred spots.",
         "step_7": "Place whole fish on elongated rectangular plates.",
-        "step_8": "Come with a fresh, grated mountain of Daikon, lightly sprinkled with a drop of soy sauce and a clove of lemon."
+        "step_8": "Serve with a mound of freshly grated daikon, a little soy sauce and a lemon wedge."
       }
     },
     "recipe_000081": {
@@ -5752,7 +5752,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Slightly insert the skin of the mackerel fillets and pour boiling water over it for a few seconds; drain and dry them to mitigate the most intense smell.",
+        "step_1": "Lightly score the skin of the mackerel fillets and pour boiling water over them for a few seconds; drain and pat dry to reduce the strong fishy smell.",
         "step_2": "Cut the ginger into thin slices and prepare in a large pan water or dashi, sake, mirin and sugar.",
         "step_3": "Bring the liquid to a boil and add half the ginger.",
         "step_4": "Place the mackerel with the skin facing upwards, cover with an otoshibuta or perforated baking paper and cook over medium to low heat for about 8-10 minutes.",
@@ -6882,7 +6882,7 @@
         "step_3": "Mix miso, sugar, mirin and sake in a saucepan and cook over low heat for about 2 minutes until the glaze is smooth and dense enough to stick.",
         "step_4": "Grill the tofu 2-3 minutes per side on a hot plate, until a slight gilding appears.",
         "step_5": "Brush a first time with miso sauce and let dry for about 30 seconds.",
-        "step_6": "Add a second layer of glaze and pass under the grill for 1-2 minutes, checking continuously because the miso sugar burns easily.",
+        "step_6": "Brush on a second layer of miso glaze and place the tofu skewers under the broiler for 1–2 minutes. Watch continuously because the sweet glaze burns easily.",
         "step_7": "Complete with toasted sesame and hot servi."
       }
     },

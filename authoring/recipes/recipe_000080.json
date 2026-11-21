@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000080",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -123,13 +123,13 @@
       },
       "steps": {
         "step_1": "Use sanma (Pacific saury, Cololabis saira) that has already been cleaned and gutted by the fishmonger. Cook thoroughly and check the thickest part; do not leave the viscera in for this home preparation.",
-        "step_2": "Insert the skin with 3 diagonal cuts on each side.",
+        "step_2": "Score the skin with three shallow diagonal cuts on each side.",
         "step_3": "Sprinkle generously with coarse salt and let 10 minutes rest.",
-        "step_4": "Drys the moisture released by the salt with absorbent paper.",
+        "step_4": "Pat the fish dry with paper towels to remove the moisture released by the salt.",
         "step_5": "Cook the fish on a hot grill or on the oven plate at 220°C for about 6-7 minutes per side.",
-        "step_6": "As long as the skin becomes golden, crispy and light burns form.",
+        "step_6": "Continue cooking until the skin is golden and crisp, with a few lightly charred spots.",
         "step_7": "Place whole fish on elongated rectangular plates.",
-        "step_8": "Come with a fresh, grated mountain of Daikon, lightly sprinkled with a drop of soy sauce and a clove of lemon."
+        "step_8": "Serve with a mound of freshly grated daikon, a little soy sauce and a lemon wedge."
       }
     },
     "it": {
@@ -200,9 +200,9 @@
         "step_2": "Incide la piel con 3 cortes diagonales en cada lado.",
         "step_3": "Espolvorea generosamente de sal gruesa y deja reposar 10 minutos.",
         "step_4": "Seca la humedad de la sal con papel absorbente.",
-        "step_5": "Cocine los peces sobre una parrilla ardiente o sobre la placa del horno a 220°C durante unos 6-7 minutos por lado.",
-        "step_6": "Hasta que la piel se vuelve dorada, crujiente y se forman pequeñas quemaduras.",
-        "step_7": "Arregla los peces enteros sobre platos rectangulares alargados.",
+        "step_5": "Asa el pescado en una parrilla caliente o en el horno a 220 °C durante aproximadamente 6–7 minutos por lado.",
+        "step_6": "Continúa hasta que la piel esté dorada y crujiente, con algunas marcas tostadas.",
+        "step_7": "Coloca los pescados enteros en platos rectangulares alargados.",
         "step_8": "Acompaña con daikon fresco rallado, unas gotas de salsa de soja y una rodaja de limón."
       }
     },
@@ -224,7 +224,7 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Coquilles de citron ou de Sudachi",
+          "name": "tranches de citron ou de sudachi",
           "note": null
         },
         "salsa_di_soia_per_servire": {
@@ -234,7 +234,7 @@
       },
       "steps": {
         "step_1": "Utilisez du sanma (balaou du Pacifique, Cololabis saira) déjà nettoyé et vidé par le poissonnier. Faites-le cuire complètement et vérifiez la partie la plus épaisse ; ne conservez pas les viscères pour cette préparation domestique.",
-        "step_2": "Inciter la peau avec 3 découpes diagonales de chaque côté.",
+        "step_2": "Incisez légèrement la peau avec trois entailles diagonales de chaque côté.",
         "step_3": "Il pulvérise généreusement de gros sel et laisse reposer 10 minutes.",
         "step_4": "Sèche l'humidité libérée par le sel avec du papier absorbant.",
         "step_5": "Faites cuire les poissons sur une grille brûlante ou sur la plaque du four à 220°C pendant environ 6 à 7 minutes par côté.",
@@ -261,7 +261,7 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Zitronen- oder Sudachi-Fenkel",
+          "name": "Zitronen- oder Sudachischeiben",
           "note": null
         },
         "salsa_di_soia_per_servire": {
@@ -274,9 +274,9 @@
         "step_2": "Die Haut auf jeder Seite mit drei flachen diagonalen Schnitten einschneiden.",
         "step_3": "Den Fisch großzügig mit grobem Salz bestreuen und 10 Minuten ruhen lassen.",
         "step_4": "Trocknen Sie die vom Salz freigesetzte Feuchtigkeit mit absorbierendem Papier.",
-        "step_5": "Kochen Sie die Fische für ca. 6-7 Minuten pro Seite auf einem brennenden Grill oder auf der Backplatte bei 220 °C.",
-        "step_6": "Solange die Haut goldig, knusprig und leicht verbrennt wird.",
-        "step_7": "Setzen Sie die ganzen Fische auf gestreckten rechteckigen Tellern.",
+        "step_5": "Den Fisch auf einem heißen Grill oder im Ofen bei 220 °C etwa 6–7 Minuten pro Seite garen.",
+        "step_6": "Weitergaren, bis die Haut goldbraun und knusprig ist und sich leichte Röstaromen bilden.",
+        "step_7": "Die ganzen Fische auf länglichen rechteckigen Tellern anrichten.",
         "step_8": "Mit frisch geriebenem Daikon, etwas Sojasauce und einer Zitronenspalte servieren."
       }
     },
@@ -308,7 +308,7 @@
       },
       "steps": {
         "step_1": "Utilize sanma (agulhão-do-Japão, Cololabis saira) já limpo e eviscerado pelo peixeiro. Cozinhe completamente e verifique a parte mais espessa; não deixe as vísceras nesta preparação doméstica.",
-        "step_2": "Insira a pele com 3 cortes diagonais em cada lado.",
+        "step_2": "Faça três cortes diagonais superficiais na pele de cada lado do peixe.",
         "step_3": "Espolvore generosamente com sal grosso e deixe descansar 10 minutos.",
         "step_4": "Seca a umidade liberada pelo sal com papel absorvente.",
         "step_5": "Cozinhe o peixe numa grelha quente ou na placa do forno a 220°C por cerca de 6-7 minutos por lado.",

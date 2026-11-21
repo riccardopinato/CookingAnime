@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000004",
-  "contentVersion": 2,
+  "contentVersion": 3,
   "status": "published",
   "inspirationTitle": "Doraemon",
   "prepMinutes": 15,
@@ -197,7 +197,7 @@
         "whisk_base": "Bate los huevos con el azúcar y la miel hasta obtener una mezcla más clara y ligeramente espumosa. Bate unos 2 minutos hasta que el azúcar casi se disuelva y la mezcla caiga en cinta, sin montarla en exceso.",
         "finish_batter": "Disuelve la levadura en el agua, añádela al bol e incorpora la harina tamizada hasta conseguir una masa lisa. Deja de mezclar en cuanto desaparezca la harina; batir de más desarrolla gluten.",
         "rest_batter": "Deja reposar la masa 15 minutos en el frigorífico. Tras el reposo debe caer en cinta espesa y extenderse lentamente; añade solo una cucharadita de agua si está demasiado densa.",
-        "cook_first_side": "Calienta una sartén antiadherente a fuego bajo, engrásala apenas y forma discos pequeños con la masa. Cocina hasta que aparezcan burbujas. Usa siempre la misma medida. Cuando aparezcan muchas burbujas y el borde se vea mate, gira.",
+        "cook_first_side": "Calienta una sartén antiadherente a fuego bajo, engrásala ligeramente y vierte porciones pequeñas y uniformes de masa. Usa siempre la misma medida; cuando aparezcan muchas burbujas y los 5 mm exteriores se vean mates, gira los discos.",
         "cook_second_side": "Da la vuelta a los discos y cocina brevemente la segunda cara hasta que se dore. El segundo lado suele necesitar solo 30–60 segundos; demasiado tiempo seca los discos.",
         "fill_dorayaki": "Deja enfriar, une los discos de dos en dos con anko en el centro y presiona suavemente los bordes. Empareja discos del mismo tamaño, deja el anko más grueso en el centro y más fino en el borde."
       },
@@ -240,7 +240,7 @@
         "whisk_base": "Fouettez les œufs avec le sucre et le miel jusqu’à obtenir un mélange plus clair et légèrement mousseux. Fouettez environ 2 minutes, jusqu’à sucre presque dissous et ruban lisse, sans chercher une mousse complète.",
         "finish_batter": "Délayez la levure dans l’eau, ajoutez-la puis incorporez la farine tamisée jusqu’à obtenir une pâte lisse. Arrêtez dès disparition de la farine; trop mélanger développe le gluten.",
         "rest_batter": "Laissez reposer la pâte 15 minutes au réfrigérateur. Après repos, la pâte doit couler en ruban épais et s’étaler lentement; ajoutez un peu d’eau seulement si trop ferme.",
-        "cook_first_side": "Chauffez une poêle antiadhésive à feu doux, huilez-la très légèrement puis formez de petits disques. Cuisez jusqu’à l’apparition de bulles. Utilisez toujours la même mesure. Quand de nombreuses bulles apparaissent et que le bord devient mat, retournez.",
+        "cook_first_side": "Chauffez une poêle antiadhésive à feu doux et huilez-la très légèrement. Versez des portions régulières de pâte avec la même louche. Quand de nombreuses bulles se forment et que les 5 mm extérieurs deviennent mats, retournez les disques.",
         "cook_second_side": "Retournez les disques et terminez rapidement la cuisson de l’autre face. La seconde face demande souvent seulement 30–60 secondes; trop cuire dessèche les gâteaux.",
         "fill_dorayaki": "Laissez refroidir puis assemblez les disques deux par deux avec l’anko au centre en pinçant doucement les bords. Associez deux disques de taille proche, mettez plus d’anko au centre et affinez vers les bords."
       },
@@ -283,7 +283,7 @@
         "whisk_base": "Eier, Zucker und Honig schlagen, bis die Mischung heller und leicht schaumig ist. Etwa 2 Minuten rühren, bis der Zucker fast gelöst ist und die Masse bandartig fällt; nicht stark aufschlagen.",
         "finish_batter": "Backpulver im Wasser auflösen, dazugeben und das gesiebte Mehl zu einem glatten Teig einarbeiten. Sobald kein Mehl mehr sichtbar ist aufhören; zu langes Rühren entwickelt Gluten.",
         "rest_batter": "Den Teig 15 Minuten im Kühlschrank ruhen lassen. Nach der Ruhe soll der Teig dick bandartig fließen und langsam verlaufen; nur bei Bedarf wenig Wasser zugeben.",
-        "cook_first_side": "Eine beschichtete Pfanne bei niedriger Hitze erwärmen, hauchdünn einfetten und kleine Teigkreise ausbacken, bis oben Bläschen erscheinen. Immer dieselbe Portionierung verwenden. Bei vielen Bläschen und mattem Rand wenden.",
+        "cook_first_side": "Eine beschichtete Pfanne bei niedriger Hitze erwärmen und hauchdünn einfetten. Kleine Teigkreise ausbacken, dabei immer dieselbe Portionierung verwenden. Wenn sich viele Bläschen bilden und die äußeren 5 mm matt werden, die Dorayaki wenden.",
         "cook_second_side": "Die Kreise wenden und die zweite Seite kurz goldbraun backen. Die zweite Seite braucht meist nur 30–60 Sekunden; zu langes Garen trocknet die Küchlein aus.",
         "fill_dorayaki": "Abkühlen lassen, jeweils zwei Pancakes mit Anko füllen und die Ränder sanft zusammendrücken. Gleich große Scheiben paaren, Anko in der Mitte dicker und zum Rand dünner verteilen."
       },
@@ -326,7 +326,7 @@
         "whisk_base": "Bata os ovos com o açúcar e o mel até a mistura ficar mais clara e levemente espumosa. Bata por cerca de 2 minutos até o açúcar quase dissolver e a mistura cair em fita, sem montar demais.",
         "finish_batter": "Dissolva o fermento na água, junte à tigela e incorpore a farinha peneirada até obter uma massa lisa. Pare de misturar assim que a farinha desaparecer; mexer demais desenvolve glúten.",
         "rest_batter": "Deixe a massa descansar na geladeira por 15 minutos. Após o descanso, deve cair em fita grossa e espalhar lentamente; adicione só um pouco de água se estiver muito espessa.",
-        "cook_first_side": "Aqueça uma frigideira antiaderente em fogo baixo, unte muito levemente e forme pequenos discos de massa. Cozinhe até surgirem bolhas. Use sempre a mesma medida. Quando surgirem muitas bolhas e a borda ficar opaca, vire.",
+        "cook_first_side": "Aqueça uma frigideira antiaderente em lume brando e unte-a ligeiramente. Deite porções pequenas e uniformes de massa usando sempre a mesma medida. Quando surgirem muitas bolhas e os 5 mm exteriores ficarem opacos, vire os discos.",
         "cook_second_side": "Vire os discos e cozinhe rapidamente o segundo lado até dourar. O segundo lado geralmente precisa só de 30–60 segundos; cozinhar demais resseca.",
         "fill_dorayaki": "Espere esfriar, una os discos aos pares com anko no centro e pressione suavemente as bordas. Combine discos de tamanho parecido, deixe o anko mais espesso no centro e mais fino nas bordas."
       },

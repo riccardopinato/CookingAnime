@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000023",
-  "contentVersion": 1,
+  "contentVersion": 2,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -374,7 +374,7 @@
       "steps": {
         "prep_pork": "Schweinefleisch trocken tupfen, Fettrand alle 2–3 cm leicht einschneiden und nur sanft auf gleichmäßige Dicke klopfen.",
         "season_bread": "Salzen, pfeffern, dünn mehlieren, vollständig durch Ei ziehen und in Panko drücken, ohne die Flocken zu zerquetschen. 5 Minuten ruhen lassen.",
-        "first_fry": "4–5 cm Öl auf etwa 170°C erhitzen und ohne Überfüllung etwa 3 Minuten je Seite frittieren; 165–175°C halten.",
+        "first_fry": "4–5 cm Öl auf etwa 170 °C. Die Schnitzel ohne Überfüllung frittieren, bis die Panade hellgolden ist: bei 1,5–2 cm dicken Scheiben etwa 3 Minuten je Seite. Die Öltemperatur zwischen 165 und 175 °C halten.",
         "rest_check": "3 Minuten auf einem Gitter ruhen lassen, damit die Restwärme den Kern erreicht. Sichere Garung an der dicksten Stelle prüfen, nicht nur nach der Krustenfarbe urteilen.",
         "crisp_finish": "Für extra Knusprigkeit 30–60 Sekunden bei etwa 180°C nachfrittieren und auf einem Gitter abtropfen lassen.",
         "slice_serve": "Eine Minute ruhen lassen, in etwa 2 cm breite Streifen schneiden und sofort mit Kohl, Tonkatsu-Sauce und Zitrone servieren."
