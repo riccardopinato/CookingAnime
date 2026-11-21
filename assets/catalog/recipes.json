@@ -2589,7 +2589,7 @@
     },
     {
       "id": "recipe_000029",
-      "contentVersion": 2,
+      "contentVersion": 3,
       "status": "published",
       "inspirationTitle": "Chainsaw Man",
       "animeReferences": [
@@ -2699,7 +2699,7 @@
     },
     {
       "id": "recipe_000030",
-      "contentVersion": 1,
+      "contentVersion": 2,
       "status": "published",
       "inspirationTitle": "K-On!",
       "animeReferences": [

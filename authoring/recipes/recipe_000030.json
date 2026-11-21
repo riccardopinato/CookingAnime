@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000030",
-  "contentVersion": 1,
+  "contentVersion": 2,
   "status": "published",
   "inspirationTitle": "K-On!",
   "animeReferences": [
@@ -271,7 +271,7 @@
         "prep_pan_eggs": "Forra un molde de 18 cm y precalienta a 170°C. Entibia huevos y azúcar al baño maría y bate 8–10 minutos hasta triplicar volumen y formar cinta.",
         "fold_batter": "Incorpora harina tamizada en dos veces con movimientos envolventes. Mezcla mantequilla con leche, aligera con un poco de masa y reincorpora sin perder aire.",
         "bake_cool": "Hornea a 170°C 23–25 minutos hasta que rebote al tacto y el palillo salga limpio. Desmolda y enfría por completo antes de cortar.",
-        "prep_filling": "Monta nata fría con azúcar glas a picos medios-firmes. Corta parte de las fresas en láminas y enfría el almíbar.",
+        "prep_filling": "Enfría el cuenco y las varillas. Bate la nata con el azúcar glas hasta formar picos medio firmes, estables pero aún lisos. Corta parte de las fresas en láminas de 4–5 mm y reserva las más bonitas para decorar. Disuelve el azúcar del almíbar en el agua caliente y deja enfriar.",
         "split_syrup_fill": "Corta el bizcocho frío en dos, humedece ligeramente, rellena con nata y fresas sin grandes huecos y cierra con la segunda capa.",
         "frost_decorate": "Aplica una capa fina, enfría si hace falta y cubre con el resto de nata. Decora con fresas bien secas.",
         "chill": "Refrigera al menos 2 horas antes de cortar y conserva siempre en frío."
@@ -327,7 +327,7 @@
         "prep_pan_eggs": "Chemisez un moule de 18 cm et préchauffez à 170°C. Tiédissez œufs et sucre au bain-marie puis fouettez 8–10 minutes jusqu’au ruban.",
         "fold_batter": "Incorporez la farine tamisée en deux fois délicatement. Mélangez beurre et lait, allégez avec un peu de pâte puis réincorporez sans faire retomber.",
         "bake_cool": "Cuisez 23–25 minutes à 170°C, jusqu’à reprise au toucher et pique propre. Démoulez et refroidissez complètement.",
-        "prep_filling": "Montez la crème froide avec sucre glace à pics moyens-fermes. Tranchez une partie des fraises et refroidissez le sirop.",
+        "prep_filling": "Refroidissez le bol et les fouets. Montez la crème avec le sucre glace jusqu’à obtenir des pics moyennement fermes, stables mais encore lisses. Coupez une partie des fraises en tranches de 4 à 5 mm et réservez les plus belles pour le dessus. Dissolvez le sucre du sirop dans l’eau chaude, puis laissez refroidir.",
         "split_syrup_fill": "Coupez le biscuit froid en deux, imbibez légèrement, garnissez de crème et fraises puis refermez avec le second disque.",
         "frost_decorate": "Faites une fine sous-couche, refroidissez si nécessaire puis couvrez et décorez avec crème et fraises bien sèches.",
         "chill": "Réfrigérez au moins 2 heures avant de trancher et conservez au froid."
@@ -383,7 +383,7 @@
         "prep_pan_eggs": "18-cm-Form vorbereiten und Ofen auf 170°C heizen. Eier und Zucker im Wasserbad lauwarm werden lassen und 8–10 Minuten bis zum Bandstadium aufschlagen.",
         "fold_batter": "Gesiebtes Mehl in zwei Portionen vorsichtig unterheben. Butter und Milch mischen, mit etwas Teig angleichen und rasch unterheben.",
         "bake_cool": "Bei 170°C 23–25 Minuten backen, bis die Oberfläche zurückfedert und ein Stäbchen sauber bleibt. Vollständig auskühlen lassen.",
-        "prep_filling": "Kalte Sahne mit Puderzucker zu mittelfesten Spitzen schlagen. Einen Teil der Erdbeeren schneiden und Sirup abkühlen.",
+        "prep_filling": "Schüssel und Rührbesen kühlen. Die Sahne mit Puderzucker zu mittelfesten, stabilen, aber noch glatten Spitzen aufschlagen. Einen Teil der Erdbeeren in 4–5 mm dicke Scheiben schneiden und die schönsten Früchte für die Oberfläche aufbewahren. Den Zucker für den Sirup in warmem Wasser auflösen und abkühlen lassen.",
         "split_syrup_fill": "Kalten Boden halbieren, leicht tränken, mit Sahne und Erdbeeren füllen und zweite Lage aufsetzen.",
         "frost_decorate": "Dünn vorstreichen, bei Bedarf kühlen, dann vollständig mit Sahne überziehen und mit trockenen Erdbeeren dekorieren.",
         "chill": "Mindestens 2 Stunden kühlen und bis zum Servieren kalt halten."
@@ -439,7 +439,7 @@
         "prep_pan_eggs": "Forre uma forma de 18 cm e aqueça o forno a 170°C. Aqueça levemente ovos e açúcar em banho-maria e bata 8–10 minutos até triplicar e formar fita.",
         "fold_batter": "Incorpore a farinha peneirada em duas etapas. Misture manteiga e leite, alivie com um pouco da massa e reincorpore sem perder ar.",
         "bake_cool": "Asse a 170°C por 23–25 minutos até voltar ao toque e o palito sair limpo. Desenforme e esfrie completamente.",
-        "prep_filling": "Bata o creme gelado com açúcar até picos médios-firmes. Fatie parte dos morangos e esfrie a calda.",
+        "prep_filling": "Arrefeça a tigela e as varas da batedeira. Bata as natas com açúcar em pó até formar picos médios a firmes, estáveis mas ainda lisos. Corte parte dos morangos em fatias de 4–5 mm e reserve os mais bonitos para a cobertura. Dissolva o açúcar da calda na água quente e deixe arrefecer.",
         "split_syrup_fill": "Corte o bolo frio em duas camadas, umedeça levemente, recheie com creme e morangos e cubra com a segunda camada.",
         "frost_decorate": "Faça uma camada fina, resfrie se necessário, cubra com o restante do creme e decore com morangos bem secos.",
         "chill": "Leve à geladeira por pelo menos 2 horas antes de cortar e mantenha refrigerado."

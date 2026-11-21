@@ -187,6 +187,40 @@ EXPECTED = {
       ],
       "ingredients": []
     }
+  },
+  "recipe_000029": {
+    "de": {
+      "steps": [
+        "cook_tonkatsu"
+      ],
+      "ingredients": []
+    }
+  },
+  "recipe_000030": {
+    "es": {
+      "steps": [
+        "prep_filling"
+      ],
+      "ingredients": []
+    },
+    "fr": {
+      "steps": [
+        "prep_filling"
+      ],
+      "ingredients": []
+    },
+    "de": {
+      "steps": [
+        "prep_filling"
+      ],
+      "ingredients": []
+    },
+    "pt": {
+      "steps": [
+        "prep_filling"
+      ],
+      "ingredients": []
+    }
   }
 }
 FORBIDDEN = {

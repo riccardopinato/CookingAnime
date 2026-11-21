@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000029",
-  "contentVersion": 2,
+  "contentVersion": 3,
   "status": "published",
   "inspirationTitle": "Chainsaw Man",
   "animeReferences": [
@@ -426,7 +426,7 @@
         "start_curry": "Zwiebel in Öl weich und leicht goldbraun braten, Karotte und Kartoffel zugeben und 2–3 Minuten anschwitzen.",
         "simmer_vegetables": "500 ml Wasser oder Brühe zugeben und etwa 15 Minuten teilweise abgedeckt köcheln, bis das Gemüse weich ist.",
         "add_roux": "Hitze ausschalten, etwa 45 g Curry-Roux vollständig lösen, dann bei niedriger Hitze 4–5 Minuten eindicken; Packungsverhältnis bei abweichender Marke beachten.",
-        "cook_tonkatsu": "Schweinefleisch trocken tupfen, Fettrand alle 2–3 cm leicht einschneiden und nur sanft auf gleichmäßige Dicke klopfen. Salzen, pfeffern, dünn mehlieren, vollständig durch Ei ziehen und in Panko drücken, ohne die Flocken zu zerquetschen. 5 Minuten ruhen lassen. 4–5 cm Öl auf etwa 170°C erhitzen und ohne Überfüllung etwa 3 Minuten je Seite frittieren; 165–175°C halten. 3 Minuten auf einem Gitter ruhen lassen, damit die Restwärme den Kern erreicht. Sichere Garung an der dicksten Stelle prüfen, nicht nur nach der Krustenfarbe urteilen.",
+        "cook_tonkatsu": "Schweinefleisch trocken tupfen, Fettrand alle 2–3 cm leicht einschneiden und nur sanft auf gleichmäßige Dicke klopfen. Salzen, pfeffern, dünn mehlieren, vollständig durch Ei ziehen und in Panko drücken, ohne die Flocken zu zerquetschen. 5 Minuten ruhen lassen. 4–5 cm Öl auf etwa 170°C erhitzen und die 1,5–2 cm dicken Schnitzel ohne Überfüllung etwa 3 Minuten je Seite frittieren; 165–175°C halten. 3 Minuten auf einem Gitter ruhen lassen, damit die Restwärme den Kern erreicht. Sichere Garung an der dicksten Stelle prüfen, nicht nur nach der Krustenfarbe urteilen.",
         "assemble": "Reis, Tonkatsu und Curry so anrichten, dass ein Teil der Kruste trocken bleibt; optional Fukujinzuke dazu."
       }
     },
