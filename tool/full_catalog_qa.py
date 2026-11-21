@@ -2,6 +2,7 @@
 """Cooking Anime: source-locked *structural* full catalog audit, not semantic certification."""
 from __future__ import annotations
 import argparse
+import hashlib
 import json
 from collections import Counter
 from pathlib import Path
@@ -119,8 +120,18 @@ def run(root: Path = ROOT):
             errors.append({"code": "UI_ARB_KEY_MISMATCH", "locale": locale,
                            "missing": sorted(baseline - keys),
                            "extra": sorted(keys - baseline)})
+    # Hash exact source, generated runtime and UI bytes; report is not portable
+    # to a different commit without re-running verification.
+    inspected = [*authors, root / "assets/catalog/recipes.json"]
+    inspected += [root / f"assets/catalog/locales/{loc}.json" for loc in LOCALES]
+    inspected += [root / f"lib/l10n/app_{loc}.arb" for loc in LOCALES]
+    fingerprint = hashlib.sha256()
+    for path in inspected:
+        fingerprint.update(path.relative_to(root).as_posix().encode("utf-8") + b"\0")
+        fingerprint.update(path.read_bytes() + b"\0")
     return {
         "report": "COOKING_162_FULL_STRUCTURAL_QA",
+        "inputFingerprint": fingerprint.hexdigest(),
         "source": "authoring/recipes",
         "sourceRecipes": len(authors),
         "canonicalRuntimeRecipes": len(recipes),
