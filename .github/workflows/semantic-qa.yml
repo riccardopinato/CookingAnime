@@ -67,7 +67,7 @@ jobs:
           python3 tool/semantic_qa_adapter.py --verify-report build/semantic_qa/report.json
       - name: Language Engine v1 — pinned offline memory and glossary QA
         env:
-          LANGUAGE_SHA: d90c274cd33a9e727e070aa9fa45a506c2ae13c5
+          LANGUAGE_SHA: 414e4965eab7229808b42fc049a8f664250adadc
         run: |
           curl --fail --location --silent --show-error --retry 3 \
             "https://raw.githubusercontent.com/riccardopinato/App-Factory-Core/$LANGUAGE_SHA/reference_engines/language_engine/language_engine.py" \
