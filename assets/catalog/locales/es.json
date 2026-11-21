@@ -174,7 +174,7 @@
         "whisk_base": "Bate los huevos con el azúcar y la miel hasta obtener una mezcla más clara y ligeramente espumosa. Bate unos 2 minutos hasta que el azúcar casi se disuelva y la mezcla caiga en cinta, sin montarla en exceso.",
         "finish_batter": "Disuelve la levadura en el agua, añádela al bol e incorpora la harina tamizada hasta conseguir una masa lisa. Deja de mezclar en cuanto desaparezca la harina; batir de más desarrolla gluten.",
         "rest_batter": "Deja reposar la masa 15 minutos en el frigorífico. Tras el reposo debe caer en cinta espesa y extenderse lentamente; añade solo una cucharadita de agua si está demasiado densa.",
-        "cook_first_side": "Calienta una sartén antiadherente a fuego bajo, engrásala apenas y forma discos pequeños con la masa. Cocina hasta que aparezcan burbujas. Usa siempre la misma medida. Cuando aparezcan muchas burbujas y el borde se vea mate, gira.",
+        "cook_first_side": "Calienta una sartén antiadherente a fuego bajo, engrásala ligeramente y vierte porciones pequeñas y uniformes de masa. Usa siempre la misma medida; cuando aparezcan muchas burbujas y los 5 mm exteriores se vean mates, gira los discos.",
         "cook_second_side": "Da la vuelta a los discos y cocina brevemente la segunda cara hasta que se dore. El segundo lado suele necesitar solo 30–60 segundos; demasiado tiempo seca los discos.",
         "fill_dorayaki": "Deja enfriar, une los discos de dos en dos con anko en el centro y presiona suavemente los bordes. Empareja discos del mismo tamaño, deja el anko más grueso en el centro y más fino en el borde."
       }
@@ -1530,7 +1530,7 @@
         "prep_pan_eggs": "Forra un molde de 18 cm y precalienta a 170°C. Entibia huevos y azúcar al baño maría y bate 8–10 minutos hasta triplicar volumen y formar cinta.",
         "fold_batter": "Incorpora harina tamizada en dos veces con movimientos envolventes. Mezcla mantequilla con leche, aligera con un poco de masa y reincorpora sin perder aire.",
         "bake_cool": "Hornea a 170°C 23–25 minutos hasta que rebote al tacto y el palillo salga limpio. Desmolda y enfría por completo antes de cortar.",
-        "prep_filling": "Monta nata fría con azúcar glas a picos medios-firmes. Corta parte de las fresas en láminas y enfría el almíbar.",
+        "prep_filling": "Enfría el cuenco y las varillas. Bate la nata con el azúcar glas hasta formar picos medio firmes, estables pero aún lisos. Corta parte de las fresas en láminas de 4–5 mm y reserva las más bonitas para decorar. Disuelve el azúcar del almíbar en el agua caliente y deja enfriar.",
         "split_syrup_fill": "Corta el bizcocho frío en dos, humedece ligeramente, rellena con nata y fresas sin grandes huecos y cierra con la segunda capa.",
         "frost_decorate": "Aplica una capa fina, enfría si hace falta y cubre con el resto de nata. Decora con fresas bien secas.",
         "chill": "Refrigera al menos 2 horas antes de cortar y conserva siempre en frío."
@@ -1958,7 +1958,7 @@
         }
       },
       "stepTexts": {
-        "prep_berries": "Lava y seca perfectamente las fresas. Divide el anko en seis porciones y envuelve cada fruta dejando la punta visible.",
+        "prep_berries": "Lava las fresas rápidamente, quítales el pedúnculo y sécalas muy bien: la humedad hace que el anko resbale. Divide el anko en seis porciones de 25 g y envuelve cada fresa dejando la punta visible.",
         "mix_mochi": "Mezcla shiratamako, azúcar y agua sin grumos en un bol apto para microondas.",
         "microwave": "Cocina tapado sin sellar 90 segundos a 600 W, remueve y cocina 60–90 segundos más hasta que quede brillante, translúcido y elástico.",
         "dust_divide": "Vuelca sobre abundante almidón, enfría solo hasta poder tocar y divide en seis mientras sigue tibio.",
@@ -2068,7 +2068,7 @@
         "separate_eggs": "Separa claras y yemas en cuencos limpios. Bate yemas con nata, sal y pimienta.",
         "whip_whites": "Monta claras a picos firmes y brillantes sin llegar a secarlas.",
         "fold": "Incorpora un tercio a las yemas y luego el resto con movimientos envolventes.",
-        "cook_covered": "Derrite mantequilla en sartén antiadherente a fuego bajo, añade la mezcla, tapa y cocina 5–6 minutos hasta base dorada y parte superior apenas cuajada.",
+        "cook_covered": "Derrite la mantequilla en una sartén antiadherente de 20–22 cm a fuego bajo. Vierte la mezcla, nivela suavemente, tapa y cocina 5–6 minutos hasta que la base esté dorada y la superficie apenas cuajada y elástica. Mantén el fuego suave.",
         "fold_serve": "Dobla sin aplastar, sirve en plato caliente y coloca la salsa de tomate alrededor. Termina con cebollino."
       }
     },
@@ -2180,7 +2180,7 @@
       "stepTexts": {
         "rehydrate_wakame": "Hidrata el wakame unos 5 minutos, escurre y exprime suavemente.",
         "heat_dashi": "Lleva el dashi a hervor suave y prueba antes de salar; cada miso tiene distinta salinidad.",
-        "warm_tofu": "Añade tofu en cubos y calienta unos 2 minutos sin hervor fuerte.",
+        "warm_tofu": "Baja el fuego y añade el tofu cortado en cubos de 1–1,5 cm. Caliéntalo unos 2 minutos sin hervir con fuerza, para evitar que se rompa.",
         "dissolve_miso": "Apaga el fuego, disuelve el miso con un poco de dashi en un cucharón o colador, prueba y ajusta. Evitar hervir fuerte preserva mejor aroma y sabor.",
         "finish": "Añade wakame y cebolleta, recalienta suavemente si hace falta y sirve."
       }
@@ -4282,9 +4282,9 @@
         "step_2": "Incide la piel con 3 cortes diagonales en cada lado.",
         "step_3": "Espolvorea generosamente de sal gruesa y deja reposar 10 minutos.",
         "step_4": "Seca la humedad de la sal con papel absorbente.",
-        "step_5": "Cocine los peces sobre una parrilla ardiente o sobre la placa del horno a 220°C durante unos 6-7 minutos por lado.",
-        "step_6": "Hasta que la piel se vuelve dorada, crujiente y se forman pequeñas quemaduras.",
-        "step_7": "Arregla los peces enteros sobre platos rectangulares alargados.",
+        "step_5": "Asa el pescado en una parrilla caliente o en el horno a 220 °C durante aproximadamente 6–7 minutos por lado.",
+        "step_6": "Continúa hasta que la piel esté dorada y crujiente, con algunas marcas tostadas.",
+        "step_7": "Coloca los pescados enteros en platos rectangulares alargados.",
         "step_8": "Acompaña con daikon fresco rallado, unas gotas de salsa de soja y una rodaja de limón."
       }
     },
@@ -6882,7 +6882,7 @@
         "step_3": "Mezcla miso, azúcar, mirin y sake en una cacerola y cocine bajo fuego durante unos 2 minutos, hasta que el glaseado sea suave y lo suficientemente denso para adherirse.",
         "step_4": "Asa el tofu en una plancha bien caliente durante 2–3 minutos por lado, hasta que se dore ligeramente.",
         "step_5": "Pinta una primera vez con la salsa miso y deja secar durante unos 30 segundos.",
-        "step_6": "Añade una segunda capa de glaseado y pasa por debajo de la parrilla durante 1-2 minutos, controlando continuamente porque el miso de azúcar quema fácilmente.",
+        "step_6": "Aplica una segunda capa de glaseado de miso al tofu y pon las brochetas bajo el gratinador durante 1–2 minutos. Vigila continuamente, porque el glaseado dulce se quema con facilidad.",
         "step_7": "Completa con sésamo tostada y sirvientes calientes."
       }
     },

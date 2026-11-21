@@ -174,7 +174,7 @@
         "whisk_base": "Eier, Zucker und Honig schlagen, bis die Mischung heller und leicht schaumig ist. Etwa 2 Minuten rühren, bis der Zucker fast gelöst ist und die Masse bandartig fällt; nicht stark aufschlagen.",
         "finish_batter": "Backpulver im Wasser auflösen, dazugeben und das gesiebte Mehl zu einem glatten Teig einarbeiten. Sobald kein Mehl mehr sichtbar ist aufhören; zu langes Rühren entwickelt Gluten.",
         "rest_batter": "Den Teig 15 Minuten im Kühlschrank ruhen lassen. Nach der Ruhe soll der Teig dick bandartig fließen und langsam verlaufen; nur bei Bedarf wenig Wasser zugeben.",
-        "cook_first_side": "Eine beschichtete Pfanne bei niedriger Hitze erwärmen, hauchdünn einfetten und kleine Teigkreise ausbacken, bis oben Bläschen erscheinen. Immer dieselbe Portionierung verwenden. Bei vielen Bläschen und mattem Rand wenden.",
+        "cook_first_side": "Eine beschichtete Pfanne bei niedriger Hitze erwärmen und hauchdünn einfetten. Kleine Teigkreise ausbacken, dabei immer dieselbe Portionierung verwenden. Wenn sich viele Bläschen bilden und die äußeren 5 mm matt werden, die Dorayaki wenden.",
         "cook_second_side": "Die Kreise wenden und die zweite Seite kurz goldbraun backen. Die zweite Seite braucht meist nur 30–60 Sekunden; zu langes Garen trocknet die Küchlein aus.",
         "fill_dorayaki": "Abkühlen lassen, jeweils zwei Pancakes mit Anko füllen und die Ränder sanft zusammendrücken. Gleich große Scheiben paaren, Anko in der Mitte dicker und zum Rand dünner verteilen."
       }
@@ -1116,7 +1116,7 @@
       "stepTexts": {
         "prep_pork": "Schweinefleisch trocken tupfen, Fettrand alle 2–3 cm leicht einschneiden und nur sanft auf gleichmäßige Dicke klopfen.",
         "season_bread": "Salzen, pfeffern, dünn mehlieren, vollständig durch Ei ziehen und in Panko drücken, ohne die Flocken zu zerquetschen. 5 Minuten ruhen lassen.",
-        "first_fry": "4–5 cm Öl auf etwa 170°C erhitzen und ohne Überfüllung etwa 3 Minuten je Seite frittieren; 165–175°C halten.",
+        "first_fry": "4–5 cm Öl auf etwa 170 °C. Die Schnitzel ohne Überfüllung frittieren, bis die Panade hellgolden ist: bei 1,5–2 cm dicken Scheiben etwa 3 Minuten je Seite. Die Öltemperatur zwischen 165 und 175 °C halten.",
         "rest_check": "3 Minuten auf einem Gitter ruhen lassen, damit die Restwärme den Kern erreicht. Sichere Garung an der dicksten Stelle prüfen, nicht nur nach der Krustenfarbe urteilen.",
         "crisp_finish": "Für extra Knusprigkeit 30–60 Sekunden bei etwa 180°C nachfrittieren und auf einem Gitter abtropfen lassen.",
         "slice_serve": "Eine Minute ruhen lassen, in etwa 2 cm breite Streifen schneiden und sofort mit Kohl, Tonkatsu-Sauce und Zitrone servieren."
@@ -1476,7 +1476,7 @@
         "start_curry": "Zwiebel in Öl weich und leicht goldbraun braten, Karotte und Kartoffel zugeben und 2–3 Minuten anschwitzen.",
         "simmer_vegetables": "500 ml Wasser oder Brühe zugeben und etwa 15 Minuten teilweise abgedeckt köcheln, bis das Gemüse weich ist.",
         "add_roux": "Hitze ausschalten, etwa 45 g Curry-Roux vollständig lösen, dann bei niedriger Hitze 4–5 Minuten eindicken; Packungsverhältnis bei abweichender Marke beachten.",
-        "cook_tonkatsu": "Schweinefleisch trocken tupfen, Fettrand alle 2–3 cm leicht einschneiden und nur sanft auf gleichmäßige Dicke klopfen. Salzen, pfeffern, dünn mehlieren, vollständig durch Ei ziehen und in Panko drücken, ohne die Flocken zu zerquetschen. 5 Minuten ruhen lassen. 4–5 cm Öl auf etwa 170°C erhitzen und ohne Überfüllung etwa 3 Minuten je Seite frittieren; 165–175°C halten. 3 Minuten auf einem Gitter ruhen lassen, damit die Restwärme den Kern erreicht. Sichere Garung an der dicksten Stelle prüfen, nicht nur nach der Krustenfarbe urteilen.",
+        "cook_tonkatsu": "Schweinefleisch trocken tupfen, Fettrand alle 2–3 cm leicht einschneiden und nur sanft auf gleichmäßige Dicke klopfen. Salzen, pfeffern, dünn mehlieren, vollständig durch Ei ziehen und in Panko drücken, ohne die Flocken zu zerquetschen. 5 Minuten ruhen lassen. 4–5 cm Öl auf etwa 170°C erhitzen und die 1,5–2 cm dicken Schnitzel ohne Überfüllung etwa 3 Minuten je Seite frittieren; 165–175°C halten. 3 Minuten auf einem Gitter ruhen lassen, damit die Restwärme den Kern erreicht. Sichere Garung an der dicksten Stelle prüfen, nicht nur nach der Krustenfarbe urteilen.",
         "assemble": "Reis, Tonkatsu und Curry so anrichten, dass ein Teil der Kruste trocken bleibt; optional Fukujinzuke dazu."
       }
     },
@@ -1530,7 +1530,7 @@
         "prep_pan_eggs": "18-cm-Form vorbereiten und Ofen auf 170°C heizen. Eier und Zucker im Wasserbad lauwarm werden lassen und 8–10 Minuten bis zum Bandstadium aufschlagen.",
         "fold_batter": "Gesiebtes Mehl in zwei Portionen vorsichtig unterheben. Butter und Milch mischen, mit etwas Teig angleichen und rasch unterheben.",
         "bake_cool": "Bei 170°C 23–25 Minuten backen, bis die Oberfläche zurückfedert und ein Stäbchen sauber bleibt. Vollständig auskühlen lassen.",
-        "prep_filling": "Kalte Sahne mit Puderzucker zu mittelfesten Spitzen schlagen. Einen Teil der Erdbeeren schneiden und Sirup abkühlen.",
+        "prep_filling": "Schüssel und Rührbesen kühlen. Die Sahne mit Puderzucker zu mittelfesten, stabilen, aber noch glatten Spitzen aufschlagen. Einen Teil der Erdbeeren in 4–5 mm dicke Scheiben schneiden und die schönsten Früchte für die Oberfläche aufbewahren. Den Zucker für den Sirup in warmem Wasser auflösen und abkühlen lassen.",
         "split_syrup_fill": "Kalten Boden halbieren, leicht tränken, mit Sahne und Erdbeeren füllen und zweite Lage aufsetzen.",
         "frost_decorate": "Dünn vorstreichen, bei Bedarf kühlen, dann vollständig mit Sahne überziehen und mit trockenen Erdbeeren dekorieren.",
         "chill": "Mindestens 2 Stunden kühlen und bis zum Servieren kalt halten."
@@ -1958,7 +1958,7 @@
         }
       },
       "stepTexts": {
-        "prep_berries": "Erdbeeren schnell waschen und sehr gut trocknen. Anko in sechs Portionen teilen und jede Beere umhüllen, Spitze frei lassen.",
+        "prep_berries": "Die Erdbeeren kurz waschen, den Stielansatz entfernen und sorgfältig trocknen, da das Anko sonst abrutscht. Das Anko in sechs Portionen zu je 25 g teilen und jede Erdbeere damit umhüllen; die Spitze bleibt sichtbar.",
         "mix_mochi": "Shiratamako, Zucker und Wasser klumpenfrei in mikrowellenfester Schüssel verrühren.",
         "microwave": "Locker abdecken, 90 Sekunden bei 600 W garen, rühren und weitere 60–90 Sekunden bis glänzend, durchsichtig und elastisch erhitzen.",
         "dust_divide": "Auf reichlich Stärke geben, nur bis handhabbar abkühlen und warm in sechs Teile teilen.",
@@ -2068,7 +2068,7 @@
         "separate_eggs": "Eiweiß und Eigelb in absolut saubere Schüsseln trennen. Eigelb mit Sahne, Salz und Pfeffer verquirlen.",
         "whip_whites": "Eiweiß zu festen glänzenden Spitzen schlagen, ohne es trocken werden zu lassen.",
         "fold": "Ein Drittel unter die Eigelbmasse rühren, Rest vorsichtig unterheben.",
-        "cook_covered": "Butter bei niedriger Hitze in Antihaftpfanne schmelzen, Masse einfüllen, abdecken und 5–6 Minuten garen, bis unten goldbraun und oben gerade gestockt.",
+        "cook_covered": "Butter in einer beschichteten Pfanne mit 20–22 cm Durchmesser bei niedriger Hitze schmelzen. Die Masse hineingeben, leicht glatt streichen, abdecken und etwa 5–6 Minuten garen, bis der Boden goldbraun und die Oberfläche gerade gestockt und elastisch ist. Die Hitze niedrig halten.",
         "fold_serve": "Ohne Druck zusammenklappen, auf warmen Teller geben und Tomatensauce ringsum anrichten. Schnittlauch darüber."
       }
     },
@@ -2180,7 +2180,7 @@
       "stepTexts": {
         "rehydrate_wakame": "Wakame etwa 5 Minuten einweichen, gut abtropfen und sanft ausdrücken.",
         "heat_dashi": "Dashi sanft erhitzen und vor dem Würzen probieren; Misopasten unterscheiden sich stark im Salzgehalt.",
-        "warm_tofu": "Tofu würfeln und etwa 2 Minuten ohne starkes Kochen erwärmen.",
+        "warm_tofu": "Die Hitze reduzieren und den Tofu in 1–1,5 cm große Würfel schneiden. Etwa 2 Minuten ohne starkes Kochen erwärmen, damit die Würfel nicht zerfallen.",
         "dissolve_miso": "Hitze ausschalten, Miso mit etwas heißem Dashi lösen und einrühren. Nach Geschmack dosieren; starkes Kochen mindert frisches Aroma und Geschmack.",
         "finish": "Wakame und Frühlingszwiebel zugeben, falls nötig sanft erwärmen und servieren."
       }
@@ -4269,7 +4269,7 @@
           "note": null
         },
         "fettine_di_limone_o_sudachi": {
-          "name": "Zitronen- oder Sudachi-Fenkel",
+          "name": "Zitronen- oder Sudachischeiben",
           "note": null
         },
         "salsa_di_soia_per_servire": {
@@ -4282,9 +4282,9 @@
         "step_2": "Die Haut auf jeder Seite mit drei flachen diagonalen Schnitten einschneiden.",
         "step_3": "Den Fisch großzügig mit grobem Salz bestreuen und 10 Minuten ruhen lassen.",
         "step_4": "Trocknen Sie die vom Salz freigesetzte Feuchtigkeit mit absorbierendem Papier.",
-        "step_5": "Kochen Sie die Fische für ca. 6-7 Minuten pro Seite auf einem brennenden Grill oder auf der Backplatte bei 220 °C.",
-        "step_6": "Solange die Haut goldig, knusprig und leicht verbrennt wird.",
-        "step_7": "Setzen Sie die ganzen Fische auf gestreckten rechteckigen Tellern.",
+        "step_5": "Den Fisch auf einem heißen Grill oder im Ofen bei 220 °C etwa 6–7 Minuten pro Seite garen.",
+        "step_6": "Weitergaren, bis die Haut goldbraun und knusprig ist und sich leichte Röstaromen bilden.",
+        "step_7": "Die ganzen Fische auf länglichen rechteckigen Tellern anrichten.",
         "step_8": "Mit frisch geriebenem Daikon, etwas Sojasauce und einer Zitronenspalte servieren."
       }
     },

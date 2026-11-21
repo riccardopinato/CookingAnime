@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000041",
-  "contentVersion": 1,
+  "contentVersion": 2,
   "status": "published",
   "inspirationTitle": "Food Wars! Shokugeki no Soma",
   "animeReferences": [
@@ -266,7 +266,7 @@
         "separate_eggs": "Separa claras y yemas en cuencos limpios. Bate yemas con nata, sal y pimienta.",
         "whip_whites": "Monta claras a picos firmes y brillantes sin llegar a secarlas.",
         "fold": "Incorpora un tercio a las yemas y luego el resto con movimientos envolventes.",
-        "cook_covered": "Derrite mantequilla en sartén antiadherente a fuego bajo, añade la mezcla, tapa y cocina 5–6 minutos hasta base dorada y parte superior apenas cuajada.",
+        "cook_covered": "Derrite la mantequilla en una sartén antiadherente de 20–22 cm a fuego bajo. Vierte la mezcla, nivela suavemente, tapa y cocina 5–6 minutos hasta que la base esté dorada y la superficie apenas cuajada y elástica. Mantén el fuego suave.",
         "fold_serve": "Dobla sin aplastar, sirve en plato caliente y coloca la salsa de tomate alrededor. Termina con cebollino."
       }
     },
@@ -321,7 +321,7 @@
         "separate_eggs": "Séparez blancs et jaunes dans des bols impeccables. Fouettez les jaunes avec crème, sel et poivre.",
         "whip_whites": "Montez les blancs en pics fermes et brillants sans les dessécher.",
         "fold": "Incorporez un tiers aux jaunes puis le reste délicatement.",
-        "cook_covered": "Faites fondre le beurre à feu doux, versez la mousse, couvrez et cuisez 5–6 minutes jusqu’à base dorée et dessus juste pris.",
+        "cook_covered": "Faites fondre le beurre dans une poêle antiadhésive de 20–22 cm à feu doux. Versez l’appareil, égalisez légèrement, couvrez et faites cuire environ 5–6 minutes, jusqu’à ce que la base soit dorée et le dessus à peine pris et souple. Gardez le feu doux.",
         "fold_serve": "Pliez sans écraser, transférez sur assiette chaude et versez la sauce tomate autour. Ajoutez la ciboulette."
       }
     },
@@ -376,7 +376,7 @@
         "separate_eggs": "Eiweiß und Eigelb in absolut saubere Schüsseln trennen. Eigelb mit Sahne, Salz und Pfeffer verquirlen.",
         "whip_whites": "Eiweiß zu festen glänzenden Spitzen schlagen, ohne es trocken werden zu lassen.",
         "fold": "Ein Drittel unter die Eigelbmasse rühren, Rest vorsichtig unterheben.",
-        "cook_covered": "Butter bei niedriger Hitze in Antihaftpfanne schmelzen, Masse einfüllen, abdecken und 5–6 Minuten garen, bis unten goldbraun und oben gerade gestockt.",
+        "cook_covered": "Butter in einer beschichteten Pfanne mit 20–22 cm Durchmesser bei niedriger Hitze schmelzen. Die Masse hineingeben, leicht glatt streichen, abdecken und etwa 5–6 Minuten garen, bis der Boden goldbraun und die Oberfläche gerade gestockt und elastisch ist. Die Hitze niedrig halten.",
         "fold_serve": "Ohne Druck zusammenklappen, auf warmen Teller geben und Tomatensauce ringsum anrichten. Schnittlauch darüber."
       }
     },
@@ -431,7 +431,7 @@
         "separate_eggs": "Separe claras e gemas em tigelas totalmente limpas. Bata gemas com creme, sal e pimenta.",
         "whip_whites": "Bata as claras até picos firmes e brilhantes sem ressecar.",
         "fold": "Misture um terço às gemas e incorpore o restante delicadamente.",
-        "cook_covered": "Derreta manteiga em frigideira antiaderente em fogo baixo, adicione a espuma, tampe e cozinhe 5–6 minutos até base dourada e topo apenas firme.",
+        "cook_covered": "Derreta a manteiga numa frigideira antiaderente de 20–22 cm em lume brando. Deite a mistura, alise ligeiramente, tape e cozinhe cerca de 5–6 minutos, até a base ficar dourada e a superfície apenas firme e elástica. Mantenha o lume brando.",
         "fold_serve": "Dobre sem esmagar, transfira para prato quente e coloque o molho de tomate ao redor. Finalize com cebolinha."
       }
     }

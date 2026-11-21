@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000039",
-  "contentVersion": 1,
+  "contentVersion": 2,
   "status": "published",
   "inspirationTitle": "Fruits Basket",
   "animeReferences": [
@@ -194,7 +194,7 @@
         }
       },
       "steps": {
-        "prep_berries": "Lava y seca perfectamente las fresas. Divide el anko en seis porciones y envuelve cada fruta dejando la punta visible.",
+        "prep_berries": "Lava las fresas rápidamente, quítales el pedúnculo y sécalas muy bien: la humedad hace que el anko resbale. Divide el anko en seis porciones de 25 g y envuelve cada fresa dejando la punta visible.",
         "mix_mochi": "Mezcla shiratamako, azúcar y agua sin grumos en un bol apto para microondas.",
         "microwave": "Cocina tapado sin sellar 90 segundos a 600 W, remueve y cocina 60–90 segundos más hasta que quede brillante, translúcido y elástico.",
         "dust_divide": "Vuelca sobre abundante almidón, enfría solo hasta poder tocar y divide en seis mientras sigue tibio.",
@@ -233,7 +233,7 @@
         }
       },
       "steps": {
-        "prep_berries": "Lavez puis séchez parfaitement les fraises. Divisez l’anko en six et enveloppez chaque fraise en laissant la pointe visible.",
+        "prep_berries": "Lavez rapidement les fraises, retirez leur pédoncule et séchez-les soigneusement : l’humidité ferait glisser l’anko. Divisez l’anko en six portions de 25 g et enveloppez chaque fraise en laissant la pointe visible.",
         "mix_mochi": "Mélangez shiratamako, sucre et eau sans grumeaux dans un bol micro-ondable.",
         "microwave": "Cuisez 90 secondes à 600 W, mélangez puis encore 60–90 secondes jusqu’à pâte brillante, translucide et élastique.",
         "dust_divide": "Versez sur beaucoup de fécule, refroidissez juste assez pour manipuler et divisez en six encore tiède.",
@@ -272,7 +272,7 @@
         }
       },
       "steps": {
-        "prep_berries": "Erdbeeren schnell waschen und sehr gut trocknen. Anko in sechs Portionen teilen und jede Beere umhüllen, Spitze frei lassen.",
+        "prep_berries": "Die Erdbeeren kurz waschen, den Stielansatz entfernen und sorgfältig trocknen, da das Anko sonst abrutscht. Das Anko in sechs Portionen zu je 25 g teilen und jede Erdbeere damit umhüllen; die Spitze bleibt sichtbar.",
         "mix_mochi": "Shiratamako, Zucker und Wasser klumpenfrei in mikrowellenfester Schüssel verrühren.",
         "microwave": "Locker abdecken, 90 Sekunden bei 600 W garen, rühren und weitere 60–90 Sekunden bis glänzend, durchsichtig und elastisch erhitzen.",
         "dust_divide": "Auf reichlich Stärke geben, nur bis handhabbar abkühlen und warm in sechs Teile teilen.",
@@ -311,7 +311,7 @@
         }
       },
       "steps": {
-        "prep_berries": "Lave rapidamente e seque muito bem os morangos. Divida o anko em seis porções e envolva cada fruta deixando a ponta visível.",
+        "prep_berries": "Lave rapidamente os morangos, retire os pedúnculos e seque-os muito bem: a água faz o anko escorregar. Divida o anko em seis porções de 25 g e envolva cada morango, deixando a ponta à vista.",
         "mix_mochi": "Misture shiratamako, açúcar e água sem grumos em tigela própria para micro-ondas.",
         "microwave": "Cubra sem vedar, cozinhe 90 segundos a 600 W, mexa e cozinhe mais 60–90 segundos até ficar brilhante, translúcido e elástico.",
         "dust_divide": "Despeje sobre bastante amido, esfrie só até poder manusear e divida em seis ainda morno.",

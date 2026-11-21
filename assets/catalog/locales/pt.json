@@ -174,7 +174,7 @@
         "whisk_base": "Bata os ovos com o açúcar e o mel até a mistura ficar mais clara e levemente espumosa. Bata por cerca de 2 minutos até o açúcar quase dissolver e a mistura cair em fita, sem montar demais.",
         "finish_batter": "Dissolva o fermento na água, junte à tigela e incorpore a farinha peneirada até obter uma massa lisa. Pare de misturar assim que a farinha desaparecer; mexer demais desenvolve glúten.",
         "rest_batter": "Deixe a massa descansar na geladeira por 15 minutos. Após o descanso, deve cair em fita grossa e espalhar lentamente; adicione só um pouco de água se estiver muito espessa.",
-        "cook_first_side": "Aqueça uma frigideira antiaderente em fogo baixo, unte muito levemente e forme pequenos discos de massa. Cozinhe até surgirem bolhas. Use sempre a mesma medida. Quando surgirem muitas bolhas e a borda ficar opaca, vire.",
+        "cook_first_side": "Aqueça uma frigideira antiaderente em lume brando e unte-a ligeiramente. Deite porções pequenas e uniformes de massa usando sempre a mesma medida. Quando surgirem muitas bolhas e os 5 mm exteriores ficarem opacos, vire os discos.",
         "cook_second_side": "Vire os discos e cozinhe rapidamente o segundo lado até dourar. O segundo lado geralmente precisa só de 30–60 segundos; cozinhar demais resseca.",
         "fill_dorayaki": "Espere esfriar, una os discos aos pares com anko no centro e pressione suavemente as bordas. Combine discos de tamanho parecido, deixe o anko mais espesso no centro e mais fino nas bordas."
       }
@@ -1530,7 +1530,7 @@
         "prep_pan_eggs": "Forre uma forma de 18 cm e aqueça o forno a 170°C. Aqueça levemente ovos e açúcar em banho-maria e bata 8–10 minutos até triplicar e formar fita.",
         "fold_batter": "Incorpore a farinha peneirada em duas etapas. Misture manteiga e leite, alivie com um pouco da massa e reincorpore sem perder ar.",
         "bake_cool": "Asse a 170°C por 23–25 minutos até voltar ao toque e o palito sair limpo. Desenforme e esfrie completamente.",
-        "prep_filling": "Bata o creme gelado com açúcar até picos médios-firmes. Fatie parte dos morangos e esfrie a calda.",
+        "prep_filling": "Arrefeça a tigela e as varas da batedeira. Bata as natas com açúcar em pó até formar picos médios a firmes, estáveis mas ainda lisos. Corte parte dos morangos em fatias de 4–5 mm e reserve os mais bonitos para a cobertura. Dissolva o açúcar da calda na água quente e deixe arrefecer.",
         "split_syrup_fill": "Corte o bolo frio em duas camadas, umedeça levemente, recheie com creme e morangos e cubra com a segunda camada.",
         "frost_decorate": "Faça uma camada fina, resfrie se necessário, cubra com o restante do creme e decore com morangos bem secos.",
         "chill": "Leve à geladeira por pelo menos 2 horas antes de cortar e mantenha refrigerado."
@@ -1958,7 +1958,7 @@
         }
       },
       "stepTexts": {
-        "prep_berries": "Lave rapidamente e seque muito bem os morangos. Divida o anko em seis porções e envolva cada fruta deixando a ponta visível.",
+        "prep_berries": "Lave rapidamente os morangos, retire os pedúnculos e seque-os muito bem: a água faz o anko escorregar. Divida o anko em seis porções de 25 g e envolva cada morango, deixando a ponta à vista.",
         "mix_mochi": "Misture shiratamako, açúcar e água sem grumos em tigela própria para micro-ondas.",
         "microwave": "Cubra sem vedar, cozinhe 90 segundos a 600 W, mexa e cozinhe mais 60–90 segundos até ficar brilhante, translúcido e elástico.",
         "dust_divide": "Despeje sobre bastante amido, esfrie só até poder manusear e divida em seis ainda morno.",
@@ -2068,7 +2068,7 @@
         "separate_eggs": "Separe claras e gemas em tigelas totalmente limpas. Bata gemas com creme, sal e pimenta.",
         "whip_whites": "Bata as claras até picos firmes e brilhantes sem ressecar.",
         "fold": "Misture um terço às gemas e incorpore o restante delicadamente.",
-        "cook_covered": "Derreta manteiga em frigideira antiaderente em fogo baixo, adicione a espuma, tampe e cozinhe 5–6 minutos até base dourada e topo apenas firme.",
+        "cook_covered": "Derreta a manteiga numa frigideira antiaderente de 20–22 cm em lume brando. Deite a mistura, alise ligeiramente, tape e cozinhe cerca de 5–6 minutos, até a base ficar dourada e a superfície apenas firme e elástica. Mantenha o lume brando.",
         "fold_serve": "Dobre sem esmagar, transfira para prato quente e coloque o molho de tomate ao redor. Finalize com cebolinha."
       }
     },
@@ -2180,7 +2180,7 @@
       "stepTexts": {
         "rehydrate_wakame": "Hidrate o wakame por cerca de 5 minutos, escorra e esprema suavemente.",
         "heat_dashi": "Leve o dashi a fervura suave e prove antes de temperar; cada miso tem salinidade diferente.",
-        "warm_tofu": "Adicione tofu em cubos e aqueça cerca de 2 minutos sem ferver forte.",
+        "warm_tofu": "Reduza o lume e junte o tofu cortado em cubos de 1–1,5 cm. Aqueça cerca de 2 minutos sem deixar ferver vigorosamente, para evitar que se desfaça.",
         "dissolve_miso": "Desligue o fogo, dissolva o miso com um pouco de dashi e incorpore. Ajuste ao gosto; evitar fervura forte preserva melhor aroma e sabor.",
         "finish": "Junte wakame e cebolinha, aqueça suavemente se necessário e sirva."
       }
@@ -4279,7 +4279,7 @@
       },
       "stepTexts": {
         "step_1": "Utilize sanma (agulhão-do-Japão, Cololabis saira) já limpo e eviscerado pelo peixeiro. Cozinhe completamente e verifique a parte mais espessa; não deixe as vísceras nesta preparação doméstica.",
-        "step_2": "Insira a pele com 3 cortes diagonais em cada lado.",
+        "step_2": "Faça três cortes diagonais superficiais na pele de cada lado do peixe.",
         "step_3": "Espolvore generosamente com sal grosso e deixe descansar 10 minutos.",
         "step_4": "Seca a umidade liberada pelo sal com papel absorvente.",
         "step_5": "Cozinhe o peixe numa grelha quente ou na placa do forno a 220°C por cerca de 6-7 minutos por lado.",
