@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000145",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Non Non Biyori",
   "animeReferences": [
@@ -207,13 +207,13 @@
         }
       },
       "steps": {
-        "step_1": "Saco de harina y levadura y mantenlos a un lado.",
+        "step_1": "Tamiza la harina y la levadura química y reserva.",
         "step_2": "Batir huevos, azúcar y aceite en la masa hasta que el azúcar esté casi disuelto.",
         "step_3": "Incorpora los ingredientes secos con una espátula hasta obtener una masa muy densa y pegajosa; no la trabajes más de lo necesario.",
         "step_4": "Trae abundante aceite a unos 150-160 °C: una temperatura moderada permite que los panqueques se cocinen en el interior antes de oscurecer.",
         "step_5": "Unge ligeramente las manos y forma bolas del tamaño de una nuez sin comprimirlas demasiado.",
         "step_6": "Freír unas pocas piezas a la vez durante 6-8 minutos, girarlos a menudo, hasta que aparezcan las características grietas y la superficie es bien dorada.",
-        "step_7": "Escurrir sobre la parrilla o el papel absorbente y dejar intimidar unos minutos antes de servir."
+        "step_7": "Escurre las frituras sobre una rejilla o papel absorbente y déjalas templar unos minutos antes de servir."
       }
     },
     "fr": {
@@ -287,13 +287,13 @@
         }
       },
       "steps": {
-        "step_1": "Seide Mehl und Hefe und halten Sie sie beiseite.",
+        "step_1": "Mehl und Backpulver sieben und beiseitestellen.",
         "step_2": "Schlagen Sie Eier, Zucker und Öl im Teig, bis der Zucker fast aufgelöst ist.",
         "step_3": "Fügen Sie die trockenen Zutaten mit einem Spachtel, bis Sie einen sehr dichten und klebrigen Teig erhalten; nicht mehr als nötig zu verarbeiten.",
-        "step_4": "Es bringt reichlich Öl bei ca. 150-160°C: Eine gemäßigte Temperatur ermöglicht es den Pfannkuchen, im Inneren zu kochen, bevor sie dunkel werden.",
-        "step_5": "Fügen Sie leicht Ihre Hände und bilden Sie Kugeln der Größe einer Nuss, ohne sie zu komprimieren.",
+        "step_4": "Reichlich Öl auf etwa 150–160 °C erhitzen: Bei dieser mäßigen Temperatur garen die Krapfen innen, bevor sie außen dunkel werden.",
+        "step_5": "Die Hände leicht einölen und walnussgroße Kugeln formen, ohne sie zu stark zusammenzudrücken.",
         "step_6": "Frittieren Sie ein paar Stücke auf einmal für 6-8 Minuten, drehen Sie sie oft, bis die Merkmale der Risse und die Oberfläche ist gut goldig.",
-        "step_7": "Schütten Sie auf Gitter oder absorbierendes Papier und lassen Sie ein paar Minuten vor dem Servieren eintauchen."
+        "step_7": "Auf einem Gitter oder Küchenpapier abtropfen lassen und vor dem Servieren einige Minuten abkühlen lassen."
       }
     },
     "pt": {
@@ -327,13 +327,13 @@
         }
       },
       "steps": {
-        "step_1": "Corte farinha e levedura e mantenha- os de lado.",
+        "step_1": "Peneire a farinha e o fermento em pó e reserve.",
         "step_2": "Bata os ovos, o açúcar e o óleo na massa até que o açúcar esteja quase dissolvido.",
         "step_3": "Incorpore ingredientes secos com uma espátula até obter uma massa muito espessa e pegajosa; não funcione mais do que precisa.",
-        "step_4": "Muito óleo a cerca de 150-160°C: uma temperatura moderada permite que as panquecas cozinhem dentro antes de escurecer.",
+        "step_4": "Aqueça bastante óleo a cerca de 150–160 °C, para que os bolinhos cozinhem por dentro antes de escurecerem por fora.",
         "step_5": "Graxa levemente as mãos e forme bolas do tamanho de uma noz sem comprimi- las demais.",
         "step_6": "Frite algumas peças de cada vez por 6-8 minutos, girando- as muitas vezes, até que as fissuras apareçam e a superfície esteja bem dourada.",
-        "step_7": "Esqueça uma grade ou papel absorvente e deixe esfriar alguns minutos antes de servir."
+        "step_7": "Escorra sobre uma grelha ou papel absorvente e deixe arrefecer alguns minutos antes de servir."
       }
     }
   }

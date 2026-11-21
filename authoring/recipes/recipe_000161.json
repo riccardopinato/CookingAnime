@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000161",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Nana",
   "animeReferences": [
@@ -279,13 +279,13 @@
         "step_1": "Trabaja los huevos con azúcar, luego incorpora la leche, la harina tamizada y finalmente la mantequilla fundida.",
         "step_2": "Deja reposar la masa en la nevera durante 15 minutos.",
         "step_3": "Ungi un poco una sartén antiadherente de gran diámetro que se adapta a las crepes.",
-        "step_4": "Añade un cucharón de pasta sutilmente y cocina 1 minuto por lado.",
+        "step_4": "Vierte un cucharón de masa en la sartén, extiéndelo en una capa fina y cocina 1 minuto por lado.",
         "step_5": "Extiende un crêpe abierto en el plano de trabajo o en un plato.",
-        "step_6": "Pon la crema montada y la fruta fresca cortada sólo sobre una cuarta parte de la superficie de la grieta.",
+        "step_6": "Coloca la nata montada y la fruta fresca cortada sobre una cuarta parte de la crepe.",
         "step_7": "Decorado con jarabe de chocolate.",
         "step_8": "Dobla el crêpe por la mitad formando un semicírculo.",
         "step_9": "Dobla los dos lados hacia el centro formando un cono abierto en la parte superior, con crema y frutas bien visibles.",
-        "step_10": "Envuelve la base con una servilleta de papel y servilletas de paseo."
+        "step_10": "Envuelve la base en una servilleta de papel y sirve la crepe para comerla mientras se pasea."
       }
     },
     "fr": {
@@ -386,16 +386,16 @@
         }
       },
       "steps": {
-        "step_1": "Er arbeitet die Eier mit Zucker, enthält dann die Milch, das Mehl und schließlich die geschmolzene Butter.",
+        "step_1": "Eier und Zucker verrühren, danach Milch, gesiebtes Mehl und schließlich die geschmolzene Butter einarbeiten.",
         "step_2": "Lassen Sie den Teig im Kühlschrank für 15 Minuten ruhen.",
-        "step_3": "Fügen Sie eine Pfanne mit einem großen Durchmesser, die für Crêpe geeignet ist, leicht zusammen.",
-        "step_4": "Fügen Sie einen Teig in dünner Form und kochen Sie 1 Minute pro Seite.",
+        "step_3": "Eine große beschichtete Crêpe-Pfanne leicht einfetten.",
+        "step_4": "Eine Kelle Teig in die Pfanne geben, dünn verteilen und etwa 1 Minute pro Seite backen.",
         "step_5": "Legen Sie eine offene Crêpe auf der Arbeitsfläche oder auf einem Teller.",
-        "step_6": "Legen Sie Schlagsahne und frisches Obst nur auf ein Viertel der Oberfläche des Risses ab.",
+        "step_6": "Schlagsahne und geschnittenes frisches Obst auf einem Viertel der Crêpe verteilen.",
         "step_7": "Dekorieren Sie mit Schokoladensirup.",
         "step_8": "Falten Sie die Crêpe in der Mitte, indem Sie einen Halbkreis bilden.",
         "step_9": "Falten Sie die beiden Seiten zur Mitte und bilden Sie einen offenen Kegel oben, mit Sahne und gut sichtbaren Früchten.",
-        "step_10": "Wickeln Sie die Basis mit einer Papiertuch und servieren Sie einen Spaziergang."
+        "step_10": "Den unteren Teil mit einer Papierserviette umwickeln und die Crêpe als Snack zum Mitnehmen servieren."
       }
     },
     "pt": {
@@ -441,16 +441,16 @@
         }
       },
       "steps": {
-        "step_1": "Trabalhe os ovos com açúcar, em seguida, incorpore o leite, a farinha varreda e, finalmente, a manteiga derretida.",
+        "step_1": "Bata os ovos com o açúcar e depois incorpore o leite, a farinha peneirada e, por fim, a manteiga derretida.",
         "step_2": "Deixe a massa na geladeira por 15 minutos.",
-        "step_3": "Ligeiramente engraxa uma panela antiadherente de grande diâmetro, adequada para crepe.",
+        "step_3": "Unte ligeiramente uma frigideira antiaderente grande, adequada para crepes.",
         "step_4": "Deite uma concha de massa na frigideira, espalhe-a numa camada fina e cozinhe 1 minuto de cada lado.",
         "step_5": "Espalhe uma crepe aberta na superfície de trabalho ou numa placa.",
-        "step_6": "Arranje creme batido e frutas frescas cortadas apenas em um quarto da superfície da fissura.",
+        "step_6": "Coloque as natas batidas e a fruta fresca cortada apenas sobre um quarto da crepe.",
         "step_7": "Decorar com xarope de chocolate.",
         "step_8": "Dobre a crepe ao meio formando um semicírculo.",
         "step_9": "Dobra os dois lados para o centro formando um cone aberto em cima, com creme e fruta claramente visíveis.",
-        "step_10": "Enrole a base com um guardanapo de papel e passeie."
+        "step_10": "Envolva a base num guardanapo de papel e sirva a crepe para comer enquanto passeia."
       }
     }
   }

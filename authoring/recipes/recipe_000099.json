@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000099",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Samurai Champloo",
   "animeReferences": [
@@ -177,9 +177,9 @@
         "step_2": "Divide la masa en 12 porciones iguales y forma bolas compactas sin grietas.",
         "step_3": "Lleva a hervir una olla abundante de agua y sumerge los dangos sin sobrecargarla.",
         "step_4": "Cuando las bolas suben a la superficie, continúa cocinando durante otros 2 minutos para cocinar bien el centro.",
-        "step_5": "Transfiéralas inmediatamente al agua y al hielo para detener la cocción; escúchalas y sécalas suavemente.",
+        "step_5": "Pásalas enseguida a agua con hielo para detener la cocción; escúrrelas y sécalas con cuidado.",
         "step_6": "Ensarta tres dango en cada brocheta y reparte por encima el anko de textura lisa.",
-        "step_7": "Mezcla kinako y azúcar, limpia los pinchos justo antes de servir y consumirlos en el día para mantenerlos suaves."
+        "step_7": "Mezcla el kinako con el azúcar y espolvorea las brochetas justo antes de servir; consúmelas en el mismo día para mantenerlas tiernas."
       }
     },
     "fr": {
@@ -239,10 +239,10 @@
       "steps": {
         "step_1": "Gießen Sie das Reismehl in eine Schüssel und fügen Sie Wasser nach und nach hinzu und kneten, bis die Masse glatt und weich ist, ähnlich dem Ohrlappen.",
         "step_2": "Teilen Sie den Teig in 12 gleiche Portionen und bilden kompakte Kugeln ohne Risse.",
-        "step_3": "Bringt einen Topf mit reichlich Wasser und taucht die Dangos ein, ohne sie zu überladen.",
+        "step_3": "Reichlich Wasser in einem Topf zum Kochen bringen und die Dango portionsweise hineingeben.",
         "step_4": "Wenn die Kugeln ans Wasser steigen, kochen Sie 2 Minuten lang weiter, um das Zentrum gut zu kochen.",
-        "step_5": "Bringen Sie sie sofort in Wasser und Eis, um das Kochen zu stoppen; schälen und trocknen Sie sie vorsichtig.",
-        "step_6": "Stecken Sie drei Dangos für jedes Spieß und verteilen Sie über glattes L-Anko.",
+        "step_5": "Die Dango sofort in Eiswasser geben, damit sie nicht weitergaren; anschließend abgießen und vorsichtig trocken tupfen.",
+        "step_6": "Jeweils drei Dango auf einen Spieß stecken und mit glatter Anko-Paste bestreichen.",
         "step_7": "Mischen Sie Kinako und Zucker, stauben Sie die Spieße kurz vor dem Servieren und konsumieren Sie sie am Tag, um sie weich zu halten."
       }
     },
@@ -271,11 +271,11 @@
       "steps": {
         "step_1": "Despeje a farinha de arroz numa tigela e adicione a água pouco de cada vez, amassando até que a massa seja suave e macia, semelhante ao lóbulo da orelha.",
         "step_2": "Divida a massa em 12 porções iguais e forme bolas compactas sem fissuras.",
-        "step_3": "Traga a ebulição um pote abundante de água e mergulhe os dangos sem sobrecarregá- lo.",
+        "step_3": "Leve bastante água a ferver e coloque os dango aos poucos, sem encher demasiado a panela.",
         "step_4": "Quando as bolas subirem para a superfície, continue cozindo por mais 2 minutos para cozinhar bem o centro.",
         "step_5": "Transfira- os imediatamente para água e gelo para parar de cozinhar; escorra-os e seque- os suavemente.",
-        "step_6": "Jogue três dangos para cada espelho e distribua sobre o anko suave.",
-        "step_7": "Misture kinako e açúcar, ponha em poeira os broches logo antes de servir e consumi- os diariamente para mantê- los macios."
+        "step_6": "Espete três dango em cada espeto e distribua o anko liso por cima.",
+        "step_7": "Misture kinako e açúcar, polvilhe os espetos antes de servir e consuma-os no próprio dia para manter a textura macia."
       }
     }
   }

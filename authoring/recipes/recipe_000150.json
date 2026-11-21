@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000150",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -280,12 +280,12 @@
         "step_2": "Cocine en sartén antiadherente frío en el lado de la piel a fuego medio-bajo durante 8-10 minutos recogiendo la grasa fundida.",
         "step_3": "Da la vuelta a la pechuga de pato y cocínala durante otros 2 minutos.",
         "step_4": "Deja reposar la carne durante unos minutos y córtala en rodajas finas.",
-        "step_5": "En la misma sartén, usando parte de la grasa del pato, tosta los toques de puerro hasta que estén bien dorados y ligeramente caramelizados.",
+        "step_5": "En la misma sartén, con parte de la grasa del pato, dora los trozos de puerro hasta que queden ligeramente caramelizados.",
         "step_6": "En una olla, combina dashi, salsa de soja, mirin y azúcar.",
         "step_7": "Trae el caldo a ebullición, une los puerros tostados y las rebanadas de pato y deja que se calienten durante 2 minutos. Para una preparación doméstica prudente, comprueba con un termómetro que el centro de la pechuga de pato llegue al menos a 74 °C antes de servir. Los tiempos son orientativos y un hervor breve en el caldo no sustituye esta comprobación.",
         "step_8": "Cocine los fideos soba en agua hirviendo durante unos 4 minutos; escúrrelos, enjuáguelos bajo agua fría para eliminar el almidón superficial y calentarlos brevemente en agua caliente antes del servicio.",
         "step_9": "Distribuye la soba en los cuencos y cúbrela con caldo caliente, rebanadas de pato y puerros.",
-        "step_10": "Completa con corteza de yuzu rallado y sirves de inmediato."
+        "step_10": "Termina con ralladura de yuzu y sirve inmediatamente."
       }
     },
     "fr": {
@@ -386,16 +386,16 @@
         }
       },
       "steps": {
-        "step_1": "Die Haut der Entenbrust kreuzweise einschneiden, ohne dass du das Fleisch bekommst.",
+        "step_1": "Die Haut der Entenbrust rautenförmig einschneiden, ohne in das Fleisch zu schneiden.",
         "step_2": "Kochen Sie in der kalten Pfanne auf der Hautseite bei mittlerer bis niedriger Hitze für 8-10 Minuten, indem Sie das geschmolzene Fett sammeln.",
         "step_3": "Drehen Sie die Entenbrust und kochen Sie es für weitere 2 Minuten.",
         "step_4": "Lassen Sie das Fleisch für ein paar Minuten ruhen, dann schneiden Sie es in dünne Scheiben.",
-        "step_5": "In der gleichen Pfanne, mit einem Teil des Entenfetts, die Lauchrührer, bis sie gut vergoldet und leicht karamelliert sind.",
+        "step_5": "In derselben Pfanne einige Lauchstücke im ausgelassenen Entenfett anbraten, bis sie goldbraun und leicht karamellisiert sind.",
         "step_6": "In einem Topf, vereinen Sie Dashi, Soja-Sauce, Mirin und Zucker.",
         "step_7": "Bring die Brühe zum Kochen, misch die gerösteten Lauch und die Entenscheiben zusammen und lass sie 2 Minuten lang weich werden. Für eine vorsichtige Zubereitung zu Hause die Entenbrust vor dem Servieren mit einem Thermometer auf mindestens 74 °C Kerntemperatur prüfen. Zeitangaben sind Richtwerte; kurzes Ziehen in Brühe ersetzt diese Kontrolle nicht.",
         "step_8": "Kochen Sie die Soba Nudeln in kochendem Wasser für ungefähr 4 Minuten; spülen Sie sie unter kaltem Wasser ab, um die Oberflächenstärke zu entfernen und erwärmen Sie sie kurz in heißem Wasser vor dem Service.",
         "step_9": "Geben Sie die Soba in die Schüssel und bedecken Sie sie mit heißer Brühe, Entenscheiben und Lauch.",
-        "step_10": "Komplett mit einer Schale geriebenen Yuzu und serviere sofort."
+        "step_10": "Mit frisch geriebener Yuzu-Schale garnieren und sofort servieren."
       }
     },
     "pt": {
@@ -445,9 +445,9 @@
         "step_2": "Cozinhe em uma panela antiadherente fria do lado da pele em fogo médio a baixo durante 8-10 minutos, recolhendo a gordura derretida.",
         "step_3": "Vire o peito de pato e cozinhe por mais 2 minutos.",
         "step_4": "Deixe a carne descansar por alguns minutos, em seguida, cortar em fatias finas.",
-        "step_5": "Na mesma panela, usando parte da gordura do pato, ele brinde pedaços de alho-francês até que estejam bem dourados e ligeiramente caramelizados.",
+        "step_5": "Na mesma frigideira, aloure os pedaços de alho-francês em parte da gordura do pato até ficarem ligeiramente caramelizados.",
         "step_6": "Em um pote, adicione dashi, molho de soja, mirin e açúcar.",
-        "step_7": "Traga o caldo a ferver, adicione os puerros torrados e fatias de pato e deixe- o cozir por 2 minutos. Para uma preparação doméstica prudente, confirme com um termómetro que o peito de pato atinge pelo menos 74 °C no centro antes de servir. Os tempos são indicativos; a passagem breve pelo caldo não substitui a medição.",
+        "step_7": "Leve o caldo à ebulição, junte o alho-francês tostado e as fatias de pato e deixe cozinhar suavemente durante 2 minutos. Antes de servir, confirme com um termómetro que a carne atinge pelo menos 74 °C no centro; o tempo por si só não é garantia.",
         "step_8": "Cozinhe os fios de massa soba em água fervente por cerca de 4 minutos; escorra-os, lave- os sob água fria para remover o amido de superfície e aqueça- os brevemente em água quente antes de servir.",
         "step_9": "Distribua o soba nas tigelas e cubra- o com caldo quente, fatias de pato e puerros.",
         "step_10": "Completar com o zest yuzu ralado e servir imediatamente."

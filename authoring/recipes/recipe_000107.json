@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000107",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -175,9 +175,9 @@
       "steps": {
         "step_1": "Corta dos rebanadas de shokupan de unos 2–3 cm de grosor. Deja que el ogura-an alcance la temperatura ambiente o caliéntalo ligeramente sin que se reseque.",
         "step_2": "Si el anko está muy firme, ablándalo con una cucharadita de agua caliente y remueve hasta que quede cremoso, pero no líquido.",
-        "step_3": "Toca el pan a ambos lados hasta que la superficie esté bien dorada y crujiente mientras el centro permanece suave.",
+        "step_3": "Tuesta el pan por ambos lados hasta que quede dorado y crujiente por fuera, pero esponjoso por dentro.",
         "step_4": "Pon la mantequilla sobre el pan caliente, insistiendo también en los bordes para que sea absorbida por la miga.",
-        "step_5": "Distribuya la grasa an en una capa generosa y uniforme, sin aplastar el pan.",
+        "step_5": "Extiende una capa generosa y uniforme de ogura-an sin aplastar el pan.",
         "step_6": "Si usas nata montada, añádela fría sólo después de dejar tibia la tostada durante un minuto, para que no se derrita.",
         "step_7": "Corta diagonalmente y sirve inmediatamente, manteniendo el contraste entre corteza crujiente, pan blando, mantequilla y anko."
       }
@@ -238,11 +238,11 @@
       },
       "steps": {
         "step_1": "Zwei etwa 2–3 cm dicke Scheiben Shokupan abschneiden. Das Ogura-An auf Zimmertemperatur bringen oder kurz und behutsam erwärmen, ohne es auszutrocknen.",
-        "step_2": "Wenn der Anko sehr kompakt ist, weich ihn mit einem Teelöffel warmem Wasser und mischt, bis er cremig, aber nicht flüssig ist.",
+        "step_2": "Ist die Anko-Paste sehr fest, mit einem Teelöffel warmem Wasser geschmeidig rühren, ohne sie zu verflüssigen.",
         "step_3": "Toast das Brot auf beiden Seiten, bis die Oberfläche gut goldig und knusprig ist, während die Mitte weich bleibt.",
-        "step_4": "Ziehen Sie die Butter sofort auf das noch warme Brot, wobei Sie auch an den Rändern darauf bestehen, dass es von der Weichei absorbiert wird.",
-        "step_5": "Verteilen Sie das an in einer großzügigen und gleichmäßigen Schicht, ohne das Brot zu zerdrücken.",
-        "step_6": "Wenn Sie Schlagsahne verwenden, fügen Sie es erst kalt hinzu, nachdem Sie den Toast eine Minute lang eingetaucht haben, so dass es nicht schmelzen kann.",
+        "step_4": "Die Butter sofort auf dem noch warmen Toast verstreichen, auch an den Rändern, damit sie in die Krume einzieht.",
+        "step_5": "Ogura-An großzügig und gleichmäßig auf dem Toast verteilen, ohne das Brot zusammenzudrücken.",
+        "step_6": "Schlagsahne, falls verwendet, erst nach etwa einer Minute auf den leicht abgekühlten Toast geben, damit sie nicht schmilzt.",
         "step_7": "Diagonal schneiden und sofort servieren, wobei der Kontrast zwischen knusprige Kruste, weichem Brot, Butter und Anko erhalten bleibt."
       }
     },
@@ -269,12 +269,12 @@
         }
       },
       "steps": {
-        "step_1": "Corte duas fatias de shokupan grossa cerca de 2\"3 cm e traga l\"ogura a temperatura ambiente ou apenas aqueça- a, sem deixá- la secar.",
+        "step_1": "Corte duas fatias de shokupan com cerca de 2–3 cm de espessura. Deixe o ogura-an chegar à temperatura ambiente ou aqueça-o ligeiramente sem o secar.",
         "step_2": "Se o anko for muito compacto, suavize- o com uma colher de chá de água quente e agite até que esteja cremoso, mas não líquido.",
         "step_3": "Toste o pão em ambos os lados até que a superfície esteja bem dourada e crocante enquanto o centro permanece macio.",
-        "step_4": "Escovar a manteiga no pão quente imediatamente, insistindo também nas bordas para que seja absorvida pela migalha.",
+        "step_4": "Espalhe imediatamente a manteiga sobre o pão ainda quente, incluindo as bordas, para que seja absorvida pelo miolo.",
         "step_5": "Distribuir l' ogura em uma camada generosa e uniforme, sem esmagar o pão.",
-        "step_6": "Se você usar creme batido, adicione- o frio apenas depois de deixar o brinde esfriar por um minuto, para que ele não derreta.",
+        "step_6": "Se utilizar chantilly, junte-o frio apenas depois de deixar o pão arrefecer durante um minuto, para não derreter.",
         "step_7": "Corte e sirva de forma diagonal imediatamente, mantendo o contraste entre crosta crocante, pão macio, manteiga e anko."
       }
     }

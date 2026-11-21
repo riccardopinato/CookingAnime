@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "localeOrder": [
+    "it",
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "reviewedIds": [
+    101,
+    103,
+    104,
+    106,
+    107,
+    110,
+    111,
+    113,
+    115,
+    119
+  ],
+  "fixes": {
+    "recipe_000101": {
+      "es": {
+        "step_4": "Derrite la mitad de la mantequilla en una sartén antiadherente y dora los onigiri a fuego medio unos 3 minutos por lado, sin moverlos hasta que se forme una costra.",
+        "step_5": "Pincela un lado con la mezcla de soja y mirin, dales la vuelta y deja caramelizar 1 minuto; repite por el otro lado.",
+        "step_7": "Termina con sésamo tostado y sirve caliente, con la corteza crujiente y el centro aún tierno."
+      },
+      "de": {
+        "step_4": "Die Hälfte der Butter in einer beschichteten Pfanne schmelzen und die Onigiri bei mittlerer Hitze etwa 3 Minuten pro Seite braten, ohne sie vor der Krustenbildung zu bewegen.",
+        "step_5": "Eine Seite mit der Soja-Mirin-Mischung bestreichen, wenden und etwa 1 Minute karamellisieren lassen; auf der anderen Seite wiederholen.",
+        "step_6": "Die restliche Butter zugeben und die Onigiri in der Pfanne schwenken, damit sich das Aroma verteilt, ohne dass die Sauce anbrennt.",
+        "step_7": "Mit geröstetem Sesam bestreuen und heiß servieren; außen knusprig, innen noch weich."
+      },
+      "pt": {
+        "step_6": "Junte a manteiga restante e rode os onigiri na frigideira para distribuir o aroma sem queimar o molho.",
+        "step_7": "Termine com sésamo torrado e sirva quente, com crosta crocante e interior ainda macio."
+      }
+    },
+    "recipe_000103": {
+      "es": {
+        "step_7": "Termina con shiratama, una barquillo o Pocky y un pequeño copete de nata montada; sirve enseguida para mantener el crujiente."
+      },
+      "de": {
+        "step_1": "Matcha-Gelee und Shiratama rechtzeitig zubereiten und kühlen; die Sahne leicht aufschlagen und das Eis bis zum Anrichten im Gefrierfach lassen.",
+        "step_2": "Das Gelee in gleichmäßige Würfel schneiden und die Anko-Paste auf zwei Portionen verteilen.",
+        "step_6": "Erst unmittelbar vor dem Servieren eine Kugel Matcha-Eis hinzufügen.",
+        "step_7": "Mit Shiratama, einer Waffel oder Pocky und etwas Schlagsahne garnieren; sofort servieren, damit die knusprige Schicht nicht durchweicht."
+      },
+      "pt": {
+        "step_1": "Prepare e arrefeça antecipadamente a gelatina de matcha e os shiratama; bata levemente as natas e mantenha o gelado no congelador até servir.",
+        "step_7": "Finalize com shiratama, uma bolacha crocante ou Pocky e um pouco de chantilly; sirva de imediato para preservar a textura crocante."
+      }
+    },
+    "recipe_000104": {
+      "it": {
+        "step_1": "Taglia la zucca a pezzi e cuocila al vapore per circa 15 minuti, finché diventa tenera."
+      },
+      "en": {
+        "step_1": "Cut the kabocha squash into pieces and steam for about 15 minutes, until tender."
+      },
+      "es": {
+        "step_1": "Corta la calabaza en trozos y cuécela al vapor unos 15 minutos, hasta que esté tierna.",
+        "step_2": "Machaca la calabaza con un prensapatatas, conservando la piel y eliminando el exceso de humedad.",
+        "step_3": "Dora la cebolla y la carne picada en mantequilla hasta que estén bien cocidas; sazona con sal y pimienta.",
+        "step_8": "Sírvelas calientes con salsa tonkatsu."
+      },
+      "fr": {
+        "step_1": "Coupez la courge kabocha en morceaux et faites-la cuire à la vapeur environ 15 minutes, jusqu'à ce qu'elle soit tendre."
+      },
+      "de": {
+        "step_1": "Kabocha-Kürbis in Stücke schneiden und etwa 15 Minuten dämpfen, bis er weich ist.",
+        "step_2": "Den Kürbis mit einem Kartoffelstampfer zerdrücken, die Schale dabei belassen und überschüssige Feuchtigkeit entfernen.",
+        "step_3": "Zwiebel und Hackfleisch in Butter anbraten, bis das Fleisch vollständig gegart ist; mit Salz und Pfeffer würzen.",
+        "step_6": "Jede Krokette erst in Mehl, dann in verquirltem Ei und schließlich in Panko wenden und die Panade leicht andrücken."
+      },
+      "pt": {
+        "step_1": "Corte a abóbora em pedaços e coza-a a vapor durante cerca de 15 minutos, até ficar macia.",
+        "step_3": "Refogue a cebola e a carne picada na manteiga até a carne ficar bem cozinhada; tempere com sal e pimenta."
+      }
+    },
+    "recipe_000106": {
+      "es": {
+        "step_1": "Elige boniatos satsumaimo de tamaño parecido, lávalos bien sin pelarlos y sécalos.",
+        "step_2": "Pincha la piel en varios puntos con un palillo para facilitar una cocción uniforme.",
+        "step_4": "Ásalos en horno convencional a 180–190 °C durante 60–75 minutos, girando los paquetes a mitad de cocción.",
+        "step_6": "Déjalos reposar envueltos durante 5–10 minutos para que el vapor termine la cocción."
+      },
+      "de": {
+        "step_1": "Satsumaimo-Süßkartoffeln ähnlicher Größe auswählen, gründlich waschen, nicht schälen und gut abtrocknen.",
+        "step_2": "Die Schale an einigen Stellen mit einem Zahnstocher einstechen, damit die Kartoffeln gleichmäßig garen.",
+        "step_4": "Im vorgeheizten Ofen bei 180–190 °C etwa 60–75 Minuten backen und die Päckchen nach der Hälfte der Zeit wenden.",
+        "step_6": "Die Päckchen geschlossen 5–10 Minuten ruhen lassen, damit der Dampf die Garung abschließt."
+      },
+      "pt": {
+        "step_1": "Escolha batatas-doces satsumaimo de tamanho semelhante, lave-as bem sem descascar e seque-as.",
+        "step_4": "Asse no forno convencional a 180–190 °C durante 60–75 minutos, virando os embrulhos a meio da cozedura."
+      }
+    },
+    "recipe_000107": {
+      "es": {
+        "step_3": "Tuesta el pan por ambos lados hasta que quede dorado y crujiente por fuera, pero esponjoso por dentro.",
+        "step_5": "Extiende una capa generosa y uniforme de ogura-an sin aplastar el pan."
+      },
+      "de": {
+        "step_2": "Ist die Anko-Paste sehr fest, mit einem Teelöffel warmem Wasser geschmeidig rühren, ohne sie zu verflüssigen.",
+        "step_4": "Die Butter sofort auf dem noch warmen Toast verstreichen, auch an den Rändern, damit sie in die Krume einzieht.",
+        "step_5": "Ogura-An großzügig und gleichmäßig auf dem Toast verteilen, ohne das Brot zusammenzudrücken.",
+        "step_6": "Schlagsahne, falls verwendet, erst nach etwa einer Minute auf den leicht abgekühlten Toast geben, damit sie nicht schmilzt."
+      },
+      "pt": {
+        "step_1": "Corte duas fatias de shokupan com cerca de 2–3 cm de espessura. Deixe o ogura-an chegar à temperatura ambiente ou aqueça-o ligeiramente sem o secar.",
+        "step_4": "Espalhe imediatamente a manteiga sobre o pão ainda quente, incluindo as bordas, para que seja absorvida pelo miolo.",
+        "step_6": "Se utilizar chantilly, junte-o frio apenas depois de deixar o pão arrefecer durante um minuto, para não derreter."
+      }
+    },
+    "recipe_000110": {
+      "en": {
+        "step_1": "Use only cleaned, precooked tripe or other offal sold ready for final reheating, following the supplier's instructions. Cut into even pieces with clean utensils. The later 10–15 minutes do not safely cook raw offal."
+      },
+      "es": {
+        "step_1": "Utiliza únicamente callos o vísceras ya limpios y precocidos, siguiendo las instrucciones del proveedor. Corta en trozos regulares con utensilios limpios; los 10–15 minutos posteriores no bastan para cocinar vísceras crudas.",
+        "step_2": "Escalda los trozos precocidos durante 1 minuto, escúrrelos y enjuágalos; este paso reduce los olores sin retirar demasiada grasa.",
+        "step_5": "Lleva a un hervor suave y calienta los callos precocidos durante 10–15 minutos, hasta que estén tiernos y bien calientes."
+      },
+      "fr": {
+        "step_1": "Utilisez uniquement des tripes ou abats déjà nettoyés et précuits, conformément aux instructions du fournisseur. Coupez-les en morceaux réguliers avec des ustensiles propres ; les 10 à 15 minutes de réchauffage ne suffisent pas à cuire des abats crus."
+      },
+      "de": {
+        "step_1": "Nur bereits gereinigte und vorgegarte Kutteln oder Innereien nach Herstellerangaben verwenden. Mit sauberen Utensilien in gleich große Stücke schneiden; die späteren 10–15 Minuten reichen nicht aus, um rohe Innereien sicher zu garen.",
+        "step_2": "Die vorgegarten Stücke etwa 1 Minute blanchieren, abgießen und abspülen, um Gerüche und Rückstände zu reduzieren.",
+        "step_5": "Die vorgegarten Innereien in der leicht köchelnden Brühe etwa 10–15 Minuten vollständig erhitzen, bis sie heiß und zart sind."
+      },
+      "pt": {
+        "step_1": "Use apenas tripas ou miudezas já limpas e pré-cozidas, de acordo com as instruções do fornecedor. Corte-as em pedaços uniformes com utensílios limpos; os 10–15 minutos seguintes não bastam para cozinhar miudezas cruas."
+      }
+    },
+    "recipe_000111": {
+      "es": {
+        "step_1": "Haz unas incisiones superficiales en la piel de la caballa y viértele agua hirviendo durante unos segundos; escurre y seca los filetes para suavizar el olor.",
+        "step_3": "Lleva el líquido a ebullición y añade la mitad del jengibre.",
+        "step_6": "Rocía los filetes con su salsa durante 3–5 minutos, hasta que quede brillante y algo espesa."
+      },
+      "de": {
+        "step_1": "Die Haut der Makrelenfilets leicht einschneiden, einige Sekunden mit kochendem Wasser übergießen, dann abgießen und trocken tupfen.",
+        "step_2": "Ingwer in dünne Scheiben schneiden; Wasser oder Dashi, Sake, Mirin und Zucker in einer breiten Pfanne bereitstellen.",
+        "step_3": "Die Flüssigkeit aufkochen und die Hälfte des Ingwers zugeben.",
+        "step_5": "Eine Kelle Sud entnehmen, das Miso darin auflösen und zurück in die Pfanne geben, ohne stark aufzukochen.",
+        "step_6": "Die Makrelenfilets weitere 3–5 Minuten wiederholt mit dem Sud übergießen, bis die Sauce glänzend und leicht eingedickt ist."
+      },
+      "pt": {
+        "step_1": "Faça cortes superficiais na pele dos filetes de cavala e verta água a ferver por alguns segundos; escorra e seque para reduzir o cheiro intenso.",
+        "step_6": "Regue repetidamente os filetes com o molho durante 3–5 minutos, até ficar brilhante e ligeiramente espesso.",
+        "step_7": "Finalize com o gengibre restante e sirva logo, com a pele intacta e a carne suculenta."
+      }
+    },
+    "recipe_000113": {
+      "es": {
+        "step_3": "Pasa las gambas por la clara de huevo y después por la maicena, retirando el exceso para lograr una capa fina.",
+        "step_6": "Mezcla las gambas aún calientes con la salsa ebi mayo con cuidado, cubriéndolas sin ablandar demasiado la costra."
+      },
+      "de": {
+        "step_1": "Die Garnelen gründlich trocknen und bei Bedarf am Rücken leicht einschneiden, um den Darm zu entfernen.",
+        "step_2": "Kewpie-Mayonnaise mit Kondensmilch oder Honig und Zitronensaft zu einer glatten Sauce verrühren; bis zur Verwendung kühl halten.",
+        "step_3": "Die Garnelen erst im Eiweiß und dann in Maisstärke wenden; überschüssige Stärke abschütteln.",
+        "step_5": "Auf einem Gitter oder Küchenpapier abtropfen lassen und nur kurz ruhen lassen.",
+        "step_6": "Die noch heißen Garnelen vorsichtig mit der Ebi-Mayo-Sauce überziehen, damit die knusprige Hülle nicht zu weich wird."
+      },
+      "pt": {
+        "step_3": "Passe os camarões pela clara de ovo e depois pelo amido de milho; retire o excesso para obter uma camada fina.",
+        "step_6": "Envolva os camarões ainda quentes no molho ebi mayo, misturando delicadamente para conservar a crosta crocante."
+      }
+    },
+    "recipe_000115": {
+      "es": {
+        "step_2": "Vierte el líquido en un recipiente poco profundo, deja que se temple y refrigera hasta que la gelatina cuaje por completo.",
+        "step_3": "Corta la gelatina kanten en dados regulares y escurre bien la fruta.",
+        "step_4": "Si utilizas shiratama, cuécelos hasta que floten, continúa 1–2 minutos y enfríalos en agua fría."
+      },
+      "de": {
+        "step_1": "Kanten in kaltem Wasser verteilen, zum Kochen bringen und unter Rühren etwa 2 Minuten erhitzen, bis er vollständig gelöst ist.",
+        "step_2": "Die Flüssigkeit in eine flache Form gießen, etwas abkühlen lassen und zum vollständigen Gelieren in den Kühlschrank stellen.",
+        "step_3": "Das feste Kanten-Gelee in gleichmäßige Würfel schneiden und die Früchte gründlich abtropfen lassen.",
+        "step_4": "Shiratama, falls verwendet, in Wasser kochen, bis sie aufsteigen; weitere 1–2 Minuten garen und dann kalt abschrecken."
+      },
+      "pt": {
+        "step_3": "Corte o kanten solidificado em cubos e escorra bem a fruta."
+      }
+    },
+    "recipe_000119": {
+      "es": {
+        "step_3": "Calienta el aceite de sésamo en una cazuela y rehoga las raíces y las setas durante 3–4 minutos.",
+        "step_7": "Sazona con sake y salsa de soja, prueba y sirve caliente; evita el katsuobushi para mantener la sopa estrictamente vegetariana."
+      },
+      "de": {
+        "step_1": "Tofu abtropfen lassen und grob zerbröseln; Daikon, Karotte, Gobo und Shiitake in kleine, gleichmäßige Stücke schneiden.",
+        "step_3": "Sesamöl im Topf erhitzen und Wurzelgemüse und Pilze zuerst 3–4 Minuten anbraten.",
+        "step_6": "Etwa 15 Minuten bei schwacher Hitze köcheln lassen, bis das Wurzelgemüse weich, aber nicht zerfallen ist."
+      },
+      "pt": {
+        "step_3": "Aqueça o óleo de sésamo numa caçarola e refogue as raízes e os cogumelos durante 3–4 minutos."
+      }
+    }
+  }
+}

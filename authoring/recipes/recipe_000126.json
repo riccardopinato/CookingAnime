@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000126",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -259,12 +259,12 @@
       },
       "steps": {
         "step_1": "Corta cerdo, gambas, cebolla y raíz de loto en trozos similares, lo suficientemente pequeños como para cocinar al mismo tiempo, y ponlos por separado en los pinchos.",
-        "step_2": "Seca bien todos los ingredientes e infartos ligeramente para favorecer la adhesión de la masa.",
+        "step_2": "Seca bien todos los ingredientes y espolvoréalos ligeramente con harina para que la masa se adhiera.",
         "step_3": "Prepara una masa fluida con harina, huevo y agua fría, sin trabajar demasiado.",
-        "step_4": "Pasa cada broche en la masa y luego en el panko, pulsando apenas para crear una capa uniforme.",
+        "step_4": "Pasa cada brocheta por la masa y luego por el panko, presionando suavemente para lograr una cobertura uniforme.",
         "step_5": "Lleva el aceite a 170-175°C y fríe unos pocos pinchos a la vez, ajustando los tiempos según el ingrediente.",
         "step_6": "Escurrir sobre la parrilla y dejar reposar un minuto; comprobar que la carne y el camarón están cocidos en el centro.",
-        "step_7": "Servir caliente con salsa kushikatsu o tonkatsu aparte, evitando dejar los picadillos sumergidos en la salsa."
+        "step_7": "Sirve las brochetas calientes con salsa kushikatsu o tonkatsu aparte, sin dejarlas sumergidas en ella."
       }
     },
     "fr": {
@@ -362,12 +362,12 @@
         }
       },
       "steps": {
-        "step_1": "Schweineschneider, Garnelen, Zwiebeln und Lotuswurzel in ähnliche Stücke, klein genug, um gleichzeitig zu kochen, und steck sie separat auf die Spieße.",
-        "step_2": "Trocknet alle Zutaten und Herzinfarkte leicht, um die Passion des Teiges zu fördern.",
+        "step_1": "Schweinefleisch, Garnelen, Zwiebeln und Lotuswurzel in ähnlich kleine Stücke schneiden und getrennt auf Spieße stecken, damit sie gleichmäßig garen.",
+        "step_2": "Alle Zutaten gründlich trockentupfen und leicht mit Mehl bestäuben, damit der Teig gut haftet.",
         "step_3": "Bereiten Sie einen flüssigen Teig mit Mehl, Ei und kaltem Wasser, ohne es übermäßig zu verarbeiten.",
-        "step_4": "Gib jedes Spieß in den Pastell und dann in den Panko und drücke gerade, um eine gleichmäßige Schicht zu erstellen.",
+        "step_4": "Jeden Spieß zuerst in den flüssigen Teig und danach in Panko wenden; die Panade leicht andrücken.",
         "step_5": "Bring das Öl auf 170-175°C und frittiere ein paar Spieße zur gleichen Zeit, wobei die Zeit auf der Grundlage des Bestandteils eingestellt wird.",
-        "step_6": "Schütten Sie es auf das Gitter und lassen Sie eine Minute ruhen; überprüfen Sie, ob Fleisch und Garnelen in der Mitte gekocht werden.",
+        "step_6": "Die Spieße auf einem Gitter abtropfen und 1 Minute ruhen lassen; Fleisch und Garnelen müssen innen vollständig gegart sein.",
         "step_7": "Heiße Servieren mit Kushikatsu- oder Tonkatsu-Sauce, ohne die Spieße in der Soße eingetaucht zu lassen."
       }
     },
@@ -414,13 +414,13 @@
         }
       },
       "steps": {
-        "step_1": "Cortar porco, camarão, cebola e raiz de loto em pedaços semelhantes, pequenos o suficiente para cozinhar ao mesmo tempo, e colocá- los separadamente em broches.",
+        "step_1": "Corte a carne de porco, os camarões, a cebola e a raiz de lótus em pedaços pequenos de tamanho semelhante e coloque-os separadamente em espetos.",
         "step_2": "Seque todos os ingredientes e farinha ligeiramente para favorecer a adesão da massa.",
         "step_3": "Prepare uma massa de fluido com farinha, ovo e água fria, sem trabalhar muito duro.",
-        "step_4": "Passe cada espelho para a massa e, em seguida, para o panko, pressionando apenas para criar uma camada uniforme.",
-        "step_5": "Traga o óleo para 170-175°C e frite alguns pintos de cada vez, ajustando os horários de acordo com o ingrediente.",
+        "step_4": "Passe cada espeto pela massa e depois pelo panko, pressionando ligeiramente para formar uma camada uniforme.",
+        "step_5": "Aqueça o óleo a 170–175 °C e frite poucos espetos de cada vez, ajustando a duração ao ingrediente.",
         "step_6": "Esgote a grelha e deixe- a ficar por um minuto; verifique que carne e camarão são cozidos no meio.",
-        "step_7": "Servir quente com molho Kushikatsu ou tonkatsu separadamente, evitando deixar os broches imersos no molho."
+        "step_7": "Sirva os espetos quentes com molho kushikatsu ou tonkatsu à parte, sem os deixar mergulhados no molho."
       }
     }
   }

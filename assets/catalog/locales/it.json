@@ -2640,7 +2640,7 @@
         "step_3": "Lavora l'impasto finché risulta liscio ed elastico.",
         "step_4": "Copri con un panno e lascia lievitare per 1 ora fino al raddoppio.",
         "step_5": "Dividi l'impasto lievitato in 6 palline uguali.",
-        "step_6": "Stendi ogni pallina forma un disco dal centro leggermente più spesso e dai bordi sottili.",
+        "step_6": "Stendi ogni pallina formando un disco con il centro leggermente più spesso e i bordi sottili.",
         "step_7": "Metti un generoso cucchiaio di curry denso freddo al centro di ciascun disco.",
         "step_8": "Chiudi accuratamente i bordi sigillandoli bene e dando la classica forma ovale ad ellisse.",
         "step_9": "Passa ogni panino prima nell'uovo sbattuto e poi nel panko facendolo aderire uniformemente.",
@@ -3653,7 +3653,7 @@
         "step_1": "Trita finemente i biscotti ed uniscili al burro fuso.",
         "step_2": "Compattali sul fondo di una tortiera foderata di carta forno e metti in frigo per 15 minuti.",
         "step_3": "In una ciotola, lavora a crema il formaggio spalmabile con lo zucchero.",
-        "step_4": "Unisci le uova una alla volta amalgamando bene.",
+        "step_4": "Unisci l'uovo e amalgama bene.",
         "step_5": "Unisci la panna fresca, il succo e la scorza di Yuzu ed infine la farina setacciata finché il composto non risulta liscio e vellutato.",
         "step_6": "Aggiungi la crema sulla base di biscotto.",
         "step_7": "Cuoci in forno statico preriscaldato a 160°C per circa 45-50 minuti (il centro deve rimanere leggermente tremolante).",
@@ -4529,7 +4529,7 @@
         "step_4": "Aggiungi la salsa in una pirofila capiente.",
         "step_5": "Taglia il pollo a bocconcini grandi.",
         "step_6": "Infarinalo leggermente, poi passalo nell'uovo sbattuto.",
-        "step_7": "Friggi in olio di semi a 170°C per 5-6 minuti fino a doratura.",
+        "step_7": "Friggi in olio di semi a 170 °C fino a doratura, indicativamente 5–6 minuti; verifica con un termometro che il pollo raggiunga almeno 74 °C al cuore prima di condirlo.",
         "step_8": "Preleva il pollo bollente appena fritto e immersalo immediatamente nella salsa dolce Namban-zu per 1 minuto, girandolo su entrambi i lati per far assorbire il condimento acido-dolce.",
         "step_9": "Sistema il pollo nei piatti e copri la superficie con un generoso cucchiaio di salsa tartara cremosa."
       }
@@ -5473,7 +5473,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Taglia la zucca a pezzi e lascia cuocerela al vapore per 15 minuti finché diventa tenera.",
+        "step_1": "Taglia la zucca a pezzi e cuocila al vapore per circa 15 minuti, finché diventa tenera.",
         "step_2": "Poi schiacciala con uno schiacciapatate tenendo la buccia ed eliminando l'umidità in eccesso.",
         "step_3": "Rosola la cipolla e la carne macinata nel burro finché ben cotte e insaporite con sale e pepe.",
         "step_4": "Unisci la carne alla purea di zucca, amalgama bene e lascia raffreddare l'impasto.",
@@ -7067,7 +7067,7 @@
       "stepTexts": {
         "step_1": "Setaccia farina e Matcha in una ciotola.",
         "step_2": "Unisci zucchero e uova, poi aggiungi il latte tiepido e il burro fuso amalgamando con una frusta fino a ottenere una pastella liquida e senza grumi.",
-        "step_3": "Riposo in frigo per 30 minuti.",
+        "step_3": "Lascia riposare la pastella in frigorifero per 30 minuti.",
         "step_4": "Cuoci circa 15-20 crepes sottilissime in una padella antiaderente leggermente imburrata, lasciale raffreddare completamente.",
         "step_5": "Monta la panna con lo zucchero a velo e il Matcha, poi incorporala alla crema pasticcera.",
         "step_6": "Assembla il dolce adagiando la prima crepe su un piatto, spalma uno strato sottile di crema e copri con un'altra crepe.",

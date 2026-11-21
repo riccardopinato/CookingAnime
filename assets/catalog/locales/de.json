@@ -2636,18 +2636,18 @@
       },
       "stepTexts": {
         "step_1": "In einer großen Schüssel, fügen Sie Mehl, Zucker und Hefe, dann fügen Sie die lauwarme Milch.",
-        "step_2": "Füttern Sie 5 Minuten lang, dann mischen Sie Salz und weichgemachte Butter.",
+        "step_2": "Den Teig 5 Minuten kneten, dann Salz und weiche Butter einarbeiten.",
         "step_3": "Der Teig wird bearbeitet, bis er glatt und elastisch ist.",
         "step_4": "Bedecken Sie mit einem Tuch und lassen Sie 1 Stunde bis zur Verdopplung aufgehen.",
         "step_5": "Teilen Sie den Teig in 6 gleiche Kugeln.",
-        "step_6": "Legen Sie jeden Ball eine Scheibe aus der Mitte etwas dicker und von den dünnen Rändern.",
+        "step_6": "Jede Teigkugel zu einem Kreis ausrollen, dessen Mitte etwas dicker als der Rand bleibt.",
         "step_7": "Legen Sie einen großzügigen Esslöffel kalten Curry in die Mitte jeder Scheibe.",
-        "step_8": "Schließen Sie die Kanten sorgfältig, indem Sie sie gut versiegeln und geben die klassische ovale Form zu Ellipse.",
-        "step_9": "Er fährt jedes Sandwich zuerst ins Ei und dann in den Panko, indem er es gleichmäßig festhält.",
+        "step_8": "Die Teigränder fest zusammendrücken und jedes gefüllte Brötchen oval formen.",
+        "step_9": "Jedes Brötchen zuerst im verquirlten Ei, dann im Panko wenden und rundum gleichmäßig panieren.",
         "step_10": "Lass die Sandwiches 15 Minuten ruhen.",
         "step_11": "Erhitzt das Samenöl auf 170 °C.",
         "step_12": "Fritier die Kare Pans 2-3 Minuten pro Seite, bis sie goldig und super knusprig werden.",
-        "step_13": "Schablonen auf absorbierendes Papier und warme Servietten."
+        "step_13": "Auf Küchenpapier abtropfen lassen und warm servieren."
       }
     },
     "recipe_000053": {
@@ -3041,11 +3041,11 @@
         "step_2": "In einer großen Pfanne mit Deckel, schmelzen Sie die Hälfte der Butter und fügen Sie den geschnittenen Knoblauch und den geriebenen Ingwer zusammen.",
         "step_3": "Knoblauch und Ingwer bei schwacher Hitze 1 Minute lang leicht goldbraun anbraten.",
         "step_4": "Kombinieren Sie die Muscheln in die Pfanne und fügen Sie sofort den japanischen Sake hinzu.",
-        "step_5": "Bedecken Sie den Deckel sofort und heben Sie die Flamme auf lebendiges Feuer.",
-        "step_6": "Kochen Sie 3-4 Minuten lang, indem Sie die Pfanne ab und zu schütteln, bis sich alle Muscheln vollständig öffnen (verpacken Sie die verschlossenen Muscheln). Lebende Venusmuscheln von einem zuverlässigen Anbieter verwenden. Beschädigte Muscheln und solche, die sich bei Berührung nicht schließen, vor dem Garen aussortieren; Muscheln, die nach gründlichem Garen geschlossen bleiben, wegwerfen.",
+        "step_5": "Den Topf sofort mit dem Deckel verschließen und die Hitze stark erhöhen.",
+        "step_6": "Die Muscheln 3–4 Minuten unter gelegentlichem Schwenken garen, bis sie sich öffnen. Muscheln mit beschädigter Schale und solche, die sich vor dem Garen beim Berühren nicht schließen, aussortieren; nach gründlichem Garen geschlossene Muscheln wegwerfen.",
         "step_7": "Mach das Feuer aus, misch die restlichen Butter und einen Faden Sojasauce.",
-        "step_8": "Amalgam sanft, um eine schmackhafte und glänzende Brodetto zu schaffen.",
-        "step_9": "Staub mit reichlich frischen Schnittlauch und bringt mit seiner Brühe sehr heiß auf den Tisch."
+        "step_8": "Alles vorsichtig vermengen, sodass ein aromatischer, leicht glänzender Sud entsteht.",
+        "step_9": "Mit reichlich frischem Schnittlauch bestreuen und die Muscheln mit ihrem Sud sehr heiß servieren."
       }
     },
     "recipe_000060": {
@@ -3425,13 +3425,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "In einer Schüssel mischt er Ingwer, der mit seinem Saft, Sojasoße, Mirin, Sake und Zucker gerieben wird, bis er sich vollständig auflöst.",
+        "step_1": "Geriebenen Ingwer samt Saft mit Sojasauce, Mirin, Sake und Zucker verrühren, bis sich der Zucker vollständig gelöst hat.",
         "step_2": "Legen Sie die Schweinescheiben auf einem Schneidbrett aus und stauben Sie sie leicht mit einem Schleier Mehl von beiden Seiten (das ermöglicht es der Soße, sich zu verdichten und sich perfekt an das Fleisch zu binden).",
         "step_3": "Erhitzt einen Esslöffel Samenöl in einer großen Pfanne bei mittlerer bis hoher Hitze.",
         "step_4": "Kochen Sie die Schweinescheiben für etwa 1.5 bis 2 Minuten pro Seite, bis sie gut vergoldet sind.",
         "step_5": "Fügen Sie die Ingwersoße direkt über das Fleisch in die kochende Pfanne.",
-        "step_6": "Lassen Sie die Pfanne für 1 Minute mischen, bis die Soße zu einer glänzenden, duftenden Glasur wird.",
-        "step_7": "Machen Sie das Schwein mit einem reichlichen Berg von frisch gequetschten Kohl und Mayonnaise Kewpie, servieren Sie es mit gut warmen weißen Reisschalen."
+        "step_6": "Die Sauce unter leichtem Schwenken der Pfanne etwa 1 Minute köcheln lassen, bis sie zu einer glänzenden, aromatischen Glasur eindickt.",
+        "step_7": "Das Schweinefleisch mit reichlich fein geschnittenem frischem Weißkohl und Kewpie-Mayonnaise anrichten; heißen weißen Reis dazu servieren."
       }
     },
     "recipe_000066": {
@@ -3594,15 +3594,15 @@
       },
       "stepTexts": {
         "step_1": "Die Eigelb werden mit Zucker und Maisstärke bearbeitet.",
-        "step_2": "Erhitzen Sie die Milch mit Vanille, ohne zu kochen, dann fügen Sie sie an den Eigelb mischen.",
-        "step_3": "Legen Sie das Feuer wieder auf und lassen Sie es mit niedrigem Feuer verdichten, indem Sie es immer vermischen.",
+        "step_2": "Die Milch mit Vanille erwärmen, ohne sie aufzukochen, und unter ständigem Rühren langsam zur Eigelbmischung gießen.",
+        "step_3": "Die Mischung wieder auf den Herd stellen und bei niedriger Hitze unter ständigem Rühren eindicken lassen.",
         "step_4": "Lassen Sie es mit Kontaktfilm bedeckt abkühlen.",
         "step_5": "Er arbeitet seine Eier mit Zucker und Honig, bis sie klar sind.",
         "step_6": "Lösen Sie die Hefe im Wasser und fügen Sie sie mit den Eiern.",
         "step_7": "Sie sieben das Mehl und geben es vorsichtig ein.",
         "step_8": "Den Teig 15 Minuten im Kühlschrank ausruhen lassen.",
         "step_9": "Erhitzen Sie eine leicht mit Öl fettige und saubere Pfanne mit absorbierendem Papier.",
-        "step_10": "Gießen Sie einen Teig und bilden Sie eine 8 cm Scheibe.",
+        "step_10": "Eine kleine Kelle Teig in die Pfanne geben und zu einem Kreis von etwa 8 cm Durchmesser ausbacken.",
         "step_11": "Wenn die Blasen an der Oberfläche erscheinen, dreht er sich um und lässt 30 Sekunden lang kochen.",
         "step_12": "Kühlen Sie die Scheiben ab, legen Sie einen großzügigen Esslöffel Custard-Creme in die Mitte einer Platte und schließen Sie mit Sandwich, indem Sie sanft die Ränder drücken, um sie zu versiegeln."
       }
@@ -3651,9 +3651,9 @@
       },
       "stepTexts": {
         "step_1": "Zerkleinern Sie die Kekse fein und vereinen Sie sie mit geschmolzener Butter.",
-        "step_2": "Packen Sie sie auf dem Boden einer Tortier mit Backpapier und legen Sie sie in den Kühlschrank für 15 Minuten.",
-        "step_3": "In einer Schüssel arbeitet der Käse mit Zucker in Sahne.",
-        "step_4": "Verbinden Sie die Eier einzeln gut zusammen.",
+        "step_2": "Die Keksmasse fest auf den Boden einer mit Backpapier ausgelegten Springform drücken und 15 Minuten kalt stellen.",
+        "step_3": "Frischkäse und Zucker in einer Schüssel glatt und cremig rühren.",
+        "step_4": "Das Ei zugeben und gründlich unterrühren.",
         "step_5": "Kombinieren Sie die frische Sahne, den Saft und die Schale von Yuzu und schließlich das gesiebte Mehl, bis die Mischung glatt und samtig ist.",
         "step_6": "Fügen Sie die Creme auf Keksbasis hinzu.",
         "step_7": "Kochen Sie im vorgeheizten statischen Ofen bei 160 °C für ca. 45-50 Minuten (die Mitte sollte leicht zittern).",
@@ -3689,7 +3689,7 @@
       "stepTexts": {
         "step_1": "Amalgame glutinöser Reis mit Wasser, Zucker und einem kleinen Tropfen rosa Lebensmittelfarbstoff.",
         "step_2": "Kochen Sie 6 Minuten lang im Dampf oder in der überdachten Mikrowelle, bis der Reis zart und klebrig ist.",
-        "step_3": "Drücken Sie den warmen Reis leicht mit einer Plage, um die Körner zu mischen und dabei eine granulöse und sichtbare Textur (Kansai-Stil) zu halten.",
+        "step_3": "Den heißen Reis mit einem Stößel leicht zerdrücken und durchmischen, sodass die Körner noch erkennbar bleiben (Kansai-Stil).",
         "step_4": "Teilen Sie den rosa Reis in 6 gleiche Portionen.",
         "step_5": "Mit den befeuchteten Händen lege eine Portion Reis auf die Handfläche, lege einen Anko-Ball in die Mitte und wickle den Reis um ihn herum und versiegele ihn perfekt.",
         "step_6": "Umwickle jeden Sakura Mochi mit einem Blatt salzigen Kirschbaums.",
@@ -3942,12 +3942,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Schneiden Sie das Daikon in 2,5 cm dicke Scheiben, schneiden Sie ein Kreuz auf einer Seite (um das Kochen zu erleichtern) und glätten Sie 15 Minuten lang in Reiswasser.",
-        "step_2": "Auch die Konnyaku Dreiecke für 2 Minuten glätten, um den Geruch zu beseitigen.",
+        "step_1": "Daikon in etwa 2,5 cm dicke Scheiben schneiden, auf einer Seite kreuzweise einschneiden und 15 Minuten in Reiswasser blanchieren.",
+        "step_2": "Die Konnyaku-Dreiecke ebenfalls 2 Minuten blanchieren, um den Geruch zu reduzieren.",
         "step_3": "In einem großen Topf aus Oden (Donabe oder großer Topf) vereinen Sie die Dashi-Brühe, die helle Sojasoße, das Mirin und das Salz.",
         "step_4": "Er wärmt bei mittlerer Hitze.",
-        "step_5": "Geben Sie in den Topf die glühende Daikon, die Konnyaku, die gekochten Eier und die Fischkuchen.",
-        "step_6": "Lassen Sie es bei sehr geringem Feuer für mindestens 45-60 Minuten, ohne jemals zu kochen.",
+        "step_5": "Blanchierten Daikon, Konnyaku, hart gekochte Eier und Fischküchlein in den Topf geben.",
+        "step_6": "Bei sehr niedriger Hitze 45–60 Minuten sanft köcheln lassen, ohne die Brühe stark aufzukochen.",
         "step_7": "Die Kinchaku-Säckchen in den letzten 10 Minuten zugeben, damit das Mochi darin weich wird, ohne dass die Säckchen aufreißen.",
         "step_8": "Servieren Sie heiß in der Mitte des Tisches, indem Sie die Zutaten mit der Brühe nehmen und mit Karashi Senf begleiten."
       }
@@ -4104,11 +4104,11 @@
       },
       "stepTexts": {
         "step_1": "In einem Topf, fügen Sie Soja-Sauce, Mirin, Sake und Zucker.",
-        "step_2": "Lassen Sie die Soße 5 Minuten lang mit niedrigem Feuer auftauen, bis die Soße sich verdichtet und saftig und glänzend wird, wenn der Aal gefroren ist, kühlen Sie sie vollständig im Kühlschrank auf.",
-        "step_3": "Passen Sie die Gewinde auf einem Backpapierblech an.",
-        "step_4": "Mit der Tare-Soße kämmen und im Ofen oder unter dem Grill bei 200 °C für 6-8 Minuten erwärmen, bis die Oberfläche weich und karamelliert wird.",
+        "step_2": "Die Sauce bei niedriger Hitze etwa 5 Minuten sanft einkochen lassen, bis sie sirupartig und glänzend ist. Tiefgefrorenen Aal vollständig im Kühlschrank auftauen.",
+        "step_3": "Die Aalfilets auf ein mit Backpapier belegtes Backblech legen.",
+        "step_4": "Die Filets mit Tare-Sauce bestreichen und im Umluftofen oder unter dem Grill bei 200 °C etwa 6–8 Minuten erhitzen, bis die Oberfläche Blasen wirft und karamellisiert.",
         "step_5": "Füllen Sie die Schalen (Donburi) mit dem warmen weißen Reis.",
-        "step_6": "Nappa Reis mit einem Esslöffel Unagi Tare heißer Soße.",
+        "step_6": "Etwas warme Unagi-Tare-Sauce über den Reis geben.",
         "step_7": "Schneide die Aalfilets in die Mitte und lege sie vorsichtig über den Reis.",
         "step_8": "Bestreichen Sie mit einem weiteren Schleier von Soße und Staub mit einem Hauch von Pfeffer Sansho Aroma."
       }
@@ -4278,14 +4278,14 @@
         }
       },
       "stepTexts": {
-        "step_1": "Spülen Sie die Sanma Fische ganz (die japanische Tradition sieht das Kochen mit den Eingeweiden für einen angenehm bitteren Geschmack). Sanma ist Pazifischer Makrelenhecht (Cololabis saira), kein Hecht. Für die Zubereitung zu Hause ausgenommenen, gesäuberten Fisch kaufen oder beim Fischhändler ausnehmen lassen; die Garung an der dicksten Stelle prüfen.",
-        "step_2": "Berühren Sie die Haut mit 3 diagonalen Schnitten auf jeder Seite.",
-        "step_3": "Sie staubt großzügig mit Salz und lässt 10 Minuten ruhen.",
+        "step_1": "Bereits gesäuberten und ausgenommenen Sanma (Pazifischer Makrelenhecht, Cololabis saira) verwenden. Den Fisch vollständig garen und die dickste Stelle prüfen; die Innereien bei dieser Zubereitung nicht belassen.",
+        "step_2": "Die Haut auf jeder Seite mit drei flachen diagonalen Schnitten einschneiden.",
+        "step_3": "Den Fisch großzügig mit grobem Salz bestreuen und 10 Minuten ruhen lassen.",
         "step_4": "Trocknen Sie die vom Salz freigesetzte Feuchtigkeit mit absorbierendem Papier.",
         "step_5": "Kochen Sie die Fische für ca. 6-7 Minuten pro Seite auf einem brennenden Grill oder auf der Backplatte bei 220 °C.",
         "step_6": "Solange die Haut goldig, knusprig und leicht verbrennt wird.",
         "step_7": "Setzen Sie die ganzen Fische auf gestreckten rechteckigen Tellern.",
-        "step_8": "Begleiten Sie mit einem frisch geriebenen Daikon Berg mit einem Tropfen Sojasoße und einer Zitrone."
+        "step_8": "Mit frisch geriebenem Daikon, etwas Sojasauce und einer Zitronenspalte servieren."
       }
     },
     "recipe_000081": {
@@ -4524,12 +4524,12 @@
       },
       "stepTexts": {
         "step_1": "In einer Schüssel zerquetschen Sie das gekochte Ei mit der Gabel; fügen Sie die Mayonnaise Kewpie, die gehackte Zwiebel, Zitronensaft, Salz und Pfeffer.",
-        "step_2": "Amalgam und halten Sie sich frisch.",
+        "step_2": "Alles verrühren und bis zur Verwendung im Kühlschrank aufbewahren.",
         "step_3": "In einem Topf erwärmt er die Sojasauce, den Reisessig und den Zucker, bis der Zucker auflöst.",
-        "step_4": "Fügen Sie die Soße in eine große Pyrophilie.",
-        "step_5": "Schneide das Huhn mit großen Bissen ab.",
-        "step_6": "Mach es leicht, dann gib es ins verprügelte Ei.",
-        "step_7": "Frittieren Sie in Samenöl bei 170 °C für 5-6 Minuten bis zur Vergoldung.",
+        "step_4": "Die Namban-Sauce in eine große hitzebeständige Form gießen.",
+        "step_5": "Das Hähnchen in gleichmäßig große Stücke schneiden.",
+        "step_6": "Die Hähnchenstücke leicht mit Mehl bestäuben und anschließend durch das verquirlte Ei ziehen.",
+        "step_7": "In 170 °C heißem Öl etwa 5–6 Minuten goldbraun frittieren; mit einem Lebensmittelthermometer prüfen, dass das Hähnchen mindestens 74 °C Kerntemperatur erreicht.",
         "step_8": "Nehmen Sie das gerade gebratene kochende Huhn und tauchen Sie es sofort in die süße Namban-zu-Soße für 1 Minute ein, indem Sie es auf beiden Seiten drehen, um den sauer-süßen Würz zu absorbieren.",
         "step_9": "Legen Sie das Huhn in die Teller und decken Sie die Oberfläche mit einem großzügigen Esslöffel cremigen Tartara-Sauce."
       }
@@ -4667,13 +4667,13 @@
       },
       "stepTexts": {
         "step_1": "Kastaniencreme, weiche Butter und Rum in einer Schüssel mit dem Handrührgerät cremig und klümpchenfrei aufschlagen.",
-        "step_2": "Gehen Sie durch ein feines Sieb, um die Flüssigkeit in den Spaghetti-Creme zu gewährleisten.",
-        "step_3": "Machen Sie die Platten von Span- oder Meringa-Panzer auf die Untertassen.",
-        "step_4": "Legen Sie in der Mitte jeder Platte eine ganze Kastanie in Stücke.",
-        "step_5": "Bedecken Sie die Kastanie mit einem Spachtel und erstellen Sie eine hohe Sahne-Höhe/Kuppel.",
-        "step_6": "Geben Sie die Kastaniencreme in eine Schabe mit mehreren Löchern (Mont Blanc/Spaghetti-Flasche) ein.",
-        "step_7": "Drücken Sie die Kastaniencreme rund um die Kuppel mit Schlagsahne, indem Sie überlappende Drähte anlegen, bis sie vollständig bedeckt ist.",
-        "step_8": "Die Spitze mit Schleierzucker stauben, um den Schnee zu simulieren, und eine Kastanie auf der Oberseite polieren."
+        "step_2": "Die Kastaniencreme durch ein feines Sieb streichen, damit sie später problemlos durch die Mont-Blanc-Tülle gepresst werden kann.",
+        "step_3": "Biskuit- oder Baiserscheiben auf Dessertteller legen.",
+        "step_4": "Eine ganze kandierte Kastanie in die Mitte jeder Scheibe setzen.",
+        "step_5": "Über jeder Kastanie mit einem Spatel eine hohe Kuppel aus Schlagsahne formen.",
+        "step_6": "Die Kastaniencreme in einen Spritzbeutel mit einer Mont-Blanc-Tülle mit mehreren kleinen Öffnungen füllen.",
+        "step_7": "Die Creme in dünnen, sich überlappenden Fäden rund um die Sahnekuppel spritzen, bis diese ganz bedeckt ist.",
+        "step_8": "Mit Puderzucker wie mit Schnee bestäuben und oben eine kandierte Kastanie aufsetzen."
       }
     },
     "recipe_000088": {
@@ -4711,14 +4711,14 @@
         }
       },
       "stepTexts": {
-        "step_1": "Holen Sie die kalte frische Sahne mit Zucker und Vanille, bis sie fest und strukturiert wird.",
+        "step_1": "Die gut gekühlte Sahne mit Zucker und Vanille steif schlagen.",
         "step_2": "Spreizt eine großzügige Schicht von Schlagsahne auf zwei Scheiben Brot.",
         "step_3": "Das frische Obst auf der Sahne entlang der vorgesehenen Schnittdiagonale anordnen.",
         "step_4": "Die Erdbeeren so ausrichten, dass beim Aufschneiden der typische herzförmige Querschnitt sichtbar wird.",
-        "step_5": "Bedecken Sie die leeren Räume zwischen den Früchten mit anderen Schlagsahne, um keine Luftleere zu hinterlassen.",
+        "step_5": "Die Zwischenräume zwischen den Früchten mit weiterer Schlagsahne füllen, damit keine Luftlöcher bleiben.",
         "step_6": "Schließ mit den anderen Brotscheiben.",
-        "step_7": "Wickeln Sie die Sandwiches in den transparenten Film und markieren Sie mit einem Stift die diagonale Schnittlinie.",
-        "step_8": "Lassen Sie sich 20 Minuten im Kühlschrank ausruhen.",
+        "step_7": "Die Sandwiches straff in Frischhaltefolie wickeln und die geplante diagonale Schnittlinie markieren.",
+        "step_8": "Die Sandwiches 20 Minuten im Kühlschrank ruhen lassen.",
         "step_9": "Schneide in der Mitte mit einem scharfen Messer nach der Linie, um das Fruchtdesign zu zeigen."
       }
     },
@@ -4858,13 +4858,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Spülen Sie den Reis in mehr Wasser, bis das Wasser fast klar wird, und spülen Sie ihn dann 15 Minuten lang ab: Die Ruhe vermeidet, dass der Boden während des Kochens klebrig wird.",
-        "step_2": "Schnürt die rehydrierten Shiitakes, die Karotte und die Aburaage; schneidet das Huhn mit gleichmäßigen Würfeln von ca. 1,5 cm ab.",
-        "step_3": "Gießen Sie den Reis in den Topf oder Koch und fügen Sie dashi, Sojasauce, Mirin und Sake hinzu, wobei Sie den für den Reis vorgesehenen Flüssigkeitsgehalt einhalten.",
+        "step_1": "Den Reis mehrfach waschen, bis das Wasser fast klar ist, und anschließend 15 Minuten im Sieb abtropfen lassen.",
+        "step_2": "Die eingeweichten Shiitake, die Karotte und den Aburaage in Scheiben schneiden; das Hähnchen in gleichmäßige Würfel von etwa 1,5 cm schneiden.",
+        "step_3": "Reis in einen Topf oder Reiskocher geben, Dashi, Sojasauce, Mirin und Sake hinzufügen und die für die Reismenge vorgesehene Flüssigkeitsmenge beachten.",
         "step_4": "Verteilen Sie Huhn, Shiitake, Karotte und Aburaage, ohne zu mischen: die Zutaten werden mit Dampf kochen, während der Reis die Würze absorbiert.",
         "step_5": "Kurz aufkochen lassen, abdecken, die Hitze auf die niedrigste Stufe reduzieren und etwa 15 Minuten garen, ohne den Deckel anzuheben. Im Reiskocher das normale Programm verwenden.",
-        "step_6": "Schalte aus und lass dich 10 Minuten lang überdeckt ausruhen, so dass die Feuchtigkeit neu verteilt wird und die Körner das Kochen beenden.",
-        "step_7": "Granat von unten nach oben mit einem Spachtel, sanft die Würze, ohne den Reis zu zerquetschen, und servieren warm."
+        "step_6": "Den Herd ausschalten und den Reis 10 Minuten zugedeckt ruhen lassen, damit sich die Feuchtigkeit verteilt und die Körner fertig garen.",
+        "step_7": "Den Reis mit einem Reisspatel vorsichtig von unten nach oben auflockern, die Zutaten untermischen und warm servieren."
       }
     },
     "recipe_000092": {
@@ -4958,13 +4958,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Bereite zwei Schüssel mit einem warmen Reis vor und halte die bereits gekochten Tonkatsu-Schelatchen in Streifen von etwa 2 cm Breite.",
-        "step_2": "In einer Pfanne aus Donburi führt dashi, Soja-Sauce, Mirin und Zucker; fügen Sie die Zwiebel und kochen Sie 3-4 Minuten, bis es durchsichtig wird.",
-        "step_3": "Über der Zwiebel schmeckt eine Schüssel, ohne sie vollständig zu untertauchen, so dass die Panade schmeckt, aber nicht zerfällt.",
-        "step_4": "Klopfen Sie gerade ein Ei, indem Sie sichtbares Album und Eigelb lassen und gießen Sie etwa zwei Drittel um und über die Schüssel.",
-        "step_5": "Geben Sie die Hälfte des Käses, decken Sie und kochen Sie 60-90 Sekunden; fügen Sie das restliche Ei hinzu und schalten Sie aus, wenn es noch weich und glänzend ist.",
-        "step_6": "Lassen Sie den Inhalt der Pfanne sorgfältig auf den heißen Reis rutschen, ohne die Schüssel zu brechen.",
-        "step_7": "Komplett mit dem restlichen Käse oder Schnittlauch und servieren Sie sofort, bevor das Ei cremig verliert."
+        "step_1": "Zwei Schalen mit heißem Reis vorbereiten. Die bereits gegarten Tonkatsu-Schnitzel in etwa 2 cm breite Streifen schneiden.",
+        "step_2": "Dashi, Sojasauce, Mirin und Zucker in einer kleinen Donburi-Pfanne aufkochen. Die Zwiebel zugeben und 3–4 Minuten glasig garen.",
+        "step_3": "Das in Streifen geschnittene Schnitzel auf die Zwiebeln legen, ohne die Panade vollständig in die Brühe einzutauchen.",
+        "step_4": "Ein Ei nur kurz verquirlen, sodass Eiweiß und Eigelb noch erkennbar sind; etwa zwei Drittel davon über und um das Schnitzel gießen.",
+        "step_5": "Die Hälfte des Käses darübergeben, abdecken und 60–90 Sekunden garen; das restliche Ei hinzufügen und bei gewünschtem Gargrad die Hitze ausschalten.",
+        "step_6": "Den Pfanneninhalt vorsichtig auf den heißen Reis gleiten lassen, ohne das Schnitzel zu zerbrechen.",
+        "step_7": "Mit dem restlichen Käse oder Schnittlauch bestreuen und sofort servieren."
       }
     },
     "recipe_000094": {
@@ -5011,11 +5011,11 @@
       },
       "stepTexts": {
         "step_1": "Kontrollieren Sie den Lachs, indem Sie Gräten entfernen und in Bissen schneiden; bereitet Kartoffeln, Karotte, Kohl, Tofu und Pilze in Stücke ähnlicher Größe.",
-        "step_2": "Bringen Sie das Dashi leicht in die Donabe oder in eine große Kasserolle und spülen Sie die Miso in eine Schüssel mit einer Schale heißer Brühe, dann legen Sie es wieder in den Topf.",
+        "step_2": "Dashi im Donabe oder in einem großen Topf leicht aufkochen. Miso in einer Schüssel mit einer Kelle heißer Brühe glattrühren und wieder in den Topf geben.",
         "step_3": "Fügen Sie Kartoffeln und Karotte hinzu und kochen Sie für ca. 8-10 Minuten, bis sie weich werden.",
         "step_4": "Verbinden Sie Kohl, Tofu und Pilze und fahren Sie für 3-4 Minuten fort.",
-        "step_5": "Sie füttert den Lachs an der Oberfläche und kocht 6-8 Minuten weich, ohne ihn zu kochen, um ihn nicht zu verderben.",
-        "step_6": "Probieren Sie die Brühe und korrigieren Sie mit wenig miserabel gelöst, wenn es nötig ist; vermeiden Sie lange nach dem Hinzufügen des Miso kochen.",
+        "step_5": "Lachs vorsichtig auf das Gemüse legen und weitere 6–8 Minuten sanft garen, ohne ihn durch heftiges Kochen zu zerfallen.",
+        "step_6": "Die Brühe abschmecken und bei Bedarf etwas zuvor in Brühe gelöstes Miso ergänzen; nach dem Zugeben von Miso nicht lange stark kochen.",
         "step_7": "Schalten Sie aus, fügen Sie die Butter in die Mitte und servieren Sie die gut warme Nabe direkt aus dem Topf."
       }
     },
@@ -5071,10 +5071,10 @@
       },
       "stepTexts": {
         "step_1": "Hähnchen, Menma, wachsweiches Ei und Yuzu-Schale vorbereiten. Einen separaten Topf Wasser für die Nudeln zum Kochen bringen.",
-        "step_2": "Erhitzen Sie die gefilterte Hühnerbrühe mit Salz und Sake bis zu einem leichten Auflauf und probieren Sie: es muss klar, saftig, aber nicht aggressiv sein.",
-        "step_3": "Schalten Sie das Feuer aus und enthalten Yuzu-Saft und Sesamöl nur zum letzten Mal, um die Zitrusaromen zu bewahren.",
+        "step_2": "Die klare Hühnerbrühe mit Salz und Sake erhitzen, bis sie nur leicht köchelt, und abschmecken: Sie soll klar und herzhaft, aber nicht überwürzt sein.",
+        "step_3": "Den Herd ausschalten und Yuzu-Saft und Sesamöl erst ganz zum Schluss einrühren, damit die Zitrusaromen erhalten bleiben.",
         "step_4": "Kochen Sie die Nudeln im kochenden Wasser nach der Dicke, gießen Sie sie, wenn sie noch elastisch sind; schütteln Sie gut, um überschüssiges Wasser zu entfernen.",
-        "step_5": "Geben Sie die Nudeln in die vorgewärmten Schüssel und gießen Sie die Suppe sofort in den Yuzu.",
+        "step_5": "Die Nudeln in vorgewärmte Schalen verteilen und sofort mit der Yuzu-Brühe übergießen.",
         "step_6": "Füge Huhn, Menma und ein halbes Ei hinzu, so dass ein Teil der Nudeln sichtbar ist.",
         "step_7": "Komplett mit gerade geriebenen Yuzu Schale und serviert sofort, bevor die Nudeln weiterhin Brühe absorbieren."
       }
@@ -5126,13 +5126,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Öffne die Muscheln in einer Pfanne mit Sake und einem lebendigen Feuerdeckel. Vor dem Garen beschädigte Muscheln und solche aussortieren, die sich bei Berührung nicht schließen. Nach dem Garen geschlossen gebliebene Muscheln wegwerfen. Abgesiebten Sud sofort verwenden oder kühlen.",
+        "step_1": "Die Muscheln mit Sake in einer Pfanne bei starker Hitze zugedeckt öffnen lassen. Vorher beschädigte oder auf Berührung nicht schließende Muscheln aussortieren; nach gründlichem Garen geschlossene Muscheln wegwerfen. Abgesiebten Sud sofort verwenden oder kühlen.",
         "step_2": "Trennen Sie die Muscheln von der gefilterten Brühe und halten Sie alles beiseite.",
-        "step_3": "In einem Topf spülen Sie die Butter und rösten den Speck mit Zwiebeln, Karotten und Kartoffeln für 5 Minuten.",
-        "step_4": "Pulver mit Mehl und Amalgam gut für 1 Minute zum Rösten.",
+        "step_3": "Butter in einem Topf schmelzen und Speck, Zwiebel, Karotte und Kartoffel etwa 5 Minuten anbraten.",
+        "step_4": "Das Mehl darüberstäuben und unter Rühren etwa 1 Minute anschwitzen.",
         "step_5": "Fügen Sie die Flüssigkeit der gefilterten Muscheln, die Milch und die Sahne nach und nach hinzu und mischen Sie weiter, bis eine samtige Konsistenz erreicht ist.",
-        "step_6": "Kochen Sie für 12 Minuten, bis die Kartoffeln halten.",
-        "step_7": "Kombinieren Sie die zuletzt geöffneten Muscheln, schwarzer Pfefferregel und bringen Sie sie ins Diner, begleitet von Brotkrusten."
+        "step_6": "Etwa 12 Minuten köcheln lassen, bis die Kartoffeln weich sind.",
+        "step_7": "Die geöffneten Muscheln erst am Ende zugeben, mit schwarzem Pfeffer abschmecken und heiß mit Brotcroûtons servieren."
       }
     },
     "recipe_000097": {
@@ -5251,10 +5251,10 @@
       "stepTexts": {
         "step_1": "Gießen Sie das Reismehl in eine Schüssel und fügen Sie Wasser nach und nach hinzu und kneten, bis die Masse glatt und weich ist, ähnlich dem Ohrlappen.",
         "step_2": "Teilen Sie den Teig in 12 gleiche Portionen und bilden kompakte Kugeln ohne Risse.",
-        "step_3": "Bringt einen Topf mit reichlich Wasser und taucht die Dangos ein, ohne sie zu überladen.",
+        "step_3": "Reichlich Wasser in einem Topf zum Kochen bringen und die Dango portionsweise hineingeben.",
         "step_4": "Wenn die Kugeln ans Wasser steigen, kochen Sie 2 Minuten lang weiter, um das Zentrum gut zu kochen.",
-        "step_5": "Bringen Sie sie sofort in Wasser und Eis, um das Kochen zu stoppen; schälen und trocknen Sie sie vorsichtig.",
-        "step_6": "Stecken Sie drei Dangos für jedes Spieß und verteilen Sie über glattes L-Anko.",
+        "step_5": "Die Dango sofort in Eiswasser geben, damit sie nicht weitergaren; anschließend abgießen und vorsichtig trocken tupfen.",
+        "step_6": "Jeweils drei Dango auf einen Spieß stecken und mit glatter Anko-Paste bestreichen.",
         "step_7": "Mischen Sie Kinako und Zucker, stauben Sie die Spieße kurz vor dem Servieren und konsumieren Sie sie am Tag, um sie weich zu halten."
       }
     },
@@ -5336,10 +5336,10 @@
         "step_1": "Verwenden Sie frisch gekochten Reis, aber lauwarm genug, um behandelt werden zu können; befeuchten Sie und salzen Sie Ihre Hände leicht.",
         "step_2": "Teilen Sie den Reis in vier Portionen und kompakte Dreiecke, drücken Sie genug, damit sie beim Grillen nicht zerbrechen.",
         "step_3": "Mischen Sie Sojasoße und Mirin in eine Schüssel und bereiten Sie einen Küchenpinsel.",
-        "step_4": "Lösen Sie die Hälfte der Butter in einer Pfanne und krönen Sie die Nigger bei mittlerer Hitze für etwa 3 Minuten pro Seite, ohne sie zu bewegen, bis sich eine Kruste bildet.",
-        "step_5": "Hängen Sie eine Seite mit der Sojamischung, drehen Sie und lassen Sie Karamell für etwa 1 Minute; wiederholen Sie auf der anderen Seite.",
-        "step_6": "Fügen Sie die restliche Butter hinzu und drehen Sie die Orchideen in der Pfanne, um den Duft zu verteilen, ohne die Soße zu verbrennen.",
-        "step_7": "Komplett mit gerösteten Sesam und warmen Servieren, mit trockener Kruste und noch weicher Mitte."
+        "step_4": "Die Hälfte der Butter in einer beschichteten Pfanne schmelzen und die Onigiri bei mittlerer Hitze etwa 3 Minuten pro Seite braten, ohne sie vor der Krustenbildung zu bewegen.",
+        "step_5": "Eine Seite mit der Soja-Mirin-Mischung bestreichen, wenden und etwa 1 Minute karamellisieren lassen; auf der anderen Seite wiederholen.",
+        "step_6": "Die restliche Butter zugeben und die Onigiri in der Pfanne schwenken, damit sich das Aroma verteilt, ohne dass die Sauce anbrennt.",
+        "step_7": "Mit geröstetem Sesam bestreuen und heiß servieren; außen knusprig, innen noch weich."
       }
     },
     "recipe_000102": {
@@ -5421,13 +5421,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Bereiten und kühlen Sie im Voraus Gelee zu Matcha und Shiratama; montieren Sie die weiche Sahne und halten Sie das Eis im Gefrierschrank bis zum letzten.",
-        "step_2": "Schneide die Gelee in die regelmäßigen Würfel und teile den L-Anko in zwei Portionen, so dass die Schichten in den beiden Gläsern ausgeglichen werden.",
+        "step_1": "Matcha-Gelee und Shiratama rechtzeitig zubereiten und kühlen; die Sahne leicht aufschlagen und das Eis bis zum Anrichten im Gefrierfach lassen.",
+        "step_2": "Das Gelee in gleichmäßige Würfel schneiden und die Anko-Paste auf zwei Portionen verteilen.",
         "step_3": "Legen Sie eine dünne Schicht von Corn Flakes auf den Boden der Gläser, um zu vermeiden, sie zu zerquetschen.",
         "step_4": "Fügen Sie Gelee zu Matcha, Anko und einen ersten Esslöffel Schlagsahne, so dass die Schichten sichtbar.",
         "step_5": "Wiederholen Sie die Schichten, wenn die Höhe des Glases es erlaubt, ohne es vollständig zu füllen.",
-        "step_6": "Füge nur zum Zeitpunkt des Service einen Eisball dem Matcha hinzu.",
-        "step_7": "Komplett mit Shiratama, Waffeln oder Pocky und einem kleinen Sahneblumen; serviere sofort, damit der knusprige Teil keine Konsistenz verliert."
+        "step_6": "Erst unmittelbar vor dem Servieren eine Kugel Matcha-Eis hinzufügen.",
+        "step_7": "Mit Shiratama, einer Waffel oder Pocky und etwas Schlagsahne garnieren; sofort servieren, damit die knusprige Schicht nicht durchweicht."
       }
     },
     "recipe_000104": {
@@ -5473,12 +5473,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Schneide den Kürbis in Stücke und lass ihn 15 Minuten lang dampfen, bis er zart wird.",
-        "step_2": "Dann zerquetschen Sie sie mit einem Knüppel, indem Sie die Schale halten und die überschüssige Feuchtigkeit beseitigen.",
-        "step_3": "Die Zwiebeln und das Hackfleisch in der Butter rosten, bis sie gut gekocht und mit Salz und Pfeffer gewürzt sind.",
+        "step_1": "Kabocha-Kürbis in Stücke schneiden und etwa 15 Minuten dämpfen, bis er weich ist.",
+        "step_2": "Den Kürbis mit einem Kartoffelstampfer zerdrücken, die Schale dabei belassen und überschüssige Feuchtigkeit entfernen.",
+        "step_3": "Zwiebel und Hackfleisch in Butter anbraten, bis das Fleisch vollständig gegart ist; mit Salz und Pfeffer würzen.",
         "step_4": "Verbinden Sie das Fleisch mit Kürbispüree, Amalgam gut und lassen Sie den Teig abkühlen.",
         "step_5": "Form 6 ovale und gequetschte Kroketten.",
-        "step_6": "Gehen Sie jede Nudel ins Mehl, dann in das zerstoßene Ei und schließlich in den Panko, indem Sie gut drücken.",
+        "step_6": "Jede Krokette erst in Mehl, dann in verquirltem Ei und schließlich in Panko wenden und die Panade leicht andrücken.",
         "step_7": "Frittieren Sie in reichlich warmes Öl bei 170°C bis zur vollständigen knusprige Vergoldung (ca. 3 Minuten pro Seite).",
         "step_8": "Heiße servieren mit tonkatsu Soße."
       }
@@ -5531,12 +5531,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Wählen Sie die gleichen Abmessungen aus, waschen Sie sorgfältig, ohne sie zu schälen und trocknen Sie sie gut.",
-        "step_2": "Bucherella die Schale an einigen Stellen mit einem Stuck, um eine gleichmäßige Kochen zu fördern.",
+        "step_1": "Satsumaimo-Süßkartoffeln ähnlicher Größe auswählen, gründlich waschen, nicht schälen und gut abtrocknen.",
+        "step_2": "Die Schale an einigen Stellen mit einem Zahnstocher einstechen, damit die Kartoffeln gleichmäßig garen.",
         "step_3": "Für ein cremigeres Fruchtfleisch wickeln Sie jede Kartoffel in frisch feuchtem Küchenpapier und dann in Aluminium um; für eine trockenere Schale verwenden Sie nur Aluminium.",
-        "step_4": "Kochen Sie im statischen Ofen bei 180-190 °C für ca. 60-75 Minuten, indem Sie die Stücke in der Mitte des Kochens drehen.",
+        "step_4": "Im vorgeheizten Ofen bei 180–190 °C etwa 60–75 Minuten backen und die Päckchen nach der Hälfte der Zeit wenden.",
         "step_5": "Prüfen Sie, indem Sie einen Stift in die dickste Stelle stecken: Sie muss ohne Widerstand eindringen und das Fruchtfleisch muss bis zur Mitte weich sein.",
-        "step_6": "Lassen Sie sich 5-10 Minuten in der Tüte ausruhen, so dass der Dampf das Kochen ergänzt.",
+        "step_6": "Die Päckchen geschlossen 5–10 Minuten ruhen lassen, damit der Dampf die Garung abschließt.",
         "step_7": "Öffnen, teilen in der Mitte und warme Servieren; das Salz ist optional und sollte nur zum Service hinzugefügt werden."
       }
     },
@@ -5564,11 +5564,11 @@
       },
       "stepTexts": {
         "step_1": "Zwei etwa 2–3 cm dicke Scheiben Shokupan abschneiden. Das Ogura-An auf Zimmertemperatur bringen oder kurz und behutsam erwärmen, ohne es auszutrocknen.",
-        "step_2": "Wenn der Anko sehr kompakt ist, weich ihn mit einem Teelöffel warmem Wasser und mischt, bis er cremig, aber nicht flüssig ist.",
+        "step_2": "Ist die Anko-Paste sehr fest, mit einem Teelöffel warmem Wasser geschmeidig rühren, ohne sie zu verflüssigen.",
         "step_3": "Toast das Brot auf beiden Seiten, bis die Oberfläche gut goldig und knusprig ist, während die Mitte weich bleibt.",
-        "step_4": "Ziehen Sie die Butter sofort auf das noch warme Brot, wobei Sie auch an den Rändern darauf bestehen, dass es von der Weichei absorbiert wird.",
-        "step_5": "Verteilen Sie das an in einer großzügigen und gleichmäßigen Schicht, ohne das Brot zu zerdrücken.",
-        "step_6": "Wenn Sie Schlagsahne verwenden, fügen Sie es erst kalt hinzu, nachdem Sie den Toast eine Minute lang eingetaucht haben, so dass es nicht schmelzen kann.",
+        "step_4": "Die Butter sofort auf dem noch warmen Toast verstreichen, auch an den Rändern, damit sie in die Krume einzieht.",
+        "step_5": "Ogura-An großzügig und gleichmäßig auf dem Toast verteilen, ohne das Brot zusammenzudrücken.",
+        "step_6": "Schlagsahne, falls verwendet, erst nach etwa einer Minute auf den leicht abgekühlten Toast geben, damit sie nicht schmilzt.",
         "step_7": "Diagonal schneiden und sofort servieren, wobei der Kontrast zwischen knusprige Kruste, weichem Brot, Butter und Anko erhalten bleibt."
       }
     },
@@ -5708,11 +5708,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Reinigen Sie die Schlachtnebenerzeugnisse sorgfältig; reiben Sie sie mit Salz und wenig Mehl, spülen Sie sie mehrmals und schneiden Sie sie in regelmäßigen Bissen. Nur bereits gereinigte und vorgegarte Kutteln/Innereien nach Herstellerangaben verwenden. Die 10–15 Minuten dienen lediglich zum abschließenden Erhitzen und reichen NICHT zum sicheren Garen roher Innereien.",
-        "step_2": "Etwa 1 Minute lang bläst es, spült es ab und spült es ab: Diese Phase beseitigt Verunreinigungen und einen Teil des Geruchs, ohne das Fett zu sehr zu lösen.",
+        "step_1": "Nur bereits gereinigte und vorgegarte Kutteln oder Innereien nach Herstellerangaben verwenden. Mit sauberen Utensilien in gleich große Stücke schneiden; die späteren 10–15 Minuten reichen nicht aus, um rohe Innereien sicher zu garen.",
+        "step_2": "Die vorgegarten Stücke etwa 1 Minute blanchieren, abgießen und abspülen, um Gerüche und Rückstände zu reduzieren.",
         "step_3": "Bereiten Sie die Brühe mit Dashi, Knoblauch, Chili und Miso oder Soja-Sauce, halten Sie es geschmackvoll, weil Kohl und Tofu verdünnen.",
         "step_4": "Setzen Sie den Kohl auf den Boden des Nabe, fügen Sie Tofu und Schlachtnebenerzeugnisse hinzu und gießen Sie die Brühe, bis die Zutaten teilweise abgedeckt sind.",
-        "step_5": "Bringen Sie die Schlachtnebenerzeugnisse zum Aufstehen und kochen Sie sie für ca. 10-15 Minuten, bis sie geschwollen und gehalten werden.",
+        "step_5": "Die vorgegarten Innereien in der leicht köchelnden Brühe etwa 10–15 Minuten vollständig erhitzen, bis sie heiß und zart sind.",
         "step_6": "Fügen Sie das Nira in Stöcke in den letzten Minuten geschnitten, ohne übermäßig zu mischen.",
         "step_7": "Probieren Sie die Brühe, regieren Sie die Miso oder Soja und servieren Sie die kochende Nabe direkt aus dem Topf."
       }
@@ -5752,12 +5752,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Berühren Sie die Haut der Makrelenfilets leicht und gießen Sie für ein paar Sekunden kochendes Wasser über sie; Schäle und Trockner, um den intensiveren Geruch zu mildern.",
-        "step_2": "Schneide Ingwer in dünne Scheiben und backe in einer breiten Pfanne Wasser oder Dashi, Sake, Mirin und Zucker.",
-        "step_3": "Bringen Sie die Flüssigkeit zum Blenden und fügen Sie die Hälfte des Ingwers hinzu.",
+        "step_1": "Die Haut der Makrelenfilets leicht einschneiden, einige Sekunden mit kochendem Wasser übergießen, dann abgießen und trocken tupfen.",
+        "step_2": "Ingwer in dünne Scheiben schneiden; Wasser oder Dashi, Sake, Mirin und Zucker in einer breiten Pfanne bereitstellen.",
+        "step_3": "Die Flüssigkeit aufkochen und die Hälfte des Ingwers zugeben.",
         "step_4": "Bedecken Sie die Makrele mit nach oben gerichteter Haut, decken Sie sie mit einem Otoshibuta oder mit gebohrtem Backpapier und kochen Sie mit mittlerem bis niedrigem Fokus für etwa 8-10 Minuten.",
-        "step_5": "Nehmen Sie eine Schale aus dem Boden, lösen Sie den Miso und stecken Sie ihn wieder in die Pfanne, ohne ihn zu kochen.",
-        "step_6": "Die Gewinde werden weiterhin mit dem Boden für 3-5 Minuten geboren, bis die Soße glänzend und leicht dicht wird.",
+        "step_5": "Eine Kelle Sud entnehmen, das Miso darin auflösen und zurück in die Pfanne geben, ohne stark aufzukochen.",
+        "step_6": "Die Makrelenfilets weitere 3–5 Minuten wiederholt mit dem Sud übergießen, bis die Sauce glänzend und leicht eingedickt ist.",
         "step_7": "Komplett mit dem restlichen Ingwer und serviere sofort, mit der Haut integriert und das Fleisch noch saftig."
       }
     },
@@ -5836,12 +5836,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Trocknet die Garnelen gut und übt einen kleinen Schnitt auf dem Rücken, wenn nötig, um den Darmdraht zu entfernen.",
-        "step_2": "Mayonnaise Mischung Kewpie, Kondensmilch oder Honig und Zitronensaft, bis Sie eine glatte Soße erhalten; halten Sie sie bei frischer Temperatur beiseite.",
-        "step_3": "Die Garnelen werden dann in den Lumpen und dann in die Maisstärke geleitet, wodurch der Überschuß beseitigt wird, um eine dünne Beschichtung zu erhalten.",
+        "step_1": "Die Garnelen gründlich trocknen und bei Bedarf am Rücken leicht einschneiden, um den Darm zu entfernen.",
+        "step_2": "Kewpie-Mayonnaise mit Kondensmilch oder Honig und Zitronensaft zu einer glatten Sauce verrühren; bis zur Verwendung kühl halten.",
+        "step_3": "Die Garnelen erst im Eiweiß und dann in Maisstärke wenden; überschüssige Stärke abschütteln.",
         "step_4": "Bring das Öl auf ca. 170°C und brate ein paar Garnelen für 2-3 Minuten, bis sie gerade in der Mitte goldgelb und gekocht sind.",
-        "step_5": "Schicken Sie sie auf Gitter oder absorbierendes Papier und lassen Sie sie nur ein paar Sekunden ruhen.",
-        "step_6": "Konnte sie immer noch warm mit der Mayo Ebi Soße, sanft mischen, um sie zu kleiden, ohne die Kruste zu erweichen.",
+        "step_5": "Auf einem Gitter oder Küchenpapier abtropfen lassen und nur kurz ruhen lassen.",
+        "step_6": "Die noch heißen Garnelen vorsichtig mit der Ebi-Mayo-Sauce überziehen, damit die knusprige Hülle nicht zu weich wird.",
         "step_7": "Servieren Sie sofort, mit eventueller Zitronenschale oder Zwiebel als Finishing."
       }
     },
@@ -5916,10 +5916,10 @@
         }
       },
       "stepTexts": {
-        "step_1": "Lösen Sie den Kanten im kalten Wasser, führen Sie zum Blenden und kochen für ca. 2 Minuten, bis es vollständig verstreut ist.",
-        "step_2": "Gießen Sie die Flüssigkeit in einen niedrigen Behälter, lassen Sie sie in sich stecken und übertragen Sie sie in den Kühlschrank, bis sie vollständig veredelt ist.",
-        "step_3": "Schneide Kantengelatine in regelmäßigen Würfeln ab und backe die Früchte gut ab.",
-        "step_4": "Wenn Sie Shiratama verwenden, kochen Sie sie, bis sie ans Wasser steigen, und kühlen Sie sie 1-2 Minuten lang in kaltem Wasser ab.",
+        "step_1": "Kanten in kaltem Wasser verteilen, zum Kochen bringen und unter Rühren etwa 2 Minuten erhitzen, bis er vollständig gelöst ist.",
+        "step_2": "Die Flüssigkeit in eine flache Form gießen, etwas abkühlen lassen und zum vollständigen Gelieren in den Kühlschrank stellen.",
+        "step_3": "Das feste Kanten-Gelee in gleichmäßige Würfel schneiden und die Früchte gründlich abtropfen lassen.",
+        "step_4": "Shiratama, falls verwendet, in Wasser kochen, bis sie aufsteigen; weitere 1–2 Minuten garen und dann kalt abschrecken.",
         "step_5": "Geben Sie die Kantenwürfel in die Becher und fügen Sie Obst und Shiratama hinzu, wobei die verschiedenen Elemente sichtbar sind.",
         "step_6": "Füge der Mitte eine Portion Anko hinzu.",
         "step_7": "Geben Sie die Kuromitsu nur zum Zeitpunkt der Bedienung, so dass Gelee und Früchte nicht zu lange untergetaucht bleiben."
@@ -6145,12 +6145,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Schütte den Tofu und zerbrich ihn grob; schneide Daikon, Karotte, Gobo und Shiitake in kleine Stücke und Uniformen.",
+        "step_1": "Tofu abtropfen lassen und grob zerbröseln; Daikon, Karotte, Gobo und Shiitake in kleine, gleichmäßige Stücke schneiden.",
         "step_2": "Wenn Sie frische Gobos verwenden, legen Sie sie kurz nach dem Schneiden ins Wasser und spülen Sie sie dann gut ab.",
-        "step_3": "Erhitzt Sesamöl in Kasserolle und Rosola zuerst die Wurzeln und Pilze für 3-4 Minuten.",
+        "step_3": "Sesamöl im Topf erhitzen und Wurzelgemüse und Pilze zuerst 3–4 Minuten anbraten.",
         "step_4": "Fügen Sie Tofu hinzu und mischen Sie vorsichtig, um es mit Öl zu kleiden, ohne es in Creme zu reduzieren.",
         "step_5": "Das Kombu-Dashi zugießen, leicht aufkochen lassen und den entstehenden Schaum abschöpfen.",
-        "step_6": "Kochen Sie mit niedrigem Fokus für ca. 15 Minuten, bis die Wurzeln halten, aber nicht brechen.",
+        "step_6": "Etwa 15 Minuten bei schwacher Hitze köcheln lassen, bis das Wurzelgemüse weich, aber nicht zerfallen ist.",
         "step_7": "Mit Sake und Sojasoße würzen, probieren und warm servieren; vermeiden Sie den Katsuobushi, wenn Sie die Zubereitung streng vegetarische halten möchten."
       }
     },
@@ -6267,13 +6267,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Bereiten Sie die Shiratama durch Mischen glutinös Reismehl und Wasser nach und nach bis zu einem weichen und modellierbaren Teig.",
-        "step_2": "Formen Sie kleine Kugeln, kochen Sie in kochendem Wasser, bis sie ans Wasser steigen und für 1-2 Minuten fortfahren; kühlen Sie sie sofort in Wasser und Eis.",
+        "step_1": "Shiratama-Reismehl mit Wasser nach und nach zu einem weichen, formbaren Teig verkneten.",
+        "step_2": "Kleine Kugeln formen, in kochendes Wasser geben und nach dem Auftauchen weitere 1–2 Minuten garen; sofort in Eiswasser abkühlen.",
         "step_3": "Schneiden Sie die Wassermelone in Würfel oder kleine Kugeln, entfernen Sie die Samen und kühlen Sie sie gut im Kühlschrank.",
-        "step_4": "Schütten Sie die Shiratamas und trocknen Sie sie leicht, um das Getränk nicht zu verdünnen.",
+        "step_4": "Die Shiratama abgießen und leicht trockentupfen, damit sie das Getränk nicht verdünnen.",
         "step_5": "Geben Sie Wassermelone und Shiratama in sehr kalten Gläsern.",
-        "step_6": "Fügen Sie kalte Seltz oder eine transparente Limone zu Zitrone nur zum Zeitpunkt der Dienstleistung.",
-        "step_7": "Servieren Sie sofort mit einem Löffel oder einem breiten Strohhalm; halten Sie Ihr Dessert kalt, aber lassen Sie die Shiratama nicht stundenlang untertauchen."
+        "step_6": "Erst kurz vor dem Servieren eiskaltes Sodawasser oder ein klares Zitronengetränk zugießen.",
+        "step_7": "Sofort mit einem Löffel oder breiten Trinkhalm servieren; die Shiratama nicht stundenlang im Getränk lassen."
       }
     },
     "recipe_000123": {
@@ -6372,13 +6372,13 @@
       },
       "stepTexts": {
         "step_1": "Bereiten Sie die Brioche Teig mit Mehl, Milch, Hefe, Zucker, Ei, Salz und Butter; kneten Sie, bis es glatt und elastisch wird.",
-        "step_2": "Bedecken Sie und lassen Sie bis zur Verdoppelung, in der Regel 60-90 Minuten je nach Temperatur.",
-        "step_3": "In der Zwischenzeit backen Sie eine dicke Schokoladencreme, kühlen Sie sie vollständig ab und übertragen Sie sie in eine kleine Schüssel.",
-        "step_4": "Entweichen Sie sanft den Teig, teilen Sie ihn in lange und regelmäßige Teile und Schnüre.",
-        "step_5": "Fügen Sie die Kegelformen leicht zusammen und wickeln Sie jede Spiralschnur, indem Sie gerade die Drehungen überlagern, ohne Risse zu hinterlassen.",
-        "step_6": "Lassen Sie die Croissants 20-30 Minuten lang ausruhen, dann spinellieren Sie sie mit gestoßenem Ei.",
+        "step_2": "Den Teig abgedeckt 60–90 Minuten gehen lassen, bis er sein Volumen verdoppelt hat.",
+        "step_3": "Eine dicke Schokoladencreme zubereiten, vollständig abkühlen lassen und in einen Spritzbeutel füllen.",
+        "step_4": "Den Teig behutsam entgasen, portionieren und zu langen, gleichmäßigen Strängen rollen.",
+        "step_5": "Die Kegelformen leicht einfetten und je einen Teigstrang spiralförmig darumwickeln; die Windungen leicht überlappen lassen.",
+        "step_6": "Die geformten Hörnchen 20–30 Minuten ruhen lassen und anschließend mit verquirltem Ei bestreichen.",
         "step_7": "Kochen Sie bei 180°C für etwa 12-15 Minuten, bis sie gleichmäßig vergoldet sind; kühlen Sie ein paar Minuten und ziehen Sie die Formen.",
-        "step_8": "Lassen Sie es vollständig abkühlen, bevor Sie die Schokoladencreme füllen, so dass die Füllung nicht auflöst."
+        "step_8": "Die Hörnchen vollständig abkühlen lassen, bevor sie mit Schokoladencreme gefüllt werden, damit die Füllung nicht schmilzt."
       }
     },
     "recipe_000126": {
@@ -6424,12 +6424,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Schweineschneider, Garnelen, Zwiebeln und Lotuswurzel in ähnliche Stücke, klein genug, um gleichzeitig zu kochen, und steck sie separat auf die Spieße.",
-        "step_2": "Trocknet alle Zutaten und Herzinfarkte leicht, um die Passion des Teiges zu fördern.",
+        "step_1": "Schweinefleisch, Garnelen, Zwiebeln und Lotuswurzel in ähnlich kleine Stücke schneiden und getrennt auf Spieße stecken, damit sie gleichmäßig garen.",
+        "step_2": "Alle Zutaten gründlich trockentupfen und leicht mit Mehl bestäuben, damit der Teig gut haftet.",
         "step_3": "Bereiten Sie einen flüssigen Teig mit Mehl, Ei und kaltem Wasser, ohne es übermäßig zu verarbeiten.",
-        "step_4": "Gib jedes Spieß in den Pastell und dann in den Panko und drücke gerade, um eine gleichmäßige Schicht zu erstellen.",
+        "step_4": "Jeden Spieß zuerst in den flüssigen Teig und danach in Panko wenden; die Panade leicht andrücken.",
         "step_5": "Bring das Öl auf 170-175°C und frittiere ein paar Spieße zur gleichen Zeit, wobei die Zeit auf der Grundlage des Bestandteils eingestellt wird.",
-        "step_6": "Schütten Sie es auf das Gitter und lassen Sie eine Minute ruhen; überprüfen Sie, ob Fleisch und Garnelen in der Mitte gekocht werden.",
+        "step_6": "Die Spieße auf einem Gitter abtropfen und 1 Minute ruhen lassen; Fleisch und Garnelen müssen innen vollständig gegart sein.",
         "step_7": "Heiße Servieren mit Kushikatsu- oder Tonkatsu-Sauce, ohne die Spieße in der Soße eingetaucht zu lassen."
       }
     },
@@ -6513,11 +6513,11 @@
       },
       "stepTexts": {
         "step_1": "In einem großen Topf braten die Zwiebeln mit einem Ölfaden, bis sie gut vergoldet und karamelliert werden.",
-        "step_2": "Verbinden Sie das Fleisch mit Würfeln und bröckeln Sie es auf allen Seiten.",
+        "step_2": "Die gewürfelte Fleischportion zugeben und von allen Seiten anbraten.",
         "step_3": "Geben Sie die Karotten und Kartoffeln ein.",
         "step_4": "Fügen Sie Fleischbrühe und geriebenen Apfel hinzu.",
-        "step_5": "Bedecke und lass dich 20 Minuten lang bei mittlerer bis niedriger Hitze betäuben.",
-        "step_6": "Löschen Sie das Feuer, verbinden Sie das Roux für Curry und Amalgam, bis es vollständig aufgelöst ist.",
+        "step_5": "Abdecken und bei mittlerer bis niedriger Hitze etwa 20 Minuten sanft köcheln lassen.",
+        "step_6": "Den Herd ausschalten, die Curry-Roux-Stücke zugeben und rühren, bis sie sich vollständig gelöst haben.",
         "step_7": "Kombinieren Sie bitteren Kakao in Pulver (oder dunkle Schokolade), Amalgam gut und lassen Sie es bei sehr langsamem Feuer für weitere 5 Minuten kochen, bis Sie eine dicke, glänzende und aromatische Soße erhalten.",
         "step_8": "Bringt in den warmen Tisch, begleitet von weißem Reis im Dampf."
       }
@@ -6561,9 +6561,9 @@
         }
       },
       "stepTexts": {
-        "step_1": "In einer Pfanne ohne zugesetzte Fette grillen Sie die Lauchpfannen, bis sie an der Oberfläche leicht vergoren werden, und halten Sie sie beiseite.",
-        "step_2": "Legen Sie in einen Topf, bringen Sie die Dashi-Brühe mit Soja-Sauce, Mirin und Zucker.",
-        "step_3": "Kombinieren Sie die Schweinescheiben und lassen Sie sie für 3-4 Minuten kochen, bis sie halten.",
+        "step_1": "Die Lauchstücke ohne zusätzliches Fett in einer beschichteten Pfanne rösten, bis sie außen leicht gebräunt sind; beiseitestellen.",
+        "step_2": "Dashi mit Sojasauce, Mirin und Zucker in einem Topf aufkochen.",
+        "step_3": "Die dünnen Schweinefleischscheiben zugeben und etwa 3–4 Minuten garen, bis sie zart sind.",
         "step_4": "Kochen Sie Soba in reichlich kochendem Wasser für die auf der Verpackung angegebene Zeit (ca. 3-4 Minuten), spülen und kurz spülen.",
         "step_5": "Teilen Sie die Soba in zwei große Schalen.",
         "step_6": "Fügen Sie die kochende Brühe mit den Schweinescheiben hinzu und garnieren Sie mit dem gegrillten Lauch und einem Staub von Shichimi Togarashi."
@@ -6689,9 +6689,9 @@
         }
       },
       "stepTexts": {
-        "step_1": "Halten Sie die frisch gebratenen oder gut erhitzten Tonkatsu-Schelatchen bereit, knusprig, und bereiten Sie den sehr fein geschnittenen Kohl vor.",
+        "step_1": "Die frisch frittierten oder gut aufgewärmten Tonkatsu-Schnitzel knusprig bereithalten und den Kohl sehr fein schneiden.",
         "step_2": "Spreize einen dünnen Schleier Butter auf der Innenseite der Shokupanscheiben, um eine Barriere gegen Feuchtigkeit zu schaffen.",
-        "step_3": "Würze die Schüssel mit einer dicken Curry-Sauce, um zu vermeiden, dass die Panade übermäßig nass.",
+        "step_3": "Das Schnitzel mit einer dickflüssigen Curry-Sauce würzen, ohne die Panade zu stark durchzuweichen.",
         "step_4": "Verteilen Sie den Kohl auf das erste Stück Brot und legen Sie über das heiße Tonkatsu.",
         "step_5": "Schließen Sie das Sandwich, wickeln Sie es leicht mit Backpapier und drücken Sie mit einem gemäßigten Gewicht für ca. 2 Minuten.",
         "step_6": "Schneide die Krusten, wenn du eine traditionellere Form willst, und schneide das Sandwich mit einem sehr scharfen Messer ab.",
@@ -6877,13 +6877,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Drücken Sie Tofu, um überschüssiges Wasser zu entfernen, trocknen Sie es und schneiden Sie es in dicke Rechtecke, die so dick sind, dass sie ohne zu brechen infiltriert werden können.",
-        "step_2": "Legen Sie die Spieße vorsichtig ein und schieben Sie die Oberfläche wieder ein.",
+        "step_1": "Den Tofu pressen, um überschüssiges Wasser zu entfernen, trockentupfen und in dicke, spießgeeignete Rechtecke schneiden.",
+        "step_2": "Die Spieße vorsichtig durch den Tofu stecken und die Oberfläche erneut trockentupfen.",
         "step_3": "Mischen Sie Miso, Zucker, Mirin und Sake in einem Topf und kochen Sie mit niedrigem Feuer für ca. 2 Minuten, bis die Glasur glatt und dicht genug ist, um zu kleben.",
         "step_4": "Grillen Sie den Tofu 2-3 Minuten pro Seite auf einer warmen Platte, bis eine leichte Vergoldung erscheint.",
         "step_5": "Bestreichen Sie ein erstes Mal mit der Miso-Sauce und lässt für ca. 30 Sekunden trocknen.",
-        "step_6": "Eine zweite Schicht Glasur auftragen und die Auberginen 1 bis 2 Minuten unter den Backofengrill stellen. Dabei ständig kontrollieren, da die zuckerhaltige Misoglasur leicht anbrennt.",
-        "step_7": "Komplett mit Toast Sesam und serviert warm."
+        "step_6": "Eine zweite Schicht Misoglasur auf den Tofu auftragen und die Spieße 1–2 Minuten unter den Backofengrill stellen; ständig beobachten, da die süße Glasur leicht anbrennt.",
+        "step_7": "Mit geröstetem Sesam bestreuen und warm servieren."
       }
     },
     "recipe_000137": {
@@ -7065,12 +7065,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Seide Mehl und Matcha in einer Schüssel.",
+        "step_1": "Mehl und Matcha in eine Schüssel sieben.",
         "step_2": "Zucker und Eier verrühren, dann lauwarme Milch und geschmolzene Butter mit dem Schneebesen einarbeiten, bis ein dünnflüssiger, klümpchenfreier Teig entsteht.",
-        "step_3": "Ich ruhe 30 Minuten im Kühlschrank.",
-        "step_4": "Kochen Sie ca. 15-20 dünne Crêpes in einer leicht bürstenden Pfanne, lassen Sie sie vollständig abkühlen.",
-        "step_5": "Sahne mit Schleierzucker und Matcha, dann in die Konditorei eingeben.",
-        "step_6": "Setzen Sie den Kuchen zusammen, indem Sie den ersten Risse auf eine Schüssel legen, schmieren Sie eine dünne Schicht von Creme und bedecken Sie ihn mit einem anderen Risse.",
+        "step_3": "Den Teig 30 Minuten im Kühlschrank ruhen lassen.",
+        "step_4": "Etwa 15–20 hauchdünne Crêpes in einer leicht gebutterten beschichteten Pfanne backen und vollständig abkühlen lassen.",
+        "step_5": "Sahne mit Puderzucker und Matcha aufschlagen und vorsichtig unter die Konditorcreme heben.",
+        "step_6": "Den Kuchen schichten: eine Crêpe auf einen Teller legen, dünn mit Creme bestreichen und mit der nächsten Crêpe bedecken.",
         "step_7": "Wiederhole, bis du die Zutaten versiehst.",
         "step_8": "Stauben Sie die Oberfläche mit Matcha-Pulver ab, bevor Sie sie aus dem Kühlschrank kühl servieren."
       }
@@ -7151,12 +7151,12 @@
       },
       "stepTexts": {
         "step_1": "Teilen Sie die Anko in sechs gleiche Bälle und halten Sie sie bedeckt; stauben Sie die Arbeitsfläche mit Maisstärke.",
-        "step_2": "Mische Reismehl, Zucker, Matcha und Wasser in eine für die Mikrowelle geeignete Schüssel, bis trockene Klumpen übrig sind.",
-        "step_3": "Bedecken Sie einen Ausschlag und kochen Sie bei 600 W für ca. 90 Sekunden.",
+        "step_2": "Klebreismehl, Zucker, Matcha und Wasser in einer mikrowellengeeigneten Schüssel verrühren, bis keine trockenen Klümpchen mehr vorhanden sind.",
+        "step_3": "Die Schüssel mit einer Abdeckung versehen, dabei eine Öffnung für den Dampf lassen, und bei 600 Watt etwa 90 Sekunden erhitzen.",
         "step_4": "Mit einem nassen Spachtel mischen und noch ca. 60 Sekunden kochen, bis der Teig glänzend, elastisch und gleichmäßig gekocht ist.",
-        "step_5": "Lege die warme Masse sofort auf die abgestaubte Ebene, bedecke sie mit einer anderen Stärke und lass sie so tief wie möglich eindringen, damit sie damit umgehen kann.",
+        "step_5": "Die heiße Mochimasse auf die mit Stärke bestäubte Fläche geben, mit weiterer Stärke bestäuben und so weit abkühlen lassen, dass sie sich bearbeiten lässt.",
         "step_6": "Teilen Sie sie in sechs Portionen, glätten Sie sie in Scheiben und verdünnen Sie die Ränder leicht.",
-        "step_7": "Legen Sie einen Ball von Anko in die Mitte, schließen Sie die Lenden zusammen und drücken Sie den Daifuku mit dem Verschluss nach unten.",
+        "step_7": "Eine Anko-Kugel in die Mitte legen, die Teigränder gut zusammendrücken und den Daifuku mit der Naht nach unten ablegen.",
         "step_8": "Entfernen Sie überschüssige Stärke und servieren Sie bei Raumtemperatur am selben Tag."
       }
     },
@@ -7183,14 +7183,14 @@
         }
       },
       "stepTexts": {
-        "step_1": "Zieht die mit der Nudel berauschten Formen an, steckt die Ränder ein und bohrt den Boden mit einer Gabel.",
+        "step_1": "Die gebutterten Tarteletteförmchen mit Mürbeteig auskleiden, die Ränder abschneiden und den Boden mit einer Gabel einstechen.",
         "step_2": "Kühlen Sie die geformten Schalen für 15-20 Minuten vor dem Kochen, so halten Sie die Form besser.",
-        "step_3": "Backen Sie bei 180°C für ca. 15-20 Minuten weiß, bis sie gleichmäßig goldgelb sind.",
-        "step_4": "Gestalten Sie und lassen Sie es komplett auf einem Gitter abkühlen.",
+        "step_3": "Die leeren Tartelettböden bei 180 °C etwa 15–20 Minuten blindbacken, bis sie gleichmäßig goldbraun sind.",
+        "step_4": "Aus den Förmchen lösen und auf einem Kuchengitter vollständig abkühlen lassen.",
         "step_5": "Füllen Sie jede kalte Schale mit kühler Konditoreicreme, ohne den Rand zu überschreiten.",
         "step_6": "Schneide die Früchte kurz vor dem Gebrauch ab, trockne sie und fülle sie kompakt auf die Creme.",
-        "step_7": "Spenella mit einem neutralen Gelee-Schleif zum Polieren und zum Schutz der Früchte.",
-        "step_8": "Kühl lagern und servieren Sie am Tag, um die knusprige Flocke zu halten."
+        "step_7": "Die Früchte mit einer dünnen Schicht neutralem Tortenguss bestreichen, damit sie glänzen und geschützt bleiben.",
+        "step_8": "Kühl aufbewahren und am selben Tag servieren, damit der Mürbeteig knusprig bleibt."
       }
     },
     "recipe_000144": {
@@ -7273,13 +7273,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Seide Mehl und Hefe und halten Sie sie beiseite.",
+        "step_1": "Mehl und Backpulver sieben und beiseitestellen.",
         "step_2": "Schlagen Sie Eier, Zucker und Öl im Teig, bis der Zucker fast aufgelöst ist.",
         "step_3": "Fügen Sie die trockenen Zutaten mit einem Spachtel, bis Sie einen sehr dichten und klebrigen Teig erhalten; nicht mehr als nötig zu verarbeiten.",
-        "step_4": "Es bringt reichlich Öl bei ca. 150-160°C: Eine gemäßigte Temperatur ermöglicht es den Pfannkuchen, im Inneren zu kochen, bevor sie dunkel werden.",
-        "step_5": "Fügen Sie leicht Ihre Hände und bilden Sie Kugeln der Größe einer Nuss, ohne sie zu komprimieren.",
+        "step_4": "Reichlich Öl auf etwa 150–160 °C erhitzen: Bei dieser mäßigen Temperatur garen die Krapfen innen, bevor sie außen dunkel werden.",
+        "step_5": "Die Hände leicht einölen und walnussgroße Kugeln formen, ohne sie zu stark zusammenzudrücken.",
         "step_6": "Frittieren Sie ein paar Stücke auf einmal für 6-8 Minuten, drehen Sie sie oft, bis die Merkmale der Risse und die Oberfläche ist gut goldig.",
-        "step_7": "Schütten Sie auf Gitter oder absorbierendes Papier und lassen Sie ein paar Minuten vor dem Servieren eintauchen."
+        "step_7": "Auf einem Gitter oder Küchenpapier abtropfen lassen und vor dem Servieren einige Minuten abkühlen lassen."
       }
     },
     "recipe_000146": {
@@ -7335,8 +7335,8 @@
       "stepTexts": {
         "step_1": "Den Sushi-Reis gründlich unter fließendem kaltem Wasser abspülen, bis das Wasser klar ist.",
         "step_2": "Kochen Sie den Reis mit niedrigem Feuer für 12 Minuten mit Deckel.",
-        "step_3": "In einen Topf geben, Zucker und Salz in Reisessig schmelzen und leicht erhitzen.",
-        "step_4": "Kombinieren Sie die Essigmischung mit heißem Reis, indem Sie sie vorsichtig mit einem Holzspachtel ausschütten und eintauchen lassen.",
+        "step_3": "Zucker und Salz in einem kleinen Topf unter leichtem Erwärmen im Reisessig auflösen.",
+        "step_4": "Die Essigmischung unter den warmen Reis heben und mit einem Holzspatel vorsichtig auflockern; etwas abkühlen lassen.",
         "step_5": "Nur ausdrücklich für den Rohverzehr geeigneten, sachgerecht gekühlten Thunfisch verwenden. Mit sauberem Messer und Schneidebrett in 7–8 mm dicke Scheiben schneiden; die Klinge dabei um 45 Grad neigen.",
         "step_6": "In einer Schüssel mischt man Sojasoße mit Mirin.",
         "step_7": "Den Thunfisch 1–2 Minuten in der Soja-Mirin-Mischung marinieren und bis zum Servieren gekühlt halten. Durch Marinieren wird ungeeigneter roher Fisch nicht sicher.",
@@ -7456,14 +7456,14 @@
       },
       "stepTexts": {
         "step_1": "Wasche und trockne die Tintenfische gründlich.",
-        "step_2": "Üben Sie auf dem Körper des Tintenfischs parallele horizontale Schnitte von etwa 1 cm Abstand, ohne bis zum Ende zu gravieren, so dass das Kochen gleichmäßig bleibt.",
+        "step_2": "Den Körper der Tintenfische in etwa 1 cm Abstand parallel einschneiden, ohne ganz durchzuschneiden; so garen sie gleichmäßig.",
         "step_3": "In einem Topf, fügen Sie Soja-Sauce, Mirin, Sake, Zucker und geriebenen Ingwer.",
-        "step_4": "Kochen Sie 3-4 Minuten lang mit niedrigem Fokus, bis sich die Soße leicht verdichtet.",
-        "step_5": "Erhitzt eine Platte oder ein Steak sehr gut mit lebendigem Feuer.",
+        "step_4": "Die Sauce bei niedriger Hitze 3–4 Minuten leicht einkochen lassen, bis sie etwas eindickt.",
+        "step_5": "Eine Grillplatte oder Grillpfanne bei hoher Hitze stark vorheizen.",
         "step_6": "Grillen Sie die Tintenfische und Tentakel für 2-3 Minuten pro Seite.",
         "step_7": "Bestreichen Sie reichlich die Tintenfische mit Teriyaki-Soße in den letzten 2 Minuten des Kochens, drehen sie, bis die Oberfläche glänzend und karamelliert ist.",
-        "step_8": "Schneiden Sie den Tintenfisch in Scheiben, indem Sie die bereits angewendeten Gravuren befolgen.",
-        "step_9": "Servieren Sie mit Mayonnaise Kewpie getrennt und ein Staubsauger von Shichimi Togarashi."
+        "step_8": "Den Tintenfisch entlang der bereits gesetzten Einschnitte in Scheiben schneiden.",
+        "step_9": "Mit Kewpie-Mayonnaise und einer Prise Shichimi Togarashi servieren."
       }
     },
     "recipe_000149": {
@@ -7563,16 +7563,16 @@
         }
       },
       "stepTexts": {
-        "step_1": "Die Haut der Entenbrust kreuzweise einschneiden, ohne dass du das Fleisch bekommst.",
+        "step_1": "Die Haut der Entenbrust rautenförmig einschneiden, ohne in das Fleisch zu schneiden.",
         "step_2": "Kochen Sie in der kalten Pfanne auf der Hautseite bei mittlerer bis niedriger Hitze für 8-10 Minuten, indem Sie das geschmolzene Fett sammeln.",
         "step_3": "Drehen Sie die Entenbrust und kochen Sie es für weitere 2 Minuten.",
         "step_4": "Lassen Sie das Fleisch für ein paar Minuten ruhen, dann schneiden Sie es in dünne Scheiben.",
-        "step_5": "In der gleichen Pfanne, mit einem Teil des Entenfetts, die Lauchrührer, bis sie gut vergoldet und leicht karamelliert sind.",
+        "step_5": "In derselben Pfanne einige Lauchstücke im ausgelassenen Entenfett anbraten, bis sie goldbraun und leicht karamellisiert sind.",
         "step_6": "In einem Topf, vereinen Sie Dashi, Soja-Sauce, Mirin und Zucker.",
         "step_7": "Bring die Brühe zum Kochen, misch die gerösteten Lauch und die Entenscheiben zusammen und lass sie 2 Minuten lang weich werden. Für eine vorsichtige Zubereitung zu Hause die Entenbrust vor dem Servieren mit einem Thermometer auf mindestens 74 °C Kerntemperatur prüfen. Zeitangaben sind Richtwerte; kurzes Ziehen in Brühe ersetzt diese Kontrolle nicht.",
         "step_8": "Kochen Sie die Soba Nudeln in kochendem Wasser für ungefähr 4 Minuten; spülen Sie sie unter kaltem Wasser ab, um die Oberflächenstärke zu entfernen und erwärmen Sie sie kurz in heißem Wasser vor dem Service.",
         "step_9": "Geben Sie die Soba in die Schüssel und bedecken Sie sie mit heißer Brühe, Entenscheiben und Lauch.",
-        "step_10": "Komplett mit einer Schale geriebenen Yuzu und serviere sofort."
+        "step_10": "Mit frisch geriebener Yuzu-Schale garnieren und sofort servieren."
       }
     },
     "recipe_000151": {
@@ -7672,13 +7672,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Er heizt den Ofen auf 200°C vor und mischt leicht zwei wärmebeständige Pyrofile ein.",
+        "step_1": "Den Backofen auf 200 °C vorheizen und zwei kleine ofenfeste Formen leicht mit Butter einfetten.",
         "step_2": "Geben Sie den warmen Reis auf den Boden, ohne ihn zu komprimieren und decken Sie ihn mit dem dicken japanischen Curry.",
-        "step_3": "Erstellen Sie eine Röhre in der Mitte jeder Pyrofile und brechen Sie vorsichtig ein Ei im Inneren.",
+        "step_3": "In der Mitte jeder Form eine Vertiefung machen und vorsichtig ein Ei hineinschlagen.",
         "step_4": "Geben Sie den Käse rund um das Ei und komplett mit einem dünnen Staub von Panko.",
-        "step_5": "Inforna für ca. 10-12 Minuten, bis der Käse geschmolzen und goldig ist und das Album reflektiert wird.",
+        "step_5": "Etwa 10–12 Minuten backen, bis der Käse geschmolzen und goldbraun ist und das Eiweiß gestockt ist.",
         "step_6": "Prüfen Sie das Eigelb entsprechend dem gewünschten Ergebnis: Um es weich zu halten, vermeiden Sie unnötige Verlängerungen des Kochens.",
-        "step_7": "Komplett mit Petersilie und serviere sofort direkt in der Pyrophilie, wobei auf die Temperatur des Behälters achten."
+        "step_7": "Mit Petersilie bestreuen und sofort in der heißen ofenfesten Form servieren; Vorsicht beim Anfassen."
       }
     },
     "recipe_000153": {
@@ -7841,12 +7841,12 @@
       },
       "stepTexts": {
         "step_1": "Kochen Sie die Daikon-Discs 10 Minuten lang in kochendem Wasser, um sie zu erweichen und die Bitterkeit zu entfernen.",
-        "step_2": "Er brennt 10 Sekunden lang in kochendem Wasser, taucht sie dann in eisiges Wasser ein und entfernt alle verbleibenden Schuppen.",
+        "step_2": "Die Fischstücke 10 Sekunden in kochendem Wasser blanchieren, dann sofort in Eiswasser geben und verbliebene Schuppen vorsichtig entfernen.",
         "step_3": "In einer großen Pfanne vereinen Sie Dashi, Sake, Zucker, Mirin und Ingwer.",
-        "step_4": "Bringt ihn zum Bluffen, schaut den Daikon und den Fisch an.",
-        "step_5": "Bedecken Sie mit einem Otoshibuta (Knabber) und kochen Sie mit niedrigem Fokus für 20 Minuten.",
+        "step_4": "Die Flüssigkeit aufkochen und Daikon sowie Fisch vorsichtig hineinlegen.",
+        "step_5": "Mit einem Otoshibuta (aufliegender Kochdeckel) abdecken und bei niedriger Hitze 20 Minuten sanft garen.",
         "step_6": "Kombinieren Sie die Sojasauce in den letzten 10 Minuten, indem Sie die Flüssigkeit bis dick und glänzend reduzieren.",
-        "step_7": "Servieren Sie den Fisch und den Daikon gut mit dem dunklen und leckeren Kochboden getränkt."
+        "step_7": "Fisch und Daikon mit der dunklen, aromatischen Schmorflüssigkeit überziehen und servieren."
       }
     },
     "recipe_000156": {
@@ -7942,13 +7942,13 @@
       },
       "stepTexts": {
         "step_1": "Schneide die Auberginen in der Mitte in der Richtung der Länge ab.",
-        "step_2": "Berühren Sie das gegrillte Fruchtfleisch, ohne die Schale zu durchbohren.",
+        "step_2": "Das Fruchtfleisch kreuzweise einschneiden, ohne die Schale zu durchtrennen.",
         "step_3": "Erhitzt das Öl in einer großen Pfanne.",
-        "step_4": "Backen Sie die Auberginen 5 Minuten lang auf der Seite des durchschnittlichen feurigen Fruchtfleisches, bis Sie golden sind.",
+        "step_4": "Die Auberginen mit der Schnittfläche nach unten bei mittlerer Hitze etwa 5 Minuten braten, bis sie goldbraun sind.",
         "step_5": "Drehen Sie die Auberginen um, bedecken Sie das Kochen für weitere 4 Minuten, bis das Fruchtfleisch weich ist.",
-        "step_6": "In einem Topf, Mischung Miso, Mirin, Sake und Zucker mit niedrigem Feuer für 2 Minuten, bis Sie eine glatte und dichte Glasur.",
+        "step_6": "Miso, Mirin, Sake und Zucker in einem kleinen Topf etwa 2 Minuten bei niedriger Hitze zu einer glatten, dickflüssigen Glasur verrühren.",
         "step_7": "Das Fruchtfleisch der Auberginen großzügig mit der Misoglasur bestreichen.",
-        "step_8": "Übertragen Sie die Auberginen für 3 bis 4 Minuten unter den Ofengrill bei 220 °C, bis die Glasur leicht Blasen und Süßigkeiten bildet.",
+        "step_8": "Die Auberginen bei 220 °C für 3–4 Minuten unter den Backofengrill schieben, bis die Misoglasur Blasen wirft und leicht karamellisiert.",
         "step_9": "Komplett mit gerösteten Sesamsamen und serviere heiße Auberginen."
       }
     },
@@ -8130,16 +8130,16 @@
         }
       },
       "stepTexts": {
-        "step_1": "Er arbeitet die Eier mit Zucker, enthält dann die Milch, das Mehl und schließlich die geschmolzene Butter.",
+        "step_1": "Eier und Zucker verrühren, danach Milch, gesiebtes Mehl und schließlich die geschmolzene Butter einarbeiten.",
         "step_2": "Lassen Sie den Teig im Kühlschrank für 15 Minuten ruhen.",
-        "step_3": "Fügen Sie eine Pfanne mit einem großen Durchmesser, die für Crêpe geeignet ist, leicht zusammen.",
-        "step_4": "Fügen Sie einen Teig in dünner Form und kochen Sie 1 Minute pro Seite.",
+        "step_3": "Eine große beschichtete Crêpe-Pfanne leicht einfetten.",
+        "step_4": "Eine Kelle Teig in die Pfanne geben, dünn verteilen und etwa 1 Minute pro Seite backen.",
         "step_5": "Legen Sie eine offene Crêpe auf der Arbeitsfläche oder auf einem Teller.",
-        "step_6": "Legen Sie Schlagsahne und frisches Obst nur auf ein Viertel der Oberfläche des Risses ab.",
+        "step_6": "Schlagsahne und geschnittenes frisches Obst auf einem Viertel der Crêpe verteilen.",
         "step_7": "Dekorieren Sie mit Schokoladensirup.",
         "step_8": "Falten Sie die Crêpe in der Mitte, indem Sie einen Halbkreis bilden.",
         "step_9": "Falten Sie die beiden Seiten zur Mitte und bilden Sie einen offenen Kegel oben, mit Sahne und gut sichtbaren Früchten.",
-        "step_10": "Wickeln Sie die Basis mit einer Papiertuch und servieren Sie einen Spaziergang."
+        "step_10": "Den unteren Teil mit einer Papierserviette umwickeln und die Crêpe als Snack zum Mitnehmen servieren."
       }
     },
     "recipe_000162": {

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000104",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Kiki - Consegne a domicilio",
   "animeReferences": [
@@ -158,7 +158,7 @@
         }
       },
       "steps": {
-        "step_1": "Cut the pumpkin into pieces and let it steam for 15 minutes until it becomes tender.",
+        "step_1": "Cut the kabocha squash into pieces and steam for about 15 minutes, until tender.",
         "step_2": "Then crush it with a potato crusher holding the skin and eliminating excess moisture.",
         "step_3": "Burn onion and minced meat in butter until well cooked and season with salt and pepper.",
         "step_4": "Add the meat to the pumpkin puree, mix well and let cool the dough.",
@@ -211,7 +211,7 @@
         }
       },
       "steps": {
-        "step_1": "Taglia la zucca a pezzi e lascia cuocerela al vapore per 15 minuti finché diventa tenera.",
+        "step_1": "Taglia la zucca a pezzi e cuocila al vapore per circa 15 minuti, finché diventa tenera.",
         "step_2": "Poi schiacciala con uno schiacciapatate tenendo la buccia ed eliminando l'umidità in eccesso.",
         "step_3": "Rosola la cipolla e la carne macinata nel burro finché ben cotte e insaporite con sale e pepe.",
         "step_4": "Unisci la carne alla purea di zucca, amalgama bene e lascia raffreddare l'impasto.",
@@ -264,14 +264,14 @@
         }
       },
       "steps": {
-        "step_1": "Corta la calabaza en pedazos y deja que se cocine al vapor durante 15 minutos hasta que se ponga tierna.",
-        "step_2": "Luego aplaste con un machacado sosteniendo la piel y eliminando la humedad en exceso.",
-        "step_3": "Rose la cebolla y la carne picada en la mantequilla hasta que esté bien cocinada y sazonada con sal y pimienta.",
+        "step_1": "Corta la calabaza en trozos y cuécela al vapor unos 15 minutos, hasta que esté tierna.",
+        "step_2": "Machaca la calabaza con un prensapatatas, conservando la piel y eliminando el exceso de humedad.",
+        "step_3": "Dora la cebolla y la carne picada en mantequilla hasta que estén bien cocidas; sazona con sal y pimienta.",
         "step_4": "Junta la carne con el puré de calabaza, mezcla bien y deja enfriar la masa.",
         "step_5": "Forma 6 croquetas ovaladas y aplastadas.",
         "step_6": "Pasa cada croqueta en la harina, luego en el huevo batido y finalmente en el panko apretando bien.",
         "step_7": "Freír en abundante aceite caliente a 170°C hasta dorado crujiente completo (unos 3 minutos por lado).",
-        "step_8": "Servidores calientes con salsa tonkatsu."
+        "step_8": "Sírvelas calientes con salsa tonkatsu."
       }
     },
     "fr": {
@@ -317,7 +317,7 @@
         }
       },
       "steps": {
-        "step_1": "Coupez la citrouille en morceaux et laissez-la cuire à la vapeur pendant 15 minutes jusqu'à ce qu'elle soit tendre.",
+        "step_1": "Coupez la courge kabocha en morceaux et faites-la cuire à la vapeur environ 15 minutes, jusqu'à ce qu'elle soit tendre.",
         "step_2": "Puis écrasez-la avec un presse-papiers en tenant la peau et en éliminant l'humidité excédentaire.",
         "step_3": "Rousse l'oignon et la viande hachée dans le beurre jusqu'à ce qu'elles soient bien cuites et saupoudrées de sel et de poivre.",
         "step_4": "Joignez la viande à la purée de citrouille, mélangez bien et laissez refroidir la pâte.",
@@ -370,12 +370,12 @@
         }
       },
       "steps": {
-        "step_1": "Schneide den Kürbis in Stücke und lass ihn 15 Minuten lang dampfen, bis er zart wird.",
-        "step_2": "Dann zerquetschen Sie sie mit einem Knüppel, indem Sie die Schale halten und die überschüssige Feuchtigkeit beseitigen.",
-        "step_3": "Die Zwiebeln und das Hackfleisch in der Butter rosten, bis sie gut gekocht und mit Salz und Pfeffer gewürzt sind.",
+        "step_1": "Kabocha-Kürbis in Stücke schneiden und etwa 15 Minuten dämpfen, bis er weich ist.",
+        "step_2": "Den Kürbis mit einem Kartoffelstampfer zerdrücken, die Schale dabei belassen und überschüssige Feuchtigkeit entfernen.",
+        "step_3": "Zwiebel und Hackfleisch in Butter anbraten, bis das Fleisch vollständig gegart ist; mit Salz und Pfeffer würzen.",
         "step_4": "Verbinden Sie das Fleisch mit Kürbispüree, Amalgam gut und lassen Sie den Teig abkühlen.",
         "step_5": "Form 6 ovale und gequetschte Kroketten.",
-        "step_6": "Gehen Sie jede Nudel ins Mehl, dann in das zerstoßene Ei und schließlich in den Panko, indem Sie gut drücken.",
+        "step_6": "Jede Krokette erst in Mehl, dann in verquirltem Ei und schließlich in Panko wenden und die Panade leicht andrücken.",
         "step_7": "Frittieren Sie in reichlich warmes Öl bei 170°C bis zur vollständigen knusprige Vergoldung (ca. 3 Minuten pro Seite).",
         "step_8": "Heiße servieren mit tonkatsu Soße."
       }
@@ -423,9 +423,9 @@
         }
       },
       "steps": {
-        "step_1": "Corte a abóbora em pedaços e deixe- a vaporizar por 15 minutos até que se torne tenra.",
+        "step_1": "Corte a abóbora em pedaços e coza-a a vapor durante cerca de 15 minutos, até ficar macia.",
         "step_2": "Em seguida, esmague- o com um triturador de batata segurando a pele e eliminando o excesso de umidade.",
-        "step_3": "Queimar cebola e carne picada em manteiga até que esteja bem cozida e temperar com sal e pimenta.",
+        "step_3": "Refogue a cebola e a carne picada na manteiga até a carne ficar bem cozinhada; tempere com sal e pimenta.",
         "step_4": "Adicione a carne ao purê de abóbora, misture bem e deixe esfriar a massa.",
         "step_5": "Forma 6 croquetas ovais e esmagadas.",
         "step_6": "Passe cada croqueta para a farinha, depois para o ovo batido e finalmente para o panko pressionando bem.",

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000070",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer (Mitsuri Kanroji)",
   "animeReferences": [
@@ -124,7 +124,7 @@
         "step_4": "Divide pink rice into 6 equal portions.",
         "step_5": "With your hands moistened, flatten a portion of rice on the palm of your hand, put a ball of Anko in the middle and wrap the rice around it perfectly sealing it.",
         "step_6": "Wrap each Sakura Mochi with a leaf of salted cherry.",
-        "step_7": "The contrast between the filling dessert and the aromatic savour of the leaf will give the authentic flavor of Japanese spring!"
+        "step_7": "The sweetness of the bean filling contrasts with the aromatic saltiness of the cherry leaf, evoking Japanese spring."
       }
     },
     "it": {
@@ -192,7 +192,7 @@
       "steps": {
         "step_1": "Mezcla el arroz glutinoso con agua, azúcar y una pequeña gota de colorante alimentario rosa.",
         "step_2": "Cocine al vapor o en el microondas cubierto durante 6 minutos hasta que el arroz sea suave y pegajoso.",
-        "step_3": "Rompe ligeramente el arroz caliente con una peste para mezclar los granos manteniendo una textura granulada y visible (estilo Kansai).",
+        "step_3": "Machaca ligeramente el arroz caliente con una mano de mortero, mezclando los granos sin perder del todo su textura granulada, al estilo Kansai.",
         "step_4": "Divide el arroz rosado en 6 porciones iguales.",
         "step_5": "Con las manos húmedas, aplana una porción de arroz sobre la palma de la mano, coloca en el centro una bola de Anko y envuelve el arroz alrededor de ella perfectamente sellada.",
         "step_6": "Envuelve cada Sakura Mochi con una hoja de cerezo salada.",
@@ -228,11 +228,11 @@
       "steps": {
         "step_1": "Amalgame le riz glutineux avec de l'eau, du sucre et une petite goutte de colorant alimentaire rose.",
         "step_2": "Faites cuire à la vapeur ou au micro-ondes couvert pendant 6 minutes jusqu'à ce que le riz soit tendre et collant.",
-        "step_3": "Il pète légèrement le riz chaud avec un pilon afin de mélanger les grains tout en maintenant une consistance granuleuse et visible (style Kansai).",
+        "step_3": "Écrasez légèrement le riz chaud avec un pilon, en mélangeant les grains tout en conservant une texture granuleuse visible, à la manière du Kansai.",
         "step_4": "Diviser le riz rose en 6 portions égales.",
         "step_5": "Avec les mains humides, aplatissez une portion de riz sur la paume de la main, placez au centre une boule d'Anko et enveloppez le riz autour d'elle en la scellant parfaitement.",
         "step_6": "Enroulez chaque Sakura Mochi avec une feuille de cerisier salé.",
-        "step_7": "Le contraste entre le dessert de la farce et le salé aromatique de la feuille offrira le goût authentique du printemps japonais !"
+        "step_7": "Le contraste entre la douceur de la farce et la saveur salée et parfumée de la feuille évoque le printemps japonais."
       }
     },
     "de": {
@@ -264,7 +264,7 @@
       "steps": {
         "step_1": "Amalgame glutinöser Reis mit Wasser, Zucker und einem kleinen Tropfen rosa Lebensmittelfarbstoff.",
         "step_2": "Kochen Sie 6 Minuten lang im Dampf oder in der überdachten Mikrowelle, bis der Reis zart und klebrig ist.",
-        "step_3": "Drücken Sie den warmen Reis leicht mit einer Plage, um die Körner zu mischen und dabei eine granulöse und sichtbare Textur (Kansai-Stil) zu halten.",
+        "step_3": "Den heißen Reis mit einem Stößel leicht zerdrücken und durchmischen, sodass die Körner noch erkennbar bleiben (Kansai-Stil).",
         "step_4": "Teilen Sie den rosa Reis in 6 gleiche Portionen.",
         "step_5": "Mit den befeuchteten Händen lege eine Portion Reis auf die Handfläche, lege einen Anko-Ball in die Mitte und wickle den Reis um ihn herum und versiegele ihn perfekt.",
         "step_6": "Umwickle jeden Sakura Mochi mit einem Blatt salzigen Kirschbaums.",
@@ -299,8 +299,8 @@
       },
       "steps": {
         "step_1": "Misture o arroz glutinoso com água, açúcar e uma pequena gota de coloração de alimentos rosa.",
-        "step_2": "Steam ou cozinhe no microondas por 6 minutos até que o arroz esteja macio e pegajoso.",
-        "step_3": "Bata o arroz quente ligeiramente com um pile para misturar os grãos, mantendo uma consistência grãosa e visível (estilo Kansai).",
+        "step_2": "Coza o arroz glutinoso a vapor ou num recipiente tapado no micro-ondas durante cerca de 6 minutos, até ficar macio e pegajoso.",
+        "step_3": "Esmague ligeiramente o arroz quente com um pilão, misturando os grãos mas mantendo parte da textura granulada (estilo Kansai).",
         "step_4": "Dividir arroz rosa em 6 porções iguais.",
         "step_5": "Com as mãos hidratadas, aplanar uma porção de arroz na palma da mão, colocar uma bola de Anko no meio e enrolar o arroz em torno dela perfeitamente selando- o.",
         "step_6": "Enrole cada Sakura Mochi com uma folha de cereja salgada.",

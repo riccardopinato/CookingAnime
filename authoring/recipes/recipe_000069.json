@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000069",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars! - Shokugeki no Soma",
   "animeReferences": [
@@ -161,7 +161,7 @@
         "step_1": "Finely chop the biscuits and combine them with melted butter.",
         "step_2": "Compact them on the bottom of a cake tin lined with baking paper and put in the fridge for 15 minutes.",
         "step_3": "In a bowl, cream cheese spread with sugar.",
-        "step_4": "Mix the eggs one at a time and mix well.",
+        "step_4": "Add the egg and mix thoroughly.",
         "step_5": "Combine fresh cream, juice and Yuzu zest and finally sifted flour until the mixture is smooth and velvety.",
         "step_6": "Add the cream to the biscuit base.",
         "step_7": "Cook in a static oven preheated to 160°C for about 45-50 minutes (the centre must remain slightly flickering).",
@@ -214,7 +214,7 @@
         "step_1": "Trita finemente i biscotti ed uniscili al burro fuso.",
         "step_2": "Compattali sul fondo di una tortiera foderata di carta forno e metti in frigo per 15 minuti.",
         "step_3": "In una ciotola, lavora a crema il formaggio spalmabile con lo zucchero.",
-        "step_4": "Unisci le uova una alla volta amalgamando bene.",
+        "step_4": "Unisci l'uovo e amalgama bene.",
         "step_5": "Unisci la panna fresca, il succo e la scorza di Yuzu ed infine la farina setacciata finché il composto non risulta liscio e vellutato.",
         "step_6": "Aggiungi la crema sulla base di biscotto.",
         "step_7": "Cuoci in forno statico preriscaldato a 160°C per circa 45-50 minuti (il centro deve rimanere leggermente tremolante).",
@@ -265,9 +265,9 @@
       },
       "steps": {
         "step_1": "Triturar finamente las galletas y unirlas a la mantequilla fundida.",
-        "step_2": "Compáralos en el fondo de una tortera forrada de papel horno y ponlos en la nevera durante 15 minutos.",
+        "step_2": "Presiona la mezcla de galletas en el fondo de un molde forrado con papel de horno y refrigera durante 15 minutos.",
         "step_3": "En un tazón, trabaja con crema el queso con azúcar.",
-        "step_4": "Incorpora los huevos de uno en uno y mezcla bien después de cada adición.",
+        "step_4": "Añade el huevo y mezcla bien.",
         "step_5": "Mezcla la crema fresca, el jugo y la corteza de Yuzu y, finalmente, la harina tamizada hasta que la mezcla esté lisa y aterciopelada.",
         "step_6": "Añade la crema sobre la base de la galleta.",
         "step_7": "Cocinar en horno estático precalentado a 160°C durante unos 45-50 minutos (el centro debe permanecer ligeramente temblando).",
@@ -320,7 +320,7 @@
         "step_1": "Coupez finement les biscuits et joignez-les au beurre fondu.",
         "step_2": "Compactez-les au fond d'une tourte en papier four et mettez-les au réfrigérateur pendant 15 minutes.",
         "step_3": "Dans un bol, le fromage à la crème est enduit de sucre.",
-        "step_4": "Rassemblez les œufs une à la fois en les mélangeant bien.",
+        "step_4": "Ajoutez l'œuf et mélangez soigneusement.",
         "step_5": "Combinez la crème fraîche, le jus et l'écorce de Yuzu et enfin la farine tamisée jusqu'à ce que le mélange soit lisse et velouté.",
         "step_6": "Ajoutez la crème sur la base de biscuit.",
         "step_7": "Faites cuire au four statique préchauffé à 160°C pendant environ 45-50 minutes (le centre doit rester légèrement tremblant).",
@@ -371,9 +371,9 @@
       },
       "steps": {
         "step_1": "Zerkleinern Sie die Kekse fein und vereinen Sie sie mit geschmolzener Butter.",
-        "step_2": "Packen Sie sie auf dem Boden einer Tortier mit Backpapier und legen Sie sie in den Kühlschrank für 15 Minuten.",
-        "step_3": "In einer Schüssel arbeitet der Käse mit Zucker in Sahne.",
-        "step_4": "Verbinden Sie die Eier einzeln gut zusammen.",
+        "step_2": "Die Keksmasse fest auf den Boden einer mit Backpapier ausgelegten Springform drücken und 15 Minuten kalt stellen.",
+        "step_3": "Frischkäse und Zucker in einer Schüssel glatt und cremig rühren.",
+        "step_4": "Das Ei zugeben und gründlich unterrühren.",
         "step_5": "Kombinieren Sie die frische Sahne, den Saft und die Schale von Yuzu und schließlich das gesiebte Mehl, bis die Mischung glatt und samtig ist.",
         "step_6": "Fügen Sie die Creme auf Keksbasis hinzu.",
         "step_7": "Kochen Sie im vorgeheizten statischen Ofen bei 160 °C für ca. 45-50 Minuten (die Mitte sollte leicht zittern).",
@@ -425,11 +425,11 @@
       "steps": {
         "step_1": "Corte finamente os biscoitos e combine- os com manteiga derretida.",
         "step_2": "Compactá- las no fundo de uma lata de bolo forrada com papel para assar e colocar na geladeira por 15 minutos.",
-        "step_3": "Numa tigela, queijo creme espalhado com açúcar.",
-        "step_4": "Misture os ovos um de cada vez e misture bem.",
-        "step_5": "Combine creme fresco, suco e zeste de Yuzu e, finalmente, varreu a farinha até que a mistura seja suave e veluda.",
+        "step_3": "Numa tigela, bata o queijo-creme com o açúcar até ficar macio e cremoso.",
+        "step_4": "Junte o ovo e misture bem.",
+        "step_5": "Junte as natas, o sumo e a raspa de yuzu e, por fim, a farinha peneirada; misture até obter um creme liso.",
         "step_6": "Adicione o creme à base de biscoitos.",
-        "step_7": "Cozinhe em um forno estático pré- aquecido a 160°C por cerca de 45- 50 minutos (o centro deve permanecer ligeiramente piscando).",
+        "step_7": "Leve ao forno estático pré-aquecido a 160 °C durante cerca de 45–50 minutos; o centro deve manter-se ligeiramente trémulo.",
         "step_8": "Deixe esfriar à temperatura ambiente e, em seguida, descanse no frigorífico durante pelo menos 4 horas antes de servir decoração com fatias finas de citrinos."
       }
     }

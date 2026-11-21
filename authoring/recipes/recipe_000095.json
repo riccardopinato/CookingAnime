@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000095",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Ramen Daisuki Koizumi-san",
   "animeReferences": [
@@ -292,8 +292,8 @@
         }
       },
       "steps": {
-        "step_1": "Prepara con antelación pollo, menma, huevo barrote y corteza de yuzu; lleva a hervir una olla separada de agua para los fideos.",
-        "step_2": "Calienta el caldo de pollo filtrado con sal y sake hasta un ligero arbusto y prueba: debe ser claro, sabio pero no agresivo.",
+        "step_1": "Prepara con antelación el pollo, el menma, el huevo de yema ligeramente cremosa y la ralladura de yuzu; pon a hervir una olla aparte para los fideos.",
+        "step_2": "Calienta el caldo de pollo colado con sal y sake hasta que hierva muy suavemente; prueba y ajusta el punto de sal sin tapar el sabor del caldo.",
         "step_3": "Apaga el fuego e incorpora jugo de yuzu y aceite de sésamo sólo al final, para preservar los aromas cítricos.",
         "step_4": "Cocine los fideos en el agua hirviendo según el espesor, escurrirlos cuando todavía son elásticos; sacuda bien para eliminar el exceso de agua.",
         "step_5": "Reparte los fideos en los cuencos precalentados y vierte el caldo al yuzu.",
@@ -413,10 +413,10 @@
       },
       "steps": {
         "step_1": "Hähnchen, Menma, wachsweiches Ei und Yuzu-Schale vorbereiten. Einen separaten Topf Wasser für die Nudeln zum Kochen bringen.",
-        "step_2": "Erhitzen Sie die gefilterte Hühnerbrühe mit Salz und Sake bis zu einem leichten Auflauf und probieren Sie: es muss klar, saftig, aber nicht aggressiv sein.",
-        "step_3": "Schalten Sie das Feuer aus und enthalten Yuzu-Saft und Sesamöl nur zum letzten Mal, um die Zitrusaromen zu bewahren.",
+        "step_2": "Die klare Hühnerbrühe mit Salz und Sake erhitzen, bis sie nur leicht köchelt, und abschmecken: Sie soll klar und herzhaft, aber nicht überwürzt sein.",
+        "step_3": "Den Herd ausschalten und Yuzu-Saft und Sesamöl erst ganz zum Schluss einrühren, damit die Zitrusaromen erhalten bleiben.",
         "step_4": "Kochen Sie die Nudeln im kochenden Wasser nach der Dicke, gießen Sie sie, wenn sie noch elastisch sind; schütteln Sie gut, um überschüssiges Wasser zu entfernen.",
-        "step_5": "Geben Sie die Nudeln in die vorgewärmten Schüssel und gießen Sie die Suppe sofort in den Yuzu.",
+        "step_5": "Die Nudeln in vorgewärmte Schalen verteilen und sofort mit der Yuzu-Brühe übergießen.",
         "step_6": "Füge Huhn, Menma und ein halbes Ei hinzu, so dass ein Teil der Nudeln sichtbar ist.",
         "step_7": "Komplett mit gerade geriebenen Yuzu Schale und serviert sofort, bevor die Nudeln weiterhin Brühe absorbieren."
       }
@@ -472,8 +472,8 @@
         }
       },
       "steps": {
-        "step_1": "Prepare- se antecipadamente frango, menma, ensopado de ovo e casca de yuzu; traga para ebulição um pote separado de água para macarrão.",
-        "step_2": "Aqueça o caldo de frango filtrado com sal e sake até uma ligeira mordida e sabor: ele deve ser claro, salgado mas não agressivo.",
+        "step_1": "Prepare antecipadamente o frango, o menma, o ovo mal cozido e a raspa de yuzu; leve à ebulição uma panela de água separada para os noodles.",
+        "step_2": "Aqueça o caldo de frango coado com sal e sake até fervilhar suavemente; prove e ajuste o sal, mantendo o sabor equilibrado.",
         "step_3": "Desligue o fogo e incorpore suco de yuzu e óleo de sésamo apenas até o fim, para preservar os aromas de cítricos.",
         "step_4": "Cozinhe os macarrão em água fervente de acordo com a espessura, drenando- os quando ainda estiverem elásticos; agite- os bem para eliminar o excesso de água.",
         "step_5": "Distribuir macarrão em tigelas pré- aquecidas e derramar o caldo de yuzu imediatamente.",

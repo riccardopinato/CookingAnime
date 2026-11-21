@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "localeOrder": [
+    "it",
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "reviewedIds": [
+    51,
+    52,
+    56,
+    59,
+    65,
+    68,
+    69,
+    70,
+    74,
+    77
+  ],
+  "fixes": {
+    "recipe_000052": {
+      "it": {
+        "step_6": "Stendi ogni pallina formando un disco con il centro leggermente più spesso e i bordi sottili."
+      },
+      "en": {
+        "step_6": "Roll each ball into a round, leaving the centre slightly thicker than the edges.",
+        "step_8": "Bring the edges together, pinch them firmly to seal and shape each bun into an oval."
+      },
+      "es": {
+        "step_2": "Amasa durante 5 minutos; después incorpora la sal y la mantequilla ablandada.",
+        "step_4": "Cubre con un paño y deja levar durante 1 hora, hasta que la masa duplique su volumen.",
+        "step_6": "Estira cada bola formando un disco algo más grueso en el centro y más fino en los bordes.",
+        "step_8": "Une los bordes, séllalos con firmeza y da a cada panecillo una forma ovalada.",
+        "step_13": "Escúrrelos sobre papel absorbente y sírvelos calientes.",
+        "step_12": "Fríe los kare pan 2–3 minutos por lado, hasta que estén dorados y muy crujientes."
+      },
+      "fr": {
+        "step_9": "Passez chaque petit pain dans l'œuf battu, puis dans le panko en le faisant adhérer uniformément.",
+        "step_12": "Faites frire les kare pan 2 à 3 minutes de chaque côté, jusqu'à ce qu'ils soient dorés et croustillants.",
+        "step_13": "Égouttez-les sur du papier absorbant et servez-les chauds."
+      },
+      "de": {
+        "step_2": "Den Teig 5 Minuten kneten, dann Salz und weiche Butter einarbeiten.",
+        "step_6": "Jede Teigkugel zu einem Kreis ausrollen, dessen Mitte etwas dicker als der Rand bleibt.",
+        "step_8": "Die Teigränder fest zusammendrücken und jedes gefüllte Brötchen oval formen.",
+        "step_9": "Jedes Brötchen zuerst im verquirlten Ei, dann im Panko wenden und rundum gleichmäßig panieren.",
+        "step_13": "Auf Küchenpapier abtropfen lassen und warm servieren."
+      },
+      "pt": {
+        "step_2": "Amasse durante 5 minutos e depois incorpore o sal e a manteiga amolecida.",
+        "step_8": "Una as bordas da massa, sele-as bem e dê a cada pão uma forma oval.",
+        "step_13": "Escorra sobre papel absorvente e sirva quente."
+      }
+    },
+    "recipe_000059": {
+      "en": {
+        "step_5": "Cover the pan immediately and increase the heat to high."
+      },
+      "es": {
+        "step_5": "Tapa inmediatamente la cazuela y sube el fuego a intensidad alta.",
+        "step_7": "Apaga el fuego, añade la mantequilla restante y un chorrito de salsa de soja."
+      },
+      "fr": {
+        "step_9": "Parsemez généreusement de ciboulette fraîche et servez les palourdes très chaudes avec leur jus."
+      },
+      "de": {
+        "step_5": "Den Topf sofort mit dem Deckel verschließen und die Hitze stark erhöhen.",
+        "step_6": "Die Muscheln 3–4 Minuten unter gelegentlichem Schwenken garen, bis sie sich öffnen. Muscheln mit beschädigter Schale und solche, die sich vor dem Garen beim Berühren nicht schließen, aussortieren; nach gründlichem Garen geschlossene Muscheln wegwerfen.",
+        "step_8": "Alles vorsichtig vermengen, sodass ein aromatischer, leicht glänzender Sud entsteht.",
+        "step_9": "Mit reichlich frischem Schnittlauch bestreuen und die Muscheln mit ihrem Sud sehr heiß servieren."
+      },
+      "pt": {
+        "step_3": "Deixe o alho e o gengibre alourar em lume brando durante 1 minuto.",
+        "step_5": "Tape imediatamente a panela e aumente para lume forte.",
+        "step_9": "Polvilhe generosamente com cebolinho fresco e sirva as amêijoas muito quentes com o respetivo caldo."
+      }
+    },
+    "recipe_000065": {
+      "en": {
+        "step_6": "Simmer for 1 minute, gently shaking the pan, until the sauce reduces to a glossy, fragrant glaze.",
+        "step_7": "Serve the pork with a generous pile of finely shredded fresh cabbage and Kewpie mayonnaise, alongside bowls of hot steamed rice."
+      },
+      "es": {
+        "step_1": "En un cuenco pequeño, mezcla el jengibre rallado y su jugo con la salsa de soja, el mirin, el sake y el azúcar hasta disolver el azúcar.",
+        "step_6": "Deja que la salsa hierva suavemente durante 1 minuto mientras mueves la sartén, hasta obtener un glaseado brillante y aromático.",
+        "step_7": "Sirve el cerdo acompañado de abundante col fresca cortada en tiras finas, mayonesa Kewpie y arroz blanco bien caliente."
+      },
+      "fr": {
+        "step_7": "Servez les tranches de porc avec une généreuse portion de chou frais finement émincé, de la mayonnaise Kewpie et du riz blanc bien chaud."
+      },
+      "de": {
+        "step_1": "Geriebenen Ingwer samt Saft mit Sojasauce, Mirin, Sake und Zucker verrühren, bis sich der Zucker vollständig gelöst hat.",
+        "step_6": "Die Sauce unter leichtem Schwenken der Pfanne etwa 1 Minute köcheln lassen, bis sie zu einer glänzenden, aromatischen Glasur eindickt.",
+        "step_7": "Das Schweinefleisch mit reichlich fein geschnittenem frischem Weißkohl und Kewpie-Mayonnaise anrichten; heißen weißen Reis dazu servieren."
+      },
+      "pt": {
+        "step_2": "Disponha as fatias de porco numa tábua e polvilhe ambos os lados com uma camada fina de farinha, para que o molho adira e engrosse.",
+        "step_7": "Sirva a carne de porco com bastante couve fresca cortada finamente, maionese Kewpie e arroz branco bem quente."
+      }
+    },
+    "recipe_000068": {
+      "en": {
+        "step_2": "Warm the milk with the vanilla without boiling, then slowly pour it into the egg yolks while whisking.",
+        "step_7": "Sift in the flour and fold it gently into the batter."
+      },
+      "es": {
+        "step_2": "Calienta la leche con la vainilla sin hervir; viértela poco a poco sobre las yemas mientras remueves.",
+        "step_3": "Devuelve la mezcla al fuego y remueve constantemente a fuego bajo hasta que espese.",
+        "step_7": "Tamiza la harina e incorpórala suavemente a la masa."
+      },
+      "fr": {
+        "step_3": "Remettez la préparation sur feu doux et remuez sans arrêt jusqu'à ce qu'elle épaississe.",
+        "step_7": "Tamisez la farine et incorporez-la délicatement à la pâte."
+      },
+      "de": {
+        "step_2": "Die Milch mit Vanille erwärmen, ohne sie aufzukochen, und unter ständigem Rühren langsam zur Eigelbmischung gießen.",
+        "step_3": "Die Mischung wieder auf den Herd stellen und bei niedriger Hitze unter ständigem Rühren eindicken lassen.",
+        "step_10": "Eine kleine Kelle Teig in die Pfanne geben und zu einem Kreis von etwa 8 cm Durchmesser ausbacken."
+      },
+      "pt": {
+        "step_2": "Aqueça o leite com baunilha sem deixar ferver; verta-o pouco a pouco sobre as gemas, mexendo sempre.",
+        "step_4": "Deixe arrefecer com película aderente encostada diretamente à superfície do creme.",
+        "step_7": "Peneire a farinha e incorpore-a delicadamente na massa.",
+        "step_10": "Deite uma pequena concha de massa na frigideira, formando um disco de cerca de 8 cm.",
+        "step_12": "Deixe os discos arrefecer, coloque uma colher generosa de creme de pasteleiro no centro de um deles e cubra com outro, pressionando suavemente as bordas."
+      }
+    },
+    "recipe_000069": {
+      "it": {
+        "step_4": "Unisci l'uovo e amalgama bene."
+      },
+      "en": {
+        "step_4": "Add the egg and mix thoroughly."
+      },
+      "es": {
+        "step_2": "Presiona la mezcla de galletas en el fondo de un molde forrado con papel de horno y refrigera durante 15 minutos.",
+        "step_4": "Añade el huevo y mezcla bien."
+      },
+      "fr": {
+        "step_4": "Ajoutez l'œuf et mélangez soigneusement."
+      },
+      "de": {
+        "step_2": "Die Keksmasse fest auf den Boden einer mit Backpapier ausgelegten Springform drücken und 15 Minuten kalt stellen.",
+        "step_3": "Frischkäse und Zucker in einer Schüssel glatt und cremig rühren.",
+        "step_4": "Das Ei zugeben und gründlich unterrühren."
+      },
+      "pt": {
+        "step_3": "Numa tigela, bata o queijo-creme com o açúcar até ficar macio e cremoso.",
+        "step_4": "Junte o ovo e misture bem.",
+        "step_5": "Junte as natas, o sumo e a raspa de yuzu e, por fim, a farinha peneirada; misture até obter um creme liso.",
+        "step_7": "Leve ao forno estático pré-aquecido a 160 °C durante cerca de 45–50 minutos; o centro deve manter-se ligeiramente trémulo."
+      }
+    },
+    "recipe_000070": {
+      "en": {
+        "step_7": "The sweetness of the bean filling contrasts with the aromatic saltiness of the cherry leaf, evoking Japanese spring."
+      },
+      "es": {
+        "step_3": "Machaca ligeramente el arroz caliente con una mano de mortero, mezclando los granos sin perder del todo su textura granulada, al estilo Kansai."
+      },
+      "fr": {
+        "step_3": "Écrasez légèrement le riz chaud avec un pilon, en mélangeant les grains tout en conservant une texture granuleuse visible, à la manière du Kansai.",
+        "step_7": "Le contraste entre la douceur de la farce et la saveur salée et parfumée de la feuille évoque le printemps japonais."
+      },
+      "de": {
+        "step_3": "Den heißen Reis mit einem Stößel leicht zerdrücken und durchmischen, sodass die Körner noch erkennbar bleiben (Kansai-Stil)."
+      },
+      "pt": {
+        "step_2": "Coza o arroz glutinoso a vapor ou num recipiente tapado no micro-ondas durante cerca de 6 minutos, até ficar macio e pegajoso.",
+        "step_3": "Esmague ligeiramente o arroz quente com um pilão, misturando os grãos mas mantendo parte da textura granulada (estilo Kansai)."
+      }
+    },
+    "recipe_000074": {
+      "en": {
+        "step_4": "Heat the seasoned dashi broth over medium heat.",
+        "step_6": "Keep at a gentle simmer over very low heat for 45–60 minutes; do not let the broth boil vigorously."
+      },
+      "es": {
+        "step_1": "Corta el daikon en rodajas de 2,5 cm, haz un corte en cruz en una cara y escáldalo en agua de arroz durante 15 minutos.",
+        "step_5": "Añade a la olla el daikon escaldado, el konnyaku, los huevos cocidos y las tortitas de pescado.",
+        "step_6": "Deja cocer a fuego muy bajo durante 45–60 minutos, manteniendo un hervor suave, nunca fuerte."
+      },
+      "fr": {
+        "step_1": "Coupez le daikon en rondelles de 2,5 cm, entaillez une croix sur une face et faites-le blanchir dans de l'eau de cuisson du riz pendant 15 minutes.",
+        "step_2": "Blanchissez également les triangles de konnyaku pendant 2 minutes pour atténuer leur odeur.",
+        "step_6": "Laissez mijoter à feu très doux pendant 45 à 60 minutes, sans ébullition vigoureuse."
+      },
+      "de": {
+        "step_1": "Daikon in etwa 2,5 cm dicke Scheiben schneiden, auf einer Seite kreuzweise einschneiden und 15 Minuten in Reiswasser blanchieren.",
+        "step_2": "Die Konnyaku-Dreiecke ebenfalls 2 Minuten blanchieren, um den Geruch zu reduzieren.",
+        "step_5": "Blanchierten Daikon, Konnyaku, hart gekochte Eier und Fischküchlein in den Topf geben.",
+        "step_6": "Bei sehr niedriger Hitze 45–60 Minuten sanft köcheln lassen, ohne die Brühe stark aufzukochen."
+      },
+      "pt": {
+        "step_4": "Aqueça em lume médio."
+      }
+    },
+    "recipe_000077": {
+      "en": {
+        "step_6": "Spoon some warm unagi tare sauce over the rice."
+      },
+      "es": {
+        "step_2": "Deja que la salsa hierva suavemente durante 5 minutos, hasta que espese y quede brillante y almibarada. Si la anguila está congelada, descongélala por completo en el frigorífico.",
+        "step_4": "Pincela los filetes con salsa tare y caliéntalos en el horno ventilado o bajo el grill a 200 °C durante 6–8 minutos, hasta que la superficie burbujee y se caramelice.",
+        "step_6": "Rocía el arroz con una cucharada de salsa unagi tare caliente.",
+        "step_8": "Pincela con otra capa fina de salsa y espolvorea una pizca de pimienta sanshō."
+      },
+      "fr": {
+        "step_2": "Laissez mijoter la sauce 5 minutes à feu doux, jusqu'à ce qu'elle soit brillante et sirupeuse. Si l'anguille est surgelée, décongelez-la entièrement au réfrigérateur.",
+        "step_4": "Badigeonnez les filets de sauce tare et réchauffez-les au four ventilé ou sous le gril à 200 °C pendant 6 à 8 minutes, jusqu'à ce que la surface bouillonne et caramélise."
+      },
+      "de": {
+        "step_2": "Die Sauce bei niedriger Hitze etwa 5 Minuten sanft einkochen lassen, bis sie sirupartig und glänzend ist. Tiefgefrorenen Aal vollständig im Kühlschrank auftauen.",
+        "step_3": "Die Aalfilets auf ein mit Backpapier belegtes Backblech legen.",
+        "step_4": "Die Filets mit Tare-Sauce bestreichen und im Umluftofen oder unter dem Grill bei 200 °C etwa 6–8 Minuten erhitzen, bis die Oberfläche Blasen wirft und karamellisiert.",
+        "step_6": "Etwas warme Unagi-Tare-Sauce über den Reis geben."
+      },
+      "pt": {
+        "step_6": "Regue o arroz com uma colher de sopa de molho unagi tare quente.",
+        "step_8": "Pincele com mais uma camada fina de molho e polvilhe com uma pitada de pimenta sanshō."
+      }
+    }
+  },
+  "ingredientFixes": {
+    "recipe_000065": {
+      "pt": {
+        "farina": {
+          "name": "farinha (para polvilhar ligeiramente)"
+        }
+      }
+    }
+  }
+}

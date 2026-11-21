@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000074",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Gintama",
   "animeReferences": [
@@ -161,9 +161,9 @@
         "step_1": "Cut the Daikon into 2.5 cm thick slices, insert a cross on one side (to facilitate cooking) and boil it in rice water for 15 minutes.",
         "step_2": "It also boils the Konnyaku triangles for 2 minutes to eliminate the smell.",
         "step_3": "In a large pot from Oden (Donabe or large pot), add Dashi broth, light soy sauce, Mirin and salt.",
-        "step_4": "It's hot on medium heat.",
+        "step_4": "Heat the seasoned dashi broth over medium heat.",
         "step_5": "Place the boiled Daikon, Konnyaku, boiled eggs and fish pies in the pot.",
-        "step_6": "Lets simmer over very low heat for at least 45-60 minutes without ever boiling strong.",
+        "step_6": "Keep at a gentle simmer over very low heat for 45–60 minutes; do not let the broth boil vigorously.",
         "step_7": "Combine Kinchaku bundles in the last 10 minutes to soften the mochi inside without breaking them.",
         "step_8": "Serve very hot in the middle of the table by picking the ingredients with broth and accompanying with mustard Karashi."
       }
@@ -264,12 +264,12 @@
         }
       },
       "steps": {
-        "step_1": "Cortar el Daikon en rodajas gruesas 2,5 cm, hacer una cruz por un lado (para facilitar la cocción) y desbolarlo en agua de arroz durante 15 minutos.",
+        "step_1": "Corta el daikon en rodajas de 2,5 cm, haz un corte en cruz en una cara y escáldalo en agua de arroz durante 15 minutos.",
         "step_2": "También hierve los triángulos de Konnyaku durante 2 minutos para eliminar el olor.",
         "step_3": "En una amplia olla de Oden (Donabe o cacerola grande), une el caldo Dashi, la salsa de soja clara, el Mirin y la sal.",
         "step_4": "Caliente a fuego medio.",
-        "step_5": "Introduzca en la olla el Daikon desmenuzado, el Konnyaku, los huevos duros y los pasteles de pescado.",
-        "step_6": "Deja que se prende fuego muy bajo durante al menos 45-60 minutos sin que nunca se hierva muy fuerte.",
+        "step_5": "Añade a la olla el daikon escaldado, el konnyaku, los huevos cocidos y las tortitas de pescado.",
+        "step_6": "Deja cocer a fuego muy bajo durante 45–60 minutos, manteniendo un hervor suave, nunca fuerte.",
         "step_7": "Añade los saquitos kinchaku durante los últimos 10 minutos para ablandar el mochi del interior sin romperlos.",
         "step_8": "Sirve muy caliente en el centro de la mesa recogiendo los ingredientes con el caldo y acompañando con mostaza Karashi."
       }
@@ -317,12 +317,12 @@
         }
       },
       "steps": {
-        "step_1": "Coupez le Daikon en tranches épaisses 2,5 cm, faites une croix sur un côté (pour faciliter la cuisson) et faites-le glisser dans de l'eau de riz pendant 15 minutes.",
-        "step_2": "Il flotte aussi les triangles de Konnyaku pendant 2 minutes pour éliminer l'odeur.",
+        "step_1": "Coupez le daikon en rondelles de 2,5 cm, entaillez une croix sur une face et faites-le blanchir dans de l'eau de cuisson du riz pendant 15 minutes.",
+        "step_2": "Blanchissez également les triangles de konnyaku pendant 2 minutes pour atténuer leur odeur.",
         "step_3": "Dans une grande casserole d'Oden (Donabe ou casserole importante), combinez le bouillon dashi, la sauce de soja claire, le Mirin et le sel.",
         "step_4": "Chaud à feu moyen.",
         "step_5": "Insérez dans la casserole le Daikon fauché, le Konnyaku, les œufs durs et les gâteaux de poisson.",
-        "step_6": "Laissez glisser très bas pendant au moins 45-60 minutes sans jamais faire bouillir très fort.",
+        "step_6": "Laissez mijoter à feu très doux pendant 45 à 60 minutes, sans ébullition vigoureuse.",
         "step_7": "Combinez les chaussons Kinchaku au cours des 10 dernières minutes pour adoucir le mochi à l'intérieur sans les casser.",
         "step_8": "Servez très chaud au centre de la table en retirant les ingrédients avec du bouillon et en accompagnant avec de la moutarde Karashi."
       }
@@ -370,12 +370,12 @@
         }
       },
       "steps": {
-        "step_1": "Schneiden Sie das Daikon in 2,5 cm dicke Scheiben, schneiden Sie ein Kreuz auf einer Seite (um das Kochen zu erleichtern) und glätten Sie 15 Minuten lang in Reiswasser.",
-        "step_2": "Auch die Konnyaku Dreiecke für 2 Minuten glätten, um den Geruch zu beseitigen.",
+        "step_1": "Daikon in etwa 2,5 cm dicke Scheiben schneiden, auf einer Seite kreuzweise einschneiden und 15 Minuten in Reiswasser blanchieren.",
+        "step_2": "Die Konnyaku-Dreiecke ebenfalls 2 Minuten blanchieren, um den Geruch zu reduzieren.",
         "step_3": "In einem großen Topf aus Oden (Donabe oder großer Topf) vereinen Sie die Dashi-Brühe, die helle Sojasoße, das Mirin und das Salz.",
         "step_4": "Er wärmt bei mittlerer Hitze.",
-        "step_5": "Geben Sie in den Topf die glühende Daikon, die Konnyaku, die gekochten Eier und die Fischkuchen.",
-        "step_6": "Lassen Sie es bei sehr geringem Feuer für mindestens 45-60 Minuten, ohne jemals zu kochen.",
+        "step_5": "Blanchierten Daikon, Konnyaku, hart gekochte Eier und Fischküchlein in den Topf geben.",
+        "step_6": "Bei sehr niedriger Hitze 45–60 Minuten sanft köcheln lassen, ohne die Brühe stark aufzukochen.",
         "step_7": "Die Kinchaku-Säckchen in den letzten 10 Minuten zugeben, damit das Mochi darin weich wird, ohne dass die Säckchen aufreißen.",
         "step_8": "Servieren Sie heiß in der Mitte des Tisches, indem Sie die Zutaten mit der Brühe nehmen und mit Karashi Senf begleiten."
       }
@@ -426,7 +426,7 @@
         "step_1": "Cortar o Daikon em fatias de 2,5 cm de espessura, inserir uma cruz de um lado (para facilitar o cozimento) e fervê- lo em água de arroz por 15 minutos.",
         "step_2": "Também ferve os triângulos Konnyaku por 2 minutos para eliminar o cheiro.",
         "step_3": "Em um pote grande de Oden (Donabe ou pote grande), adicione o caldo Dashi, molho de soja leve, Mirin e sal.",
-        "step_4": "Está quente em calor médio.",
+        "step_4": "Aqueça em lume médio.",
         "step_5": "Coloque o Daikon fervido, o Konnyaku, ovos fervidos e tortas de peixe no pote.",
         "step_6": "Deixa cozir a fogo muito baixo durante pelo menos 45- 60 minutos sem ferver forte.",
         "step_7": "Combinar os pacotes de Kinchaku nos últimos 10 minutos para suavizar o mochi dentro sem quebrá- los.",

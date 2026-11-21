@@ -2640,9 +2640,9 @@
         "step_3": "Work the dough until it is smooth and elastic.",
         "step_4": "Cover with a cloth and let rise for 1 hour until doubling.",
         "step_5": "Divide the leavened dough into 6 equal balls.",
-        "step_6": "Spread each ball form a disc with a slightly thicker centre and thin edges.",
+        "step_6": "Roll each ball into a round, leaving the centre slightly thicker than the edges.",
         "step_7": "Put a generous spoonful of cold dense curry in the middle of each disc.",
-        "step_8": "Close the edges carefully by sealing them well and giving the classic oval shape to ellipses.",
+        "step_8": "Bring the edges together, pinch them firmly to seal and shape each bun into an oval.",
         "step_9": "Pass every sandwich first into the beaten egg and then into the panko making it stick evenly.",
         "step_10": "Let the sandwiches rest for 15 minutes.",
         "step_11": "Heat the seed oil at 170°C.",
@@ -3041,7 +3041,7 @@
         "step_2": "In a large pan with lid, dissolve half of the butter and add the sliced garlic and grated ginger.",
         "step_3": "Brown on a soft heat for 1 minute.",
         "step_4": "Add the clams in the pan and add the Japanese sake immediately.",
-        "step_5": "Cover immediately with the lid and raise the flame on a live fire.",
+        "step_5": "Cover the pan immediately and increase the heat to high.",
         "step_6": "Cook for 3-4 minutes by shaking the pan every now and then until all clams open completely (discard those that remain closed). Use live clams from a reliable supplier. Discard broken shells and clams that do not close when tapped before cooking; discard any clams that remain closed after thorough cooking.",
         "step_7": "Turn off the heat, add the remaining butter and a thread of soy sauce.",
         "step_8": "Mix gently to create a tasty and shiny broth.",
@@ -3430,8 +3430,8 @@
         "step_3": "Heat a spoonful of seed oil in a large pan over medium-high heat.",
         "step_4": "Cook the pork slices for about 1.5 to 2 minutes per side until they are golden.",
         "step_5": "Add the ginger sauce directly above the meat in the hot pan.",
-        "step_6": "Boil for 1 minute by stirring the pan until the sauce is reduced to a shiny and fragrant frosting.",
-        "step_7": "Set up the pig side by side with an abundant mountain of fresh hooded cabbage and mayonnaise Kewpie, serving it with bowls of warm white rice."
+        "step_6": "Simmer for 1 minute, gently shaking the pan, until the sauce reduces to a glossy, fragrant glaze.",
+        "step_7": "Serve the pork with a generous pile of finely shredded fresh cabbage and Kewpie mayonnaise, alongside bowls of hot steamed rice."
       }
     },
     "recipe_000066": {
@@ -3594,12 +3594,12 @@
       },
       "stepTexts": {
         "step_1": "Work the egg yolks with sugar and cornstarch.",
-        "step_2": "Heat the milk with vanilla without boiling, then add it flush on the egg yolks mixing.",
+        "step_2": "Warm the milk with the vanilla without boiling, then slowly pour it into the egg yolks while whisking.",
         "step_3": "Put it back on the fire and let it thicken over low heat by always mixing.",
         "step_4": "Cool covered with contact film.",
         "step_5": "Work the eggs with sugar and honey until they become clear.",
         "step_6": "Melt the yeast in the water and add it to the eggs.",
-        "step_7": "Slice the flour and incorporate it gently.",
+        "step_7": "Sift in the flour and fold it gently into the batter.",
         "step_8": "Place the dough in the fridge for 15 minutes.",
         "step_9": "Heat a non-stick pan slightly greased with oil and clean with absorbent paper.",
         "step_10": "Pour a ladle of dough and form an 8 cm disc.",
@@ -3653,7 +3653,7 @@
         "step_1": "Finely chop the biscuits and combine them with melted butter.",
         "step_2": "Compact them on the bottom of a cake tin lined with baking paper and put in the fridge for 15 minutes.",
         "step_3": "In a bowl, cream cheese spread with sugar.",
-        "step_4": "Mix the eggs one at a time and mix well.",
+        "step_4": "Add the egg and mix thoroughly.",
         "step_5": "Combine fresh cream, juice and Yuzu zest and finally sifted flour until the mixture is smooth and velvety.",
         "step_6": "Add the cream to the biscuit base.",
         "step_7": "Cook in a static oven preheated to 160°C for about 45-50 minutes (the centre must remain slightly flickering).",
@@ -3693,7 +3693,7 @@
         "step_4": "Divide pink rice into 6 equal portions.",
         "step_5": "With your hands moistened, flatten a portion of rice on the palm of your hand, put a ball of Anko in the middle and wrap the rice around it perfectly sealing it.",
         "step_6": "Wrap each Sakura Mochi with a leaf of salted cherry.",
-        "step_7": "The contrast between the filling dessert and the aromatic savour of the leaf will give the authentic flavor of Japanese spring!"
+        "step_7": "The sweetness of the bean filling contrasts with the aromatic saltiness of the cherry leaf, evoking Japanese spring."
       }
     },
     "recipe_000071": {
@@ -3945,9 +3945,9 @@
         "step_1": "Cut the Daikon into 2.5 cm thick slices, insert a cross on one side (to facilitate cooking) and boil it in rice water for 15 minutes.",
         "step_2": "It also boils the Konnyaku triangles for 2 minutes to eliminate the smell.",
         "step_3": "In a large pot from Oden (Donabe or large pot), add Dashi broth, light soy sauce, Mirin and salt.",
-        "step_4": "It's hot on medium heat.",
+        "step_4": "Heat the seasoned dashi broth over medium heat.",
         "step_5": "Place the boiled Daikon, Konnyaku, boiled eggs and fish pies in the pot.",
-        "step_6": "Lets simmer over very low heat for at least 45-60 minutes without ever boiling strong.",
+        "step_6": "Keep at a gentle simmer over very low heat for 45–60 minutes; do not let the broth boil vigorously.",
         "step_7": "Combine Kinchaku bundles in the last 10 minutes to soften the mochi inside without breaking them.",
         "step_8": "Serve very hot in the middle of the table by picking the ingredients with broth and accompanying with mustard Karashi."
       }
@@ -4108,7 +4108,7 @@
         "step_3": "Place the fillets on a baking sheet covered with baking paper.",
         "step_4": "Brush them with the Tare sauce and heat them in a ventilated oven or under the grill at 200°C for 6-8 minutes until the surface simmers and becomes caramelized.",
         "step_5": "Fill the bowls (Donburi) with hot white rice.",
-        "step_6": "Taste the rice with a spoonful of warm Unagi Tare sauce.",
+        "step_6": "Spoon some warm unagi tare sauce over the rice.",
         "step_7": "Cut the eel fillets in half and lay gently over the rice.",
         "step_8": "Brush with another veil of sauce and dust with a pinch of Sansho aromatic pepper."
       }
@@ -4278,7 +4278,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Rinse the Sanma fish leaving them whole (the Japanese tradition includes cooking with the entrails for a pleasantly bitter taste). Sanma is Pacific saury (Cololabis saira), not pike. For home cooking buy cleaned and gutted fish or have the fishmonger prepare it; cook the fish thoroughly and check the thickest part.",
+        "step_1": "Use sanma (Pacific saury, Cololabis saira) that has already been cleaned and gutted by the fishmonger. Cook thoroughly and check the thickest part; do not leave the viscera in for this home preparation.",
         "step_2": "Insert the skin with 3 diagonal cuts on each side.",
         "step_3": "Sprinkle generously with coarse salt and let 10 minutes rest.",
         "step_4": "Drys the moisture released by the salt with absorbent paper.",
@@ -4529,7 +4529,7 @@
         "step_4": "Add the sauce to a large baking dish.",
         "step_5": "Cut the chicken into big treats.",
         "step_6": "Slightly infarinate it, then pass it into the beaten egg.",
-        "step_7": "Fry in seed oil at 170°C for 5-6 minutes until golden.",
+        "step_7": "Fry in oil at 170°C until golden, approximately 5–6 minutes; use a food thermometer to confirm that the chicken reaches at least 74°C (165°F) at the centre before saucing.",
         "step_8": "Take the freshly fried hot chicken and immerse it immediately in the sweet sauce Namban-zu for 1 minute, turning it on both sides to absorb the acid-sweet seasoning.",
         "step_9": "Place the chicken in the dishes and cover the surface with a generous spoonful of creamy tartar sauce."
       }
@@ -4686,7 +4686,7 @@
           "note": null
         },
         "panna_fresca_liquida_da_montare_freddissima": {
-          "name": "fresh liquid cream to be mounted very cold",
+          "name": "very cold fresh whipping cream",
           "note": null
         },
         "zucchero_semolato": {
@@ -5473,7 +5473,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Cut the pumpkin into pieces and let it steam for 15 minutes until it becomes tender.",
+        "step_1": "Cut the kabocha squash into pieces and steam for about 15 minutes, until tender.",
         "step_2": "Then crush it with a potato crusher holding the skin and eliminating excess moisture.",
         "step_3": "Burn onion and minced meat in butter until well cooked and season with salt and pepper.",
         "step_4": "Add the meat to the pumpkin puree, mix well and let cool the dough.",
@@ -5708,7 +5708,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Clean the offal thoroughly; rub them with salt and little flour, rinse them several times and cut them into regular bites. Use only tripe/offal sold already cleaned and precooked, following the producer's directions. The 10–15 minutes are for final heating, NOT sufficient to cook raw offal safely; raw offal requires its own complete cooking beforehand.",
+        "step_1": "Use only cleaned, precooked tripe or other offal sold ready for final reheating, following the supplier's instructions. Cut into even pieces with clean utensils. The later 10–15 minutes do not safely cook raw offal.",
         "step_2": "Boil it for about 1 minute, drain and rinse: this phase eliminates impurities and part of the smell without melting the fat too much.",
         "step_3": "Prepare the broth with dashi, garlic, chilli and miso or soy sauce. Season it well, as the cabbage and tofu will dilute the flavour.",
         "step_4": "Place the cabbage on the bottom of the nabe, add tofu and offal and pour the broth until you partially cover the ingredients.",
@@ -7067,7 +7067,7 @@
       "stepTexts": {
         "step_1": "Slice flour and Matcha in a bowl.",
         "step_2": "Add sugar and eggs, then add warm milk and melted butter by mixing with a whisk until you get a liquid batter without lumps.",
-        "step_3": "Rest in the fridge for 30 minutes.",
+        "step_3": "Let the batter rest in the refrigerator for 30 minutes.",
         "step_4": "Cook about 15-20 thin crepes in a lightly buttered non-stick pan, let them cool completely.",
         "step_5": "Mount the cream with the icing sugar and Matcha, then incorporate it with the pastry cream.",
         "step_6": "Assemble the dessert by placing the first crack on a plate, spread a thin layer of cream and cover with another crack.",
@@ -7151,7 +7151,7 @@
       },
       "stepTexts": {
         "step_1": "Divide the anko into six equal balls and keep them covered; dust the work surface with corn starch or starch.",
-        "step_2": "Mix glutinous rice flour, sugar, matcha and water in a microwave bowl until dry lumps remain.",
+        "step_2": "Mix glutinous rice flour, sugar, matcha and water in a microwave-safe bowl until no dry lumps remain.",
         "step_3": "Cover leaving a vent and bake at 600 W for about 90 seconds.",
         "step_4": "Mix with a wet spatula and cook about 60 seconds, until the dough is shiny, elastic and evenly cooked.",
         "step_5": "Transfer immediately the hot mass to the dusted surface, cover it with other starch and let it warm enough to handle it.",
@@ -7841,7 +7841,7 @@
       },
       "stepTexts": {
         "step_1": "Cook the Daikon discs in boiling water for 10 minutes to soften them and remove the bitter, drain.",
-        "step_2": "It burns the ricciola slices in boiling water for 10 seconds, then dives into frozen water and removes any remaining scales gently.",
+        "step_2": "Blanch the amberjack pieces in boiling water for 10 seconds, then transfer them to ice water and gently remove any remaining scales.",
         "step_3": "In a large pan, add dashi, sake, sugar, mirin and ginger.",
         "step_4": "Brings to a boil, feeds the Daikon and the fish.",
         "step_5": "Cover with an Otoshibuta (falling lid) and cook over low heat for 20 minutes.",

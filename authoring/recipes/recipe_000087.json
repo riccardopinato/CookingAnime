@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000087",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -231,13 +231,13 @@
       },
       "steps": {
         "step_1": "En un tazón, trabaja la crema de castañas con mantequilla suave y ron con batidora eléctrica hasta que se vuelve aterciopelada y sin grumos.",
-        "step_2": "Pásala a través de un tamiz fino para asegurar la fluidez en los fideos de crema.",
-        "step_3": "Pon los discos de pan de españa o merengue en los platillos.",
-        "step_4": "Pon en el centro de cada disco una castaña almíbar entera.",
+        "step_2": "Pasa la crema por un tamiz fino para que pueda salir con facilidad por la boquilla para Mont Blanc.",
+        "step_3": "Coloca los discos de bizcocho o merengue en los platos.",
+        "step_4": "Pon una castaña entera en almíbar en el centro de cada disco.",
         "step_5": "Cubre la castaña creando una montaña/cúpula alta de crema montada utilizando una espátula.",
         "step_6": "Inserte la crema de castañas en una sac-à-poche con una boquilla de agujeros múltiples (boqueta para Mont Blanc/spaghetti).",
         "step_7": "Aprieta la crema de castañas alrededor de la cúpula de nata montada creando hilos superpuestos hasta cubrirla completamente.",
-        "step_8": "Espolvorea la cima con azúcar en velo para simular la nieve y coloca una castaña en el almuerzo en la cima."
+        "step_8": "Espolvorea la parte superior con azúcar glas, como si fuera nieve, y corona con una castaña en almíbar."
       }
     },
     "fr": {
@@ -321,13 +321,13 @@
       },
       "steps": {
         "step_1": "Kastaniencreme, weiche Butter und Rum in einer Schüssel mit dem Handrührgerät cremig und klümpchenfrei aufschlagen.",
-        "step_2": "Gehen Sie durch ein feines Sieb, um die Flüssigkeit in den Spaghetti-Creme zu gewährleisten.",
-        "step_3": "Machen Sie die Platten von Span- oder Meringa-Panzer auf die Untertassen.",
-        "step_4": "Legen Sie in der Mitte jeder Platte eine ganze Kastanie in Stücke.",
-        "step_5": "Bedecken Sie die Kastanie mit einem Spachtel und erstellen Sie eine hohe Sahne-Höhe/Kuppel.",
-        "step_6": "Geben Sie die Kastaniencreme in eine Schabe mit mehreren Löchern (Mont Blanc/Spaghetti-Flasche) ein.",
-        "step_7": "Drücken Sie die Kastaniencreme rund um die Kuppel mit Schlagsahne, indem Sie überlappende Drähte anlegen, bis sie vollständig bedeckt ist.",
-        "step_8": "Die Spitze mit Schleierzucker stauben, um den Schnee zu simulieren, und eine Kastanie auf der Oberseite polieren."
+        "step_2": "Die Kastaniencreme durch ein feines Sieb streichen, damit sie später problemlos durch die Mont-Blanc-Tülle gepresst werden kann.",
+        "step_3": "Biskuit- oder Baiserscheiben auf Dessertteller legen.",
+        "step_4": "Eine ganze kandierte Kastanie in die Mitte jeder Scheibe setzen.",
+        "step_5": "Über jeder Kastanie mit einem Spatel eine hohe Kuppel aus Schlagsahne formen.",
+        "step_6": "Die Kastaniencreme in einen Spritzbeutel mit einer Mont-Blanc-Tülle mit mehreren kleinen Öffnungen füllen.",
+        "step_7": "Die Creme in dünnen, sich überlappenden Fäden rund um die Sahnekuppel spritzen, bis diese ganz bedeckt ist.",
+        "step_8": "Mit Puderzucker wie mit Schnee bestäuben und oben eine kandierte Kastanie aufsetzen."
       }
     },
     "pt": {
@@ -366,13 +366,13 @@
       },
       "steps": {
         "step_1": "Numa taça, bata o creme de castanha com a manteiga amolecida e o rum usando uma batedeira elétrica até obter uma mistura cremosa e sem grumos.",
-        "step_2": "Passe- o através de uma peneira fina para garantir a fluidez em espaguete de creme.",
-        "step_3": "Coloque o pão de esponja ou discos de meringue nos discos.",
+        "step_2": "Passe o creme de castanha por uma peneira fina para o poder espremer facilmente pelo bico de Mont Blanc.",
+        "step_3": "Coloque os discos de pão de ló ou suspiro nos pratos.",
         "step_4": "Coloque no centro de cada disco uma castanha inteira em xarope.",
         "step_5": "Cubra o castanho criando uma cúpula montanhosa / alta de creme batido usando uma espátula.",
         "step_6": "Insira o creme de castanha em um saco-à- poche com um bico multi- buraco (boca para Mont Blanc/ spaghetti).",
         "step_7": "Aperte o creme de castanha ao redor da cúpula de creme batido criando linhas sobrepostas para cobri- lo inteiramente.",
-        "step_8": "Ponha o topo com açúcar gelado para simular a neve e coloque um castanho em xarope no topo."
+        "step_8": "Polvilhe com açúcar em pó para imitar neve e coloque uma castanha em calda no topo."
       }
     }
   }

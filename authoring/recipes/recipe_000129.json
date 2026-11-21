@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000129",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -235,8 +235,8 @@
         }
       },
       "steps": {
-        "step_1": "En una sartén antiadherente sin grasas añadidas, arrástrese los carretes de puerro hasta dorarlos y abrazarlos ligeramente en la superficie, mantenga a un lado.",
-        "step_2": "Ponlo en una cacerola, deja que el caldo Dashi se marchite con la salsa de soja, el mirin y el azúcar.",
+        "step_1": "En una sartén antiadherente sin grasa, asa los trozos de puerro hasta que se doren y se tuesten ligeramente; reserva.",
+        "step_2": "En un cazo, lleva a ebullición el dashi con la salsa de soja, el mirin y el azúcar.",
         "step_3": "Añade las lonchas de cerdo y cuécelas durante 3–4 minutos, hasta que estén tiernas.",
         "step_4": "Cocine soba en abundante agua hirviendo durante el tiempo indicado en el envase (aproximadamente 3-4 minutos), escúrela y enjuáguela brevemente.",
         "step_5": "Divide la soba en dos tazones grandes.",
@@ -329,9 +329,9 @@
         }
       },
       "steps": {
-        "step_1": "In einer Pfanne ohne zugesetzte Fette grillen Sie die Lauchpfannen, bis sie an der Oberfläche leicht vergoren werden, und halten Sie sie beiseite.",
-        "step_2": "Legen Sie in einen Topf, bringen Sie die Dashi-Brühe mit Soja-Sauce, Mirin und Zucker.",
-        "step_3": "Kombinieren Sie die Schweinescheiben und lassen Sie sie für 3-4 Minuten kochen, bis sie halten.",
+        "step_1": "Die Lauchstücke ohne zusätzliches Fett in einer beschichteten Pfanne rösten, bis sie außen leicht gebräunt sind; beiseitestellen.",
+        "step_2": "Dashi mit Sojasauce, Mirin und Zucker in einem Topf aufkochen.",
+        "step_3": "Die dünnen Schweinefleischscheiben zugeben und etwa 3–4 Minuten garen, bis sie zart sind.",
         "step_4": "Kochen Sie Soba in reichlich kochendem Wasser für die auf der Verpackung angegebene Zeit (ca. 3-4 Minuten), spülen und kurz spülen.",
         "step_5": "Teilen Sie die Soba in zwei große Schalen.",
         "step_6": "Fügen Sie die kochende Brühe mit den Schweinescheiben hinzu und garnieren Sie mit dem gegrillten Lauch und einem Staub von Shichimi Togarashi."
@@ -376,12 +376,12 @@
         }
       },
       "steps": {
-        "step_1": "Numa panela antiadherente sem gorduras adicionadas, grelhar os rolos de alho até que estejam dourados e torrá- los ligeiramente na superfície, mantenha- se de lado.",
+        "step_1": "Numa frigideira antiaderente sem gordura, aloure os pedaços de alho-francês até ficarem ligeiramente tostados; reserve.",
         "step_2": "Coloque em uma panela, ferva o caldo Dashi com molho de soja, mirin e açúcar.",
         "step_3": "Combine as fatias de porco e deixe- as cozinhar por 3-4 minutos até que estejam macias.",
         "step_4": "Cozinhe soba em muita água fervente para o tempo indicado no pacote (cerca de 3-4 minutos), escorra e enxague brevemente.",
         "step_5": "Divida o soba em duas tigelas grandes.",
-        "step_6": "Adicione sobre o caldo fervente com as fatias de porco e guarneça com o porro grelhado e um copo de Shichimi Togarashi."
+        "step_6": "Verta o caldo quente com as fatias de porco sobre os noodles e termine com alho-francês tostado e uma pitada de shichimi togarashi."
       }
     }
   }

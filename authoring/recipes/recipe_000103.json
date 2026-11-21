@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000103",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "K-On!",
   "animeReferences": [
@@ -230,7 +230,7 @@
         "step_4": "Añadir gelatina al matcha, anko y una primera cucharada de crema montada, dejando las capas visibles.",
         "step_5": "Repita las capas si la altura del vaso lo permite, sin rellenarlo completamente.",
         "step_6": "Añade una bola de helado al matcha sólo en el momento del servicio.",
-        "step_7": "Completa con shiratama, gofre o Pocky y un pequeño mechón de crema; sirve inmediatamente para que la parte crujiente no pierda consistencia."
+        "step_7": "Termina con shiratama, una barquillo o Pocky y un pequeño copete de nata montada; sirve enseguida para mantener el crujiente."
       }
     },
     "fr": {
@@ -312,13 +312,13 @@
         }
       },
       "steps": {
-        "step_1": "Bereiten und kühlen Sie im Voraus Gelee zu Matcha und Shiratama; montieren Sie die weiche Sahne und halten Sie das Eis im Gefrierschrank bis zum letzten.",
-        "step_2": "Schneide die Gelee in die regelmäßigen Würfel und teile den L-Anko in zwei Portionen, so dass die Schichten in den beiden Gläsern ausgeglichen werden.",
+        "step_1": "Matcha-Gelee und Shiratama rechtzeitig zubereiten und kühlen; die Sahne leicht aufschlagen und das Eis bis zum Anrichten im Gefrierfach lassen.",
+        "step_2": "Das Gelee in gleichmäßige Würfel schneiden und die Anko-Paste auf zwei Portionen verteilen.",
         "step_3": "Legen Sie eine dünne Schicht von Corn Flakes auf den Boden der Gläser, um zu vermeiden, sie zu zerquetschen.",
         "step_4": "Fügen Sie Gelee zu Matcha, Anko und einen ersten Esslöffel Schlagsahne, so dass die Schichten sichtbar.",
         "step_5": "Wiederholen Sie die Schichten, wenn die Höhe des Glases es erlaubt, ohne es vollständig zu füllen.",
-        "step_6": "Füge nur zum Zeitpunkt des Service einen Eisball dem Matcha hinzu.",
-        "step_7": "Komplett mit Shiratama, Waffeln oder Pocky und einem kleinen Sahneblumen; serviere sofort, damit der knusprige Teil keine Konsistenz verliert."
+        "step_6": "Erst unmittelbar vor dem Servieren eine Kugel Matcha-Eis hinzufügen.",
+        "step_7": "Mit Shiratama, einer Waffel oder Pocky und etwas Schlagsahne garnieren; sofort servieren, damit die knusprige Schicht nicht durchweicht."
       }
     },
     "pt": {
@@ -356,13 +356,13 @@
         }
       },
       "steps": {
-        "step_1": "Prepare e esfrie com antecedência matcha e gelatina shiratama; monte o creme macio e mantenha o sorvete no congelador até o último.",
+        "step_1": "Prepare e arrefeça antecipadamente a gelatina de matcha e os shiratama; bata levemente as natas e mantenha o gelado no congelador até servir.",
         "step_2": "Corte a gelatina em cubos regulares e divida l'anko em duas porções, para que as camadas sejam equilibradas nos dois copos.",
         "step_3": "Coloque uma fina camada de flocos de milho no fundo dos copos, evitando esmagá- los.",
         "step_4": "Adicione gelatina ao matcha, anko e uma primeira colher de creme batido, deixando as camadas visíveis.",
         "step_5": "Repita as camadas se a altura do vidro permitir, sem preenchê- lo completamente.",
         "step_6": "Adicione uma bola de sorvete ao matcha apenas no momento do serviço.",
-        "step_7": "Completa com shiratama, waffle ou Pocky e um pequeno tufo de creme; sirva imediatamente para que a parte crocante não perca consistência."
+        "step_7": "Finalize com shiratama, uma bolacha crocante ou Pocky e um pouco de chantilly; sirva de imediato para preservar a textura crocante."
       }
     }
   }
