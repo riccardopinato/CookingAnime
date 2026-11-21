@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 
 import '../../../../core/theme/app_design_tokens.dart';
 import '../../../../l10n/app_localizations.dart';
+import '../../domain/countdown_remaining.dart';
 
 class CookingTimerWidget extends StatefulWidget {
   const CookingTimerWidget({
@@ -18,8 +19,10 @@ class CookingTimerWidget extends StatefulWidget {
 }
 
 class _CookingTimerWidgetState extends State<CookingTimerWidget>
-    with SingleTickerProviderStateMixin {
+    with SingleTickerProviderStateMixin, WidgetsBindingObserver {
   Timer? _timer;
+  final Stopwatch _intervalClock = Stopwatch();
+  late int _remainingAtStart;
   late int _totalSeconds;
   late int _remainingSeconds;
   late final AnimationController _pulseController;
@@ -32,6 +35,7 @@ class _CookingTimerWidgetState extends State<CookingTimerWidget>
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     _resetValues();
     _pulseController = AnimationController(
       vsync: this,
@@ -56,7 +60,11 @@ class _CookingTimerWidgetState extends State<CookingTimerWidget>
   }
 
   void _resetValues() {
+    _intervalClock
+      ..stop()
+      ..reset();
     _totalSeconds = widget.minutes * 60;
+    _remainingAtStart = _totalSeconds;
     _remainingSeconds = _totalSeconds;
     _running = false;
     _finishing = false;
@@ -77,33 +85,47 @@ class _CookingTimerWidgetState extends State<CookingTimerWidget>
 
   void _start() {
     if (_remainingSeconds <= 0 || _running) return;
-
+    _remainingAtStart = _remainingSeconds;
+    _intervalClock
+      ..reset()
+      ..start();
     setState(() => _running = true);
     _syncPulse();
+    // UI callbacks may stop in Android background. Elapsed time is monotonic.
+    _timer = Timer.periodic(const Duration(milliseconds: 250), (_) => _refresh());
+  }
 
-    _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
-      if (!mounted) {
-        timer.cancel();
-        return;
-      }
+  void _refresh() {
+    if (!mounted || !_running) return;
+    final remaining = remainingAfterElapsed(
+      secondsAtStart: _remainingAtStart,
+      elapsed: _intervalClock.elapsed,
+    );
+    if (remaining == _remainingSeconds) return;
+    if (remaining == 0) {
+      _timer?.cancel();
+      _intervalClock.stop();
+      setState(() {
+        _remainingSeconds = 0;
+        _running = false;
+      });
+      _syncPulse();
+      unawaited(_finishTimer());
+      return;
+    }
+    setState(() => _remainingSeconds = remaining);
+  }
 
-      if (_remainingSeconds <= 1) {
-        timer.cancel();
-        setState(() {
-          _remainingSeconds = 0;
-          _running = false;
-        });
-        unawaited(_finishTimer());
-        return;
-      }
-
-      setState(() => _remainingSeconds -= 1);
-    });
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) _refresh();
   }
 
   void _pause() {
+    _refresh();
     _timer?.cancel();
-    setState(() => _running = false);
+    _intervalClock.stop();
+    if (_running) setState(() => _running = false);
     _syncPulse();
   }
 
@@ -167,7 +189,9 @@ class _CookingTimerWidgetState extends State<CookingTimerWidget>
 
   @override
   void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
     _timer?.cancel();
+    _intervalClock.stop();
     _pulseController.dispose();
     super.dispose();
   }
