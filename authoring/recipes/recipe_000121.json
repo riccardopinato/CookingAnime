@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000121",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -231,7 +231,7 @@
       },
       "steps": {
         "step_1": "Ponga el molde y prepare una bandeja más grande para el baño María; precaliente el horno a 150-160 °C.",
-        "step_2": "Disuelve al baño maria queso esparcida, mantequilla y leche hasta que el compuesto esté liso, luego deja entibiar.",
+        "step_2": "Derrite al baño María el queso crema, la mantequilla y la leche hasta obtener una mezcla lisa; deja que se temple.",
         "step_3": "Envuelve las yemas uno a la vez y añade harina y almidón tambaleados, mezclando sólo hasta eliminar los grumos.",
         "step_4": "Monta las claras y añade el azúcar en varias ocasiones hasta obtener un merengue brillante con picos suaves-medios, no excesivamente rígidos.",
         "step_5": "Inserta un tercio del merengue en la base para aliviarlo, luego une el resto con movimientos desde abajo hacia arriba.",
@@ -321,7 +321,7 @@
       },
       "steps": {
         "step_1": "Ziehen Sie die Form an und bereiten Sie ein größeres Backblech für das Wasserbad vor; erwärmen Sie den Ofen auf 150-160 °C.",
-        "step_2": "Lösen Sie im Badezimmer Käse, Butter und Milch, bis die Verbindung glatt ist, dann lassen Sie es einschüchtern.",
+        "step_2": "Frischkäse, Butter und Milch im Wasserbad schmelzen und glatt rühren; anschließend etwas abkühlen lassen.",
         "step_3": "Fügen Sie die Eigelb eins nach dem anderen ein und fügen Sie Mehl und Stärke, gesiebt, nur um die Klumpen zu entfernen.",
         "step_4": "Legen Sie die Alben fest und fügen Sie den Zucker mehrmals hinzu, bis Sie einen glänzenden Mergel mit weichen, nicht übermäßig starren Spitzen erhalten.",
         "step_5": "Fügen Sie ein Drittel der Meringa an der Basis ein, um sie zu erleichtern, und fügen Sie dann den Rest mit Bewegungen von unten nach oben zusammen.",

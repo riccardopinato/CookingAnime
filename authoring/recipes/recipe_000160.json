@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000160",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "The Disastrous Life of Saiki K.",
   "animeReferences": [
@@ -192,7 +192,7 @@
       "steps": {
         "step_1": "Pon la gelatina en remojo en agua fría durante unos 5 minutos; si usas agar, sigue el hervido previsto para ese gelificante.",
         "step_2": "Prepara el café y suelta el azúcar mientras aún está caliente.",
-        "step_3": "Con gelatina, quita del fuego e incorpora las hojas bien estriadas hasta que estén completamente derretidas; con agar, haz hervir el compuesto durante el tiempo necesario para activarlo.",
+        "step_3": "Si usas gelatina, retira del fuego y añade las hojas previamente hidratadas y bien escurridas hasta que se disuelvan; si usas agar, hierve la mezcla el tiempo necesario para activarlo.",
         "step_4": "Vierte en una fuente baja o directamente en los vasos y deja que se enfríe.",
         "step_5": "Transferir a la nevera durante al menos 2 horas, hasta que la gelatina esté completamente afinada.",
         "step_6": "Si has usado un pirófila, corta el café helado en cubos regulares y repartelos en los vasos.",
@@ -264,8 +264,8 @@
       "steps": {
         "step_1": "Legen Sie die Gelee in kaltem Wasser für ca. 5 Minuten; wenn Sie Agar verwenden, folgen Sie stattdessen dem für dieses Geliermittel vorgesehenen Kochen.",
         "step_2": "Mach den Kaffee fertig und lass uns den Zucker los, während es noch warm ist.",
-        "step_3": "Mit Gelatine, entfernen Sie aus dem Feuer und enthalten die gut gestreiften Blätter, bis sie vollständig gelöst sind; mit Agar, kochen Sie die Verbindung so lange, wie es notwendig ist, um es zu aktivieren.",
-        "step_4": "Gießen Sie es in eine niedrige Pyrophilie oder direkt in die Gläser und lassen Sie es einschüchtern.",
+        "step_3": "Bei Gelatine den Topf vom Herd nehmen und die eingeweichten, gut ausgedrückten Blätter einrühren, bis sie sich auflösen; bei Agar die Mischung so lange kochen, wie es für die Aktivierung nötig ist.",
+        "step_4": "In eine flache Form oder direkt in Gläser gießen und etwas abkühlen lassen.",
         "step_5": "Legen Sie die Gelatine mindestens 2 Stunden lang in den Kühlschrank, bis die Gelee vollständig gehärtet ist.",
         "step_6": "Wenn Sie eine Pyrofile verwendet haben, schneiden Sie den gefrorenen Kaffee in regelmäßigen Würfeln und verteilen Sie sie in Gläsern.",
         "step_7": "Komplett mit frischer oder leicht montierter Sahne und einer Vanilleeiskugel unmittelbar vor dem Servieren."

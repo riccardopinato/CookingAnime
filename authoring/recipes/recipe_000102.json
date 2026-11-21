@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000102",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -225,7 +225,7 @@
       },
       "steps": {
         "step_1": "En un tazón, golpeas suavemente los huevos con el dashi, el mirin, la salsa de soja y la sal sin montarlos.",
-        "step_2": "Filtra el compuesto con un colador para que sea perfectamente homogéneo.",
+        "step_2": "Cuela la mezcla con un colador fino para que quede perfectamente homogénea.",
         "step_3": "Unge una sartén rectangular (makiyakinabe) con papel absorbente empapado en aceite de fuego medio-bajo.",
         "step_4": "Añade una fina capa de huevo, haz raptar ligeramente y enrollalo hacia ti.",
         "step_5": "Mueve el rollo al fondo, unge la sartén de nuevo y añade otra capa para que el huevo fluya por debajo del rollo.",
@@ -313,7 +313,7 @@
       },
       "steps": {
         "step_1": "In einer Schüssel knallen Sie vorsichtig die Eier mit dem Dashi, Mirin, Sojasoße und Salz, ohne sie zu montieren.",
-        "step_2": "Filtern Sie die Verbindung mit einem Colino, um es perfekt homogen zu machen.",
+        "step_2": "Die Eimischung durch ein feines Sieb gießen, damit sie gleichmäßig und glatt wird.",
         "step_3": "Fügen Sie eine rechteckige Pfanne (makiyakinabe) mit Öltupfer bei mittlerer bis niedriger Hitze.",
         "step_4": "Fügen Sie eine dünne Schicht Ei hinzu, lassen Sie es leicht packen und rollen Sie es zu sich.",
         "step_5": "Legen Sie die Rolle auf den Boden, salben Sie die Pfanne wieder und fügen Sie eine andere Schicht hinzu, indem Sie das Ei unter die Rolle gießen.",

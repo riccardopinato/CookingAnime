@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000085",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -192,10 +192,10 @@
       "steps": {
         "step_1": "Pon en una olla antiadherente amalgama en frío la harina de Warabimochi, el azúcar y el agua hasta que el almidón se derrita completamente sin grumos.",
         "step_2": "Pon la olla sobre fuego medio-bajo y amalgama continuamente con una espátula de silicona.",
-        "step_3": "El compuesto pasa de líquido blanco mate a una masa gelificada transparente, brillante y muy elástica (aproximadamente 5-7 minutos).",
+        "step_3": "La mezcla pasará de ser un líquido blanco opaco a una masa gelatinosa transparente, brillante y muy elástica en unos 5–7 minutos.",
         "step_4": "Prepara un tazón grande con agua y cubitos de hielo.",
-        "step_5": "Transfiera el compuesto gelatinoso caliente a cucharadas al agua helada para que se enfríe y se enfríe instantáneamente.",
-        "step_6": "Rompe o corta el compuesto gelatinoso frío a cubos translúcidos con las manos directamente en el agua fría.",
+        "step_5": "Pasa cucharadas de la masa gelatinosa caliente al agua con hielo para que cuaje y se enfríe rápidamente.",
+        "step_6": "Corta o separa la masa gelatinosa ya fría en dados translúcidos directamente dentro del agua fría.",
         "step_7": "Escurrir los cubos de Warabi Mochi, colocarlos en los platillos y espolvorear abundantemente con la harina de Kinako y la cola de jarabe de Kuromitsu dulce."
       }
     },
@@ -264,7 +264,7 @@
       "steps": {
         "step_1": "Legen Sie Warabimochi Mehl, Zucker und Wasser kalt in einen klebrigen Amalgamtopf, bis sich die Stärke vollständig ohne Klumpen auflöst.",
         "step_2": "Legen Sie den Topf auf mittlerem bis niedrigem Feuer und Amalgam kontinuierlich mit einem Silikonspachtel.",
-        "step_3": "Die Verbindung wird von einer undurchsichtigen, weißen Flüssigkeit zu einer durchsichtigen, glänzenden und sehr elastischen Gelmasse (ca. 5-7 Minuten) geleitet.",
+        "step_3": "Die zunächst milchig-weiße Flüssigkeit wird nach etwa 5–7 Minuten zu einer durchsichtigen, glänzenden und elastischen Gelmasse.",
         "step_4": "Bereite eine große Schüssel mit Wasser und Eiswürfeln vor.",
         "step_5": "Legen Sie die heiße Geleeverbindung in Löffel in das Eiswasser, um es sofort zu kühlen und abzukühlen.",
         "step_6": "Brechen oder schneiden Sie die kalte Geleeverbindung in durchsichtige Würfel mit den Händen direkt im kalten Wasser.",

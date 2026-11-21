@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000109",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -192,9 +192,9 @@
       "steps": {
         "step_1": "Mezcla la leche, el azúcar y sube a una olla y calientalos a fuego medio hasta que el azúcar esté completamente disuelto, sin hervir.",
         "step_2": "Incorpora la pasta de sésamo negra con unas varillas hasta obtener una base uniforme y sin grumos.",
-        "step_3": "Enfría rápidamente el compuesto, primero a temperatura ambiente y luego en la nevera hasta que esté bien frío.",
+        "step_3": "Enfría la mezcla primero brevemente y después en el frigorífico hasta que esté bien fría.",
         "step_4": "Monta la crema hasta una textura suave, no demasiado firme.",
-        "step_5": "Inserta la crema en la base de sésamo en dos o tres veces con movimientos delicados, manteniendo el compuesto aireado.",
+        "step_5": "Incorpora la nata montada a la base de sésamo en dos o tres tandas, con movimientos suaves para mantener la mezcla aireada.",
         "step_6": "Con heladera, mantén hasta la consistencia prevista por el fabricante y transfiere al congelador para estabilizar.",
         "step_7": "Sin heladera, se congela en un contenedor bajo y se mezcla vigorosamente cada 30 minutos durante aproximadamente 2 horas, luego deja reposar completamente antes de servir."
       }
@@ -264,7 +264,7 @@
       "steps": {
         "step_1": "Mischen Sie Milch, Zucker und Salz in einen Topf und erwärmen Sie sie bei mittlerer Hitze, bis der Zucker vollständig gelöst ist, ohne kochen zu lassen.",
         "step_2": "Die schwarze Sesampaste mit einem Schneebesen gründlich einrühren, bis eine glatte, klümpchenfreie Mischung entsteht.",
-        "step_3": "Kühlen Sie die Verbindung schnell, zuerst bei Raumtemperatur und dann im Kühlschrank, bis es kalt ist.",
+        "step_3": "Die Mischung zunächst etwas abkühlen lassen und anschließend im Kühlschrank vollständig durchkühlen.",
         "step_4": "Sahne bis zu einer weichen, nicht zu stillen Textur.",
         "step_5": "Fügen Sie die Sahne an der Sesambasis in zwei oder drei Mal mit sanften Bewegungen ein und halten Sie die luftige Verbindung.",
         "step_6": "Mit Eisdiele, manteca bis zu der vom Hersteller erwarteten Konsistenz und ziehen Sie in den Gefrierschrank, um zu stabilisieren.",

@@ -2773,7 +2773,7 @@
       "stepTexts": {
         "step_1": "En una sartén, la cebolla picada con un hilo de aceite hasta que se vuelva dorada y suave, déjala enfriar completamente.",
         "step_2": "En un cuenco grande, une la carne picada, la cebolla enfriada, el panko suavizado en la leche, el huevo, la sal, la pimienta y un polvo de nuez moscada.",
-        "step_3": "Amasa vigorosamente a mano durante 3-4 minutos hasta que el compuesto se vuelva compacto y ligeramente pegajoso.",
+        "step_3": "Amasa la mezcla con energía durante 3–4 minutos, hasta que quede compacta y ligeramente pegajosa.",
         "step_4": "Divide la masa en dos grandes albóndigas ovaladas.",
         "step_5": "Pasa la masa de una mano a otra para eliminar las burbujas de aire internas.",
         "step_6": "Practica una ligera presión en el centro de cada hamburguesa con el pulgar (evitará que se hincha excesivamente durante la cocción).",
@@ -2998,7 +2998,7 @@
         "step_7": "Forma 4 bolas de cada plato de color (consigue 4 bolas verdes, 4 blancas y 4 rosas).",
         "step_8": "Cocine las bolas en agua hirviendo divididas por color (antes blancas, luego rosas, finalmente verdes) durante unos 2-3 minutos desde que suben a la superficie.",
         "step_9": "Ponlas en agua helada.",
-        "step_10": "Apuñala en cada broche de bambú una bola verde en la parte inferior, una bola blanca en el centro y una bola rosa en la parte superior.",
+        "step_10": "Ensarta en cada brocheta de bambú una bolita verde abajo, una blanca en el centro y una rosa arriba.",
         "step_11": "Trae a la mesa a temperatura ambiente."
       }
     },
@@ -3226,7 +3226,7 @@
       "stepTexts": {
         "step_1": "Limpia las verduras y los hongos.",
         "step_2": "Corta la col china en trozos de tamaño medio y los hongos Shiitake haciendo una incisión en cruz en la capilla.",
-        "step_3": "En un tazón, estemper la pasta de sésamo negra con el miso, el mirin y la salsa de soja, añadiendo a hilo un cucharón de caldo dashi caliente hasta obtener un compuesto fluido y homogéneo.",
+        "step_3": "En un cuenco, mezcla la pasta de sésamo negro con el miso, el mirin y la salsa de soja; incorpora poco a poco un cucharón de dashi caliente hasta obtener una salsa fluida y homogénea.",
         "step_4": "En una olla, de terracota (o cacerola grande), sistema radiante las hojas de col china, el tofu, los hongos Enoki y los Shiitake.",
         "step_5": "En el centro coloca las rodajas de vientre de cerdo enrolladas ligeramente.",
         "step_6": "Añadir el restante caldo Dashi y la mezcla al sésamo negro sobre los ingredientes.",
@@ -3369,7 +3369,7 @@
       "stepTexts": {
         "step_1": "En una sartén de rosa, la cebolla picada con una gota de aceite hasta que se vuelva transparente y dorada, enfríe completamente.",
         "step_2": "En un cuenco grande, une la carne picada, la cebolla fría, el huevo, el pan rallado suavizado en la leche, sal, pimienta y nuez moscada.",
-        "step_3": "Amasa vigorosamente a mano hasta que el compuesto se vuelva pegajoso y homogéneo.",
+        "step_3": "Amasa enérgicamente la mezcla con las manos hasta que esté pegajosa y homogénea.",
         "step_4": "Divide la masa en cuatro porciones ovaladas.",
         "step_5": "Pasa la carne de una mano a la otra golpeándola suavemente para eliminar cualquier burbuja de aire interior que haría que la chuleta se rompiera durante la cocción.",
         "step_6": "Pasa cada chuleta primero en la harina, luego en el huevo batido y finalmente cubre generosamente de Panko presionando ligeramente con los dedos para que las migajas se adhieran bien.",
@@ -4334,7 +4334,7 @@
         "step_5": "Combina la mayonesa Kewpie, la leche, el azúcar, una pizca de sal y pimienta.",
         "step_6": "Mezcla bien hasta obtener una consistencia untada.",
         "step_7": "Pon un velo de mantequilla suave en las rebanadas de pan.",
-        "step_8": "Pon medio huevo duro en el centro de la rebanada y cubre generosamente con el compuesto de huevos aplastados.",
+        "step_8": "Coloca medio huevo cocido en el centro de la rebanada y cúbrelo generosamente con la mezcla de huevo triturado.",
         "step_9": "Cúbrete con la segunda rebanada de pan.",
         "step_10": "Presiona ligeramente el sándwich, luego envuélvelo en película durante 5 minutos.",
         "step_11": "Córtalo a la mitad exactamente en el centro del huevo para revelar la sección decorativa."
@@ -4563,10 +4563,10 @@
       "stepTexts": {
         "step_1": "Pon en una olla antiadherente amalgama en frío la harina de Warabimochi, el azúcar y el agua hasta que el almidón se derrita completamente sin grumos.",
         "step_2": "Pon la olla sobre fuego medio-bajo y amalgama continuamente con una espátula de silicona.",
-        "step_3": "El compuesto pasa de líquido blanco mate a una masa gelificada transparente, brillante y muy elástica (aproximadamente 5-7 minutos).",
+        "step_3": "La mezcla pasará de ser un líquido blanco opaco a una masa gelatinosa transparente, brillante y muy elástica en unos 5–7 minutos.",
         "step_4": "Prepara un tazón grande con agua y cubitos de hielo.",
-        "step_5": "Transfiera el compuesto gelatinoso caliente a cucharadas al agua helada para que se enfríe y se enfríe instantáneamente.",
-        "step_6": "Rompe o corta el compuesto gelatinoso frío a cubos translúcidos con las manos directamente en el agua fría.",
+        "step_5": "Pasa cucharadas de la masa gelatinosa caliente al agua con hielo para que cuaje y se enfríe rápidamente.",
+        "step_6": "Corta o separa la masa gelatinosa ya fría en dados translúcidos directamente dentro del agua fría.",
         "step_7": "Escurrir los cubos de Warabi Mochi, colocarlos en los platillos y espolvorear abundantemente con la harina de Kinako y la cola de jarabe de Kuromitsu dulce."
       }
     },
@@ -4621,7 +4621,7 @@
         "step_2": "Colocar la harina y la levadura y unirlos a las yemas mediante la mezcla hasta obtener una masa lisa.",
         "step_3": "En un tazón muy limpio, monta las claras con unas varillass eléctricos, añadiendo el azúcar en tres tomas hasta obtener un merengue brillante y estable, con picos firmes pero sin secarse.",
         "step_4": "Inserta 1/3 del merengue en la masa de yemas con la espátula para suavizarla.",
-        "step_5": "Añade el resto del merengue mezclando suavemente de abajo a arriba para no desmontar el compuesto.",
+        "step_5": "Incorpora el resto del merengue con movimientos envolventes de abajo arriba para no perder el aire de la mezcla.",
         "step_6": "Unge una sartén antiadherente con poca mantequilla a fuego muy bajo.",
         "step_7": "Crea colinas altas de pasta.",
         "step_8": "Une 1 cucharadita de agua al fondo de la sartén y cubre inmediatamente con una tapa alta.",
@@ -4748,7 +4748,7 @@
         "step_1": "Lava juntos el arroz glutinoso y el arroz normal hasta que el agua se límpie.",
         "step_2": "Cuece el arroz en una arrocera o en una olla con 280 ml de agua durante 15 minutos desde que empiece a hervir.",
         "step_3": "Deja reposar durante 10 minutos.",
-        "step_4": "Con un palillo de madera (Kine) o una cucharada aplasta el arroz caliente en la olla hasta que los granos están parcialmente deshechos y el compuesto se vuelve pegajoso y compacto (sin reducirlo completamente a puré).",
+        "step_4": "Con un mazo de madera (kine) o una cuchara, machaca el arroz caliente en la olla hasta que los granos queden parcialmente deshechos y la masa resulte pegajosa y compacta, sin convertirla por completo en puré.",
         "step_5": "Divide el arroz en 6 porciones ovaladas con las manos húmedas.",
         "step_6": "Toma una porción de mermelada de alubias rojas Anko (cerca de 40g), aplanala en la palma de la mano protegida con película transparente.",
         "step_7": "Pon el oval de arroz en el centro de la pasta de Anko y envuelve el Anko alrededor del arroz ayudándote con la película hasta cubrirlo completamente.",
@@ -5378,7 +5378,7 @@
       },
       "stepTexts": {
         "step_1": "En un tazón, golpeas suavemente los huevos con el dashi, el mirin, la salsa de soja y la sal sin montarlos.",
-        "step_2": "Filtra el compuesto con un colador para que sea perfectamente homogéneo.",
+        "step_2": "Cuela la mezcla con un colador fino para que quede perfectamente homogénea.",
         "step_3": "Unge una sartén rectangular (makiyakinabe) con papel absorbente empapado en aceite de fuego medio-bajo.",
         "step_4": "Añade una fina capa de huevo, haz raptar ligeramente y enrollalo hacia ti.",
         "step_5": "Mueve el rollo al fondo, unge la sartén de nuevo y añade otra capa para que el huevo fluya por debajo del rollo.",
@@ -5511,7 +5511,7 @@
       },
       "stepTexts": {
         "step_1": "Suelte el shiratamako en el agua hasta eliminar los grumos, luego inserte al shiroan en una sartén antiadherente.",
-        "step_2": "Cocer a fuego muy bajo mezclando y aplastando el compuesto hasta que pierde humedad, se vuelve elástico y se separa de la sartén.",
+        "step_2": "Cuece a fuego muy bajo mientras remueves y aplastas la masa, hasta que pierda humedad, se vuelva elástica y se despegue de la sartén.",
         "step_3": "Transfiera la masa a una bandeja y échela varias veces mientras se enfría para obtener una masa lisa y uniforme.",
         "step_4": "Divídelo en las porciones necesarias y colorea pequeñas partes con cantidades mínimas de colorante, amasando hasta que el tinte sea homogéneo.",
         "step_5": "Forma cuatro bolas de anko de alrededor de 15 g cada una y manténlas cubiertas para que no se sequen.",
@@ -5666,9 +5666,9 @@
       "stepTexts": {
         "step_1": "Mezcla la leche, el azúcar y sube a una olla y calientalos a fuego medio hasta que el azúcar esté completamente disuelto, sin hervir.",
         "step_2": "Incorpora la pasta de sésamo negra con unas varillas hasta obtener una base uniforme y sin grumos.",
-        "step_3": "Enfría rápidamente el compuesto, primero a temperatura ambiente y luego en la nevera hasta que esté bien frío.",
+        "step_3": "Enfría la mezcla primero brevemente y después en el frigorífico hasta que esté bien fría.",
         "step_4": "Monta la crema hasta una textura suave, no demasiado firme.",
-        "step_5": "Inserta la crema en la base de sésamo en dos o tres veces con movimientos delicados, manteniendo el compuesto aireado.",
+        "step_5": "Incorpora la nata montada a la base de sésamo en dos o tres tandas, con movimientos suaves para mantener la mezcla aireada.",
         "step_6": "Con heladera, mantén hasta la consistencia prevista por el fabricante y transfiere al congelador para estabilizar.",
         "step_7": "Sin heladera, se congela en un contenedor bajo y se mezcla vigorosamente cada 30 minutos durante aproximadamente 2 horas, luego deja reposar completamente antes de servir."
       }
@@ -5966,9 +5966,9 @@
       "stepTexts": {
         "step_1": "Lava y cepilla la bardana, córtala en fósforo y ponla en agua durante unos 5 minutos para limitar la oxidación y atenuar la astringencia.",
         "step_2": "Corta la zanahoria en palitos del mismo tamaño y escurrir muy bien la bardana.",
-        "step_3": "Calienta el aceite de sésamo en la sartén y salta bardana y zanahoria a fuego medio-alto durante 3-4 minutos.",
+        "step_3": "Calienta el aceite de sésamo en la sartén y saltea la bardana y la zanahoria a fuego medio-alto durante 3–4 minutos.",
         "step_4": "Añade azúcar y mirin y mezcla hasta que el azúcar se derrita y las verduras empiezan a glasearse.",
-        "step_5": "Vierte la salsa de soja y sigue saltando hasta que el líquido esté casi totalmente evaporado.",
+        "step_5": "Añade la salsa de soja y sigue salteando hasta que casi todo el líquido se haya evaporado.",
         "step_6": "Prueba: la bardana debe ser cocida pero todavía ligeramente crujiente.",
         "step_7": "Completa con sésamo tostada y shichimi togarashi y sirvientes calientes, tibios o a temperatura ambiente."
       }
@@ -6196,7 +6196,7 @@
         "step_1": "Corta la col y la zanahoria, corta el cerdo en bocados y separa los fideos yakisoba con las manos.",
         "step_2": "Calienta una sartén grande, dora el cerdo y añade la zanahoria, la col y los brotes, si los utilizas. Saltea hasta que las verduras empiecen a ablandarse.",
         "step_3": "Añadir fideos y algunas cucharadas de agua, cubrir durante 1-2 minutos y luego separarlos completamente.",
-        "step_4": "Sazona con salsa yakisoba y salta hasta que el fondo esté seco y los fideos estén bien revestidos; guarda el calor.",
+        "step_4": "Añade la salsa yakisoba y saltea hasta que se evapore el exceso de líquido y los fideos queden bien cubiertos; reserva caliente.",
         "step_5": "Echa los huevos con leche y una pizca de sal, luego cocina en una sartén limpia una tortilla fina aún suave en el centro.",
         "step_6": "Pon una porción de yaquisoba en el centro de la tortilla, dobla los bordes y vuelca sobre el plato con el cierre hacia abajo.",
         "step_7": "Completa con salsa yakisoba, mayonesa Kewpie y aonori; añade bienes shoga o katsoubushi si estás previsto.",
@@ -6239,7 +6239,7 @@
       },
       "stepTexts": {
         "step_1": "Ponga el molde y prepare una bandeja más grande para el baño María; precaliente el horno a 150-160 °C.",
-        "step_2": "Disuelve al baño maria queso esparcida, mantequilla y leche hasta que el compuesto esté liso, luego deja entibiar.",
+        "step_2": "Derrite al baño María el queso crema, la mantequilla y la leche hasta obtener una mezcla lisa; deja que se temple.",
         "step_3": "Envuelve las yemas uno a la vez y añade harina y almidón tambaleados, mezclando sólo hasta eliminar los grumos.",
         "step_4": "Monta las claras y añade el azúcar en varias ocasiones hasta obtener un merengue brillante con picos suaves-medios, no excesivamente rígidos.",
         "step_5": "Inserta un tercio del merengue en la base para aliviarlo, luego une el resto con movimientos desde abajo hacia arriba.",
@@ -6840,7 +6840,7 @@
         "step_1": "Corta las berenjenas a la mitad por el tiempo y encimera la piel con cortes diagonales poco profundos, de modo que absorben el condimento sin desvanecerse.",
         "step_2": "Seca bien y lleva el aceite a unos 170 °C.",
         "step_3": "Freír las berenjenas durante 3-4 minutos, girarlas una vez, hasta que la pulpa sea suave y la piel brillante.",
-        "step_4": "Escolar sobre rejilla o papel absorbente sin aplastarlas.",
+        "step_4": "Escúrrelas sobre una rejilla o papel absorbente sin aplastarlas.",
         "step_5": "Lleva a bucear dashi, salsa de soja y mirin durante 1-2 minutos.",
         "step_6": "Pon las berenjenas calientes en un recipiente y vierte sobre él el caldo, dejándolas sazonar al menos 10 minutos.",
         "step_7": "Servir tibio o a temperatura ambiente con daikon rallado y jengibre fresco."
@@ -6927,7 +6927,7 @@
       "stepTexts": {
         "step_1": "Suelta los udon en agua hirviendo durante aproximadamente 1 minuto; escúrrelos y sepáralos con cuidado para que no se rompan.",
         "step_2": "Corta la col, la zanahoria y la cebolla en trozos delgados y prepara las salsas antes de calentar el wok.",
-        "step_3": "Calienta el aceite de sésamo a fuego alto y salta primero cebolla y zanahoria durante 1-2 minutos.",
+        "step_3": "Calienta el aceite de sésamo a fuego alto y saltea primero la cebolla y la zanahoria durante 1–2 minutos.",
         "step_4": "Añade la col y continúa cocinando durante 2 minutos más, dejando las verduras ligeramente crujientes.",
         "step_5": "Añade los udon y saltéalos a fuego fuerte hasta que estén bien calientes.",
         "step_6": "Verter salsa yaquisoba/tonkatsu y salsa de soja a lo largo del borde caliente del wok y mezclar rápidamente para cubrir todos los fideos.",
@@ -7112,9 +7112,9 @@
       "stepTexts": {
         "step_1": "Pon la gelatina en agua muy fría durante unos 10 minutos, hasta que esté completamente suave.",
         "step_2": "Mezcla leche, nata, azúcar y pasta de sésamo negro en una olla.",
-        "step_3": "Caliente a fuego bajo mezclando con las varillas hasta que el compuesto es uniforme y el azúcar se disuelve, sin llegar a hervir.",
+        "step_3": "Calienta a fuego bajo y remueve con unas varillas hasta obtener una mezcla uniforme y disolver el azúcar, sin que llegue a hervir.",
         "step_4": "Saca el fuego, aprieta bien la gelatina e incrustala hasta que esté completamente derretida.",
-        "step_5": "Filtra el compuesto a través de un colador fino para eliminar cualquier residuo y obtener una textura más suave.",
+        "step_5": "Cuela la mezcla por un colador fino para eliminar residuos y conseguir una textura más suave.",
         "step_6": "Vierta en las copas, deja encoger y mudate a la nevera por al menos 3 horas.",
         "step_7": "Guarniciones con poca crema montada y sésamo negra tostada sólo en el momento del servicio."
       }
@@ -7793,7 +7793,7 @@
       "stepTexts": {
         "step_1": "Escurrir el tofu y desmenuzarlo gruesamente; cortar daikon, zanahoria y shiitake en trozos del tamaño similar.",
         "step_2": "Calienta el aceite de sésamo en cazuela y rosola el tofu hasta que algunas partes toman color.",
-        "step_3": "Añadir daikon, zanahoria y shiitake y saltar durante unos 3 minutos.",
+        "step_3": "Añade el daikon, la zanahoria y las setas shiitake, y saltea durante unos 3 minutos.",
         "step_4": "Vierta el kombu dashi, lleva a un hervor suave y hornear cubierto durante unos 8-10 minutos, hasta que las raíces se mantienen.",
         "step_5": "Sazona con salsa de soja y mirin y prueba el caldo antes de añadir más sal.",
         "step_6": "Cuece los udon en una olla aparte durante el tiempo indicado, escúrrelos bien y repártelos entre los cuencos.",
@@ -7991,7 +7991,7 @@
         "step_2": "Mezcla el aceite de semilla y el agua tibia y sigue mezclando.",
         "step_3": "Colocar la harina junto con el té Matcha e incorpora a la mezcla de yemas con unas varillas.",
         "step_4": "En otro tazón bien limpio, monta las claras con el cremor tártaro y el resto del azúcar añadido en 3 tomas, hasta obtener una merengue bien firme y brillante.",
-        "step_5": "Inserta un tercio del merengue en el compuesto con el matcha para hacerlo más fluido, luego une suavemente el merengue restante con movimientos desde abajo hacia arriba.",
+        "step_5": "Incorpora un tercio del merengue a la mezcla de matcha para aligerarla; después añade el resto con movimientos envolventes de abajo arriba.",
         "step_6": "Vierta la masa en el molde de chiffon cake no enburrido y nivela suavemente la superficie.",
         "step_7": "Cocinar en horno estático a 160°C durante 30 minutos.",
         "step_8": "Hornear y revertir inmediatamente el molde sobre una botella o sobre el soporte adecuado; dejar enfriar completamente antes de desformar."
@@ -8041,7 +8041,7 @@
       },
       "stepTexts": {
         "step_1": "En un tazón, mezcla la leche condensada con la yema de huevo.",
-        "step_2": "Separa la harina con la levadura y únela al compuesto, amasando hasta que consigas un plato suave.",
+        "step_2": "Tamiza la harina con la levadura química e incorpórala a la mezcla, amasando hasta formar una bola de masa blanda.",
         "step_3": "Deja reposar en la nevera durante 20 minutos.",
         "step_4": "Envuelve cada castaña entera con 20 g de pasta Shiro-an creando una bola regular.",
         "step_5": "Divide la masa en 8 porciones, extendílalas en disco y envuelve las bolas de castaña y Shiro-an sellando bien los bordes y dando una forma a castaña.",
@@ -8080,7 +8080,7 @@
       "stepTexts": {
         "step_1": "Pon la gelatina en remojo en agua fría durante unos 5 minutos; si usas agar, sigue el hervido previsto para ese gelificante.",
         "step_2": "Prepara el café y suelta el azúcar mientras aún está caliente.",
-        "step_3": "Con gelatina, quita del fuego e incorpora las hojas bien estriadas hasta que estén completamente derretidas; con agar, haz hervir el compuesto durante el tiempo necesario para activarlo.",
+        "step_3": "Si usas gelatina, retira del fuego y añade las hojas previamente hidratadas y bien escurridas hasta que se disuelvan; si usas agar, hierve la mezcla el tiempo necesario para activarlo.",
         "step_4": "Vierte en una fuente baja o directamente en los vasos y deja que se enfríe.",
         "step_5": "Transferir a la nevera durante al menos 2 horas, hasta que la gelatina esté completamente afinada.",
         "step_6": "Si has usado un pirófila, corta el café helado en cubos regulares y repartelos en los vasos.",
@@ -8172,7 +8172,7 @@
         "step_1": "En una olla, calienta el agua con azúcar y la corteza de limón hasta que el azúcar se derrite completamente.",
         "step_2": "Deja enfriar el jarabe a temperatura ambiente.",
         "step_3": "Incorpora el jugo de Yuzu al jarabe frío y mezcla cuidadosamente.",
-        "step_4": "Añadir el compuesto en un contenedor bajo de acero y colocarlo en el congelador.",
+        "step_4": "Vierte la mezcla en un recipiente bajo de acero inoxidable y ponlo en el congelador.",
         "step_5": "Después de 1 hora, cuando el sorbete empiece a cuajar por los bordes, monta a punto de nieve únicamente la clara pasteurizada e incorpórala con unas varillas. No uses clara cruda sin pasteurizar.",
         "step_6": "Ponlo en el congelador por 3 horas más, mezclando vigorosamente con un tenedor cada 45 minutos para romper los cristales de hielo.",
         "step_7": "Servir en copas heladas decorando con hojitas de menta o rodajas de cítricos."

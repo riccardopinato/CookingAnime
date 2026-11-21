@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000054",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Spy x Family",
   "animeReferences": [
@@ -347,7 +347,7 @@
       "steps": {
         "step_1": "En una sartén, la cebolla picada con un hilo de aceite hasta que se vuelva dorada y suave, déjala enfriar completamente.",
         "step_2": "En un cuenco grande, une la carne picada, la cebolla enfriada, el panko suavizado en la leche, el huevo, la sal, la pimienta y un polvo de nuez moscada.",
-        "step_3": "Amasa vigorosamente a mano durante 3-4 minutos hasta que el compuesto se vuelva compacto y ligeramente pegajoso.",
+        "step_3": "Amasa la mezcla con energía durante 3–4 minutos, hasta que quede compacta y ligeramente pegajosa.",
         "step_4": "Divide la masa en dos grandes albóndigas ovaladas.",
         "step_5": "Pasa la masa de una mano a otra para eliminar las burbujas de aire internas.",
         "step_6": "Practica una ligera presión en el centro de cada hamburguesa con el pulgar (evitará que se hincha excesivamente durante la cocción).",
@@ -487,7 +487,7 @@
       "steps": {
         "step_1": "In einer Pfanne Rosoli die Zwiebel mit einem Draht aus Öl gehackt, bis sie goldig und weich wird, lassen Sie sie vollständig abkühlen.",
         "step_2": "In einer großen Schüssel mischen Sie das Hackfleisch, die gekühlte Zwiebel, den weichgemachten Panko in der Milch, das Ei, Salz, Pfeffer und einen Staub Muskatnuss.",
-        "step_3": "Es klemmt 3-4 Minuten lang kräftig von Hand, bis die Verbindung kompakt und leicht klebrig wird.",
+        "step_3": "Die Masse 3–4 Minuten kräftig von Hand kneten, bis sie fest und leicht klebrig ist.",
         "step_4": "Teilen Sie den Teig in zwei große ovale Fleischbällchen.",
         "step_5": "Wechseln Sie den Teig von Hand zu Hand, um die inneren Luftblasen zu entfernen.",
         "step_6": "Üben Sie einen leichten Druck in der Mitte jedes Hamburger mit Ihrem Daumen (es wird vermeiden, dass es übermäßig während des Kochens geschwollen).",
@@ -555,7 +555,7 @@
         }
       },
       "steps": {
-        "step_1": "Numa frigideira, marrom a cebola picada com um pouco de óleo até que se torne dourada e macia, deixe esfriar completamente.",
+        "step_1": "Numa frigideira, refogue a cebola picada num fio de óleo até ficar dourada e macia; deixe arrefecer completamente.",
         "step_2": "Em uma tigela grande, misturar a carne picada, a cebola refrigerada, o panko amolecido no leite, o ovo, o sal, a pimenta e um copo de noz- moscada.",
         "step_3": "Ele amassa vigorosamente à mão por 3-4 minutos até que a mistura se torne compacta e ligeiramente pegajosa.",
         "step_4": "Divida a massa em duas almôndegas ovais grandes.",

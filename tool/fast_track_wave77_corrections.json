@@ -1,0 +1,367 @@
+{
+  "planVersion": 1,
+  "sourceLocale": "it",
+  "supportedLocales": [
+    "it",
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt"
+  ],
+  "scopeRange": [
+    51,
+    162
+  ],
+  "excludedAlreadyRepaired": [
+    53,
+    55,
+    57,
+    60,
+    61,
+    63,
+    66,
+    67,
+    71,
+    72,
+    73,
+    75,
+    76,
+    78,
+    79,
+    82,
+    83,
+    90,
+    92,
+    98,
+    100,
+    108,
+    112,
+    114,
+    118,
+    123,
+    130,
+    131,
+    133,
+    134,
+    138,
+    147,
+    149,
+    151,
+    156
+  ],
+  "scopeIds": [
+    51,
+    52,
+    54,
+    56,
+    58,
+    59,
+    62,
+    64,
+    65,
+    68,
+    69,
+    70,
+    74,
+    77,
+    80,
+    81,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    91,
+    93,
+    94,
+    95,
+    96,
+    97,
+    99,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    109,
+    110,
+    111,
+    113,
+    115,
+    116,
+    117,
+    119,
+    120,
+    121,
+    122,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    132,
+    135,
+    136,
+    137,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    148,
+    150,
+    152,
+    153,
+    154,
+    155,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162
+  ],
+  "mode": "SOURCE_LOCKED_OFFLINE_VERIFIABLE_CORRECTIONS_NOT_FULL_SEMANTIC_CERTIFICATION",
+  "fixes": {
+    "recipe_000054": {
+      "es": {
+        "step_3": "Amasa la mezcla con energía durante 3–4 minutos, hasta que quede compacta y ligeramente pegajosa."
+      },
+      "de": {
+        "step_3": "Die Masse 3–4 Minuten kräftig von Hand kneten, bis sie fest und leicht klebrig ist."
+      },
+      "pt": {
+        "step_1": "Numa frigideira, refogue a cebola picada num fio de óleo até ficar dourada e macia; deixe arrefecer completamente."
+      }
+    },
+    "recipe_000058": {
+      "es": {
+        "step_10": "Ensarta en cada brocheta de bambú una bolita verde abajo, una blanca en el centro y una rosa arriba."
+      }
+    },
+    "recipe_000062": {
+      "es": {
+        "step_3": "En un cuenco, mezcla la pasta de sésamo negro con el miso, el mirin y la salsa de soja; incorpora poco a poco un cucharón de dashi caliente hasta obtener una salsa fluida y homogénea."
+      }
+    },
+    "recipe_000064": {
+      "en": {
+        "step_5": "Gently toss the meat mixture between your hands to remove trapped air, so the patties hold together during cooking."
+      },
+      "es": {
+        "step_3": "Amasa enérgicamente la mezcla con las manos hasta que esté pegajosa y homogénea."
+      },
+      "de": {
+        "step_3": "Die Fleischmasse kräftig von Hand durchkneten, bis sie klebrig und gleichmäßig vermischt ist."
+      }
+    },
+    "recipe_000081": {
+      "es": {
+        "step_8": "Coloca medio huevo cocido en el centro de la rebanada y cúbrelo generosamente con la mezcla de huevo triturado."
+      }
+    },
+    "recipe_000085": {
+      "es": {
+        "step_3": "La mezcla pasará de ser un líquido blanco opaco a una masa gelatinosa transparente, brillante y muy elástica en unos 5–7 minutos.",
+        "step_5": "Pasa cucharadas de la masa gelatinosa caliente al agua con hielo para que cuaje y se enfríe rápidamente.",
+        "step_6": "Corta o separa la masa gelatinosa ya fría en dados translúcidos directamente dentro del agua fría."
+      },
+      "de": {
+        "step_3": "Die zunächst milchig-weiße Flüssigkeit wird nach etwa 5–7 Minuten zu einer durchsichtigen, glänzenden und elastischen Gelmasse."
+      }
+    },
+    "recipe_000086": {
+      "es": {
+        "step_5": "Incorpora el resto del merengue con movimientos envolventes de abajo arriba para no perder el aire de la mezcla."
+      },
+      "de": {
+        "step_4": "Ein Drittel des Eischnees mit einem Teigschaber unter die Eigelbmasse heben, um sie aufzulockern.",
+        "step_5": "Den restlichen Eischnee vorsichtig von unten nach oben unterheben, damit die Masse luftig bleibt."
+      }
+    },
+    "recipe_000089": {
+      "es": {
+        "step_4": "Con un mazo de madera (kine) o una cuchara, machaca el arroz caliente en la olla hasta que los granos queden parcialmente deshechos y la masa resulte pegajosa y compacta, sin convertirla por completo en puré."
+      },
+      "de": {
+        "step_4": "Den heißen Reis im Topf mit einem Holzstößel (kine) oder einem Löffel zerdrücken, bis die Körner teilweise zerfallen und die Masse klebrig und kompakt wird, ohne sie vollständig zu pürieren."
+      }
+    },
+    "recipe_000097": {
+      "en": {
+        "step_2": "Heat the oil to about 170°C in a deep pot and set a wire rack nearby for draining the fried pieces."
+      },
+      "de": {
+        "step_4": "Nur so viel Teig zugeben, dass Gemüse und Garnelen zusammenhalten; die Mischung soll nicht zu einem schweren Teigklumpen werden."
+      }
+    },
+    "recipe_000102": {
+      "es": {
+        "step_2": "Cuela la mezcla con un colador fino para que quede perfectamente homogénea."
+      },
+      "de": {
+        "step_2": "Die Eimischung durch ein feines Sieb gießen, damit sie gleichmäßig und glatt wird."
+      }
+    },
+    "recipe_000105": {
+      "es": {
+        "step_2": "Cuece a fuego muy bajo mientras remueves y aplastas la masa, hasta que pierda humedad, se vuelva elástica y se despegue de la sartén."
+      },
+      "de": {
+        "step_2": "Bei sehr niedriger Hitze unter ständigem Rühren und Zerdrücken garen, bis die Masse Feuchtigkeit verliert, elastisch wird und sich von der Pfanne löst."
+      }
+    },
+    "recipe_000109": {
+      "es": {
+        "step_3": "Enfría la mezcla primero brevemente y después en el frigorífico hasta que esté bien fría.",
+        "step_5": "Incorpora la nata montada a la base de sésamo en dos o tres tandas, con movimientos suaves para mantener la mezcla aireada."
+      },
+      "de": {
+        "step_3": "Die Mischung zunächst etwas abkühlen lassen und anschließend im Kühlschrank vollständig durchkühlen."
+      }
+    },
+    "recipe_000116": {
+      "es": {
+        "step_3": "Calienta el aceite de sésamo en la sartén y saltea la bardana y la zanahoria a fuego medio-alto durante 3–4 minutos.",
+        "step_5": "Añade la salsa de soja y sigue salteando hasta que casi todo el líquido se haya evaporado."
+      },
+      "fr": {
+        "step_3": "Chauffez l’huile de sésame dans la poêle et faites revenir la bardane et la carotte à feu moyen-vif pendant 3 à 4 minutes."
+      },
+      "de": {
+        "step_3": "Sesamöl in einer Pfanne erhitzen und Klettenwurzel und Karotte bei mittlerer bis hoher Hitze 3–4 Minuten unter Rühren anbraten.",
+        "step_5": "Die Sojasauce zugeben und unter Rühren weiterbraten, bis die Flüssigkeit fast vollständig verdampft ist."
+      },
+      "pt": {
+        "step_3": "Aqueça o óleo de sésamo numa frigideira e salteie a raiz de bardana e a cenoura em lume médio-alto durante 3–4 minutos."
+      }
+    },
+    "recipe_000117": {
+      "de": {
+        "step_2": "Für die Namban-Sauce Sojasauce, Reisessig, Mirin und Zucker kurz aufkochen und anschließend etwas abkühlen lassen."
+      }
+    },
+    "recipe_000120": {
+      "en": {
+        "step_4": "Add the yakisoba sauce and stir-fry until excess liquid evaporates and the noodles are evenly coated; keep warm."
+      },
+      "es": {
+        "step_4": "Añade la salsa yakisoba y saltea hasta que se evapore el exceso de líquido y los fideos queden bien cubiertos; reserva caliente."
+      },
+      "fr": {
+        "step_2": "Chauffez une grande poêle, faites dorer le porc, puis ajoutez la carotte, le chou et les pousses éventuelles; faites sauter jusqu’à ce que les légumes commencent à s’attendrir.",
+        "step_4": "Ajoutez la sauce yakisoba et faites sauter jusqu’à évaporation de l’excès de liquide et jusqu’à ce que les nouilles soient bien enrobées; réservez au chaud."
+      },
+      "de": {
+        "step_2": "Eine große Pfanne erhitzen, das Schweinefleisch anbraten und Karotte, Kohl und gegebenenfalls Sprossen zugeben; unter Rühren braten, bis das Gemüse weich zu werden beginnt.",
+        "step_4": "Mit Yakisoba-Sauce würzen und unter Rühren weiterbraten, bis überschüssige Flüssigkeit verdampft und die Nudeln gleichmäßig überzogen sind; warm stellen."
+      },
+      "pt": {
+        "step_2": "Aqueça uma frigideira grande, aloure a carne de porco e junte a cenoura, a couve e, se usar, os rebentos; salteie até os legumes começarem a amolecer."
+      }
+    },
+    "recipe_000121": {
+      "es": {
+        "step_2": "Derrite al baño María el queso crema, la mantequilla y la leche hasta obtener una mezcla lisa; deja que se temple."
+      },
+      "de": {
+        "step_2": "Frischkäse, Butter und Milch im Wasserbad schmelzen und glatt rühren; anschließend etwas abkühlen lassen."
+      }
+    },
+    "recipe_000124": {
+      "de": {
+        "step_2": "Den japanischen Reis zubereiten, bei Verwendung von Sushi-Reis entsprechend würzen und zugedeckt etwas abkühlen lassen: Er soll lauwarm, nicht heiß sein."
+      }
+    },
+    "recipe_000127": {
+      "de": {
+        "step_5": "Etwas abkühlen lassen und mindestens 2–4 Stunden in den Kühlschrank stellen, bis die Gelatine vollständig fest geworden ist."
+      }
+    },
+    "recipe_000135": {
+      "es": {
+        "step_4": "Escúrrelas sobre una rejilla o papel absorbente sin aplastarlas."
+      }
+    },
+    "recipe_000137": {
+      "es": {
+        "step_3": "Calienta el aceite de sésamo a fuego alto y saltea primero la cebolla y la zanahoria durante 1–2 minutos."
+      },
+      "fr": {
+        "step_3": "Chauffez l’huile de sésame à feu vif et faites d’abord revenir l’oignon et la carotte pendant 1 à 2 minutes."
+      },
+      "de": {
+        "step_3": "Sesamöl bei hoher Hitze erhitzen und zuerst Zwiebel und Karotte 1–2 Minuten unter Rühren anbraten."
+      }
+    },
+    "recipe_000139": {
+      "de": {
+        "step_6": "Vor dem Servieren etwas abkühlen lassen, damit sich die Aromen gut verbinden."
+      }
+    },
+    "recipe_000141": {
+      "es": {
+        "step_3": "Calienta a fuego bajo y remueve con unas varillas hasta obtener una mezcla uniforme y disolver el azúcar, sin que llegue a hervir.",
+        "step_5": "Cuela la mezcla por un colador fino para eliminar residuos y conseguir una textura más suave."
+      },
+      "de": {
+        "step_5": "Die Mischung durch ein feines Sieb abseihen, um Rückstände zu entfernen und eine glattere Konsistenz zu erzielen.",
+        "step_6": "In kleine Gläser füllen, etwas abkühlen lassen und mindestens 3 Stunden in den Kühlschrank stellen."
+      }
+    },
+    "recipe_000144": {
+      "de": {
+        "step_8": "Vor dem Servieren einige Minuten abkühlen lassen; nicht länger garen als nötig, damit die Füllung cremig bleibt."
+      }
+    },
+    "recipe_000154": {
+      "es": {
+        "step_3": "Añade el daikon, la zanahoria y las setas shiitake, y saltea durante unos 3 minutos."
+      },
+      "de": {
+        "step_3": "Daikon, Karotte und Shiitake zugeben und etwa 3 Minuten unter Rühren anbraten."
+      },
+      "pt": {
+        "step_3": "Junte o daikon, a cenoura e os shiitake e salteie durante cerca de 3 minutos."
+      }
+    },
+    "recipe_000158": {
+      "en": {
+        "step_5": "Fold one third of the meringue into the matcha mixture to loosen it, then gently fold in the remaining meringue with upward movements to preserve the air."
+      },
+      "es": {
+        "step_5": "Incorpora un tercio del merengue a la mezcla de matcha para aligerarla; después añade el resto con movimientos envolventes de abajo arriba."
+      }
+    },
+    "recipe_000159": {
+      "es": {
+        "step_2": "Tamiza la harina con la levadura química e incorpórala a la mezcla, amasando hasta formar una bola de masa blanda."
+      }
+    },
+    "recipe_000160": {
+      "es": {
+        "step_3": "Si usas gelatina, retira del fuego y añade las hojas previamente hidratadas y bien escurridas hasta que se disuelvan; si usas agar, hierve la mezcla el tiempo necesario para activarlo."
+      },
+      "de": {
+        "step_3": "Bei Gelatine den Topf vom Herd nehmen und die eingeweichten, gut ausgedrückten Blätter einrühren, bis sie sich auflösen; bei Agar die Mischung so lange kochen, wie es für die Aktivierung nötig ist.",
+        "step_4": "In eine flache Form oder direkt in Gläser gießen und etwas abkühlen lassen."
+      }
+    },
+    "recipe_000162": {
+      "es": {
+        "step_4": "Vierte la mezcla en un recipiente bajo de acero inoxidable y ponlo en el congelador."
+      },
+      "de": {
+        "step_4": "Die Mischung in einen flachen Edelstahlbehälter füllen und ins Gefrierfach stellen."
+      }
+    }
+  }
+}
