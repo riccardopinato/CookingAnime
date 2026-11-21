@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000088",
-  "contentVersion": 3,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Cardcaptor Sakura",
   "animeReferences": [
@@ -119,7 +119,7 @@
           "note": null
         },
         "panna_fresca_liquida_da_montare_freddissima": {
-          "name": "fresh liquid cream to be mounted very cold",
+          "name": "very cold fresh whipping cream",
           "note": null
         },
         "zucchero_semolato": {
@@ -236,13 +236,13 @@
         }
       },
       "steps": {
-        "step_1": "Monta la crema fría con el azúcar y la vainilla hasta que se quede quieta y estructurada.",
+        "step_1": "Bate la nata bien fría con el azúcar y la vainilla hasta que forme picos firmes.",
         "step_2": "Unta una generosa capa de crema montada en dos rebanadas de pan.",
         "step_3": "Dispón la fruta fresca sobre la nata siguiendo la diagonal por la que cortarás el sándwich.",
         "step_4": "Orienta las fresas para que el corte muestre su característica sección en forma de corazón.",
         "step_5": "Cubre los espacios vacíos entre la fruta con otra crema montada para no dejar vacíos de aire.",
         "step_6": "Cierra con las otras rebanadas de pan.",
-        "step_7": "Envuelve estrictamente los sándwiches en la película transparente y marca con un rotulador la línea de corte diagonal.",
+        "step_7": "Envuelve bien los sándwiches en film transparente y marca la diagonal por la que vas a cortarlos.",
         "step_8": "Deja reposar en la nevera durante 20 minutos.",
         "step_9": "Corta por la mitad con un cuchillo afilado siguiendo la línea para mostrar el diseño de la fruta."
       }
@@ -328,14 +328,14 @@
         }
       },
       "steps": {
-        "step_1": "Holen Sie die kalte frische Sahne mit Zucker und Vanille, bis sie fest und strukturiert wird.",
+        "step_1": "Die gut gekühlte Sahne mit Zucker und Vanille steif schlagen.",
         "step_2": "Spreizt eine großzügige Schicht von Schlagsahne auf zwei Scheiben Brot.",
         "step_3": "Das frische Obst auf der Sahne entlang der vorgesehenen Schnittdiagonale anordnen.",
         "step_4": "Die Erdbeeren so ausrichten, dass beim Aufschneiden der typische herzförmige Querschnitt sichtbar wird.",
-        "step_5": "Bedecken Sie die leeren Räume zwischen den Früchten mit anderen Schlagsahne, um keine Luftleere zu hinterlassen.",
+        "step_5": "Die Zwischenräume zwischen den Früchten mit weiterer Schlagsahne füllen, damit keine Luftlöcher bleiben.",
         "step_6": "Schließ mit den anderen Brotscheiben.",
-        "step_7": "Wickeln Sie die Sandwiches in den transparenten Film und markieren Sie mit einem Stift die diagonale Schnittlinie.",
-        "step_8": "Lassen Sie sich 20 Minuten im Kühlschrank ausruhen.",
+        "step_7": "Die Sandwiches straff in Frischhaltefolie wickeln und die geplante diagonale Schnittlinie markieren.",
+        "step_8": "Die Sandwiches 20 Minuten im Kühlschrank ruhen lassen.",
         "step_9": "Schneide in der Mitte mit einem scharfen Messer nach der Linie, um das Fruchtdesign zu zeigen."
       }
     },
@@ -374,11 +374,11 @@
         }
       },
       "steps": {
-        "step_1": "Monte o creme frio com açúcar e baunilha até que se torne firme e estruturado.",
+        "step_1": "Bata as natas bem frias com açúcar e baunilha até formarem picos firmes.",
         "step_2": "Espalhe uma camada generosa de creme batido em duas fatias de pão.",
         "step_3": "Disponha a fruta fresca sobre as natas seguindo a diagonal por onde irá cortar a sanduíche.",
         "step_4": "Oriente os morangos de modo que, ao cortar, apresentem a característica secção em forma de coração.",
-        "step_5": "Cubra os espaços vazios entre a fruta com outro creme batido para não deixar quaisquer lacunas de ar.",
+        "step_5": "Preencha os espaços entre a fruta com mais natas batidas, evitando bolsas de ar.",
         "step_6": "Feche com as outras fatias de pão.",
         "step_7": "Enrole bem os sanduíches no filme transparente e marque a linha de corte diagonal com um marcador.",
         "step_8": "Deixe no frigorífico por 20 minutos.",

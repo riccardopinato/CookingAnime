@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000080",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -122,7 +122,7 @@
         }
       },
       "steps": {
-        "step_1": "Rinse the Sanma fish leaving them whole (the Japanese tradition includes cooking with the entrails for a pleasantly bitter taste). Sanma is Pacific saury (Cololabis saira), not pike. For home cooking buy cleaned and gutted fish or have the fishmonger prepare it; cook the fish thoroughly and check the thickest part.",
+        "step_1": "Use sanma (Pacific saury, Cololabis saira) that has already been cleaned and gutted by the fishmonger. Cook thoroughly and check the thickest part; do not leave the viscera in for this home preparation.",
         "step_2": "Insert the skin with 3 diagonal cuts on each side.",
         "step_3": "Sprinkle generously with coarse salt and let 10 minutes rest.",
         "step_4": "Drys the moisture released by the salt with absorbent paper.",
@@ -196,14 +196,14 @@
         }
       },
       "steps": {
-        "step_1": "Enjuaga los peces de Sanma dejándolos enteros (la tradición japonesa prevé la cocción con las entrañas para un gusto agradablemente amargo). El sanma es paparda del Pacífico (Cololabis saira), no lucio. Para cocinarlo en casa compra pescado limpio y eviscerado o pide que lo preparen en la pescadería; comprueba la cocción en la parte más gruesa.",
+        "step_1": "Utiliza sanma (paparda del Pacífico, Cololabis saira) ya limpio y eviscerado por el pescadero. Cuécelo completamente y comprueba la parte más gruesa; no dejes las vísceras para esta preparación doméstica.",
         "step_2": "Incide la piel con 3 cortes diagonales en cada lado.",
         "step_3": "Espolvorea generosamente de sal gruesa y deja reposar 10 minutos.",
         "step_4": "Seca la humedad de la sal con papel absorbente.",
         "step_5": "Cocine los peces sobre una parrilla ardiente o sobre la placa del horno a 220°C durante unos 6-7 minutos por lado.",
         "step_6": "Hasta que la piel se vuelve dorada, crujiente y se forman pequeñas quemaduras.",
         "step_7": "Arregla los peces enteros sobre platos rectangulares alargados.",
-        "step_8": "Acompaña con una montaña de Daikon fresco rallado ligeramente rociado con una gota de salsa de soja y un diente de limón."
+        "step_8": "Acompaña con daikon fresco rallado, unas gotas de salsa de soja y una rodaja de limón."
       }
     },
     "fr": {
@@ -233,7 +233,7 @@
         }
       },
       "steps": {
-        "step_1": "Rincer les poissons Sanma en les laissant entiers (la tradition japonaise prévoit la cuisson avec les entrailles pour un goût agréablement amer). Le sanma est le balaou du Pacifique (Cololabis saira), pas un brochet. Pour une préparation domestique, prenez du poisson nettoyé et vidé ou faites-le préparer par le poissonnier ; vérifiez la cuisson dans la partie la plus épaisse.",
+        "step_1": "Utilisez du sanma (balaou du Pacifique, Cololabis saira) déjà nettoyé et vidé par le poissonnier. Faites-le cuire complètement et vérifiez la partie la plus épaisse ; ne conservez pas les viscères pour cette préparation domestique.",
         "step_2": "Inciter la peau avec 3 découpes diagonales de chaque côté.",
         "step_3": "Il pulvérise généreusement de gros sel et laisse reposer 10 minutes.",
         "step_4": "Sèche l'humidité libérée par le sel avec du papier absorbant.",
@@ -270,14 +270,14 @@
         }
       },
       "steps": {
-        "step_1": "Spülen Sie die Sanma Fische ganz (die japanische Tradition sieht das Kochen mit den Eingeweiden für einen angenehm bitteren Geschmack). Sanma ist Pazifischer Makrelenhecht (Cololabis saira), kein Hecht. Für die Zubereitung zu Hause ausgenommenen, gesäuberten Fisch kaufen oder beim Fischhändler ausnehmen lassen; die Garung an der dicksten Stelle prüfen.",
-        "step_2": "Berühren Sie die Haut mit 3 diagonalen Schnitten auf jeder Seite.",
+        "step_1": "Bereits gesäuberten und ausgenommenen Sanma (Pazifischer Makrelenhecht, Cololabis saira) verwenden. Den Fisch vollständig garen und die dickste Stelle prüfen; die Innereien bei dieser Zubereitung nicht belassen.",
+        "step_2": "Die Haut auf jeder Seite mit drei flachen diagonalen Schnitten einschneiden.",
         "step_3": "Sie staubt großzügig mit Salz und lässt 10 Minuten ruhen.",
         "step_4": "Trocknen Sie die vom Salz freigesetzte Feuchtigkeit mit absorbierendem Papier.",
         "step_5": "Kochen Sie die Fische für ca. 6-7 Minuten pro Seite auf einem brennenden Grill oder auf der Backplatte bei 220 °C.",
         "step_6": "Solange die Haut goldig, knusprig und leicht verbrennt wird.",
         "step_7": "Setzen Sie die ganzen Fische auf gestreckten rechteckigen Tellern.",
-        "step_8": "Begleiten Sie mit einem frisch geriebenen Daikon Berg mit einem Tropfen Sojasoße und einer Zitrone."
+        "step_8": "Mit frisch geriebenem Daikon, etwas Sojasauce und einer Zitronenspalte servieren."
       }
     },
     "pt": {
@@ -307,14 +307,14 @@
         }
       },
       "steps": {
-        "step_1": "Enxague os peixes Sanma deixando- os inteiros (a tradição japonesa inclui cozinhar com as entranhas para um gosto agradávelmente amargo). O sanma é agulhão-do-Japão (Cololabis saira), não lúcio. Para preparar em casa, utilize peixe limpo e eviscerado ou peça ao peixeiro que o prepare; verifique a cozedura na parte mais espessa.",
+        "step_1": "Utilize sanma (agulhão-do-Japão, Cololabis saira) já limpo e eviscerado pelo peixeiro. Cozinhe completamente e verifique a parte mais espessa; não deixe as vísceras nesta preparação doméstica.",
         "step_2": "Insira a pele com 3 cortes diagonais em cada lado.",
         "step_3": "Espolvore generosamente com sal grosso e deixe descansar 10 minutos.",
         "step_4": "Seca a umidade liberada pelo sal com papel absorvente.",
         "step_5": "Cozinhe o peixe numa grelha quente ou na placa do forno a 220°C por cerca de 6-7 minutos por lado.",
         "step_6": "Desde que a pele se torne dourada, crocante e leve queimaduras formam.",
         "step_7": "Coloque peixe inteiro em placas retangulares alongadas.",
-        "step_8": "Venha com uma montanha fresca e ralada de Daikon, levemente espalhada com uma gota de molho de soja e um dedo de limão."
+        "step_8": "Acompanhe com daikon fresco ralado, umas gotas de molho de soja e uma rodela de limão."
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000068",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Doraemon",
   "animeReferences": [
@@ -193,12 +193,12 @@
       },
       "steps": {
         "step_1": "Work the egg yolks with sugar and cornstarch.",
-        "step_2": "Heat the milk with vanilla without boiling, then add it flush on the egg yolks mixing.",
+        "step_2": "Warm the milk with the vanilla without boiling, then slowly pour it into the egg yolks while whisking.",
         "step_3": "Put it back on the fire and let it thicken over low heat by always mixing.",
         "step_4": "Cool covered with contact film.",
         "step_5": "Work the eggs with sugar and honey until they become clear.",
         "step_6": "Melt the yeast in the water and add it to the eggs.",
-        "step_7": "Slice the flour and incorporate it gently.",
+        "step_7": "Sift in the flour and fold it gently into the batter.",
         "step_8": "Place the dough in the fridge for 15 minutes.",
         "step_9": "Heat a non-stick pan slightly greased with oil and clean with absorbent paper.",
         "step_10": "Pour a ladle of dough and form an 8 cm disc.",
@@ -323,12 +323,12 @@
       },
       "steps": {
         "step_1": "Trabaja las yemas con azúcar y almidón de maíz.",
-        "step_2": "Calienta la leche con vainilla sin hervir, luego agrégala a hilo en las yemas mezclando.",
-        "step_3": "Vuelve al fuego y haz que el fuego se enfríe con la mezcla.",
+        "step_2": "Calienta la leche con la vainilla sin hervir; viértela poco a poco sobre las yemas mientras remueves.",
+        "step_3": "Devuelve la mezcla al fuego y remueve constantemente a fuego bajo hasta que espese.",
         "step_4": "Deja que se enfríe cubierto con película de contacto.",
         "step_5": "Trabaja los huevos con azúcar y miel hasta que se aclaren.",
         "step_6": "Disuelve la levadura en el agua y añádela a los huevos.",
-        "step_7": "Colocar la harina e incorporarla suavemente.",
+        "step_7": "Tamiza la harina e incorpórala suavemente a la masa.",
         "step_8": "Descansa la masa en la nevera durante 15 minutos.",
         "step_9": "Calienta una sartén antiadherente ligeramente unta de aceite y limpia con papel absorbente.",
         "step_10": "Vierta un cucharón de masa y forma un disco de 8 cm.",
@@ -389,11 +389,11 @@
       "steps": {
         "step_1": "Travaille les jaunes d'œufs avec du sucre et de l'amidon de maïs.",
         "step_2": "Réchauffez le lait avec de la vanille sans faire bouillir, puis ajoutez-le sur les jaunes d'œufs.",
-        "step_3": "Remets-toi sur le feu et fais épaissir le feu en mélangeant tout le temps.",
+        "step_3": "Remettez la préparation sur feu doux et remuez sans arrêt jusqu'à ce qu'elle épaississe.",
         "step_4": "Faire refroidir couvert de film de contact.",
         "step_5": "Travaillez vos œufs avec du sucre et du miel jusqu'à ce qu'ils soient clairs.",
         "step_6": "Dissoudre la levure dans l'eau et ajouter les œufs.",
-        "step_7": "Fouillez la farine et incorporez-la délicatement.",
+        "step_7": "Tamisez la farine et incorporez-la délicatement à la pâte.",
         "step_8": "Faites reposer la pâte dans le frigo pendant 15 minutes.",
         "step_9": "Chauffez une poêle anti-adhérente légèrement huileuse et propre avec du papier absorbant.",
         "step_10": "Versez une pâte et formez un disque de 8 cm.",
@@ -453,15 +453,15 @@
       },
       "steps": {
         "step_1": "Die Eigelb werden mit Zucker und Maisstärke bearbeitet.",
-        "step_2": "Erhitzen Sie die Milch mit Vanille, ohne zu kochen, dann fügen Sie sie an den Eigelb mischen.",
-        "step_3": "Legen Sie das Feuer wieder auf und lassen Sie es mit niedrigem Feuer verdichten, indem Sie es immer vermischen.",
+        "step_2": "Die Milch mit Vanille erwärmen, ohne sie aufzukochen, und unter ständigem Rühren langsam zur Eigelbmischung gießen.",
+        "step_3": "Die Mischung wieder auf den Herd stellen und bei niedriger Hitze unter ständigem Rühren eindicken lassen.",
         "step_4": "Lassen Sie es mit Kontaktfilm bedeckt abkühlen.",
         "step_5": "Er arbeitet seine Eier mit Zucker und Honig, bis sie klar sind.",
         "step_6": "Lösen Sie die Hefe im Wasser und fügen Sie sie mit den Eiern.",
         "step_7": "Sie sieben das Mehl und geben es vorsichtig ein.",
         "step_8": "Den Teig 15 Minuten im Kühlschrank ausruhen lassen.",
         "step_9": "Erhitzen Sie eine leicht mit Öl fettige und saubere Pfanne mit absorbierendem Papier.",
-        "step_10": "Gießen Sie einen Teig und bilden Sie eine 8 cm Scheibe.",
+        "step_10": "Eine kleine Kelle Teig in die Pfanne geben und zu einem Kreis von etwa 8 cm Durchmesser ausbacken.",
         "step_11": "Wenn die Blasen an der Oberfläche erscheinen, dreht er sich um und lässt 30 Sekunden lang kochen.",
         "step_12": "Kühlen Sie die Scheiben ab, legen Sie einen großzügigen Esslöffel Custard-Creme in die Mitte einer Platte und schließen Sie mit Sandwich, indem Sie sanft die Ränder drücken, um sie zu versiegeln."
       }
@@ -518,17 +518,17 @@
       },
       "steps": {
         "step_1": "Trabalhe as gemas de ovo com açúcar e amido de milho.",
-        "step_2": "Aqueça o leite com baunilha sem ferver, em seguida, adicione- o flush nas gemas de ovo misturando.",
+        "step_2": "Aqueça o leite com baunilha sem deixar ferver; verta-o pouco a pouco sobre as gemas, mexendo sempre.",
         "step_3": "Coloque- o de volta no fogo e deixe- o espessá- lo a fogo baixo, sempre misturando.",
-        "step_4": "Coberto com filme de contato.",
+        "step_4": "Deixe arrefecer com película aderente encostada diretamente à superfície do creme.",
         "step_5": "Trabalhe os ovos com açúcar e mel até que fiquem claros.",
         "step_6": "Derreta a levedura na água e adicione- a aos ovos.",
-        "step_7": "Corte a farinha e incorpore- a suavemente.",
+        "step_7": "Peneire a farinha e incorpore-a delicadamente na massa.",
         "step_8": "Coloque a massa no frigorífico por 15 minutos.",
         "step_9": "Aqueça uma panela antiadherente ligeiramente engraxada com óleo e limpa com papel absorvente.",
-        "step_10": "Verter um cofre de massa e formar um disco de 8 cm.",
+        "step_10": "Deite uma pequena concha de massa na frigideira, formando um disco de cerca de 8 cm.",
         "step_11": "Quando as bolhas aparecerem na superfície, vire e deixe cozinhar por mais 30 segundos.",
-        "step_12": "Deixe os discos esfriar, coloque uma colher generosa de creme de creme no meio de um disco e perto do sanduíche pressionando suavemente as bordas para selá- lo."
+        "step_12": "Deixe os discos arrefecer, coloque uma colher generosa de creme de pasteleiro no centro de um deles e cubra com outro, pressionando suavemente as bordas."
       }
     }
   }

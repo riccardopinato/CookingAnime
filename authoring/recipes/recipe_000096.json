@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000096",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -277,7 +277,7 @@
       "steps": {
         "step_1": "Abre las almejas en una sartén con sake y una tapa a fuego vivo. Antes de cocerlas, desecha las almejas con conchas rotas o que no se cierren al tocarlas; después, desecha las que sigan cerradas. Refrigera el líquido colado si no lo usas enseguida.",
         "step_2": "Separa las almejas del caldo filtrado y guarda todo.",
-        "step_3": "En una olla, derrite la mantequilla y frota el tocino con cebolla, zanahoria y patata durante 5 minutos.",
+        "step_3": "En una olla, derrite la mantequilla y rehoga la panceta con la cebolla, la zanahoria y la patata durante 5 minutos.",
         "step_4": "Espolvorear con harina y mezclar bien durante 1 minuto para tostar.",
         "step_5": "Añade gradualmente el líquido de las almejas filtradas, la leche y la nata, y sigue mezclando hasta alcanzar una consistencia aterciopelada.",
         "step_6": "Cocine durante 12 minutos hasta que las patatas estén tiernas.",
@@ -387,13 +387,13 @@
         }
       },
       "steps": {
-        "step_1": "Öffne die Muscheln in einer Pfanne mit Sake und einem lebendigen Feuerdeckel. Vor dem Garen beschädigte Muscheln und solche aussortieren, die sich bei Berührung nicht schließen. Nach dem Garen geschlossen gebliebene Muscheln wegwerfen. Abgesiebten Sud sofort verwenden oder kühlen.",
+        "step_1": "Die Muscheln mit Sake in einer Pfanne bei starker Hitze zugedeckt öffnen lassen. Vorher beschädigte oder auf Berührung nicht schließende Muscheln aussortieren; nach gründlichem Garen geschlossene Muscheln wegwerfen. Abgesiebten Sud sofort verwenden oder kühlen.",
         "step_2": "Trennen Sie die Muscheln von der gefilterten Brühe und halten Sie alles beiseite.",
-        "step_3": "In einem Topf spülen Sie die Butter und rösten den Speck mit Zwiebeln, Karotten und Kartoffeln für 5 Minuten.",
-        "step_4": "Pulver mit Mehl und Amalgam gut für 1 Minute zum Rösten.",
+        "step_3": "Butter in einem Topf schmelzen und Speck, Zwiebel, Karotte und Kartoffel etwa 5 Minuten anbraten.",
+        "step_4": "Das Mehl darüberstäuben und unter Rühren etwa 1 Minute anschwitzen.",
         "step_5": "Fügen Sie die Flüssigkeit der gefilterten Muscheln, die Milch und die Sahne nach und nach hinzu und mischen Sie weiter, bis eine samtige Konsistenz erreicht ist.",
-        "step_6": "Kochen Sie für 12 Minuten, bis die Kartoffeln halten.",
-        "step_7": "Kombinieren Sie die zuletzt geöffneten Muscheln, schwarzer Pfefferregel und bringen Sie sie ins Diner, begleitet von Brotkrusten."
+        "step_6": "Etwa 12 Minuten köcheln lassen, bis die Kartoffeln weich sind.",
+        "step_7": "Die geöffneten Muscheln erst am Ende zugeben, mit schwarzem Pfeffer abschmecken und heiß mit Brotcroûtons servieren."
       }
     },
     "pt": {
@@ -443,13 +443,13 @@
         }
       },
       "steps": {
-        "step_1": "Abra os moluscos em uma panela com sake e uma tampa de fogo. Antes da cozedura, deite fora amêijoas com conchas partidas ou que não fechem ao toque; depois, rejeite as que permaneçam fechadas. Refrigere o caldo coado se não o utilizar logo.",
+        "step_1": "Abra as amêijoas numa panela tapada com sake em lume forte. Antes de cozinhar, rejeite conchas partidas e amêijoas que não fechem ao toque; depois, descarte as que se mantiverem fechadas. Refrigere o caldo coado se não o utilizar de imediato.",
         "step_2": "Separe os moluscos do caldo filtrado e mantenha tudo de lado.",
-        "step_3": "Numa panela, derreta a manteiga e dobre o bacon com cebola, cenoura e batata por 5 minutos.",
-        "step_4": "Poeira com farinha e misture bem por 1 minuto para torrar.",
+        "step_3": "Derreta a manteiga numa panela e refogue o bacon com a cebola, a cenoura e a batata durante 5 minutos.",
+        "step_4": "Polvilhe com farinha e mexa durante 1 minuto para a cozinhar.",
         "step_5": "Adicione gradualmente o líquido dos moluscos filtrados, o leite e o creme e continue a misturar até atingir uma consistência veluda.",
         "step_6": "Cozinhe por 12 minutos até as batatas estarem tenras.",
-        "step_7": "Combinar os moluscos abertos por último, regra de pimenta preta e trazer para o restaurante acompanhado de croutons de pão."
+        "step_7": "Junte as amêijoas abertas apenas no fim, tempere com pimenta-preta e sirva quente com croutons."
       }
     }
   }
