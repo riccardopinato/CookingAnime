@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000137",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Ranma ½",
   "animeReferences": [
@@ -243,7 +243,7 @@
       "steps": {
         "step_1": "Suelta los udon en agua hirviendo durante aproximadamente 1 minuto; escúrrelos y sepáralos con cuidado para que no se rompan.",
         "step_2": "Corta la col, la zanahoria y la cebolla en trozos delgados y prepara las salsas antes de calentar el wok.",
-        "step_3": "Calienta el aceite de sésamo a fuego alto y salta primero cebolla y zanahoria durante 1-2 minutos.",
+        "step_3": "Calienta el aceite de sésamo a fuego alto y saltea primero la cebolla y la zanahoria durante 1–2 minutos.",
         "step_4": "Añade la col y continúa cocinando durante 2 minutos más, dejando las verduras ligeramente crujientes.",
         "step_5": "Añade los udon y saltéalos a fuego fuerte hasta que estén bien calientes.",
         "step_6": "Verter salsa yaquisoba/tonkatsu y salsa de soja a lo largo del borde caliente del wok y mezclar rápidamente para cubrir todos los fideos.",
@@ -291,7 +291,7 @@
       "steps": {
         "step_1": "Détache délicatement les nouilles udon dans l’eau bouillante pendant environ 1 minute, égoutte-les et sépare-les sans les casser.",
         "step_2": "Coiffe le chou, la carotte et l'oignon en morceaux fins et prépare les sauces avant de chauffer le wok.",
-        "step_3": "Chauffez l'huile de sésame à feu élevé et sautez d'abord l'oignon et la carotte pendant 1 à 2 minutes.",
+        "step_3": "Chauffez l’huile de sésame à feu vif et faites d’abord revenir l’oignon et la carotte pendant 1 à 2 minutes.",
         "step_4": "Ajoutez le chou et continuez la cuisson pendant 2 minutes, laissant les légumes encore légèrement croustillants.",
         "step_5": "Ajoute les nouilles udon et fais-les sauter à feu vif jusqu’à ce qu’elles soient bien chaudes.",
         "step_6": "Versa sauce yakisoba/tonkatsu et sauce soja le long du bord chaud de wok et mélange rapidement pour revêtir toutes les nouilles.",
@@ -339,7 +339,7 @@
       "steps": {
         "step_1": "Die Udon-Nudeln etwa 1 Minute in kochendem Wasser lockern, abgießen und vorsichtig voneinander trennen, ohne sie zu zerreißen.",
         "step_2": "Kohl, Karotte und Zwiebel in dünne Stücke schneiden und die Soßen backen, bevor der Wok erwärmt wird.",
-        "step_3": "Erhitzt Sesamöl mit hohem Feuer und springt zuerst Zwiebel und Karotte für 1-2 Minuten.",
+        "step_3": "Sesamöl bei hoher Hitze erhitzen und zuerst Zwiebel und Karotte 1–2 Minuten unter Rühren anbraten.",
         "step_4": "Fügen Sie den Kohl hinzu und kochen Sie für weitere 2 Minuten, so dass das Gemüse noch etwas knusprig ist.",
         "step_5": "Die Udon-Nudeln zugeben und bei starker Hitze unter Rühren braten, bis sie durchgehend heiß sind.",
         "step_6": "Gießen Sie Yakisoba/tonkatsu Soße und Sojasoße entlang der heißen Wokkante und mischen Sie schnell, um alle Nudeln zu kleiden.",

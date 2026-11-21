@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000154",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -300,7 +300,7 @@
       "steps": {
         "step_1": "Escurrir el tofu y desmenuzarlo gruesamente; cortar daikon, zanahoria y shiitake en trozos del tamaño similar.",
         "step_2": "Calienta el aceite de sésamo en cazuela y rosola el tofu hasta que algunas partes toman color.",
-        "step_3": "Añadir daikon, zanahoria y shiitake y saltar durante unos 3 minutos.",
+        "step_3": "Añade el daikon, la zanahoria y las setas shiitake, y saltea durante unos 3 minutos.",
         "step_4": "Vierta el kombu dashi, lleva a un hervor suave y hornear cubierto durante unos 8-10 minutos, hasta que las raíces se mantienen.",
         "step_5": "Sazona con salsa de soja y mirin y prueba el caldo antes de añadir más sal.",
         "step_6": "Cuece los udon en una olla aparte durante el tiempo indicado, escúrrelos bien y repártelos entre los cuencos.",
@@ -422,7 +422,7 @@
       "steps": {
         "step_1": "Schütte den Tofu und zerbröckle ihn grob; schneide Daikon, Karotte und Shiitake in Stücke ähnlicher Größe.",
         "step_2": "Erhitzt Sesamöl in Kasserolle und rostet Tofu, bis einige Teile Farbe bekommen.",
-        "step_3": "Fügen Sie Daikon, Karotte und Shiitake hinzu und springen Sie für ca. 3 Minuten.",
+        "step_3": "Daikon, Karotte und Shiitake zugeben und etwa 3 Minuten unter Rühren anbraten.",
         "step_4": "Das Kombu-Dashi zugießen, leicht aufkochen lassen und zugedeckt etwa 8–10 Minuten garen, bis das Wurzelgemüse weich ist.",
         "step_5": "Würze mit Sojasoße und Mirin und probiere die Brühe, bevor du noch mehr Salz hinzufügst.",
         "step_6": "Die Udon-Nudeln im separaten Topf für die angegebene Zeit garen, gründlich abgießen und auf die Schüsseln verteilen.",
@@ -483,7 +483,7 @@
       "steps": {
         "step_1": "Esgote o tofu e desfaça- o grossamente; corte o daikon, a cenoura e o shiitake em pedaços de tamanho semelhante.",
         "step_2": "Aqueça o óleo de sésamo em uma panela e marrom o tofu até que algumas partes tenham cor.",
-        "step_3": "Adicione daikon, cenoura e shiitake e salte por cerca de 3 minutos.",
+        "step_3": "Junte o daikon, a cenoura e os shiitake e salteie durante cerca de 3 minutos.",
         "step_4": "Despeje o dashi kombu, leve à luz e cozinhe coberto por cerca de 8-10 minutos, até que as raízes estejam tenras.",
         "step_5": "Sazonar com molho de soja e mirin e saborear o caldo antes de adicionar mais sal.",
         "step_6": "Cozinhe o udon em um pote separado para o tempo necessário, escorra bem e distribua- os nas tigelas.",

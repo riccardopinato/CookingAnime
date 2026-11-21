@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000105",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -197,7 +197,7 @@
       },
       "steps": {
         "step_1": "Suelte el shiratamako en el agua hasta eliminar los grumos, luego inserte al shiroan en una sartén antiadherente.",
-        "step_2": "Cocer a fuego muy bajo mezclando y aplastando el compuesto hasta que pierde humedad, se vuelve elástico y se separa de la sartén.",
+        "step_2": "Cuece a fuego muy bajo mientras remueves y aplastas la masa, hasta que pierda humedad, se vuelva elástica y se despegue de la sartén.",
         "step_3": "Transfiera la masa a una bandeja y échela varias veces mientras se enfría para obtener una masa lisa y uniforme.",
         "step_4": "Divídelo en las porciones necesarias y colorea pequeñas partes con cantidades mínimas de colorante, amasando hasta que el tinte sea homogéneo.",
         "step_5": "Forma cuatro bolas de anko de alrededor de 15 g cada una y manténlas cubiertas para que no se sequen.",
@@ -271,7 +271,7 @@
       },
       "steps": {
         "step_1": "Lösen Sie den Shiratamako im Wasser, bis die Klumpen entfernt sind, und dann in eine Pfanne einbauen.",
-        "step_2": "Kochen Sie mit sehr niedrigem Fokus, indem Sie die Verbindung mischen und zerdrücken, bis sie Feuchtigkeit verliert, elastisch wird und sich von der Pfanne löst.",
+        "step_2": "Bei sehr niedriger Hitze unter ständigem Rühren und Zerdrücken garen, bis die Masse Feuchtigkeit verliert, elastisch wird und sich von der Pfanne löst.",
         "step_3": "Legen Sie den Teig auf ein Tablett und arbeiten Sie es mehrmals, während es abkühlt, um eine glatte und gleichmäßige Masse zu erhalten.",
         "step_4": "Teilen Sie es in die benötigten Portionen und färbt kleine Teile mit minimalen Mengen des Farbstoffs und kneten, bis die Farbe homogen ist.",
         "step_5": "Aus dem Anko vier Kugeln von jeweils etwa 15 g formen und abgedeckt aufbewahren, damit sie nicht austrocknen.",

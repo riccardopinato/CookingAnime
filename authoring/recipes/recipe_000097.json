@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000097",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -137,7 +137,7 @@
       },
       "steps": {
         "step_1": "Slice onion and carrot very thin and cut shrimp into small pieces; dry everything well and dust with a spoonful of flour.",
-        "step_2": "Bring the oil to about 170°C in a deep pot and prepare a drizzling grill next door.",
+        "step_2": "Heat the oil to about 170°C in a deep pot and set a wire rack nearby for draining the fried pieces.",
         "step_3": "Beat the yolk into the frozen water and incorporate the flour with a few stirs: the batter must remain cold and slightly lumpy.",
         "step_4": "Pour only the amount of batter needed to bind vegetables and shrimps, without turning the mixture into a heavy dough.",
         "step_5": "Shape small piles on a skimmer or between two spoons and slide gently into the oil.",
@@ -315,7 +315,7 @@
         "step_1": "Zwiebeln und sehr dünne Karotte schneiden und Garnelen in kleine Stücke schneiden; trocknet alles gut und staubt mit einem Esslöffel Mehl.",
         "step_2": "Bring das Öl bei ca. 170°C in einen tiefen Topf und bereite nebenan ein Abtropfgitter vor.",
         "step_3": "Werfen Sie den Eigelb in das eisige Wasser und geben Sie das Mehl mit wenigen Mischungen ein: der Teig muss kalt und leicht klumpig bleiben.",
-        "step_4": "Gießen Sie nur die Menge an Teig, die Sie benötigen, um Gemüse und Garnelen zu binden, ohne die Verbindung in einen schweren Teig zu verwandeln.",
+        "step_4": "Nur so viel Teig zugeben, dass Gemüse und Garnelen zusammenhalten; die Mischung soll nicht zu einem schweren Teigklumpen werden.",
         "step_5": "Formen Sie kleine Haufen auf einem Schaumstoff oder zwischen zwei Löffeln und lassen Sie vorsichtig in das Öl rutschen.",
         "step_6": "Frittieren Sie ein paar Kakiage auf einmal für 2-3 Minuten pro Seite, drehen Sie sie nur einmal, bis sie goldig und leicht sind.",
         "step_7": "Auf dem Grill, der Saal sofort und servieren Sie warm mit tentsuyu oder Salz zum Matcha."
