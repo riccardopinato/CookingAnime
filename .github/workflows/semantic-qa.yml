@@ -65,9 +65,9 @@ jobs:
             --cache .semantic-qa-cache/cooking.json \
             --workers 4 --batch-size 100 --provider offline
           python3 tool/semantic_qa_adapter.py --verify-report build/semantic_qa/report.json
-      - name: Language Engine v1 — pinned offline memory and glossary QA
+      - name: Language Engine v1.1.2 — offline memory, numeric hints and source-bound QA
         env:
-          LANGUAGE_SHA: 414e4965eab7229808b42fc049a8f664250adadc
+          LANGUAGE_SHA: 9391419c6b7c9c23c2f978262fe8fe6670c68160
         run: |
           curl --fail --location --silent --show-error --retry 3 \
             "https://raw.githubusercontent.com/riccardopinato/App-Factory-Core/$LANGUAGE_SHA/reference_engines/language_engine/language_engine.py" \
