@@ -65,6 +65,21 @@ jobs:
             --cache .semantic-qa-cache/cooking.json \
             --workers 4 --batch-size 100 --provider offline
           python3 tool/semantic_qa_adapter.py --verify-report build/semantic_qa/report.json
+      - name: Language Engine v1 — pinned offline memory and glossary QA
+        env:
+          LANGUAGE_SHA: d7d2ddf6a8c858f81a5476214692c24a594e9b11
+        run: |
+          curl --fail --location --silent --show-error --retry 3 \
+            "https://raw.githubusercontent.com/riccardopinato/App-Factory-Core/$LANGUAGE_SHA/reference_engines/language_engine/language_engine.py" \
+            -o build/semantic_qa/language_engine.py
+          python3 -m py_compile build/semantic_qa/language_engine.py
+          python3 build/semantic_qa/language_engine.py \
+            --input build/semantic_qa/input.json \
+            --semantic-report build/semantic_qa/report.json \
+            --report build/semantic_qa/language_report.json --batch-size 100
+      - name: Re-audit 162 x 6 runtime catalog and UI localization keys
+        run: |
+          python3 tool/full_catalog_qa.py --report build/semantic_qa/full_catalog_qa.json
       - name: Inventory 112 legacy recipes for visible editorial gaps (zero API calls)
         run: |
           python3 tool/fast_track_recipe_inventory.py --output build/semantic_qa/cooking_inventory.json
@@ -85,5 +100,7 @@ jobs:
           path: |
             build/semantic_qa/report.json
             build/semantic_qa/cooking_inventory.json
+            build/semantic_qa/language_report.json
+            build/semantic_qa/full_catalog_qa.json
           if-no-files-found: ignore
           retention-days: 14
