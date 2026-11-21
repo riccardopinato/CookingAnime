@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000136",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Demon Slayer",
   "animeReferences": [
@@ -207,10 +207,10 @@
         }
       },
       "steps": {
-        "step_1": "Presiona el tofu para eliminar el exceso de agua, secálalo y córtalo en rectángulos gruesos lo suficiente como para ser infiltrados sin romperse.",
+        "step_1": "Prensa el tofu para eliminar el exceso de agua, sécalo y córtalo en rectángulos bastante gruesos para ensartarlos sin romperlos.",
         "step_2": "Introduzca los pinchos con delicadeza y vuelva a tamponar la superficie.",
         "step_3": "Mezcla miso, azúcar, mirin y sake en una cacerola y cocine bajo fuego durante unos 2 minutos, hasta que el glaseado sea suave y lo suficientemente denso para adherirse.",
-        "step_4": "Rejilla el tofu 2-3 minutos por lado sobre placa bien caliente, hasta que aparezca un ligero dorado.",
+        "step_4": "Asa el tofu en una plancha bien caliente durante 2–3 minutos por lado, hasta que se dore ligeramente.",
         "step_5": "Pinta una primera vez con la salsa miso y deja secar durante unos 30 segundos.",
         "step_6": "Añade una segunda capa de glaseado y pasa por debajo de la parrilla durante 1-2 minutos, controlando continuamente porque el miso de azúcar quema fácilmente.",
         "step_7": "Completa con sésamo tostada y sirvientes calientes."
@@ -287,13 +287,13 @@
         }
       },
       "steps": {
-        "step_1": "Drücken Sie Tofu, um überschüssiges Wasser zu entfernen, trocknen Sie es und schneiden Sie es in dicke Rechtecke, die so dick sind, dass sie ohne zu brechen infiltriert werden können.",
-        "step_2": "Legen Sie die Spieße vorsichtig ein und schieben Sie die Oberfläche wieder ein.",
+        "step_1": "Den Tofu pressen, um überschüssiges Wasser zu entfernen, trockentupfen und in dicke, spießgeeignete Rechtecke schneiden.",
+        "step_2": "Die Spieße vorsichtig durch den Tofu stecken und die Oberfläche erneut trockentupfen.",
         "step_3": "Mischen Sie Miso, Zucker, Mirin und Sake in einem Topf und kochen Sie mit niedrigem Feuer für ca. 2 Minuten, bis die Glasur glatt und dicht genug ist, um zu kleben.",
         "step_4": "Grillen Sie den Tofu 2-3 Minuten pro Seite auf einer warmen Platte, bis eine leichte Vergoldung erscheint.",
         "step_5": "Bestreichen Sie ein erstes Mal mit der Miso-Sauce und lässt für ca. 30 Sekunden trocknen.",
-        "step_6": "Eine zweite Schicht Glasur auftragen und die Auberginen 1 bis 2 Minuten unter den Backofengrill stellen. Dabei ständig kontrollieren, da die zuckerhaltige Misoglasur leicht anbrennt.",
-        "step_7": "Komplett mit Toast Sesam und serviert warm."
+        "step_6": "Eine zweite Schicht Misoglasur auf den Tofu auftragen und die Spieße 1–2 Minuten unter den Backofengrill stellen; ständig beobachten, da die süße Glasur leicht anbrennt.",
+        "step_7": "Mit geröstetem Sesam bestreuen und warm servieren."
       }
     },
     "pt": {
@@ -327,12 +327,12 @@
         }
       },
       "steps": {
-        "step_1": "Pressione o tofu para remover o excesso de água, seque- o e corte- o em retângulos grossos o suficiente para ser infiltrado sem quebrar.",
+        "step_1": "Pressione o tofu para remover o excesso de água, seque-o e corte-o em retângulos suficientemente grossos para espetar sem quebrar.",
         "step_2": "Insira os broches suavemente e bata novamente na superfície.",
         "step_3": "Misture miso, açúcar, mirin e sake em uma panela e cozinhe a fogo lento por cerca de 2 minutos até que o esmalte seja suave e denso o suficiente para colar.",
-        "step_4": "Grelhe o tofu 2-3 minutos por lado em uma placa quente, até que apareça uma ligeira dor.",
+        "step_4": "Grelhe o tofu 2–3 minutos de cada lado numa chapa bem quente, até alourar ligeiramente.",
         "step_5": "Escove uma primeira vez com molho miso e deixe secar por cerca de 30 segundos.",
-        "step_6": "Adicione uma segunda camada de esmalte e passe por baixo da grelha por 1-2 minutos, verificando continuamente porque o açúcar miso queima facilmente.",
+        "step_6": "Pincele o tofu com uma segunda camada de molho de miso e leve ao grill do forno durante 1–2 minutos, vigiando sempre, pois o açúcar queima facilmente.",
         "step_7": "Completo com sésamo torrado e servos quentes."
       }
     }

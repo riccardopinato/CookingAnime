@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000128",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -264,11 +264,11 @@
         }
       },
       "steps": {
-        "step_1": "En una olla, de gran capacidad, roza las cebollas con un hilo de aceite hasta que se vuelven bien doradas y caramelizadas.",
-        "step_2": "Une la carne con cubos y rodéala por todos lados.",
+        "step_1": "En una olla grande, rehoga las cebollas con un poco de aceite hasta que estén doradas y caramelizadas.",
+        "step_2": "Añade la carne cortada en dados y dórala por todos los lados.",
         "step_3": "Introduzca las zanahorias y las patatas.",
         "step_4": "Añade el caldo de carne y la manzana rallado.",
-        "step_5": "Cubre y arde a fuego medio bajo durante 20 minutos.",
+        "step_5": "Tapa y deja cocer a fuego medio-bajo durante 20 minutos.",
         "step_6": "Apaga el fuego, une el roux para curry y amalgama hasta su disolución completa.",
         "step_7": "Mezcla el cacao amargo en polvo (o el chocolate negro), amalgama bien y deja cocer a fuego lento durante otros 5 minutos hasta obtener una salsa densa, brillante y aromática.",
         "step_8": "Lleva a la mesa caliente acompañado de arroz blanco al vapor."
@@ -371,11 +371,11 @@
       },
       "steps": {
         "step_1": "In einem großen Topf braten die Zwiebeln mit einem Ölfaden, bis sie gut vergoldet und karamelliert werden.",
-        "step_2": "Verbinden Sie das Fleisch mit Würfeln und bröckeln Sie es auf allen Seiten.",
+        "step_2": "Die gewürfelte Fleischportion zugeben und von allen Seiten anbraten.",
         "step_3": "Geben Sie die Karotten und Kartoffeln ein.",
         "step_4": "Fügen Sie Fleischbrühe und geriebenen Apfel hinzu.",
-        "step_5": "Bedecke und lass dich 20 Minuten lang bei mittlerer bis niedriger Hitze betäuben.",
-        "step_6": "Löschen Sie das Feuer, verbinden Sie das Roux für Curry und Amalgam, bis es vollständig aufgelöst ist.",
+        "step_5": "Abdecken und bei mittlerer bis niedriger Hitze etwa 20 Minuten sanft köcheln lassen.",
+        "step_6": "Den Herd ausschalten, die Curry-Roux-Stücke zugeben und rühren, bis sie sich vollständig gelöst haben.",
         "step_7": "Kombinieren Sie bitteren Kakao in Pulver (oder dunkle Schokolade), Amalgam gut und lassen Sie es bei sehr langsamem Feuer für weitere 5 Minuten kochen, bis Sie eine dicke, glänzende und aromatische Soße erhalten.",
         "step_8": "Bringt in den warmen Tisch, begleitet von weißem Reis im Dampf."
       }
@@ -423,11 +423,11 @@
         }
       },
       "steps": {
-        "step_1": "Numa panela grande, dobre as cebolas com um pouco de óleo até que se tornem bem douradas e caramelizadas.",
-        "step_2": "Combinar a carne com cubos e marrom em todos os lados.",
+        "step_1": "Numa panela grande, refogue as cebolas num fio de óleo até ficarem bem douradas e caramelizadas.",
+        "step_2": "Junte a carne cortada em cubos e aloure-a de todos os lados.",
         "step_3": "Insira as cenouras e batatas.",
         "step_4": "Adicione o caldo de carne e a maçã ralada.",
-        "step_5": "Cubra e cozinhe a fogo médio- baixo durante 20 minutos.",
+        "step_5": "Tape e deixe cozinhar em lume médio-baixo durante 20 minutos.",
         "step_6": "Desligue o fogo, junte- se ao roux para curry e amalgama até a dissolução completa.",
         "step_7": "Combine o pó de cacau amargo (ou chocolate escuro), misture bem e cozinhe a fogo lento por mais 5 minutos até obter um molho espesso, brilhante e aromático.",
         "step_8": "Traga para a mesa quente acompanhada de arroz branco vaporizado."

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000101",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Yuru Camp△",
   "animeReferences": [
@@ -193,10 +193,10 @@
         "step_1": "Usa arroz apenas cocido pero lo suficientemente tibio como para ser manipulado; humedece y sala ligeramente las manos.",
         "step_2": "Divide el arroz en cuatro porciones y forma triángulos compactos, presionando lo suficiente para que no se rompan durante la parrilla.",
         "step_3": "Mezcla salsa de soja y mirin en un cuenco y prepara un pincel de cocina.",
-        "step_4": "Disuelve la mitad de la mantequilla en una sartén antiadherente y erosiona los onigiros a fuego medio durante unos 3 minutos por lado, sin moverlos hasta que se forme una corteza.",
-        "step_5": "Aprieta un lado con la mezcla de soja, gira y deja caramelizar durante aproximadamente 1 minuto; repite en el otro lado.",
+        "step_4": "Derrite la mitad de la mantequilla en una sartén antiadherente y dora los onigiri a fuego medio unos 3 minutos por lado, sin moverlos hasta que se forme una costra.",
+        "step_5": "Pincela un lado con la mezcla de soja y mirin, dales la vuelta y deja caramelizar 1 minuto; repite por el otro lado.",
         "step_6": "Añadir la mantequilla restante y girar los onigiri en la sartén para distribuir el perfume sin quemar la salsa.",
-        "step_7": "Completa con sésamo tostada y sirvientes calientes, con corteza seca y centro todavía suave."
+        "step_7": "Termina con sésamo tostado y sirve caliente, con la corteza crujiente y el centro aún tierno."
       }
     },
     "fr": {
@@ -265,10 +265,10 @@
         "step_1": "Verwenden Sie frisch gekochten Reis, aber lauwarm genug, um behandelt werden zu können; befeuchten Sie und salzen Sie Ihre Hände leicht.",
         "step_2": "Teilen Sie den Reis in vier Portionen und kompakte Dreiecke, drücken Sie genug, damit sie beim Grillen nicht zerbrechen.",
         "step_3": "Mischen Sie Sojasoße und Mirin in eine Schüssel und bereiten Sie einen Küchenpinsel.",
-        "step_4": "Lösen Sie die Hälfte der Butter in einer Pfanne und krönen Sie die Nigger bei mittlerer Hitze für etwa 3 Minuten pro Seite, ohne sie zu bewegen, bis sich eine Kruste bildet.",
-        "step_5": "Hängen Sie eine Seite mit der Sojamischung, drehen Sie und lassen Sie Karamell für etwa 1 Minute; wiederholen Sie auf der anderen Seite.",
-        "step_6": "Fügen Sie die restliche Butter hinzu und drehen Sie die Orchideen in der Pfanne, um den Duft zu verteilen, ohne die Soße zu verbrennen.",
-        "step_7": "Komplett mit gerösteten Sesam und warmen Servieren, mit trockener Kruste und noch weicher Mitte."
+        "step_4": "Die Hälfte der Butter in einer beschichteten Pfanne schmelzen und die Onigiri bei mittlerer Hitze etwa 3 Minuten pro Seite braten, ohne sie vor der Krustenbildung zu bewegen.",
+        "step_5": "Eine Seite mit der Soja-Mirin-Mischung bestreichen, wenden und etwa 1 Minute karamellisieren lassen; auf der anderen Seite wiederholen.",
+        "step_6": "Die restliche Butter zugeben und die Onigiri in der Pfanne schwenken, damit sich das Aroma verteilt, ohne dass die Sauce anbrennt.",
+        "step_7": "Mit geröstetem Sesam bestreuen und heiß servieren; außen knusprig, innen noch weich."
       }
     },
     "pt": {
@@ -303,8 +303,8 @@
         "step_3": "Misture molho de soja e mirin numa tigela e prepare uma escova de cozinha.",
         "step_4": "Derreta metade da manteiga numa panela antiadherente e doura o oniri a fogo médio por cerca de 3 minutos por lado, sem movê- los até que se forme uma crosta.",
         "step_5": "Escove um lado com a mistura de soja, vire e deixe o caramelo por cerca de 1 minuto; repita no outro lado.",
-        "step_6": "Adicione a manteiga restante e transforme o onigiri na panela para distribuir o perfume sem queimar o molho.",
-        "step_7": "Completa com sésamo torrado e servidores quentes, com crosta seca e ainda centro suave."
+        "step_6": "Junte a manteiga restante e rode os onigiri na frigideira para distribuir o aroma sem queimar o molho.",
+        "step_7": "Termine com sésamo torrado e sirva quente, com crosta crocante e interior ainda macio."
       }
     }
   }

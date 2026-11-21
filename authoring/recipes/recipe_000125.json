@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000125",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Lucky Star",
   "animeReferences": [
@@ -164,9 +164,9 @@
       "steps": {
         "step_1": "Prepara la masa brioche con harina, leche, levadura, azúcar, huevo, sal y mantequilla; amasa hasta que sea suave y elástico.",
         "step_2": "Cubre y deja aumentar hasta el doble, generalmente 60-90 minutos dependiendo de la temperatura.",
-        "step_3": "Mientras tanto, prepara una crema de chocolate densa, enfríela completamente y transfórmala en un saco.",
+        "step_3": "Mientras tanto, prepara una crema de chocolate espesa, déjala enfriar por completo y pásala a una manga pastelera.",
         "step_4": "Desinfla suavemente la masa, dividiéndola en porciones y forma cordones largos y regulares.",
-        "step_5": "Unge ligeramente los moldes de cono y envuelve cada cordón espiral, apenas superponiendo las vueltas sin dejar grietas.",
+        "step_5": "Engrasa ligeramente los moldes cónicos y enrolla cada tira de masa en espiral, solapando un poco las vueltas sin dejar huecos.",
         "step_6": "Deja reposar los conos formados entre 20 y 30 minutos y, después, píntalos con huevo batido.",
         "step_7": "Cocina a 180°C durante unos 12-15 minutos, mientras estén uniformemente dorados; enfría unos minutos y desliza los moldes.",
         "step_8": "Deja enfriar completamente antes de rellenar con crema de chocolate, para que el relleno no se derrita."
@@ -221,13 +221,13 @@
       },
       "steps": {
         "step_1": "Bereiten Sie die Brioche Teig mit Mehl, Milch, Hefe, Zucker, Ei, Salz und Butter; kneten Sie, bis es glatt und elastisch wird.",
-        "step_2": "Bedecken Sie und lassen Sie bis zur Verdoppelung, in der Regel 60-90 Minuten je nach Temperatur.",
-        "step_3": "In der Zwischenzeit backen Sie eine dicke Schokoladencreme, kühlen Sie sie vollständig ab und übertragen Sie sie in eine kleine Schüssel.",
-        "step_4": "Entweichen Sie sanft den Teig, teilen Sie ihn in lange und regelmäßige Teile und Schnüre.",
-        "step_5": "Fügen Sie die Kegelformen leicht zusammen und wickeln Sie jede Spiralschnur, indem Sie gerade die Drehungen überlagern, ohne Risse zu hinterlassen.",
-        "step_6": "Lassen Sie die Croissants 20-30 Minuten lang ausruhen, dann spinellieren Sie sie mit gestoßenem Ei.",
+        "step_2": "Den Teig abgedeckt 60–90 Minuten gehen lassen, bis er sein Volumen verdoppelt hat.",
+        "step_3": "Eine dicke Schokoladencreme zubereiten, vollständig abkühlen lassen und in einen Spritzbeutel füllen.",
+        "step_4": "Den Teig behutsam entgasen, portionieren und zu langen, gleichmäßigen Strängen rollen.",
+        "step_5": "Die Kegelformen leicht einfetten und je einen Teigstrang spiralförmig darumwickeln; die Windungen leicht überlappen lassen.",
+        "step_6": "Die geformten Hörnchen 20–30 Minuten ruhen lassen und anschließend mit verquirltem Ei bestreichen.",
         "step_7": "Kochen Sie bei 180°C für etwa 12-15 Minuten, bis sie gleichmäßig vergoldet sind; kühlen Sie ein paar Minuten und ziehen Sie die Formen.",
-        "step_8": "Lassen Sie es vollständig abkühlen, bevor Sie die Schokoladencreme füllen, so dass die Füllung nicht auflöst."
+        "step_8": "Die Hörnchen vollständig abkühlen lassen, bevor sie mit Schokoladencreme gefüllt werden, damit die Füllung nicht schmilzt."
       }
     },
     "pt": {
@@ -251,9 +251,9 @@
       "steps": {
         "step_1": "Prepare a massa brioche com farinha, leite, levedura, açúcar, ovo, sal e manteiga; misture até que se torne suave e elástica.",
         "step_2": "Cubra e deixe subir até duplicar, geralmente 60- 90 minutos dependendo da temperatura.",
-        "step_3": "Enquanto isso, prepare um creme de chocolate grosso, esfrie- o completamente e transfira- o para um saco à poche.",
+        "step_3": "Entretanto, prepare um creme de chocolate espesso, deixe arrefecer completamente e transfira-o para um saco de pasteleiro.",
         "step_4": "Desinflar suavemente a massa, dividi- la em porções e formar cordas longas e regulares.",
-        "step_5": "Graxa levemente os moldes do cone e enrole cada cordão espiral, apenas sobrepondo os giros sem deixar fissuras.",
+        "step_5": "Unte levemente os moldes em cone e enrole cada tira de massa em espiral, sobrepondo ligeiramente as voltas para não deixar aberturas.",
         "step_6": "Deixe os croissants em forma para ficarem de pé por 20-30 minutos, em seguida, escove- os com ovo batido.",
         "step_7": "Cozinhe a 180°C por cerca de 12-15 minutos, até que estejam uniformemente dourados; esfrie alguns minutos e remova os moldes.",
         "step_8": "Deixe esfriar completamente antes de preencher com creme de chocolate, para que o preenchimento não derreta."

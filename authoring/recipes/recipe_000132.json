@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000132",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Chainsaw Man",
   "animeReferences": [
@@ -192,7 +192,7 @@
       "steps": {
         "step_1": "Prepara las chuletas de tonkatsu tan pronto como estén fritas o bien calentadas, aún crujientes, y prepara la col cortada muy fina.",
         "step_2": "Esparce un velo delgado de mantequilla en el interior de las rebanadas de shokupan para crear una barrera contra la humedad.",
-        "step_3": "Sazona la chuleta con una salsa curry densa, evitando mojar excesivamente la pasta.",
+        "step_3": "Cubre la chuleta con salsa de curry espesa sin empapar demasiado el empanado.",
         "step_4": "Distribuye la col sobre la primera rebanada de pan y apoya sobre el tonkatsu caliente.",
         "step_5": "Cierra el sándwich, envuélvelo ligeramente con papel de horno y presiona con un peso moderado durante unos 2 minutos.",
         "step_6": "Corta las cortezas si quieres una forma más tradicional y corta el sándwich con un cuchillo muy afilado.",
@@ -262,9 +262,9 @@
         }
       },
       "steps": {
-        "step_1": "Halten Sie die frisch gebratenen oder gut erhitzten Tonkatsu-Schelatchen bereit, knusprig, und bereiten Sie den sehr fein geschnittenen Kohl vor.",
+        "step_1": "Die frisch frittierten oder gut aufgewärmten Tonkatsu-Schnitzel knusprig bereithalten und den Kohl sehr fein schneiden.",
         "step_2": "Spreize einen dünnen Schleier Butter auf der Innenseite der Shokupanscheiben, um eine Barriere gegen Feuchtigkeit zu schaffen.",
-        "step_3": "Würze die Schüssel mit einer dicken Curry-Sauce, um zu vermeiden, dass die Panade übermäßig nass.",
+        "step_3": "Das Schnitzel mit einer dickflüssigen Curry-Sauce würzen, ohne die Panade zu stark durchzuweichen.",
         "step_4": "Verteilen Sie den Kohl auf das erste Stück Brot und legen Sie über das heiße Tonkatsu.",
         "step_5": "Schließen Sie das Sandwich, wickeln Sie es leicht mit Backpapier und drücken Sie mit einem gemäßigten Gewicht für ca. 2 Minuten.",
         "step_6": "Schneide die Krusten, wenn du eine traditionellere Form willst, und schneide das Sandwich mit einem sehr scharfen Messer ab.",
@@ -298,9 +298,9 @@
         }
       },
       "steps": {
-        "step_1": "Mantenha- se prontos os cortetes de tonkatsu fritos ou bem aquecidos, ainda crocantes, e prepare o repolho cortado finamente.",
+        "step_1": "Prepare as costeletas tonkatsu acabadas de fritar ou bem reaquecidas, ainda crocantes, e corte a couve muito fina.",
         "step_2": "Espalhe um fino véu de manteiga no interior das fatias de shokupan para criar uma barreira contra a umidade.",
-        "step_3": "Sazonar a talha com um molho de curry espesso, evitando o encharque excessivo do pão.",
+        "step_3": "Cubra a costeleta com um molho de caril espesso, evitando encharcar a panagem.",
         "step_4": "Distribua o repolho na primeira fatia de pão e coloque sobre o tonkatsu quente.",
         "step_5": "Feche o sanduíche, enrole- o ligeiramente com papel para assar e pressione com um peso moderado por cerca de 2 minutos.",
         "step_6": "Corte as crostas se você quiser uma forma mais tradicional e corte o sanduíche com uma faca muito afiada.",

@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000155",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -242,10 +242,10 @@
       },
       "steps": {
         "step_1": "Cocine los discos de Daikon en agua hirviendo durante 10 minutos para ablandarlos y eliminar el amargo, escurrir.",
-        "step_2": "Quema los racimos de rizo en agua hirviendo durante 10 segundos, luego sumérgelos en agua helada y elimina cualquier escamas residuales suavemente.",
+        "step_2": "Escalda las rodajas de pescado en agua hirviendo durante 10 segundos, pásalas a agua con hielo y retira suavemente las escamas que queden.",
         "step_3": "En una cazuela de gran tamaño, une dashi, sake, azúcar, mirin y jengibre.",
-        "step_4": "Llévala a embotellada, acomoda al Daikon y al pez.",
-        "step_5": "Cúbrete con un Otoshibuta (cubierta fugaz) y cocina a fuego lento durante 20 minutos.",
+        "step_4": "Lleva el caldo a ebullición y añade con cuidado el daikon y el pescado.",
+        "step_5": "Cubre con una tapa interior otoshibuta y cuece a fuego bajo durante 20 minutos.",
         "step_6": "Combina la salsa de soja en los últimos 10 minutos reduciendo el líquido hasta que esté denso y brillante.",
         "step_7": "Servir el pescado y el Daikon bien impregnados del fondo de cocción oscuro y sabroso."
       }
@@ -338,12 +338,12 @@
       },
       "steps": {
         "step_1": "Kochen Sie die Daikon-Discs 10 Minuten lang in kochendem Wasser, um sie zu erweichen und die Bitterkeit zu entfernen.",
-        "step_2": "Er brennt 10 Sekunden lang in kochendem Wasser, taucht sie dann in eisiges Wasser ein und entfernt alle verbleibenden Schuppen.",
+        "step_2": "Die Fischstücke 10 Sekunden in kochendem Wasser blanchieren, dann sofort in Eiswasser geben und verbliebene Schuppen vorsichtig entfernen.",
         "step_3": "In einer großen Pfanne vereinen Sie Dashi, Sake, Zucker, Mirin und Ingwer.",
-        "step_4": "Bringt ihn zum Bluffen, schaut den Daikon und den Fisch an.",
-        "step_5": "Bedecken Sie mit einem Otoshibuta (Knabber) und kochen Sie mit niedrigem Fokus für 20 Minuten.",
+        "step_4": "Die Flüssigkeit aufkochen und Daikon sowie Fisch vorsichtig hineinlegen.",
+        "step_5": "Mit einem Otoshibuta (aufliegender Kochdeckel) abdecken und bei niedriger Hitze 20 Minuten sanft garen.",
         "step_6": "Kombinieren Sie die Sojasauce in den letzten 10 Minuten, indem Sie die Flüssigkeit bis dick und glänzend reduzieren.",
-        "step_7": "Servieren Sie den Fisch und den Daikon gut mit dem dunklen und leckeren Kochboden getränkt."
+        "step_7": "Fisch und Daikon mit der dunklen, aromatischen Schmorflüssigkeit überziehen und servieren."
       }
     },
     "pt": {
@@ -386,10 +386,10 @@
       },
       "steps": {
         "step_1": "Cozinhe os discos do Daikon em água fervente por 10 minutos para amolecê- los e remover o amargo, drenar.",
-        "step_2": "Ele queima as fatias de ricciola em água fervente por 10 segundos, depois mergulha em água congelada e remove as escalas restantes suavemente.",
+        "step_2": "Escalde as postas de peixe em água a ferver durante 10 segundos, passe-as para água gelada e retire delicadamente quaisquer escamas.",
         "step_3": "Em uma panela grande, adicione dashi, sake, açúcar, mirin e gengibre.",
-        "step_4": "Traz a ebulição, alimenta o Daikon e o peixe.",
-        "step_5": "Cubra com um Otoshibuta (cobertura caindo) e cozinhe a fogo lento durante 20 minutos.",
+        "step_4": "Leve o caldo à ebulição e coloque cuidadosamente o daikon e o peixe.",
+        "step_5": "Tape com um otoshibuta (tampa interior de cozedura) e cozinhe em lume brando durante 20 minutos.",
         "step_6": "Combine o molho de soja nos últimos 10 minutos reduzindo o líquido até que seja denso e brilhante.",
         "step_7": "Servir o peixe e o Daikon bem impregnados com o fundo de cozinha escuro e saboroso."
       }

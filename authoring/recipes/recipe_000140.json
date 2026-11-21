@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000140",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "K-On!",
   "animeReferences": [
@@ -169,7 +169,7 @@
       "steps": {
         "step_1": "Slice flour and Matcha in a bowl.",
         "step_2": "Add sugar and eggs, then add warm milk and melted butter by mixing with a whisk until you get a liquid batter without lumps.",
-        "step_3": "Rest in the fridge for 30 minutes.",
+        "step_3": "Let the batter rest in the refrigerator for 30 minutes.",
         "step_4": "Cook about 15-20 thin crepes in a lightly buttered non-stick pan, let them cool completely.",
         "step_5": "Mount the cream with the icing sugar and Matcha, then incorporate it with the pastry cream.",
         "step_6": "Assemble the dessert by placing the first crack on a plate, spread a thin layer of cream and cover with another crack.",
@@ -226,7 +226,7 @@
       "steps": {
         "step_1": "Setaccia farina e Matcha in una ciotola.",
         "step_2": "Unisci zucchero e uova, poi aggiungi il latte tiepido e il burro fuso amalgamando con una frusta fino a ottenere una pastella liquida e senza grumi.",
-        "step_3": "Riposo in frigo per 30 minuti.",
+        "step_3": "Lascia riposare la pastella in frigorifero per 30 minuti.",
         "step_4": "Cuoci circa 15-20 crepes sottilissime in una padella antiaderente leggermente imburrata, lasciale raffreddare completamente.",
         "step_5": "Monta la panna con lo zucchero a velo e il Matcha, poi incorporala alla crema pasticcera.",
         "step_6": "Assembla il dolce adagiando la prima crepe su un piatto, spalma uno strato sottile di crema e copri con un'altra crepe.",
@@ -281,12 +281,12 @@
         }
       },
       "steps": {
-        "step_1": "Ponga harina y Matcha en un tazón.",
+        "step_1": "Tamiza la harina y el matcha en un cuenco.",
         "step_2": "Combina azúcar y huevos, luego añade la leche tibia y la mantequilla fundida mezclando con unas varillas hasta obtener una masa líquida y sin grumos.",
-        "step_3": "Descanse en la nevera durante 30 minutos.",
+        "step_3": "Deja reposar la masa en el frigorífico durante 30 minutos.",
         "step_4": "Cocine alrededor de 15-20 crepes delgados en una sartén antiadherente ligeramente inburrada, déjelos enfriar completamente.",
         "step_5": "Monta la crema con el azúcar en velo y el Matcha, luego la incorporas a la crema pastelera.",
-        "step_6": "Ensambla el postre con la primera grieta sobre un plato, unta una capa fina de crema y cubre con otra grieta.",
+        "step_6": "Monta la tarta colocando la primera crepe en un plato, extiende una capa fina de crema y cubre con otra crepe.",
         "step_7": "Repite hasta que se agoten los ingredientes.",
         "step_8": "Espolvorear la superficie con Matcha en polvo antes de servir bien fría como nevera."
       }
@@ -340,7 +340,7 @@
       "steps": {
         "step_1": "Soie de farine et Matcha dans un bol.",
         "step_2": "Mélangez le sucre et les œufs, puis ajoutez le lait tiède et le beurre fondu en mélangeant avec un fouet jusqu'à obtenir une pâte liquide et sans grumeaux.",
-        "step_3": "Repos dans le frigo pendant 30 minutes.",
+        "step_3": "Laissez reposer la pâte au réfrigérateur pendant 30 minutes.",
         "step_4": "Faites cuire environ 15-20 crêpes très fines dans une poêle antiadhérente légèrement beurrée, laissez-les refroidir complètement.",
         "step_5": "Montez la crème avec le sucre à voile et le Matcha, puis ajoutez-la à la crème pâtissière.",
         "step_6": "Assembler le dessert en plaçant la première fissure sur un plat, enduire une fine couche de crème et couvrir avec une autre fissure.",
@@ -395,12 +395,12 @@
         }
       },
       "steps": {
-        "step_1": "Seide Mehl und Matcha in einer Schüssel.",
+        "step_1": "Mehl und Matcha in eine Schüssel sieben.",
         "step_2": "Zucker und Eier verrühren, dann lauwarme Milch und geschmolzene Butter mit dem Schneebesen einarbeiten, bis ein dünnflüssiger, klümpchenfreier Teig entsteht.",
-        "step_3": "Ich ruhe 30 Minuten im Kühlschrank.",
-        "step_4": "Kochen Sie ca. 15-20 dünne Crêpes in einer leicht bürstenden Pfanne, lassen Sie sie vollständig abkühlen.",
-        "step_5": "Sahne mit Schleierzucker und Matcha, dann in die Konditorei eingeben.",
-        "step_6": "Setzen Sie den Kuchen zusammen, indem Sie den ersten Risse auf eine Schüssel legen, schmieren Sie eine dünne Schicht von Creme und bedecken Sie ihn mit einem anderen Risse.",
+        "step_3": "Den Teig 30 Minuten im Kühlschrank ruhen lassen.",
+        "step_4": "Etwa 15–20 hauchdünne Crêpes in einer leicht gebutterten beschichteten Pfanne backen und vollständig abkühlen lassen.",
+        "step_5": "Sahne mit Puderzucker und Matcha aufschlagen und vorsichtig unter die Konditorcreme heben.",
+        "step_6": "Den Kuchen schichten: eine Crêpe auf einen Teller legen, dünn mit Creme bestreichen und mit der nächsten Crêpe bedecken.",
         "step_7": "Wiederhole, bis du die Zutaten versiehst.",
         "step_8": "Stauben Sie die Oberfläche mit Matcha-Pulver ab, bevor Sie sie aus dem Kühlschrank kühl servieren."
       }
@@ -452,12 +452,12 @@
         }
       },
       "steps": {
-        "step_1": "Corte farinha e Matcha em uma tigela.",
+        "step_1": "Peneire a farinha e o matcha para uma tigela.",
         "step_2": "Adicione açúcar e ovos, em seguida, adicione leite quente e manteiga derretida misturando- se com um batido até obter uma massa líquida sem nódulos.",
-        "step_3": "Descanse na geladeira por 30 minutos.",
+        "step_3": "Deixe a massa repousar no frigorífico durante 30 minutos.",
         "step_4": "Cozinhe cerca de 15-20 crepes finos em uma panela antiadherente levemente manteiga, deixe- os esfriar completamente.",
         "step_5": "Montar o creme com o açúcar gelado e Matcha, em seguida, incorporá- lo com o creme de pastelaria.",
-        "step_6": "Montar a sobremesa colocando a primeira fissura em um prato, espalhar uma camada fina de creme e cobrir com outra fissura.",
+        "step_6": "Monte a sobremesa colocando a primeira crepe num prato, espalhando uma camada fina de creme e cobrindo com outra crepe.",
         "step_7": "Repita até que os ingredientes estejam exaustos.",
         "step_8": "Ponha a superfície com o pó Matcha antes de servir frio da geladeira."
       }

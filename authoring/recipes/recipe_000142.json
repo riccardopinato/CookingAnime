@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000142",
-  "contentVersion": 4,
+  "contentVersion": 5,
   "status": "published",
   "inspirationTitle": "Hyouka",
   "animeReferences": [
@@ -132,7 +132,7 @@
       },
       "steps": {
         "step_1": "Divide the anko into six equal balls and keep them covered; dust the work surface with corn starch or starch.",
-        "step_2": "Mix glutinous rice flour, sugar, matcha and water in a microwave bowl until dry lumps remain.",
+        "step_2": "Mix glutinous rice flour, sugar, matcha and water in a microwave-safe bowl until no dry lumps remain.",
         "step_3": "Cover leaving a vent and bake at 600 W for about 90 seconds.",
         "step_4": "Mix with a wet spatula and cook about 60 seconds, until the dough is shiny, elastic and evenly cooked.",
         "step_5": "Transfer immediately the hot mass to the dusted surface, cover it with other starch and let it warm enough to handle it.",
@@ -214,10 +214,10 @@
       },
       "steps": {
         "step_1": "Divide el anko en seis bolitas iguales y mantenlas tapadas. Espolvorea la superficie de trabajo con almidón de maíz o fécula.",
-        "step_2": "Mezcla harina de arroz glutinoso, azúcar, matcha y agua en un tazón adecuado para el microondas hasta que queden grumos secos.",
-        "step_3": "Cubre dejando un sarpullido y horneando a 600 W durante unos 90 segundos.",
+        "step_2": "Mezcla la harina de arroz glutinoso, el azúcar, el matcha y el agua en un recipiente apto para microondas hasta que no queden grumos secos.",
+        "step_3": "Cubre el recipiente dejando una salida para el vapor y cocina a 600 W durante unos 90 segundos.",
         "step_4": "Mezcla con una espátula mojada y cocina unos 60 segundos más, hasta que la masa esté lúcida, elástica y cocida uniformemente.",
-        "step_5": "Transfiera la masa caliente al suelo, cúbrala con más almidón y déjela tibia lo suficiente para poder manejarla.",
+        "step_5": "Pasa la masa caliente a una superficie espolvoreada con almidón, cúbrela con un poco más y deja templar hasta que puedas manipularla.",
         "step_6": "Divide en seis porciones, aplanalas en discos y adelgaza ligeramente los bordes.",
         "step_7": "Pon una bola de anko en el centro, cierra los bordes pellizcándolos bien y apoya el daifuku con el cierre hacia abajo.",
         "step_8": "Elimina el exceso de almidón y sirve a temperatura ambiente el mismo día."
@@ -255,7 +255,7 @@
       },
       "steps": {
         "step_1": "Diviser l'anko en six boules égales et les garder couvertes; nettoyer le plan de travail avec de l'amidon de maïs ou de fécule.",
-        "step_2": "Mélangez de la farine de riz à base d'glutinos, du sucre, du matcha et de l'eau dans un bol adapté au micro-ondes jusqu'à ce qu'il reste des grumeaux secs.",
+        "step_2": "Mélangez farine de riz gluant, sucre, matcha et eau dans un récipient adapté au micro-ondes jusqu'à disparition des grumeaux secs.",
         "step_3": "Couvrez en laissant une éruption et faites cuire à 600 W pendant environ 90 secondes.",
         "step_4": "Mélanger avec une spatule humide et cuire encore environ 60 secondes, jusqu'à ce que la pâte soit brillante, élastique et uniformément cuit.",
         "step_5": "Transférez immédiatement la masse chaude sur le plateau pulvérisé, couvrez-la avec un autre amidon et laissez-la tièder suffisamment pour pouvoir la manipuler.",
@@ -296,12 +296,12 @@
       },
       "steps": {
         "step_1": "Teilen Sie die Anko in sechs gleiche Bälle und halten Sie sie bedeckt; stauben Sie die Arbeitsfläche mit Maisstärke.",
-        "step_2": "Mische Reismehl, Zucker, Matcha und Wasser in eine für die Mikrowelle geeignete Schüssel, bis trockene Klumpen übrig sind.",
-        "step_3": "Bedecken Sie einen Ausschlag und kochen Sie bei 600 W für ca. 90 Sekunden.",
+        "step_2": "Klebreismehl, Zucker, Matcha und Wasser in einer mikrowellengeeigneten Schüssel verrühren, bis keine trockenen Klümpchen mehr vorhanden sind.",
+        "step_3": "Die Schüssel mit einer Abdeckung versehen, dabei eine Öffnung für den Dampf lassen, und bei 600 Watt etwa 90 Sekunden erhitzen.",
         "step_4": "Mit einem nassen Spachtel mischen und noch ca. 60 Sekunden kochen, bis der Teig glänzend, elastisch und gleichmäßig gekocht ist.",
-        "step_5": "Lege die warme Masse sofort auf die abgestaubte Ebene, bedecke sie mit einer anderen Stärke und lass sie so tief wie möglich eindringen, damit sie damit umgehen kann.",
+        "step_5": "Die heiße Mochimasse auf die mit Stärke bestäubte Fläche geben, mit weiterer Stärke bestäuben und so weit abkühlen lassen, dass sie sich bearbeiten lässt.",
         "step_6": "Teilen Sie sie in sechs Portionen, glätten Sie sie in Scheiben und verdünnen Sie die Ränder leicht.",
-        "step_7": "Legen Sie einen Ball von Anko in die Mitte, schließen Sie die Lenden zusammen und drücken Sie den Daifuku mit dem Verschluss nach unten.",
+        "step_7": "Eine Anko-Kugel in die Mitte legen, die Teigränder gut zusammendrücken und den Daifuku mit der Naht nach unten ablegen.",
         "step_8": "Entfernen Sie überschüssige Stärke und servieren Sie bei Raumtemperatur am selben Tag."
       }
     },
@@ -337,12 +337,12 @@
       },
       "steps": {
         "step_1": "Divida o anko em seis bolas iguais e mantenha- as cobertas; poeira a superfície de trabalho com amido de milho ou amido.",
-        "step_2": "Misture farinha de arroz glutinoso, açúcar, matcha e água em uma tigela de microondas até que os blocos secos permaneçam.",
-        "step_3": "Cobrir deixando um ventilador e assar a 600 W por cerca de 90 segundos.",
+        "step_2": "Misture a farinha de arroz glutinoso, o açúcar, o matcha e a água numa tigela própria para micro-ondas até não restarem grumos secos.",
+        "step_3": "Tape deixando uma pequena abertura para o vapor e cozinhe a 600 W durante cerca de 90 segundos.",
         "step_4": "Misture com uma espátula molhada e cozinhe cerca de 60 segundos, até que a massa seja brilhante, elástica e cozida uniformemente.",
-        "step_5": "Transferir imediatamente a massa quente para a superfície em poeira, cobri- la com outro amido e deixá- la aquecer o suficiente para lidar com ela.",
+        "step_5": "Passe imediatamente a massa quente para a superfície polvilhada com amido, cubra com mais um pouco e deixe arrefecer até conseguir manuseá-la.",
         "step_6": "Dividir em seis porções, aplaná- las em discos e diluir ligeiramente as bordas.",
-        "step_7": "Coloque uma bola de anko no centro, feche as bordas apertando- as bem e coloque o daifuku com o fechamento.",
+        "step_7": "Coloque uma bola de anko no centro, una as bordas apertando bem e disponha o daifuku com a junção virada para baixo.",
         "step_8": "Remova o excesso de amido e sirva à temperatura ambiente no mesmo dia."
       }
     }
