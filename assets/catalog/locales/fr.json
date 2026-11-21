@@ -2652,7 +2652,7 @@
     },
     "recipe_000053": {
       "title": "Ebi Tendon — tempura de crevettes et légumes sur riz, sauce tentsuyu",
-      "description": "Dans l'Ebi Tendon, le riz chaud soutient les crevettes et les légumes en tempura fraîchement frits. La pâte est rapidement mélangée avec de l'eau glacée, tandis que la sauce tenduyu de dashi, de soja et de myrin est préparée séparément et ajoutée au moment de servir. Le contraste naît du riz encore chaud et de la pâte froide; la sauce se distribue sans submerger la croûte de la tempura.",
+      "description": "L'Ebi Tendon associe du riz chaud à des crevettes et légumes tout juste frits en tempura. Mélangez rapidement la pâte avec de l'eau glacée, préparez à part la sauce tentsuyu au dashi, soja et mirin, puis versez-en une petite quantité au service pour préserver le croustillant.",
       "animeContext": "Cette recette s'inspire librement de Food Wars! (Shokugeki no Soma), Mob Psycho 100. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "gamberone_freschi_sgusciati": {
@@ -2706,14 +2706,14 @@
       },
       "stepTexts": {
         "step_1": "Dans une casserole, ajoutez le bouillon dashi, la sauce soja, la mirin et le sucre.",
-        "step_2": "Porte à léger frémissement pendant 2 minutes pour dissoudre le sucre et permettre à l’alcool du mirin de s’évaporer.",
-        "step_3": "Éteins ça et garde ça de côté.",
-        "step_4": "Pratiquez 3-4 petites coupures diagonales sur le ventre de chaque crevette et étendez-la doucement pour éviter qu'elle ne se frise pendant la cuisson.",
+        "step_2": "Portez à léger frémissement pendant 2 minutes pour dissoudre le sucre et laisser une partie de l'alcool du mirin s'évaporer.",
+        "step_3": "Coupez le feu et réservez la sauce.",
+        "step_4": "Pratiquez 3 à 4 petites incisions diagonales sous chaque crevette et redressez-la délicatement pour limiter sa courbure pendant la friture.",
         "step_5": "Travaillez légèrement le jaune avec de l'eau glacée.",
         "step_6": "Combinez la farine tout à la fois et amalgamez très peu avec les baguettes (la pâte doit rester grimeuse et froide).",
         "step_7": "Chauffage abondant d'huile à 180°C.",
         "step_8": "Infarine légèrement les crevettes et les légumes, trempez-les dans la pâte froide et faites-les frire pendant environ 2-3 minutes jusqu'à ce que la tempura soit dorée et croustillante.",
-        "step_9": "Placez le riz chaud dans les bols (Donburi), arrosez-le avec une cuillère à soupe de sauce Tentsuyu, adagie au-dessus des crevettes et des légumes en tempura et ajoutez un autre fil de sauce chaude avant de servir."
+        "step_9": "Répartissez le riz chaud dans des bols donburi et arrosez d'une cuillère de tentsuyu. Posez les crevettes et légumes en tempura dessus, ajoutez un filet de sauce chaude et servez aussitôt."
       }
     },
     "recipe_000054": {
@@ -2905,7 +2905,7 @@
     },
     "recipe_000057": {
       "title": "Kurogoma dango — boulettes de riz au sésame noir grillé",
-      "description": "Les Kurogoma Dango sont des boules de riz d'abord bouillie et refroidie dans de l'eau et de la glace, puis enfilées sur des brochettes et légèrement grillées. Une sauce chaude de pâtes de sésame noir, sucre, soja et myrin en complète la surface. Le grill léger des brochettes précède le nappage: le sésame noir reste ainsi le protagoniste de la finition brillante et parfumée.",
+      "description": "Les Kurogoma Dango sont des boulettes de farine de riz gluant, d'abord bouillies puis refroidies dans l'eau glacée, enfilées sur des brochettes et brièvement grillées. Une sauce tiède à base de pâte de sésame noir, sucre, soja et mirin les nappe juste avant le service.",
       "animeContext": "Cette recette s'inspire librement de Gintama, Samurai Champloo. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "farina_di_riso_glutinoso": {
@@ -2946,8 +2946,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "Dans un bol, il mélange la farine de riz à base de sucre.",
-        "step_2": "Combinez l'eau en fil en pétrissant avec vos doigts jusqu'à ce qu'un petit pain doux de la consistance semblable au lobe de l'oreille se forme.",
+        "step_1": "Mélangez la farine de riz gluant et le sucre dans un saladier.",
+        "step_2": "Versez progressivement l'eau tout en pétrissant du bout des doigts, jusqu'à obtenir une pâte souple de consistance comparable au lobe de l'oreille.",
         "step_3": "Diviser la pâte en 12 boules égales en les faisant rouler entre les paumes des mains.",
         "step_4": "Plonge tes balles dans un pot d'eau bouillante.",
         "step_5": "Quand ils montent à flot, laissez cuire encore deux minutes.",
@@ -2955,7 +2955,7 @@
         "step_7": "Dans une casserole, ajoutez les pâtes de sésame noir, le sucre, la sauce soja, la mirin et l'eau.",
         "step_8": "Chauffage à feu doux en mélangeant pendant 2 minutes jusqu'à ce que la sauce soit sombre, veloutée et parfumée.",
         "step_9": "Il glisse 3 balles de danse sur chaque brochette de bambou.",
-        "step_10": "Grille légèrement les brochettes sur une poêle anti-adhérente pendant 1 minute par côté, puis nappa généreusement avec la sauce chaude au sésame noir avant de servir."
+        "step_10": "Faites légèrement griller les brochettes dans une poêle antiadhésive pendant 1 minute de chaque côté, puis nappez généreusement les dango de sauce chaude au sésame noir avant de servir."
       }
     },
     "recipe_000058": {
@@ -3050,7 +3050,7 @@
     },
     "recipe_000060": {
       "title": "Castella — génoise japonaise moelleuse",
-      "description": "Le Castella est un dessert haut et doux qui obtient du volume en montant longtemps des œufs et du sucre. Il s'intègre miel et farine tamisée sans démonter le composé, puis il se cuite dans le moule rectangulaire et se laisse reposer enveloppé pour stabiliser la molle. Le repos enveloppé après la cuisson aide à retenir l'humidité; la voile finale de miel complète la surface dorée.",
+      "description": "Le Castella est un biscuit japonais haut et moelleux qui doit son volume à des œufs longuement fouettés avec du sucre. Incorporez le miel et la farine tamisée sans faire retomber la pâte, puis cuisez dans un moule rectangulaire. Le repos du gâteau enveloppé préserve l'humidité de sa mie; une fine couche de miel dore sa surface.",
       "animeContext": "Cette recette s'inspire librement de Si alza il vento (Studio Ghibli), Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -3080,13 +3080,13 @@
       },
       "stepTexts": {
         "step_1": "Dans une tasse, faites fondre le miel dans l'eau tiède avec le mirin.",
-        "step_2": "Dans un grand bol, il monte les œufs avec du sucre en utilisant des fouets électriques pendant au moins 10-12 minutes.",
-        "step_3": "Jusqu'à ce que le composé devienne clair, spumeux et triple de volume.",
+        "step_2": "Dans un grand saladier, fouettez les œufs et le sucre au batteur électrique pendant au moins 10 à 12 minutes.",
+        "step_3": "Continuez jusqu'à ce que le mélange devienne pâle, mousseux et triple approximativement de volume.",
         "step_4": "Ajouter au fil le mélange de miel dans les œufs montés en continuant à mélanger à basse vitesse pendant 1 minute.",
-        "step_5": "Fouille la farine sur le composé en trois reprises, l'incorporant doucement de bas en haut avec une spatule pour ne pas démonter la pâte.",
+        "step_5": "Tamisez la farine en trois fois, puis incorporez-la délicatement à la spatule de bas en haut pour ne pas faire retomber la préparation.",
         "step_6": "Ajouter la pâte dans un moule rectangulaire doublé de papier four.",
         "step_7": "Faites cuire au four à 160°C au four statique préchauffé pendant 35-40 minutes jusqu'à ce que la surface soit dorée et qu'une tige en sorte sèche, fraîchement fourrée.",
-        "step_8": "Renversez la surface avec un voile de miel, enveloppez le gâteau dans le film transparent et laissez-la reposer dans le réfrigérateur pendant quelques heures: ce passage rendra la Castella incroyablement humide, douce et parfumée."
+        "step_8": "Badigeonnez la surface d'une fine couche de miel, enveloppez le gâteau de film alimentaire et laissez-le reposer quelques heures au réfrigérateur afin de préserver une mie moelleuse et humide."
       }
     },
     "recipe_000061": {
@@ -3498,7 +3498,7 @@
     },
     "recipe_000067": {
       "title": "Monjayaki — galette salée grillée façon Tokyo",
-      "description": "Le Monjayaki se prépare sur une plaque avec du chou, du tenkasu et de la viande ou des fruits de mer disposés à l'anneau. Au centre, on verse une pâte très liquide à base de dashi, de farine et de sauce Worcestershire, puis le tout est étendu et laissé former une croûte à ramasser avec de petites spatules.",
+      "description": "Le Monjayaki se prépare sur une plaque chaude : chou, tenkasu et viande ou fruits de mer forment un anneau autour d'une pâte très liquide à base de dashi, farine et sauce Worcestershire. Versez la pâte au centre, laissez-la épaissir puis étalez l'ensemble jusqu'à formation d'une fine croûte. On le mange directement sur la plaque avec de petites spatules métalliques, les hagashi.",
       "animeContext": "Cette recette s'inspire librement de K-On!, March Comes in Like a Lion. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "cavolo_cappuccio_tagliato_finissimo": {
@@ -3533,13 +3533,13 @@
       "stepTexts": {
         "step_1": "Dans une cruche, combinez le bouillon dashi, la farine et la sauce Worcestershire avec un fouet.",
         "step_2": "La pâte sera beaucoup plus liquide que celle de l'Okonomiyaki.",
-        "step_3": "Sur une plaque électrique ou une poêle grande bien chaude reliez le chou, la viande/fruits de mer et le Tenkasu.",
-        "step_4": "Faites cuire en sautant les ingrédients pendant 3 minutes.",
-        "step_5": "Avec deux spatules forme un grand anneau/vulcane avec le chou au centre de la plaque, laissant un trou vide au milieu.",
+        "step_3": "Déposez le chou, la viande ou les fruits de mer et le tenkasu sur une plaque électrique ou une grande poêle bien chaude.",
+        "step_4": "Faites sauter les ingrédients pendant 3 minutes.",
+        "step_5": "Avec deux petites spatules, formez un large anneau de chou sur la plaque en laissant un creux au centre.",
         "step_6": "Ajoutez délicatement la pâte liquide au centre du volcan en deux prises, la laissant épaissir légèrement avant de mélanger tout cela ensemble.",
         "step_7": "Éteins le composé en le frottant sur la plaque.",
         "step_8": "Continuez la cuisson jusqu'à ce que la partie inférieure crée une croûte foncée et croustillante.",
-        "step_9": "Vous mangez directement à partir de la plaque avec de petites spatules métalliques (Hagashi)!"
+        "step_9": "Dégustez directement sur la plaque avec de petites spatules métalliques appelées hagashi, en prenant garde aux brûlures."
       }
     },
     "recipe_000068": {
@@ -3777,7 +3777,7 @@
     },
     "recipe_000072": {
       "title": "Yakisoba traditionnel à la plancha",
-      "description": "Le Yakisoba classique se prépare en sautant des nouilles précuites avec du porc, du chou et des légumes sur la plaque. La sauce à base de Worcestershire et des condiments enveloppe les pâtes dans le wok; anori, gingembre rouge et katsuobushi complètent le plat au service. Le passage sur la plaque à feu haute alliage sauce et noodles; anori, biens shoga et katsuobushi s'ajoutent comme joint.",
+      "description": "Le yakisoba classique se prépare en faisant sauter des nouilles précuites avec du porc, du chou et des légumes sur une plaque chaude ou dans un wok. La sauce à base de Worcestershire enrobe les nouilles à feu vif; terminez par de l'aonori, du beni shoga (gingembre rouge mariné) et des flocons de bonite katsuobushi.",
       "animeContext": "Cette recette s'inspire librement de My Hero Academia, Food Wars!. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "noodles_precotti_per_yakisoba": {
@@ -3838,12 +3838,12 @@
         "step_2": "Chauffez une plaque anti-adhérente ou un wok avec un fil d'huile.",
         "step_3": "Faites cuire votre ventre de porc en morceaux jusqu'à ce qu'il devienne légèrement croquant.",
         "step_4": "Combinez l'oignon, les carottes et le chou capuche.",
-        "step_5": "Saute à feu vif pendant 3-4 minutes en gardant les légumes croustillants.",
+        "step_5": "Faites sauter les ingrédients à feu vif pendant 3 à 4 minutes en gardant les légumes croquants.",
         "step_6": "Rincez les nouilles sous l'eau chaude pour les dégourdir, puis joignez-les dans la poêle avec 2 cuillères à soupe d'eau.",
         "step_7": "Couvrez avec un couvercle pendant 1 minute pour faire vaporiser.",
         "step_8": "Ajoutez la sauce Yakisoba préparée au-dessus des nouilles et des légumes.",
         "step_9": "Saute et amalgame vigoureusement à feu haut pendant 2 minutes jusqu'à ce que la sauce se caramel légèrement.",
-        "step_10": "Servez-vous chaud avec Aonori, Beni Shoga et des flocons de Katsuobushi."
+        "step_10": "Servez chaud, garni d'aonori, de beni shoga et de flocons de katsuobushi."
       }
     },
     "recipe_000073": {
@@ -4186,7 +4186,7 @@
     },
     "recipe_000079": {
       "title": "Kani cream korokke — croquettes fondantes au crabe",
-      "description": "Les Kani Cream Korokke contiennent une farce crémeuse de crabe, d'oignon et de béchamel dans une panure croustillante. Le composé est refroidi avant de former les croquettes; après la friture, ils servent chauds avec de la sauce tonkatsu. Le cœur crémeux du crabe contraste avec la panure dorée: après la friture, les croquettes s'avalent et se servent de tonkatsu.",
+      "description": "Les Kani Cream Korokke sont des croquettes panées et croustillantes, garnies d'un mélange crémeux de crabe, d'oignon et de béchamel épaisse. Refroidissez la farce pour pouvoir la façonner, panez les croquettes ovales et faites-les frire jusqu'à ce qu'elles soient dorées. Égouttez et servez chaudes avec une sauce tonkatsu.",
       "animeContext": "Cette recette s'inspire librement de Isekai Shokudo (Restaurant to Another World), Spy x Family. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "polpa_di_granchio": {
@@ -4239,11 +4239,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Dans une casserole, faites fondre le beurre et mangez l'oignon à feu doux sans le faire dorer.",
+        "step_1": "Faites fondre le beurre dans une poêle et faites doucement revenir l'oignon haché à feu doux sans le faire dorer.",
         "step_2": "Combinez la farine et laissez cuire pendant 2 minutes en mélangeant (roux).",
         "step_3": "Ajoutez le lait chaud au fil en mélangeant avec le fouet jusqu'à ce qu'on crée une crème besciamel très dense et lisse.",
         "step_4": "Combinez la pulpe de crabe, règle de sel, poivre et noix de muscade.",
-        "step_5": "Ajoutez le composé sur une plaque plate, couvrez en contact avec le film et mettez au réfrigérateur pendant au moins 1 heure jusqu'à ce qu'il soit solide et modelé.",
+        "step_5": "Étalez la préparation dans un plat peu profond, couvrez de film alimentaire au contact et réfrigérez au moins 1 heure, jusqu'à ce qu'elle soit assez ferme pour être façonnée.",
         "step_6": "Avec les mains légèrement huilées, divisez le composé froid en 8 portions ovales.",
         "step_7": "Il passe chaque croquette dans la farine, puis dans l'œuf claqué, puis dans le Panko, le faisant bien adhérer.",
         "step_8": "Fritez en huile chaude à 180°C pendant 3 minutes jusqu'à ce que vous soyez dorés et croquants.",

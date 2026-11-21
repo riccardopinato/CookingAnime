@@ -2652,7 +2652,7 @@
     },
     "recipe_000053": {
       "title": "Ebi Tendon — tempura de gambas y verduras sobre arroz con salsa tentsuyu",
-      "description": "En el Ebi Tendon el arroz caliente sostiene camarones y verduras en tempura recién fritos. La masa se mezcla rápidamente con agua helada, mientras que la salsa tentsuyu de dashi, soja y mirin se prepara aparte y se añade a la hora de servir. El contraste nace del arroz todavía caliente y de la masa fría; la salsa se distribuye sin sumergir la corteza de la tempura.",
+      "description": "El Ebi Tendon combina arroz caliente con gambas y verduras en tempura recién fritas. Mezcla la masa brevemente con agua muy fría y prepara aparte la salsa tentsuyu de dashi, soja y mirin; añade solo un poco de salsa templada al servir para conservar el rebozado crujiente.",
       "animeContext": "Esta receta está inspirada temáticamente en Food Wars! (Shokugeki no Soma), Mob Psycho 100. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "gamberone_freschi_sgusciati": {
@@ -2706,14 +2706,14 @@
       },
       "stepTexts": {
         "step_1": "En una olla, une el caldo dashi, la salsa de soja, el mirin y el azúcar.",
-        "step_2": "Calienta suavemente durante 2 minutos para disolver el azúcar y evaporar parte del alcohol del mirin.",
-        "step_3": "Apágalo y mantente a un lado.",
-        "step_4": "Practica 3-4 pequeños cortes diagonales en el vientre de cada camarón y cúbrelo suavemente para evitar que se enriquezca durante la cocción.",
+        "step_2": "Lleva a un hervor suave durante 2 minutos para disolver el azúcar y dejar que se evapore parte del alcohol del mirin.",
+        "step_3": "Apaga el fuego y reserva la salsa.",
+        "step_4": "Haz 3–4 pequeños cortes diagonales en la parte inferior de cada gamba y estírala suavemente para que se curve menos al freír.",
         "step_5": "Trabaja un poco la yema con agua helada.",
         "step_6": "Mezclar la harina a la vez y mezclar muy poco con los palillos (la masa debe permanecer grumosa y fría).",
         "step_7": "Caliente abundante aceite a 180 °C.",
         "step_8": "Infarina ligeramente las gambas y las verduras, sumérgelas en la masa fría y fríelas durante unos 2-3 minutos hasta que la tempura sea dorada y crujiente.",
-        "step_9": "Pon el arroz caliente en los cuencos (Donburi), rodéalo con una cucharada de salsa Tentsuyu, pon sobre las gambas y las verduras en tempura y añade otro hilo de salsa caliente antes de servir."
+        "step_9": "Reparte el arroz caliente en cuencos donburi y riega con una cucharada de tentsuyu. Coloca encima las gambas y verduras en tempura, añade un poco más de salsa caliente y sirve enseguida."
       }
     },
     "recipe_000054": {
@@ -2905,7 +2905,7 @@
     },
     "recipe_000057": {
       "title": "Kurogoma dango — bolitas de arroz con sésamo negro tostado",
-      "description": "Los Kurogoma Dango son bolas de arroz glutinoso primero hervidas y enfriadas en agua y hielo, luego apuñaladas en pinchos y ligeramente a la parrilla. Una salsa caliente de pasta de sésamo negro, azúcar, soja y mirin completa su superficie. La ligera parrilla de los pinchos precede al bordado: el sésamo negro sigue siendo así protagonista del acabado brillante y perfumado.",
+      "description": "Los Kurogoma Dango son bolitas de harina de arroz glutinoso que se hierven, se enfrían en agua con hielo y se ensartan en brochetas antes de dorarlas brevemente. Se cubren al servir con una salsa templada de pasta de sésamo negro, azúcar, soja y mirin.",
       "animeContext": "Esta receta está inspirada temáticamente en Gintama, Samurai Champloo. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "farina_di_riso_glutinoso": {
@@ -2946,8 +2946,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "En un tazón, mezcla la harina de arroz glutinoso con azúcar.",
-        "step_2": "Junta el agua con el hilo y amasa con los dedos hasta que se forme un plato suave con una consistencia similar al lóbulo del oído.",
+        "step_1": "Mezcla la harina de arroz glutinoso con el azúcar en un cuenco.",
+        "step_2": "Añade el agua poco a poco y amasa con los dedos hasta obtener una masa blanda y flexible, de consistencia similar al lóbulo de la oreja.",
         "step_3": "Divide la masa en 12 bolas iguales rodando entre las palmas de las manos.",
         "step_4": "Sumerge las bolas en una olla de agua hirviendo.",
         "step_5": "Cuando suban a la superficie, deja que se cocinen dos minutos más.",
@@ -2955,7 +2955,7 @@
         "step_7": "En una olla, une la pasta de sésamo negra, el azúcar, la salsa de soja, el mirin y el agua.",
         "step_8": "Caliente a fuego dulce mezclando durante 2 minutos hasta que la salsa se vuelve oscura, aterciopelada y perfumada.",
         "step_9": "Apuñala 3 bolas de dango en cada broche de bambú.",
-        "step_10": "Rejilla ligeramente los pinchos en una sartén antiadherente durante 1 minuto por lado, luego napa generosamente con la salsa caliente al sésamo negro antes de servir."
+        "step_10": "Dora ligeramente las brochetas en una sartén antiadherente durante 1 minuto por cada lado y cúbrelas generosamente con la salsa caliente de sésamo negro antes de servir."
       }
     },
     "recipe_000058": {
@@ -3050,7 +3050,7 @@
     },
     "recipe_000060": {
       "title": "Castella — bizcocho japonés muy esponjoso",
-      "description": "El castillo es un dulce alto y suave que obtiene volumen montando durante mucho tiempo huevos y azúcar. Se incorporan miel y harina tambaleada sin desmontar el compuesto, luego se cocina en el molde rectangular y se deja descansar envuelto para estabilizar la blando. El descanso envuelto después de la cocción ayuda a retener la humedad; el velado final de miel completa la superficie dorada.",
+      "description": "El Castella es un bizcocho japonés alto y esponjoso que obtiene su volumen al batir huevos y azúcar durante varios minutos. Incorpora miel y harina tamizada con suavidad, hornea en un molde rectangular y deja reposar el bizcocho envuelto para conservar la humedad. Una capa fina de miel completa la superficie dorada.",
       "animeContext": "Esta receta está inspirada temáticamente en Si alza il vento (Studio Ghibli), Gintama. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "uovo_grandi_a_temperatura_ambiente": {
@@ -3080,13 +3080,13 @@
       },
       "stepTexts": {
         "step_1": "En una taza, derrite la miel en agua tibia junto con el mirin.",
-        "step_2": "En un cuenco grande, monta huevos con azúcar usando batidora eléctrica durante al menos 10-12 minutos.",
-        "step_3": "Hasta que el compuesto se vuelve claro, espumoso y triple de volumen.",
+        "step_2": "En un cuenco grande, bate los huevos con el azúcar usando una batidora eléctrica durante al menos 10–12 minutos.",
+        "step_3": "Continúa hasta que la mezcla esté pálida, espumosa y haya triplicado aproximadamente su volumen.",
         "step_4": "Añadir la mezcla de miel al hilo en los huevos montados y mezclarla a baja velocidad durante 1 minuto.",
-        "step_5": "Colocar la harina sobre la mezcla en tres tomas, incorporandola suavemente desde abajo hacia arriba con una espátula para no desmontar la masa.",
+        "step_5": "Tamiza la harina sobre la mezcla en tres tandas e incorpórala con una espátula mediante movimientos suaves de abajo arriba, sin perder el aire.",
         "step_6": "Añadir la masa en un molde rectangular forrado en papel horno.",
         "step_7": "Cocine en horno a 160°C en horno estático precalentado durante 35-40 minutos hasta que la superficie esté dorada y un palillo salga seco, recién horneado.",
-        "step_8": "Aprieta la superficie con un velo de miel, envuelve el pastel en la película transparente y déjala reposar en el refrigerador por unas horas: este paso hará que la Castella sea increíblemente húmeda, suave y perfumada."
+        "step_8": "Pincela la superficie con una capa fina de miel, envuelve el bizcocho en film alimentario y déjalo reposar unas horas en la nevera para conservar una miga húmeda y tierna."
       }
     },
     "recipe_000061": {
@@ -3498,7 +3498,7 @@
     },
     "recipe_000067": {
       "title": "Monjayaki — tortita salada a la plancha al estilo de Tokio",
-      "description": "El Monjayaki se prepara sobre una placa con col, tenkasu y carne o mariscos dispuestos en anillo. En el centro se derrama una masa muy líquida a base de dashi, harina y salsa Worcestershire, luego se extiende y se deja formar una corteza para recoger con pequeñas espátulas.",
+      "description": "El Monjayaki se cocina en una plancha caliente: la col, el tenkasu y la carne o el marisco forman un anillo alrededor de una masa muy líquida de dashi, harina y salsa Worcestershire. Vierte la masa en el centro, deja que espese y extiéndelo todo hasta formar una fina costra. Se come directamente de la plancha con pequeñas espátulas metálicas llamadas hagashi.",
       "animeContext": "Esta receta está inspirada temáticamente en K-On!, March Comes in Like a Lion. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "cavolo_cappuccio_tagliato_finissimo": {
@@ -3533,13 +3533,13 @@
       "stepTexts": {
         "step_1": "En una jarra une el caldo Dashi, la harina y la salsa Worcestershire golpeando bien con unas varillas.",
         "step_2": "La masa será mucho más líquida que la de Okonomiyaki.",
-        "step_3": "En una placa eléctrica o sartén grande bien caliente une la col, la carne/frutos de mar y el Tenkasu.",
-        "step_4": "Cocina saltando los ingredientes durante 3 minutos.",
-        "step_5": "Con dos espátulas forma un gran anillo/vulcano con la col en el centro de la placa, dejando un agujero vacío en el medio.",
+        "step_3": "Pon la col, la carne o el marisco y el tenkasu en una plancha eléctrica o sartén grande bien caliente.",
+        "step_4": "Saltea los ingredientes durante 3 minutos.",
+        "step_5": "Con dos espátulas pequeñas forma un anillo amplio con la mezcla de col, dejando un hueco en el centro de la plancha.",
         "step_6": "Añade suavemente la masa líquida al centro del volcán en dos tomas, dejándola espesar ligeramente antes de mezclarlo todo juntos.",
         "step_7": "Extiende el compuesto aplanado sobre la placa.",
         "step_8": "Sigue cocinando hasta que la parte inferior cree una corteza oscura y crujiente.",
-        "step_9": "Se come directamente de la placa con pequeñas espátulas metálicas (Hagashi)!"
+        "step_9": "Come el monjayaki directamente de la plancha con espátulas metálicas pequeñas llamadas hagashi, con cuidado de no quemarte."
       }
     },
     "recipe_000068": {
@@ -3777,7 +3777,7 @@
     },
     "recipe_000072": {
       "title": "Yakisoba clásico a la plancha",
-      "description": "La Yaquisoba clásica se prepara saltando fideos precocidos con cerdo, col y verduras en la placa. La salsa a base de Worcestershire y condimentos envuelve la pasta en el wok; aonores, jengibre rojo y katsoubushi completan el plato al servicio. El paso sobre la placa de fuego alta aleación de salsa y fideos; aonores, bienes shoga y katsoubushi se añaden como junta.",
+      "description": "La yakisoba clásica se prepara salteando fideos precocidos con panceta de cerdo, col y verduras en una plancha o wok caliente. La salsa a base de Worcestershire envuelve los fideos a fuego fuerte; termina con aonori, beni shoga (jengibre rojo encurtido) y copos de bonito katsuobushi.",
       "animeContext": "Esta receta está inspirada temáticamente en My Hero Academia, Food Wars!. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "noodles_precotti_per_yakisoba": {
@@ -3838,12 +3838,12 @@
         "step_2": "Calienta una placa antiadherente o un wok con un hilo de aceite.",
         "step_3": "Cocine la barriga de cerdo hasta que se haga ligeramente crujiente.",
         "step_4": "Junta la cebolla, las zanahorias y la col.",
-        "step_5": "Salta a fuego vivo durante 3-4 minutos manteniendo las verduras crujientes.",
+        "step_5": "Saltea a fuego fuerte durante 3–4 minutos sin que las verduras pierdan su textura crujiente.",
         "step_6": "Enjuague los fideos bajo agua caliente para desengranarlos, luego unírselos en la sartén junto con 2 cucharadas de agua.",
         "step_7": "Cubre con una tapa durante 1 minuto para vaporizar.",
         "step_8": "Añade la salsa Yaquisoba preparada sobre fideos y verduras.",
         "step_9": "Saltea y remueve enérgicamente a fuego fuerte durante 2 minutos, hasta que la salsa se caramelice ligeramente.",
-        "step_10": "Servir caliente sanando con Aonori, Beni Shoga y copos de Katsuobushi."
+        "step_10": "Sirve caliente, con aonori, beni shoga y copos de katsuobushi por encima."
       }
     },
     "recipe_000073": {
@@ -4186,7 +4186,7 @@
     },
     "recipe_000079": {
       "title": "Kani cream korokke — croquetas cremosas de cangrejo",
-      "description": "Las Kani Cream Korokke encierran un relleno cremoso de cangrejo, cebolla y bechamel en una masa crujiente. El compuesto se enfría antes de formar croquetas; después de freír se sirven calientes con salsa tonkatsu. El corazón cremoso de cangrejo contrasta con la pasta dorada: después de freír las croquetas se deslizan y se sirven con tonkatsu.",
+      "description": "Las Kani Cream Korokke son croquetas de cobertura crujiente y relleno cremoso de cangrejo, cebolla y bechamel espesa. Enfría el relleno hasta que pueda moldearse, empana las croquetas ovaladas y fríelas hasta que estén doradas. Escurre y sirve calientes con salsa tonkatsu; el exterior crujiente contrasta con el interior suave.",
       "animeContext": "Esta receta está inspirada temáticamente en Isekai Shokudo (Restaurant to Another World), Spy x Family. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredientTexts": {
         "polpa_di_granchio": {
@@ -4239,11 +4239,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "En una sartén, suelta la mantequilla y sufro la cebolla a fuego lento sin que la dore.",
+        "step_1": "Derrite la mantequilla en una sartén y sofríe la cebolla picada a fuego suave sin dejar que se dore.",
         "step_2": "Mezcla la harina y deja que se cocine durante 2 minutos mediante la mezcla (roux).",
         "step_3": "Añade la leche caliente poco a poco, removiendo con unas varillas hasta obtener una bechamel espesa y lisa.",
         "step_4": "Une la pulpa de cangrejo, ajusta de sal, pimienta y nuez moscada.",
-        "step_5": "Añadir el compuesto sobre una bandeja plana, tapar en contacto con película y colocarlo en la nevera durante al menos 1 hora hasta que se vuelva sólido y modelable.",
+        "step_5": "Extiende la mezcla en una bandeja poco profunda, cúbrela con film alimentario en contacto con la superficie y refrigérala al menos 1 hora, hasta que esté firme y se pueda moldear.",
         "step_6": "Con las manos ligeramente aceitadas, divide el compuesto frío en 8 porciones ovaladas.",
         "step_7": "Pasa cada croqueta en la harina, luego en el huevo batido y finalmente en el Panko haciendo que se adhiera bien.",
         "step_8": "Freír en abundante aceite caliente a 180°C durante 3 minutos hasta que dore y crujiente.",
