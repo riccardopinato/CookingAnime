@@ -2636,18 +2636,18 @@
       },
       "stepTexts": {
         "step_1": "En un cuenco grande, une la harina, el azúcar y la levadura, luego añade la leche tibia.",
-        "step_2": "Amas durante 5 minutos, luego te unes a la sal y a la mantequilla ablandada.",
+        "step_2": "Amasa durante 5 minutos; después incorpora la sal y la mantequilla ablandada.",
         "step_3": "Trabaja la masa hasta que esté lisa y elástica.",
-        "step_4": "Cúbrete con un paño y deja que se levante durante 1 hora hasta que se duplique.",
+        "step_4": "Cubre con un paño y deja levar durante 1 hora, hasta que la masa duplique su volumen.",
         "step_5": "Divide la masa leudada en 6 bolas iguales.",
-        "step_6": "Extiende cada bola forma un disco desde el centro ligeramente más grueso y desde los bordes delgados.",
+        "step_6": "Estira cada bola formando un disco algo más grueso en el centro y más fino en los bordes.",
         "step_7": "Pon una generosa cucharada de curry denso frío en el centro de cada disco.",
-        "step_8": "Cierra cuidadosamente los bordes sellándolos bien y dando la forma clásica oval a la elipse.",
+        "step_8": "Une los bordes, séllalos con firmeza y da a cada panecillo una forma ovalada.",
         "step_9": "Pasa cada panecillo primero por huevo batido y después por panko, procurando que quede bien adherido.",
         "step_10": "Deja reposar los sándwiches durante 15 minutos.",
         "step_11": "Calienta el aceite de semillas a 170°C.",
         "step_12": "Freír los Kare Pan 2-3 minutos por lado hasta que se vuelvan dorados y súper crujientes.",
-        "step_13": "Escolares sobre papel absorbente y servilletas calientes."
+        "step_13": "Escúrrelos sobre papel absorbente y sírvelos calientes."
       }
     },
     "recipe_000053": {
@@ -3041,7 +3041,7 @@
         "step_2": "En una sartén de gran tamaño con tapa, derrite la mitad de la mantequilla y une el ajo cortado y el jengibre rallado.",
         "step_3": "Deja que el ajo y el jengibre se doren a fuego suave durante 1 minuto.",
         "step_4": "Junta las almejas en la sartén y añade el sake japonés.",
-        "step_5": "Cubre inmediatamente con la tapa y levanta la llama a fuego vivo.",
+        "step_5": "Tapa inmediatamente la cazuela y sube el fuego a intensidad alta.",
         "step_6": "Cocine durante 3-4 minutos sacudiendo de vez en cuando la cacerola hasta que todas las almejas se abren completamente (desecha las que permanezcan cerradas). Utiliza almejas vivas de un proveedor fiable. Desecha las conchas rotas y las almejas que no se cierren al tocarlas antes de cocinarlas; desecha también las que queden cerradas tras la cocción.",
         "step_7": "Apaga el fuego, une la mantequilla restante y un hilo de salsa de soja.",
         "step_8": "Mezcla suavemente para crear un caldo sabroso y brillante.",
@@ -3425,13 +3425,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "En un tazón de agua mezcla el jengibre rallado con su jugo, la salsa de soja, el mirin, el sake y el azúcar hasta que este último se derrita completamente.",
+        "step_1": "En un cuenco pequeño, mezcla el jengibre rallado y su jugo con la salsa de soja, el mirin, el sake y el azúcar hasta disolver el azúcar.",
         "step_2": "Extiende las rodajas de cerdo sobre una tabla de cortar y espolvorear ligeramente con un velo de harina de ambos lados (esto permitirá que la salsa se espese y se adhiera perfectamente a la carne).",
         "step_3": "Calienta una cucharada de aceite de semillas en una sartén grande a fuego medio-alto.",
         "step_4": "Cocine las rodajas de cerdo durante unos 1,5 a 2 minutos por lado hasta que estén bien doradas.",
         "step_5": "Añadir la salsa al jengibre directamente sobre la carne en la sartén caliente.",
-        "step_6": "Hacer que la sartén se emborrache durante 1 minuto hasta que la salsa se reduzca convirtiéndose en un glaseado brillante y perfumado.",
-        "step_7": "Arregla el cerdo acompañado por una abundante montaña de col capucha fresca desmenuzada y mayonesa Kewpie, sirviéndolo con tazón de arroz blanco bien caliente."
+        "step_6": "Deja que la salsa hierva suavemente durante 1 minuto mientras mueves la sartén, hasta obtener un glaseado brillante y aromático.",
+        "step_7": "Sirve el cerdo acompañado de abundante col fresca cortada en tiras finas, mayonesa Kewpie y arroz blanco bien caliente."
       }
     },
     "recipe_000066": {
@@ -3594,12 +3594,12 @@
       },
       "stepTexts": {
         "step_1": "Trabaja las yemas con azúcar y almidón de maíz.",
-        "step_2": "Calienta la leche con vainilla sin hervir, luego agrégala a hilo en las yemas mezclando.",
-        "step_3": "Vuelve al fuego y haz que el fuego se enfríe con la mezcla.",
+        "step_2": "Calienta la leche con la vainilla sin hervir; viértela poco a poco sobre las yemas mientras remueves.",
+        "step_3": "Devuelve la mezcla al fuego y remueve constantemente a fuego bajo hasta que espese.",
         "step_4": "Deja que se enfríe cubierto con película de contacto.",
         "step_5": "Trabaja los huevos con azúcar y miel hasta que se aclaren.",
         "step_6": "Disuelve la levadura en el agua y añádela a los huevos.",
-        "step_7": "Colocar la harina e incorporarla suavemente.",
+        "step_7": "Tamiza la harina e incorpórala suavemente a la masa.",
         "step_8": "Descansa la masa en la nevera durante 15 minutos.",
         "step_9": "Calienta una sartén antiadherente ligeramente unta de aceite y limpia con papel absorbente.",
         "step_10": "Vierta un cucharón de masa y forma un disco de 8 cm.",
@@ -3651,9 +3651,9 @@
       },
       "stepTexts": {
         "step_1": "Triturar finamente las galletas y unirlas a la mantequilla fundida.",
-        "step_2": "Compáralos en el fondo de una tortera forrada de papel horno y ponlos en la nevera durante 15 minutos.",
+        "step_2": "Presiona la mezcla de galletas en el fondo de un molde forrado con papel de horno y refrigera durante 15 minutos.",
         "step_3": "En un tazón, trabaja con crema el queso con azúcar.",
-        "step_4": "Incorpora los huevos de uno en uno y mezcla bien después de cada adición.",
+        "step_4": "Añade el huevo y mezcla bien.",
         "step_5": "Mezcla la crema fresca, el jugo y la corteza de Yuzu y, finalmente, la harina tamizada hasta que la mezcla esté lisa y aterciopelada.",
         "step_6": "Añade la crema sobre la base de la galleta.",
         "step_7": "Cocinar en horno estático precalentado a 160°C durante unos 45-50 minutos (el centro debe permanecer ligeramente temblando).",
@@ -3689,7 +3689,7 @@
       "stepTexts": {
         "step_1": "Mezcla el arroz glutinoso con agua, azúcar y una pequeña gota de colorante alimentario rosa.",
         "step_2": "Cocine al vapor o en el microondas cubierto durante 6 minutos hasta que el arroz sea suave y pegajoso.",
-        "step_3": "Rompe ligeramente el arroz caliente con una peste para mezclar los granos manteniendo una textura granulada y visible (estilo Kansai).",
+        "step_3": "Machaca ligeramente el arroz caliente con una mano de mortero, mezclando los granos sin perder del todo su textura granulada, al estilo Kansai.",
         "step_4": "Divide el arroz rosado en 6 porciones iguales.",
         "step_5": "Con las manos húmedas, aplana una porción de arroz sobre la palma de la mano, coloca en el centro una bola de Anko y envuelve el arroz alrededor de ella perfectamente sellada.",
         "step_6": "Envuelve cada Sakura Mochi con una hoja de cerezo salada.",
@@ -3942,12 +3942,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Cortar el Daikon en rodajas gruesas 2,5 cm, hacer una cruz por un lado (para facilitar la cocción) y desbolarlo en agua de arroz durante 15 minutos.",
+        "step_1": "Corta el daikon en rodajas de 2,5 cm, haz un corte en cruz en una cara y escáldalo en agua de arroz durante 15 minutos.",
         "step_2": "También hierve los triángulos de Konnyaku durante 2 minutos para eliminar el olor.",
         "step_3": "En una amplia olla de Oden (Donabe o cacerola grande), une el caldo Dashi, la salsa de soja clara, el Mirin y la sal.",
         "step_4": "Caliente a fuego medio.",
-        "step_5": "Introduzca en la olla el Daikon desmenuzado, el Konnyaku, los huevos duros y los pasteles de pescado.",
-        "step_6": "Deja que se prende fuego muy bajo durante al menos 45-60 minutos sin que nunca se hierva muy fuerte.",
+        "step_5": "Añade a la olla el daikon escaldado, el konnyaku, los huevos cocidos y las tortitas de pescado.",
+        "step_6": "Deja cocer a fuego muy bajo durante 45–60 minutos, manteniendo un hervor suave, nunca fuerte.",
         "step_7": "Añade los saquitos kinchaku durante los últimos 10 minutos para ablandar el mochi del interior sin romperlos.",
         "step_8": "Sirve muy caliente en el centro de la mesa recogiendo los ingredientes con el caldo y acompañando con mostaza Karashi."
       }
@@ -4104,13 +4104,13 @@
       },
       "stepTexts": {
         "step_1": "En una olla, combina salsa de soja, Mirin, Sake y azúcar.",
-        "step_2": "Hacer que el fuego baje durante 5 minutos hasta que la salsa se espese convirtiéndose en jarabea y brillante, Si la anguila está congelada, descárgala completamente en la nevera.",
+        "step_2": "Deja que la salsa hierva suavemente durante 5 minutos, hasta que espese y quede brillante y almibarada. Si la anguila está congelada, descongélala por completo en el frigorífico.",
         "step_3": "Ajusta los filetes sobre una bandeja cubierta de papel de horno.",
-        "step_4": "Apriétalos con la salsa Tare y calientalos en el horno ventilado o debajo de la parrilla a 200°C durante 6-8 minutos hasta que la superficie suene y se convierte en caramelizada.",
+        "step_4": "Pincela los filetes con salsa tare y caliéntalos en el horno ventilado o bajo el grill a 200 °C durante 6–8 minutos, hasta que la superficie burbujee y se caramelice.",
         "step_5": "Llena los cuencos (Donburi) con arroz blanco caliente.",
-        "step_6": "Nappa el arroz con una cucharada de salsa Unagi Tare caliente.",
+        "step_6": "Rocía el arroz con una cucharada de salsa unagi tare caliente.",
         "step_7": "Corta los filetes de anguila por la mitad y agáchalos suavemente sobre el arroz.",
-        "step_8": "Espinilla con otro velo de salsa y espolvorear con una pizca de pimienta Sansho aromática."
+        "step_8": "Pincela con otra capa fina de salsa y espolvorea una pizca de pimienta sanshō."
       }
     },
     "recipe_000078": {
@@ -4278,14 +4278,14 @@
         }
       },
       "stepTexts": {
-        "step_1": "Enjuaga los peces de Sanma dejándolos enteros (la tradición japonesa prevé la cocción con las entrañas para un gusto agradablemente amargo). El sanma es paparda del Pacífico (Cololabis saira), no lucio. Para cocinarlo en casa compra pescado limpio y eviscerado o pide que lo preparen en la pescadería; comprueba la cocción en la parte más gruesa.",
+        "step_1": "Utiliza sanma (paparda del Pacífico, Cololabis saira) ya limpio y eviscerado por el pescadero. Cuécelo completamente y comprueba la parte más gruesa; no dejes las vísceras para esta preparación doméstica.",
         "step_2": "Incide la piel con 3 cortes diagonales en cada lado.",
         "step_3": "Espolvorea generosamente de sal gruesa y deja reposar 10 minutos.",
         "step_4": "Seca la humedad de la sal con papel absorbente.",
         "step_5": "Cocine los peces sobre una parrilla ardiente o sobre la placa del horno a 220°C durante unos 6-7 minutos por lado.",
         "step_6": "Hasta que la piel se vuelve dorada, crujiente y se forman pequeñas quemaduras.",
         "step_7": "Arregla los peces enteros sobre platos rectangulares alargados.",
-        "step_8": "Acompaña con una montaña de Daikon fresco rallado ligeramente rociado con una gota de salsa de soja y un diente de limón."
+        "step_8": "Acompaña con daikon fresco rallado, unas gotas de salsa de soja y una rodaja de limón."
       }
     },
     "recipe_000081": {
@@ -4527,9 +4527,9 @@
         "step_2": "Amalgama y mantenlo fresco.",
         "step_3": "En una olla, calienta la salsa de soja, el vinagre de arroz y el azúcar hasta que el azúcar se derrite.",
         "step_4": "Añade la salsa a una gran pirófila.",
-        "step_5": "Corta el pollo a bocadillos grandes.",
-        "step_6": "Hágalo ligeramente, luego pásalo en el huevo batido.",
-        "step_7": "Freír en aceite de semillas a 170°C durante 5-6 minutos hasta el dorado.",
+        "step_5": "Corta el pollo en trozos grandes, de tamaño uniforme.",
+        "step_6": "Enharina ligeramente los trozos y pásalos después por el huevo batido.",
+        "step_7": "Fríe en aceite a 170 °C hasta que esté dorado, unos 5–6 minutos; comprueba con un termómetro que el centro del pollo alcance al menos 74 °C.",
         "step_8": "Toma el pollo hirviendo recién frito y sumérgelo inmediatamente en la salsa dulce Namban-zu durante 1 minuto, girando por ambos lados para absorber el condimento ácido-dulce.",
         "step_9": "Pone el pollo en los platos y cubre la superficie con una generosa cucharada de salsa tártara cremosa."
       }
@@ -4667,13 +4667,13 @@
       },
       "stepTexts": {
         "step_1": "En un tazón, trabaja la crema de castañas con mantequilla suave y ron con batidora eléctrica hasta que se vuelve aterciopelada y sin grumos.",
-        "step_2": "Pásala a través de un tamiz fino para asegurar la fluidez en los fideos de crema.",
-        "step_3": "Pon los discos de pan de españa o merengue en los platillos.",
-        "step_4": "Pon en el centro de cada disco una castaña almíbar entera.",
+        "step_2": "Pasa la crema por un tamiz fino para que pueda salir con facilidad por la boquilla para Mont Blanc.",
+        "step_3": "Coloca los discos de bizcocho o merengue en los platos.",
+        "step_4": "Pon una castaña entera en almíbar en el centro de cada disco.",
         "step_5": "Cubre la castaña creando una montaña/cúpula alta de crema montada utilizando una espátula.",
         "step_6": "Inserte la crema de castañas en una sac-à-poche con una boquilla de agujeros múltiples (boqueta para Mont Blanc/spaghetti).",
         "step_7": "Aprieta la crema de castañas alrededor de la cúpula de nata montada creando hilos superpuestos hasta cubrirla completamente.",
-        "step_8": "Espolvorea la cima con azúcar en velo para simular la nieve y coloca una castaña en el almuerzo en la cima."
+        "step_8": "Espolvorea la parte superior con azúcar glas, como si fuera nieve, y corona con una castaña en almíbar."
       }
     },
     "recipe_000088": {
@@ -4711,13 +4711,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Monta la crema fría con el azúcar y la vainilla hasta que se quede quieta y estructurada.",
+        "step_1": "Bate la nata bien fría con el azúcar y la vainilla hasta que forme picos firmes.",
         "step_2": "Unta una generosa capa de crema montada en dos rebanadas de pan.",
         "step_3": "Dispón la fruta fresca sobre la nata siguiendo la diagonal por la que cortarás el sándwich.",
         "step_4": "Orienta las fresas para que el corte muestre su característica sección en forma de corazón.",
         "step_5": "Cubre los espacios vacíos entre la fruta con otra crema montada para no dejar vacíos de aire.",
         "step_6": "Cierra con las otras rebanadas de pan.",
-        "step_7": "Envuelve estrictamente los sándwiches en la película transparente y marca con un rotulador la línea de corte diagonal.",
+        "step_7": "Envuelve bien los sándwiches en film transparente y marca la diagonal por la que vas a cortarlos.",
         "step_8": "Deja reposar en la nevera durante 20 minutos.",
         "step_9": "Corta por la mitad con un cuchillo afilado siguiendo la línea para mostrar el diseño de la fruta."
       }
@@ -4858,11 +4858,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Enjuague el arroz en varias aguas hasta que el agua se vuelva casi transparente, luego cúbralo durante 15 minutos: el descanso evita que el fondo se ponga pegajoso durante la cocción.",
+        "step_1": "Lava el arroz varias veces hasta que el agua salga casi transparente y escúrrelo durante 15 minutos.",
         "step_2": "Corta en láminas los shiitake rehidratados, la zanahoria y el aburaage; corta el pollo en dados uniformes de aproximadamente 1,5 cm.",
         "step_3": "Vierta el arroz en la olla o en la hornilla y añade dashi, salsa de soja, mirin y sake, respetando el nivel de líquido previsto para el arroz.",
         "step_4": "Distribuir sobre pollo, shiitake, zanahoria y aburaage sin mezclar: los ingredientes cocinarán al vapor mientras el arroz absorbe el condimento.",
-        "step_5": "Lleva a un hervor suave, cubre, baja al mínimo y cocina durante unos 15 minutos sin levantar la tapa; en cocinar utiliza el ciclo normal.",
+        "step_5": "Lleva a un hervor suave, tapa, reduce el fuego al mínimo y cuece unos 15 minutos sin levantar la tapa; en una arrocera utiliza el programa normal.",
         "step_6": "Apaga y deja reposar durante 10 minutos, por lo que la humedad se redistribuye y los granos terminan la cocción.",
         "step_7": "Desgrana de abajo hacia arriba con una espátula, incorporando suavemente los condimentos sin aplastar el arroz, y sirviendo caliente."
       }
@@ -4960,9 +4960,9 @@
       "stepTexts": {
         "step_1": "Prepara dos cuencos con arroz caliente y mantén las chuletas tonkatsu ya cocidas y cortadas en tiras anchas cerca de 2 cm.",
         "step_2": "En una sartén pequeña para donburi, lleva a hervor suave el dashi con la salsa de soja, el mirin y el azúcar. Añade la cebolla y cocínala 3-4 minutos, hasta que esté translúcida.",
-        "step_3": "Coloca sobre la cebolla una chuleta cortada sin sumergirla completamente, por lo que la pasta absorbe sabor pero no se deshace.",
-        "step_4": "Sólo golpea un huevo dejando visible la clara y la yema y verter alrededor de dos tercios y encima de la chuleta.",
-        "step_5": "Distribuir la mitad del queso, tapas y horneas 60-90 segundos; añadir el huevo restante y apagar cuando todavía esté suave y brillante.",
+        "step_3": "Coloca la chuleta cortada en tiras sobre la cebolla sin sumergirla del todo, para que el empanado absorba el sabor sin deshacerse.",
+        "step_4": "Bate ligeramente un huevo, dejando todavía visibles la clara y la yema, y vierte unos dos tercios alrededor de la chuleta.",
+        "step_5": "Reparte la mitad del queso, tapa y cocina 60–90 segundos; añade el resto del huevo y apaga cuando esté cuajado al punto deseado.",
         "step_6": "Desliza con cuidado el contenido de la sartén pequeña sobre el arroz caliente sin romper la chuleta.",
         "step_7": "Completa con queso residual o cebollina y sirve inmediatamente, antes de que el huevo pierda cremosidad."
       }
@@ -5011,7 +5011,7 @@
       },
       "stepTexts": {
         "step_1": "Controla el salmón eliminando posibles espinas y córtalo en bocadillos; prepara patata, zanahoria, col, tofu y setas en trozos de tamaño similar.",
-        "step_2": "Lleva el dashi a un hervor suave en el donabe o en una cacerola amplia y suelta el miso en un tazón con un cucharón de caldo caliente, luego ponlo en la olla.",
+        "step_2": "Calienta el dashi en una olla donabe hasta que hierva suavemente; disuelve el miso con un cucharón de caldo caliente en un cuenco y devuélvelo a la olla.",
         "step_3": "Añade patatas y zanahorias y cocinas a fuego lento durante unos 8-10 minutos, hasta que empiecen a ablandarse.",
         "step_4": "Junta col, tofu y setas y continúa durante 3-4 minutos.",
         "step_5": "Ajusta el salmón a la superficie y cocine suavemente otros 6-8 minutos, sin hervir violentamente para no desvanecerlo.",
@@ -5070,8 +5070,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "Prepara con antelación pollo, menma, huevo barrote y corteza de yuzu; lleva a hervir una olla separada de agua para los fideos.",
-        "step_2": "Calienta el caldo de pollo filtrado con sal y sake hasta un ligero arbusto y prueba: debe ser claro, sabio pero no agresivo.",
+        "step_1": "Prepara con antelación el pollo, el menma, el huevo de yema ligeramente cremosa y la ralladura de yuzu; pon a hervir una olla aparte para los fideos.",
+        "step_2": "Calienta el caldo de pollo colado con sal y sake hasta que hierva muy suavemente; prueba y ajusta el punto de sal sin tapar el sabor del caldo.",
         "step_3": "Apaga el fuego e incorpora jugo de yuzu y aceite de sésamo sólo al final, para preservar los aromas cítricos.",
         "step_4": "Cocine los fideos en el agua hirviendo según el espesor, escurrirlos cuando todavía son elásticos; sacuda bien para eliminar el exceso de agua.",
         "step_5": "Reparte los fideos en los cuencos precalentados y vierte el caldo al yuzu.",
@@ -5128,7 +5128,7 @@
       "stepTexts": {
         "step_1": "Abre las almejas en una sartén con sake y una tapa a fuego vivo. Antes de cocerlas, desecha las almejas con conchas rotas o que no se cierren al tocarlas; después, desecha las que sigan cerradas. Refrigera el líquido colado si no lo usas enseguida.",
         "step_2": "Separa las almejas del caldo filtrado y guarda todo.",
-        "step_3": "En una olla, derrite la mantequilla y frota el tocino con cebolla, zanahoria y patata durante 5 minutos.",
+        "step_3": "En una olla, derrite la mantequilla y rehoga la panceta con la cebolla, la zanahoria y la patata durante 5 minutos.",
         "step_4": "Espolvorear con harina y mezclar bien durante 1 minuto para tostar.",
         "step_5": "Añade gradualmente el líquido de las almejas filtradas, la leche y la nata, y sigue mezclando hasta alcanzar una consistencia aterciopelada.",
         "step_6": "Cocine durante 12 minutos hasta que las patatas estén tiernas.",
@@ -5253,9 +5253,9 @@
         "step_2": "Divide la masa en 12 porciones iguales y forma bolas compactas sin grietas.",
         "step_3": "Lleva a hervir una olla abundante de agua y sumerge los dangos sin sobrecargarla.",
         "step_4": "Cuando las bolas suben a la superficie, continúa cocinando durante otros 2 minutos para cocinar bien el centro.",
-        "step_5": "Transfiéralas inmediatamente al agua y al hielo para detener la cocción; escúchalas y sécalas suavemente.",
+        "step_5": "Pásalas enseguida a agua con hielo para detener la cocción; escúrrelas y sécalas con cuidado.",
         "step_6": "Ensarta tres dango en cada brocheta y reparte por encima el anko de textura lisa.",
-        "step_7": "Mezcla kinako y azúcar, limpia los pinchos justo antes de servir y consumirlos en el día para mantenerlos suaves."
+        "step_7": "Mezcla el kinako con el azúcar y espolvorea las brochetas justo antes de servir; consúmelas en el mismo día para mantenerlas tiernas."
       }
     },
     "recipe_000100": {
@@ -5336,10 +5336,10 @@
         "step_1": "Usa arroz apenas cocido pero lo suficientemente tibio como para ser manipulado; humedece y sala ligeramente las manos.",
         "step_2": "Divide el arroz en cuatro porciones y forma triángulos compactos, presionando lo suficiente para que no se rompan durante la parrilla.",
         "step_3": "Mezcla salsa de soja y mirin en un cuenco y prepara un pincel de cocina.",
-        "step_4": "Disuelve la mitad de la mantequilla en una sartén antiadherente y erosiona los onigiros a fuego medio durante unos 3 minutos por lado, sin moverlos hasta que se forme una corteza.",
-        "step_5": "Aprieta un lado con la mezcla de soja, gira y deja caramelizar durante aproximadamente 1 minuto; repite en el otro lado.",
+        "step_4": "Derrite la mitad de la mantequilla en una sartén antiadherente y dora los onigiri a fuego medio unos 3 minutos por lado, sin moverlos hasta que se forme una costra.",
+        "step_5": "Pincela un lado con la mezcla de soja y mirin, dales la vuelta y deja caramelizar 1 minuto; repite por el otro lado.",
         "step_6": "Añadir la mantequilla restante y girar los onigiri en la sartén para distribuir el perfume sin quemar la salsa.",
-        "step_7": "Completa con sésamo tostada y sirvientes calientes, con corteza seca y centro todavía suave."
+        "step_7": "Termina con sésamo tostado y sirve caliente, con la corteza crujiente y el centro aún tierno."
       }
     },
     "recipe_000102": {
@@ -5427,7 +5427,7 @@
         "step_4": "Añadir gelatina al matcha, anko y una primera cucharada de crema montada, dejando las capas visibles.",
         "step_5": "Repita las capas si la altura del vaso lo permite, sin rellenarlo completamente.",
         "step_6": "Añade una bola de helado al matcha sólo en el momento del servicio.",
-        "step_7": "Completa con shiratama, gofre o Pocky y un pequeño mechón de crema; sirve inmediatamente para que la parte crujiente no pierda consistencia."
+        "step_7": "Termina con shiratama, una barquillo o Pocky y un pequeño copete de nata montada; sirve enseguida para mantener el crujiente."
       }
     },
     "recipe_000104": {
@@ -5473,14 +5473,14 @@
         }
       },
       "stepTexts": {
-        "step_1": "Corta la calabaza en pedazos y deja que se cocine al vapor durante 15 minutos hasta que se ponga tierna.",
-        "step_2": "Luego aplaste con un machacado sosteniendo la piel y eliminando la humedad en exceso.",
-        "step_3": "Rose la cebolla y la carne picada en la mantequilla hasta que esté bien cocinada y sazonada con sal y pimienta.",
+        "step_1": "Corta la calabaza en trozos y cuécela al vapor unos 15 minutos, hasta que esté tierna.",
+        "step_2": "Machaca la calabaza con un prensapatatas, conservando la piel y eliminando el exceso de humedad.",
+        "step_3": "Dora la cebolla y la carne picada en mantequilla hasta que estén bien cocidas; sazona con sal y pimienta.",
         "step_4": "Junta la carne con el puré de calabaza, mezcla bien y deja enfriar la masa.",
         "step_5": "Forma 6 croquetas ovaladas y aplastadas.",
         "step_6": "Pasa cada croqueta en la harina, luego en el huevo batido y finalmente en el panko apretando bien.",
         "step_7": "Freír en abundante aceite caliente a 170°C hasta dorado crujiente completo (unos 3 minutos por lado).",
-        "step_8": "Servidores calientes con salsa tonkatsu."
+        "step_8": "Sírvelas calientes con salsa tonkatsu."
       }
     },
     "recipe_000105": {
@@ -5531,12 +5531,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Escoge el tamaño de tu cuerpo, lava con cuidado sin pelar ni secar bien.",
-        "step_2": "Bucherella la piel en algunos puntos con un palillo para favorecer una cocción uniforme.",
+        "step_1": "Elige boniatos satsumaimo de tamaño parecido, lávalos bien sin pelarlos y sécalos.",
+        "step_2": "Pincha la piel en varios puntos con un palillo para facilitar una cocción uniforme.",
         "step_3": "Para una pulpa más cremosa envuelve cada patata en papel de cocina recién húmedo y luego en aluminio; para una cáscara más seca sólo utiliza aluminio.",
-        "step_4": "Cocinar en horno estático a 180-190°C durante unos 60-75 minutos, girando los cartujos a mitad de cocción.",
+        "step_4": "Ásalos en horno convencional a 180–190 °C durante 60–75 minutos, girando los paquetes a mitad de cocción.",
         "step_5": "Compruebe poniendo un palillo en el punto más grueso: debe entrar sin resistencia y la pulpa debe ser suave hasta el centro.",
-        "step_6": "Deja reposar en la cartuchera durante 5-10 minutos, por lo que el vapor completa la cocción.",
+        "step_6": "Déjalos reposar envueltos durante 5–10 minutos para que el vapor termine la cocción.",
         "step_7": "Abra, divida por la mitad y sirva caliente; la sal es opcional y sólo se debe añadir al servicio."
       }
     },
@@ -5565,9 +5565,9 @@
       "stepTexts": {
         "step_1": "Corta dos rebanadas de shokupan de unos 2–3 cm de grosor. Deja que el ogura-an alcance la temperatura ambiente o caliéntalo ligeramente sin que se reseque.",
         "step_2": "Si el anko está muy firme, ablándalo con una cucharadita de agua caliente y remueve hasta que quede cremoso, pero no líquido.",
-        "step_3": "Toca el pan a ambos lados hasta que la superficie esté bien dorada y crujiente mientras el centro permanece suave.",
+        "step_3": "Tuesta el pan por ambos lados hasta que quede dorado y crujiente por fuera, pero esponjoso por dentro.",
         "step_4": "Pon la mantequilla sobre el pan caliente, insistiendo también en los bordes para que sea absorbida por la miga.",
-        "step_5": "Distribuya la grasa an en una capa generosa y uniforme, sin aplastar el pan.",
+        "step_5": "Extiende una capa generosa y uniforme de ogura-an sin aplastar el pan.",
         "step_6": "Si usas nata montada, añádela fría sólo después de dejar tibia la tostada durante un minuto, para que no se derrita.",
         "step_7": "Corta diagonalmente y sirve inmediatamente, manteniendo el contraste entre corteza crujiente, pan blando, mantequilla y anko."
       }
@@ -5708,11 +5708,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Limpia cuidadosamente los despojos; frotalos con sal y poca harina, enjuáguelos varias veces y córtalos en bocados regulares. Utiliza solo callos o vísceras ya limpios y precocidos, siguiendo las instrucciones del fabricante. Los 10–15 minutos son un calentamiento final, NO bastan para cocinar vísceras crudas; estas necesitan cocción completa previa.",
-        "step_2": "Esbelto durante aproximadamente 1 minuto, escolal y enjuague: esta fase elimina impurezas y parte del olor sin disolver demasiado la grasa.",
+        "step_1": "Utiliza únicamente callos o vísceras ya limpios y precocidos, siguiendo las instrucciones del proveedor. Corta en trozos regulares con utensilios limpios; los 10–15 minutos posteriores no bastan para cocinar vísceras crudas.",
+        "step_2": "Escalda los trozos precocidos durante 1 minuto, escúrrelos y enjuágalos; este paso reduce los olores sin retirar demasiada grasa.",
         "step_3": "Prepara el caldo con dashi, ajo, chile y miso o salsa de soja, mantenlo sabroso porque col y tofu lo diluirán.",
         "step_4": "Pon la col en el fondo del nabe, agrega tofu y despojos y vierte el caldo hasta cubrir parcialmente los ingredientes.",
-        "step_5": "Lleva a hervir y cocina los despojos durante unos 10-15 minutos, hasta que se hinchan y se aferran.",
+        "step_5": "Lleva a un hervor suave y calienta los callos precocidos durante 10–15 minutos, hasta que estén tiernos y bien calientes.",
         "step_6": "Añadir el nira cortado en palillos en los últimos minutos, sin mezclar excesivamente.",
         "step_7": "Prueba el caldo, regula el miso o la soja y sirve el nabe hirviendo directamente de la olla."
       }
@@ -5752,12 +5752,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Incide ligeramente la piel de los filetes de caballa y vierte sobre ellos agua hirviendo durante unos segundos; escúlelos y séquelos para atenuar el olor más intenso.",
+        "step_1": "Haz unas incisiones superficiales en la piel de la caballa y viértele agua hirviendo durante unos segundos; escurre y seca los filetes para suavizar el olor.",
         "step_2": "Corta el jengibre con rodajas finas y prepara en una sartén grande agua o dashi, sake, mirin y azúcar.",
-        "step_3": "Lleva el líquido a embotellar y añade la mitad del jengibre.",
+        "step_3": "Lleva el líquido a ebullición y añade la mitad del jengibre.",
         "step_4": "Arregla la caballa con la piel hacia arriba, cubre con un otoshibuta o con papel de horno perforado y cocina a fuego medio-bajo durante unos 8-10 minutos.",
         "step_5": "Toma un cucharón del fondo, derrite el miso y ponlo en la sartén sin hervirlo violentamente.",
-        "step_6": "Sigue nacendo los filetes con el fondo durante 3-5 minutos, hasta que la salsa se lúzca y ligeramente densa.",
+        "step_6": "Rocía los filetes con su salsa durante 3–5 minutos, hasta que quede brillante y algo espesa.",
         "step_7": "Completa con el jengibre que queda y sirve inmediatamente, con la piel integral y la carne aún jugosa."
       }
     },
@@ -5838,10 +5838,10 @@
       "stepTexts": {
         "step_1": "Seca bien los camarones y practica un pequeño corte en la espalda si es necesario para eliminar el hilo intestinal.",
         "step_2": "Mezcla mayonesa Kewpie, leche condensada o miel y jugo de limón hasta obtener una salsa lisa; mantenla a un lado a temperatura fresca.",
-        "step_3": "Pasa las gambas a la albúmina y luego al almidón de maíz, eliminando el exceso para obtener un revestimiento delgado.",
+        "step_3": "Pasa las gambas por la clara de huevo y después por la maicena, retirando el exceso para lograr una capa fina.",
         "step_4": "Lleva el aceite a unos 170°C y fríe unos pocos camarones a la vez durante 2-3 minutos, hasta que estén recién dorados y cocidos en el centro.",
         "step_5": "Escurrir sobre la rejilla o papel absorbente y dejar reposar sólo unos segundos.",
-        "step_6": "Considéralos todavía calientes con la salsa Ebi Mayo, mezclando suavemente para vestirlos sin suavizar demasiado la corteza.",
+        "step_6": "Mezcla las gambas aún calientes con la salsa ebi mayo con cuidado, cubriéndolas sin ablandar demasiado la costra.",
         "step_7": "Servir inmediatamente, con posible corteza de limón o cebolleta como acabado."
       }
     },
@@ -5917,9 +5917,9 @@
       },
       "stepTexts": {
         "step_1": "Disuelve el kanten en agua fría, lleva a hervir y cocinar durante unos 2 minutos mezclando hasta que esté completamente dispersado.",
-        "step_2": "Derrame el líquido en un recipiente bajo, deje encogerlo y muévalo a la nevera hasta que esté completamente gelificado.",
-        "step_3": "Corta la gelatina kanten en cubos regulares y prepara la fruta goteando bien.",
-        "step_4": "Si usas shiratama, cocínalos hasta que suban, continúa durante 1-2 minutos y enfríalos en agua fría.",
+        "step_2": "Vierte el líquido en un recipiente poco profundo, deja que se temple y refrigera hasta que la gelatina cuaje por completo.",
+        "step_3": "Corta la gelatina kanten en dados regulares y escurre bien la fruta.",
+        "step_4": "Si utilizas shiratama, cuécelos hasta que floten, continúa 1–2 minutos y enfríalos en agua fría.",
         "step_5": "Distribuyan los cubos de kanten en las copas y añadan fruta y shiratama manteniendo visibles los diferentes elementos.",
         "step_6": "Añadir una porción de anko al centro.",
         "step_7": "Vierta el kuromitsu sólo en el momento del servicio, así gelatina y frutas no permanecen inmersas demasiado tiempo."
@@ -6147,11 +6147,11 @@
       "stepTexts": {
         "step_1": "Escurrir el tofu y desmenuzarlo gruesamente; cortar daikon, zanahoria, gobo y shiitake en piezas pequeñas y uniformes.",
         "step_2": "Si usas gobo fresco, ponlo brevemente en el agua después del corte y luego cúbrelo bien.",
-        "step_3": "Calienta el aceite de sésamo en cazuela y rosola primero las raíces y los hongos durante 3-4 minutos.",
+        "step_3": "Calienta el aceite de sésamo en una cazuela y rehoga las raíces y las setas durante 3–4 minutos.",
         "step_4": "Añadir el tofu y mezclar suavemente para vestirlo de aceite sin convertirlo en crema.",
         "step_5": "Vierte el kombu dashi, lleva a un hervor suave y quita la espuma que aflora.",
         "step_6": "Cocine a fuego lento durante unos 15 minutos, hasta que las raíces sean tiernas pero no deshagadas.",
-        "step_7": "Consigue sake y salsa de soja, prueba y sirve caliente; evita el katsoubushi si quieres mantener la preparación estrictamente vegetariana."
+        "step_7": "Sazona con sake y salsa de soja, prueba y sirve caliente; evita el katsuobushi para mantener la sopa estrictamente vegetariana."
       }
     },
     "recipe_000120": {
@@ -6268,7 +6268,7 @@
       },
       "stepTexts": {
         "step_1": "Prepara el shiratama mezclando harina de arroz glutinoso y agua poco a poco hasta obtener una masa suave y modelable.",
-        "step_2": "Forma pequeñas bolas, cóciles en agua hirviendo hasta que suben a la superficie y continúan durante 1-2 minutos; enfríalas inmediatamente en agua y hielo.",
+        "step_2": "Forma bolitas y cuécelas en agua hirviendo hasta que floten; continúa la cocción 1–2 minutos y enfríalas enseguida en agua con hielo.",
         "step_3": "Corta la sandía en cubos o pequeñas esferas, elimina las semillas y enfría bien en la nevera.",
         "step_4": "Escurrir los shiratama y secar ligeramente para no diluir la bebida.",
         "step_5": "Distribuir sandía y shiratama en vasos muy fríos.",
@@ -6373,9 +6373,9 @@
       "stepTexts": {
         "step_1": "Prepara la masa brioche con harina, leche, levadura, azúcar, huevo, sal y mantequilla; amasa hasta que sea suave y elástico.",
         "step_2": "Cubre y deja aumentar hasta el doble, generalmente 60-90 minutos dependiendo de la temperatura.",
-        "step_3": "Mientras tanto, prepara una crema de chocolate densa, enfríela completamente y transfórmala en un saco.",
+        "step_3": "Mientras tanto, prepara una crema de chocolate espesa, déjala enfriar por completo y pásala a una manga pastelera.",
         "step_4": "Desinfla suavemente la masa, dividiéndola en porciones y forma cordones largos y regulares.",
-        "step_5": "Unge ligeramente los moldes de cono y envuelve cada cordón espiral, apenas superponiendo las vueltas sin dejar grietas.",
+        "step_5": "Engrasa ligeramente los moldes cónicos y enrolla cada tira de masa en espiral, solapando un poco las vueltas sin dejar huecos.",
         "step_6": "Deja reposar los conos formados entre 20 y 30 minutos y, después, píntalos con huevo batido.",
         "step_7": "Cocina a 180°C durante unos 12-15 minutos, mientras estén uniformemente dorados; enfría unos minutos y desliza los moldes.",
         "step_8": "Deja enfriar completamente antes de rellenar con crema de chocolate, para que el relleno no se derrita."
@@ -6425,12 +6425,12 @@
       },
       "stepTexts": {
         "step_1": "Corta cerdo, gambas, cebolla y raíz de loto en trozos similares, lo suficientemente pequeños como para cocinar al mismo tiempo, y ponlos por separado en los pinchos.",
-        "step_2": "Seca bien todos los ingredientes e infartos ligeramente para favorecer la adhesión de la masa.",
+        "step_2": "Seca bien todos los ingredientes y espolvoréalos ligeramente con harina para que la masa se adhiera.",
         "step_3": "Prepara una masa fluida con harina, huevo y agua fría, sin trabajar demasiado.",
-        "step_4": "Pasa cada broche en la masa y luego en el panko, pulsando apenas para crear una capa uniforme.",
+        "step_4": "Pasa cada brocheta por la masa y luego por el panko, presionando suavemente para lograr una cobertura uniforme.",
         "step_5": "Lleva el aceite a 170-175°C y fríe unos pocos pinchos a la vez, ajustando los tiempos según el ingrediente.",
         "step_6": "Escurrir sobre la parrilla y dejar reposar un minuto; comprobar que la carne y el camarón están cocidos en el centro.",
-        "step_7": "Servir caliente con salsa kushikatsu o tonkatsu aparte, evitando dejar los picadillos sumergidos en la salsa."
+        "step_7": "Sirve las brochetas calientes con salsa kushikatsu o tonkatsu aparte, sin dejarlas sumergidas en ella."
       }
     },
     "recipe_000127": {
@@ -6512,11 +6512,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "En una olla, de gran capacidad, roza las cebollas con un hilo de aceite hasta que se vuelven bien doradas y caramelizadas.",
-        "step_2": "Une la carne con cubos y rodéala por todos lados.",
+        "step_1": "En una olla grande, rehoga las cebollas con un poco de aceite hasta que estén doradas y caramelizadas.",
+        "step_2": "Añade la carne cortada en dados y dórala por todos los lados.",
         "step_3": "Introduzca las zanahorias y las patatas.",
         "step_4": "Añade el caldo de carne y la manzana rallado.",
-        "step_5": "Cubre y arde a fuego medio bajo durante 20 minutos.",
+        "step_5": "Tapa y deja cocer a fuego medio-bajo durante 20 minutos.",
         "step_6": "Apaga el fuego, une el roux para curry y amalgama hasta su disolución completa.",
         "step_7": "Mezcla el cacao amargo en polvo (o el chocolate negro), amalgama bien y deja cocer a fuego lento durante otros 5 minutos hasta obtener una salsa densa, brillante y aromática.",
         "step_8": "Lleva a la mesa caliente acompañado de arroz blanco al vapor."
@@ -6561,8 +6561,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "En una sartén antiadherente sin grasas añadidas, arrástrese los carretes de puerro hasta dorarlos y abrazarlos ligeramente en la superficie, mantenga a un lado.",
-        "step_2": "Ponlo en una cacerola, deja que el caldo Dashi se marchite con la salsa de soja, el mirin y el azúcar.",
+        "step_1": "En una sartén antiadherente sin grasa, asa los trozos de puerro hasta que se doren y se tuesten ligeramente; reserva.",
+        "step_2": "En un cazo, lleva a ebullición el dashi con la salsa de soja, el mirin y el azúcar.",
         "step_3": "Añade las lonchas de cerdo y cuécelas durante 3–4 minutos, hasta que estén tiernas.",
         "step_4": "Cocine soba en abundante agua hirviendo durante el tiempo indicado en el envase (aproximadamente 3-4 minutos), escúrela y enjuáguela brevemente.",
         "step_5": "Divide la soba en dos tazones grandes.",
@@ -6691,7 +6691,7 @@
       "stepTexts": {
         "step_1": "Prepara las chuletas de tonkatsu tan pronto como estén fritas o bien calentadas, aún crujientes, y prepara la col cortada muy fina.",
         "step_2": "Esparce un velo delgado de mantequilla en el interior de las rebanadas de shokupan para crear una barrera contra la humedad.",
-        "step_3": "Sazona la chuleta con una salsa curry densa, evitando mojar excesivamente la pasta.",
+        "step_3": "Cubre la chuleta con salsa de curry espesa sin empapar demasiado el empanado.",
         "step_4": "Distribuye la col sobre la primera rebanada de pan y apoya sobre el tonkatsu caliente.",
         "step_5": "Cierra el sándwich, envuélvelo ligeramente con papel de horno y presiona con un peso moderado durante unos 2 minutos.",
         "step_6": "Corta las cortezas si quieres una forma más tradicional y corta el sándwich con un cuchillo muy afilado.",
@@ -6877,10 +6877,10 @@
         }
       },
       "stepTexts": {
-        "step_1": "Presiona el tofu para eliminar el exceso de agua, secálalo y córtalo en rectángulos gruesos lo suficiente como para ser infiltrados sin romperse.",
+        "step_1": "Prensa el tofu para eliminar el exceso de agua, sécalo y córtalo en rectángulos bastante gruesos para ensartarlos sin romperlos.",
         "step_2": "Introduzca los pinchos con delicadeza y vuelva a tamponar la superficie.",
         "step_3": "Mezcla miso, azúcar, mirin y sake en una cacerola y cocine bajo fuego durante unos 2 minutos, hasta que el glaseado sea suave y lo suficientemente denso para adherirse.",
-        "step_4": "Rejilla el tofu 2-3 minutos por lado sobre placa bien caliente, hasta que aparezca un ligero dorado.",
+        "step_4": "Asa el tofu en una plancha bien caliente durante 2–3 minutos por lado, hasta que se dore ligeramente.",
         "step_5": "Pinta una primera vez con la salsa miso y deja secar durante unos 30 segundos.",
         "step_6": "Añade una segunda capa de glaseado y pasa por debajo de la parrilla durante 1-2 minutos, controlando continuamente porque el miso de azúcar quema fácilmente.",
         "step_7": "Completa con sésamo tostada y sirvientes calientes."
@@ -7065,12 +7065,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Ponga harina y Matcha en un tazón.",
+        "step_1": "Tamiza la harina y el matcha en un cuenco.",
         "step_2": "Combina azúcar y huevos, luego añade la leche tibia y la mantequilla fundida mezclando con unas varillas hasta obtener una masa líquida y sin grumos.",
-        "step_3": "Descanse en la nevera durante 30 minutos.",
+        "step_3": "Deja reposar la masa en el frigorífico durante 30 minutos.",
         "step_4": "Cocine alrededor de 15-20 crepes delgados en una sartén antiadherente ligeramente inburrada, déjelos enfriar completamente.",
         "step_5": "Monta la crema con el azúcar en velo y el Matcha, luego la incorporas a la crema pastelera.",
-        "step_6": "Ensambla el postre con la primera grieta sobre un plato, unta una capa fina de crema y cubre con otra grieta.",
+        "step_6": "Monta la tarta colocando la primera crepe en un plato, extiende una capa fina de crema y cubre con otra crepe.",
         "step_7": "Repite hasta que se agoten los ingredientes.",
         "step_8": "Espolvorear la superficie con Matcha en polvo antes de servir bien fría como nevera."
       }
@@ -7151,10 +7151,10 @@
       },
       "stepTexts": {
         "step_1": "Divide el anko en seis bolitas iguales y mantenlas tapadas. Espolvorea la superficie de trabajo con almidón de maíz o fécula.",
-        "step_2": "Mezcla harina de arroz glutinoso, azúcar, matcha y agua en un tazón adecuado para el microondas hasta que queden grumos secos.",
-        "step_3": "Cubre dejando un sarpullido y horneando a 600 W durante unos 90 segundos.",
+        "step_2": "Mezcla la harina de arroz glutinoso, el azúcar, el matcha y el agua en un recipiente apto para microondas hasta que no queden grumos secos.",
+        "step_3": "Cubre el recipiente dejando una salida para el vapor y cocina a 600 W durante unos 90 segundos.",
         "step_4": "Mezcla con una espátula mojada y cocina unos 60 segundos más, hasta que la masa esté lúcida, elástica y cocida uniformemente.",
-        "step_5": "Transfiera la masa caliente al suelo, cúbrala con más almidón y déjela tibia lo suficiente para poder manejarla.",
+        "step_5": "Pasa la masa caliente a una superficie espolvoreada con almidón, cúbrela con un poco más y deja templar hasta que puedas manipularla.",
         "step_6": "Divide en seis porciones, aplanalas en discos y adelgaza ligeramente los bordes.",
         "step_7": "Pon una bola de anko en el centro, cierra los bordes pellizcándolos bien y apoya el daifuku con el cierre hacia abajo.",
         "step_8": "Elimina el exceso de almidón y sirve a temperatura ambiente el mismo día."
@@ -7183,14 +7183,14 @@
         }
       },
       "stepTexts": {
-        "step_1": "Vestir los moldes enburridos con la pasta burla, cortar los bordes y agujerear el fondo con un tenedor.",
+        "step_1": "Forra los moldes engrasados con masa quebrada, recorta los bordes y pincha el fondo con un tenedor.",
         "step_2": "Enfría las cáscaras formadas durante 15-20 minutos antes de la cocción, por lo que mantienen mejor la forma.",
-        "step_3": "Cocine en blanco a 180°C durante unos 15-20 minutos, hasta que estén uniformemente dorados.",
-        "step_4": "Deja que se enfríe completamente en una cuadrícula.",
+        "step_3": "Hornea las bases vacías a 180 °C durante 15–20 minutos, hasta que se doren uniformemente.",
+        "step_4": "Desmolda y deja enfriar por completo sobre una rejilla.",
         "step_5": "Llena cada caparazón frío con crema pastelera bien fría, nivelándola sin cruzar el borde.",
         "step_6": "Corta la fruta justo antes de su uso, seca la fruta y ponla de forma compacta en la crema.",
-        "step_7": "Espinilla con un velo de gelatina neutra para lustrar y proteger la fruta.",
-        "step_8": "Guarda fresco y sirve en el día para mantener la crujiente."
+        "step_7": "Pincela la fruta con una capa fina de gelatina neutra para darle brillo y protegerla.",
+        "step_8": "Conserva en frío y sirve el mismo día para que la base siga crujiente."
       }
     },
     "recipe_000144": {
@@ -7273,13 +7273,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Saco de harina y levadura y mantenlos a un lado.",
+        "step_1": "Tamiza la harina y la levadura química y reserva.",
         "step_2": "Batir huevos, azúcar y aceite en la masa hasta que el azúcar esté casi disuelto.",
         "step_3": "Incorpora los ingredientes secos con una espátula hasta obtener una masa muy densa y pegajosa; no la trabajes más de lo necesario.",
         "step_4": "Trae abundante aceite a unos 150-160 °C: una temperatura moderada permite que los panqueques se cocinen en el interior antes de oscurecer.",
         "step_5": "Unge ligeramente las manos y forma bolas del tamaño de una nuez sin comprimirlas demasiado.",
         "step_6": "Freír unas pocas piezas a la vez durante 6-8 minutos, girarlos a menudo, hasta que aparezcan las características grietas y la superficie es bien dorada.",
-        "step_7": "Escurrir sobre la parrilla o el papel absorbente y dejar intimidar unos minutos antes de servir."
+        "step_7": "Escurre las frituras sobre una rejilla o papel absorbente y déjalas templar unos minutos antes de servir."
       }
     },
     "recipe_000146": {
@@ -7340,8 +7340,8 @@
         "step_5": "Utiliza atún expresamente apto para consumo crudo y mantenlo refrigerado según las indicaciones del proveedor. Con un cuchillo y una tabla limpios, córtalo en lonchas de 7–8 mm, inclinando la hoja 45 grados.",
         "step_6": "En un tazón, mezcla la salsa de soja con el mirin.",
         "step_7": "Aliña el atún con la mezcla de soja y mirin durante 1–2 minutos y mantenlo refrigerado hasta servir. Marinarlo no hace seguro un pescado inadecuado para consumo crudo.",
-        "step_8": "Pon el sushi en los cuencos de Donburi.",
-        "step_9": "Esparce la superficie con el alga Nori a rastras.",
+        "step_8": "Reparte el arroz de sushi templado entre los cuencos donburi.",
+        "step_9": "Espolvorea la superficie del arroz con tiras de alga nori.",
         "step_10": "Coloca las lonchas de atún en forma radial hasta cubrir el arroz.",
         "step_11": "Decora el centro con un pequeño copete de wasabi, cebolleta picada y semillas de sésamo tostadas.",
         "step_12": "Sirve de inmediato acompañado con salsa de soja extra."
@@ -7456,12 +7456,12 @@
       },
       "stepTexts": {
         "step_1": "Lava y seca cuidadosamente los calamares.",
-        "step_2": "Práctica sobre el cuerpo del calamar cortes horizontales paralelos distanciados de aproximadamente 1 cm, sin afectar hasta el fondo, así la cocción permanecerá uniforme.",
+        "step_2": "Haz cortes paralelos separados unos 1 cm en el cuerpo del calamar, sin atravesarlo por completo, para que se cocine de manera uniforme.",
         "step_3": "En una olla, combina salsa de soja, mirin, sake, azúcar y jengibre rallado.",
         "step_4": "Cocine bajo fuego durante 3-4 minutos hasta que la salsa se espese ligeramente.",
-        "step_5": "Calienta muy bien una placa o un bistec a fuego vivo.",
+        "step_5": "Calienta bien una plancha o sartén de hierro a fuego fuerte.",
         "step_6": "Rejilla calamares y tentáculos durante 2-3 minutos por lado.",
-        "step_7": "Aprieta bien los calamares con la salsa Teriyaki en los últimos 2 minutos de cocción, volteándolos hasta que la superficie sea brillante y caramelizada.",
+        "step_7": "Pincela generosamente el calamar con salsa teriyaki durante los últimos 2 minutos de cocción, dándole la vuelta hasta que quede brillante y caramelizado.",
         "step_8": "Corta el calamar en rodajas siguiendo las incisiones ya practicadas.",
         "step_9": "Sirve con mayonesa Kewpie aparte y un poco de Shichimi Togarashi."
       }
@@ -7567,12 +7567,12 @@
         "step_2": "Cocine en sartén antiadherente frío en el lado de la piel a fuego medio-bajo durante 8-10 minutos recogiendo la grasa fundida.",
         "step_3": "Da la vuelta a la pechuga de pato y cocínala durante otros 2 minutos.",
         "step_4": "Deja reposar la carne durante unos minutos y córtala en rodajas finas.",
-        "step_5": "En la misma sartén, usando parte de la grasa del pato, tosta los toques de puerro hasta que estén bien dorados y ligeramente caramelizados.",
+        "step_5": "En la misma sartén, con parte de la grasa del pato, dora los trozos de puerro hasta que queden ligeramente caramelizados.",
         "step_6": "En una olla, combina dashi, salsa de soja, mirin y azúcar.",
         "step_7": "Trae el caldo a ebullición, une los puerros tostados y las rebanadas de pato y deja que se calienten durante 2 minutos. Para una preparación doméstica prudente, comprueba con un termómetro que el centro de la pechuga de pato llegue al menos a 74 °C antes de servir. Los tiempos son orientativos y un hervor breve en el caldo no sustituye esta comprobación.",
         "step_8": "Cocine los fideos soba en agua hirviendo durante unos 4 minutos; escúrrelos, enjuáguelos bajo agua fría para eliminar el almidón superficial y calentarlos brevemente en agua caliente antes del servicio.",
         "step_9": "Distribuye la soba en los cuencos y cúbrela con caldo caliente, rebanadas de pato y puerros.",
-        "step_10": "Completa con corteza de yuzu rallado y sirves de inmediato."
+        "step_10": "Termina con ralladura de yuzu y sirve inmediatamente."
       }
     },
     "recipe_000151": {
@@ -7672,11 +7672,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Precalentar el horno a 200°C y emborrachar ligeramente dos pirófilas monoporción resistentes al calor.",
+        "step_1": "Precalienta el horno a 200 °C y unta ligeramente con mantequilla dos fuentes individuales aptas para horno.",
         "step_2": "Distribuya el arroz caliente en el fondo sin comprimirlo y cúbralo con el curry japonés denso.",
         "step_3": "Crea un hueco en el centro de cada pirófila y rompe suavemente un huevo en el interior.",
         "step_4": "Distribuye el queso alrededor del huevo y completa con un delgado polvo de panko.",
-        "step_5": "Informa durante unos 10-12 minutos, hasta que el queso esté fundido y dorado y la albúmina se reproduzca.",
+        "step_5": "Hornea durante unos 10–12 minutos, hasta que el queso se funda y se dore y la clara de huevo esté cuajada.",
         "step_6": "Controla la yema según el resultado deseado: para mantenerla suave evita prolongar innecesariamente la cocción.",
         "step_7": "Completa con perejil y sirve directamente en la pirofílica, prestando atención a la temperatura del recipiente."
       }
@@ -7841,10 +7841,10 @@
       },
       "stepTexts": {
         "step_1": "Cocine los discos de Daikon en agua hirviendo durante 10 minutos para ablandarlos y eliminar el amargo, escurrir.",
-        "step_2": "Quema los racimos de rizo en agua hirviendo durante 10 segundos, luego sumérgelos en agua helada y elimina cualquier escamas residuales suavemente.",
+        "step_2": "Escalda las rodajas de pescado en agua hirviendo durante 10 segundos, pásalas a agua con hielo y retira suavemente las escamas que queden.",
         "step_3": "En una cazuela de gran tamaño, une dashi, sake, azúcar, mirin y jengibre.",
-        "step_4": "Llévala a embotellada, acomoda al Daikon y al pez.",
-        "step_5": "Cúbrete con un Otoshibuta (cubierta fugaz) y cocina a fuego lento durante 20 minutos.",
+        "step_4": "Lleva el caldo a ebullición y añade con cuidado el daikon y el pescado.",
+        "step_5": "Cubre con una tapa interior otoshibuta y cuece a fuego bajo durante 20 minutos.",
         "step_6": "Combina la salsa de soja en los últimos 10 minutos reduciendo el líquido hasta que esté denso y brillante.",
         "step_7": "Servir el pescado y el Daikon bien impregnados del fondo de cocción oscuro y sabroso."
       }
@@ -7942,13 +7942,13 @@
       },
       "stepTexts": {
         "step_1": "Corta las berenjenas a la mitad en el sentido de la longitud.",
-        "step_2": "Incide la pulpa a la parrilla sin perforar la piel.",
+        "step_2": "Haz cortes superficiales en forma de cuadrícula en la pulpa sin perforar la piel.",
         "step_3": "Calienta el aceite en una sartén grande.",
         "step_4": "Cocine las berenjenas del lado de la pulpa a fuego medio durante 5 minutos hasta que dore.",
         "step_5": "Gira las berenjenas, cubre y continúa la cocción durante 4 minutos más, hasta que la pulpa sea suave.",
         "step_6": "En una olla, mezcla miso, mirin, sake y azúcar a fuego lento durante 2 minutos hasta obtener un glaseado suave y denso.",
-        "step_7": "Despelleja generosamente la pulpa de las berenjenas con el glaseado al miso.",
-        "step_8": "Transferir las berenjenas bajo la parrilla del horno a 220°C durante 3-4 minutos, hasta que el glaseado forme burbujas y caramelos ligeramente.",
+        "step_7": "Pincela generosamente la pulpa de las berenjenas con el glaseado de miso.",
+        "step_8": "Pon las berenjenas bajo el grill del horno a 220 °C durante 3–4 minutos, hasta que el glaseado burbujee y se caramelice ligeramente.",
         "step_9": "Completa con semillas de sésamo tostadas y sirve a las berenjenas calientes."
       }
     },
@@ -8133,13 +8133,13 @@
         "step_1": "Trabaja los huevos con azúcar, luego incorpora la leche, la harina tamizada y finalmente la mantequilla fundida.",
         "step_2": "Deja reposar la masa en la nevera durante 15 minutos.",
         "step_3": "Ungi un poco una sartén antiadherente de gran diámetro que se adapta a las crepes.",
-        "step_4": "Añade un cucharón de pasta sutilmente y cocina 1 minuto por lado.",
+        "step_4": "Vierte un cucharón de masa en la sartén, extiéndelo en una capa fina y cocina 1 minuto por lado.",
         "step_5": "Extiende un crêpe abierto en el plano de trabajo o en un plato.",
-        "step_6": "Pon la crema montada y la fruta fresca cortada sólo sobre una cuarta parte de la superficie de la grieta.",
+        "step_6": "Coloca la nata montada y la fruta fresca cortada sobre una cuarta parte de la crepe.",
         "step_7": "Decorado con jarabe de chocolate.",
         "step_8": "Dobla el crêpe por la mitad formando un semicírculo.",
         "step_9": "Dobla los dos lados hacia el centro formando un cono abierto en la parte superior, con crema y frutas bien visibles.",
-        "step_10": "Envuelve la base con una servilleta de papel y servilletas de paseo."
+        "step_10": "Envuelve la base en una servilleta de papel y sirve la crepe para comerla mientras se pasea."
       }
     },
     "recipe_000162": {

@@ -2636,18 +2636,18 @@
       },
       "stepTexts": {
         "step_1": "Em uma tigela grande, adicione farinha, açúcar e levedura, em seguida, adicione leite morno.",
-        "step_2": "Amarrar por 5 minutos, em seguida, adicionar sal e manteiga amolecida.",
+        "step_2": "Amasse durante 5 minutos e depois incorpore o sal e a manteiga amolecida.",
         "step_3": "Trabalhe a massa até que seja suave e elástica.",
         "step_4": "Cubra com um pano e deixe subir por 1 hora até duplicar.",
         "step_5": "Divida a massa fermentada em 6 bolas iguais.",
         "step_6": "Espalhe cada bola formando um disco com um centro ligeiramente mais grosso e bordas finas.",
         "step_7": "Coloque uma colher generosa de curry denso e frio no meio de cada disco.",
-        "step_8": "Feche cuidadosamente as bordas selando- as bem e dando a forma oval clássica para elipses.",
+        "step_8": "Una as bordas da massa, sele-as bem e dê a cada pão uma forma oval.",
         "step_9": "Passe cada sanduíche primeiro para o ovo batido e, em seguida, para o panko fazendo- o ficar uniforme.",
         "step_10": "Deixe os sanduíches descansar por 15 minutos.",
         "step_11": "Aqueça o óleo de sementes a 170°C.",
         "step_12": "Fritar a Pan de Kare 2-3 minutos por lado até que eles se tornem dourados e super crocantes.",
-        "step_13": "Esgota em papel absorvente e serviços quentes."
+        "step_13": "Escorra sobre papel absorvente e sirva quente."
       }
     },
     "recipe_000053": {
@@ -3039,13 +3039,13 @@
       "stepTexts": {
         "step_1": "Lave bem os moluscos, já lavados sob água corrente fria.",
         "step_2": "Em uma panela grande com tampa, dissolva metade da manteiga e adicione o alho cortado e o gengibre ralado.",
-        "step_3": "Marrom em um calor suave por 1 minuto.",
+        "step_3": "Deixe o alho e o gengibre alourar em lume brando durante 1 minuto.",
         "step_4": "Adicione os moluscos na panela e adicione o sake japonês imediatamente.",
-        "step_5": "Cobrir imediatamente com a tampa e levantar a chama em um fogo vivo.",
+        "step_5": "Tape imediatamente a panela e aumente para lume forte.",
         "step_6": "Cozinhe por 3-4 minutos sacudindo a panela de vez em quando até que todos os moluscos se abram completamente (deite fora as que permanecerem fechadas). Utilize amêijoas vivas de fornecedor fiável. Rejeite conchas partidas e amêijoas que não fechem ao toque antes da cozedura; deite fora as que permaneçam fechadas após uma cozedura adequada.",
         "step_7": "Desligue o fogo, adicione a manteiga restante e um fio de molho de soja.",
         "step_8": "Misture suavemente para criar um caldo saboroso e brilhante.",
-        "step_9": "Poeira com muita cebola fresca e traga para a mesa quente com o seu caldo."
+        "step_9": "Polvilhe generosamente com cebolinho fresco e sirva as amêijoas muito quentes com o respetivo caldo."
       }
     },
     "recipe_000060": {
@@ -3426,12 +3426,12 @@
       },
       "stepTexts": {
         "step_1": "Em uma pequena tigela, misturar o gengibre ralado com o seu suco, molho de soja, mirin, sake e açúcar até que ele derreta completamente.",
-        "step_2": "Espalhe as fatias de porco numa tábua de corte e ponha- as ligeiramente com um véu de farinha em ambos os lados (isto permitirá que o molho espesse e adere perfeitamente à carne).",
+        "step_2": "Disponha as fatias de porco numa tábua e polvilhe ambos os lados com uma camada fina de farinha, para que o molho adira e engrosse.",
         "step_3": "Aqueça uma colher de óleo de semente em uma panela grande em fogo médio- alto.",
         "step_4": "Cozinhe as fatias de porco por cerca de 1,5 a 2 minutos por lado até que estejam douradas.",
         "step_5": "Adicione o molho de gengibre diretamente acima da carne na panela quente.",
         "step_6": "Ferva por 1 minuto agitando a panela até que o molho seja reduzido a um glacê brilhante e perfumado.",
-        "step_7": "Configure o porco lado a lado com uma montanha abundante de repolho fresco com capuz e maionese Kewpie, servindo- o com tigelas de arroz branco quente."
+        "step_7": "Sirva a carne de porco com bastante couve fresca cortada finamente, maionese Kewpie e arroz branco bem quente."
       }
     },
     "recipe_000066": {
@@ -3594,17 +3594,17 @@
       },
       "stepTexts": {
         "step_1": "Trabalhe as gemas de ovo com açúcar e amido de milho.",
-        "step_2": "Aqueça o leite com baunilha sem ferver, em seguida, adicione- o flush nas gemas de ovo misturando.",
+        "step_2": "Aqueça o leite com baunilha sem deixar ferver; verta-o pouco a pouco sobre as gemas, mexendo sempre.",
         "step_3": "Coloque- o de volta no fogo e deixe- o espessá- lo a fogo baixo, sempre misturando.",
-        "step_4": "Coberto com filme de contato.",
+        "step_4": "Deixe arrefecer com película aderente encostada diretamente à superfície do creme.",
         "step_5": "Trabalhe os ovos com açúcar e mel até que fiquem claros.",
         "step_6": "Derreta a levedura na água e adicione- a aos ovos.",
-        "step_7": "Corte a farinha e incorpore- a suavemente.",
+        "step_7": "Peneire a farinha e incorpore-a delicadamente na massa.",
         "step_8": "Coloque a massa no frigorífico por 15 minutos.",
         "step_9": "Aqueça uma panela antiadherente ligeiramente engraxada com óleo e limpa com papel absorvente.",
-        "step_10": "Verter um cofre de massa e formar um disco de 8 cm.",
+        "step_10": "Deite uma pequena concha de massa na frigideira, formando um disco de cerca de 8 cm.",
         "step_11": "Quando as bolhas aparecerem na superfície, vire e deixe cozinhar por mais 30 segundos.",
-        "step_12": "Deixe os discos esfriar, coloque uma colher generosa de creme de creme no meio de um disco e perto do sanduíche pressionando suavemente as bordas para selá- lo."
+        "step_12": "Deixe os discos arrefecer, coloque uma colher generosa de creme de pasteleiro no centro de um deles e cubra com outro, pressionando suavemente as bordas."
       }
     },
     "recipe_000069": {
@@ -3652,11 +3652,11 @@
       "stepTexts": {
         "step_1": "Corte finamente os biscoitos e combine- os com manteiga derretida.",
         "step_2": "Compactá- las no fundo de uma lata de bolo forrada com papel para assar e colocar na geladeira por 15 minutos.",
-        "step_3": "Numa tigela, queijo creme espalhado com açúcar.",
-        "step_4": "Misture os ovos um de cada vez e misture bem.",
-        "step_5": "Combine creme fresco, suco e zeste de Yuzu e, finalmente, varreu a farinha até que a mistura seja suave e veluda.",
+        "step_3": "Numa tigela, bata o queijo-creme com o açúcar até ficar macio e cremoso.",
+        "step_4": "Junte o ovo e misture bem.",
+        "step_5": "Junte as natas, o sumo e a raspa de yuzu e, por fim, a farinha peneirada; misture até obter um creme liso.",
         "step_6": "Adicione o creme à base de biscoitos.",
-        "step_7": "Cozinhe em um forno estático pré- aquecido a 160°C por cerca de 45- 50 minutos (o centro deve permanecer ligeiramente piscando).",
+        "step_7": "Leve ao forno estático pré-aquecido a 160 °C durante cerca de 45–50 minutos; o centro deve manter-se ligeiramente trémulo.",
         "step_8": "Deixe esfriar à temperatura ambiente e, em seguida, descanse no frigorífico durante pelo menos 4 horas antes de servir decoração com fatias finas de citrinos."
       }
     },
@@ -3688,8 +3688,8 @@
       },
       "stepTexts": {
         "step_1": "Misture o arroz glutinoso com água, açúcar e uma pequena gota de coloração de alimentos rosa.",
-        "step_2": "Steam ou cozinhe no microondas por 6 minutos até que o arroz esteja macio e pegajoso.",
-        "step_3": "Bata o arroz quente ligeiramente com um pile para misturar os grãos, mantendo uma consistência grãosa e visível (estilo Kansai).",
+        "step_2": "Coza o arroz glutinoso a vapor ou num recipiente tapado no micro-ondas durante cerca de 6 minutos, até ficar macio e pegajoso.",
+        "step_3": "Esmague ligeiramente o arroz quente com um pilão, misturando os grãos mas mantendo parte da textura granulada (estilo Kansai).",
         "step_4": "Dividir arroz rosa em 6 porções iguais.",
         "step_5": "Com as mãos hidratadas, aplanar uma porção de arroz na palma da mão, colocar uma bola de Anko no meio e enrolar o arroz em torno dela perfeitamente selando- o.",
         "step_6": "Enrole cada Sakura Mochi com uma folha de cereja salgada.",
@@ -3945,7 +3945,7 @@
         "step_1": "Cortar o Daikon em fatias de 2,5 cm de espessura, inserir uma cruz de um lado (para facilitar o cozimento) e fervê- lo em água de arroz por 15 minutos.",
         "step_2": "Também ferve os triângulos Konnyaku por 2 minutos para eliminar o cheiro.",
         "step_3": "Em um pote grande de Oden (Donabe ou pote grande), adicione o caldo Dashi, molho de soja leve, Mirin e sal.",
-        "step_4": "Está quente em calor médio.",
+        "step_4": "Aqueça em lume médio.",
         "step_5": "Coloque o Daikon fervido, o Konnyaku, ovos fervidos e tortas de peixe no pote.",
         "step_6": "Deixa cozir a fogo muito baixo durante pelo menos 45- 60 minutos sem ferver forte.",
         "step_7": "Combinar os pacotes de Kinchaku nos últimos 10 minutos para suavizar o mochi dentro sem quebrá- los.",
@@ -4108,7 +4108,7 @@
         "step_3": "Coloque os filetes em uma folha de cozimento coberta com papel de cozimento.",
         "step_4": "Escove- os com o molho Tare e aqueça- os em um forno ventilado ou sob a grelha a 200°C durante 6-8 minutos até que a superfície aqueça e se torne caramelizada.",
         "step_5": "Preencha as tigelas (Donburi) com arroz branco quente.",
-        "step_6": "Prove o arroz com uma colher cheia de molho Tare Unagi quente.",
+        "step_6": "Regue o arroz com uma colher de sopa de molho unagi tare quente.",
         "step_7": "Cortar os filetes de enguia ao meio e deitar suavemente sobre o arroz.",
         "step_8": "Escove com outro véu de molho e poeira com uma pitada de pimenta aromática Sansho."
       }
@@ -4278,14 +4278,14 @@
         }
       },
       "stepTexts": {
-        "step_1": "Enxague os peixes Sanma deixando- os inteiros (a tradição japonesa inclui cozinhar com as entranhas para um gosto agradávelmente amargo). O sanma é agulhão-do-Japão (Cololabis saira), não lúcio. Para preparar em casa, utilize peixe limpo e eviscerado ou peça ao peixeiro que o prepare; verifique a cozedura na parte mais espessa.",
+        "step_1": "Utilize sanma (agulhão-do-Japão, Cololabis saira) já limpo e eviscerado pelo peixeiro. Cozinhe completamente e verifique a parte mais espessa; não deixe as vísceras nesta preparação doméstica.",
         "step_2": "Insira a pele com 3 cortes diagonais em cada lado.",
         "step_3": "Espolvore generosamente com sal grosso e deixe descansar 10 minutos.",
         "step_4": "Seca a umidade liberada pelo sal com papel absorvente.",
         "step_5": "Cozinhe o peixe numa grelha quente ou na placa do forno a 220°C por cerca de 6-7 minutos por lado.",
         "step_6": "Desde que a pele se torne dourada, crocante e leve queimaduras formam.",
         "step_7": "Coloque peixe inteiro em placas retangulares alongadas.",
-        "step_8": "Venha com uma montanha fresca e ralada de Daikon, levemente espalhada com uma gota de molho de soja e um dedo de limão."
+        "step_8": "Acompanhe com daikon fresco ralado, umas gotas de molho de soja e uma rodela de limão."
       }
     },
     "recipe_000081": {
@@ -4524,12 +4524,12 @@
       },
       "stepTexts": {
         "step_1": "Numa tigela, esmague o ovo cozido com o garfo; adicione a maionese Kewpie, cebola picada, suco de limão, sal e pimenta.",
-        "step_2": "Amalgam e mantenha a calma.",
+        "step_2": "Misture bem e mantenha o molho no frigorífico até utilizar.",
         "step_3": "Numa panela, aqueça o molho de soja, vinagre de arroz e açúcar até que o açúcar derreta.",
         "step_4": "Adicione o molho a um grande prato de cozimento.",
-        "step_5": "Corte o frango em delícias grandes.",
-        "step_6": "Ligeiramente infarte- o, em seguida, passe- o para o ovo batido.",
-        "step_7": "Fritar no óleo de sementes a 170°C durante 5-6 minutos até dourar.",
+        "step_5": "Corte o frango em pedaços grandes e uniformes.",
+        "step_6": "Passe o frango por uma camada fina de farinha e depois pelo ovo batido.",
+        "step_7": "Frite em óleo a 170 °C até alourar, cerca de 5–6 minutos; confirme com um termómetro que o centro do frango atinge pelo menos 74 °C.",
         "step_8": "Pegue o frango quente recém frito e mergulhe- o imediatamente no molho doce Namban- zu por 1 minuto, girando- o em ambos os lados para absorver o tempero ácido- doce.",
         "step_9": "Coloque o frango nos pratos e cubra a superfície com uma colher generosa de molho cremoso de tártaro."
       }
@@ -4667,13 +4667,13 @@
       },
       "stepTexts": {
         "step_1": "Numa taça, bata o creme de castanha com a manteiga amolecida e o rum usando uma batedeira elétrica até obter uma mistura cremosa e sem grumos.",
-        "step_2": "Passe- o através de uma peneira fina para garantir a fluidez em espaguete de creme.",
-        "step_3": "Coloque o pão de esponja ou discos de meringue nos discos.",
+        "step_2": "Passe o creme de castanha por uma peneira fina para o poder espremer facilmente pelo bico de Mont Blanc.",
+        "step_3": "Coloque os discos de pão de ló ou suspiro nos pratos.",
         "step_4": "Coloque no centro de cada disco uma castanha inteira em xarope.",
         "step_5": "Cubra o castanho criando uma cúpula montanhosa / alta de creme batido usando uma espátula.",
         "step_6": "Insira o creme de castanha em um saco-à- poche com um bico multi- buraco (boca para Mont Blanc/ spaghetti).",
         "step_7": "Aperte o creme de castanha ao redor da cúpula de creme batido criando linhas sobrepostas para cobri- lo inteiramente.",
-        "step_8": "Ponha o topo com açúcar gelado para simular a neve e coloque um castanho em xarope no topo."
+        "step_8": "Polvilhe com açúcar em pó para imitar neve e coloque uma castanha em calda no topo."
       }
     },
     "recipe_000088": {
@@ -4711,11 +4711,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Monte o creme frio com açúcar e baunilha até que se torne firme e estruturado.",
+        "step_1": "Bata as natas bem frias com açúcar e baunilha até formarem picos firmes.",
         "step_2": "Espalhe uma camada generosa de creme batido em duas fatias de pão.",
         "step_3": "Disponha a fruta fresca sobre as natas seguindo a diagonal por onde irá cortar a sanduíche.",
         "step_4": "Oriente os morangos de modo que, ao cortar, apresentem a característica secção em forma de coração.",
-        "step_5": "Cubra os espaços vazios entre a fruta com outro creme batido para não deixar quaisquer lacunas de ar.",
+        "step_5": "Preencha os espaços entre a fruta com mais natas batidas, evitando bolsas de ar.",
         "step_6": "Feche com as outras fatias de pão.",
         "step_7": "Enrole bem os sanduíches no filme transparente e marque a linha de corte diagonal com um marcador.",
         "step_8": "Deixe no frigorífico por 20 minutos.",
@@ -4860,11 +4860,11 @@
       "stepTexts": {
         "step_1": "Enxaguar o arroz em várias águas até que a água fique quase clara, em seguida, drenar por 15 minutos: o descanso impede que o fundo fique pegajoso durante o cozimento.",
         "step_2": "Corte os shiitakes rehidratados, a cenoura e l' aburaage; corte o frango em dados uniformes de cerca de 1,5 cm.",
-        "step_3": "Despeje o arroz na panela ou fogão e adicione dashi, molho de soja, mirin e sake, respeitando o nível de líquido fornecido para o arroz.",
-        "step_4": "Distribuir frango, shiitake, cenoura e aburagem no topo sem misturar: os ingredientes vão vaporizar enquanto o arroz absorve o tempero.",
+        "step_3": "Coloque o arroz numa panela ou panela de arroz elétrica, junte dashi, molho de soja, mirin e sake e respeite a proporção de líquido indicada para o arroz.",
+        "step_4": "Distribua o frango, os shiitake, a cenoura e o aburaage sobre o arroz sem mexer; irão cozinhar a vapor enquanto o arroz absorve o tempero.",
         "step_5": "Traz a uma leve ebulição, coberturas, baixa ao mínimo e cozinhe por cerca de 15 minutos sem levantar a tampa; ao cozinhar use o ciclo normal.",
         "step_6": "Desligue e deixe ficar coberta por 10 minutos, para que a umidade seja redistribuída e os grãos terminem de cozinhar.",
-        "step_7": "Estende- se do fundo para cima com uma espátula, incorporando suavemente os condimentos sem esmagar o arroz, e os servidores quentes."
+        "step_7": "Solte o arroz suavemente com uma espátula, misturando os ingredientes sem esmagar os grãos, e sirva quente."
       }
     },
     "recipe_000092": {
@@ -4959,11 +4959,11 @@
       },
       "stepTexts": {
         "step_1": "Prepare duas tigelas com o arroz quente e mantenha as cuteladas de tonkatsu já cozidas e cortadas em tiras de cerca de 2 cm de largura.",
-        "step_2": "Num molho donburi ele assobia dashi, molho de soja, mirin e açúcar; adicione a cebola e cozinhe 3-4 minutos até que se torne translúcido.",
-        "step_3": "Adague sobre a cebola uma corteta cortada sem submergê- la completamente, para que a panificação absorva o sabor, mas não se dissolva.",
+        "step_2": "Numa frigideira pequena, leve o dashi, o molho de soja, o mirin e o açúcar a ferver suavemente; junte a cebola e cozinhe durante 3–4 minutos, até ficar translúcida.",
+        "step_3": "Coloque a costeleta tonkatsu cortada sobre a cebola sem a mergulhar totalmente no caldo, para que a panagem mantenha alguma textura.",
         "step_4": "Apenas bata um ovo deixando clara de ovo visível e gema e despeje cerca de dois terços ao redor e sobre a cutleta.",
         "step_5": "Distribua metade do queijo, cobre e cozinhe 60- 90 segundos; adicione o ovo restante e desligue quando ainda estiver macio e brilhante.",
-        "step_6": "Deslize cuidadosamente o conteúdo da panela para o arroz quente sem quebrar a gole.",
+        "step_6": "Deslize cuidadosamente o conteúdo da frigideira sobre o arroz quente, sem partir a costeleta.",
         "step_7": "Complete com queijo residual ou cebola e sirva imediatamente, antes que o ovo perca cremosidade."
       }
     },
@@ -5011,8 +5011,8 @@
       },
       "stepTexts": {
         "step_1": "Verifique o salmão removendo quaisquer ossos e corte- o em mordidas; prepare batata, cenoura, repolho, tofu e cogumelos em pedaços de tamanho semelhante.",
-        "step_2": "Traga o dashi para uma ebulição leve no donabe ou em uma grande panela e derreta o miso numa tigela com um bolo de caldo quente, depois ponha- o de volta no pote.",
-        "step_3": "Adicione batata e cenoura e cozinhe a cozinheira por cerca de 8-10 minutos até que eles comecem a suavizar.",
+        "step_2": "Deixe o dashi levantar fervura suave numa panela e dissolva o miso à parte com uma concha de caldo quente; volte a juntá-lo à panela.",
+        "step_3": "Junte a batata e a cenoura e deixe cozinhar em lume brando durante 8–10 minutos, até começarem a amolecer.",
         "step_4": "Combine repolho, tofu e cogumelos e continue por 3-4 minutos.",
         "step_5": "Coloque o salmão na superfície e cozinhe mais 6-8 minutos suavemente, sem ferver violentamente para não quebrá- lo.",
         "step_6": "Prove o caldo e corrija com um pouco de miso dissolvido se necessário; evite ferver por um longo tempo após a adição do miso.",
@@ -5070,8 +5070,8 @@
         }
       },
       "stepTexts": {
-        "step_1": "Prepare- se antecipadamente frango, menma, ensopado de ovo e casca de yuzu; traga para ebulição um pote separado de água para macarrão.",
-        "step_2": "Aqueça o caldo de frango filtrado com sal e sake até uma ligeira mordida e sabor: ele deve ser claro, salgado mas não agressivo.",
+        "step_1": "Prepare antecipadamente o frango, o menma, o ovo mal cozido e a raspa de yuzu; leve à ebulição uma panela de água separada para os noodles.",
+        "step_2": "Aqueça o caldo de frango coado com sal e sake até fervilhar suavemente; prove e ajuste o sal, mantendo o sabor equilibrado.",
         "step_3": "Desligue o fogo e incorpore suco de yuzu e óleo de sésamo apenas até o fim, para preservar os aromas de cítricos.",
         "step_4": "Cozinhe os macarrão em água fervente de acordo com a espessura, drenando- os quando ainda estiverem elásticos; agite- os bem para eliminar o excesso de água.",
         "step_5": "Distribuir macarrão em tigelas pré- aquecidas e derramar o caldo de yuzu imediatamente.",
@@ -5126,13 +5126,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Abra os moluscos em uma panela com sake e uma tampa de fogo. Antes da cozedura, deite fora amêijoas com conchas partidas ou que não fechem ao toque; depois, rejeite as que permaneçam fechadas. Refrigere o caldo coado se não o utilizar logo.",
+        "step_1": "Abra as amêijoas numa panela tapada com sake em lume forte. Antes de cozinhar, rejeite conchas partidas e amêijoas que não fechem ao toque; depois, descarte as que se mantiverem fechadas. Refrigere o caldo coado se não o utilizar de imediato.",
         "step_2": "Separe os moluscos do caldo filtrado e mantenha tudo de lado.",
-        "step_3": "Numa panela, derreta a manteiga e dobre o bacon com cebola, cenoura e batata por 5 minutos.",
-        "step_4": "Poeira com farinha e misture bem por 1 minuto para torrar.",
+        "step_3": "Derreta a manteiga numa panela e refogue o bacon com a cebola, a cenoura e a batata durante 5 minutos.",
+        "step_4": "Polvilhe com farinha e mexa durante 1 minuto para a cozinhar.",
         "step_5": "Adicione gradualmente o líquido dos moluscos filtrados, o leite e o creme e continue a misturar até atingir uma consistência veluda.",
         "step_6": "Cozinhe por 12 minutos até as batatas estarem tenras.",
-        "step_7": "Combinar os moluscos abertos por último, regra de pimenta preta e trazer para o restaurante acompanhado de croutons de pão."
+        "step_7": "Junte as amêijoas abertas apenas no fim, tempere com pimenta-preta e sirva quente com croutons."
       }
     },
     "recipe_000097": {
@@ -5251,11 +5251,11 @@
       "stepTexts": {
         "step_1": "Despeje a farinha de arroz numa tigela e adicione a água pouco de cada vez, amassando até que a massa seja suave e macia, semelhante ao lóbulo da orelha.",
         "step_2": "Divida a massa em 12 porções iguais e forme bolas compactas sem fissuras.",
-        "step_3": "Traga a ebulição um pote abundante de água e mergulhe os dangos sem sobrecarregá- lo.",
+        "step_3": "Leve bastante água a ferver e coloque os dango aos poucos, sem encher demasiado a panela.",
         "step_4": "Quando as bolas subirem para a superfície, continue cozindo por mais 2 minutos para cozinhar bem o centro.",
         "step_5": "Transfira- os imediatamente para água e gelo para parar de cozinhar; escorra-os e seque- os suavemente.",
-        "step_6": "Jogue três dangos para cada espelho e distribua sobre o anko suave.",
-        "step_7": "Misture kinako e açúcar, ponha em poeira os broches logo antes de servir e consumi- os diariamente para mantê- los macios."
+        "step_6": "Espete três dango em cada espeto e distribua o anko liso por cima.",
+        "step_7": "Misture kinako e açúcar, polvilhe os espetos antes de servir e consuma-os no próprio dia para manter a textura macia."
       }
     },
     "recipe_000100": {
@@ -5338,8 +5338,8 @@
         "step_3": "Misture molho de soja e mirin numa tigela e prepare uma escova de cozinha.",
         "step_4": "Derreta metade da manteiga numa panela antiadherente e doura o oniri a fogo médio por cerca de 3 minutos por lado, sem movê- los até que se forme uma crosta.",
         "step_5": "Escove um lado com a mistura de soja, vire e deixe o caramelo por cerca de 1 minuto; repita no outro lado.",
-        "step_6": "Adicione a manteiga restante e transforme o onigiri na panela para distribuir o perfume sem queimar o molho.",
-        "step_7": "Completa com sésamo torrado e servidores quentes, com crosta seca e ainda centro suave."
+        "step_6": "Junte a manteiga restante e rode os onigiri na frigideira para distribuir o aroma sem queimar o molho.",
+        "step_7": "Termine com sésamo torrado e sirva quente, com crosta crocante e interior ainda macio."
       }
     },
     "recipe_000102": {
@@ -5421,13 +5421,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Prepare e esfrie com antecedência matcha e gelatina shiratama; monte o creme macio e mantenha o sorvete no congelador até o último.",
+        "step_1": "Prepare e arrefeça antecipadamente a gelatina de matcha e os shiratama; bata levemente as natas e mantenha o gelado no congelador até servir.",
         "step_2": "Corte a gelatina em cubos regulares e divida l'anko em duas porções, para que as camadas sejam equilibradas nos dois copos.",
         "step_3": "Coloque uma fina camada de flocos de milho no fundo dos copos, evitando esmagá- los.",
         "step_4": "Adicione gelatina ao matcha, anko e uma primeira colher de creme batido, deixando as camadas visíveis.",
         "step_5": "Repita as camadas se a altura do vidro permitir, sem preenchê- lo completamente.",
         "step_6": "Adicione uma bola de sorvete ao matcha apenas no momento do serviço.",
-        "step_7": "Completa com shiratama, waffle ou Pocky e um pequeno tufo de creme; sirva imediatamente para que a parte crocante não perca consistência."
+        "step_7": "Finalize com shiratama, uma bolacha crocante ou Pocky e um pouco de chantilly; sirva de imediato para preservar a textura crocante."
       }
     },
     "recipe_000104": {
@@ -5473,9 +5473,9 @@
         }
       },
       "stepTexts": {
-        "step_1": "Corte a abóbora em pedaços e deixe- a vaporizar por 15 minutos até que se torne tenra.",
+        "step_1": "Corte a abóbora em pedaços e coza-a a vapor durante cerca de 15 minutos, até ficar macia.",
         "step_2": "Em seguida, esmague- o com um triturador de batata segurando a pele e eliminando o excesso de umidade.",
-        "step_3": "Queimar cebola e carne picada em manteiga até que esteja bem cozida e temperar com sal e pimenta.",
+        "step_3": "Refogue a cebola e a carne picada na manteiga até a carne ficar bem cozinhada; tempere com sal e pimenta.",
         "step_4": "Adicione a carne ao purê de abóbora, misture bem e deixe esfriar a massa.",
         "step_5": "Forma 6 croquetas ovais e esmagadas.",
         "step_6": "Passe cada croqueta para a farinha, depois para o ovo batido e finalmente para o panko pressionando bem.",
@@ -5531,10 +5531,10 @@
         }
       },
       "stepTexts": {
-        "step_1": "Escolha tamanhos semelhantes, lave- os cuidadosamente sem descascá- los e seque- os bem.",
+        "step_1": "Escolha batatas-doces satsumaimo de tamanho semelhante, lave-as bem sem descascar e seque-as.",
         "step_2": "Bucherella a pele em alguns lugares com um palito de dentes para facilitar um cozimento uniforme.",
         "step_3": "Para uma polpa mais cremosa, enrole cada batata em papel de cozinha recém- úmido e, em seguida, em alumínio; para uma pele seca, use apenas alumínio.",
-        "step_4": "Cozinhe em um forno estático a 180-190°C por cerca de 60- 75 minutos, virando a papelada em meio cozimento.",
+        "step_4": "Asse no forno convencional a 180–190 °C durante 60–75 minutos, virando os embrulhos a meio da cozedura.",
         "step_5": "Verifique colando um palito de dentes no ponto mais grosso: ele deve entrar sem resistência e a polpa deve ser suave ao centro.",
         "step_6": "Deixe para ficar fechado no papel por 5-10 minutos, para que o vapor complete o cozimento.",
         "step_7": "Abrir, dividir ao meio e servir quente; o sal é opcional e só deve ser adicionado ao serviço."
@@ -5563,12 +5563,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Corte duas fatias de shokupan grossa cerca de 2\"3 cm e traga l\"ogura a temperatura ambiente ou apenas aqueça- a, sem deixá- la secar.",
+        "step_1": "Corte duas fatias de shokupan com cerca de 2–3 cm de espessura. Deixe o ogura-an chegar à temperatura ambiente ou aqueça-o ligeiramente sem o secar.",
         "step_2": "Se o anko for muito compacto, suavize- o com uma colher de chá de água quente e agite até que esteja cremoso, mas não líquido.",
         "step_3": "Toste o pão em ambos os lados até que a superfície esteja bem dourada e crocante enquanto o centro permanece macio.",
-        "step_4": "Escovar a manteiga no pão quente imediatamente, insistindo também nas bordas para que seja absorvida pela migalha.",
+        "step_4": "Espalhe imediatamente a manteiga sobre o pão ainda quente, incluindo as bordas, para que seja absorvida pelo miolo.",
         "step_5": "Distribuir l' ogura em uma camada generosa e uniforme, sem esmagar o pão.",
-        "step_6": "Se você usar creme batido, adicione- o frio apenas depois de deixar o brinde esfriar por um minuto, para que ele não derreta.",
+        "step_6": "Se utilizar chantilly, junte-o frio apenas depois de deixar o pão arrefecer durante um minuto, para não derreter.",
         "step_7": "Corte e sirva de forma diagonal imediatamente, mantendo o contraste entre crosta crocante, pão macio, manteiga e anko."
       }
     },
@@ -5708,7 +5708,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Limpe bem as miudezas; esfregue- as com sal e farinha, enxague- as várias vezes e corte- as em mordidas regulares. Utilize apenas tripas ou miudezas já limpas e pré-cozidas, seguindo as indicações do produtor. Os 10–15 minutos são para aquecer no final, NÃO chegam para cozinhar miudezas cruas; estas exigem cozedura completa prévia.",
+        "step_1": "Use apenas tripas ou miudezas já limpas e pré-cozidas, de acordo com as instruções do fornecedor. Corte-as em pedaços uniformes com utensílios limpos; os 10–15 minutos seguintes não bastam para cozinhar miudezas cruas.",
         "step_2": "Ferva por cerca de 1 minuto, escorra e enxagua: esta fase elimina impurezas e parte do cheiro sem derreter a gordura demais.",
         "step_3": "Prepare o caldo com dashi, alho, malagueta e miso ou molho de soja. Tempere bem, pois a couve e o tofu vão suavizar o sabor.",
         "step_4": "Coloque o repolho no fundo do nabe, adicione tofu e miudezas e derrame o caldo até que você cubra parcialmente os ingredientes.",
@@ -5752,13 +5752,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Insira ligeiramente a pele dos filetes de sarjeta e derrama água fervente sobre ele por alguns segundos; escorra e seque- os para atenuar o cheiro mais intenso.",
+        "step_1": "Faça cortes superficiais na pele dos filetes de cavala e verta água a ferver por alguns segundos; escorra e seque para reduzir o cheiro intenso.",
         "step_2": "Corte o gengibre em fatias finas e prepare- se em uma grande panela de água ou dashi, sake, mirin e açúcar.",
         "step_3": "Traga o líquido para uma ebulição e adicione metade do gengibre.",
         "step_4": "Coloque a cavala com a pele virada para cima, cubra com uma otoshibuta ou papel de cozimento perfurado e cozinhe a fogo médio a baixo por cerca de 8-10 minutos.",
         "step_5": "Retire uma concha do líquido de cozedura, dissolva nela o miso e volte a deitá-lo na frigideira sem deixar ferver intensamente.",
-        "step_6": "Continue a dormir os filetes com o fundo por 3-5 minutos, até que o molho fique brilhante e ligeiramente denso.",
-        "step_7": "Complete com o gengibre à esquerda e sirva imediatamente, com a pele intacta e a carne ainda suculenta."
+        "step_6": "Regue repetidamente os filetes com o molho durante 3–5 minutos, até ficar brilhante e ligeiramente espesso.",
+        "step_7": "Finalize com o gengibre restante e sirva logo, com a pele intacta e a carne suculenta."
       }
     },
     "recipe_000112": {
@@ -5838,10 +5838,10 @@
       "stepTexts": {
         "step_1": "Seque bem os camarões e pratique um pequeno corte na parte de trás, se necessário para remover o fio intestinal.",
         "step_2": "Misture maionese Kewpie, leite condensado ou mel e suco de limão até obter um molho suave; mantenha- o de lado à temperatura fresca.",
-        "step_3": "Ele passa os camarões para o álbum e, em seguida, para o amido de milho, eliminando o excesso para obter um revestimento fino.",
+        "step_3": "Passe os camarões pela clara de ovo e depois pelo amido de milho; retire o excesso para obter uma camada fina.",
         "step_4": "Traga o óleo para cerca de 170°C e frite alguns camarões de cada vez por 2-3 minutos, até que estejam apenas dourados e cozidos no centro.",
         "step_5": "Esgote na grade ou papel absorvente e deixe- os descansar apenas alguns segundos.",
-        "step_6": "Condíscil ainda quente com o molho Ebi Mayo, mexendo suavemente para cobri- los sem amolecer demais a crosta.",
+        "step_6": "Envolva os camarões ainda quentes no molho ebi mayo, misturando delicadamente para conservar a crosta crocante.",
         "step_7": "Servir imediatamente, com casca de limão ou cebola como um acabamento."
       }
     },
@@ -5918,7 +5918,7 @@
       "stepTexts": {
         "step_1": "Derrete o kanten em água fria, leve a ebulição e cozinhe por cerca de 2 minutos mexendo até que esteja completamente disperso.",
         "step_2": "Verter o líquido em um recipiente baixo, deixar esfriar e transferir para o frigorífico até gelagem completa.",
-        "step_3": "Corte a gelatina kanten em cubos regulares e prepare a fruta pingando- a bem.",
+        "step_3": "Corte o kanten solidificado em cubos e escorra bem a fruta.",
         "step_4": "Se você usar shiratama, cozinhe até que ele flutue, continue por 1-2 minutos e esfrie- os em água fria.",
         "step_5": "Distribua cubos de kanten em copos e adicione frutas e shiratama mantendo os diferentes elementos visíveis.",
         "step_6": "Adicione uma porção de anko ao centro.",
@@ -6147,7 +6147,7 @@
       "stepTexts": {
         "step_1": "Esgote o tofu e desfaça- o grossamente; corte o daikon, a cenoura, o gobo e o shiitake em pedaços pequenos e uniformes.",
         "step_2": "Se você usar gobo fresco, coloque- o brevemente na água após o corte e, em seguida, escorra-o bem.",
-        "step_3": "Aqueça o óleo de sésamo em casserola e marrom antes das raízes e cogumelos por 3-4 minutos.",
+        "step_3": "Aqueça o óleo de sésamo numa caçarola e refogue as raízes e os cogumelos durante 3–4 minutos.",
         "step_4": "Adicione o tofu e misture suavemente para cobri- lo com óleo sem reduzi- lo ao creme.",
         "step_5": "Verter o kombu dashi, trazer à luz ferver e remover a espuma que emerge.",
         "step_6": "Cozinhe a fogo baixo por cerca de 15 minutos, até que as raízes estejam tenras, mas não desfeitos.",
@@ -6270,10 +6270,10 @@
         "step_1": "Prepare os shiratamas misturando farinha de arroz glutinoso e água pouco de cada vez até obter uma massa macia e modelável.",
         "step_2": "Forma bolas pequenas, cozinhá- las em água fervente até que cheguem à superfície e continuem por 1-2 minutos; imediatamente esfriá- las em água e gelo.",
         "step_3": "Cortar a melancia em cubos ou bolas pequenas, remover as sementes e esfriar na geladeira.",
-        "step_4": "Esgote os shiratamas e seque- os ligeiramente para que a bebida não seja diluída.",
+        "step_4": "Escorra os shiratama e seque-os levemente para não diluir a bebida.",
         "step_5": "Distribua melancia e shiratama em copos muito frios.",
-        "step_6": "Adicione sorvete frio ou uma bebida transparente de limão apenas no momento do serviço.",
-        "step_7": "Sirva imediatamente com uma colher de chá ou palha larga; mantenha a sobremesa fria, mas não deixe o shiratama imerso por horas."
+        "step_6": "Adicione água com gás bem fria ou um refrigerante transparente de limão apenas ao servir.",
+        "step_7": "Sirva imediatamente com colher ou palhinha larga; mantenha a sobremesa fria sem deixar os shiratama submersos durante horas."
       }
     },
     "recipe_000123": {
@@ -6373,9 +6373,9 @@
       "stepTexts": {
         "step_1": "Prepare a massa brioche com farinha, leite, levedura, açúcar, ovo, sal e manteiga; misture até que se torne suave e elástica.",
         "step_2": "Cubra e deixe subir até duplicar, geralmente 60- 90 minutos dependendo da temperatura.",
-        "step_3": "Enquanto isso, prepare um creme de chocolate grosso, esfrie- o completamente e transfira- o para um saco à poche.",
+        "step_3": "Entretanto, prepare um creme de chocolate espesso, deixe arrefecer completamente e transfira-o para um saco de pasteleiro.",
         "step_4": "Desinflar suavemente a massa, dividi- la em porções e formar cordas longas e regulares.",
-        "step_5": "Graxa levemente os moldes do cone e enrole cada cordão espiral, apenas sobrepondo os giros sem deixar fissuras.",
+        "step_5": "Unte levemente os moldes em cone e enrole cada tira de massa em espiral, sobrepondo ligeiramente as voltas para não deixar aberturas.",
         "step_6": "Deixe os croissants em forma para ficarem de pé por 20-30 minutos, em seguida, escove- os com ovo batido.",
         "step_7": "Cozinhe a 180°C por cerca de 12-15 minutos, até que estejam uniformemente dourados; esfrie alguns minutos e remova os moldes.",
         "step_8": "Deixe esfriar completamente antes de preencher com creme de chocolate, para que o preenchimento não derreta."
@@ -6424,13 +6424,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Cortar porco, camarão, cebola e raiz de loto em pedaços semelhantes, pequenos o suficiente para cozinhar ao mesmo tempo, e colocá- los separadamente em broches.",
+        "step_1": "Corte a carne de porco, os camarões, a cebola e a raiz de lótus em pedaços pequenos de tamanho semelhante e coloque-os separadamente em espetos.",
         "step_2": "Seque todos os ingredientes e farinha ligeiramente para favorecer a adesão da massa.",
         "step_3": "Prepare uma massa de fluido com farinha, ovo e água fria, sem trabalhar muito duro.",
-        "step_4": "Passe cada espelho para a massa e, em seguida, para o panko, pressionando apenas para criar uma camada uniforme.",
-        "step_5": "Traga o óleo para 170-175°C e frite alguns pintos de cada vez, ajustando os horários de acordo com o ingrediente.",
+        "step_4": "Passe cada espeto pela massa e depois pelo panko, pressionando ligeiramente para formar uma camada uniforme.",
+        "step_5": "Aqueça o óleo a 170–175 °C e frite poucos espetos de cada vez, ajustando a duração ao ingrediente.",
         "step_6": "Esgote a grelha e deixe- a ficar por um minuto; verifique que carne e camarão são cozidos no meio.",
-        "step_7": "Servir quente com molho Kushikatsu ou tonkatsu separadamente, evitando deixar os broches imersos no molho."
+        "step_7": "Sirva os espetos quentes com molho kushikatsu ou tonkatsu à parte, sem os deixar mergulhados no molho."
       }
     },
     "recipe_000127": {
@@ -6512,11 +6512,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Numa panela grande, dobre as cebolas com um pouco de óleo até que se tornem bem douradas e caramelizadas.",
-        "step_2": "Combinar a carne com cubos e marrom em todos os lados.",
+        "step_1": "Numa panela grande, refogue as cebolas num fio de óleo até ficarem bem douradas e caramelizadas.",
+        "step_2": "Junte a carne cortada em cubos e aloure-a de todos os lados.",
         "step_3": "Insira as cenouras e batatas.",
         "step_4": "Adicione o caldo de carne e a maçã ralada.",
-        "step_5": "Cubra e cozinhe a fogo médio- baixo durante 20 minutos.",
+        "step_5": "Tape e deixe cozinhar em lume médio-baixo durante 20 minutos.",
         "step_6": "Desligue o fogo, junte- se ao roux para curry e amalgama até a dissolução completa.",
         "step_7": "Combine o pó de cacau amargo (ou chocolate escuro), misture bem e cozinhe a fogo lento por mais 5 minutos até obter um molho espesso, brilhante e aromático.",
         "step_8": "Traga para a mesa quente acompanhada de arroz branco vaporizado."
@@ -6561,12 +6561,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Numa panela antiadherente sem gorduras adicionadas, grelhar os rolos de alho até que estejam dourados e torrá- los ligeiramente na superfície, mantenha- se de lado.",
+        "step_1": "Numa frigideira antiaderente sem gordura, aloure os pedaços de alho-francês até ficarem ligeiramente tostados; reserve.",
         "step_2": "Coloque em uma panela, ferva o caldo Dashi com molho de soja, mirin e açúcar.",
         "step_3": "Combine as fatias de porco e deixe- as cozinhar por 3-4 minutos até que estejam macias.",
         "step_4": "Cozinhe soba em muita água fervente para o tempo indicado no pacote (cerca de 3-4 minutos), escorra e enxague brevemente.",
         "step_5": "Divida o soba em duas tigelas grandes.",
-        "step_6": "Adicione sobre o caldo fervente com as fatias de porco e guarneça com o porro grelhado e um copo de Shichimi Togarashi."
+        "step_6": "Verta o caldo quente com as fatias de porco sobre os noodles e termine com alho-francês tostado e uma pitada de shichimi togarashi."
       }
     },
     "recipe_000130": {
@@ -6689,9 +6689,9 @@
         }
       },
       "stepTexts": {
-        "step_1": "Mantenha- se prontos os cortetes de tonkatsu fritos ou bem aquecidos, ainda crocantes, e prepare o repolho cortado finamente.",
+        "step_1": "Prepare as costeletas tonkatsu acabadas de fritar ou bem reaquecidas, ainda crocantes, e corte a couve muito fina.",
         "step_2": "Espalhe um fino véu de manteiga no interior das fatias de shokupan para criar uma barreira contra a umidade.",
-        "step_3": "Sazonar a talha com um molho de curry espesso, evitando o encharque excessivo do pão.",
+        "step_3": "Cubra a costeleta com um molho de caril espesso, evitando encharcar a panagem.",
         "step_4": "Distribua o repolho na primeira fatia de pão e coloque sobre o tonkatsu quente.",
         "step_5": "Feche o sanduíche, enrole- o ligeiramente com papel para assar e pressione com um peso moderado por cerca de 2 minutos.",
         "step_6": "Corte as crostas se você quiser uma forma mais tradicional e corte o sanduíche com uma faca muito afiada.",
@@ -6877,12 +6877,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Pressione o tofu para remover o excesso de água, seque- o e corte- o em retângulos grossos o suficiente para ser infiltrado sem quebrar.",
+        "step_1": "Pressione o tofu para remover o excesso de água, seque-o e corte-o em retângulos suficientemente grossos para espetar sem quebrar.",
         "step_2": "Insira os broches suavemente e bata novamente na superfície.",
         "step_3": "Misture miso, açúcar, mirin e sake em uma panela e cozinhe a fogo lento por cerca de 2 minutos até que o esmalte seja suave e denso o suficiente para colar.",
-        "step_4": "Grelhe o tofu 2-3 minutos por lado em uma placa quente, até que apareça uma ligeira dor.",
+        "step_4": "Grelhe o tofu 2–3 minutos de cada lado numa chapa bem quente, até alourar ligeiramente.",
         "step_5": "Escove uma primeira vez com molho miso e deixe secar por cerca de 30 segundos.",
-        "step_6": "Adicione uma segunda camada de esmalte e passe por baixo da grelha por 1-2 minutos, verificando continuamente porque o açúcar miso queima facilmente.",
+        "step_6": "Pincele o tofu com uma segunda camada de molho de miso e leve ao grill do forno durante 1–2 minutos, vigiando sempre, pois o açúcar queima facilmente.",
         "step_7": "Completo com sésamo torrado e servos quentes."
       }
     },
@@ -7065,12 +7065,12 @@
         }
       },
       "stepTexts": {
-        "step_1": "Corte farinha e Matcha em uma tigela.",
+        "step_1": "Peneire a farinha e o matcha para uma tigela.",
         "step_2": "Adicione açúcar e ovos, em seguida, adicione leite quente e manteiga derretida misturando- se com um batido até obter uma massa líquida sem nódulos.",
-        "step_3": "Descanse na geladeira por 30 minutos.",
+        "step_3": "Deixe a massa repousar no frigorífico durante 30 minutos.",
         "step_4": "Cozinhe cerca de 15-20 crepes finos em uma panela antiadherente levemente manteiga, deixe- os esfriar completamente.",
         "step_5": "Montar o creme com o açúcar gelado e Matcha, em seguida, incorporá- lo com o creme de pastelaria.",
-        "step_6": "Montar a sobremesa colocando a primeira fissura em um prato, espalhar uma camada fina de creme e cobrir com outra fissura.",
+        "step_6": "Monte a sobremesa colocando a primeira crepe num prato, espalhando uma camada fina de creme e cobrindo com outra crepe.",
         "step_7": "Repita até que os ingredientes estejam exaustos.",
         "step_8": "Ponha a superfície com o pó Matcha antes de servir frio da geladeira."
       }
@@ -7151,12 +7151,12 @@
       },
       "stepTexts": {
         "step_1": "Divida o anko em seis bolas iguais e mantenha- as cobertas; poeira a superfície de trabalho com amido de milho ou amido.",
-        "step_2": "Misture farinha de arroz glutinoso, açúcar, matcha e água em uma tigela de microondas até que os blocos secos permaneçam.",
-        "step_3": "Cobrir deixando um ventilador e assar a 600 W por cerca de 90 segundos.",
+        "step_2": "Misture a farinha de arroz glutinoso, o açúcar, o matcha e a água numa tigela própria para micro-ondas até não restarem grumos secos.",
+        "step_3": "Tape deixando uma pequena abertura para o vapor e cozinhe a 600 W durante cerca de 90 segundos.",
         "step_4": "Misture com uma espátula molhada e cozinhe cerca de 60 segundos, até que a massa seja brilhante, elástica e cozida uniformemente.",
-        "step_5": "Transferir imediatamente a massa quente para a superfície em poeira, cobri- la com outro amido e deixá- la aquecer o suficiente para lidar com ela.",
+        "step_5": "Passe imediatamente a massa quente para a superfície polvilhada com amido, cubra com mais um pouco e deixe arrefecer até conseguir manuseá-la.",
         "step_6": "Dividir em seis porções, aplaná- las em discos e diluir ligeiramente as bordas.",
-        "step_7": "Coloque uma bola de anko no centro, feche as bordas apertando- as bem e coloque o daifuku com o fechamento.",
+        "step_7": "Coloque uma bola de anko no centro, una as bordas apertando bem e disponha o daifuku com a junção virada para baixo.",
         "step_8": "Remova o excesso de amido e sirva à temperatura ambiente no mesmo dia."
       }
     },
@@ -7183,14 +7183,14 @@
         }
       },
       "stepTexts": {
-        "step_1": "Veste os moldes manteigados com a pasta curta, corte as bordas e fure o fundo com um garfo.",
+        "step_1": "Forre as formas untadas com massa quebrada, apare as bordas e pique a base com um garfo.",
         "step_2": "Esfria as conchas formadas por 15-20 minutos antes de cozinhar, para que mantenham a forma melhor.",
-        "step_3": "Cozinhe em branco a 180°C por cerca de 15-20 minutos até que sejam uniformemente dourados.",
-        "step_4": "Formar e deixar esfriar completamente em uma grade.",
+        "step_3": "Coza as bases vazias no forno a 180 °C durante cerca de 15–20 minutos, até ficarem uniformemente douradas.",
+        "step_4": "Desenforme e deixe arrefecer completamente sobre uma grelha.",
         "step_5": "Preencha cada concha fria com creme de pastelaria fria, nivelando- o sem atravessar a borda.",
         "step_6": "Corte o fruto pouco antes de usar, seque- o e estoque- o de forma compacta no creme.",
-        "step_7": "Escove com um véu de gelatina neutra para polir e proteger o fruto.",
-        "step_8": "Mantenha- se frio e sirva no dia para manter o fresco curto."
+        "step_7": "Pincele a fruta com uma camada fina de gelatina neutra para lhe dar brilho e proteção.",
+        "step_8": "Guarde no frigorífico e sirva no próprio dia para manter a massa crocante."
       }
     },
     "recipe_000144": {
@@ -7273,13 +7273,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Corte farinha e levedura e mantenha- os de lado.",
+        "step_1": "Peneire a farinha e o fermento em pó e reserve.",
         "step_2": "Bata os ovos, o açúcar e o óleo na massa até que o açúcar esteja quase dissolvido.",
         "step_3": "Incorpore ingredientes secos com uma espátula até obter uma massa muito espessa e pegajosa; não funcione mais do que precisa.",
-        "step_4": "Muito óleo a cerca de 150-160°C: uma temperatura moderada permite que as panquecas cozinhem dentro antes de escurecer.",
+        "step_4": "Aqueça bastante óleo a cerca de 150–160 °C, para que os bolinhos cozinhem por dentro antes de escurecerem por fora.",
         "step_5": "Graxa levemente as mãos e forme bolas do tamanho de uma noz sem comprimi- las demais.",
         "step_6": "Frite algumas peças de cada vez por 6-8 minutos, girando- as muitas vezes, até que as fissuras apareçam e a superfície esteja bem dourada.",
-        "step_7": "Esqueça uma grade ou papel absorvente e deixe esfriar alguns minutos antes de servir."
+        "step_7": "Escorra sobre uma grelha ou papel absorvente e deixe arrefecer alguns minutos antes de servir."
       }
     },
     "recipe_000146": {
@@ -7341,7 +7341,7 @@
         "step_6": "Numa tigela, misture o molho de soja com o mirin.",
         "step_7": "Tempere o atum com a mistura de soja e mirin durante 1–2 minutos e mantenha-o refrigerado até servir. A marinada não torna seguro um peixe inadequado ao consumo cru.",
         "step_8": "Coloque o arroz de sushi quente nas tigelas do Donburi.",
-        "step_9": "Escovar a superfície com a alga Nori em tiras.",
+        "step_9": "Polvilhe o arroz com tiras de alga nori.",
         "step_10": "Disponha as fatias de atum em leque, cobrindo o arroz.",
         "step_11": "Decore com uma pequena porção de wasabi, cebolinho picado e sementes de sésamo torradas.",
         "step_12": "Servir imediatamente com molho extra de soja."
@@ -7456,14 +7456,14 @@
       },
       "stepTexts": {
         "step_1": "Lave e seque bem o calamar.",
-        "step_2": "Prática no corpo dos cortes horizontais paralelos de lula espaçados cerca de 1 cm, sem gravação no fundo, para que o cozimento permaneça uniforme.",
+        "step_2": "Faça cortes paralelos espaçados cerca de 1 cm no corpo das lulas, sem cortar até ao fundo, para garantir uma cozedura uniforme.",
         "step_3": "Em uma panela, adicione molho de soja, mirin, sake, açúcar e gengibre ralado.",
         "step_4": "Cozinhe a fogo lento por 3-4 minutos até que o molho se espesse ligeiramente.",
-        "step_5": "Aqueça um prato quente ou uma panela de bife sobre um fogo alto.",
+        "step_5": "Aqueça muito bem uma chapa ou frigideira de grelhar em lume forte.",
         "step_6": "Grelhe os calamares e tentáculos por 2-3 minutos por lado.",
         "step_7": "Escove bem o calamar com molho Teriyaki nos últimos 2 minutos de cozimento, girando- os até que a superfície seja brilhante e caramelizada.",
         "step_8": "Corte o calamar em fatias após as incisões já praticadas.",
-        "step_9": "Servir com maionese Kewpie separadamente e um copo de Shichimi Togarashi."
+        "step_9": "Sirva com maionese Kewpie à parte e uma pitada de shichimi togarashi."
       }
     },
     "recipe_000149": {
@@ -7567,9 +7567,9 @@
         "step_2": "Cozinhe em uma panela antiadherente fria do lado da pele em fogo médio a baixo durante 8-10 minutos, recolhendo a gordura derretida.",
         "step_3": "Vire o peito de pato e cozinhe por mais 2 minutos.",
         "step_4": "Deixe a carne descansar por alguns minutos, em seguida, cortar em fatias finas.",
-        "step_5": "Na mesma panela, usando parte da gordura do pato, ele brinde pedaços de alho-francês até que estejam bem dourados e ligeiramente caramelizados.",
+        "step_5": "Na mesma frigideira, aloure os pedaços de alho-francês em parte da gordura do pato até ficarem ligeiramente caramelizados.",
         "step_6": "Em um pote, adicione dashi, molho de soja, mirin e açúcar.",
-        "step_7": "Traga o caldo a ferver, adicione os puerros torrados e fatias de pato e deixe- o cozir por 2 minutos. Para uma preparação doméstica prudente, confirme com um termómetro que o peito de pato atinge pelo menos 74 °C no centro antes de servir. Os tempos são indicativos; a passagem breve pelo caldo não substitui a medição.",
+        "step_7": "Leve o caldo à ebulição, junte o alho-francês tostado e as fatias de pato e deixe cozinhar suavemente durante 2 minutos. Antes de servir, confirme com um termómetro que a carne atinge pelo menos 74 °C no centro; o tempo por si só não é garantia.",
         "step_8": "Cozinhe os fios de massa soba em água fervente por cerca de 4 minutos; escorra-os, lave- os sob água fria para remover o amido de superfície e aqueça- os brevemente em água quente antes de servir.",
         "step_9": "Distribua o soba nas tigelas e cubra- o com caldo quente, fatias de pato e puerros.",
         "step_10": "Completar com o zest yuzu ralado e servir imediatamente."
@@ -7672,11 +7672,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Preaqueça o forno a 200°C e queime levemente dois pirófilos de única porção resistentes ao calor.",
+        "step_1": "Pré-aqueça o forno a 200 °C e unte ligeiramente com manteiga duas formas individuais próprias para forno.",
         "step_2": "Distribua arroz quente no fundo sem comprimi- lo e cubra- o com curry japonês espesso.",
         "step_3": "Crie um oco no meio de cada prato de cozimento e quebre suavemente um ovo dentro.",
         "step_4": "Distribua o queijo ao redor do ovo e complete com um pingo fino de panko.",
-        "step_5": "Leve ao forno durante cerca de 10 a 12 minutos, até o queijo derreter e alourar e a clara do ovo ficar firme.",
+        "step_5": "Leve ao forno durante cerca de 10–12 minutos, até o queijo derreter e alourar e a clara ficar firme.",
         "step_6": "Verifique a gema de acordo com o resultado desejado: para mantê- la suave evita a extensão desnecessária do cozimento.",
         "step_7": "Complete com salsa e sirva imediatamente no prato de cozimento, prestando atenção à temperatura do recipiente."
       }
@@ -7841,10 +7841,10 @@
       },
       "stepTexts": {
         "step_1": "Cozinhe os discos do Daikon em água fervente por 10 minutos para amolecê- los e remover o amargo, drenar.",
-        "step_2": "Ele queima as fatias de ricciola em água fervente por 10 segundos, depois mergulha em água congelada e remove as escalas restantes suavemente.",
+        "step_2": "Escalde as postas de peixe em água a ferver durante 10 segundos, passe-as para água gelada e retire delicadamente quaisquer escamas.",
         "step_3": "Em uma panela grande, adicione dashi, sake, açúcar, mirin e gengibre.",
-        "step_4": "Traz a ebulição, alimenta o Daikon e o peixe.",
-        "step_5": "Cubra com um Otoshibuta (cobertura caindo) e cozinhe a fogo lento durante 20 minutos.",
+        "step_4": "Leve o caldo à ebulição e coloque cuidadosamente o daikon e o peixe.",
+        "step_5": "Tape com um otoshibuta (tampa interior de cozedura) e cozinhe em lume brando durante 20 minutos.",
         "step_6": "Combine o molho de soja nos últimos 10 minutos reduzindo o líquido até que seja denso e brilhante.",
         "step_7": "Servir o peixe e o Daikon bem impregnados com o fundo de cozinha escuro e saboroso."
       }
@@ -7942,13 +7942,13 @@
       },
       "stepTexts": {
         "step_1": "Corte as berinjelas ao meio na direção do comprimento.",
-        "step_2": "Corte a polpa grelhada sem piercing na pele.",
+        "step_2": "Faça incisões superficiais em grelha na polpa, sem perfurar a casca.",
         "step_3": "Aqueça o óleo em uma panela grande.",
-        "step_4": "Cozinhe as berinjelas do lado da carne a fogo médio durante 5 minutos até dourar.",
+        "step_4": "Aloure as beringelas do lado da polpa durante 5 minutos em lume médio.",
         "step_5": "Vire a berinjela, cubra e continue cozindo por mais 4 minutos, até que a polpa esteja macia.",
         "step_6": "Numa panela, misturar miso, mirin, sake e açúcar a fogo lento durante 2 minutos até obter um esmalte suave e denso.",
         "step_7": "Escove generosamente a carne da berinjela com miso glaseado.",
-        "step_8": "Transferir as berinjelas sob a grelha do forno a 220°C por 3-4 minutos, até que o esmalte forme bolhas e doces ligeiramente.",
+        "step_8": "Leve as beringelas ao grill do forno a 220 °C durante 3–4 minutos, até a cobertura de miso formar bolhas e caramelizar ligeiramente.",
         "step_9": "Completar com sementes de sésamo torradas e servir berinjelas quentes."
       }
     },
@@ -8130,16 +8130,16 @@
         }
       },
       "stepTexts": {
-        "step_1": "Trabalhe os ovos com açúcar, em seguida, incorpore o leite, a farinha varreda e, finalmente, a manteiga derretida.",
+        "step_1": "Bata os ovos com o açúcar e depois incorpore o leite, a farinha peneirada e, por fim, a manteiga derretida.",
         "step_2": "Deixe a massa na geladeira por 15 minutos.",
-        "step_3": "Ligeiramente engraxa uma panela antiadherente de grande diâmetro, adequada para crepe.",
+        "step_3": "Unte ligeiramente uma frigideira antiaderente grande, adequada para crepes.",
         "step_4": "Deite uma concha de massa na frigideira, espalhe-a numa camada fina e cozinhe 1 minuto de cada lado.",
         "step_5": "Espalhe uma crepe aberta na superfície de trabalho ou numa placa.",
-        "step_6": "Arranje creme batido e frutas frescas cortadas apenas em um quarto da superfície da fissura.",
+        "step_6": "Coloque as natas batidas e a fruta fresca cortada apenas sobre um quarto da crepe.",
         "step_7": "Decorar com xarope de chocolate.",
         "step_8": "Dobre a crepe ao meio formando um semicírculo.",
         "step_9": "Dobra os dois lados para o centro formando um cone aberto em cima, com creme e fruta claramente visíveis.",
-        "step_10": "Enrole a base com um guardanapo de papel e passeie."
+        "step_10": "Envolva a base num guardanapo de papel e sirva a crepe para comer enquanto passeia."
       }
     },
     "recipe_000162": {
