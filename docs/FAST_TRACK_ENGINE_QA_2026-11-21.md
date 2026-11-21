@@ -1,6 +1,6 @@
 # Cooking Anime — Fast Track evidence hardening (2026-11-21)
 
-Pinned Semantic QA at App-Factory-Core d90c274cd33a9e727e070aa9fa45a506c2ae13c5 and Language Engine 1.1.1 at 414e4965eab7229808b42fc049a8f664250adadc.
+Pinned Semantic QA at App-Factory-Core d90c274cd33a9e727e070aa9fa45a506c2ae13c5 and Language Engine 1.1.2 at 9391419c6b7c9c23c2f978262fe8fe6670c68160.
 Language Engine 1.1 recognizes safe written cardinals and C/F equivalents,
 separates unit mismatches, rejects stale drafts and checks that an imported
 Semantic QA report covers the exact same source data SHA256 and all 810 pairs.
