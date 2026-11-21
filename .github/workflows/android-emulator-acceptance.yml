@@ -47,29 +47,7 @@ jobs:
           arch: x86_64
           profile: pixel_7_pro
           disable-animations: true
-          script: |
-            set -euo pipefail
-            mkdir -p build/emulator-acceptance
-            APK="$GITHUB_WORKSPACE/build/app/outputs/flutter-apk/app-debug.apk"
-            adb install -r "$APK"
-            AAPT="$(find "$ANDROID_HOME/build-tools" -type f -name aapt | sort -V | tail -n 1)"
-            test -n "$AAPT"
-            PKG="$("$AAPT" dump badging "$APK" | sed -n "s/^package: name='\([^']*\)'.*/\1/p" | head -1)"
-            test -n "$PKG"
-            echo "package=$PKG" | tee build/emulator-acceptance/identity.txt
-            adb shell monkey -p "$PKG" -c android.intent.category.LAUNCHER 1
-            sleep 12
-            adb shell pidof "$PKG"
-            adb exec-out screencap -p > build/emulator-acceptance/launch.png
-            adb shell uiautomator dump /sdcard/window.xml || true
-            adb pull /sdcard/window.xml build/emulator-acceptance/window.xml || true
-            adb shell am force-stop "$PKG"
-            adb shell monkey -p "$PKG" -c android.intent.category.LAUNCHER 1
-            sleep 6
-            adb shell pidof "$PKG"
-            adb exec-out screencap -p > build/emulator-acceptance/relaunch.png
-            test -s build/emulator-acceptance/launch.png
-            test -s build/emulator-acceptance/relaunch.png
+          script: bash tool/android_emulator_acceptance.sh
       - name: Preserve actual runtime evidence (emulator is not a physical device)
         if: always()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
