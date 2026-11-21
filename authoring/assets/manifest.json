@@ -51,9 +51,9 @@
       "recipeId": "recipe_000004",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 2,
-        "reviewedAt": "2026-10-25",
-        "note": "Golden dorayaki pancakes sandwiching a thick dark-red anko filling. F3G re-review confirms the approved artwork still matches the revised culinary identity."
+        "reviewedContentVersion": 3,
+        "reviewedAt": "2026-11-21",
+        "note": "Golden dorayaki pancakes sandwiching a thick dark-red anko filling. F3G re-review confirms the approved artwork still matches the revised culinary identity. 2026-11-21 continuity review: localized instructions restored omitted dimensions only; canonical dish, ingredient identities and previously approved image asset are unchanged. No new image or visual change."
       }
     },
     {
@@ -279,9 +279,9 @@
       "recipeId": "recipe_000023",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 1,
-        "reviewedAt": "2026-10-25",
-        "note": "F3G original food-only artwork reviewed against Food Wars! recipe identity; the finished dish remains the sole subject, with no characters, logos or franchise text."
+        "reviewedContentVersion": 2,
+        "reviewedAt": "2026-11-21",
+        "note": "F3G original food-only artwork reviewed against Food Wars! recipe identity; the finished dish remains the sole subject, with no characters, logos or franchise text. 2026-11-21 continuity review: localized instructions restored omitted dimensions only; canonical dish, ingredient identities and previously approved image asset are unchanged. No new image or visual change."
       }
     },
     {
@@ -471,9 +471,9 @@
       "recipeId": "recipe_000039",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 1,
-        "reviewedAt": "2026-10-25",
-        "note": "F3G original food-only artwork reviewed against Fruits Basket recipe identity; the finished dish remains the sole subject, with no characters, logos or franchise text."
+        "reviewedContentVersion": 2,
+        "reviewedAt": "2026-11-21",
+        "note": "F3G original food-only artwork reviewed against Fruits Basket recipe identity; the finished dish remains the sole subject, with no characters, logos or franchise text. 2026-11-21 continuity review: localized instructions restored omitted dimensions only; canonical dish, ingredient identities and previously approved image asset are unchanged. No new image or visual change."
       }
     },
     {
@@ -495,9 +495,9 @@
       "recipeId": "recipe_000041",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 1,
-        "reviewedAt": "2026-10-25",
-        "note": "F3G original food-only artwork reviewed against Food Wars! Shokugeki no Soma recipe identity; the finished dish remains the sole subject, with no characters, logos or franchise text. F3H visual hardening: regenerated food-only artwork manually reviewed against the final dish identity and current recipe content."
+        "reviewedContentVersion": 2,
+        "reviewedAt": "2026-11-21",
+        "note": "F3G original food-only artwork reviewed against Food Wars! Shokugeki no Soma recipe identity; the finished dish remains the sole subject, with no characters, logos or franchise text. F3H visual hardening: regenerated food-only artwork manually reviewed against the final dish identity and current recipe content. 2026-11-21 continuity review: localized instructions restored omitted dimensions only; canonical dish, ingredient identities and previously approved image asset are unchanged. No new image or visual change."
       }
     },
     {
@@ -519,9 +519,9 @@
       "recipeId": "recipe_000043",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 1,
-        "reviewedAt": "2026-10-25",
-        "note": "F3G original food-only artwork reviewed against Demon Slayer recipe identity; the finished dish remains the sole subject, with no characters, logos or franchise text."
+        "reviewedContentVersion": 2,
+        "reviewedAt": "2026-11-21",
+        "note": "F3G original food-only artwork reviewed against Demon Slayer recipe identity; the finished dish remains the sole subject, with no characters, logos or franchise text. 2026-11-21 continuity review: localized instructions restored omitted dimensions only; canonical dish, ingredient identities and previously approved image asset are unchanged. No new image or visual change."
       }
     },
     {
