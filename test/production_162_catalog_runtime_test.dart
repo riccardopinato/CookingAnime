@@ -28,7 +28,7 @@ void main() {
   });
 
   test('corrected sanma and tofu cases reach the Flutter runtime', () async {
-    const source = AssetRecipeCatalogSource(rootBundle);
+    final source = AssetRecipeCatalogSource(rootBundle);
     final en = await VersionedRecipeCatalogRepository(
       source: source,
       localeCode: 'en',
