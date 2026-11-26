@@ -967,6 +967,126 @@
         "reviewedAt": "2026-11-26",
         "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; whole grilled Pacific saury with daikon and citrus. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
       }
+    },
+    {
+      "id": "recipe_000081_artwork",
+      "path": "assets/recipe_artwork/recipe_000081.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000081",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: crustless shokupan egg-mayo sandwich with centered hard-boiled egg cross-section. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000082_artwork",
+      "path": "assets/recipe_artwork/recipe_000082.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000082",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: chicken mizutaki nabe with tofu, napa cabbage, shiitake and ponzu. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000083_artwork",
+      "path": "assets/recipe_artwork/recipe_000083.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000083",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: cold thick noodles and separate hot dark dipping broth, chashu and egg. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000084_artwork",
+      "path": "assets/recipe_artwork/recipe_000084.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000084",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: fried chicken with Japanese egg tartar sauce and shredded cabbage. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000085_artwork",
+      "path": "assets/recipe_artwork/recipe_000085.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000085",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: translucent amber jelly warabi-mochi cubes with kinako and kuromitsu. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000086_artwork",
+      "path": "assets/recipe_artwork/recipe_000086.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000086",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: extra-tall soufflé pancakes, butter and syrup. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000087_artwork",
+      "path": "assets/recipe_artwork/recipe_000087.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000087",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: piped chestnut Mont Blanc cream mounds with whole glazed chestnut tops. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000088_artwork",
+      "path": "assets/recipe_artwork/recipe_000088.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000088",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: fresh fruit cream shokupan sandwich cross-sections. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000089_artwork",
+      "path": "assets/recipe_artwork/recipe_000089.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000089",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: ohagi sticky rice sweets, chunky red bean, kinako and black sesame. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000090_artwork",
+      "path": "assets/recipe_artwork/recipe_000090.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000090",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: clear amber shoyu broth ramen with chashu, ajitama, naruto and nori. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
     }
   ]
 }
