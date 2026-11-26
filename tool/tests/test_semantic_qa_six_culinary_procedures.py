@@ -39,8 +39,10 @@ class SixCulinaryRecipesRuntimeParityTests(unittest.TestCase):
                 self.assertEqual(source["status"], "published")
                 self.assertEqual(source["contentVersion"], canonical["contentVersion"])
                 self.assertEqual(set(source["locales"]), set(LOCALES))
-                self.assertIsNone(source["imageAssetId"])
-                self.assertIsNone(canonical["imageAsset"])
+                asset_id = source.get("imageAssetId")
+                expected_asset = f"assets/recipe_artwork/{rid}.jpg" if asset_id else None
+                self.assertEqual(asset_id, f"{rid}_artwork" if expected_asset else None)
+                self.assertEqual(canonical["imageAsset"], expected_asset)
                 for field in ("id", "status", "inspirationTitle", "animeReferences",
                               "prepMinutes", "cookMinutes", "servings", "difficulty",
                               "contentOrigin", "sourceNote", "ingredients", "steps"):

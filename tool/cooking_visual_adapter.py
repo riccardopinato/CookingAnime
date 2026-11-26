@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Cooking Anime domain adapter for reusable Visual Batch Engine.
 
-No image generation, approval or network requests here. Real approved artwork
-51-162 must follow visual and content-review gates before manifest changes.
+This planning-only adapter skips current version-bound approved artworks.
+It does not generate images, approve assets, or issue network requests.
 """
 from __future__ import annotations
 
@@ -88,6 +88,12 @@ def build(root: Path = ROOT, *, pilot_only: bool = True) -> dict:
     }
     profile = reference_profile(root, adapter)
     targets = PILOT_IDS if pilot_only else tuple(range(51, 163))
+    integrated_in_catalog = {
+        a["recipeId"] for a in manifest["assets"]
+        if 51 <= int(a["recipeId"].split("_")[-1]) <= 162
+        and a["semanticReview"]["status"] == "approved"
+    }
+    skipped_integrated = []
     specs = []
     for number in targets:
         recipe_id = f"recipe_{number:06d}"
@@ -95,7 +101,15 @@ def build(root: Path = ROOT, *, pilot_only: bool = True) -> dict:
         if recipe["id"] != recipe_id or recipe.get("status") != "published":
             raise ValueError(f"invalid canonical recipe: {recipe_id}")
         if recipe.get("imageAssetId") is not None:
-            raise ValueError(f"recipe already has an artwork: {recipe_id}")
+            asset = next((a for a in manifest["assets"]
+                          if a["id"] == recipe["imageAssetId"]
+                          and a["recipeId"] == recipe_id), None)
+            if (asset is None or asset["semanticReview"]["status"] != "approved"
+                    or asset["semanticReview"]["reviewedContentVersion"]
+                       != recipe["contentVersion"]):
+                raise ValueError(f"stale/missing approved artwork: {recipe_id}")
+            skipped_integrated.append(recipe_id)
+            continue
         localized = recipe["locales"]["it"]
         visual = VISUAL_FACTS.get(number)
         if visual:
@@ -126,6 +140,8 @@ def build(root: Path = ROOT, *, pilot_only: bool = True) -> dict:
     output["assetPolicy"] = adapter["assetPolicy"]
     output["styleProfile"] = profile
     output["pilotIds"] = [f"recipe_{n:06d}" for n in PILOT_IDS]
+    output["skippedAlreadyIntegrated"] = skipped_integrated
+    output["catalogAlreadyIntegrated"] = len(integrated_in_catalog)
     output["requiresDomainReview"] = sum(
         x["domainReview"] == "REQUIRES_DOMAIN_REVIEW" for x in specs
     )
@@ -134,7 +150,7 @@ def build(root: Path = ROOT, *, pilot_only: bool = True) -> dict:
         "styleReferenceFilesVerified": len(refs),
         "semanticImageRecognition": "NOT_RUN",
         "imageGeneration": "NOT_RUN",
-        "imagesIntegrated": 0,
+        "imagesIntegrated": len(integrated_in_catalog),
         "copyright": "original imagery only; no existing anime stills or characters",
     }
     return output

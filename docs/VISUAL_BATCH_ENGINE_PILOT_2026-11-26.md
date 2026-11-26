@@ -47,3 +47,7 @@ Il core non importa lo schema Cooking Anime. I consumer futuri (World Days, Art 
 - `reference_profile` confronta *file reali*, dimensioni e digest, ma **non apprende da solo uno stile visivo**; il direttivo grafico è editoriale. Similarità stilistica/riconoscimento richiedono VisionPort.
 - Il core non genera immagini, non richiama modelli cloud e non fa reverse engineering di opere protette.
 - L'immagine candidata si può promuovere soltanto dopo riconoscimento reale, verifica manuale e protezione da versioni stale. Non ridurre i guardrail per automatizzare le 112.
+
+## Later batch status (2026-11-26)
+
+The separate artwork PR #78 adds real original JPEG assets for recipes 051–060. This v0.1 document originally reported zero generated/approved images **at the time of initial engine creation**; do not interpret those historical zeroes as current catalog inventory. The planning adapter now skips version-bound approved assets, and currently plans only the missing subset in 051–162. The core still performs no cloud generation or automated vision analysis.
