@@ -2528,7 +2528,7 @@
     },
     "recipe_000051": {
       "title": "Shio Ramen — salt-seasoned ramen with chashu and menma",
-      "description": "The Shio Ramen enhances a light chicken and dashi broth flavored with sake, salt and sesame oil. The tagliolini are boiled separately and placed in the hot broth with chashu, marinated egg, menma, onion and nori: the speed of the assembly preserves the consistency of the pasta.",
+      "description": "Shio ramen combines a light chicken-and-dashi broth seasoned with sake, salt and sesame oil. Cook the fresh ramen noodles separately, then place them in the hot broth with chashu pork, marinated egg, menma, finely chopped chives and nori. Assemble just before serving to keep the noodles firm.",
       "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Naruto. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "tagliolini_per_ramen_freschi": {
@@ -6278,7 +6278,7 @@
     },
     "recipe_000123": {
       "title": "Tori Zosui — chicken, rice and egg soup in dashi broth",
-      "description": "The Tori Zosui is a delicate soup of rice already cooked, chicken and egg in dashi broth. The rice is eventually rinsed to check the starch, while chicken and egg cook in the liquid before adding fresh onion. The egg is flushed over the rice and ends cooking with the heat of the covered soup.",
+      "description": "Tori zosui is a delicate soup made with cooked rice, chicken and egg in dashi broth. Briefly rinse very starchy rice before adding it. Cook the chicken in the broth, add the rice, then pour in lightly beaten egg in a thin stream. Cover off the heat so residual warmth finishes setting the egg; garnish with spring onion before serving.",
       "animeContext": "This recipe is thematically inspired by Barakamon, Gintama. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "riso_cotto_lavato": {
@@ -6307,13 +6307,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "If cooked rice is very starchy, rinse it quickly under cold water and drain it; this keeps the zosui lighter.",
-        "step_2": "Cut the chicken into thin strips and bring the dashi to light boil with soy sauce and mirin.",
-        "step_3": "Add the chicken and cook for about 4-5 minutes, removing any foam.",
-        "step_4": "Combine the rice and simmer another 4-5 minutes, stirring just enough to not break the beans.",
-        "step_5": "Beat the egg without making it completely homogeneous and flush it over the surface.",
-        "step_6": "Turn off the heat, cover for about 1 minute and let the egg finish cooking with the residual heat.",
-        "step_7": "Complete with spring onion and serve immediately, when the rice is soft but not yet fucked."
+        "step_1": "If the cooked rice is very starchy, rinse it briefly under cold water and drain it to keep the zosui light.",
+        "step_2": "Cut the chicken into thin strips and bring the dashi, soy sauce and mirin to a gentle simmer.",
+        "step_3": "Add the chicken and cook for about 4-5 minutes, or until cooked through, skimming off any foam.",
+        "step_4": "Add the rice and simmer for another 4-5 minutes, stirring gently so the grains do not break apart.",
+        "step_5": "Beat the egg lightly, leaving some streaks, and pour it over the surface in a thin stream.",
+        "step_6": "Turn off the heat, cover for about 1 minute and allow the egg to finish setting with the residual heat.",
+        "step_7": "Finish with spring onion and serve immediately, while the rice is soft but the grains have not fallen apart."
       }
     },
     "recipe_000124": {
@@ -8144,7 +8144,7 @@
     },
     "recipe_000162": {
       "title": "Yuzu Sorbet — refreshing Japanese citrus sorbet",
-      "description": "The yuzu sorbet is prepared from a syrup of water, sugar and juice of the citrus juice, left to cool before freezing. The recipe includes the use of pasteurized egg whites to lighten the consistency: do not replace it with raw unpasteurized egg whites. The recipe uses pasteurized egg white, incorporated as the sorbet begins to freeze; further stirring breaks up the ice crystals.",
+      "description": "Yuzu sorbet is made from a syrup of water and sugar mixed with yuzu citrus juice after cooling. Pasteurized egg white is folded in as the sorbet begins to freeze to give it a lighter texture; never substitute raw, unpasteurized egg white. Stir the freezing mixture periodically to break up ice crystals.",
       "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
@@ -8171,7 +8171,7 @@
       "stepTexts": {
         "step_1": "In a saucepan, heat the water with sugar and lemon peel until the sugar is completely dissolved.",
         "step_2": "Let the syrup cool at room temperature.",
-        "step_3": "Embed Yuzu's juice into cold syrup and mix thoroughly.",
+        "step_3": "Stir the yuzu juice into the cooled syrup and mix thoroughly.",
         "step_4": "Add the mixture in a low steel container and put in a freezer.",
         "step_5": "After 1 hour, when the sorbet begins to set around the edges, whip only pasteurized egg white to stiff peaks and fold it into the sorbet with a whisk. Do not use raw, unpasteurized egg white.",
         "step_6": "Put in the freezer for another 3 hours, mixing vigorously with a fork every 45 minutes to break the ice crystals.",

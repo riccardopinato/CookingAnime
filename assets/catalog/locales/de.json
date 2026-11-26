@@ -2528,7 +2528,7 @@
     },
     "recipe_000051": {
       "title": "Shio-Ramen — Salz-Ramen mit Chashu und Menma",
-      "description": "Der Shio Ramen zeichnet eine helle Brühe aus, die mit Sake, Salz und Sesamöl gewürzt ist. Die Nudeln werden getrennt gelesen und in der heißen Brühe mit Chashu, mariniertem Ei, Menma, Zwiebeln und Nori untergebracht: die Schnelligkeit der Montage bewahrt die Konsistenz der Pasta.",
+      "description": "Shio-Ramen besteht aus einer klaren Hühner-Dashi-Brühe, gewürzt mit Sake, Salz und Sesamöl. Die frischen Ramennudeln werden separat gegart und erst zum Servieren mit Chashu, mariniertem Ei, Menma, fein geschnittenem Schnittlauch und Nori in die heiße Brühe gegeben. So bleiben die Nudeln bissfest.",
       "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Naruto inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "tagliolini_per_ramen_freschi": {
@@ -6278,7 +6278,7 @@
     },
     "recipe_000123": {
       "title": "Tori Zosui – Reis-Hähnchen-Ei-Suppe in Dashibrühe",
-      "description": "Der Tori Zosui ist eine zarte Suppe aus bereits gekochtem Reis, Huhn und Ei in der Dashi-Brühe. Der Reis wird eventuell gespült, um Stärke zu kontrollieren, während Huhn und Ei in der Flüssigkeit kochen, bevor sie frische Zwiebeln hinzufügen. Das Ei wird mit Draht über den Reis ausgegossen und das Kochen mit der Restwärme der überdachten Suppe beendet.",
+      "description": "Tori Zosui ist eine milde Suppe aus bereits gegartem Reis, Hähnchen und Ei in Dashi-Brühe. Sehr stärkehaltigen Reis bei Bedarf kurz abspülen. Das Hähnchen in der Brühe garen, den Reis zugeben und leicht verquirltes Ei in einem dünnen Strahl darübergeben. Den Herd ausschalten und die Suppe abgedeckt ziehen lassen, damit das Ei durch die Restwärme stockt; mit Frühlingszwiebeln servieren.",
       "animeContext": "Dieses Rezept ist thematisch von Barakamon, Gintama inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "riso_cotto_lavato": {
@@ -6307,13 +6307,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Wenn der gekochte Reis sehr stärkehaft ist, spülen Sie ihn schnell unter kaltem Wasser aus und spülen ihn ab; dies hält den Zosui leichter.",
-        "step_2": "Das Hähnchen in feine Streifen schneiden. Das Dashi mit Sojasauce und Mirin leicht zum Köcheln bringen.",
-        "step_3": "Fügen Sie das Huhn hinzu und kochen Sie für etwa 4-5 Minuten, indem Sie eventuellen Schaum entfernen.",
-        "step_4": "Verbinden Sie den Reis und lassen Sie weitere 4-5 Minuten knacken, indem Sie nur so viel rühren, wie Sie brauchen, um die Körner nicht zu brechen.",
-        "step_5": "Werfen Sie das Ei, ohne es vollständig homogen zu machen, und gießen Sie es mit Draht auf die Oberfläche.",
-        "step_6": "Schalte das Feuer aus, bedecke etwa 1 Minute und lass mich das Kochen mit der Restwärme beenden.",
-        "step_7": "Komplett mit Frühlingszwiebeln und servieren Sie sofort, wenn der Reis weich, aber noch nicht lose ist."
+        "step_1": "Sehr stärkehaltigen gekochten Reis kurz mit kaltem Wasser abspülen und gut abtropfen lassen, damit die Suppe leichter bleibt.",
+        "step_2": "Das Hähnchen in feine Streifen schneiden und die Dashi-Brühe mit Sojasauce und Mirin leicht zum Köcheln bringen.",
+        "step_3": "Das Hähnchen zugeben und etwa 4–5 Minuten oder bis zum vollständigen Durchgaren kochen; entstehenden Schaum abschöpfen.",
+        "step_4": "Den Reis zugeben und weitere 4–5 Minuten sanft köcheln lassen. Vorsichtig rühren, damit die Reiskörner nicht zerfallen.",
+        "step_5": "Das Ei nur leicht verquirlen und in einem dünnen Strahl über die Oberfläche gießen.",
+        "step_6": "Die Hitze ausschalten, den Topf etwa 1 Minute abdecken und das Ei durch die Restwärme fertig stocken lassen.",
+        "step_7": "Mit Frühlingszwiebeln garnieren und sofort servieren, solange der Reis weich ist, die Körner aber noch Form haben."
       }
     },
     "recipe_000124": {

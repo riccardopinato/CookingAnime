@@ -2528,7 +2528,7 @@
     },
     "recipe_000051": {
       "title": "Shio ramen — ramen au sel, chashu et menma",
-      "description": "Le Shio Ramen valorise un bouillon clair de poulet et de dashi sans goût avec saké, sel et huile de sésame. Les nouilles sont lissées séparément et placées dans le bouillon chaud avec chashu, œuf mariné, menma, oignon et nori: la rapidité de l'assemblage conserve la consistance de la pâte.",
+      "description": "Le shio ramen associe un bouillon clair de poulet et de dashi assaisonné de saké, de sel et d’huile de sésame. Faites cuire les nouilles séparément, puis disposez-les dans le bouillon chaud avec le chashu, l’œuf mariné, le menma, la ciboulette ciselée et le nori. Assemblez au dernier moment pour préserver la texture des nouilles.",
       "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Naruto. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "tagliolini_per_ramen_freschi": {
@@ -6278,7 +6278,7 @@
     },
     "recipe_000123": {
       "title": "Tori zosui — soupe de riz au poulet et à l’œuf dans un bouillon dashi",
-      "description": "Le Tori Zosui est une soupe délicate de riz déjà cuit, poulet et œuf en bouillon dashi. Le riz est éventuellement rincé pour contrôler l'amidon, tandis que le poulet et l'œuf cuire dans le liquide avant d'ajouter l'oignon frais. L'œuf est versé au fil au-dessus du riz et termine la cuisson avec la chaleur résiduelle de la soupe couverte.",
+      "description": "Le tori zosui est une soupe délicate de riz déjà cuit, de poulet et d’œuf dans un bouillon dashi. Si le riz est très amidonné, rincez-le brièvement. Faites cuire le poulet dans le bouillon, ajoutez le riz, puis versez l’œuf légèrement battu en mince filet. Couvrez hors du feu pour terminer la cuisson à la chaleur résiduelle et servez avec de la cébette.",
       "animeContext": "Cette recette s'inspire librement de Barakamon, Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "riso_cotto_lavato": {
@@ -6307,13 +6307,13 @@
         }
       },
       "stepTexts": {
-        "step_1": "Si le riz cuit est très amylacé, rincez-le rapidement sous l'eau froide et écollez-le; cela maintient le zoosui plus léger.",
-        "step_2": "Émince le poulet en fines lanières et porte le dashi à léger frémissement avec la sauce soja et le mirin.",
-        "step_3": "Ajouter le poulet et cuire pendant environ 4-5 minutes, en enlevant la mousse éventuelle.",
-        "step_4": "Combinez le riz et faites bouillir encore 4-5 minutes, en mélangeant juste assez pour ne pas casser les grains.",
-        "step_5": "Cochez l'œuf sans le rendre complètement homogène et versez-le à la surface.",
-        "step_6": "Éteignez le feu, couvrez pendant environ 1 minute et laissez l'œuf terminer la cuisson avec la chaleur résiduelle.",
-        "step_7": "Complétez avec la cébette et servez-vous immédiatement, lorsque le riz est doux mais pas encore cassé."
+        "step_1": "Si le riz cuit est très amidonné, rincez-le brièvement à l’eau froide et égouttez-le; le zosui restera plus léger.",
+        "step_2": "Émincez le poulet en fines lanières et portez le dashi, la sauce soja et le mirin à léger frémissement.",
+        "step_3": "Ajoutez le poulet et laissez cuire environ 4 à 5 minutes, ou jusqu'à cuisson complète, en écumant si nécessaire.",
+        "step_4": "Incorporez le riz et laissez frémir encore 4 à 5 minutes en remuant doucement pour ne pas écraser les grains.",
+        "step_5": "Battez légèrement l’œuf sans le rendre complètement homogène, puis versez-le en mince filet à la surface.",
+        "step_6": "Éteignez le feu, couvrez environ 1 minute et laissez l’œuf finir de cuire grâce à la chaleur résiduelle.",
+        "step_7": "Parsemez de cébette et servez aussitôt, quand le riz est tendre mais encore distinct."
       }
     },
     "recipe_000124": {
