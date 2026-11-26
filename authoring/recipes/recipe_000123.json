@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000123",
-  "contentVersion": 8,
+  "contentVersion": 9,
   "status": "published",
   "inspirationTitle": "Barakamon",
   "animeReferences": [
@@ -102,11 +102,11 @@
       "animeContext": "This recipe is thematically inspired by Barakamon, Gintama. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "riso_cotto_lavato": {
-          "name": "Boiled rice",
+          "name": "cooked rice, rinsed if very starchy",
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "Stretch chicken breast",
+          "name": "chicken breast cut into thin strips",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
@@ -118,7 +118,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto": {
-          "name": "egg beaten",
+          "name": "lightly beaten egg",
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
@@ -138,7 +138,7 @@
     },
     "it": {
       "title": "Tori Zosui (Minestra di Riso, Pollo e Uovo in Brodo Dashi)",
-      "description": "Il tori zosui è una minestra delicata di riso già cotto, pollo e uovo in brodo dashi. Se il riso è molto amidaceo, sciacqualo brevemente prima di aggiungerlo. Fai cuocere il pollo nel brodo, poi unisci il riso e versa l'uovo leggermente sbattuto a filo. Copri a fuoco spento per terminare la cottura dell'uovo con il calore residuo e servi con erba cipollina o cipollotto, secondo gli ingredienti previsti.",
+      "description": "Il tori zosui è una minestra delicata di riso già cotto, pollo e uovo in brodo dashi. Se il riso è molto amidaceo, sciacqualo brevemente prima di aggiungerlo. Fai cuocere il pollo nel brodo, poi unisci il riso e versa l'uovo leggermente sbattuto a filo. Copri a fuoco spento per terminare la cottura dell'uovo con il calore residuo e servi con cipollotto fresco.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Barakamon, Gintama. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "riso_cotto_lavato": {
@@ -186,11 +186,11 @@
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "pechuga de pollo de rayas",
+          "name": "pechuga de pollo cortada en tiras finas",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
-          "name": "caldo dashi saporito con salsa de soja",
+          "name": "caldo dashi condimentado con salsa de soja",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_2_mirin": {
@@ -222,15 +222,15 @@
       "animeContext": "Cette recette s'inspire librement de Barakamon, Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "riso_cotto_lavato": {
-          "name": "riz cuit lavé",
+          "name": "riz cuit, rincé si nécessaire",
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "poitrine de poulet à frottis",
+          "name": "blanc de poulet émincé en fines lanières",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
-          "name": "bouillon dashi savoureux avec de la sauce soja",
+          "name": "bouillon dashi assaisonné de sauce soja",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_2_mirin": {
@@ -238,7 +238,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto": {
-          "name": "Oeuf claqué",
+          "name": "œuf battu",
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
@@ -262,15 +262,15 @@
       "animeContext": "Dieses Rezept ist thematisch von Barakamon, Gintama inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "riso_cotto_lavato": {
-          "name": "Gekochter Reis, gewaschen",
+          "name": "gekochter Reis, bei Bedarf abgespült",
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "Hähnchenbrust mit Streifen",
+          "name": "Hähnchenbrust in feinen Streifen",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
-          "name": "Dashi Brühe gewürzt mit Sojasoße",
+          "name": "Dashi-Brühe mit Sojasauce",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_2_mirin": {
@@ -278,7 +278,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto": {
-          "name": "Eier, die geschlagen wurden",
+          "name": "leicht verquirltes Ei",
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
@@ -298,7 +298,7 @@
     },
     "pt": {
       "title": "Tori zosui — sopa de arroz, frango e ovo em caldo dashi",
-      "description": "O tori zosui é uma sopa delicada de arroz já cozido, frango e ovo em caldo dashi. Se o arroz tiver muito amido, passe-o brevemente por água fria antes de o adicionar. Cozinhe o frango no caldo, junte o arroz e verta o ovo ligeiramente batido em fio. Tape fora do lume para que o calor residual termine de cozinhar o ovo e sirva com cebolinho.",
+      "description": "O tori zosui é uma sopa delicada de arroz já cozido, frango e ovo em caldo dashi. Se o arroz tiver muito amido, passe-o brevemente por água fria antes de o adicionar. Cozinhe o frango no caldo, junte o arroz e verta o ovo ligeiramente batido em fio. Tape fora do lume para que o calor residual termine de cozinhar o ovo e sirva com cebola de rama.",
       "animeContext": "Esta receita inspira-se tematicamente em Barakamon, Gintama. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "riso_cotto_lavato": {
@@ -306,7 +306,7 @@
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "Peito de galinha estirada",
+          "name": "peito de frango cortado em tiras finas",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
@@ -333,7 +333,7 @@
         "step_4": "Adicione o arroz e deixe cozinhar suavemente mais 4–5 minutos, mexendo com cuidado para não desfazer os grãos.",
         "step_5": "Bata o ovo ligeiramente, sem o homogeneizar por completo, e verta-o em fio sobre a superfície.",
         "step_6": "Desligue o lume, tape durante cerca de 1 minuto e deixe o ovo terminar de cozinhar com o calor residual.",
-        "step_7": "Finalize com cebolinho e sirva de imediato, quando o arroz estiver macio, mas os grãos ainda mantiverem a forma."
+        "step_7": "Finalize com cebola de rama e sirva de imediato, quando o arroz estiver macio, mas os grãos ainda mantiverem a forma."
       }
     }
   }

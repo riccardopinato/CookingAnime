@@ -6278,7 +6278,7 @@
     },
     "recipe_000123": {
       "title": "Tori zosui — sopa de arroz, frango e ovo em caldo dashi",
-      "description": "O tori zosui é uma sopa delicada de arroz já cozido, frango e ovo em caldo dashi. Se o arroz tiver muito amido, passe-o brevemente por água fria antes de o adicionar. Cozinhe o frango no caldo, junte o arroz e verta o ovo ligeiramente batido em fio. Tape fora do lume para que o calor residual termine de cozinhar o ovo e sirva com cebolinho.",
+      "description": "O tori zosui é uma sopa delicada de arroz já cozido, frango e ovo em caldo dashi. Se o arroz tiver muito amido, passe-o brevemente por água fria antes de o adicionar. Cozinhe o frango no caldo, junte o arroz e verta o ovo ligeiramente batido em fio. Tape fora do lume para que o calor residual termine de cozinhar o ovo e sirva com cebola de rama.",
       "animeContext": "Esta receita inspira-se tematicamente em Barakamon, Gintama. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredientTexts": {
         "riso_cotto_lavato": {
@@ -6286,7 +6286,7 @@
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "Peito de galinha estirada",
+          "name": "peito de frango cortado em tiras finas",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
@@ -6313,7 +6313,7 @@
         "step_4": "Adicione o arroz e deixe cozinhar suavemente mais 4–5 minutos, mexendo com cuidado para não desfazer os grãos.",
         "step_5": "Bata o ovo ligeiramente, sem o homogeneizar por completo, e verta-o em fio sobre a superfície.",
         "step_6": "Desligue o lume, tape durante cerca de 1 minuto e deixe o ovo terminar de cozinhar com o calor residual.",
-        "step_7": "Finalize com cebolinho e sirva de imediato, quando o arroz estiver macio, mas os grãos ainda mantiverem a forma."
+        "step_7": "Finalize com cebola de rama e sirva de imediato, quando o arroz estiver macio, mas os grãos ainda mantiverem a forma."
       }
     },
     "recipe_000124": {

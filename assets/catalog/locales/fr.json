@@ -6282,15 +6282,15 @@
       "animeContext": "Cette recette s'inspire librement de Barakamon, Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredientTexts": {
         "riso_cotto_lavato": {
-          "name": "riz cuit lavé",
+          "name": "riz cuit, rincé si nécessaire",
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "poitrine de poulet à frottis",
+          "name": "blanc de poulet émincé en fines lanières",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
-          "name": "bouillon dashi savoureux avec de la sauce soja",
+          "name": "bouillon dashi assaisonné de sauce soja",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_2_mirin": {
@@ -6298,7 +6298,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto": {
-          "name": "Oeuf claqué",
+          "name": "œuf battu",
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {

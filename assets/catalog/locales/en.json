@@ -6282,11 +6282,11 @@
       "animeContext": "This recipe is thematically inspired by Barakamon, Gintama. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredientTexts": {
         "riso_cotto_lavato": {
-          "name": "Boiled rice",
+          "name": "cooked rice, rinsed if very starchy",
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "Stretch chicken breast",
+          "name": "chicken breast cut into thin strips",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
@@ -6298,7 +6298,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto": {
-          "name": "egg beaten",
+          "name": "lightly beaten egg",
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {

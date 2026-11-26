@@ -6282,15 +6282,15 @@
       "animeContext": "Dieses Rezept ist thematisch von Barakamon, Gintama inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredientTexts": {
         "riso_cotto_lavato": {
-          "name": "Gekochter Reis, gewaschen",
+          "name": "gekochter Reis, bei Bedarf abgespült",
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "Hähnchenbrust mit Streifen",
+          "name": "Hähnchenbrust in feinen Streifen",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
-          "name": "Dashi Brühe gewürzt mit Sojasoße",
+          "name": "Dashi-Brühe mit Sojasauce",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_2_mirin": {
@@ -6298,7 +6298,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto": {
-          "name": "Eier, die geschlagen wurden",
+          "name": "leicht verquirltes Ei",
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
