@@ -607,6 +607,126 @@
         "reviewedAt": "2026-10-25",
         "note": "F3G original food-only artwork reviewed against Gintama recipe identity; the finished dish remains the sole subject, with no characters, logos or franchise text. F3H visual hardening: regenerated food-only artwork manually reviewed against the final dish identity and current recipe content."
       }
+    },
+    {
+      "id": "recipe_000051_artwork",
+      "path": "assets/recipe_artwork/recipe_000051.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000051",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Clear chicken-dashi shio ramen, noodles, chashu, marinated egg, menma, chopped chives and nori; no opaque tonkotsu broth. Original AI-generated artwork (ChatGPT ImageGen); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
+    },
+    {
+      "id": "recipe_000052_artwork",
+      "path": "assets/recipe_artwork/recipe_000052.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000052",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Oval fried panko curry buns; cross-section shows dense Japanese curry, potato and carrot filling. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
+    },
+    {
+      "id": "recipe_000053_artwork",
+      "path": "assets/recipe_artwork/recipe_000053.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000053",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Ebi tendon: shrimp and vegetable tempura on steamed rice; shrimp count illustrative; full recipe specifies six. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
+    },
+    {
+      "id": "recipe_000054_artwork",
+      "path": "assets/recipe_artwork/recipe_000054.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000054",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Two oval Japanese hambagu minced-meat patties under thick glossy sauce, with rice and a simple vegetable garnish. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
+    },
+    {
+      "id": "recipe_000055_artwork",
+      "path": "assets/recipe_artwork/recipe_000055.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000055",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Miso nikomi udon: clay donabe, thick white udon, dark-red miso broth, cooked chicken, scored shiitake, tofu, egg and spring onion. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
+    },
+    {
+      "id": "recipe_000056_artwork",
+      "path": "assets/recipe_artwork/recipe_000056.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000056",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Chirashizushi: sushi rice with salmon, tuna, cooked shrimp, cucumber, thin omelette strips, ikura and nori; not sushi rolls. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
+    },
+    {
+      "id": "recipe_000057_artwork",
+      "path": "assets/recipe_artwork/recipe_000057.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000057",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Small grilled dango skewers coated in a nearly black glossy sesame glaze, no chocolate candy. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
+    },
+    {
+      "id": "recipe_000058_artwork",
+      "path": "assets/recipe_artwork/recipe_000058.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000058",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Hanami dango single-skewer close-up: green ball near bamboo handle, white center and pink at tip; sample serving, not total four-skewer yield. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
+    },
+    {
+      "id": "recipe_000059_artwork",
+      "path": "assets/recipe_artwork/recipe_000059.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000059",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Sake-steamed opened clam shells with clear buttery broth, ginger, garlic and chive garnish. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
+    },
+    {
+      "id": "recipe_000060_artwork",
+      "path": "assets/recipe_artwork/recipe_000060.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000060",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Tall golden rectangular castella honey sponge loaf sliced to show fine yellow crumb; no icing or frosting. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
+      }
     }
   ]
 }

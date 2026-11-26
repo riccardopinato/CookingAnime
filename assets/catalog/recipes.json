@@ -4672,7 +4672,7 @@
       "cookMinutes": 30,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000051.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
@@ -4796,7 +4796,7 @@
       "cookMinutes": 35,
       "servings": 6,
       "difficulty": "hard",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000052.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -4931,7 +4931,7 @@
       "cookMinutes": 25,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000053.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5060,7 +5060,7 @@
       "cookMinutes": 25,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000054.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5205,7 +5205,7 @@
       "cookMinutes": 20,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000055.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5320,7 +5320,7 @@
       "cookMinutes": 20,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000056.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5436,7 +5436,7 @@
       "cookMinutes": 15,
       "servings": 4,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000057.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
@@ -5554,7 +5554,7 @@
       "cookMinutes": 15,
       "servings": 4,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000058.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5661,7 +5661,7 @@
       "cookMinutes": 10,
       "servings": 2,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000059.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5765,7 +5765,7 @@
       "cookMinutes": 35,
       "servings": 6,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000060.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
