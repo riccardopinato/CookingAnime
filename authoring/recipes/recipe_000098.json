@@ -32,7 +32,7 @@
   "difficulty": "easy",
   "contentOrigin": "adapted",
   "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 9; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
-  "imageAssetId": null,
+  "imageAssetId": "recipe_000098_artwork",
   "ingredients": [
     {
       "id": "sovracosce_di_pollo_disossate_con_la_pelle",
