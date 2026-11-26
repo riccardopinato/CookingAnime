@@ -967,6 +967,126 @@
         "reviewedAt": "2026-11-26",
         "note": "Original hand-drawn 2D anime-style Japanese food illustration, generated from exact Italian recipe and inspected visually by assistant against dish, ingredients and visual direction. Sanma no Shioyaki. No franchise copyrighted frames or characters. Automatic technical checks, assistant visual QA; user aesthetic acceptance not claimed."
       }
+    },
+    {
+      "id": "recipe_000081_artwork",
+      "path": "assets/recipe_artwork/recipe_000081.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000081",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Tamago Sando (Sandwich Soffice all'Uovo Giapponese). Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
+    },
+    {
+      "id": "recipe_000082_artwork",
+      "path": "assets/recipe_artwork/recipe_000082.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000082",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Mizutaki Nabe (Stufato di Pollo e Verdure di Hakata). Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
+    },
+    {
+      "id": "recipe_000083_artwork",
+      "path": "assets/recipe_artwork/recipe_000083.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000083",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Tsukemen (Ramen con Brodo Concentrato da Intingolo). Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
+    },
+    {
+      "id": "recipe_000084_artwork",
+      "path": "assets/recipe_artwork/recipe_000084.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000084",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Chicken Namban (Pollo Fritto con Salsa Tartara Giapponese). Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
+    },
+    {
+      "id": "recipe_000085_artwork",
+      "path": "assets/recipe_artwork/recipe_000085.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000085",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Warabi Mochi (Mochi Trasparente con Kinako e Kuromitsu). Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
+    },
+    {
+      "id": "recipe_000086_artwork",
+      "path": "assets/recipe_artwork/recipe_000086.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000086",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Soufflé Pancake Giapponesi (Pancake Altissimi e Soffici). Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
+    },
+    {
+      "id": "recipe_000087_artwork",
+      "path": "assets/recipe_artwork/recipe_000087.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000087",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Mont Blanc Chestnut Cake (Torta Mont Blanc alle Castagne). Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
+    },
+    {
+      "id": "recipe_000088_artwork",
+      "path": "assets/recipe_artwork/recipe_000088.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000088",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Fruit Sando (Sandwich alla Frutta Fresca e Panna). Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
+    },
+    {
+      "id": "recipe_000089_artwork",
+      "path": "assets/recipe_artwork/recipe_000089.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000089",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Botamochi / Ohagi (Mochi di Riso Glutinoso con Anko). Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
+    },
+    {
+      "id": "recipe_000090_artwork",
+      "path": "assets/recipe_artwork/recipe_000090.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000090",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked original Japanese anime-style 2D artwork for Shoyu Ramen Classic. Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
+      }
     }
   ]
 }
