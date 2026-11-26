@@ -1,0 +1,2489 @@
+{
+  "report": "COOKING_ANIME_RUNTIME_162_6_SOURCE_BOUND_SNAPSHOT",
+  "sourceMainSha": "8ea641ecb0ecf3083b9366989d85c9bbc6fee9a3",
+  "mode": "OFFLINE_RUNTIME_STRUCTURE_AND_LEXICAL_TRIAGE",
+  "inputBlobShas": {
+    "assets/catalog/recipes.json": "25d8269dafcc66a0ebfa3478c28574014eeb816f",
+    "assets/catalog/locales/it.json": "aec96e404f368bcabc5e7b798674bf35b85dfd9e",
+    "assets/catalog/locales/en.json": "e19b2df24ca6fca1f057dd35c27c5b635e54ca9a",
+    "assets/catalog/locales/es.json": "ba962fbd049414cfb01ef490d625dacb1d3676c8",
+    "assets/catalog/locales/fr.json": "26ea2ab0cda4a9a9a16867856eb11f17c8d9aec7",
+    "assets/catalog/locales/de.json": "00da9cb10aad7000ba7a4548d41ff6325f09edd9",
+    "assets/catalog/locales/pt.json": "6d5373029cc87dc1be4bdedc92cbe846b6c315c1"
+  },
+  "canonicalIds": 162,
+  "localeCounts": {
+    "it": 162,
+    "en": 162,
+    "es": 162,
+    "fr": 162,
+    "de": 162,
+    "pt": 162
+  },
+  "expectedLocaleRecords": 972,
+  "expectedTranslationPairs": 810,
+  "structuralHolds": 0,
+  "lexicalReviewIds": 3,
+  "ruleCounts": {
+    "es:LEXICAL_REVIEW": 3,
+    "en:LEXICAL_REVIEW": 1
+  },
+  "editorialCertified": false,
+  "aiSemanticPairsActuallyReviewed": 0,
+  "meaning": "Complete runtime-key inspection and narrow lexical witness scan; NOT end-to-end contextual linguistic or culinary verification",
+  "rows": [
+    {
+      "id": "recipe_000001",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000002",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000003",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000004",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000005",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000006",
+      "contentVersion": 4,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000007",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000008",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000009",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000010",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000011",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000012",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000013",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000014",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000015",
+      "contentVersion": 4,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000016",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000017",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000018",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000019",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000020",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000021",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000022",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000023",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000024",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000025",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000026",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000027",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000028",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000029",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000030",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000031",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000032",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000033",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000034",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000035",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000036",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000037",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000038",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000039",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000040",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000041",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000042",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000043",
+      "contentVersion": 2,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000044",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000045",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000046",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000047",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000048",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000049",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000050",
+      "contentVersion": 1,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000051",
+      "contentVersion": 3,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": [
+        {
+          "l": "es",
+          "code": "LEXICAL_REVIEW",
+          "witness": "se lesan"
+        },
+        {
+          "l": "es",
+          "code": "LEXICAL_REVIEW",
+          "witness": "saporito"
+        }
+      ]
+    },
+    {
+      "id": "recipe_000052",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000053",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000054",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000055",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000056",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000057",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000058",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000059",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000060",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000061",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000062",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000063",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000064",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000065",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000066",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000067",
+      "contentVersion": 4,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000068",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000069",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000070",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000071",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000072",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000073",
+      "contentVersion": 4,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000074",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000075",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000076",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000077",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000078",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000079",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000080",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000081",
+      "contentVersion": 4,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000082",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000083",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000084",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000085",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000086",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000087",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000088",
+      "contentVersion": 4,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000089",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000090",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000091",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000092",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000093",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000094",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000095",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000096",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000097",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000098",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000099",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000100",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000101",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000102",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000103",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000104",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000105",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000106",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000107",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000108",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000109",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000110",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000111",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000112",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000113",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000114",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000115",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000116",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000117",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000118",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000119",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000120",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000121",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000122",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000123",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": [
+        {
+          "l": "es",
+          "code": "LEXICAL_REVIEW",
+          "witness": "saporito"
+        }
+      ]
+    },
+    {
+      "id": "recipe_000124",
+      "contentVersion": 4,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000125",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000126",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000127",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000128",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000129",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000130",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000131",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000132",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000133",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000134",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000135",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000136",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000137",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000138",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000139",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000140",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000141",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000142",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000143",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000144",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000145",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000146",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000147",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000148",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000149",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000150",
+      "contentVersion": 7,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000151",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000152",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000153",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000154",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000155",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000156",
+      "contentVersion": 8,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000157",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000158",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000159",
+      "contentVersion": 5,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000160",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000161",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": []
+    },
+    {
+      "id": "recipe_000162",
+      "contentVersion": 6,
+      "localesPresent": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+      ],
+      "status": "CONTEXTUAL_SEMANTIC_REVIEW",
+      "errors": [],
+      "reviewSignals": [
+        {
+          "l": "en",
+          "code": "LEXICAL_REVIEW",
+          "witness": "embed yuzu's juice"
+        }
+      ]
+    }
+  ]
+}

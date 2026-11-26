@@ -4649,7 +4649,7 @@
     },
     {
       "id": "recipe_000051",
-      "contentVersion": 3,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -12525,7 +12525,7 @@
     },
     {
       "id": "recipe_000123",
-      "contentVersion": 7,
+      "contentVersion": 9,
       "status": "published",
       "inspirationTitle": "Barakamon",
       "animeReferences": [
@@ -16539,7 +16539,7 @@
     },
     {
       "id": "recipe_000162",
-      "contentVersion": 6,
+      "contentVersion": 7,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [
