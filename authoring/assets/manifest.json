@@ -727,6 +727,126 @@
         "reviewedAt": "2026-11-26",
         "note": "Editorial AI visual review on 2026-11-26 against canonical Italian recipe: Tall golden rectangular castella honey sponge loaf sliced to show fine yellow crumb; no icing or frosting. Original AI-generated artwork (Adobe Firefly); matched to the existing 1-50 semi-realistic anime food still direction using sampled refs; no anime screenshot, character or logo. Image remains open to user aesthetic acceptance."
       }
+    },
+    {
+      "id": "recipe_000061_artwork",
+      "path": "assets/recipe_artwork/recipe_000061.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000061",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Ramen miso con noodles ricci, carne di maiale macinata, mais, germogli, uovo marinato, burro e nori; non riso al curry. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
+    },
+    {
+      "id": "recipe_000062_artwork",
+      "path": "assets/recipe_artwork/recipe_000062.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000062",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Donabe con brodo scuro al sesamo nero, fettine di maiale, cavolo cinese, tofu, funghi enoki e shiitake. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
+    },
+    {
+      "id": "recipe_000063_artwork",
+      "path": "assets/recipe_artwork/recipe_000063.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000063",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Omelette soffice con granchio o surimi, salsa ankake color ambra e riso; non omurice al ketchup. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
+    },
+    {
+      "id": "recipe_000064_artwork",
+      "path": "assets/recipe_artwork/recipe_000064.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000064",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Cotolette ovali panko con carne macinata chiaramente cotta al centro, cavolo tagliato fine e salsa tonkatsu. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
+    },
+    {
+      "id": "recipe_000065_artwork",
+      "path": "assets/recipe_artwork/recipe_000065.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000065",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Fettine di lonza di maiale in glassa zenzero-soia con cavolo sottile e riso in ciotola separata. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
+    },
+    {
+      "id": "recipe_000066_artwork",
+      "path": "assets/recipe_artwork/recipe_000066.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000066",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Bastoncini di melanzane viola protagonisti con sugo miso-soia, maiale macinato e cipollotto. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
+    },
+    {
+      "id": "recipe_000067_artwork",
+      "path": "assets/recipe_artwork/recipe_000067.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000067",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Pastella sottile di monjayaki con cavolo e piccoli ingredienti su teppan e spatole hagashi, non takoyaki. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
+    },
+    {
+      "id": "recipe_000068_artwork",
+      "path": "assets/recipe_artwork/recipe_000068.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000068",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Dorayaki dorati con crema custard chiara alla vaniglia in sezione, senza ripieno anko. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
+    },
+    {
+      "id": "recipe_000069_artwork",
+      "path": "assets/recipe_artwork/recipe_000069.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000069",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Cheesecake cotta allo yuzu con base biscotto e fetta visibile, piccolo zest e agrume decorativo. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
+    },
+    {
+      "id": "recipe_000070_artwork",
+      "path": "assets/recipe_artwork/recipe_000070.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000070",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Mochi rosa con chicchi di riso, ripieno anko in sezione e foglia di ciliegio salata. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
+      }
     }
   ]
 }

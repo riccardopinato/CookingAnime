@@ -25,7 +25,7 @@ The product should feel warm, illustrated and playful without presenting itself 
 
 F0 foundation, F1 runtime catalog contract, F2 authoring/import pipeline and F3A content ingestion are complete.
 
-The production catalog contains 162 published recipes. Recipes 1–60 have original approved artwork (51–60 added in the 26 November 2026 batch); recipes 61–162 use the deterministic procedural fallback until their original food artwork is reviewed and approved in batches. F3K is hardening recipes 51–162 with an Italian-first source-of-truth rule: the complete Italian editorial baseline must reach 112/112 PASS before EN/ES/FR/DE/PT are regenerated. Existing translated runtime content remains installed until that refresh is completed; it is not treated as the new editorial source.
+The production catalog contains 162 published recipes. Recipes 1–70 have original approved artwork (51–60 and 61–70 added in the 26 November 2026 batches); recipes 71–162 use the deterministic procedural fallback until original food artwork is reviewed and approved in batches. F3K is hardening recipes 51–162 with an Italian-first source-of-truth rule: the complete Italian editorial baseline must reach 112/112 PASS before EN/ES/FR/DE/PT are regenerated. Existing translated runtime content remains installed until that refresh is completed; it is not treated as the new editorial source.
 
 ## UX direction
 

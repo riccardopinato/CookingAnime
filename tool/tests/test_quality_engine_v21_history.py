@@ -45,6 +45,26 @@ def evaluate(source, old=None, run="1"):
 
 
 class QualityV21HistoryTests(unittest.TestCase):
+
+    def test_verified_repository_rename_preserves_history_without_false_resolution(self):
+        old_name = "riccardopinato/In-Cucina-con-gli-Anime"
+        new_name = "riccardopinato/CookingAnime"
+        _, baseline = compare(report(f("x")), CONFIG, None,
+                              repository=old_name, run_id="1", event="push")
+        delta, state = compare(report(f("x"), sha="b"*40), CONFIG, baseline,
+                               repository=new_name, run_id="2", event="pull_request")
+        self.assertEqual(delta["counts"]["PERSISTING"], 1)
+        self.assertEqual(delta["counts"]["NEW"], 0)
+        self.assertEqual(delta["counts"]["RESOLVED"], 0)
+        self.assertEqual(delta["baselineStatus"], "AVAILABLE")
+        self.assertEqual(state["repository"], new_name)
+        self.assertEqual(state["records"]["x"]["observations"], 2)
+        unrelated = copy.deepcopy(baseline)
+        unrelated["repository"] = "stranger/other"
+        with self.assertRaisesRegex(ValueError, "Baseline provenance"):
+            compare(report(f("x")), CONFIG, unrelated,
+                    repository=new_name, run_id="3", event="push")
+
     def test_unbaselined_is_not_falsely_new(self):
         delta, state = evaluate(report(f("aa")))
         self.assertEqual(delta["baselineStatus"], "ABSENT")
