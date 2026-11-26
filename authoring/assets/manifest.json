@@ -1087,6 +1087,126 @@
         "reviewedAt": "2026-11-26",
         "note": "Source-locked original Japanese anime-style 2D artwork for Shoyu Ramen Classic. Assistant visually checked actual generated image, recognizable dish and cel-painting direction. #087 Mont Blanc initial two candidates rejected for inaccurate chestnut-cream strands; third refined version selected. No copyrighted anime stills or character likenesses. Style acceptance by user not asserted."
       }
+    },
+    {
+      "id": "recipe_000091_artwork",
+      "path": "assets/recipe_artwork/recipe_000091.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000091",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Takikomi Gohan. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
+    },
+    {
+      "id": "recipe_000092_artwork",
+      "path": "assets/recipe_artwork/recipe_000092.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000092",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Moyashi Itame. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
+    },
+    {
+      "id": "recipe_000093_artwork",
+      "path": "assets/recipe_artwork/recipe_000093.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000093",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Katsu Donburi al Formaggio. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
+    },
+    {
+      "id": "recipe_000094_artwork",
+      "path": "assets/recipe_artwork/recipe_000094.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000094",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Ishikari Nabe. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
+    },
+    {
+      "id": "recipe_000095_artwork",
+      "path": "assets/recipe_artwork/recipe_000095.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000095",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Yuzu Shio Ramen. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
+    },
+    {
+      "id": "recipe_000096_artwork",
+      "path": "assets/recipe_artwork/recipe_000096.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000096",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Asari Clam Chowder. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
+    },
+    {
+      "id": "recipe_000097_artwork",
+      "path": "assets/recipe_artwork/recipe_000097.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000097",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Kakiage Tempura. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
+    },
+    {
+      "id": "recipe_000098_artwork",
+      "path": "assets/recipe_artwork/recipe_000098.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000098",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Chicken Teriyaki Don. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
+    },
+    {
+      "id": "recipe_000099_artwork",
+      "path": "assets/recipe_artwork/recipe_000099.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000099",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Anko Dango con Kinako. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
+    },
+    {
+      "id": "recipe_000100_artwork",
+      "path": "assets/recipe_artwork/recipe_000100.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000100",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Source-locked anime-style 2D original food illustration: Japanese Curry Udon Classico. Assistant visually reviewed rendered dish and style; no copyrighted anime scene, logo or character. User visual acceptance is not claimed."
+      }
     }
   ]
 }
