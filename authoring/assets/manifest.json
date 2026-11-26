@@ -847,6 +847,126 @@
         "reviewedAt": "2026-11-26",
         "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Mochi rosa con chicchi di riso, ripieno anko in sezione e foglia di ciliegio salata. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
       }
+    },
+    {
+      "id": "recipe_000071_artwork",
+      "path": "assets/recipe_artwork/recipe_000071.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000071",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; spicy minced pork and bok choy in creamy red sesame ramen; 2D drawn, no unrelated fish. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000072_artwork",
+      "path": "assets/recipe_artwork/recipe_000072.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000072",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; sauce-fried noodles, pork, cabbage, red pickled ginger and nori; no soup. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000073_artwork",
+      "path": "assets/recipe_artwork/recipe_000073.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000073",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; brown-glazed cube pork belly and a half egg; not ramen. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000074_artwork",
+      "path": "assets/recipe_artwork/recipe_000074.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000074",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; clear dashi oden hotpot, daikon discs, egg, konnyaku, fish cakes and kinchaku. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000075_artwork",
+      "path": "assets/recipe_artwork/recipe_000075.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000075",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; thick white udon, Japanese curry and crispy tonkatsu cutlet. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000076_artwork",
+      "path": "assets/recipe_artwork/recipe_000076.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000076",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; lightly fried tofu cubes with grated daikon, scallion and surrounding dashi. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000077_artwork",
+      "path": "assets/recipe_artwork/recipe_000077.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000077",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; glazed grilled eel fillets over rice; no sashimi. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000078_artwork",
+      "path": "assets/recipe_artwork/recipe_000078.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000078",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; pink-orange cooked shrimp in red ginger chili sauce with separate rice. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000079_artwork",
+      "path": "assets/recipe_artwork/recipe_000079.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000079",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; crab-cream croquettes in panko, one cut open. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000080_artwork",
+      "path": "assets/recipe_artwork/recipe_000080.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000080",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; whole grilled Pacific saury with daikon and citrus. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
     }
   ]
 }
