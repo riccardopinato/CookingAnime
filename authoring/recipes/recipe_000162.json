@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000162",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Food Wars!",
   "animeReferences": [
@@ -93,7 +93,7 @@
   "locales": {
     "en": {
       "title": "Yuzu Sorbet — refreshing Japanese citrus sorbet",
-      "description": "The yuzu sorbet is prepared from a syrup of water, sugar and juice of the citrus juice, left to cool before freezing. The recipe includes the use of pasteurized egg whites to lighten the consistency: do not replace it with raw unpasteurized egg whites. The recipe uses pasteurized egg white, incorporated as the sorbet begins to freeze; further stirring breaks up the ice crystals.",
+      "description": "Yuzu sorbet is made from a syrup of water and sugar mixed with yuzu citrus juice after cooling. Pasteurized egg white is folded in as the sorbet begins to freeze to give it a lighter texture; never substitute raw, unpasteurized egg white. Stir the freezing mixture periodically to break up ice crystals.",
       "animeContext": "This recipe is thematically inspired by Food Wars!, Kaguya-sama: Love is War. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "succo_di_yuzu_fresco_o_100_puro_imbottigliato": {
@@ -120,7 +120,7 @@
       "steps": {
         "step_1": "In a saucepan, heat the water with sugar and lemon peel until the sugar is completely dissolved.",
         "step_2": "Let the syrup cool at room temperature.",
-        "step_3": "Embed Yuzu's juice into cold syrup and mix thoroughly.",
+        "step_3": "Stir the yuzu juice into the cooled syrup and mix thoroughly.",
         "step_4": "Add the mixture in a low steel container and put in a freezer.",
         "step_5": "After 1 hour, when the sorbet begins to set around the edges, whip only pasteurized egg white to stiff peaks and fold it into the sorbet with a whisk. Do not use raw, unpasteurized egg white.",
         "step_6": "Put in the freezer for another 3 hours, mixing vigorously with a fork every 45 minutes to break the ice crystals.",

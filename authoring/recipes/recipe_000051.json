@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000051",
-  "contentVersion": 3,
+  "contentVersion": 4,
   "status": "published",
   "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
   "animeReferences": [
@@ -32,7 +32,7 @@
   "difficulty": "medium",
   "contentOrigin": "adapted",
   "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
-  "imageAssetId": null,
+  "imageAssetId": "recipe_000051_artwork",
   "ingredients": [
     {
       "id": "tagliolini_per_ramen_freschi",
@@ -131,7 +131,7 @@
   "locales": {
     "en": {
       "title": "Shio Ramen — salt-seasoned ramen with chashu and menma",
-      "description": "The Shio Ramen enhances a light chicken and dashi broth flavored with sake, salt and sesame oil. The tagliolini are boiled separately and placed in the hot broth with chashu, marinated egg, menma, onion and nori: the speed of the assembly preserves the consistency of the pasta.",
+      "description": "Shio ramen combines a light chicken-and-dashi broth seasoned with sake, salt and sesame oil. Cook the fresh ramen noodles separately, then place them in the hot broth with chashu pork, marinated egg, menma, finely chopped chives and nori. Assemble just before serving to keep the noodles firm.",
       "animeContext": "This recipe is thematically inspired by Emiya-san Chi no Kyou no Gohan, Naruto. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "tagliolini_per_ramen_freschi": {
@@ -193,7 +193,7 @@
     },
     "it": {
       "title": "Shio Ramen (Ramen al Sale con Chashu e Menma)",
-      "description": "Lo Shio Ramen valorizza un brodo chiaro di pollo e dashi insaporito con sake, sale e olio di sesamo. I tagliolini vengono lessati separatamente e sistemati nel brodo caldo con chashu, uovo marinato, menma, cipollotto e nori: la rapidità dell’assemblaggio conserva la consistenza della pasta.",
+      "description": "Lo shio ramen valorizza un brodo chiaro di pollo e dashi insaporito con sake, sale e olio di sesamo. I noodles freschi vengono lessati separatamente e sistemati nel brodo caldo con chashu, uovo marinato, menma, erba cipollina fresca tritata e nori. L'assemblaggio all'ultimo momento mantiene i noodles ben consistenti.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Emiya-san Chi no Kyou no Gohan, Naruto. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "tagliolini_per_ramen_freschi": {
@@ -255,7 +255,7 @@
     },
     "es": {
       "title": "Shio ramen — ramen a la sal con chashu y menma",
-      "description": "El Shio Ramen valora un caldo claro de pollo y dashi saporito con sake, sal y aceite de sésamo. Los fideos se lesan por separado y se colocan en el caldo caliente con chashu, huevo marinado, menma, cebolla y nori: la rapidez del montaje conserva la consistencia de la pasta.",
+      "description": "El shio ramen combina un caldo claro de pollo y dashi condimentado con sake, sal y aceite de sésamo. Cuece los fideos frescos por separado y pásalos al caldo caliente con chashu, huevo marinado, menma, cebollino picado y nori. Monta los cuencos justo antes de servir para mantener la textura de los fideos.",
       "animeContext": "Esta receta está inspirada temáticamente en Emiya-san Chi no Kyou no Gohan, Naruto. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "tagliolini_per_ramen_freschi": {
@@ -317,7 +317,7 @@
     },
     "fr": {
       "title": "Shio ramen — ramen au sel, chashu et menma",
-      "description": "Le Shio Ramen valorise un bouillon clair de poulet et de dashi sans goût avec saké, sel et huile de sésame. Les nouilles sont lissées séparément et placées dans le bouillon chaud avec chashu, œuf mariné, menma, oignon et nori: la rapidité de l'assemblage conserve la consistance de la pâte.",
+      "description": "Le shio ramen associe un bouillon clair de poulet et de dashi assaisonné de saké, de sel et d’huile de sésame. Faites cuire les nouilles séparément, puis disposez-les dans le bouillon chaud avec le chashu, l’œuf mariné, le menma, la ciboulette ciselée et le nori. Assemblez au dernier moment pour préserver la texture des nouilles.",
       "animeContext": "Cette recette s'inspire librement de Emiya-san Chi no Kyou no Gohan, Naruto. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "tagliolini_per_ramen_freschi": {
@@ -379,7 +379,7 @@
     },
     "de": {
       "title": "Shio-Ramen — Salz-Ramen mit Chashu und Menma",
-      "description": "Der Shio Ramen zeichnet eine helle Brühe aus, die mit Sake, Salz und Sesamöl gewürzt ist. Die Nudeln werden getrennt gelesen und in der heißen Brühe mit Chashu, mariniertem Ei, Menma, Zwiebeln und Nori untergebracht: die Schnelligkeit der Montage bewahrt die Konsistenz der Pasta.",
+      "description": "Shio-Ramen besteht aus einer klaren Hühner-Dashi-Brühe, gewürzt mit Sake, Salz und Sesamöl. Die frischen Ramennudeln werden separat gegart und erst zum Servieren mit Chashu, mariniertem Ei, Menma, fein geschnittenem Schnittlauch und Nori in die heiße Brühe gegeben. So bleiben die Nudeln bissfest.",
       "animeContext": "Dieses Rezept ist thematisch von Emiya-san Chi no Kyou no Gohan, Naruto inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "tagliolini_per_ramen_freschi": {
@@ -441,7 +441,7 @@
     },
     "pt": {
       "title": "Shio ramen — ramen de sal com chashu e menma",
-      "description": "O Shio Ramen realça um caldo leve de frango e dashi aromatizado com sake, sal e óleo de sésamo. Os tagliolini são fervidos separadamente e colocados no caldo quente com chashu, ovo marinado, menma, cebola e nori: a velocidade da montagem preserva a consistência da massa.",
+      "description": "O shio ramen combina um caldo claro de frango e dashi temperado com saquê, sal e óleo de sésamo. Coza os noodles de ramen separadamente e junte-os ao caldo quente com chashu, ovo marinado, menma, cebolinho picado e nori. Monte as taças apenas antes de servir para manter a textura dos noodles.",
       "animeContext": "Esta receita inspira-se tematicamente em Emiya-san Chi no Kyou no Gohan, Naruto. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "tagliolini_per_ramen_freschi": {

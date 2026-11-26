@@ -4649,7 +4649,7 @@
     },
     {
       "id": "recipe_000051",
-      "contentVersion": 3,
+      "contentVersion": 4,
       "status": "published",
       "inspirationTitle": "Emiya-san Chi no Kyou no Gohan",
       "animeReferences": [
@@ -4672,7 +4672,7 @@
       "cookMinutes": 30,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000051.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
@@ -4796,7 +4796,7 @@
       "cookMinutes": 35,
       "servings": 6,
       "difficulty": "hard",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000052.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -4931,7 +4931,7 @@
       "cookMinutes": 25,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000053.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5060,7 +5060,7 @@
       "cookMinutes": 25,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000054.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5205,7 +5205,7 @@
       "cookMinutes": 20,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000055.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5320,7 +5320,7 @@
       "cookMinutes": 20,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000056.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5436,7 +5436,7 @@
       "cookMinutes": 15,
       "servings": 4,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000057.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
@@ -5554,7 +5554,7 @@
       "cookMinutes": 15,
       "servings": 4,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000058.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5661,7 +5661,7 @@
       "cookMinutes": 10,
       "servings": 2,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000059.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5765,7 +5765,7 @@
       "cookMinutes": 35,
       "servings": 6,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000060.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 6; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -5860,7 +5860,7 @@
       "cookMinutes": 30,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000061.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -6017,7 +6017,7 @@
       "cookMinutes": 20,
       "servings": 2,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000062.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -6043,7 +6043,7 @@
         },
         {
           "id": "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake",
-          "quantity": 4.0,
+          "quantity": 4,
           "unit": "piece"
         },
         {
@@ -6141,7 +6141,7 @@
       "cookMinutes": 15,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000063.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -6271,7 +6271,7 @@
       "cookMinutes": 25,
       "servings": 4,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000064.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -6410,7 +6410,7 @@
       "cookMinutes": 15,
       "servings": 2,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000065.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
@@ -6521,7 +6521,7 @@
       "cookMinutes": 15,
       "servings": 2,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000066.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
@@ -6645,7 +6645,7 @@
       "cookMinutes": 15,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000067.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
@@ -6749,7 +6749,7 @@
       "cookMinutes": 20,
       "servings": 6,
       "difficulty": "easy",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000068.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
       "ingredients": [
@@ -6885,7 +6885,7 @@
       "cookMinutes": 40,
       "servings": 2,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000069.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
@@ -6995,7 +6995,7 @@
       "cookMinutes": 25,
       "servings": 6,
       "difficulty": "medium",
-      "imageAsset": null,
+      "imageAsset": "assets/recipe_artwork/recipe_000070.jpg",
       "contentOrigin": "adapted",
       "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
       "ingredients": [
@@ -12525,7 +12525,7 @@
     },
     {
       "id": "recipe_000123",
-      "contentVersion": 7,
+      "contentVersion": 9,
       "status": "published",
       "inspirationTitle": "Barakamon",
       "animeReferences": [
@@ -16539,7 +16539,7 @@
     },
     {
       "id": "recipe_000162",
-      "contentVersion": 6,
+      "contentVersion": 7,
       "status": "published",
       "inspirationTitle": "Food Wars!",
       "animeReferences": [

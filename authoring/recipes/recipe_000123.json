@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000123",
-  "contentVersion": 7,
+  "contentVersion": 9,
   "status": "published",
   "inspirationTitle": "Barakamon",
   "animeReferences": [
@@ -98,15 +98,15 @@
   "locales": {
     "en": {
       "title": "Tori Zosui — chicken, rice and egg soup in dashi broth",
-      "description": "The Tori Zosui is a delicate soup of rice already cooked, chicken and egg in dashi broth. The rice is eventually rinsed to check the starch, while chicken and egg cook in the liquid before adding fresh onion. The egg is flushed over the rice and ends cooking with the heat of the covered soup.",
+      "description": "Tori zosui is a delicate soup made with cooked rice, chicken and egg in dashi broth. Briefly rinse very starchy rice before adding it. Cook the chicken in the broth, add the rice, then pour in lightly beaten egg in a thin stream. Cover off the heat so residual warmth finishes setting the egg; garnish with spring onion before serving.",
       "animeContext": "This recipe is thematically inspired by Barakamon, Gintama. These are editorial associations, not claims of appearances in specific episodes or chapters.",
       "ingredients": {
         "riso_cotto_lavato": {
-          "name": "Boiled rice",
+          "name": "cooked rice, rinsed if very starchy",
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "Stretch chicken breast",
+          "name": "chicken breast cut into thin strips",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
@@ -118,7 +118,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto": {
-          "name": "egg beaten",
+          "name": "lightly beaten egg",
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
@@ -127,18 +127,18 @@
         }
       },
       "steps": {
-        "step_1": "If cooked rice is very starchy, rinse it quickly under cold water and drain it; this keeps the zosui lighter.",
-        "step_2": "Cut the chicken into thin strips and bring the dashi to light boil with soy sauce and mirin.",
-        "step_3": "Add the chicken and cook for about 4-5 minutes, removing any foam.",
-        "step_4": "Combine the rice and simmer another 4-5 minutes, stirring just enough to not break the beans.",
-        "step_5": "Beat the egg without making it completely homogeneous and flush it over the surface.",
-        "step_6": "Turn off the heat, cover for about 1 minute and let the egg finish cooking with the residual heat.",
-        "step_7": "Complete with spring onion and serve immediately, when the rice is soft but not yet fucked."
+        "step_1": "If the cooked rice is very starchy, rinse it briefly under cold water and drain it to keep the zosui light.",
+        "step_2": "Cut the chicken into thin strips and bring the dashi, soy sauce and mirin to a gentle simmer.",
+        "step_3": "Add the chicken and cook for about 4-5 minutes, or until cooked through, skimming off any foam.",
+        "step_4": "Add the rice and simmer for another 4-5 minutes, stirring gently so the grains do not break apart.",
+        "step_5": "Beat the egg lightly, leaving some streaks, and pour it over the surface in a thin stream.",
+        "step_6": "Turn off the heat, cover for about 1 minute and allow the egg to finish setting with the residual heat.",
+        "step_7": "Finish with spring onion and serve immediately, while the rice is soft but the grains have not fallen apart."
       }
     },
     "it": {
       "title": "Tori Zosui (Minestra di Riso, Pollo e Uovo in Brodo Dashi)",
-      "description": "Il Tori Zosui è una minestra delicata di riso già cotto, pollo e uovo in brodo dashi. Il riso viene eventualmente sciacquato per controllare l’amido, mentre pollo e uovo cuociono nel liquido prima di aggiungere cipollotto fresco. L'uovo viene versato a filo sopra il riso e termina la cottura con il calore residuo della zuppa coperta.",
+      "description": "Il tori zosui è una minestra delicata di riso già cotto, pollo e uovo in brodo dashi. Se il riso è molto amidaceo, sciacqualo brevemente prima di aggiungerlo. Fai cuocere il pollo nel brodo, poi unisci il riso e versa l'uovo leggermente sbattuto a filo. Copri a fuoco spento per terminare la cottura dell'uovo con il calore residuo e servi con cipollotto fresco.",
       "animeContext": "Questa ricetta è ispirata tematicamente a Barakamon, Gintama. Il collegamento resta dichiarato come ispirazione: non viene attribuita una comparsa precisa senza una verifica diretta.",
       "ingredients": {
         "riso_cotto_lavato": {
@@ -167,18 +167,18 @@
         }
       },
       "steps": {
-        "step_1": "Se il riso cotto è molto amidaceo, sciacqualo rapidamente sotto acqua fredda e scolalo; questo mantiene lo zosui più leggero.",
+        "step_1": "Se il riso cotto è molto amidaceo, sciacqualo rapidamente sotto acqua fredda e scolalo: lo zosui resterà più leggero.",
         "step_2": "Taglia il pollo in striscioline sottili e porta il dashi a leggero bollore con salsa di soia e mirin.",
-        "step_3": "Aggiungi il pollo e cuoci per circa 4-5 minuti, rimuovendo l’eventuale schiuma.",
-        "step_4": "Unisci il riso e fai sobbollire altri 4-5 minuti, mescolando solo quanto basta per non rompere i chicchi.",
-        "step_5": "Sbatti l’uovo senza renderlo completamente omogeneo e versalo a filo sulla superficie.",
-        "step_6": "Spegni il fuoco, copri per circa 1 minuto e lascia che l’uovo termini la cottura con il calore residuo.",
-        "step_7": "Completa con cipollotto e servi subito, quando il riso è morbido ma non ancora sfatto."
+        "step_3": "Aggiungi il pollo e cuoci per circa 4-5 minuti, o finché è ben cotto, rimuovendo l'eventuale schiuma.",
+        "step_4": "Unisci il riso e fai sobbollire per altri 4-5 minuti, mescolando delicatamente per non rompere i chicchi.",
+        "step_5": "Sbatti leggermente l'uovo senza renderlo completamente omogeneo e versalo a filo sulla superficie.",
+        "step_6": "Spegni il fuoco, copri per circa 1 minuto e lascia che l'uovo termini la cottura con il calore residuo.",
+        "step_7": "Completa con il cipollotto previsto dalla ricetta e servi subito, quando il riso è morbido ma non sfatto."
       }
     },
     "es": {
       "title": "Tori zosui — sopa de arroz, pollo y huevo en caldo dashi",
-      "description": "El Tori Zosui es una sopa delicada de arroz ya cocido, pollo y huevo en caldo dashi. El arroz se enjuaga para controlar el almidón, mientras que el pollo y el huevo cocinan en el líquido antes de añadir cebolla fresca. El huevo se derrama sobre el arroz y termina la cocción con el calor residual de la sopa cubierta.",
+      "description": "El tori zosui es una sopa suave de arroz ya cocido, pollo y huevo en caldo dashi. Si el arroz tiene mucho almidón, enjuágalo brevemente antes de incorporarlo. Cocina el pollo en el caldo, añade el arroz y vierte el huevo ligeramente batido en un hilo fino. Tapa la olla fuera del fuego para que el calor residual termine de cuajar el huevo y sirve con cebolleta.",
       "animeContext": "Esta receta está inspirada temáticamente en Barakamon, Gintama. Son asociaciones editoriales, no afirmaciones de apariciones en episodios o capítulos concretos.",
       "ingredients": {
         "riso_cotto_lavato": {
@@ -186,11 +186,11 @@
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "pechuga de pollo de rayas",
+          "name": "pechuga de pollo cortada en tiras finas",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
-          "name": "caldo dashi saporito con salsa de soja",
+          "name": "caldo dashi condimentado con salsa de soja",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_2_mirin": {
@@ -207,30 +207,30 @@
         }
       },
       "steps": {
-        "step_1": "Si el arroz cocido es muy amiláceo, enjuáguelo rápidamente bajo agua fría y cúbralo; esto mantiene el zosui más ligero.",
-        "step_2": "Corta el pollo en tiras finas y lleva el dashi a un hervor suave con salsa de soja y mirin.",
-        "step_3": "Añade el pollo y cocina unos 4-5 minutos, quitando cualquier espuma.",
-        "step_4": "Une el arroz y haz que se emborrachen otros 4-5 minutos, mezclando sólo lo suficiente para no romper los granos.",
-        "step_5": "Golpea el huevo sin que sea completamente homogéneo y vierte el huevo en la superficie.",
-        "step_6": "Apaga el fuego, cubre durante aproximadamente 1 minuto y deja que el huevo termine la cocción con el calor residual.",
-        "step_7": "Completa con cebolleta y sirves inmediatamente, cuando el arroz es suave pero aún no se desvanece."
+        "step_1": "Si el arroz cocido tiene mucho almidón, enjuágalo brevemente bajo agua fría y escúrrelo; así el zosui quedará más ligero.",
+        "step_2": "Corta el pollo en tiras finas y lleva el dashi con salsa de soja y mirin a un hervor suave.",
+        "step_3": "Añade el pollo y cocina unos 4-5 minutos, o hasta que esté bien cocido, retirando la espuma si aparece.",
+        "step_4": "Incorpora el arroz y deja hervir suavemente otros 4-5 minutos, removiendo con cuidado para no romper los granos.",
+        "step_5": "Bate el huevo ligeramente, sin homogeneizarlo del todo, y viértelo en un hilo fino sobre la superficie.",
+        "step_6": "Apaga el fuego, tapa durante aproximadamente 1 minuto y deja que el huevo termine de cuajar con el calor residual.",
+        "step_7": "Termina con cebolleta y sirve enseguida, cuando el arroz esté tierno pero los granos aún mantengan su forma."
       }
     },
     "fr": {
       "title": "Tori zosui — soupe de riz au poulet et à l’œuf dans un bouillon dashi",
-      "description": "Le Tori Zosui est une soupe délicate de riz déjà cuit, poulet et œuf en bouillon dashi. Le riz est éventuellement rincé pour contrôler l'amidon, tandis que le poulet et l'œuf cuire dans le liquide avant d'ajouter l'oignon frais. L'œuf est versé au fil au-dessus du riz et termine la cuisson avec la chaleur résiduelle de la soupe couverte.",
+      "description": "Le tori zosui est une soupe délicate de riz déjà cuit, de poulet et d’œuf dans un bouillon dashi. Si le riz est très amidonné, rincez-le brièvement. Faites cuire le poulet dans le bouillon, ajoutez le riz, puis versez l’œuf légèrement battu en mince filet. Couvrez hors du feu pour terminer la cuisson à la chaleur résiduelle et servez avec de la cébette.",
       "animeContext": "Cette recette s'inspire librement de Barakamon, Gintama. Il s'agit de rapprochements éditoriaux, et non d'affirmations sur une apparition dans un épisode ou un chapitre précis.",
       "ingredients": {
         "riso_cotto_lavato": {
-          "name": "riz cuit lavé",
+          "name": "riz cuit, rincé si nécessaire",
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "poitrine de poulet à frottis",
+          "name": "blanc de poulet émincé en fines lanières",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
-          "name": "bouillon dashi savoureux avec de la sauce soja",
+          "name": "bouillon dashi assaisonné de sauce soja",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_2_mirin": {
@@ -238,7 +238,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto": {
-          "name": "Oeuf claqué",
+          "name": "œuf battu",
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
@@ -247,30 +247,30 @@
         }
       },
       "steps": {
-        "step_1": "Si le riz cuit est très amylacé, rincez-le rapidement sous l'eau froide et écollez-le; cela maintient le zoosui plus léger.",
-        "step_2": "Émince le poulet en fines lanières et porte le dashi à léger frémissement avec la sauce soja et le mirin.",
-        "step_3": "Ajouter le poulet et cuire pendant environ 4-5 minutes, en enlevant la mousse éventuelle.",
-        "step_4": "Combinez le riz et faites bouillir encore 4-5 minutes, en mélangeant juste assez pour ne pas casser les grains.",
-        "step_5": "Cochez l'œuf sans le rendre complètement homogène et versez-le à la surface.",
-        "step_6": "Éteignez le feu, couvrez pendant environ 1 minute et laissez l'œuf terminer la cuisson avec la chaleur résiduelle.",
-        "step_7": "Complétez avec la cébette et servez-vous immédiatement, lorsque le riz est doux mais pas encore cassé."
+        "step_1": "Si le riz cuit est très amidonné, rincez-le brièvement à l’eau froide et égouttez-le; le zosui restera plus léger.",
+        "step_2": "Émincez le poulet en fines lanières et portez le dashi, la sauce soja et le mirin à léger frémissement.",
+        "step_3": "Ajoutez le poulet et laissez cuire environ 4 à 5 minutes, ou jusqu'à cuisson complète, en écumant si nécessaire.",
+        "step_4": "Incorporez le riz et laissez frémir encore 4 à 5 minutes en remuant doucement pour ne pas écraser les grains.",
+        "step_5": "Battez légèrement l’œuf sans le rendre complètement homogène, puis versez-le en mince filet à la surface.",
+        "step_6": "Éteignez le feu, couvrez environ 1 minute et laissez l’œuf finir de cuire grâce à la chaleur résiduelle.",
+        "step_7": "Parsemez de cébette et servez aussitôt, quand le riz est tendre mais encore distinct."
       }
     },
     "de": {
       "title": "Tori Zosui – Reis-Hähnchen-Ei-Suppe in Dashibrühe",
-      "description": "Der Tori Zosui ist eine zarte Suppe aus bereits gekochtem Reis, Huhn und Ei in der Dashi-Brühe. Der Reis wird eventuell gespült, um Stärke zu kontrollieren, während Huhn und Ei in der Flüssigkeit kochen, bevor sie frische Zwiebeln hinzufügen. Das Ei wird mit Draht über den Reis ausgegossen und das Kochen mit der Restwärme der überdachten Suppe beendet.",
+      "description": "Tori Zosui ist eine milde Suppe aus bereits gegartem Reis, Hähnchen und Ei in Dashi-Brühe. Sehr stärkehaltigen Reis bei Bedarf kurz abspülen. Das Hähnchen in der Brühe garen, den Reis zugeben und leicht verquirltes Ei in einem dünnen Strahl darübergeben. Den Herd ausschalten und die Suppe abgedeckt ziehen lassen, damit das Ei durch die Restwärme stockt; mit Frühlingszwiebeln servieren.",
       "animeContext": "Dieses Rezept ist thematisch von Barakamon, Gintama inspiriert. Es handelt sich um redaktionelle Bezüge, nicht um Behauptungen über Auftritte in bestimmten Folgen oder Kapiteln.",
       "ingredients": {
         "riso_cotto_lavato": {
-          "name": "Gekochter Reis, gewaschen",
+          "name": "gekochter Reis, bei Bedarf abgespült",
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "Hähnchenbrust mit Streifen",
+          "name": "Hähnchenbrust in feinen Streifen",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
-          "name": "Dashi Brühe gewürzt mit Sojasoße",
+          "name": "Dashi-Brühe mit Sojasauce",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_2_mirin": {
@@ -278,7 +278,7 @@
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_1_uovo_sbattuto": {
-          "name": "Eier, die geschlagen wurden",
+          "name": "leicht verquirltes Ei",
           "note": null
         },
         "uovo_sbattuto_e_cipollotto_2_cipollotto": {
@@ -287,18 +287,18 @@
         }
       },
       "steps": {
-        "step_1": "Wenn der gekochte Reis sehr stärkehaft ist, spülen Sie ihn schnell unter kaltem Wasser aus und spülen ihn ab; dies hält den Zosui leichter.",
-        "step_2": "Das Hähnchen in feine Streifen schneiden. Das Dashi mit Sojasauce und Mirin leicht zum Köcheln bringen.",
-        "step_3": "Fügen Sie das Huhn hinzu und kochen Sie für etwa 4-5 Minuten, indem Sie eventuellen Schaum entfernen.",
-        "step_4": "Verbinden Sie den Reis und lassen Sie weitere 4-5 Minuten knacken, indem Sie nur so viel rühren, wie Sie brauchen, um die Körner nicht zu brechen.",
-        "step_5": "Werfen Sie das Ei, ohne es vollständig homogen zu machen, und gießen Sie es mit Draht auf die Oberfläche.",
-        "step_6": "Schalte das Feuer aus, bedecke etwa 1 Minute und lass mich das Kochen mit der Restwärme beenden.",
-        "step_7": "Komplett mit Frühlingszwiebeln und servieren Sie sofort, wenn der Reis weich, aber noch nicht lose ist."
+        "step_1": "Sehr stärkehaltigen gekochten Reis kurz mit kaltem Wasser abspülen und gut abtropfen lassen, damit die Suppe leichter bleibt.",
+        "step_2": "Das Hähnchen in feine Streifen schneiden und die Dashi-Brühe mit Sojasauce und Mirin leicht zum Köcheln bringen.",
+        "step_3": "Das Hähnchen zugeben und etwa 4–5 Minuten oder bis zum vollständigen Durchgaren kochen; entstehenden Schaum abschöpfen.",
+        "step_4": "Den Reis zugeben und weitere 4–5 Minuten sanft köcheln lassen. Vorsichtig rühren, damit die Reiskörner nicht zerfallen.",
+        "step_5": "Das Ei nur leicht verquirlen und in einem dünnen Strahl über die Oberfläche gießen.",
+        "step_6": "Die Hitze ausschalten, den Topf etwa 1 Minute abdecken und das Ei durch die Restwärme fertig stocken lassen.",
+        "step_7": "Mit Frühlingszwiebeln garnieren und sofort servieren, solange der Reis weich ist, die Körner aber noch Form haben."
       }
     },
     "pt": {
       "title": "Tori zosui — sopa de arroz, frango e ovo em caldo dashi",
-      "description": "O Tori Zosui é uma delicada sopa de arroz já cozido, frango e ovo em caldo de dashi. O arroz é eventualmente enxaguado para verificar o amido, enquanto frango e ovo cozinham no líquido antes de adicionar cebola fresca. O ovo é enrolado sobre o arroz e termina de cozinhar com o calor da sopa coberta.",
+      "description": "O tori zosui é uma sopa delicada de arroz já cozido, frango e ovo em caldo dashi. Se o arroz tiver muito amido, passe-o brevemente por água fria antes de o adicionar. Cozinhe o frango no caldo, junte o arroz e verta o ovo ligeiramente batido em fio. Tape fora do lume para que o calor residual termine de cozinhar o ovo e sirva com cebola de rama.",
       "animeContext": "Esta receita inspira-se tematicamente em Barakamon, Gintama. São associações editoriais, não alegações de aparições em episódios ou capítulos específicos.",
       "ingredients": {
         "riso_cotto_lavato": {
@@ -306,7 +306,7 @@
           "note": null
         },
         "petto_di_pollo_a_striscioline": {
-          "name": "Peito de galinha estirada",
+          "name": "peito de frango cortado em tiras finas",
           "note": null
         },
         "brodo_dashi_insaporito_con_soia_e_mirin_1_brodo_dashi_insaporito_con_salsa_di_so": {
@@ -327,13 +327,13 @@
         }
       },
       "steps": {
-        "step_1": "Se o arroz cozido é muito amido, lave- o rapidamente sob água fria e escorra-o; isso mantém o zosui mais leve.",
-        "step_2": "Corte o frango em tiras finas e leve o dashi a ferver com molho de soja e mirin.",
-        "step_3": "Adicione o frango e cozinhe por cerca de 4-5 minutos, removendo qualquer espuma.",
-        "step_4": "Combine o arroz e cozinhe mais 4-5 minutos, agitando o suficiente para não quebrar os feijões.",
-        "step_5": "Bata o ovo sem torná- lo completamente homogêneo e jogue- o sobre a superfície.",
-        "step_6": "Desligue o fogo, cobre por cerca de 1 minuto e deixe o ovo terminar de cozinhar com o calor residual.",
-        "step_7": "Complete com cebola de rama e sirva imediatamente, quando o arroz estiver macio, mas ainda não fodido."
+        "step_1": "Se o arroz cozido tiver muito amido, passe-o rapidamente por água fria e escorra-o; assim o zosui fica mais leve.",
+        "step_2": "Corte o frango em tiras finas e leve o dashi com molho de soja e mirin a uma fervura suave.",
+        "step_3": "Junte o frango e cozinhe cerca de 4–5 minutos, ou até estar bem cozinhado, retirando a espuma que se formar.",
+        "step_4": "Adicione o arroz e deixe cozinhar suavemente mais 4–5 minutos, mexendo com cuidado para não desfazer os grãos.",
+        "step_5": "Bata o ovo ligeiramente, sem o homogeneizar por completo, e verta-o em fio sobre a superfície.",
+        "step_6": "Desligue o lume, tape durante cerca de 1 minuto e deixe o ovo terminar de cozinhar com o calor residual.",
+        "step_7": "Finalize com cebola de rama e sirva de imediato, quando o arroz estiver macio, mas os grãos ainda mantiverem a forma."
       }
     }
   }

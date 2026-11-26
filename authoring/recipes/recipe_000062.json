@@ -32,7 +32,7 @@
   "difficulty": "easy",
   "contentOrigin": "adapted",
   "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 7; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
-  "imageAssetId": null,
+  "imageAssetId": "recipe_000062_artwork",
   "ingredients": [
     {
       "id": "fette_sottili_di_pancia_di_maiale",
@@ -56,7 +56,7 @@
     },
     {
       "id": "funghi_enoki_e_4_funghi_shiitake_2_funghi_shiitake",
-      "quantity": 4.0,
+      "quantity": 4,
       "unit": "piece"
     },
     {

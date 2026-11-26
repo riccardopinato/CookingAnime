@@ -100,7 +100,10 @@ class Final49FastTrackTests(unittest.TestCase):
                 record = self.canonical[rid]
                 self.assertEqual(source["id"], rid)
                 self.assertEqual(source["status"], "published")
-                self.assertIsNone(source.get("imageAssetId"))
+                asset_id = source.get("imageAssetId")
+                expected_asset = f"assets/recipe_artwork/{rid}.jpg" if asset_id else None
+                self.assertEqual(asset_id, f"{rid}_artwork" if expected_asset else None)
+                self.assertEqual(record["imageAsset"], expected_asset)
                 self.assertEqual(record["id"], rid)
                 self.assertEqual(record["contentVersion"], source["contentVersion"])
                 for field in (

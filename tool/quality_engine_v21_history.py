@@ -20,6 +20,13 @@ TRANSITIONS = ("NEW", "PERSISTING", "RESOLVED", "REOPENED", "UNBASELINED")
 SAFE_SEVERITIES = {"info", "review", "high"}
 ALLOWED_MODES = {"code", "content", "workflows"}
 
+# Verified GitHub repository rename, same immutable repository ID 1428532533.
+# Only this exact historical name can continue its source-bound audit history.
+# Arbitrary repository aliases remain rejected fail-closed.
+VERIFIED_REPO_RENAMES = {
+    ("riccardopinato/In-Cucina-con-gli-Anime", "riccardopinato/CookingAnime"),
+}
+
 
 def canonical(value: object) -> str:
     return json.dumps(value, ensure_ascii=False, sort_keys=True,
@@ -116,7 +123,9 @@ def compare(report: dict, config: dict, previous: dict | None, *,
     if previous is not None:
         if (previous.get("schemaVersion") != SCHEMA_VERSION
                 or previous.get("engine") != "R1_QUALITY_ENGINE_V21_HISTORY"
-                or previous.get("repository") != repository
+                or (previous.get("repository") != repository
+                    and (previous.get("repository"), repository)
+                    not in VERIFIED_REPO_RENAMES)
                 or previous.get("mode") != mode
                 or previous.get("profile") != report["profile"]
                 or previous.get("scopeDigest") != scope
