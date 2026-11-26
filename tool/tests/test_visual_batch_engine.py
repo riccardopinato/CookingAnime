@@ -22,8 +22,11 @@ class TestVisualBatchEngine(unittest.TestCase):
         output = adapter.build(ROOT)
         self.assertEqual(output["styleProfile"]["referenceCount"], 50)
         self.assertRegex(output["styleProfile"]["referenceFingerprint"], r"^[0-9a-f]{64}$")
-        self.assertEqual(output["count"], 12)
-        self.assertEqual(len({x["id"] for x in output["requests"]}), 12)
+        expected_missing = [n for n in adapter.PILOT_IDS
+                            if adapter.load_json(ROOT / f"authoring/recipes/recipe_{n:06d}.json")
+                               ["imageAssetId"] is None]
+        self.assertEqual(output["count"], len(expected_missing))
+        self.assertEqual(len({x["id"] for x in output["requests"]}), len(expected_missing))
         self.assertTrue(all(51 <= int(x["id"].split("_")[-1]) <= 162
                             for x in output["requests"]))
         self.assertEqual(output["imagesGenerated"], 0)
@@ -35,11 +38,15 @@ class TestVisualBatchEngine(unittest.TestCase):
 
     def test_all_missing_are_planned_not_published(self):
         output = adapter.build(ROOT, pilot_only=False)
-        self.assertEqual(output["count"], 112)
+        still_missing = [n for n in range(51, 163)
+                         if adapter.load_json(ROOT / f"authoring/recipes/recipe_{n:06d}.json")
+                            ["imageAssetId"] is None]
+        self.assertEqual(output["count"], len(still_missing))
         self.assertEqual(output["imagesGenerated"], 0)
         self.assertEqual(output["imagesApproved"], 0)
-        self.assertEqual(output["requiresDomainReview"], 100)
-        self.assertEqual(output["claims"]["imagesIntegrated"], 0)
+        self.assertEqual(output["requiresDomainReview"],
+                         sum(n not in adapter.VISUAL_FACTS for n in still_missing))
+        self.assertEqual(output["claims"]["imagesIntegrated"], 112 - len(still_missing))
 
     def test_reject_duplicate_and_unreviewable_item(self):
         config = {"adapterId": "test", "styleDirective": "original art"}

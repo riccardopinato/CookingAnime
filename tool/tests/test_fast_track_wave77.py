@@ -56,8 +56,10 @@ class FastTrackWave77Tests(unittest.TestCase):
                 canon = self.canonical[rid]
                 self.assertEqual(source["id"], rid)
                 self.assertEqual(source["status"], "published")
-                self.assertIsNone(source["imageAssetId"])
-                self.assertIsNone(canon["imageAsset"])
+                asset_id = source.get("imageAssetId")
+                expected_asset = f"assets/recipe_artwork/{rid}.jpg" if asset_id else None
+                self.assertEqual(asset_id, f"{rid}_artwork" if expected_asset else None)
+                self.assertEqual(canon["imageAsset"], expected_asset)
                 self.assertEqual(canon["contentVersion"], source["contentVersion"])
                 self.assertEqual(set(source["locales"]), set(LOCALES))
                 for field in ("status", "id", "inspirationTitle", "animeReferences",

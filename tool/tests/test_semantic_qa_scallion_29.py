@@ -52,7 +52,10 @@ class SourceBoundIngredientFidelityTests(unittest.TestCase):
                 source = load(f"authoring/recipes/{rid}.json")
                 self.assertEqual(source["id"], rid)
                 self.assertEqual(source["status"], "published")
-                self.assertIsNone(source["imageAssetId"])
+                asset_id = source.get("imageAssetId")
+                expected_asset = f"assets/recipe_artwork/{rid}.jpg" if asset_id else None
+                self.assertEqual(asset_id, f"{rid}_artwork" if expected_asset else None)
+                self.assertEqual(self.canonical[rid]["imageAsset"], expected_asset)
                 self.assertEqual(self.canonical[rid]["contentVersion"],
                                  source["contentVersion"])
                 self.assertEqual(set(source["locales"]), set(LOCALES))
