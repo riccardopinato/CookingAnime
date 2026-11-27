@@ -25,7 +25,7 @@ The product should feel warm, illustrated and playful without presenting itself 
 
 F0 foundation, F1 runtime catalog contract, F2 authoring/import pipeline and F3A content ingestion are complete.
 
-The production catalog contains 162 published recipes. Recipes 1–90 have version-bound original anime artwork; recipes 91–162 retain the deterministic fallback until source-and-style-reviewed artwork is integrated. F3K is hardening recipes 51–162 with an Italian-first source-of-truth rule: the complete Italian editorial baseline must reach 112/112 PASS before EN/ES/FR/DE/PT are regenerated. Existing translated runtime content remains installed until that refresh is completed; it is not treated as the new editorial source.
+The production catalog contains 162 published recipes. Recipes 1–152, 154, and 156–162 have version-bound original 2D anime artwork (160/162); recipes 153 (Tori Tsukune) and 155 (Buri Daikon) still use the deterministic fallback while their images await correction and visual approval. F3K is hardening recipes 51–162 with an Italian-first source-of-truth rule: the complete Italian editorial baseline must reach 112/112 PASS before EN/ES/FR/DE/PT are regenerated. Existing translated runtime content remains installed until that refresh is completed; it is not treated as the new editorial source.
 
 ## UX direction
 
