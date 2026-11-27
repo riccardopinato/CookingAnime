@@ -48,12 +48,12 @@ class ShoppingNotifier extends Notifier<List<ShoppingItem>> {
       final amount = ingredient.quantity == null
           ? null
           : ingredient.quantity! * multiplier;
-      final normalized = name.toLowerCase().replaceAll(RegExp(r'\\s+'), ' ');
+      final normalized = name.toLowerCase().replaceAll(RegExp(r'\s+'), ' ');
       final match = updated.indexWhere((item) =>
           !item.isBought &&
           item.quantity != null &&
           amount != null &&
-          item.name.trim().toLowerCase().replaceAll(RegExp(r'\\s+'), ' ') == normalized &&
+          item.name.trim().toLowerCase().replaceAll(RegExp(r'\s+'), ' ') == normalized &&
           (item.unit ?? '').trim().toLowerCase() ==
               (unit ?? '').toLowerCase() &&
           item.recipeSource != '' &&
