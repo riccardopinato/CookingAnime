@@ -964,8 +964,21 @@
       "semanticReview": {
         "status": "approved",
         "reviewedContentVersion": 6,
-        "reviewedAt": "2026-11-26",
-        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; whole grilled Pacific saury with daikon and citrus. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Pacific saury with corrected short pointed snout, silver-blue elongated whole grilled fish, daikon and citrus."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "37c37dcef3838e46cbf5cf6b218ab1a6f71e937e5692732561d4009a34c0f1e0",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Pacific saury with corrected short pointed snout, silver-blue elongated whole grilled fish, daikon and citrus."
       }
     },
     {
@@ -976,8 +989,21 @@
       "semanticReview": {
         "status": "approved",
         "reviewedContentVersion": 4,
-        "reviewedAt": "2026-11-26",
-        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: crustless shokupan egg-mayo sandwich with centered hard-boiled egg cross-section. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Crustless shokupan tamago sando fully assembled with chopped egg-mayo and centered boiled egg cross-section."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 4,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "76d6dd9651a0862daced6a3d23107981d0aa5a5d23f5cd3cd81a8cd63d00b868",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Crustless shokupan tamago sando fully assembled with chopped egg-mayo and centered boiled egg cross-section."
       }
     },
     {
@@ -1000,8 +1026,21 @@
       "semanticReview": {
         "status": "approved",
         "reviewedContentVersion": 5,
-        "reviewedAt": "2026-11-26",
-        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: cold thick noodles and separate hot dark dipping broth, chashu and egg. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Separate cold noodle plate and visibly steaming concentrated dipping broth; no steam from cold noodles."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "857c68f103d913bba7d0eb82dfb2166a46b31897f4c188d9bcc097e91ceedf1c",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Separate cold noodle plate and visibly steaming concentrated dipping broth; no steam from cold noodles."
       }
     },
     {
@@ -1097,7 +1136,20 @@
         "status": "approved",
         "reviewedContentVersion": 5,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Takikomi Gohan: seasoned rice, chicken, shiitake, carrots, aburaage. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Takikomi rice with chicken, shiitake, carrots and golden fried tofu."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "d93ceaf4f060811ca484006f6b55393ec08f62cb7aff83f685cef8f21cb6f823",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Takikomi rice with chicken, shiitake, carrots and golden fried tofu."
       }
     },
     {
@@ -1109,7 +1161,20 @@
         "status": "approved",
         "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Moyashi Itame: stir-fried bean sprouts, pork, carrot and green onion. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Moyashi stir-fried soybean sprouts with pork, carrot and scallion; no noodles."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "c53fd8cd9f6665e4e798f8041ff766fb6df29c22ae7fc07e9f7b8fa4552f7570",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Moyashi stir-fried soybean sprouts with pork, carrot and scallion; no noodles."
       }
     },
     {
@@ -1121,7 +1186,20 @@
         "status": "approved",
         "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Katsu Donburi al Formaggio: fried pork katsu, soft egg, onion, rice and melted cheese. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Cheesy sliced tonkatsu over rice, cooked egg and onion, without photographic materials."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "7e43a92acde6d2258258b754612a2cdc7f6572cd8076bca92fbf4f4eaaefa093",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Cheesy sliced tonkatsu over rice, cooked egg and onion, without photographic materials."
       }
     },
     {
@@ -1133,7 +1211,20 @@
         "status": "approved",
         "reviewedContentVersion": 5,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Ishikari Nabe: miso hot pot with salmon, tofu, napa cabbage, carrots, mushrooms, potatoes and butter. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Ishikari miso-dashi hotpot with salmon, napa cabbage, tofu, mushrooms, carrot, potato and butter."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "dc9d8f468f6fc7e505cb25033f4da145ae9a5b6fd5f1131b1d02ee7a7df55aa3",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Ishikari miso-dashi hotpot with salmon, napa cabbage, tofu, mushrooms, carrot, potato and butter."
       }
     },
     {
@@ -1145,7 +1236,20 @@
         "status": "approved",
         "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Yuzu Shio Ramen: clear citrus chicken broth, noodles, chicken slices, menma and soft-boiled egg. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Clear yuzu-shio ramen with chicken breast, noodles, bamboo shoots, egg and yuzu peel; no pork."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "317a350080ea51c968021610e95a74598ee4eb3d84f49800f2b0f969a7976fff",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Clear yuzu-shio ramen with chicken breast, noodles, bamboo shoots, egg and yuzu peel; no pork."
       }
     },
     {
@@ -1157,7 +1261,20 @@
         "status": "approved",
         "reviewedContentVersion": 5,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Asari Clam Chowder: thick creamy clam soup, open clams, potato, carrot and pancetta. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Asari clam chowder with opened clams, potatoes, carrot and bacon in cream."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "7c5092b4d09db8a5781f201b0b8b2186d2910d5335682b2c13d9b33e4f59d253",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Asari clam chowder with opened clams, potatoes, carrot and bacon in cream."
       }
     },
     {
@@ -1169,7 +1286,20 @@
         "status": "approved",
         "reviewedContentVersion": 5,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Kakiage Tempura: golden irregular carrot and onion tempura fritters with optional shrimp. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Irregular airy vegetable kakiage fritters with onion, carrot and optional shrimp."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000035",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "74097a4a73d585a94b3d7dfdf1d1cff03e41030a2605c0d340602e46bd554ffa",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Irregular airy vegetable kakiage fritters with onion, carrot and optional shrimp."
       }
     },
     {
@@ -1181,7 +1311,20 @@
         "status": "approved",
         "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Chicken Teriyaki Don: sliced lacquered chicken thigh on white rice, sesame and scallions. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Sliced glazed chicken thigh on short-grain white rice with sesame and green scallion."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "6cd40a217f8909a48136be0a8a254604cb0e46a80494e6cd1617d740cd09f92b",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Sliced glazed chicken thigh on short-grain white rice with sesame and green scallion."
       }
     },
     {
@@ -1193,7 +1336,20 @@
         "status": "approved",
         "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Anko Dango con Kinako: white rice dumplings on skewers, anko red-bean paste and toasted soybean flour. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Four skewers with white boiled dango covered in smooth koshian red bean puree and kinako."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "c9bda021ae2155acbf3ff3ec6c2c005880ee6ae44bedd7d61cd8211bd2b5f8ab",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Four skewers with white boiled dango covered in smooth koshian red bean puree and kinako."
       }
     },
     {
@@ -1205,7 +1361,20 @@
         "status": "approved",
         "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-27",
-        "note": "Original anime-style cinematic hand-painted food illustration generated for CookingAnime. AI visual check against source recipe and the 1–50 artwork reference: Japanese Curry Udon Classico: thick udon, Japanese curry-dashi, onions and sliced meat. No copied anime scenes or characters. No claim of professional or automated embedding-based certification."
+        "note": "Replacement artwork visually verified. Thick udon in curry-dashi with sliced beef, onion and scallion; no narutomaki."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "3820cc3d0530d40a90be16769b80088cf8a11df130d2c7d4c7b2b9b7745c26a3",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Thick udon in curry-dashi with sliced beef, onion and scallion; no narutomaki."
       }
     }
   ]

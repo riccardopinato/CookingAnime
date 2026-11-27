@@ -1,112 +1,151 @@
 {
   "schemaVersion": 1,
   "createdAt": "2026-11-27",
-  "statusNote": "The live main images and historical approved semantic-review metadata are unchanged; these are pending image corrections and cannot be called generated, vision-reviewed, or merged.",
+  "statusNote": "13 previously flagged images replaced in their original paths with individual visually reviewed 2D anime files; SHA256-bound styleReview matches each canonical recipe version. Only main merge can establish published status.",
   "styleGuideVersion": "CA-ART-v1",
   "items": [
     {
       "recipeId": "recipe_000080",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Pacific saury: short pointed beak, lower jaw a little longer, elongated silvery body, forked tail, grilled cuts, daikon and citrus",
-      "negative": "No extremely elongated needlefish snout"
+      "negative": "No extremely elongated needlefish snout",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "37c37dcef3838e46cbf5cf6b218ab1a6f71e937e5692732561d4009a34c0f1e0",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000081",
       "priority": "P2",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Tamago sando: compact crustless shokupan, mixed egg-mayo filling, centered half-boiled-egg cross-section",
-      "negative": "No loose garnish or disassembled sandwich"
+      "negative": "No loose garnish or disassembled sandwich",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "76d6dd9651a0862daced6a3d23107981d0aa5a5d23f5cd3cd81a8cd63d00b868",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000083",
       "priority": "P2",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Tsukemen: chilled noodles with chashu and egg on plate, separate hot steaming concentrated dipping broth",
-      "negative": "No steam on cold noodles or one-bowl soup"
+      "negative": "No steam on cold noodles or one-bowl soup",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "857c68f103d913bba7d0eb82dfb2166a46b31897f4c188d9bcc097e91ceedf1c",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000091",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Takikomi Gohan rice with chicken, shiitake, carrot, fried tofu; redraw in 2D cel shading",
-      "negative": "No photography or over-elaborate autumn scenery"
+      "negative": "No photography or over-elaborate autumn scenery",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "d93ceaf4f060811ca484006f6b55393ec08f62cb7aff83f685cef8f21cb6f823",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000092",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Stir-fried sprouts, pork, carrot and scallion; simplified 2D food detail",
-      "negative": "No noodles or photorealism"
+      "negative": "No noodles or photorealism",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "c53fd8cd9f6665e4e798f8041ff766fb6df29c22ae7fc07e9f7b8fa4552f7570",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000093",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Pork tonkatsu slices on rice with onion, egg and melted cheese; 2D drawn food",
-      "negative": "No western baked casserole or photoreal glossy cheese"
+      "negative": "No western baked casserole or photoreal glossy cheese",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "7e43a92acde6d2258258b754612a2cdc7f6572cd8076bca92fbf4f4eaaefa093",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000094",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Salmon, miso-dashi, napa cabbage, tofu, mushrooms, carrot, potato and butter in hotpot",
-      "negative": "No photoreal winter panorama dominating the food"
+      "negative": "No photoreal winter panorama dominating the food",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "dc9d8f468f6fc7e505cb25033f4da145ae9a5b6fd5f1131b1d02ee7a7df55aa3",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000095",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Clear yuzu-shio chicken ramen with noodles, sliced chicken breast, menma, egg and yuzu peel",
-      "negative": "No pork chashu, no heavy broth"
+      "negative": "No pork chashu, no heavy broth",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "317a350080ea51c968021610e95a74598ee4eb3d84f49800f2b0f969a7976fff",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000096",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Clam chowder with opened clams, potato, carrot, onion and pancetta",
-      "negative": "No photographic harbor scene or 3D clams"
+      "negative": "No photographic harbor scene or 3D clams",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "7c5092b4d09db8a5781f201b0b8b2186d2910d5335682b2c13d9b33e4f59d253",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000097",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Irregular crisp onion/carrot kakiage fritters, optional pieces of shrimp",
-      "negative": "No whole ebi-tempura sticks or photographic still-life"
+      "negative": "No whole ebi-tempura sticks or photographic still-life",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "74097a4a73d585a94b3d7dfdf1d1cff03e41030a2605c0d340602e46bd554ffa",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000098",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Sliced skin-on teriyaki chicken thigh on white rice, sesame and scallions",
-      "negative": "No pork or plastic shine"
+      "negative": "No pork or plastic shine",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "6cd40a217f8909a48136be0a8a254604cb0e46a80494e6cd1617d740cd09f92b",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000099",
       "priority": "P0",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "White boiled rice dumplings on skewers, smooth koshian red-bean puree and dusted kinako",
-      "negative": "No chunky tsubuan/whole visible beans"
+      "negative": "No chunky tsubuan/whole visible beans",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "c9bda021ae2155acbf3ff3ec6c2c005880ee6ae44bedd7d61cd8211bd2b5f8ab",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     },
     {
       "recipeId": "recipe_000100",
       "priority": "P1",
-      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "status": "REPLACED_AND_VISUALLY_REVIEWED",
       "currentlyInMain": true,
       "positive": "Curry udon: thick udon with Japanese curry-dashi, thin sliced beef or pork, onion and scallion",
-      "negative": "No irrelevant vegetables or photoreal noodle texture"
+      "negative": "No irrelevant vegetables or photoreal noodle texture",
+      "resolvedAt": "2026-11-27",
+      "replacementSha256": "3820cc3d0530d40a90be16769b80088cf8a11df130d2c7d4c7b2b9b7745c26a3",
+      "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     }
   ]
 }
