@@ -1087,6 +1087,18 @@
         "reviewedAt": "2026-11-26",
         "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: clear amber shoyu broth ramen with chashu, ajitama, naruto and nori. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
       }
+    },
+    {
+      "id": "recipe_000096_artwork",
+      "path": "assets/recipe_artwork/recipe_000096.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000096",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime-style 2D illustration of asari clam chowder generated with Adobe Firefly. Assistant visually checked canonical Italian title and ingredients: open clam shells, creamy broth, potato, carrot and pancetta; warm hand-painted restaurant scene. No characters or copied franchise stills. Editorial visual check only, not a professional food or embedding-score certification."
+      }
     }
   ]
 }
