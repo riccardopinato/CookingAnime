@@ -48,6 +48,17 @@ class TestVisualBatchEngine(unittest.TestCase):
                          sum(n not in adapter.VISUAL_FACTS for n in still_missing))
         self.assertEqual(output["claims"]["imagesIntegrated"], 112 - len(still_missing))
 
+    def test_existing_rework_has_real_source_facts_but_no_false_generation(self):
+        plan = adapter.build(ROOT, rework_only=True)
+        self.assertEqual(plan["count"], 13)
+        self.assertEqual(plan["imagesGenerated"], 0)
+        self.assertEqual(plan["imagesApproved"], 0)
+        self.assertTrue(all(x["workflowStatus"] == "PLANNED_NOT_GENERATED"
+                            for x in plan["requests"]))
+        self.assertIn("recipe_000099", {x["id"] for x in plan["requests"]})
+        self.assertIn("smooth koshian", next(
+            x["prompt"] for x in plan["requests"] if x["id"] == "recipe_000099"))
+
     def test_reject_duplicate_and_unreviewable_item(self):
         config = {"adapterId": "test", "styleDirective": "original art"}
         profile = {"referenceFingerprint": "a" * 64}

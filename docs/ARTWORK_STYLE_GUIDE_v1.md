@@ -50,3 +50,12 @@ These examples bound a *range*, not one uniform density: the original 1–50 als
 ## Evidence limits
 
 A style/semantic metadata check only verifies that a declaration exists and is bound to the recipe and exact file bytes. Actual dish recognition and stylistic approval require inspected pixels and cannot be inferred from a clean CI job. An image-generation service error yields **zero newly corrected images**, not a pass.
+
+## Operational rework command (historical approvals are not enough)
+
+```bash
+python3 tool/cooking_visual_adapter.py --rework-only --output build/visual_batch/rework_20261127.json
+python3 tool/build_recipe_artwork_queue.py --rework-only --output build/authoring/rework_20261127.json
+```
+
+Both commands output **13 ID-specific work requests**, including previously approved assets. Their output is **PLANNED_NOT_GENERATED**, not artwork, visual approval or a merge. `--missing-only` now additionally includes flagged rework IDs; mark an item resolved in the source rework queue only after the actual corrected image has passed pixel review and landed in main.
