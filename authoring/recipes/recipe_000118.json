@@ -32,7 +32,7 @@
   "difficulty": "medium",
   "contentOrigin": "adapted",
   "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 10; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119. FAST_TRACK_162_WITNESSED_TRANSLATION_REPAIR.",
-  "imageAssetId": null,
+  "imageAssetId": "recipe_000118_artwork",
   "ingredients": [
     {
       "id": "base_udon_spessi_1",
