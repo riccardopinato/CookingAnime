@@ -14,8 +14,9 @@ import '../../domain/recipe.dart';
 /// returning from background never silently extends a cooking duration.
 /// No system alarms or background notifications are promised by this screen.
 class CookingModeScreen extends StatefulWidget {
-  const CookingModeScreen({super.key, required this.recipe});
+  const CookingModeScreen({super.key, required this.recipe, this.servings});
   final Recipe recipe;
+  final int? servings;
 
   @override
   State<CookingModeScreen> createState() => _CookingModeScreenState();
@@ -244,6 +245,8 @@ class _CookingModeScreenState extends State<CookingModeScreen>
     final steps = widget.recipe.steps;
     final index = _stepIndex;
     final step = steps[index];
+    final servings = widget.servings ?? widget.recipe.servings;
+    final servingsMultiplier = servings / widget.recipe.servings;
     final progress = _completed.length / steps.length;
     final reduceMotion = MediaQuery.maybeOf(context)?.disableAnimations ?? false;
     final activeStepIndex = steps.indexWhere((s) => s.id == _timerStepId);
@@ -271,6 +274,10 @@ class _CookingModeScreenState extends State<CookingModeScreen>
                     Text(widget.recipe.title,
                       style: theme.textTheme.headlineSmall?.copyWith(
                         fontWeight: FontWeight.w800)),
+                    const SizedBox(height: AppSpacing.small),
+                    Text('${l10n.shoppingServings}: $servings',
+                      style: theme.textTheme.bodyMedium?.copyWith(
+                        color: colors.onSurfaceVariant)),
                     const SizedBox(height: AppSpacing.large),
                     Container(
                       padding: const EdgeInsets.all(AppSpacing.medium),
@@ -429,7 +436,7 @@ class _CookingModeScreenState extends State<CookingModeScreen>
                       title: Text(l10n.ingredientsTitle),
                       children: [
                         for (final ingredient in widget.recipe.ingredients)
-                          ListTile(title: Text(ingredient.displayText)),
+                          ListTile(title: Text(ingredient.displayTextScaled(servingsMultiplier))),
                       ],
                     ),
                   ],
