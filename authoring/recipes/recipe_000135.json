@@ -32,7 +32,7 @@
   "difficulty": "easy",
   "contentOrigin": "adapted",
   "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
-  "imageAssetId": null,
+  "imageAssetId": "recipe_000135_artwork",
   "ingredients": [
     {
       "id": "melanzana_perline_o_corte_giapponesi",
