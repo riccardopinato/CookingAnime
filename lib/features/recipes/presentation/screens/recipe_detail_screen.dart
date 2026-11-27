@@ -85,6 +85,7 @@ class _RecipeDetailScreenState extends ConsumerState<RecipeDetailScreen> {
 
     final ingredients = _IngredientsPanel(
       recipe: recipe,
+      servingsMultiplier: _selectedServings / recipe.servings,
       checked: _checkedIngredients,
       onChanged: (index, value) {
         setState(() {
@@ -267,7 +268,7 @@ class _RecipeDetailScreenState extends ConsumerState<RecipeDetailScreen> {
                                 OutlinedButton.icon(
                                   onPressed: () => Navigator.of(context).push(
                                     MaterialPageRoute<void>(
-                                      builder: (_) => CookingModeScreen(recipe: recipe),
+                                      builder: (_) => CookingModeScreen(recipe: recipe, servings: _selectedServings),
                                     ),
                                   ),
                                   icon: const Icon(Icons.menu_book_rounded),
@@ -511,11 +512,13 @@ class _FactTile extends StatelessWidget {
 class _IngredientsPanel extends StatelessWidget {
   const _IngredientsPanel({
     required this.recipe,
+    required this.servingsMultiplier,
     required this.checked,
     required this.onChanged,
   });
 
   final Recipe recipe;
+  final double servingsMultiplier;
   final List<bool> checked;
   final void Function(int index, bool value) onChanged;
 
@@ -546,7 +549,7 @@ class _IngredientsPanel extends StatelessWidget {
               index < recipe.ingredients.length;
               index++) ...[
             _IngredientRow(
-              text: recipe.ingredients[index].displayText,
+              text: recipe.ingredients[index].displayTextScaled(servingsMultiplier),
               checked: checked[index],
               onChanged: (value) => onChanged(index, value),
             ),

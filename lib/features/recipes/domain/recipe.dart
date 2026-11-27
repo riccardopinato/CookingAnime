@@ -53,9 +53,13 @@ class RecipeIngredient {
   final String? unit;
   final String? note;
 
-  String get displayText {
+  String get displayText => displayTextScaled(1);
+
+  /// Scale quantities without altering canonical culinary metadata.
+  /// Notes and unquantified ingredients stay unchanged.
+  String displayTextScaled(double multiplier) {
     final parts = <String>[
-      if (quantity != null) _formatQuantity(quantity!),
+      if (quantity != null) _formatQuantity(quantity! * multiplier),
       if (unit != null && unit!.trim().isNotEmpty) unit!.trim(),
       name.trim(),
       if (note != null && note!.trim().isNotEmpty) '(${note!.trim()})',
