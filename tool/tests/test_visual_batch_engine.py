@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import importlib.util
+import json
 import sys
 import tempfile
 import unittest
@@ -48,16 +49,25 @@ class TestVisualBatchEngine(unittest.TestCase):
                          sum(n not in adapter.VISUAL_FACTS for n in still_missing))
         self.assertEqual(output["claims"]["imagesIntegrated"], 112 - len(still_missing))
 
-    def test_existing_rework_has_real_source_facts_but_no_false_generation(self):
+    def test_resolved_rework_is_no_longer_queued(self):
+        # The 13 visual issues from 27 Nov were replaced and SHA-reviewed.
+        # A rework-only batch must now be empty, rather than replay old tasks.
         plan = adapter.build(ROOT, rework_only=True)
-        self.assertEqual(plan["count"], 13)
+        self.assertEqual(plan["count"], 0)
         self.assertEqual(plan["imagesGenerated"], 0)
         self.assertEqual(plan["imagesApproved"], 0)
-        self.assertTrue(all(x["workflowStatus"] == "PLANNED_NOT_GENERATED"
-                            for x in plan["requests"]))
-        self.assertIn("recipe_000099", {x["id"] for x in plan["requests"]})
-        self.assertIn("smooth koshian", next(
-            x["prompt"] for x in plan["requests"] if x["id"] == "recipe_000099"))
+        self.assertEqual(plan["reworkIds"], [])
+        self.assertEqual(plan["requests"], [])
+        source = json.loads(
+            (ROOT / "authoring/artwork/rework_queue_20261127.json").read_text(
+                encoding="utf-8"
+            )
+        )
+        self.assertEqual(len(source["items"]), 13)
+        self.assertTrue(all(
+            item["status"] == "REPLACED_AND_VISUALLY_REVIEWED"
+            for item in source["items"]
+        ))
 
     def test_reject_duplicate_and_unreviewable_item(self):
         config = {"adapterId": "test", "styleDirective": "original art"}
