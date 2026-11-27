@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-11-27",
+  "statusNote": "The live main images and historical approved semantic-review metadata are unchanged; these are pending image corrections and cannot be called generated, vision-reviewed, or merged.",
+  "styleGuideVersion": "CA-ART-v1",
+  "items": [
+    {
+      "recipeId": "recipe_000080",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Pacific saury: short pointed beak, lower jaw a little longer, elongated silvery body, forked tail, grilled cuts, daikon and citrus",
+      "negative": "No extremely elongated needlefish snout"
+    },
+    {
+      "recipeId": "recipe_000081",
+      "priority": "P2",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Tamago sando: compact crustless shokupan, mixed egg-mayo filling, centered half-boiled-egg cross-section",
+      "negative": "No loose garnish or disassembled sandwich"
+    },
+    {
+      "recipeId": "recipe_000083",
+      "priority": "P2",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Tsukemen: chilled noodles with chashu and egg on plate, separate hot steaming concentrated dipping broth",
+      "negative": "No steam on cold noodles or one-bowl soup"
+    },
+    {
+      "recipeId": "recipe_000091",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Takikomi Gohan rice with chicken, shiitake, carrot, fried tofu; redraw in 2D cel shading",
+      "negative": "No photography or over-elaborate autumn scenery"
+    },
+    {
+      "recipeId": "recipe_000092",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Stir-fried sprouts, pork, carrot and scallion; simplified 2D food detail",
+      "negative": "No noodles or photorealism"
+    },
+    {
+      "recipeId": "recipe_000093",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Pork tonkatsu slices on rice with onion, egg and melted cheese; 2D drawn food",
+      "negative": "No western baked casserole or photoreal glossy cheese"
+    },
+    {
+      "recipeId": "recipe_000094",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Salmon, miso-dashi, napa cabbage, tofu, mushrooms, carrot, potato and butter in hotpot",
+      "negative": "No photoreal winter panorama dominating the food"
+    },
+    {
+      "recipeId": "recipe_000095",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Clear yuzu-shio chicken ramen with noodles, sliced chicken breast, menma, egg and yuzu peel",
+      "negative": "No pork chashu, no heavy broth"
+    },
+    {
+      "recipeId": "recipe_000096",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Clam chowder with opened clams, potato, carrot, onion and pancetta",
+      "negative": "No photographic harbor scene or 3D clams"
+    },
+    {
+      "recipeId": "recipe_000097",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Irregular crisp onion/carrot kakiage fritters, optional pieces of shrimp",
+      "negative": "No whole ebi-tempura sticks or photographic still-life"
+    },
+    {
+      "recipeId": "recipe_000098",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Sliced skin-on teriyaki chicken thigh on white rice, sesame and scallions",
+      "negative": "No pork or plastic shine"
+    },
+    {
+      "recipeId": "recipe_000099",
+      "priority": "P0",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "White boiled rice dumplings on skewers, smooth koshian red-bean puree and dusted kinako",
+      "negative": "No chunky tsubuan/whole visible beans"
+    },
+    {
+      "recipeId": "recipe_000100",
+      "priority": "P1",
+      "status": "NEEDS_REGENERATION_NOT_CERTIFIED",
+      "currentlyInMain": true,
+      "positive": "Curry udon: thick udon with Japanese curry-dashi, thin sliced beef or pork, onion and scallion",
+      "negative": "No irrelevant vegetables or photoreal noodle texture"
+    }
+  ]
+}

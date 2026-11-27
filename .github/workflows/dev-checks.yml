@@ -119,6 +119,9 @@ jobs:
       - name: Validate repository structure
         run: python3 tool/validate_structure.py
 
+      - name: Validate artwork style evidence (new JPEG assets)
+        run: python3 tool/artwork_style_gate.py
+
       - name: Validate F3K Italian baseline
         run: python3 tool/f3k_it_quality_gate.py
 

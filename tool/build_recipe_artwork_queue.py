@@ -12,6 +12,7 @@ from recipe_authoring_lib import (
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "authoring" / "catalog.json"
+STYLE_POLICY = ROOT / "authoring" / "artwork" / "style_policy.json"
 
 
 def build_queue(
@@ -22,6 +23,7 @@ def build_queue(
     ids: set[str] | None = None,
     missing_only: bool = False,
 ) -> list[dict]:
+    style = load_json(STYLE_POLICY)
     queue: list[dict] = []
     for recipe in sorted(recipes, key=lambda item: str(item["id"])):
         recipe_id = str(recipe["id"])
@@ -73,6 +75,12 @@ def build_queue(
                     "singleAsset": True,
                     "card": "same asset cropped by UI with BoxFit.cover",
                     "detail": "same asset shown uncropped with BoxFit.contain",
+                    "styleGuide": style["guidePath"],
+                    "styleGuideVersion": style["guideVersion"],
+                    "referenceArtworkIds": style["referenceIds"],
+                    "positiveVisualDirection": style["renderingPositive"],
+                    "negativeVisualDirection": style["renderingNegative"],
+                    "visualReviewBeforeApproval": True,
                 },
                 "semanticReviewRequired": True,
             }

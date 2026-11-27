@@ -57,12 +57,14 @@ VISUAL_FACTS = {
 }
 
 STYLE = (
-    "Create ONE original premium anime-inspired FOOD illustration, consistent "
-    "with the approved Cooking Anime 1-50 culinary art collection. "
-    "Close food-first framing, warm appetizing light, painterly highlights, "
-    "delicious glossy textures, crisp readable silhouette, minimal background, "
-    "balanced plate geometry, restrained editorial Japanese-contemporary feel. "
-    "Match overall art direction, not any protected animation studio or character."
+    "Create ONE original 2D anime-inspired FOOD illustration. Follow "
+    "docs/ARTWORK_STYLE_GUIDE_v1.md and the actual Cooking Anime 1-50 "
+    "reference corpus: hand-painted contours, simplified plausible food "
+    "materials, controlled cel-shading, readable hero dish and restrained "
+    "warm supporting background. Preserve canonical Italian ingredient and "
+    "preparation facts. Reject photorealism, 3D, plastic shine, heavy bokeh, "
+    "busy scenery, unrelated garnishes and identical repeated tableware. "
+    "No copied modern animation stills, characters, text or logos."
 )
 
 
