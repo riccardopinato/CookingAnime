@@ -9952,7 +9952,7 @@
         },
         {
           "id": "cipolla_e_1_carota_a_cubetti_2_carota_a_cubetti",
-          "quantity": 1.0,
+          "quantity": 1,
           "unit": "piece"
         },
         {
@@ -9977,7 +9977,7 @@
         },
         {
           "id": "latte_intero_e_100_ml_di_panna_da_cucina_2_panna_da_cucina",
-          "quantity": 100.0,
+          "quantity": 100,
           "unit": "ml"
         },
         {
