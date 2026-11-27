@@ -11,8 +11,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 POLICY = Path("authoring/artwork/style_policy.json")
 MANIFEST = Path("authoring/assets/manifest.json")
-HEX64 = re.compile(r"[a-f0-9]{64}\\Z")
-ID = re.compile(r"recipe_(\\d{6})\\Z")
+HEX64 = re.compile(r"[a-f0-9]{64}\Z")
+ID = re.compile(r"recipe_(\d{6})\Z")
 
 
 def check_review(asset: dict, policy: dict, *, source: bytes, content_version: int) -> list[str]:
@@ -36,7 +36,7 @@ def check_review(asset: dict, policy: dict, *, source: bytes, content_version: i
     sha = review.get("imageSha256")
     if not isinstance(sha, str) or HEX64.fullmatch(sha) is None or sha != hashlib.sha256(source).hexdigest():
         errors.append(f"{rid}: styleReview.imageSha256 does not match the committed bytes")
-    if not isinstance(review.get("reviewedAt"), str) or re.fullmatch(r"\\d{4}-\\d{2}-\\d{2}", review["reviewedAt"]) is None:
+    if not isinstance(review.get("reviewedAt"), str) or re.fullmatch(r"\d{4}-\d{2}-\d{2}", review["reviewedAt"]) is None:
         errors.append(f"{rid}: styleReview.reviewedAt must be YYYY-MM-DD")
     if not isinstance(review.get("note"), str) or len(review["note"].strip()) < 25:
         errors.append(f"{rid}: styleReview.note must document the visual check specifically")
