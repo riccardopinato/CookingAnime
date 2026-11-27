@@ -144,7 +144,7 @@
       "positive": "Curry udon: thick udon with Japanese curry-dashi, thin sliced beef or pork, onion and scallion",
       "negative": "No irrelevant vegetables or photoreal noodle texture",
       "resolvedAt": "2026-11-27",
-      "replacementSha256": "3820cc3d0530d40a90be16769b80088cf8a11df130d2c7d4c7b2b9b7745c26a3",
+      "replacementSha256": "c25f1f8e21ce609c89d0a6901363fe9bda5e7872aae00ed4d861c83eaab288eb",
       "note": "Individual original 2D anime image generated and visually reviewed. Release is verified separately by PR exact-head CI and merge."
     }
   ]
