@@ -17,7 +17,7 @@ The product should feel warm, illustrated and playful without presenting itself 
 1. **Explore** — search, anime/reference filters, difficulty filters, responsive recipe grid.
 2. **Recipe detail** — ingredients, steps, times, difficulty, timer and ingredient checklist.
 3. **Favorites** — persistent saved stable recipe IDs.
-4. **Shopping** — persistent shopping items and manual additions; later add ingredients from recipes.
+4. **Shopping** — persistent manual items plus recipe-to-list import, selectable servings, conservative quantity aggregation and editable category groups.
 5. **Settings** — device language by default, manual language override, system/light/dark theme.
 6. **Monetization boundary** — free by default, provider-agnostic Premium/Lifetime state, future safe ads + Remove Ads.
 
@@ -26,6 +26,12 @@ The product should feel warm, illustrated and playful without presenting itself 
 F0 foundation, F1 runtime catalog contract, F2 authoring/import pipeline and F3A content ingestion are complete.
 
 The production catalog contains 162 published recipes. Recipes 1–152, 154, and 156–162 have version-bound original 2D anime artwork (160/162); recipes 153 (Tori Tsukune) and 155 (Buri Daikon) still use the deterministic fallback while their images await correction and visual approval. F3K is hardening recipes 51–162 with an Italian-first source-of-truth rule: the complete Italian editorial baseline must reach 112/112 PASS before EN/ES/FR/DE/PT are regenerated. Existing translated runtime content remains installed until that refresh is completed; it is not treated as the new editorial source.
+
+## Cooking Mode and shopping — Maxi-step 1
+
+Guided cooking uses a dedicated readable step-by-step view, step-ID-based offline progress, optional per-step countdowns and an active-screen preference limited to that view. Timekeeping uses absolute deadlines when the app returns from background; it does **not** create Android/iOS background notifications or a safety-critical alarm. Shopping is local-first and user-owned: scale ingredient quantities for 1–99 servings, aggregate only identical localized ingredient names with identical units, conservatively categorize by canonical ID, and allow manual reassignment. Legacy shopping JSON remains readable. No changes to canonical recipe IDs, authoring, semantic approval or artwork.
+
+Visual adaptation: Design-App/RXN circular progress adapted natively to app color tokens, reduced motion and accessibility; maintain the Japanese-editorial identity rather than adopting generic stock Material templates.
 
 ## UX direction
 
