@@ -18,7 +18,7 @@ class CookingSession {
     if (remaining == null) return null;
     if (deadlineEpochMs == null) return remaining;
     final left = ((deadlineEpochMs! - nowEpochMs) / 1000).ceil();
-    return left.clamp(0, remaining);
+    return left.clamp(0, remaining).toInt();
   }
 
   Map<String, dynamic> toJson() => {

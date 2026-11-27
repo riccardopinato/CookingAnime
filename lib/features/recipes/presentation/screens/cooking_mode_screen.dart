@@ -111,7 +111,9 @@ class _CookingModeScreenState extends State<CookingModeScreen>
     _ticker?.cancel();
     if (_deadlineEpochMs == null) return;
     _tick();
-    _ticker = Timer.periodic(const Duration(seconds: 1), (_) => _tick());
+    if (_deadlineEpochMs != null) {
+      _ticker = Timer.periodic(const Duration(seconds: 1), (_) => _tick());
+    }
   }
 
   void _tick() {
