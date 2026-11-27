@@ -1,45 +1,89 @@
-name: Fast Track audit 162 x 6 and witnessed translation repairs
+name: Fast Track — 162 x 6 canonical review queue
 
 on:
-  push:
-    branches:
-      - feat/fast-track-editorial-audit-162-20261119
+  pull_request:
+    branches: [main]
     paths:
-      - 'tool/fast_track_catalog_audit.py'
+      - 'authoring/recipes/**'
+      - 'assets/catalog/**'
+      - 'tool/fast_track_162_queue.py'
+      - 'tool/full_catalog_qa.py'
+      - 'tool/semantic_qa_adapter.py'
+      - 'tool/fast_track_recipe_inventory.py'
+      - 'tool/tests/test_fast_track_162_queue.py'
       - '.github/workflows/fast-track-audit-162.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'authoring/recipes/**'
+      - 'assets/catalog/**'
+      - 'tool/fast_track_162_queue.py'
+      - 'tool/full_catalog_qa.py'
+      - 'tool/semantic_qa_adapter.py'
+      - 'tool/fast_track_recipe_inventory.py'
+      - '.github/workflows/fast-track-audit-162.yml'
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: fast-track-audit-162
-  cancel-in-progress: false
+  group: cooking-fasttrack-162-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  audit-apply:
+  inventory:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - name: Checkout audited branch
-        uses: actions/checkout@v4
+      - name: Checkout exact source (no write credentials)
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          ref: feat/fast-track-editorial-audit-162-20261119
-          persist-credentials: true
-      - uses: actions/setup-python@v5
+          persist-credentials: false
+
+      - name: Python 3.12
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v6.1.0
         with:
           python-version: '3.12'
-      - name: Audit full 162 recipe x six locale matrix and repair evidenced errors
+
+      - name: Verify deterministic work-lane regression tests
+        run: python3 -m unittest discover -s tool/tests -p 'test_fast_track_162_queue.py' -v
+
+      - name: Generate the full 162 x 6 read-only inventory
         run: |
-          python3 tool/fast_track_catalog_audit.py --apply
-          python3 tool/compile_recipe_catalog.py
-          python3 tool/compile_recipe_catalog.py --check
-          python3 tool/validate_recipe_catalog.py
-          python3 -m unittest discover -s tool/tests -p 'test_f3l_translation_gate.py'
-      - name: Commit only corrected recipes, runtime packs, and audit report
+          set -euo pipefail
+          mkdir -p build/fast_track
+          python3 tool/full_catalog_qa.py --report build/fast_track/full_catalog_qa.json
+          python3 tool/fast_track_recipe_inventory.py --output build/fast_track/inventory.json
+          python3 tool/fast_track_162_queue.py --output build/fast_track/queue.json --batch-size 100
+
+      - name: Verify 100 + 62 disjoint lanes and provenance (no semantic PASS claim)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add authoring/recipes assets/catalog docs/f3l_editorial/FAST_TRACK_162_CATALOG_AUDIT.json
-          if ! git diff --cached --quiet; then
-            git commit -m "content(recipes): repair witnessed locale errors; audit 162 records in six languages"
-            git push origin HEAD:refs/heads/feat/fast-track-editorial-audit-162-20261119
-          fi
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('build/fast_track/queue.json')
+          q=json.loads(p.read_text(encoding='utf-8'))
+          assert q['countCanonicalIds']==162
+          assert q['totalLocaleRecordsExpected']==972
+          assert q['structurallyInspectedTranslationPairs']==810
+          assert q['mode']=='OFFLINE_STRUCTURAL_TRIAGE_ONLY'
+          assert q['semanticallyReviewedByAI']==0
+          assert q['semanticallyCertifiedPairs']==0
+          assert q['semanticCertification']=='NOT_CERTIFIED'
+          b=q['batches']
+          assert [x['count'] for x in b]==[100,62]
+          ids=[rid for x in b for rid in x['ids']]
+          assert len(ids)==len(set(ids))==162
+          assert len(q['recipes'])==162
+          print('FASTTRACK_162_6_PROVENANCE_PASS',len(ids),q['structuralStatusCounts'])
+          PY
+
+      - name: Preserve inspectable reports, not a fictional certification
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: cooking-fast-track-162-source-${{ github.sha }}
+          path: build/fast_track/*.json
+          if-no-files-found: warn
+          retention-days: 14
