@@ -72,7 +72,7 @@ String shoppingCategoryFromIngredientId(String canonicalId) {
   final id = canonicalId.toLowerCase();
   // Stable Italian canonical ingredient IDs avoid locale-dependent categorisation.
   // Ambiguous compounds remain 'other'; users can move items between groups.
-  if (RegExp(r'pollo|maiale|manzo|gamber|salmone|tonno|uov[oa]|pesce|anatra|granchio|vongol|calamar|buri|tofu|carne_macinat').hasMatch(id)) {
+  if (RegExp(r'(^|_)pollo($|_)|maiale|manzo|gamber|salmone|tonno|uov[oa]|pesce|anatra|granchio|vongol|calamar|buri|tofu|carne_macinat').hasMatch(id)) {
     return 'protein';
   }
   if (RegExp(r'latte|burro|panna|formagg|mozzarella|yogurt|ricotta').hasMatch(id)) {
