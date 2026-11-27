@@ -20,7 +20,7 @@
   "emptyFavoritesBody": "Recipes you save will appear here.",
   "shoppingTitle": "Shopping list",
   "shoppingEmptyTitle": "Your shopping list is empty",
-  "shoppingEmptyBody": "Add an ingredient manually now, or later from a recipe.",
+  "shoppingEmptyBody": "Your shopping list is empty. Add ingredients from a recipe or manually.",
   "addItem": "Add item",
   "addIngredientTitle": "Add ingredient",
   "addIngredientHint": "e.g. soy sauce",
@@ -72,5 +72,11 @@
   "animeRelationInspired": "Inspired by",
   "animeSeasonLabel": "Season",
   "animeEpisodeLabel": "Episode",
-  "animeChapterLabel": "Chapter"
+  "animeChapterLabel": "Chapter",
+  "cookingModeLaunch": "Cooking mode",
+  "shoppingAddRecipe": "Add to shopping list",
+  "shoppingServings": "Servings to prepare",
+  "shoppingLessServings": "Fewer servings",
+  "shoppingMoreServings": "More servings",
+  "shoppingAddedFromRecipe": "Ingredients added to the shopping list."
 }

@@ -142,11 +142,19 @@ class ShoppingListScreen extends ConsumerWidget {
                             ),
                           ),
                           child: Card(
+                            elevation: 0,
+                            clipBehavior: Clip.antiAlias,
+                            color: item.isBought
+                                ? Theme.of(context).colorScheme.surfaceContainerLow
+                                : Theme.of(context).colorScheme.surfaceContainerHigh,
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(AppRadii.card),
+                            ),
                             child: CheckboxListTile(
                               value: item.isBought,
                               controlAffinity: ListTileControlAffinity.leading,
                               title: Text(
-                                item.name,
+                                item.displayText,
                                 style: TextStyle(
                                   decoration: item.isBought
                                       ? TextDecoration.lineThrough

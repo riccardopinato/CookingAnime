@@ -20,7 +20,7 @@
   "emptyFavoritesBody": "Le ricette che salverai compariranno qui.",
   "shoppingTitle": "Lista della spesa",
   "shoppingEmptyTitle": "La lista della spesa è vuota",
-  "shoppingEmptyBody": "Aggiungi ora un ingrediente manualmente oppure più avanti direttamente da una ricetta.",
+  "shoppingEmptyBody": "La lista della spesa è vuota: aggiungi ingredienti da una ricetta o manualmente.",
   "addItem": "Aggiungi",
   "addIngredientTitle": "Aggiungi ingrediente",
   "addIngredientHint": "es. salsa di soia",
@@ -72,5 +72,11 @@
   "animeRelationInspired": "Ispirato a",
   "animeSeasonLabel": "Stagione",
   "animeEpisodeLabel": "Episodio",
-  "animeChapterLabel": "Capitolo"
+  "animeChapterLabel": "Capitolo",
+  "cookingModeLaunch": "Modalità cucina",
+  "shoppingAddRecipe": "Aggiungi alla spesa",
+  "shoppingServings": "Porzioni da preparare",
+  "shoppingLessServings": "Diminuisci porzioni",
+  "shoppingMoreServings": "Aumenta porzioni",
+  "shoppingAddedFromRecipe": "Ingredienti aggiunti alla lista della spesa."
 }

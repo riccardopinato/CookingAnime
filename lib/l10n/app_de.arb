@@ -20,7 +20,7 @@
   "emptyFavoritesBody": "Gespeicherte Rezepte erscheinen hier.",
   "shoppingTitle": "Einkaufsliste",
   "shoppingEmptyTitle": "Deine Einkaufsliste ist leer",
-  "shoppingEmptyBody": "Füge jetzt eine Zutat manuell oder später aus einem Rezept hinzu.",
+  "shoppingEmptyBody": "Deine Einkaufsliste ist leer. Füge Zutaten aus einem Rezept oder manuell hinzu.",
   "addItem": "Hinzufügen",
   "addIngredientTitle": "Zutat hinzufügen",
   "addIngredientHint": "z. B. Sojasauce",
@@ -72,5 +72,11 @@
   "animeRelationInspired": "Inspiriert von",
   "animeSeasonLabel": "Staffel",
   "animeEpisodeLabel": "Episode",
-  "animeChapterLabel": "Kapitel"
+  "animeChapterLabel": "Kapitel",
+  "cookingModeLaunch": "Kochmodus",
+  "shoppingAddRecipe": "Zur Einkaufsliste",
+  "shoppingServings": "Portionen zubereiten",
+  "shoppingLessServings": "Weniger Portionen",
+  "shoppingMoreServings": "Mehr Portionen",
+  "shoppingAddedFromRecipe": "Zutaten zur Einkaufsliste hinzugefügt."
 }

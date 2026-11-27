@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+import '../../../shopping/application/shopping_provider.dart';
+import 'cooking_mode_screen.dart';
 
 import '../../../../core/theme/app_design_tokens.dart';
 import '../../../../core/widgets/motion_entrance.dart';
@@ -7,7 +11,7 @@ import '../../domain/recipe.dart';
 import '../widgets/cooking_timer_widget.dart';
 import '../widgets/recipe_artwork.dart';
 
-class RecipeDetailScreen extends StatefulWidget {
+class RecipeDetailScreen extends ConsumerStatefulWidget {
   const RecipeDetailScreen({
     super.key,
     required this.recipe,
@@ -16,15 +20,17 @@ class RecipeDetailScreen extends StatefulWidget {
   final Recipe recipe;
 
   @override
-  State<RecipeDetailScreen> createState() => _RecipeDetailScreenState();
+  ConsumerState<RecipeDetailScreen> createState() => _RecipeDetailScreenState();
 }
 
-class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
+class _RecipeDetailScreenState extends ConsumerState<RecipeDetailScreen> {
   late List<bool> _checkedIngredients;
+  late int _selectedServings;
 
   @override
   void initState() {
     super.initState();
+    _selectedServings = widget.recipe.servings;
     _checkedIngredients = List<bool>.filled(
       widget.recipe.ingredients.length,
       false,
@@ -202,6 +208,75 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
                             value: '${recipe.servings}',
                           ),
                         ],
+                      ),
+                      const SizedBox(height: AppSpacing.large),
+                      Container(
+                        padding: const EdgeInsets.all(AppSpacing.medium),
+                        decoration: BoxDecoration(
+                          color: colors.primaryContainer.withValues(alpha: 0.44),
+                          borderRadius: BorderRadius.circular(AppRadii.container),
+                        ),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.stretch,
+                          children: [
+                            Row(
+                              children: [
+                                const Icon(Icons.restaurant_menu_rounded),
+                                const SizedBox(width: AppSpacing.small),
+                                Expanded(
+                                  child: Text(l10n.shoppingServings,
+                                      style: theme.textTheme.titleMedium),
+                                ),
+                                IconButton.filledTonal(
+                                  tooltip: l10n.shoppingLessServings,
+                                  onPressed: _selectedServings <= 1
+                                      ? null
+                                      : () => setState(() => _selectedServings--),
+                                  icon: const Icon(Icons.remove),
+                                ),
+                                Padding(
+                                  padding: const EdgeInsets.symmetric(horizontal: 12),
+                                  child: Text('$_selectedServings',
+                                    style: theme.textTheme.titleLarge),
+                                ),
+                                IconButton.filledTonal(
+                                  tooltip: l10n.shoppingMoreServings,
+                                  onPressed: _selectedServings >= 99
+                                      ? null
+                                      : () => setState(() => _selectedServings++),
+                                  icon: const Icon(Icons.add),
+                                ),
+                              ],
+                            ),
+                            const SizedBox(height: AppSpacing.small),
+                            Wrap(
+                              spacing: AppSpacing.small,
+                              runSpacing: AppSpacing.small,
+                              children: [
+                                FilledButton.icon(
+                                  onPressed: () {
+                                    ref.read(shoppingProvider.notifier).addRecipe(
+                                      recipe, servings: _selectedServings);
+                                    ScaffoldMessenger.of(context).showSnackBar(
+                                      SnackBar(content: Text(l10n.shoppingAddedFromRecipe)),
+                                    );
+                                  },
+                                  icon: const Icon(Icons.add_shopping_cart_rounded),
+                                  label: Text(l10n.shoppingAddRecipe),
+                                ),
+                                OutlinedButton.icon(
+                                  onPressed: () => Navigator.of(context).push(
+                                    MaterialPageRoute<void>(
+                                      builder: (_) => CookingModeScreen(recipe: recipe),
+                                    ),
+                                  ),
+                                  icon: const Icon(Icons.menu_book_rounded),
+                                  label: Text(l10n.cookingModeLaunch),
+                                ),
+                              ],
+                            ),
+                          ],
+                        ),
                       ),
                       const SizedBox(height: AppSpacing.xLarge),
                       if ((recipe.animeContext != null &&
