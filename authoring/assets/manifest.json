@@ -1876,6 +1876,256 @@
         "reviewedAt": "2026-11-27",
         "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Yakisoba noodles under golden thin omelet with sauce, mayonnaise and red pickled ginger."
       }
+    },
+    {
+      "id": "recipe_000121_artwork",
+      "path": "assets/recipe_artwork/recipe_000121.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000121",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Tall airy Japanese soufflé cheesecake with a slice revealing fluffy fine crumb."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "2efd42f5cb7008703bf8cfa4e51d5258ba6ed4166c46bd0d42bb281d780d9bd9",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Tall airy Japanese soufflé cheesecake with a slice revealing fluffy fine crumb."
+      }
+    },
+    {
+      "id": "recipe_000122_artwork",
+      "path": "assets/recipe_artwork/recipe_000122.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000122",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Cold watermelon cubes and white shiratama dumplings in light sparkling lemon soda."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "108983e0c6240a5e49ea753c5e16957ce5d519249f29280e3c21f19fa52f68ac",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Cold watermelon cubes and white shiratama dumplings in light sparkling lemon soda."
+      }
+    },
+    {
+      "id": "recipe_000123_artwork",
+      "path": "assets/recipe_artwork/recipe_000123.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000123",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 9,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Delicate chicken and cooked egg zosui rice soup in dashi with scallion."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 9,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "c9b6ad2b31ba0aa2dac0b9b2fa306c707f72a43e3ec3bcdc4f509df89d24d3d3",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Delicate chicken and cooked egg zosui rice soup in dashi with scallion."
+      }
+    },
+    {
+      "id": "recipe_000124_artwork",
+      "path": "assets/recipe_artwork/recipe_000124.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000124",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Uni sea urchin roe lobes over warm sushi rice with nori and wasabi."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 4,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "8d0b71cfe84179acf22ce397678d82ac79eb692aefa79186d41feaad7eb5d1c3",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Uni sea urchin roe lobes over warm sushi rice with nori and wasabi."
+      }
+    },
+    {
+      "id": "recipe_000125_artwork",
+      "path": "assets/recipe_artwork/recipe_000125.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000125",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Golden cone-shaped spiral sweet bread filled with dark chocolate cream."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "129a085480c0773616dbc8441a6e9d0fde4c366d2fb1d7ae4f7fcb294f1a21b3",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Golden cone-shaped spiral sweet bread filled with dark chocolate cream."
+      }
+    },
+    {
+      "id": "recipe_000126_artwork",
+      "path": "assets/recipe_artwork/recipe_000126.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000126",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Mixed Osaka kushikatsu skewers with fried panko bites, lotus root, shrimp and dipping sauce."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000035",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "50a1159edb1dfefef672e8b4768f2e7918b67d05eb1b595856a9ea33dbb46adc",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Mixed Osaka kushikatsu skewers with fried panko bites, lotus root, shrimp and dipping sauce."
+      }
+    },
+    {
+      "id": "recipe_000127_artwork",
+      "path": "assets/recipe_artwork/recipe_000127.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000127",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Transparent raindrop water mochi served with kinako and dark kuromitsu."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "03bbc77dd639fbfc2b976bb8ec097e55f1f376232c46fc1e89426e444c6b2434",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Transparent raindrop water mochi served with kinako and dark kuromitsu."
+      }
+    },
+    {
+      "id": "recipe_000128_artwork",
+      "path": "assets/recipe_artwork/recipe_000128.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000128",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Brown Japanese cocoa-and-apple curry with meat, onion, potato, carrot over rice."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "532aa2f6d9a62847c41027ae351e42cc01c4c5c13d400304c9dadd73f6eb24e1",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Brown Japanese cocoa-and-apple curry with meat, onion, potato, carrot over rice."
+      }
+    },
+    {
+      "id": "recipe_000129_artwork",
+      "path": "assets/recipe_artwork/recipe_000129.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000129",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Hot brown soba noodle soup with thin pork and charred leek."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "dc17c5d7f03805d5b049e6c5aa1a5c49701717c5a40f59984f5daacf1d517ca0",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Hot brown soba noodle soup with thin pork and charred leek."
+      }
+    },
+    {
+      "id": "recipe_000130_artwork",
+      "path": "assets/recipe_artwork/recipe_000130.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000130",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Udon in light dashi with two crisp ebi-tempura prawns and scallion."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "90d45700d4af2ae1724a2918fb8a9d918bce9d7c5575be366a9190e3e80d21d7",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Udon in light dashi with two crisp ebi-tempura prawns and scallion."
+      }
     }
   ]
 }
