@@ -3772,7 +3772,7 @@
         "step_7": "Ponlo en una olla, calienta el caldo de pollo junto con la leche de soja sin hervirlo fuerte para evitar que la leche se cague.",
         "step_8": "Añade el caldo caliente en los cuencos y mezcla bien con las varillas para disolver la pasta de sésamo en el fondo.",
         "step_9": "Cocine los fideos de ramen en agua hirviendo durante 2 minutos, escríbalos cuidadosamente y agilízalos en el caldo.",
-        "step_10": "Guárdate en el centro con una generosa cucharada de carne picante, las hojas de bok choy desmenuzadas y una pulverizada de cebolleta fresca picada."
+        "step_10": "Coloca en el centro una cucharada generosa de carne picante, las hojas de bok choy escaldadas y un poco de cebolleta fresca picada."
       }
     },
     "recipe_000072": {
@@ -4394,7 +4394,7 @@
         "step_1": "En una olla, Nabe (o olla grande) coloca el agua, el alga Kombu y los pedazos de pollo con el hueso.",
         "step_2": "Trae a ebullición lento a fuego medio eliminando constantemente la espuma en la superficie con una espuma para obtener un caldo límpido y rico.",
         "step_3": "Después de 20 minutos, retira el alga Kombu, añade el Sake y deja que el pollo se cocine durante otros 15 minutos hasta que la carne se ponga tierna y el caldo blanco opalescente.",
-        "step_4": "Junta la col china cortada en pedazos, los hongos Shiitake grabados a estrella, las cebolletas y el tofu a cubos.",
+        "step_4": "Añade la col china troceada, las setas shiitake con cortes en forma de estrella, las cebolletas y el tofu en dados.",
         "step_5": "Cocine durante 8-10 minutos hasta que las verduras se mantengan.",
         "step_6": "Pon la olla en el centro de la mesa.",
         "step_7": "Cada comensal toma trozos de pollo y verduras mojándolos en la salsa Ponzu fresca."
@@ -4808,7 +4808,7 @@
       "stepTexts": {
         "step_1": "Prepara el tatar: en una olla calienta salsa de soja, mirin, jengibre y ajo durante 3 minutos a fuego bajo, luego filtra.",
         "step_2": "Calienta el caldo de pollo o dashi hasta que se marque ligeramente y mantenlo listo sin que se reduzca excesivamente.",
-        "step_3": "Prepara los toppings antes de los fideos: corta el chashu, corta a la mitad de la litiajitama, tritura la cebolleta y porciona narutomaki y nori.",
+        "step_3": "Prepara los acompañamientos antes de cocer los fideos: corta el chashu en lonchas, parte por la mitad el huevo ajitama, pica la cebolleta y prepara las porciones de narutomaki y nori.",
         "step_4": "Derrama el tarro sobre el fondo de dos cuencos de ramen precalentados y añade el caldo caliente, mezclando para distribuir uniformemente el condimento.",
         "step_5": "Cocine los fideos frescos en abundante agua hirviendo durante unos 2 minutos o por el tiempo indicado por el fabricante; escúrrelos con cuidado sin enjuagarlos.",
         "step_6": "Transfiera los fideos al caldo y sepárense con los palillos para que no se queden apilados.",
@@ -6653,11 +6653,11 @@
         }
       },
       "stepTexts": {
-        "step_1": "Prepara el mentsuyu y deja que se enfríe completamente en la nevera; pepino, cebolleta y nori y mantén el tenkasu seco hasta el servicio.",
+        "step_1": "Prepara el mentsuyu y enfríalo por completo en la nevera. Corta el pepino y la cebolleta en rodajas, el nori en tiras y mantén el tenkasu seco hasta servir.",
         "step_2": "Cuece los udon en abundante agua hirviendo hasta que queden elásticos, pero aún firmes.",
         "step_3": "Escurrir y enfriar inmediatamente bajo agua corriente muy fría, luego pasarlos en agua y hielo para detener completamente la cocción.",
         "step_4": "Escurrir los udon con cuidado y sacudir bien: el agua residual diluiría el mentsuyu.",
-        "step_5": "Dispárale en los cuencos y añade pepino, huevo, cebolleta y nori.",
+        "step_5": "Reparte los fideos entre los cuencos y añade pepino, huevo, cebolleta y nori.",
         "step_6": "Añade el tenkasu sólo en el último momento, para que siga siendo crujiente.",
         "step_7": "Vierta el mentsuyu frío inmediatamente antes de servir y mezclar en la mesa."
       }
@@ -7634,7 +7634,7 @@
         "step_6": "Aprieta la superficie con poco aceite y dobla cada disco por la mitad, en forma de concha, insertando un trozo de papel horno en el interior para evitar que se quede.",
         "step_7": "Deja reposar los sándwiches durante 15 minutos, luego cocínalos en la cesta de vapor durante unos 12 minutos a fuego medio.",
         "step_8": "Abre suavemente los sándwiches calientes, elimina el papel del horno interior.",
-        "step_9": "Haz con rodajas de Chashu bien glaseadas con su salsa, rodajas de pepino fresco, cebolleta y un hilo de mayonesa."
+        "step_9": "Rellena los panes al vapor con lonchas de chashu glaseadas con su salsa, rodajas de pepino fresco, cebolleta y un poco de mayonesa."
       }
     },
     "recipe_000152": {
@@ -7899,7 +7899,7 @@
         "step_5": "Calienta bien el caldo en las almejas sin que se reduzca excesivamente.",
         "step_6": "Cocine los fideos para ramen en abundante agua hirviendo durante 2 minutos y escurrir.",
         "step_7": "Reparte los fideos en los cuencos y cúbrelos con caldo caliente en las almejas.",
-        "step_8": "Coloca sobre las almejas en la cáscara, el maíz y la cebolleta fresca; completa con una nuez de mantequilla, que se derrite atando el caldo marinero."
+        "step_8": "Coloca encima las almejas con sus conchas, el maíz dulce y la cebolleta fresca. Añade una nuez de mantequilla para enriquecer el caldo al derretirse."
       }
     },
     "recipe_000157": {

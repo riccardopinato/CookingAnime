@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000151",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Dragon Ball",
   "animeReferences": [
@@ -188,7 +188,7 @@
         "step_6": "Brush the surface with little oil and fold each disc in half, shaped like a shell, inserting a piece of paper oven inside to prevent it from being sold.",
         "step_7": "Leave the sandwiches to rest for 15 minutes, then cook in the steam basket for about 12 minutes on medium heat.",
         "step_8": "Gently open the hot sandwiches, remove the inside baking paper.",
-        "step_9": "Make with Chashu slices well frosted with its sauce, slices of fresh cucumber, spring onion and a thread of mayonnaise."
+        "step_9": "Fill the steamed buns with chashu slices glazed in their sauce, fresh cucumber slices, spring onion and a drizzle of mayonnaise."
       }
     },
     "it": {
@@ -312,7 +312,7 @@
         "step_6": "Aprieta la superficie con poco aceite y dobla cada disco por la mitad, en forma de concha, insertando un trozo de papel horno en el interior para evitar que se quede.",
         "step_7": "Deja reposar los sándwiches durante 15 minutos, luego cocínalos en la cesta de vapor durante unos 12 minutos a fuego medio.",
         "step_8": "Abre suavemente los sándwiches calientes, elimina el papel del horno interior.",
-        "step_9": "Haz con rodajas de Chashu bien glaseadas con su salsa, rodajas de pepino fresco, cebolleta y un hilo de mayonesa."
+        "step_9": "Rellena los panes al vapor con lonchas de chashu glaseadas con su salsa, rodajas de pepino fresco, cebolleta y un poco de mayonesa."
       }
     },
     "fr": {
@@ -374,7 +374,7 @@
         "step_6": "Spennelle la surface avec peu d'huile et plie chaque disque en moitié, en forme de coquille, en insérant un morceau de papier four à l'intérieur pour éviter qu'il ne se solde.",
         "step_7": "Laissez reposer les sandwichs pendant 15 minutes, puis faites cuire dans le panier à vapeur pendant environ 12 minutes à feu moyen.",
         "step_8": "Ouvrez doucement les sandwichs chauds, éliminez le papier four intérieur.",
-        "step_9": "Faites avec des tranches de Chashu bien glaciées avec sa sauce, des tranches de concombre frais, des cébettes et un fil de mayonnaise."
+        "step_9": "Garnissez les pains vapeur de tranches de chashu nappées de sauce, de rondelles de concombre frais, de cébette et d’un filet de mayonnaise."
       }
     },
     "de": {

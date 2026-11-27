@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "baselineMain": "49d876fa63d2256b96f65b17577b04a759ade371",
+  "scope": "Source-bound targeted editorial repairs. NOT a complete linguistic/cooking certification.",
+  "recipesUpdated": 8,
+  "fieldsUpdated": 20,
+  "localesChanged": {
+    "es": 7,
+    "fr": 7,
+    "en": 6
+  },
+  "ids": [
+    "recipe_000071",
+    "recipe_000076",
+    "recipe_000078",
+    "recipe_000082",
+    "recipe_000090",
+    "recipe_000131",
+    "recipe_000151",
+    "recipe_000156"
+  ],
+  "sourceRuntimeParityVerifiedInMemory": true,
+  "untouched": [
+    "Italian source texts",
+    "canonical IDs",
+    "ingredients/quantities",
+    "timers",
+    "anime references",
+    "image files"
+  ],
+  "notes": "Review each correction against the canonical Italian step. Semantic and artwork review version references are carried forward only because Italian food composition and JPEG bytes are unchanged. Test exact commit with compiler --check, full unit tests and Flutter/Android CI."
+}
