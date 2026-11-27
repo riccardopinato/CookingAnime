@@ -855,9 +855,9 @@
       "recipeId": "recipe_000071",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 6,
+        "reviewedContentVersion": 7,
         "reviewedAt": "2026-11-26",
-        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; spicy minced pork and bok choy in creamy red sesame ramen; 2D drawn, no unrelated fish. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; spicy minced pork and bok choy in creamy red sesame ramen; 2D drawn, no unrelated fish. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
       }
     },
     {
@@ -915,9 +915,9 @@
       "recipeId": "recipe_000076",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 5,
+        "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-26",
-        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; lightly fried tofu cubes with grated daikon, scallion and surrounding dashi. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; lightly fried tofu cubes with grated daikon, scallion and surrounding dashi. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
       }
     },
     {
@@ -939,9 +939,9 @@
       "recipeId": "recipe_000078",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 5,
+        "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-26",
-        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; pink-orange cooked shrimp in red ginger chili sauce with separate rice. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; pink-orange cooked shrimp in red ginger chili sauce with separate rice. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
       }
     },
     {
@@ -1013,9 +1013,9 @@
       "recipeId": "recipe_000082",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 6,
+        "reviewedContentVersion": 7,
         "reviewedAt": "2026-11-26",
-        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: chicken mizutaki nabe with tofu, napa cabbage, shiitake and ponzu. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: chicken mizutaki nabe with tofu, napa cabbage, shiitake and ponzu. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
       }
     },
     {
@@ -1122,9 +1122,9 @@
       "recipeId": "recipe_000090",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 6,
+        "reviewedContentVersion": 7,
         "reviewedAt": "2026-11-26",
-        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: clear amber shoyu broth ramen with chashu, ajitama, naruto and nori. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: clear amber shoyu broth ramen with chashu, ajitama, naruto and nori. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
       }
     },
     {
@@ -2134,14 +2134,14 @@
       "recipeId": "recipe_000131",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 5,
+        "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-27",
-        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Cold thick udon with tenkasu crunch, shredded cucumber, cooked egg, scallion, nori and separate cold mentsuyu; no steam."
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Cold thick udon with tenkasu crunch, shredded cucumber, cooked egg, scallion, nori and separate cold mentsuyu; no steam. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
       },
       "styleReview": {
         "status": "approved",
         "guideVersion": "CA-ART-v1",
-        "reviewedContentVersion": 5,
+        "reviewedContentVersion": 6,
         "referenceIds": [
           "recipe_000005",
           "recipe_000025",
@@ -2149,7 +2149,7 @@
         ],
         "imageSha256": "ce51e722c05dd35caa61e409b94c790fce1ba06b27f6b45277e9398860a2d97e",
         "reviewedAt": "2026-11-27",
-        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Cold thick udon with tenkasu crunch, shredded cucumber, cooked egg, scallion, nori and separate cold mentsuyu; no steam."
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Cold thick udon with tenkasu crunch, shredded cucumber, cooked egg, scallion, nori and separate cold mentsuyu; no steam. Localization-only update, artwork bytes and canonical food composition unchanged."
       }
     },
     {
@@ -2634,14 +2634,14 @@
       "recipeId": "recipe_000151",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 5,
+        "reviewedContentVersion": 6,
         "reviewedAt": "2026-11-27",
-        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Folded fluffy steamed white clamshell buns filled with glossy pork chashu, cucumber and scallion."
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Folded fluffy steamed white clamshell buns filled with glossy pork chashu, cucumber and scallion. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
       },
       "styleReview": {
         "status": "approved",
         "guideVersion": "CA-ART-v1",
-        "reviewedContentVersion": 5,
+        "reviewedContentVersion": 6,
         "referenceIds": [
           "recipe_000005",
           "recipe_000025",
@@ -2649,7 +2649,7 @@
         ],
         "imageSha256": "034a66984405513fb12c48b54e2878cca592241253fc09157e9cee260ded2a2a",
         "reviewedAt": "2026-11-27",
-        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Folded fluffy steamed white clamshell buns filled with glossy pork chashu, cucumber and scallion."
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Folded fluffy steamed white clamshell buns filled with glossy pork chashu, cucumber and scallion. Localization-only update, artwork bytes and canonical food composition unchanged."
       }
     },
     {
@@ -2709,14 +2709,14 @@
       "recipeId": "recipe_000156",
       "semanticReview": {
         "status": "approved",
-        "reviewedContentVersion": 8,
+        "reviewedContentVersion": 9,
         "reviewedAt": "2026-11-27",
-        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Ramen noodles in light dashi broth with opened live-cooked asari clam shells, corn, scallion and butter."
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Ramen noodles in light dashi broth with opened live-cooked asari clam shells, corn, scallion and butter. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
       },
       "styleReview": {
         "status": "approved",
         "guideVersion": "CA-ART-v1",
-        "reviewedContentVersion": 8,
+        "reviewedContentVersion": 9,
         "referenceIds": [
           "recipe_000005",
           "recipe_000025",
@@ -2724,7 +2724,7 @@
         ],
         "imageSha256": "4103c2ab6ad09fd72db46a3c5d918f4dbd2de3486217405968bbf3b5c96937fb",
         "reviewedAt": "2026-11-27",
-        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Ramen noodles in light dashi broth with opened live-cooked asari clam shells, corn, scallion and butter."
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Ramen noodles in light dashi broth with opened live-cooked asari clam shells, corn, scallion and butter. Localization-only update, artwork bytes and canonical food composition unchanged."
       }
     },
     {

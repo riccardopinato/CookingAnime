@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000082",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Yuru Camp△",
   "animeReferences": [
@@ -175,7 +175,7 @@
         "step_1": "In a pot, Nabe (or large pot) put the water, the Kombu algae and the pieces of chicken with the bone.",
         "step_2": "Brings to slow boiling over medium heat constantly eliminating the foam on the surface with a skimmer to obtain a clear and rich broth.",
         "step_3": "After 20 minutes remove the Kombu algae, add the Sake and let the chicken cook for another 15 minutes until the meat becomes tender and the white opalescent broth.",
-        "step_4": "Combine the Chinese cabbage cut into pieces, the Shiitake mushrooms inscribed to a star, the spring onions and the cube tofu.",
+        "step_4": "Add the chopped Chinese cabbage, shiitake mushrooms scored with a star pattern, spring onions and diced tofu.",
         "step_5": "Cook for 8-10 minutes until the vegetables are tender.",
         "step_6": "Put the pot in the middle of the table.",
         "step_7": "Each diner picks up pieces of chicken and vegetables by dipping them in the fresh Ponzu sauce."
@@ -295,7 +295,7 @@
         "step_1": "En una olla, Nabe (o olla grande) coloca el agua, el alga Kombu y los pedazos de pollo con el hueso.",
         "step_2": "Trae a ebullición lento a fuego medio eliminando constantemente la espuma en la superficie con una espuma para obtener un caldo límpido y rico.",
         "step_3": "Después de 20 minutos, retira el alga Kombu, añade el Sake y deja que el pollo se cocine durante otros 15 minutos hasta que la carne se ponga tierna y el caldo blanco opalescente.",
-        "step_4": "Junta la col china cortada en pedazos, los hongos Shiitake grabados a estrella, las cebolletas y el tofu a cubos.",
+        "step_4": "Añade la col china troceada, las setas shiitake con cortes en forma de estrella, las cebolletas y el tofu en dados.",
         "step_5": "Cocine durante 8-10 minutos hasta que las verduras se mantengan.",
         "step_6": "Pon la olla en el centro de la mesa.",
         "step_7": "Cada comensal toma trozos de pollo y verduras mojándolos en la salsa Ponzu fresca."
@@ -355,7 +355,7 @@
         "step_1": "Dans une casserole, Nabe (ou grand pot) mets l'eau, l'algue Kombu et les morceaux de poulet avec l'os.",
         "step_2": "Il conduit à ébullition lente à feu moyen en éliminant constamment la mousse à la surface avec une mousse pour obtenir un bouillon limpide et riche.",
         "step_3": "Après 20 minutes, retirez l'algue Kombu, ajoutez le Sake et laissez cuire le poulet pendant 15 minutes jusqu'à ce que la viande devienne tendre et le bouillon blanc opalescent.",
-        "step_4": "Joignez le chou chinois coupé en morceaux, les champignons Shiitake gravés en étoile, les cébettes et le tofu en cubes.",
+        "step_4": "Ajoutez le chou chinois coupé en morceaux, les shiitakés entaillés en étoile, les cébettes et le tofu en dés.",
         "step_5": "Faites cuire pendant 8-10 minutes jusqu'à ce que les légumes soient tendres.",
         "step_6": "Mets la casserole au milieu de la table.",
         "step_7": "Chaque commensale prélève des morceaux de poulet et de légumes dans la sauce Ponzu fraîche."

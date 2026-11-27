@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000071",
-  "contentVersion": 6,
+  "contentVersion": 7,
   "status": "published",
   "inspirationTitle": "Food Wars! (Shokugeki no Soma)",
   "animeReferences": [
@@ -387,7 +387,7 @@
         "step_7": "Ponlo en una olla, calienta el caldo de pollo junto con la leche de soja sin hervirlo fuerte para evitar que la leche se cague.",
         "step_8": "Añade el caldo caliente en los cuencos y mezcla bien con las varillas para disolver la pasta de sésamo en el fondo.",
         "step_9": "Cocine los fideos de ramen en agua hirviendo durante 2 minutos, escríbalos cuidadosamente y agilízalos en el caldo.",
-        "step_10": "Guárdate en el centro con una generosa cucharada de carne picante, las hojas de bok choy desmenuzadas y una pulverizada de cebolleta fresca picada."
+        "step_10": "Coloca en el centro una cucharada generosa de carne picante, las hojas de bok choy escaldadas y un poco de cebolleta fresca picada."
       }
     },
     "fr": {
@@ -466,7 +466,7 @@
         "step_7": "Mettez dans une casserole, réchauffez le bouillon de poulet avec du lait de soja sans le faire bouillir fort pour éviter que le lait ne chie.",
         "step_8": "Ajoutez le bouillon chaud dans les bols et amalgamez bien avec le fouet pour dissoudre la pâte de sésame au fond.",
         "step_9": "Fais cuire les nouilles ramen 2 minutes dans l’eau bouillante, égoutte-les soigneusement et dépose-les dans le bouillon.",
-        "step_10": "Garnissez au centre avec une généreuse cuillère à soupe de viande épicée, les feuilles de bok choy molletées et une soupe d'cébettes fraîches hachés."
+        "step_10": "Garnissez le centre d'une généreuse cuillerée de viande épicée, de feuilles de bok choy blanchies et d'une pincée de cébette fraîche hachée."
       }
     },
     "de": {

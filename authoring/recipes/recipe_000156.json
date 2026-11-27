@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000156",
-  "contentVersion": 8,
+  "contentVersion": 9,
   "status": "published",
   "inspirationTitle": "Ramen Daisuki Koizumi-san",
   "animeReferences": [
@@ -165,7 +165,7 @@
         "step_5": "Heat well the clam broth without overly reducing it.",
         "step_6": "Cook the noodles for ramen in plenty of boiling water for 2 minutes and drain.",
         "step_7": "Distribute the noodles in the bowls and cover them with the hot broth to the clams.",
-        "step_8": "Arrange over the clams in the shell, the corn and the fresh spring onion; complete with a nut of butter, which melting will bind the seafood stock."
+        "step_8": "Top the noodles with clams in their shells, sweetcorn and fresh spring onion. Finish with a small pat of butter; as it melts, it enriches the clam broth."
       }
     },
     "it": {
@@ -271,7 +271,7 @@
         "step_5": "Calienta bien el caldo en las almejas sin que se reduzca excesivamente.",
         "step_6": "Cocine los fideos para ramen en abundante agua hirviendo durante 2 minutos y escurrir.",
         "step_7": "Reparte los fideos en los cuencos y cúbrelos con caldo caliente en las almejas.",
-        "step_8": "Coloca sobre las almejas en la cáscara, el maíz y la cebolleta fresca; completa con una nuez de mantequilla, que se derrite atando el caldo marinero."
+        "step_8": "Coloca encima las almejas con sus conchas, el maíz dulce y la cebolleta fresca. Añade una nuez de mantequilla para enriquecer el caldo al derretirse."
       }
     },
     "fr": {
@@ -324,7 +324,7 @@
         "step_5": "Réchauffez bien le bouillon aux palourdes sans le réduire trop.",
         "step_6": "Faites cuire les nouilles pour ramen dans beaucoup d'eau bouillante pendant 2 minutes et égouttez.",
         "step_7": "Distribuez les nouilles dans les bols et couvrez-les avec le bouillon chaud aux palourdes.",
-        "step_8": "Adagia au-dessus des palourdes dans la coquille, le maïs et la cébette fraîche; elle complète avec une noix de beurre, qui se dissout en liant le bouillon marin."
+        "step_8": "Disposez les palourdes dans leurs coquilles, le maïs et la cébette fraîche sur les nouilles. Terminez par une noix de beurre qui enrichira le bouillon en fondant."
       }
     },
     "de": {
