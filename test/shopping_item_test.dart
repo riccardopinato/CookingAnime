@@ -11,6 +11,7 @@ void main() {
     expect(restored.recipeSource, original.recipeSource);
     expect(restored.isBought, isTrue);
     expect(restored.quantity, isNull);
+    expect(restored.category, 'other');
   });
   test('structured quantity and unit survive persistence', () {
     const item = ShoppingItem(id: 'i2', name: 'rice',
@@ -21,6 +22,17 @@ void main() {
     expect(restored.unit, 'g');
     expect(restored.copyWith(quantity: 360).displayText, '360 g rice');
   });
+  test('source-ID categories are deterministic and editable', () {
+    expect(shoppingCategoryFromIngredientId('cipollotto_fresco'), 'produce');
+    expect(shoppingCategoryFromIngredientId('petto_di_pollo'), 'protein');
+    expect(shoppingCategoryFromIngredientId('burro'), 'dairy');
+    expect(shoppingCategoryFromIngredientId('farina_00'), 'pantry');
+    expect(shoppingCategoryFromIngredientId('speciale'), 'other');
+    const item = ShoppingItem(id: 'i3', name: 'onion',
+      recipeSource: 'Ramen', category: 'produce');
+    expect(ShoppingItem.fromJson(item.toJson()).category, 'produce');
+  });
+
   test('manual legacy item decodes without optional quantitative fields', () {
     final restored = ShoppingItem.fromJson({
       'id': 'old', 'name': 'Salt', 'recipeSource': 'Manual',

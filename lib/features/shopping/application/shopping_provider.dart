@@ -73,10 +73,21 @@ class ShoppingNotifier extends Notifier<List<ShoppingItem>> {
           unit: unit,
           quantity: amount,
           recipeSource: recipe.title,
+          category: shoppingCategoryFromIngredientId(ingredient.id),
         ));
       }
     }
     state = updated;
+    _persist();
+  }
+
+  void setCategory(String id, String category) {
+    const allowed = {'produce', 'protein', 'dairy', 'pantry', 'other'};
+    if (!allowed.contains(category)) return;
+    state = [
+      for (final item in state)
+        item.id == id ? item.copyWith(category: category) : item,
+    ];
     _persist();
   }
 

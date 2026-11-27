@@ -87,5 +87,11 @@
   "cookingMarkedDone": "Step completed",
   "cookingResetProgress": "Reset cooking progress",
   "cookingTimerAlreadyRunning": "A timer is already active. Pause or reset it before starting another.",
-  "cookingTimerForegroundNotice": "Timers run in the app; they do not send notifications when the app is closed."
+  "cookingTimerForegroundNotice": "Timers run in the app; they do not send notifications when the app is closed.",
+  "shoppingCategoryProduce": "Fruit and vegetables",
+  "shoppingCategoryProtein": "Meat, fish and proteins",
+  "shoppingCategoryDairy": "Dairy",
+  "shoppingCategoryPantry": "Pantry",
+  "shoppingCategoryOther": "Uncategorised",
+  "shoppingChangeCategory": "Change category"
 }

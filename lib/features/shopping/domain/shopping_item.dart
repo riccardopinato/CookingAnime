@@ -5,6 +5,7 @@ class ShoppingItem {
     required this.recipeSource,
     this.quantity,
     this.unit,
+    this.category = 'other',
     this.isBought = false,
   });
 
@@ -13,6 +14,7 @@ class ShoppingItem {
   final String recipeSource;
   final double? quantity;
   final String? unit;
+  final String category;
   final bool isBought;
 
   String get displayText {
@@ -29,6 +31,7 @@ class ShoppingItem {
     String? recipeSource,
     double? quantity,
     String? unit,
+    String? category,
     bool? isBought,
   }) {
     return ShoppingItem(
@@ -37,6 +40,7 @@ class ShoppingItem {
       recipeSource: recipeSource ?? this.recipeSource,
       quantity: quantity ?? this.quantity,
       unit: unit ?? this.unit,
+      category: category ?? this.category,
       isBought: isBought ?? this.isBought,
     );
   }
@@ -48,6 +52,7 @@ class ShoppingItem {
         'isBought': isBought,
         if (quantity != null) 'quantity': quantity,
         if (unit != null) 'unit': unit,
+        'category': category,
       };
 
   factory ShoppingItem.fromJson(Map<String, dynamic> json) {
@@ -57,7 +62,27 @@ class ShoppingItem {
       recipeSource: json['recipeSource'] as String,
       quantity: (json['quantity'] as num?)?.toDouble(),
       unit: json['unit'] as String?,
+      category: json['category'] as String? ?? 'other',
       isBought: json['isBought'] as bool? ?? false,
     );
   }
+}
+
+String shoppingCategoryFromIngredientId(String canonicalId) {
+  final id = canonicalId.toLowerCase();
+  // Stable Italian canonical ingredient IDs avoid locale-dependent categorisation.
+  // Ambiguous compounds remain 'other'; users can move items between groups.
+  if (RegExp(r'pollo|maiale|manzo|gamber|salmone|tonno|uov[oa]|pesce|anatra|granchio|vongol|calamar|buri|tofu|carne_macinat').hasMatch(id)) {
+    return 'protein';
+  }
+  if (RegExp(r'latte|burro|panna|formagg|mozzarella|yogurt|ricotta').hasMatch(id)) {
+    return 'dairy';
+  }
+  if (RegExp(r'cipoll|carot|cetriol|pomodor|daikon|fungh|patat|cavol|zenzero|aglio|spinac|porro|melanzan|zucchin|fragol|banana|limon|yuzu|mela|peperon|verdura|lattuga').hasMatch(id)) {
+    return 'produce';
+  }
+  if (RegExp(r'riso|farina|pasta|noodle|udon|soba|pane|olio|zucchero|sale|soia|miso|mirin|dashi|miele|sesamo|katsuobushi|anko|panko|amido').hasMatch(id)) {
+    return 'pantry';
+  }
+  return 'other';
 }

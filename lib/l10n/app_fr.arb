@@ -87,5 +87,11 @@
   "cookingMarkedDone": "Étape terminée",
   "cookingResetProgress": "Réinitialiser la préparation",
   "cookingTimerAlreadyRunning": "Un minuteur est déjà actif. Mettez-le en pause ou réinitialisez-le avant d'en lancer un autre.",
-  "cookingTimerForegroundNotice": "Les minuteurs fonctionnent dans l'application, sans notification lorsqu'elle est fermée."
+  "cookingTimerForegroundNotice": "Les minuteurs fonctionnent dans l'application, sans notification lorsqu'elle est fermée.",
+  "shoppingCategoryProduce": "Fruits et légumes",
+  "shoppingCategoryProtein": "Viandes, poissons et protéines",
+  "shoppingCategoryDairy": "Produits laitiers",
+  "shoppingCategoryPantry": "Épicerie",
+  "shoppingCategoryOther": "À classer",
+  "shoppingChangeCategory": "Changer de catégorie"
 }

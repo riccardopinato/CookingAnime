@@ -87,5 +87,11 @@
   "cookingMarkedDone": "Passaggio completato",
   "cookingResetProgress": "Ricomincia la preparazione",
   "cookingTimerAlreadyRunning": "C'è già un timer attivo: mettilo in pausa o azzeralo prima di avviarne un altro.",
-  "cookingTimerForegroundNotice": "I timer sono visibili nell'app; non inviano notifiche quando l'app è chiusa."
+  "cookingTimerForegroundNotice": "I timer sono visibili nell'app; non inviano notifiche quando l'app è chiusa.",
+  "shoppingCategoryProduce": "Frutta e verdura",
+  "shoppingCategoryProtein": "Carne, pesce e proteine",
+  "shoppingCategoryDairy": "Latte e derivati",
+  "shoppingCategoryPantry": "Dispensa",
+  "shoppingCategoryOther": "Da classificare",
+  "shoppingChangeCategory": "Cambia categoria"
 }

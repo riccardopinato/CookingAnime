@@ -11,6 +11,23 @@ import '../application/shopping_provider.dart';
 class ShoppingListScreen extends ConsumerWidget {
   const ShoppingListScreen({super.key});
 
+  String _categoryLabel(AppLocalizations l10n, String category) => switch (category) {
+    'produce' => l10n.shoppingCategoryProduce,
+    'protein' => l10n.shoppingCategoryProtein,
+    'dairy' => l10n.shoppingCategoryDairy,
+    'pantry' => l10n.shoppingCategoryPantry,
+    _ => l10n.shoppingCategoryOther,
+  };
+
+  int _categoryRank(String category) => switch (category) {
+    'produce' => 0,
+    'protein' => 1,
+    'dairy' => 2,
+    'pantry' => 3,
+    _ => 4,
+  };
+
+
   Future<void> _showAddDialog(
     BuildContext context,
     WidgetRef ref,
@@ -63,6 +80,12 @@ class ShoppingListScreen extends ConsumerWidget {
     final l10n = AppLocalizations.of(context)!;
     final items = ref.watch(shoppingProvider);
     final hasBought = items.any((item) => item.isBought);
+    final ordered = [...items]..sort((a, b) {
+      final categoryOrder = _categoryRank(a.category).compareTo(_categoryRank(b.category));
+      if (categoryOrder != 0) return categoryOrder;
+      if (a.isBought != b.isBought) return a.isBought ? 1 : -1;
+      return a.name.toLowerCase().compareTo(b.name.toLowerCase());
+    });
 
     return Scaffold(
       backgroundColor: Colors.transparent,
@@ -110,10 +133,22 @@ class ShoppingListScreen extends ConsumerWidget {
                       AppSpacing.medium,
                       96,
                     ),
-                    itemCount: items.length,
+                    itemCount: ordered.length,
                     itemBuilder: (context, index) {
-                      final item = items[index];
-                      return Padding(
+                      final item = ordered[index];
+                      final showHeading = index == 0 || ordered[index - 1].category != item.category;
+                      return Column(
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
+                        children: [
+                          if (showHeading)
+                            Padding(
+                              padding: const EdgeInsets.fromLTRB(8, 16, 8, 12),
+                              child: Text(_categoryLabel(l10n, item.category),
+                                style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                                  fontWeight: FontWeight.w800,
+                                )),
+                            ),
+                          Padding(
                         padding: const EdgeInsets.only(
                           bottom: AppSpacing.small,
                         ),
@@ -162,6 +197,16 @@ class ShoppingListScreen extends ConsumerWidget {
                                 ),
                               ),
                               subtitle: Text(item.recipeSource),
+                              secondary: PopupMenuButton<String>(
+                                tooltip: l10n.shoppingChangeCategory,
+                                icon: const Icon(Icons.tune_rounded),
+                                initialValue: item.category,
+                                onSelected: (category) => ref.read(shoppingProvider.notifier).setCategory(item.id, category),
+                                itemBuilder: (_) => [
+                                  for (final category in const ['produce', 'protein', 'dairy', 'pantry', 'other'])
+                                    PopupMenuItem(value: category, child: Text(_categoryLabel(l10n, category))),
+                                ],
+                              ),
                               onChanged: (_) {
                                 ref
                                     .read(shoppingProvider.notifier)
@@ -170,6 +215,7 @@ class ShoppingListScreen extends ConsumerWidget {
                             ),
                           ),
                         ),
+                        ],
                       );
                     },
                   ),

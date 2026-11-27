@@ -87,5 +87,11 @@
   "cookingMarkedDone": "Paso completado",
   "cookingResetProgress": "Reiniciar preparación",
   "cookingTimerAlreadyRunning": "Ya hay un temporizador activo. Páusalo o reinícialo antes de iniciar otro.",
-  "cookingTimerForegroundNotice": "Los temporizadores funcionan en la app; no envían notificaciones cuando está cerrada."
+  "cookingTimerForegroundNotice": "Los temporizadores funcionan en la app; no envían notificaciones cuando está cerrada.",
+  "shoppingCategoryProduce": "Frutas y verduras",
+  "shoppingCategoryProtein": "Carne, pescado y proteínas",
+  "shoppingCategoryDairy": "Lácteos",
+  "shoppingCategoryPantry": "Despensa",
+  "shoppingCategoryOther": "Sin clasificar",
+  "shoppingChangeCategory": "Cambiar categoría"
 }
