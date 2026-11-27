@@ -58,8 +58,17 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('Passaggio 2 / 2'), findsOneWidget);
 
+    // The ingredients accordion is below the fold on a phone viewport.
+    await tester.scrollUntilVisible(
+      find.text('Ingredienti'), 240,
+      scrollable: find.byType(Scrollable).first,
+    );
     await tester.tap(find.text('Ingredienti'));
     await tester.pumpAndSettle();
+    await tester.scrollUntilVisible(
+      find.text('300 g Riso'), 150,
+      scrollable: find.byType(Scrollable).first,
+    );
     expect(find.text('300 g Riso'), findsOneWidget);
 
     await tester.pumpWidget(const SizedBox.shrink());
