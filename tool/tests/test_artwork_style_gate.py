@@ -6,7 +6,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from artwork_style_gate import check_review, validate  # noqa: E402
+from artwork_style_gate import check_review, validate, legacy_unmodified, git_blob_sha1  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 POLICY = {
@@ -49,6 +49,13 @@ class TestArtworkStyleGate(unittest.TestCase):
         result = check_review(record, POLICY, source=b"changed jpeg", content_version=3)
         self.assertTrue(any("referenceIds" in e for e in result))
         self.assertTrue(any("imageSha256" in e for e in result))
+
+    def test_exact_legacy_blob_passes_and_changed_bytes_fail(self):
+        original = b"original-legacy-artwork-bytes"
+        expected = git_blob_sha1(original)
+        self.assertTrue(legacy_unmodified(original, expected))
+        self.assertFalse(legacy_unmodified(b"changed-legacy-artwork-bytes", expected))
+        self.assertFalse(legacy_unmodified(original, "not-a-git-blob-hash"))
 
     def test_stale_content_version_is_blocked(self):
         result = check_review(example(), POLICY, source=b"actual jpeg", content_version=4)

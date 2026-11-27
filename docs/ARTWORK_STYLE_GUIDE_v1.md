@@ -34,7 +34,7 @@ These examples bound a *range*, not one uniform density: the original 1–50 als
 5. Inspect actual generated pixels for dish identity, garnishes, temperature, cooked state, anatomy and 2D style. Reject material errors. A tool call or asset filename alone is not visual review evidence.
 6. Optimize JPEG to F3E: short edge >=720 px, long edge <=960 px, target <=130 KiB, hard limit <=140 KiB. Check the optimized output again.
 7. For **new artworks 101+**, record a `styleReview` record in `authoring/assets/manifest.json`: `status: "approved"`, `guideVersion: "CA-ART-v1"`, `reviewedContentVersion`, at least three `referenceIds` from the anchors, `imageSha256` for the *actual committed JPEG*, `reviewedAt` and a specific `note`. The CI style gate checks this evidence; it **does not claim to evaluate image pixels autonomously**.
-8. For replacement assets 001–100, include equivalent style evidence after actual visual review. The legacy catalogue is exempt from retrospective mandatory metadata; known rework exceptions are documented in `authoring/artwork/rework_queue_20261127.json`.
+8. For replacement assets 001–100, include equivalent style evidence after actual visual review. A pinned Git blob snapshot in `authoring/artwork/legacy_asset_baseline_20261127.json` makes this **mandatory when the committed JPEG bytes change**; updating only a manifest note never counts as a visual correction. Unmodified 001–100 retain legacy exemptions. Known rework exceptions are documented in `authoring/artwork/rework_queue_20261127.json`.
 9. Follow the normal authoring, F3E validation, generated-catalog, PR and exact-head CI workflow before merge.
 
 ## Current per-recipe corrections

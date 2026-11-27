@@ -11,7 +11,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 POLICY = Path("authoring/artwork/style_policy.json")
 MANIFEST = Path("authoring/assets/manifest.json")
+LEGACY_BASELINE = Path("authoring/artwork/legacy_asset_baseline_20261127.json")
 HEX64 = re.compile(r"[a-f0-9]{64}\Z")
+HEX40 = re.compile(r"[a-f0-9]{40}\Z")
 ID = re.compile(r"recipe_(\d{6})\Z")
 
 
@@ -43,6 +45,16 @@ def check_review(asset: dict, policy: dict, *, source: bytes, content_version: i
     return errors
 
 
+def git_blob_sha1(source: bytes) -> str:
+    """Hash Git blob header plus content, not the content alone."""
+    header = b"blob " + str(len(source)).encode("ascii") + b"\0"
+    return hashlib.sha1(header + source).hexdigest()
+
+
+def legacy_unmodified(source: bytes, stored_git_blob_sha1: str) -> bool:
+    return bool(HEX40.fullmatch(stored_git_blob_sha1)) and git_blob_sha1(source) == stored_git_blob_sha1
+
+
 def validate(root: Path = ROOT) -> list[str]:
     errors = []
     policy = json.loads((root / POLICY).read_text(encoding="utf-8"))
@@ -53,6 +65,13 @@ def validate(root: Path = ROOT) -> list[str]:
     for ref in policy["referenceIds"]:
         if not (root / "assets/recipe_artwork" / (ref + ".jpg")).is_file():
             errors.append(f"missing first-50 style anchor: {ref}")
+    baseline = json.loads((root / LEGACY_BASELINE).read_text(encoding="utf-8"))
+    originals = baseline.get("gitBlobSha1", {})
+    if (baseline.get("schemaVersion") != 1
+            or baseline.get("sourceMainCommit") != "ed900dcbcdc2460eab872c36c04135184d7adee6"
+            or len(originals) != 100
+            or any(not isinstance(v, str) or not HEX40.fullmatch(v) for v in originals.values())):
+        return ["invalid or altered legacy artwork baseline"]
     manifest = json.loads((root / MANIFEST).read_text(encoding="utf-8"))
     for asset in manifest.get("assets", []):
         rid = str(asset.get("recipeId", ""))
@@ -60,10 +79,16 @@ def validate(root: Path = ROOT) -> list[str]:
         if not match:
             continue  # Main authoring validator diagnoses invalid IDs.
         number = int(match.group(1))
-        if number < policy["enforceFromRecipeNumber"] and "styleReview" not in asset:
-            continue  # Grandfather existing 001–100 without silently re-certifying.
         image = root / str(asset["path"])
         recipe = root / "authoring/recipes" / (rid + ".json")
+        if number < policy["enforceFromRecipeNumber"] and "styleReview" not in asset:
+            if not image.is_file():
+                errors.append(f"{rid}: missing legacy artwork")
+                continue
+            original_sha = originals.get(rid)
+            if not isinstance(original_sha, str) or not legacy_unmodified(image.read_bytes(), original_sha):
+                errors.append(f"{rid}: legacy artwork changed; exact-byte styleReview required")
+            continue
         if not image.is_file() or not recipe.is_file():
             errors.append(f"{rid}: source artwork or canonical recipe missing")
             continue
