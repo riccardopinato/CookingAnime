@@ -215,6 +215,7 @@ class ShoppingListScreen extends ConsumerWidget {
                             ),
                           ),
                         ),
+                          ),
                         ],
                       );
                     },
