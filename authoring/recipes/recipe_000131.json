@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000131",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "March Comes in Like a Lion",
   "animeReferences": [
@@ -32,7 +32,7 @@
   "difficulty": "easy",
   "contentOrigin": "adapted",
   "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 11; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
-  "imageAssetId": null,
+  "imageAssetId": "recipe_000131_artwork",
   "ingredients": [
     {
       "id": "udon",
@@ -136,7 +136,7 @@
         }
       },
       "steps": {
-        "step_1": "Prepare the mentsuyu and let it cool completely in the refrigerator; cucumber slice, spring onion and nori and keep the tenkasu dry until serving.",
+        "step_1": "Prepare the mentsuyu and chill it completely in the refrigerator. Slice the cucumber and spring onion, cut the nori into strips and keep the tenkasu dry until serving.",
         "step_2": "Cook the udon in plenty of boiling water as long as they are elastic but still consistent.",
         "step_3": "Drain and cool immediately under very cold running water, then pass them in water and ice to stop completely cooking.",
         "step_4": "Drain the udon with care and shake them well: the residual water would dilute the mentsuyu.",
@@ -224,11 +224,11 @@
         }
       },
       "steps": {
-        "step_1": "Prepara el mentsuyu y deja que se enfríe completamente en la nevera; pepino, cebolleta y nori y mantén el tenkasu seco hasta el servicio.",
+        "step_1": "Prepara el mentsuyu y enfríalo por completo en la nevera. Corta el pepino y la cebolleta en rodajas, el nori en tiras y mantén el tenkasu seco hasta servir.",
         "step_2": "Cuece los udon en abundante agua hirviendo hasta que queden elásticos, pero aún firmes.",
         "step_3": "Escurrir y enfriar inmediatamente bajo agua corriente muy fría, luego pasarlos en agua y hielo para detener completamente la cocción.",
         "step_4": "Escurrir los udon con cuidado y sacudir bien: el agua residual diluiría el mentsuyu.",
-        "step_5": "Dispárale en los cuencos y añade pepino, huevo, cebolleta y nori.",
+        "step_5": "Reparte los fideos entre los cuencos y añade pepino, huevo, cebolleta y nori.",
         "step_6": "Añade el tenkasu sólo en el último momento, para que siga siendo crujiente.",
         "step_7": "Vierta el mentsuyu frío inmediatamente antes de servir y mezclar en la mesa."
       }
@@ -268,7 +268,7 @@
         }
       },
       "steps": {
-        "step_1": "Préparez le mentsuyu et laissez-le refroidir complètement au réfrigérateur; tranche concombre, cébette et nori et gardez le tenkasu sec jusqu'au service.",
+        "step_1": "Préparez le mentsuyu et laissez-le refroidir complètement au réfrigérateur. Émincez le concombre et la cébette, découpez le nori en lanières et gardez le tenkasu au sec jusqu’au service.",
         "step_2": "Fais cuire les nouilles udon dans une grande quantité d’eau bouillante jusqu’à ce qu’elles soient souples, mais encore fermes.",
         "step_3": "Écolez-les et refroidissez-les immédiatement sous l'eau courante très froide, puis passez-les dans l'eau et la glace pour arrêter complètement la cuisson.",
         "step_4": "Égoutte soigneusement les nouilles udon et secoue-les : l’eau résiduelle diluerait le mentsuyu.",

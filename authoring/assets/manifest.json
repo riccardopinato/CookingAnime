@@ -847,6 +847,2035 @@
         "reviewedAt": "2026-11-26",
         "note": "Generated original 2D hand-drawn anime-style food illustration with assistant visual inspection of the canonical Italian recipe: Mochi rosa con chicchi di riso, ripieno anko in sezione e foglia di ciliegio salata. Adobe Firefly source, no franchise stills, characters or logos. User aesthetic review remains separate; not a claim of professional culinary or automated vision certification."
       }
+    },
+    {
+      "id": "recipe_000071_artwork",
+      "path": "assets/recipe_artwork/recipe_000071.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000071",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; spicy minced pork and bok choy in creamy red sesame ramen; 2D drawn, no unrelated fish. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
+      }
+    },
+    {
+      "id": "recipe_000072_artwork",
+      "path": "assets/recipe_artwork/recipe_000072.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000072",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; sauce-fried noodles, pork, cabbage, red pickled ginger and nori; no soup. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000073_artwork",
+      "path": "assets/recipe_artwork/recipe_000073.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000073",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; brown-glazed cube pork belly and a half egg; not ramen. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000074_artwork",
+      "path": "assets/recipe_artwork/recipe_000074.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000074",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; clear dashi oden hotpot, daikon discs, egg, konnyaku, fish cakes and kinchaku. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000075_artwork",
+      "path": "assets/recipe_artwork/recipe_000075.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000075",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; thick white udon, Japanese curry and crispy tonkatsu cutlet. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000076_artwork",
+      "path": "assets/recipe_artwork/recipe_000076.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000076",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; lightly fried tofu cubes with grated daikon, scallion and surrounding dashi. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
+      }
+    },
+    {
+      "id": "recipe_000077_artwork",
+      "path": "assets/recipe_artwork/recipe_000077.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000077",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; glazed grilled eel fillets over rice; no sashimi. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000078_artwork",
+      "path": "assets/recipe_artwork/recipe_000078.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000078",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; pink-orange cooked shrimp in red ginger chili sauce with separate rice. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
+      }
+    },
+    {
+      "id": "recipe_000079_artwork",
+      "path": "assets/recipe_artwork/recipe_000079.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000079",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-26",
+        "note": "Generated original 2D hand-painted anime culinary art (Adobe Firefly). Assistant inspected actual JPEG with canonical Italian recipe and samples of the original 1–50 artwork; crab-cream croquettes in panko, one cut open. No direct franchise frames, brand logos or characters. This is not a professional food safety certification or measured embedding similarity score."
+      }
+    },
+    {
+      "id": "recipe_000080_artwork",
+      "path": "assets/recipe_artwork/recipe_000080.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000080",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Pacific saury with corrected short pointed snout, silver-blue elongated whole grilled fish, daikon and citrus."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "37c37dcef3838e46cbf5cf6b218ab1a6f71e937e5692732561d4009a34c0f1e0",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Pacific saury with corrected short pointed snout, silver-blue elongated whole grilled fish, daikon and citrus."
+      }
+    },
+    {
+      "id": "recipe_000081_artwork",
+      "path": "assets/recipe_artwork/recipe_000081.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000081",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Crustless shokupan tamago sando fully assembled with chopped egg-mayo and centered boiled egg cross-section."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 4,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "76d6dd9651a0862daced6a3d23107981d0aa5a5d23f5cd3cd81a8cd63d00b868",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Crustless shokupan tamago sando fully assembled with chopped egg-mayo and centered boiled egg cross-section."
+      }
+    },
+    {
+      "id": "recipe_000082_artwork",
+      "path": "assets/recipe_artwork/recipe_000082.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000082",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: chicken mizutaki nabe with tofu, napa cabbage, shiitake and ponzu. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
+      }
+    },
+    {
+      "id": "recipe_000083_artwork",
+      "path": "assets/recipe_artwork/recipe_000083.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000083",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Separate cold noodle plate and visibly steaming concentrated dipping broth; no steam from cold noodles."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "857c68f103d913bba7d0eb82dfb2166a46b31897f4c188d9bcc097e91ceedf1c",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Separate cold noodle plate and visibly steaming concentrated dipping broth; no steam from cold noodles."
+      }
+    },
+    {
+      "id": "recipe_000084_artwork",
+      "path": "assets/recipe_artwork/recipe_000084.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000084",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: fried chicken with Japanese egg tartar sauce and shredded cabbage. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000085_artwork",
+      "path": "assets/recipe_artwork/recipe_000085.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000085",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: translucent amber jelly warabi-mochi cubes with kinako and kuromitsu. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000086_artwork",
+      "path": "assets/recipe_artwork/recipe_000086.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000086",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: extra-tall soufflé pancakes, butter and syrup. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000087_artwork",
+      "path": "assets/recipe_artwork/recipe_000087.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000087",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: piped chestnut Mont Blanc cream mounds with whole glazed chestnut tops. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000088_artwork",
+      "path": "assets/recipe_artwork/recipe_000088.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000088",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: fresh fruit cream shokupan sandwich cross-sections. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000089_artwork",
+      "path": "assets/recipe_artwork/recipe_000089.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000089",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: ohagi sticky rice sweets, chunky red bean, kinako and black sesame. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification."
+      }
+    },
+    {
+      "id": "recipe_000090_artwork",
+      "path": "assets/recipe_artwork/recipe_000090.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000090",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-26",
+        "note": "Original anime 2D hand-painted food illustration generated with Adobe Firefly. Assistant pixel review against canonical Italian recipe and visual reference style 1–50: clear amber shoyu broth ramen with chashu, ajitama, naruto and nori. No direct franchise frames or characters. Not an automated image-embedding score or professional culinary certification. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
+      }
+    },
+    {
+      "id": "recipe_000091_artwork",
+      "path": "assets/recipe_artwork/recipe_000091.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000091",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Takikomi rice with chicken, shiitake, carrots and golden fried tofu."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "d93ceaf4f060811ca484006f6b55393ec08f62cb7aff83f685cef8f21cb6f823",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Takikomi rice with chicken, shiitake, carrots and golden fried tofu."
+      }
+    },
+    {
+      "id": "recipe_000092_artwork",
+      "path": "assets/recipe_artwork/recipe_000092.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000092",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Moyashi stir-fried soybean sprouts with pork, carrot and scallion; no noodles."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "c53fd8cd9f6665e4e798f8041ff766fb6df29c22ae7fc07e9f7b8fa4552f7570",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Moyashi stir-fried soybean sprouts with pork, carrot and scallion; no noodles."
+      }
+    },
+    {
+      "id": "recipe_000093_artwork",
+      "path": "assets/recipe_artwork/recipe_000093.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000093",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Cheesy sliced tonkatsu over rice, cooked egg and onion, without photographic materials."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "7e43a92acde6d2258258b754612a2cdc7f6572cd8076bca92fbf4f4eaaefa093",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Cheesy sliced tonkatsu over rice, cooked egg and onion, without photographic materials."
+      }
+    },
+    {
+      "id": "recipe_000094_artwork",
+      "path": "assets/recipe_artwork/recipe_000094.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000094",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Ishikari miso-dashi hotpot with salmon, napa cabbage, tofu, mushrooms, carrot, potato and butter."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "dc9d8f468f6fc7e505cb25033f4da145ae9a5b6fd5f1131b1d02ee7a7df55aa3",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Ishikari miso-dashi hotpot with salmon, napa cabbage, tofu, mushrooms, carrot, potato and butter."
+      }
+    },
+    {
+      "id": "recipe_000095_artwork",
+      "path": "assets/recipe_artwork/recipe_000095.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000095",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Clear yuzu-shio ramen with chicken breast, noodles, bamboo shoots, egg and yuzu peel; no pork."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "317a350080ea51c968021610e95a74598ee4eb3d84f49800f2b0f969a7976fff",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Clear yuzu-shio ramen with chicken breast, noodles, bamboo shoots, egg and yuzu peel; no pork."
+      }
+    },
+    {
+      "id": "recipe_000096_artwork",
+      "path": "assets/recipe_artwork/recipe_000096.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000096",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Asari clam chowder with opened clams, potatoes, carrot and bacon in cream."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "7c5092b4d09db8a5781f201b0b8b2186d2910d5335682b2c13d9b33e4f59d253",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Asari clam chowder with opened clams, potatoes, carrot and bacon in cream."
+      }
+    },
+    {
+      "id": "recipe_000097_artwork",
+      "path": "assets/recipe_artwork/recipe_000097.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000097",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Irregular airy vegetable kakiage fritters with onion, carrot and optional shrimp."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000035",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "74097a4a73d585a94b3d7dfdf1d1cff03e41030a2605c0d340602e46bd554ffa",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Irregular airy vegetable kakiage fritters with onion, carrot and optional shrimp."
+      }
+    },
+    {
+      "id": "recipe_000098_artwork",
+      "path": "assets/recipe_artwork/recipe_000098.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000098",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Sliced glazed chicken thigh on short-grain white rice with sesame and green scallion."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "6cd40a217f8909a48136be0a8a254604cb0e46a80494e6cd1617d740cd09f92b",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Sliced glazed chicken thigh on short-grain white rice with sesame and green scallion."
+      }
+    },
+    {
+      "id": "recipe_000099_artwork",
+      "path": "assets/recipe_artwork/recipe_000099.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000099",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Four skewers with white boiled dango covered in smooth koshian red bean puree and kinako."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "c9bda021ae2155acbf3ff3ec6c2c005880ee6ae44bedd7d61cd8211bd2b5f8ab",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Four skewers with white boiled dango covered in smooth koshian red bean puree and kinako."
+      }
+    },
+    {
+      "id": "recipe_000100_artwork",
+      "path": "assets/recipe_artwork/recipe_000100.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000100",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Replacement artwork visually verified. Thick udon in curry-dashi with sliced beef, onion and scallion; no narutomaki."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "c25f1f8e21ce609c89d0a6901363fe9bda5e7872aae00ed4d861c83eaab288eb",
+        "reviewedAt": "2026-11-27",
+        "note": "New individual 900x900 original 2D anime artwork; actual pixels visually inspected against approved references 001–050 and source Italian canonical recipe. Thick udon in curry-dashi with sliced beef, onion and scallion; no narutomaki."
+      }
+    },
+    {
+      "id": "recipe_000101_artwork",
+      "path": "assets/recipe_artwork/recipe_000101.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000101",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Three soy-and-butter grilled triangular onigiri with toasted rice crust."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "ff3717f1f1cbd614c3193c2ea9ed3acde7347161e192ab2a350ee39e77119aaa",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Three soy-and-butter grilled triangular onigiri with toasted rice crust."
+      }
+    },
+    {
+      "id": "recipe_000102_artwork",
+      "path": "assets/recipe_artwork/recipe_000102.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000102",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Layered rectangular dashi tamagoyaki slices with grated daikon."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "17b22c1e5dbe06081297a5a5ed1edc8a00f03ec6b0bc6640aea4d6ddc73bca8b",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Layered rectangular dashi tamagoyaki slices with grated daikon."
+      }
+    },
+    {
+      "id": "recipe_000103_artwork",
+      "path": "assets/recipe_artwork/recipe_000103.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000103",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Tall matcha parfait showing green ice cream, anko, matcha jelly, shiratama, cream and cereal."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "298f749a840f3d8459c05c5e806f3262fb3d43bb43e684f577e6761200157819",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Tall matcha parfait showing green ice cream, anko, matcha jelly, shiratama, cream and cereal."
+      }
+    },
+    {
+      "id": "recipe_000104_artwork",
+      "path": "assets/recipe_artwork/recipe_000104.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000104",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Golden panko-crusted orange kabocha croquettes with ground meat filling."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000035",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "6e73c5d17fcfb11c42aa32549732d8217fc4240974722d009af204c16608a06a",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Golden panko-crusted orange kabocha croquettes with ground meat filling."
+      }
+    },
+    {
+      "id": "recipe_000105_artwork",
+      "path": "assets/recipe_artwork/recipe_000105.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000105",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Pastel sculpted nerikiri wagashi with white bean paste and anko core."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "f3545b0f976181e290efd768d3981c75fe6d683653a4803cf2d76944a4f7f80a",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Pastel sculpted nerikiri wagashi with white bean paste and anko core."
+      }
+    },
+    {
+      "id": "recipe_000106_artwork",
+      "path": "assets/recipe_artwork/recipe_000106.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000106",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Roasted purple-skinned satsumaimo with hot golden sweet potato flesh."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "1d039fb8222a937bb46d85bd33b6d37e454214e9bbcc748e7ec9c163e1abab09",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Roasted purple-skinned satsumaimo with hot golden sweet potato flesh."
+      }
+    },
+    {
+      "id": "recipe_000107_artwork",
+      "path": "assets/recipe_artwork/recipe_000107.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000107",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Ogura an toasted shokupan with whole sweet azuki beans and butter."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "7474b893a1627e1ae1fd686ffd0119e9124a9e29f3cf5810210640aa766f1e52",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Ogura an toasted shokupan with whole sweet azuki beans and butter."
+      }
+    },
+    {
+      "id": "recipe_000108_artwork",
+      "path": "assets/recipe_artwork/recipe_000108.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000108",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Dense pale tonkotsu ramen broth with chashu, ajitama, noodles and nori."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "0f59ce3765ca7b00ba5f91f49973ccc9b445ad5427654d2c00523b4343d4baec",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Dense pale tonkotsu ramen broth with chashu, ajitama, noodles and nori."
+      }
+    },
+    {
+      "id": "recipe_000109_artwork",
+      "path": "assets/recipe_artwork/recipe_000109.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000109",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Black sesame ice cream scoops, not chocolate or matcha."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "e3c91161634c25c53e2982c2cb2201172e5ec640c8cbdcdb09ff358c738128e6",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Black sesame ice cream scoops, not chocolate or matcha."
+      }
+    },
+    {
+      "id": "recipe_000110_artwork",
+      "path": "assets/recipe_artwork/recipe_000110.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000110",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Motsunabe with clearly visible cooked offal, nira chives, tofu and cabbage."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "ead463d0fe94ef07c22396c18afc0aada8691fb71d1ea17c34f35996aeeb68be",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Motsunabe with clearly visible cooked offal, nira chives, tofu and cabbage."
+      }
+    },
+    {
+      "id": "recipe_000111_artwork",
+      "path": "assets/recipe_artwork/recipe_000111.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000111",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Braised blue-backed mackerel fillets in miso ginger sauce."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "6d1c4885dd6c8ee54253c3e50e7c699ca4c4d38e0278ee6c7b0ced8ee83392c5",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Braised blue-backed mackerel fillets in miso ginger sauce."
+      }
+    },
+    {
+      "id": "recipe_000112_artwork",
+      "path": "assets/recipe_artwork/recipe_000112.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000112",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Chashu pork slices and ajitama over steamed white rice."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "6c34dab3047d85f477e2a1ae8796f714f7b70fa29918dca71f394ebe4250a0a3",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Chashu pork slices and ajitama over steamed white rice."
+      }
+    },
+    {
+      "id": "recipe_000113_artwork",
+      "path": "assets/recipe_artwork/recipe_000113.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000113",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Crisp shrimp topped in creamy sweet tangy Ebi Mayo sauce."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000035",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "3ec21d1263491a2794e3a961abe7e5b5e5d124c32224bb451b482327b210ae4c",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Crisp shrimp topped in creamy sweet tangy Ebi Mayo sauce."
+      }
+    },
+    {
+      "id": "recipe_000114_artwork",
+      "path": "assets/recipe_artwork/recipe_000114.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000114",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Cold fine somen with actual ice and condensation; no steam."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "56546734bd92a847e6b685822650f230bee295b0bfe7ebb21d34e5b8203bd676",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Cold fine somen with actual ice and condensation; no steam."
+      }
+    },
+    {
+      "id": "recipe_000115_artwork",
+      "path": "assets/recipe_artwork/recipe_000115.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000115",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Kanten jelly, fruit, anko, shiratama and kuromitsu anmitsu dessert."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "8c4a1ad447b6a63f8bdc95f0be74e7b89aee4bb28004d896e0eedc71a4fb9721",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Kanten jelly, fruit, anko, shiratama and kuromitsu anmitsu dessert."
+      }
+    },
+    {
+      "id": "recipe_000116_artwork",
+      "path": "assets/recipe_artwork/recipe_000116.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000116",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Julienne burdock and carrot kinpira with sesame and soy glaze."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "5d1255d37fdcf1636bd0f34a85f2412c7d719e9e698206d001147a0d179aa0c2",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Julienne burdock and carrot kinpira with sesame and soy glaze."
+      }
+    },
+    {
+      "id": "recipe_000117_artwork",
+      "path": "assets/recipe_artwork/recipe_000117.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000117",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Karaage chicken, namban sauce and egg tartar over rice."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000035",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "5c8681e8479deed417885a1504dfc212b4eeec6005936b817d894e58abf1ced4",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Karaage chicken, namban sauce and egg tartar over rice."
+      }
+    },
+    {
+      "id": "recipe_000118_artwork",
+      "path": "assets/recipe_artwork/recipe_000118.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000118",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Big soft pork kakuni cubes and udon in clear dashi."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "a3792e5f0d67b2751db6e9c050282a705187ead5b372f0da7e76b86ac2e3726b",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Big soft pork kakuni cubes and udon in clear dashi."
+      }
+    },
+    {
+      "id": "recipe_000119_artwork",
+      "path": "assets/recipe_artwork/recipe_000119.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000119",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Vegetarian root vegetable soup with tofu, daikon, carrot, gobo and shiitake."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "c6187960e6db302244abe6c75e1249f3b0cbf295ae867868c5ba4bda84f5bdaa",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Vegetarian root vegetable soup with tofu, daikon, carrot, gobo and shiitake."
+      }
+    },
+    {
+      "id": "recipe_000120_artwork",
+      "path": "assets/recipe_artwork/recipe_000120.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000120",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original individual illustration visually matched against the canonical Italian recipe: Yakisoba noodles under golden thin omelet with sauce, mayonnaise and red pickled ginger."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "c016d66e45a2493da593dc89850b8ef46f9eeb6b08892ddc556ca1a266302a70",
+        "reviewedAt": "2026-11-27",
+        "note": "Original hand-drawn 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Yakisoba noodles under golden thin omelet with sauce, mayonnaise and red pickled ginger."
+      }
+    },
+    {
+      "id": "recipe_000121_artwork",
+      "path": "assets/recipe_artwork/recipe_000121.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000121",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Tall airy Japanese soufflé cheesecake with a slice revealing fluffy fine crumb."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "2efd42f5cb7008703bf8cfa4e51d5258ba6ed4166c46bd0d42bb281d780d9bd9",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Tall airy Japanese soufflé cheesecake with a slice revealing fluffy fine crumb."
+      }
+    },
+    {
+      "id": "recipe_000122_artwork",
+      "path": "assets/recipe_artwork/recipe_000122.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000122",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Cold watermelon cubes and white shiratama dumplings in light sparkling lemon soda."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "108983e0c6240a5e49ea753c5e16957ce5d519249f29280e3c21f19fa52f68ac",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Cold watermelon cubes and white shiratama dumplings in light sparkling lemon soda."
+      }
+    },
+    {
+      "id": "recipe_000123_artwork",
+      "path": "assets/recipe_artwork/recipe_000123.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000123",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 9,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Delicate chicken and cooked egg zosui rice soup in dashi with scallion."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 9,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "c9b6ad2b31ba0aa2dac0b9b2fa306c707f72a43e3ec3bcdc4f509df89d24d3d3",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Delicate chicken and cooked egg zosui rice soup in dashi with scallion."
+      }
+    },
+    {
+      "id": "recipe_000124_artwork",
+      "path": "assets/recipe_artwork/recipe_000124.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000124",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 4,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Uni sea urchin roe lobes over warm sushi rice with nori and wasabi."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 4,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "8d0b71cfe84179acf22ce397678d82ac79eb692aefa79186d41feaad7eb5d1c3",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Uni sea urchin roe lobes over warm sushi rice with nori and wasabi."
+      }
+    },
+    {
+      "id": "recipe_000125_artwork",
+      "path": "assets/recipe_artwork/recipe_000125.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000125",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Golden cone-shaped spiral sweet bread filled with dark chocolate cream."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "129a085480c0773616dbc8441a6e9d0fde4c366d2fb1d7ae4f7fcb294f1a21b3",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Golden cone-shaped spiral sweet bread filled with dark chocolate cream."
+      }
+    },
+    {
+      "id": "recipe_000126_artwork",
+      "path": "assets/recipe_artwork/recipe_000126.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000126",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Mixed Osaka kushikatsu skewers with fried panko bites, lotus root, shrimp and dipping sauce."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000035",
+          "recipe_000045",
+          "recipe_000050"
+        ],
+        "imageSha256": "50a1159edb1dfefef672e8b4768f2e7918b67d05eb1b595856a9ea33dbb46adc",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Mixed Osaka kushikatsu skewers with fried panko bites, lotus root, shrimp and dipping sauce."
+      }
+    },
+    {
+      "id": "recipe_000127_artwork",
+      "path": "assets/recipe_artwork/recipe_000127.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000127",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Transparent raindrop water mochi served with kinako and dark kuromitsu."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000020",
+          "recipe_000050"
+        ],
+        "imageSha256": "03bbc77dd639fbfc2b976bb8ec097e55f1f376232c46fc1e89426e444c6b2434",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Transparent raindrop water mochi served with kinako and dark kuromitsu."
+      }
+    },
+    {
+      "id": "recipe_000128_artwork",
+      "path": "assets/recipe_artwork/recipe_000128.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000128",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Brown Japanese cocoa-and-apple curry with meat, onion, potato, carrot over rice."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "532aa2f6d9a62847c41027ae351e42cc01c4c5c13d400304c9dadd73f6eb24e1",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Brown Japanese cocoa-and-apple curry with meat, onion, potato, carrot over rice."
+      }
+    },
+    {
+      "id": "recipe_000129_artwork",
+      "path": "assets/recipe_artwork/recipe_000129.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000129",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Hot brown soba noodle soup with thin pork and charred leek."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "dc17c5d7f03805d5b049e6c5aa1a5c49701717c5a40f59984f5daacf1d517ca0",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Hot brown soba noodle soup with thin pork and charred leek."
+      }
+    },
+    {
+      "id": "recipe_000130_artwork",
+      "path": "assets/recipe_artwork/recipe_000130.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000130",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original anime illustration inspected for canonical Italian recipe facts: Udon in light dashi with two crisp ebi-tempura prawns and scallion."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "90d45700d4af2ae1724a2918fb8a9d918bce9d7c5575be366a9190e3e80d21d7",
+        "reviewedAt": "2026-11-27",
+        "note": "Individual original 2D cooking-anime food image; visually checked JPEG pixels against first-50 style references and canonical Italian source. Udon in light dashi with two crisp ebi-tempura prawns and scallion."
+      }
+    },
+    {
+      "id": "recipe_000131_artwork",
+      "path": "assets/recipe_artwork/recipe_000131.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000131",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Cold thick udon with tenkasu crunch, shredded cucumber, cooked egg, scallion, nori and separate cold mentsuyu; no steam. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "ce51e722c05dd35caa61e409b94c790fce1ba06b27f6b45277e9398860a2d97e",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Cold thick udon with tenkasu crunch, shredded cucumber, cooked egg, scallion, nori and separate cold mentsuyu; no steam. Localization-only update, artwork bytes and canonical food composition unchanged."
+      }
+    },
+    {
+      "id": "recipe_000132_artwork",
+      "path": "assets/recipe_artwork/recipe_000132.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000132",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Neat shokupan sandwich cross-section with golden pork tonkatsu, dark curry glaze and shredded cabbage."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000035",
+          "recipe_000045"
+        ],
+        "imageSha256": "d4aabb476191c95890f1477afe649a15b1cf97a585fa5b507ed3918599dfae42",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Neat shokupan sandwich cross-section with golden pork tonkatsu, dark curry glaze and shredded cabbage."
+      }
+    },
+    {
+      "id": "recipe_000133_artwork",
+      "path": "assets/recipe_artwork/recipe_000133.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000133",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Chicken-thigh rolled tori chashu slices, ajitama and scallion in clear ramen broth, not pork."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "6cc5d0f4db09f0a81d5f631e17f160fbce011afe81f317618e48b1c8a660520b",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Chicken-thigh rolled tori chashu slices, ajitama and scallion in clear ramen broth, not pork."
+      }
+    },
+    {
+      "id": "recipe_000134_artwork",
+      "path": "assets/recipe_artwork/recipe_000134.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000134",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Many small cooked shirasu whitebait fish on rice around pasteurized egg yolk with nori and scallion."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "17209872c7889439cad0f85df6b48642252f2af3066a55faf8afeaf2e7b6d39f",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Many small cooked shirasu whitebait fish on rice around pasteurized egg yolk with nori and scallion."
+      }
+    },
+    {
+      "id": "recipe_000135_artwork",
+      "path": "assets/recipe_artwork/recipe_000135.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000135",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Scored fried purple eggplant halves steeping in soy-dashi broth with grated daikon and ginger."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "22148a2f3420e79ce34e16f5554cd49f2f97e151d1b277ba7abfe667c2b05052",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Scored fried purple eggplant halves steeping in soy-dashi broth with grated daikon and ginger."
+      }
+    },
+    {
+      "id": "recipe_000136_artwork",
+      "path": "assets/recipe_artwork/recipe_000136.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000136",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Rectangular grilled tofu skewers with smooth dark sweet miso glaze and sesame."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000035",
+          "recipe_000045"
+        ],
+        "imageSha256": "8ac65046d98d638c5d2fc0fba68678830a50c09abdaa2e89ed400373a8b31e7c",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Rectangular grilled tofu skewers with smooth dark sweet miso glaze and sesame."
+      }
+    },
+    {
+      "id": "recipe_000137_artwork",
+      "path": "assets/recipe_artwork/recipe_000137.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000137",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Thick wok-fried udon strands with carrot, cabbage and katsuobushi, no soup."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000035",
+          "recipe_000045"
+        ],
+        "imageSha256": "0073ca588b73ec311a9cdee560b3ceedc6eda8906c4925a5ee104dd7d655e128",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Thick wok-fried udon strands with carrot, cabbage and katsuobushi, no soup."
+      }
+    },
+    {
+      "id": "recipe_000138_artwork",
+      "path": "assets/recipe_artwork/recipe_000138.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000138",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Pork belly, daikon, carrot, tofu and green scallion in tan miso-dashi soup."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "a64a97c81628975658ae8c096b0e722a15fe18656a433ef35b04a2afeea6fa4c",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Pork belly, daikon, carrot, tofu and green scallion in tan miso-dashi soup."
+      }
+    },
+    {
+      "id": "recipe_000139_artwork",
+      "path": "assets/recipe_artwork/recipe_000139.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000139",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Thick bright-orange kabocha cubes retaining dark green skin in reduced dashi-soy sauce."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "3987d914ce95b6c41bbf5a61c78352c89ecaef5cdf1c5420b8016aabc518b094",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Thick bright-orange kabocha cubes retaining dark green skin in reduced dashi-soy sauce."
+      }
+    },
+    {
+      "id": "recipe_000140_artwork",
+      "path": "assets/recipe_artwork/recipe_000140.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000140",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Many alternating thin green matcha crepes and light matcha cream layers in a sliced round cake."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "1725c1a4c56be19cc90229aa49cba71d7b784676f84db5bdf58ab661a1a4c737",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Many alternating thin green matcha crepes and light matcha cream layers in a sliced round cake."
+      }
+    },
+    {
+      "id": "recipe_000141_artwork",
+      "path": "assets/recipe_artwork/recipe_000141.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000141",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Smooth grey black-sesame pudding in glasses with whipped cream and toasted black sesame."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "ff1f11e0052af2afef67eba97e6d5a991d7c418f4c504b5a2d445277f01f31b8",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Smooth grey black-sesame pudding in glasses with whipped cream and toasted black sesame."
+      }
+    },
+    {
+      "id": "recipe_000142_artwork",
+      "path": "assets/recipe_artwork/recipe_000142.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000142",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Pale green matcha mochi skin with enclosed dark smooth red-bean anko center, one cut open."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "ada45512d5a19f4926d92f496ed64263e06a1d68af185d3e0d32e578aef46909",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Pale green matcha mochi skin with enclosed dark smooth red-bean anko center, one cut open."
+      }
+    },
+    {
+      "id": "recipe_000143_artwork",
+      "path": "assets/recipe_artwork/recipe_000143.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000143",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Golden shortcrust tartlets filled with vanilla custard and bright strawberry, kiwi, berries and mandarin."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "e949eaa2bc407880edeb7357efd2ff64cce607742e0c73451a50f66f917c7c96",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Golden shortcrust tartlets filled with vanilla custard and bright strawberry, kiwi, berries and mandarin."
+      }
+    },
+    {
+      "id": "recipe_000144_artwork",
+      "path": "assets/recipe_artwork/recipe_000144.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000144",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Baked golden soufflé cheese tarts with shortcrust shells, fluffy softly domed centers and cut-open pale filling."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "d9a4d2ce4219957f185e10c5638e1fbc7bf9574ff5af6f3d8b0340a5c9f24fc9",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Baked golden soufflé cheese tarts with shortcrust shells, fluffy softly domed centers and cut-open pale filling."
+      }
+    },
+    {
+      "id": "recipe_000145_artwork",
+      "path": "assets/recipe_artwork/recipe_000145.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000145",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Cracked flower-like golden fried Okinawan sata andagi balls with visible tender interiors."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "452d8b8ceabb71c8d5e728d1226bbadfda2af0bb55fa84409d3de3d46414ed54",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Cracked flower-like golden fried Okinawan sata andagi balls with visible tender interiors."
+      }
+    },
+    {
+      "id": "recipe_000146_artwork",
+      "path": "assets/recipe_artwork/recipe_000146.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000146",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Deep-red raw sushi-grade tuna sashimi slices on seasoned rice with wasabi, nori, chives and soy."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "4932c43890fc08f90c09a41f282930f7a1a3207b35a53026e2481f32e2110dde",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Deep-red raw sushi-grade tuna sashimi slices on seasoned rice with wasabi, nori, chives and soy."
+      }
+    },
+    {
+      "id": "recipe_000147_artwork",
+      "path": "assets/recipe_artwork/recipe_000147.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000147",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Dense charcoal-black sesame ramen broth with cooked minced pork, egg, sprouts and green scallion."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "e4807e9d84be6f1038e668900fb0c60c88c404ae226b7a38b96c157c24bd9252",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Dense charcoal-black sesame ramen broth with cooked minced pork, egg, sprouts and green scallion."
+      }
+    },
+    {
+      "id": "recipe_000148_artwork",
+      "path": "assets/recipe_artwork/recipe_000148.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000148",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Whole caramelized scored grilled squid body with tentacles, teriyaki glaze and shichimi plus mayonnaise."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000035",
+          "recipe_000045"
+        ],
+        "imageSha256": "5734fd9beb26e5442e2ac7d299832c283584349ec6881d50e10cfa2eff569874",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Whole caramelized scored grilled squid body with tentacles, teriyaki glaze and shichimi plus mayonnaise."
+      }
+    },
+    {
+      "id": "recipe_000149_artwork",
+      "path": "assets/recipe_artwork/recipe_000149.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000149",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Separated sautéed rice grains with shredded cooked crab, soft egg and green scallion."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000035",
+          "recipe_000045"
+        ],
+        "imageSha256": "4abc2ea25af22d9286bbedc4bc561ed5ac088611325a42cb0ce989b0c055aee1",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Separated sautéed rice grains with shredded cooked crab, soft egg and green scallion."
+      }
+    },
+    {
+      "id": "recipe_000150_artwork",
+      "path": "assets/recipe_artwork/recipe_000150.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000150",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Buckwheat soba noodles with cooked duck slices and deeply grilled long Japanese leek in hot dashi."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "fd90104996f2c8ff34513d6e662d8374b45ce8aecd1c548de35e56548bd437fa",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Buckwheat soba noodles with cooked duck slices and deeply grilled long Japanese leek in hot dashi."
+      }
+    },
+    {
+      "id": "recipe_000151_artwork",
+      "path": "assets/recipe_artwork/recipe_000151.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000151",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Folded fluffy steamed white clamshell buns filled with glossy pork chashu, cucumber and scallion. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "034a66984405513fb12c48b54e2878cca592241253fc09157e9cee260ded2a2a",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Folded fluffy steamed white clamshell buns filled with glossy pork chashu, cucumber and scallion. Localization-only update, artwork bytes and canonical food composition unchanged."
+      }
+    },
+    {
+      "id": "recipe_000152_artwork",
+      "path": "assets/recipe_artwork/recipe_000152.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000152",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Japanese curry-gratin with rice, meat cubes, melted cheese, toasted panko and a central baked egg."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000035",
+          "recipe_000045"
+        ],
+        "imageSha256": "68d08e5c431e6eaf33b8aa1d8b1a88da5b43ca259b2eab4f6a7cba4664fef779",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Japanese curry-gratin with rice, meat cubes, melted cheese, toasted panko and a central baked egg."
+      }
+    },
+    {
+      "id": "recipe_000154_artwork",
+      "path": "assets/recipe_artwork/recipe_000154.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000154",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Thick udon in vegetarian kombu broth with crumbled tofu, daikon, carrot and shiitake."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "3c464142fdc7ba523b45273aedf28a50484a2df84809976b9f7790cae9a42da8",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Thick udon in vegetarian kombu broth with crumbled tofu, daikon, carrot and shiitake."
+      }
+    },
+    {
+      "id": "recipe_000156_artwork",
+      "path": "assets/recipe_artwork/recipe_000156.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000156",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 9,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Ramen noodles in light dashi broth with opened live-cooked asari clam shells, corn, scallion and butter. Localization-only repair 2026-11-27: canonical Italian recipe, quantities, step identities and actual image bytes remain unchanged; prior food depiction reviewed at previous version."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 9,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000025",
+          "recipe_000050"
+        ],
+        "imageSha256": "4103c2ab6ad09fd72db46a3c5d918f4dbd2de3486217405968bbf3b5c96937fb",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Ramen noodles in light dashi broth with opened live-cooked asari clam shells, corn, scallion and butter. Localization-only update, artwork bytes and canonical food composition unchanged."
+      }
+    },
+    {
+      "id": "recipe_000157_artwork",
+      "path": "assets/recipe_artwork/recipe_000157.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000157",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Halved grilled eggplants with scored flesh, caramelized miso glaze and sesame, without soup."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000005",
+          "recipe_000035",
+          "recipe_000045"
+        ],
+        "imageSha256": "db453c36f31cd038127aae22878165716db9d72910d0dbfb00f5e1d925451b62",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Halved grilled eggplants with scored flesh, caramelized miso glaze and sesame, without soup."
+      }
+    },
+    {
+      "id": "recipe_000158_artwork",
+      "path": "assets/recipe_artwork/recipe_000158.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000158",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Tall aerated light-green matcha ring chiffon cake with cut piece showing fine sponge interior."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "f9dafc062bc387dd5bb1fe71bb17b23d37872b068f1654a4137d7fe6bdf2c8ab",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Tall aerated light-green matcha ring chiffon cake with cut piece showing fine sponge interior."
+      }
+    },
+    {
+      "id": "recipe_000159_artwork",
+      "path": "assets/recipe_artwork/recipe_000159.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000159",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 5,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Chestnut-shaped baked kuri manju shell with a whole chestnut surrounded by white-bean shiroan."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 5,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "750525502a4b4d87f017913191a3643c6834970979782bf69a50c653a09aec03",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Chestnut-shaped baked kuri manju shell with a whole chestnut surrounded by white-bean shiroan."
+      }
+    },
+    {
+      "id": "recipe_000160_artwork",
+      "path": "assets/recipe_artwork/recipe_000160.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000160",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Separate cubes of dark coffee jelly in glass topped with vanilla ice cream and whipped cream."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "655d2c23426d3e603af24b0f2d60eee117c47cc6f64a9c6637ea5f47a8db4a95",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Separate cubes of dark coffee jelly in glass topped with vanilla ice cream and whipped cream."
+      }
+    },
+    {
+      "id": "recipe_000161_artwork",
+      "path": "assets/recipe_artwork/recipe_000161.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000161",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 6,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Harajuku rolled paper-cone crepe with whipped cream, fresh strawberries, bananas and chocolate drizzle."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 6,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "01b443bdd7b2e3ffc14410c025fbbcf33a391f700773a0f9be72a206cb935414",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Harajuku rolled paper-cone crepe with whipped cream, fresh strawberries, bananas and chocolate drizzle."
+      }
+    },
+    {
+      "id": "recipe_000162_artwork",
+      "path": "assets/recipe_artwork/recipe_000162.jpg",
+      "rights": "original",
+      "recipeId": "recipe_000162",
+      "semanticReview": {
+        "status": "approved",
+        "reviewedContentVersion": 7,
+        "reviewedAt": "2026-11-27",
+        "note": "Original 2D anime food illustration visually examined against the canonical Italian recipe: Light citrus-yellow icy yuzu sorbet scoops with citrus garnish and small mint leaf."
+      },
+      "styleReview": {
+        "status": "approved",
+        "guideVersion": "CA-ART-v1",
+        "reviewedContentVersion": 7,
+        "referenceIds": [
+          "recipe_000020",
+          "recipe_000035",
+          "recipe_000050"
+        ],
+        "imageSha256": "377522a41c50d0ed56ebc5f9d5cdb380374b368fb8d6372f16c8e29f1934b42f",
+        "reviewedAt": "2026-11-27",
+        "note": "900x900 individual JPEG, checked visually against actual 001–050 artwork references and exact recipe-specific food facts. Light citrus-yellow icy yuzu sorbet scoops with citrus garnish and small mint leaf."
+      }
     }
   ]
 }

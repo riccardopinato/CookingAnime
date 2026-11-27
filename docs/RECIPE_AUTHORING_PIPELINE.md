@@ -97,7 +97,9 @@ F3E image budget:
 
 `tool/optimize_recipe_artwork.py` performs deterministic build-time recompression with pinned Pillow. Standard validation checks the committed bytes without requiring Pillow.
 
-`tool/build_recipe_artwork_queue.py --missing-only` produces a deterministic batch queue containing the canonical dish title, inspiration, ingredients, steps, expected asset ID/path and rendering contract. The assistant uses that queue as the source for batch image creation/review instead of rediscovering each recipe ad hoc.
+`tool/build_recipe_artwork_queue.py --missing-only` produces a deterministic batch queue containing the canonical dish title, inspiration, ingredients, steps, expected asset ID/path and rendering contract.
+
+**Style contract (2026-11-27):** `docs/ARTWORK_STYLE_GUIDE_v1.md` governs every new or replacement image using source reference JPEGs 001–050; the queue includes guide version, visual positives/negatives and reference IDs. The independent `python3 tool/artwork_style_gate.py` CI step requires a file-SHA- and recipe-version-bound `styleReview` for each **new** recipe artwork 101+ and for **any replacement of a legacy 001–100 JPEG**, detected against a pinned Git blob snapshot. Legacy files with unchanged bytes remain exempt. This metadata gate is not automated image recognition. The known image rework queue is `authoring/artwork/rework_queue_20261127.json`, and none of its images is considered corrected until a real replacement has been inspected and merged. The assistant uses that queue as the source for batch image creation/review instead of rediscovering each recipe ad hoc.
 
 The compiler additionally rejects orphan artwork entries, cross-recipe asset links, stale semantic approvals, oversized files, undersized files and invalid JPEGs.
 

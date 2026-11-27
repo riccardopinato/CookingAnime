@@ -3772,7 +3772,7 @@
         "step_7": "Mettez dans une casserole, réchauffez le bouillon de poulet avec du lait de soja sans le faire bouillir fort pour éviter que le lait ne chie.",
         "step_8": "Ajoutez le bouillon chaud dans les bols et amalgamez bien avec le fouet pour dissoudre la pâte de sésame au fond.",
         "step_9": "Fais cuire les nouilles ramen 2 minutes dans l’eau bouillante, égoutte-les soigneusement et dépose-les dans le bouillon.",
-        "step_10": "Garnissez au centre avec une généreuse cuillère à soupe de viande épicée, les feuilles de bok choy molletées et une soupe d'cébettes fraîches hachés."
+        "step_10": "Garnissez le centre d'une généreuse cuillerée de viande épicée, de feuilles de bok choy blanchies et d'une pincée de cébette fraîche hachée."
       }
     },
     "recipe_000072": {
@@ -4180,7 +4180,7 @@
         "step_6": "Dans le même wok, unissez un fil d'huile, faites cuire à bas feu l'ail, le gingembre et la pâte piquante Doubanjiang jusqu'à ce qu'ils libèrent leurs arômes.",
         "step_7": "Ajoutez le ketchup, le bouillon de poulet, la sauce soja et le sucre.",
         "step_8": "Emmène à la bulle, puis ajoute l'amidon dissous dans une cuillère à soupe d'eau pour faire épaissir la sauce.",
-        "step_9": "Remettez les crevettes dans la poêle avec la cébette haché, sautez pendant 1 minute pour les enrouler complètement dans la sauce brillante et épicée.",
+        "step_9": "Remettez les crevettes dans la poêle avec la cébette hachée et faites-les sauter 1 minute pour bien les enrober de sauce brillante et épicée.",
         "step_10": "Servez-vous avec du riz blanc tout de suite."
       }
     },
@@ -4394,7 +4394,7 @@
         "step_1": "Dans une casserole, Nabe (ou grand pot) mets l'eau, l'algue Kombu et les morceaux de poulet avec l'os.",
         "step_2": "Il conduit à ébullition lente à feu moyen en éliminant constamment la mousse à la surface avec une mousse pour obtenir un bouillon limpide et riche.",
         "step_3": "Après 20 minutes, retirez l'algue Kombu, ajoutez le Sake et laissez cuire le poulet pendant 15 minutes jusqu'à ce que la viande devienne tendre et le bouillon blanc opalescent.",
-        "step_4": "Joignez le chou chinois coupé en morceaux, les champignons Shiitake gravés en étoile, les cébettes et le tofu en cubes.",
+        "step_4": "Ajoutez le chou chinois coupé en morceaux, les shiitakés entaillés en étoile, les cébettes et le tofu en dés.",
         "step_5": "Faites cuire pendant 8-10 minutes jusqu'à ce que les légumes soient tendres.",
         "step_6": "Mets la casserole au milieu de la table.",
         "step_7": "Chaque commensale prélève des morceaux de poulet et de légumes dans la sauce Ponzu fraîche."
@@ -4808,7 +4808,7 @@
       "stepTexts": {
         "step_1": "Prépare le tare : chauffe doucement la sauce soja, le mirin, le gingembre et l’ail dans une petite casserole pendant 3 minutes, puis filtre.",
         "step_2": "Réchauffez le bouillon de poulet ou de dashi jusqu'à ce qu'il soit léger et tenez-le prêt sans le faire trop réduire.",
-        "step_3": "Préparez les toppings avant les nouilles: coupez le chashu, coupez en moitié l'ajitama, hachez l'cébettes et portionnez narutomaki et nori.",
+        "step_3": "Préparez les garnitures avant les nouilles : tranchez le chashu, coupez l’œuf ajitama en deux, émincez la cébette et répartissez le narutomaki et le nori.",
         "step_4": "Verse le tare au fond de deux bols à ramen préchauffés, ajoute le bouillon brûlant et mélange pour répartir l’assaisonnement.",
         "step_5": "Faites cuire les nouilles fraîches dans beaucoup d'eau bouillante pendant environ 2 minutes ou pendant le temps indiqué par le fabricant; faites-les cuire avec soin sans les rincer.",
         "step_6": "Transférez immédiatement les nouilles dans le bouillon et séparez-les avec les baguettes pour qu'elles ne restent pas entassées.",
@@ -6653,7 +6653,7 @@
         }
       },
       "stepTexts": {
-        "step_1": "Préparez le mentsuyu et laissez-le refroidir complètement au réfrigérateur; tranche concombre, cébette et nori et gardez le tenkasu sec jusqu'au service.",
+        "step_1": "Préparez le mentsuyu et laissez-le refroidir complètement au réfrigérateur. Émincez le concombre et la cébette, découpez le nori en lanières et gardez le tenkasu au sec jusqu’au service.",
         "step_2": "Fais cuire les nouilles udon dans une grande quantité d’eau bouillante jusqu’à ce qu’elles soient souples, mais encore fermes.",
         "step_3": "Écolez-les et refroidissez-les immédiatement sous l'eau courante très froide, puis passez-les dans l'eau et la glace pour arrêter complètement la cuisson.",
         "step_4": "Égoutte soigneusement les nouilles udon et secoue-les : l’eau résiduelle diluerait le mentsuyu.",
@@ -7634,7 +7634,7 @@
         "step_6": "Spennelle la surface avec peu d'huile et plie chaque disque en moitié, en forme de coquille, en insérant un morceau de papier four à l'intérieur pour éviter qu'il ne se solde.",
         "step_7": "Laissez reposer les sandwichs pendant 15 minutes, puis faites cuire dans le panier à vapeur pendant environ 12 minutes à feu moyen.",
         "step_8": "Ouvrez doucement les sandwichs chauds, éliminez le papier four intérieur.",
-        "step_9": "Faites avec des tranches de Chashu bien glaciées avec sa sauce, des tranches de concombre frais, des cébettes et un fil de mayonnaise."
+        "step_9": "Garnissez les pains vapeur de tranches de chashu nappées de sauce, de rondelles de concombre frais, de cébette et d’un filet de mayonnaise."
       }
     },
     "recipe_000152": {
@@ -7899,7 +7899,7 @@
         "step_5": "Réchauffez bien le bouillon aux palourdes sans le réduire trop.",
         "step_6": "Faites cuire les nouilles pour ramen dans beaucoup d'eau bouillante pendant 2 minutes et égouttez.",
         "step_7": "Distribuez les nouilles dans les bols et couvrez-les avec le bouillon chaud aux palourdes.",
-        "step_8": "Adagia au-dessus des palourdes dans la coquille, le maïs et la cébette fraîche; elle complète avec une noix de beurre, qui se dissout en liant le bouillon marin."
+        "step_8": "Disposez les palourdes dans leurs coquilles, le maïs et la cébette fraîche sur les nouilles. Terminez par une noix de beurre qui enrichira le bouillon en fondant."
       }
     },
     "recipe_000157": {

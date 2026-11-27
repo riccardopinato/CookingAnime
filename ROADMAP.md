@@ -1,5 +1,10 @@
 # Roadmap
 
+## Maxi-step 1 — guided cooking + intelligent shopping (PR #92)
+
+Authorized user scope 2026-11-27: dedicated guided cooking flow; locally persisted progress/timer tied to stable recipe step IDs; screen-on only while cooking; from-recipe shopping addition with scalable quantities, conservative same-unit aggregation, user-editable categories and retrocompatibility. Six app locales updated. Design-App/RXN native visual adaptation for progress ring, restrained editorial card polish. Source/risks and expected tests: [MAXISTEP1_COOKING_SHOPPING_2026_11_27.md](docs/MAXISTEP1_COOKING_SHOPPING_2026_11_27.md). Exact-head development/emulator gates and verified merge determine implementation status; physical-device acceptance and background notifications are distinct future work.
+
+
 > **Current cross-app baseline resolved 2026-10-29:** App Factory Core **Master v27 ACTIVE** / Golden Index **v23** (`174a05e165076c9e4b2d61a20acd85ca6b215f12`); AppLab **v6.2 SELF_CANARY** (`636490e58d38c3910eb168197cde72adb9cdb3f9`). Resolve `CURRENT.yaml` again only on explicit/core update; old Factory v26.6 pointers are historical.
 >
 > **Detailed current execution roadmap:** [Factory v27 / AppLab v6.2 — Cooking Anime, 29 October 2026](docs/ROADMAP_FACTORY_V27_APPLAB_V62_2026-10-29.md). **Active P0:** unblock PR #41 F3K 101 short descriptions + F3L two semantic warnings, then exact-head CI and verified merge. Next: qualified culinary/translation review, gated runtime promotion, then new recipe images matching the first 50, then scoped monetization/release.

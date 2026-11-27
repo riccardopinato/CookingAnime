@@ -1,7 +1,7 @@
 {
   "authoringVersion": 1,
   "id": "recipe_000076",
-  "contentVersion": 5,
+  "contentVersion": 6,
   "status": "published",
   "inspirationTitle": "Demon Slayer (Kimetsu no Yaiba)",
   "animeReferences": [
@@ -32,7 +32,7 @@
   "difficulty": "easy",
   "contentOrigin": "adapted",
   "sourceNote": "Editorial rebuild from user-provided Ricettario Vol. 8; raw source prose remains transient and is not committed. F3K_F3L_SOURCE_LOCKED_FAST_TRACK_20261119.",
-  "imageAssetId": null,
+  "imageAssetId": "recipe_000076_artwork",
   "ingredients": [
     {
       "id": "tofu_fermo",
@@ -188,7 +188,7 @@
         "step_6": "Fry in hot oil at 180°C for 3-4 minutes until the outer crust becomes white and crispy.",
         "step_7": "Place hot fried tofu cubes in individual bowls.",
         "step_8": "Gently add the hot broth around the tofu (without covering it entirely to avoid softening the crust).",
-        "step_9": "Garnish the top of each cube with a grated Daikon bow, a pinch of ginger, spring onion and Katsuobushi flakes."
+        "step_9": "Garnish each tofu cube with a small mound of grated daikon, a pinch of ginger, spring onion and katsuobushi flakes."
       }
     },
     "it": {
