@@ -57,12 +57,14 @@ VISUAL_FACTS = {
 }
 
 STYLE = (
-    "Create ONE original premium anime-inspired FOOD illustration, consistent "
-    "with the approved Cooking Anime 1-50 culinary art collection. "
-    "Close food-first framing, warm appetizing light, painterly highlights, "
-    "delicious glossy textures, crisp readable silhouette, minimal background, "
-    "balanced plate geometry, restrained editorial Japanese-contemporary feel. "
-    "Match overall art direction, not any protected animation studio or character."
+    "Create ONE original 2D anime-inspired FOOD illustration. Follow "
+    "docs/ARTWORK_STYLE_GUIDE_v1.md and the actual Cooking Anime 1-50 "
+    "reference corpus: hand-painted contours, simplified plausible food "
+    "materials, controlled cel-shading, readable hero dish and restrained "
+    "warm supporting background. Preserve canonical Italian ingredient and "
+    "preparation facts. Reject photorealism, 3D, plastic shine, heavy bokeh, "
+    "busy scenery, unrelated garnishes and identical repeated tableware. "
+    "No copied modern animation stills, characters, text or logos."
 )
 
 
@@ -70,8 +72,11 @@ def load_json(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def build(root: Path = ROOT, *, pilot_only: bool = True) -> dict:
+def build(root: Path = ROOT, *, pilot_only: bool = True, rework_only: bool = False) -> dict:
     manifest = load_json(root / "authoring/assets/manifest.json")
+    rework = {x["recipeId"]: x for x in
+              load_json(root / "authoring/artwork/rework_queue_20261127.json")["items"]
+              if x["status"] == "NEEDS_REGENERATION_NOT_CERTIFIED"}
     approved = [asset for asset in manifest["assets"]
                 if asset.get("semanticReview", {}).get("status") == "approved"]
     refs = sorted(asset["path"] for asset in approved
@@ -87,7 +92,8 @@ def build(root: Path = ROOT, *, pilot_only: bool = True) -> dict:
         "variantsPerRecipe": 2,
     }
     profile = reference_profile(root, adapter)
-    targets = PILOT_IDS if pilot_only else tuple(range(51, 163))
+    targets = (tuple(sorted(int(rid.split("_")[-1]) for rid in rework))
+               if rework_only else PILOT_IDS if pilot_only else tuple(range(51, 163)))
     integrated_in_catalog = {
         a["recipeId"] for a in manifest["assets"]
         if 51 <= int(a["recipeId"].split("_")[-1]) <= 162
@@ -108,11 +114,15 @@ def build(root: Path = ROOT, *, pilot_only: bool = True) -> dict:
                     or asset["semanticReview"]["reviewedContentVersion"]
                        != recipe["contentVersion"]):
                 raise ValueError(f"stale/missing approved artwork: {recipe_id}")
-            skipped_integrated.append(recipe_id)
-            continue
+            if not (rework_only and recipe_id in rework):
+                skipped_integrated.append(recipe_id)
+                continue
         localized = recipe["locales"]["it"]
         visual = VISUAL_FACTS.get(number)
-        if visual:
+        if rework_only and recipe_id in rework:
+            positive = [rework[recipe_id]["positive"]]
+            negative = [rework[recipe_id]["negative"]]
+        elif visual:
             positive, negative = visual
         else:
             positive = [
@@ -132,11 +142,14 @@ def build(root: Path = ROOT, *, pilot_only: bool = True) -> dict:
                 for entry in recipe["ingredients"]
             ],
             "visualFacts": {"positive": positive, "negative": negative},
-            "domainReview": "SOURCE_GROUNDED_PILOT" if visual else "REQUIRES_DOMAIN_REVIEW",
+            "domainReview": ("SOURCE_GROUNDED_REWORK" if rework_only and recipe_id in rework
+                             else "SOURCE_GROUNDED_PILOT" if visual else "REQUIRES_DOMAIN_REVIEW"),
             "sourceStepCount": len(recipe["steps"]),
         })
     output = plan_items(adapter, profile, specs)
     output["domain"] = "food_recipe"
+    output["reworkOnly"] = rework_only
+    output["reworkIds"] = sorted(rework) if rework_only else []
     output["assetPolicy"] = adapter["assetPolicy"]
     output["styleProfile"] = profile
     output["pilotIds"] = [f"recipe_{n:06d}" for n in PILOT_IDS]
@@ -160,9 +173,12 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=ROOT)
     parser.add_argument("--all", action="store_true", help="Plan 112 recipes, no generation")
+    parser.add_argument("--rework-only", action="store_true",
+                        help="Plan flagged existing 80/81/83 and 91-100 instead of missing artwork")
     parser.add_argument("--output", type=Path, default=ROOT / "build/visual_batch/cooking_pilot.json")
     args = parser.parse_args()
-    result = build(args.root, pilot_only=not args.all)
+    result = build(args.root, pilot_only=not args.all,
+                   rework_only=args.rework_only)
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({

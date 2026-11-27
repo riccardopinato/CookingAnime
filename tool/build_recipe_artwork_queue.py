@@ -12,6 +12,8 @@ from recipe_authoring_lib import (
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "authoring" / "catalog.json"
+STYLE_POLICY = ROOT / "authoring" / "artwork" / "style_policy.json"
+REWORK_QUEUE = ROOT / "authoring" / "artwork" / "rework_queue_20261127.json"
 
 
 def build_queue(
@@ -21,11 +23,17 @@ def build_queue(
     default_locale: str,
     ids: set[str] | None = None,
     missing_only: bool = False,
+    rework_only: bool = False,
 ) -> list[dict]:
+    style = load_json(STYLE_POLICY)
+    rework = {item["recipeId"]: item for item in load_json(REWORK_QUEUE)["items"]
+              if item["status"] == "NEEDS_REGENERATION_NOT_CERTIFIED"}
     queue: list[dict] = []
     for recipe in sorted(recipes, key=lambda item: str(item["id"])):
         recipe_id = str(recipe["id"])
         if ids is not None and recipe_id not in ids:
+            continue
+        if rework_only and recipe_id not in rework:
             continue
 
         asset_id = recipe.get("imageAssetId")
@@ -37,7 +45,7 @@ def build_queue(
             and review.get("reviewedContentVersion")
             == recipe.get("contentVersion")
         )
-        if missing_only and approved:
+        if missing_only and approved and recipe_id not in rework:
             continue
 
         localized = recipe["locales"][default_locale]
@@ -65,6 +73,12 @@ def build_queue(
                 ],
                 "currentAssetId": asset_id,
                 "artworkApproved": approved,
+                "artworkReworkRequested": recipe_id in rework,
+                "artworkReworkPriority": rework.get(recipe_id, {}).get("priority"),
+                "requiredVisualFacts": ({
+                    "positive": rework[recipe_id]["positive"],
+                    "negative": rework[recipe_id]["negative"],
+                } if recipe_id in rework else None),
                 "expectedAssetId": f"{recipe_id}_artwork",
                 "expectedPath": (
                     f"assets/recipe_artwork/{recipe_id}.jpg"
@@ -73,6 +87,12 @@ def build_queue(
                     "singleAsset": True,
                     "card": "same asset cropped by UI with BoxFit.cover",
                     "detail": "same asset shown uncropped with BoxFit.contain",
+                    "styleGuide": style["guidePath"],
+                    "styleGuideVersion": style["guideVersion"],
+                    "referenceArtworkIds": style["referenceIds"],
+                    "positiveVisualDirection": style["renderingPositive"],
+                    "negativeVisualDirection": style["renderingNegative"],
+                    "visualReviewBeforeApproval": True,
                 },
                 "semanticReviewRequired": True,
             }
@@ -86,6 +106,8 @@ def main() -> int:
     )
     parser.add_argument("--ids", nargs="*")
     parser.add_argument("--missing-only", action="store_true")
+    parser.add_argument("--rework-only", action="store_true",
+                        help="Include only currently flagged art even when historically approved")
     parser.add_argument(
         "--output",
         type=Path,
@@ -109,6 +131,7 @@ def main() -> int:
         default_locale=str(config["defaultLocale"]),
         ids=set(args.ids) if args.ids else None,
         missing_only=args.missing_only,
+        rework_only=args.rework_only,
     )
     output = args.output.resolve()
     write_json(

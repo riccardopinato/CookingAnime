@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "guideVersion": "CA-ART-v1",
+  "guidePath": "docs/ARTWORK_STYLE_GUIDE_v1.md",
+  "enforceFromRecipeNumber": 101,
+  "referenceIds": [
+    "recipe_000005",
+    "recipe_000020",
+    "recipe_000025",
+    "recipe_000035",
+    "recipe_000045",
+    "recipe_000050"
+  ],
+  "minimumReferencesPerReview": 3,
+  "renderingPositive": "Original 2D anime-inspired culinary illustration, hand-painted edges, restrained cel-shading, faithful recipe ingredients, dish first, warm but controlled light, simplified supportive background.",
+  "renderingNegative": "Photoreal photography, 3D surface materials, plastic-like sauce shine, cinematic bokeh, busy landscape, wrong dish or protein, same blue-floral bowls everywhere, text, watermarks, anime franchise frames or characters."
+}
