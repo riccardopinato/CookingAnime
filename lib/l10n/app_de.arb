@@ -78,5 +78,14 @@
   "shoppingServings": "Portionen zubereiten",
   "shoppingLessServings": "Weniger Portionen",
   "shoppingMoreServings": "Mehr Portionen",
-  "shoppingAddedFromRecipe": "Zutaten zur Einkaufsliste hinzugefügt."
+  "shoppingAddedFromRecipe": "Zutaten zur Einkaufsliste hinzugefügt.",
+  "cookingStepLabel": "Schritt",
+  "cookingProgressLabel": "Fortschritt",
+  "cookingPrevious": "Zurück",
+  "cookingNext": "Weiter",
+  "cookingMarkDone": "Als erledigt markieren",
+  "cookingMarkedDone": "Schritt erledigt",
+  "cookingResetProgress": "Kochfortschritt zurücksetzen",
+  "cookingTimerAlreadyRunning": "Ein Timer läuft bereits. Pausiere ihn oder setze ihn zurück, bevor du einen weiteren startest.",
+  "cookingTimerForegroundNotice": "Timer laufen in der App; bei geschlossener App werden keine Benachrichtigungen gesendet."
 }

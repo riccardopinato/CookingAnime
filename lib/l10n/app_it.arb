@@ -78,5 +78,14 @@
   "shoppingServings": "Porzioni da preparare",
   "shoppingLessServings": "Diminuisci porzioni",
   "shoppingMoreServings": "Aumenta porzioni",
-  "shoppingAddedFromRecipe": "Ingredienti aggiunti alla lista della spesa."
+  "shoppingAddedFromRecipe": "Ingredienti aggiunti alla lista della spesa.",
+  "cookingStepLabel": "Passaggio",
+  "cookingProgressLabel": "Progresso",
+  "cookingPrevious": "Precedente",
+  "cookingNext": "Successivo",
+  "cookingMarkDone": "Segna come completato",
+  "cookingMarkedDone": "Passaggio completato",
+  "cookingResetProgress": "Ricomincia la preparazione",
+  "cookingTimerAlreadyRunning": "C'è già un timer attivo: mettilo in pausa o azzeralo prima di avviarne un altro.",
+  "cookingTimerForegroundNotice": "I timer sono visibili nell'app; non inviano notifiche quando l'app è chiusa."
 }

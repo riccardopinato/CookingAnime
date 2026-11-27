@@ -78,5 +78,14 @@
   "shoppingServings": "Raciones que preparar",
   "shoppingLessServings": "Menos raciones",
   "shoppingMoreServings": "Más raciones",
-  "shoppingAddedFromRecipe": "Ingredientes añadidos a la lista de la compra."
+  "shoppingAddedFromRecipe": "Ingredientes añadidos a la lista de la compra.",
+  "cookingStepLabel": "Paso",
+  "cookingProgressLabel": "Progreso",
+  "cookingPrevious": "Anterior",
+  "cookingNext": "Siguiente",
+  "cookingMarkDone": "Marcar como completado",
+  "cookingMarkedDone": "Paso completado",
+  "cookingResetProgress": "Reiniciar preparación",
+  "cookingTimerAlreadyRunning": "Ya hay un temporizador activo. Páusalo o reinícialo antes de iniciar otro.",
+  "cookingTimerForegroundNotice": "Los temporizadores funcionan en la app; no envían notificaciones cuando está cerrada."
 }
