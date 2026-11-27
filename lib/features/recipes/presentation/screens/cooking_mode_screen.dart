@@ -3,6 +3,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:wakelock_plus/wakelock_plus.dart';
 
 import '../../../../core/theme/app_design_tokens.dart';
 import '../../../../l10n/app_localizations.dart';
@@ -50,6 +51,7 @@ class _CookingModeScreenState extends State<CookingModeScreen>
   void initState() {
     super.initState();
     WidgetsBinding.instance.addObserver(this);
+    _keepScreenAwake(true);
     _currentStepId = widget.recipe.steps.first.id;
     _load();
   }
@@ -203,14 +205,26 @@ class _CookingModeScreenState extends State<CookingModeScreen>
     _save();
   }
 
+  void _keepScreenAwake(bool enable) {
+    final change = enable ? WakelockPlus.enable() : WakelockPlus.disable();
+    // Platform failures must not break reading or timers (e.g. web preview).
+    unawaited(change.catchError((Object _) {}));
+  }
+
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
-    if (state == AppLifecycleState.resumed && mounted) _tick();
+    if (state == AppLifecycleState.resumed && mounted) {
+      _keepScreenAwake(true);
+      _tick();
+    } else if (state == AppLifecycleState.paused) {
+      _keepScreenAwake(false);
+    }
   }
 
   @override
   void dispose() {
     WidgetsBinding.instance.removeObserver(this);
+    _keepScreenAwake(false);
     _ticker?.cancel();
     _save();
     super.dispose();
@@ -408,6 +422,9 @@ class _CookingModeScreenState extends State<CookingModeScreen>
                       ),
                     ],
                     const SizedBox(height: AppSpacing.large),
+                    Text(l10n.cookingScreenOnNotice,
+                      style: theme.textTheme.bodySmall?.copyWith(color: colors.onSurfaceVariant)),
+                    const SizedBox(height: AppSpacing.small),
                     ExpansionTile(
                       title: Text(l10n.ingredientsTitle),
                       children: [

@@ -93,5 +93,6 @@
   "shoppingCategoryDairy": "Dairy",
   "shoppingCategoryPantry": "Pantry",
   "shoppingCategoryOther": "Uncategorised",
-  "shoppingChangeCategory": "Change category"
+  "shoppingChangeCategory": "Change category",
+  "cookingScreenOnNotice": "Screen stays awake while cooking; normal sleep behavior returns when you exit cooking mode."
 }

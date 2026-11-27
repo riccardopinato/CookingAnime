@@ -93,5 +93,6 @@
   "shoppingCategoryDairy": "Produits laitiers",
   "shoppingCategoryPantry": "Épicerie",
   "shoppingCategoryOther": "À classer",
-  "shoppingChangeCategory": "Changer de catégorie"
+  "shoppingChangeCategory": "Changer de catégorie",
+  "cookingScreenOnNotice": "L'écran reste allumé pendant la préparation ; la veille normale revient à la sortie."
 }

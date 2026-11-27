@@ -93,5 +93,6 @@
   "shoppingCategoryDairy": "Laticínios",
   "shoppingCategoryPantry": "Despensa",
   "shoppingCategoryOther": "Por classificar",
-  "shoppingChangeCategory": "Mudar categoria"
+  "shoppingChangeCategory": "Mudar categoria",
+  "cookingScreenOnNotice": "O ecrã permanece ligado enquanto cozinhas e volta ao modo normal ao sair."
 }

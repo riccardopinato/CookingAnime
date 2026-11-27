@@ -93,5 +93,6 @@
   "shoppingCategoryDairy": "Latte e derivati",
   "shoppingCategoryPantry": "Dispensa",
   "shoppingCategoryOther": "Da classificare",
-  "shoppingChangeCategory": "Cambia categoria"
+  "shoppingChangeCategory": "Cambia categoria",
+  "cookingScreenOnNotice": "Schermo attivo durante la preparazione; si disattiva uscendo dalla modalità cucina."
 }

@@ -93,5 +93,6 @@
   "shoppingCategoryDairy": "Milchprodukte",
   "shoppingCategoryPantry": "Vorrat",
   "shoppingCategoryOther": "Unsortiert",
-  "shoppingChangeCategory": "Kategorie ändern"
+  "shoppingChangeCategory": "Kategorie ändern",
+  "cookingScreenOnNotice": "Der Bildschirm bleibt beim Kochen eingeschaltet. Beim Verlassen gilt wieder die normale Bildschirmzeit."
 }

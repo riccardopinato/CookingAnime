@@ -93,5 +93,6 @@
   "shoppingCategoryDairy": "Lácteos",
   "shoppingCategoryPantry": "Despensa",
   "shoppingCategoryOther": "Sin clasificar",
-  "shoppingChangeCategory": "Cambiar categoría"
+  "shoppingChangeCategory": "Cambiar categoría",
+  "cookingScreenOnNotice": "La pantalla se mantiene encendida mientras cocinas; vuelve al modo normal al salir."
 }
